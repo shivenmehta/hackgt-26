@@ -107,3 +107,8 @@ pulling dependency changes, run `npm ci`. Keep API experiments in separate branc
 [HackGT 13 pre-event packet](https://hexlabs.notion.site/HackGT-13-Pre-Event-Packet-cf10438064318246b668017b1b3030e4)
 
 Confirm event rules on advance preparation before reusing code in a submission.
+
+## Bridge weekly planner
+
+The frontend now includes an interactive sample meal planner. See [BRIDGE.md](BRIDGE.md)
+for the demo flow, design, limitations, and validation commands.

@@ -6,7 +6,7 @@ async function main() {
   const apiKey = getApiKey();
   const params = new URLSearchParams({
     api_key: apiKey,
-    query: process.argv[2] ?? "roti",
+    query: process.argv[2] ?? "tacos",
     pageSize: "10",
     dataType: "Foundation",
   });
