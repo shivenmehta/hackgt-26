@@ -1,0 +1,814 @@
+{
+  "name": "Alaska Pollock, raw",
+  "fetchedAt": "2026-09-26T01:01:32.857Z",
+  "source": "USDA FoodData Central",
+  "food": {
+    "fdcId": 2768188,
+    "description": "Alaska Pollock, raw",
+    "dataType": "Foundation",
+    "publicationDate": "2026-04-30",
+    "ndbNumber": "15266",
+    "foodNutrients": [
+      {
+        "number": "855",
+        "name": "PUFA 20:4 n-6",
+        "amount": 0.00659,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "631",
+        "name": "PUFA 22:5 n-3 (DPA)",
+        "amount": 0.0108,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "860",
+        "name": "MUFA 18:1-11 c (18:1c n-7)",
+        "amount": 0.06,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "645",
+        "name": "Fatty acids, total monounsaturated",
+        "amount": 0.148,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "404",
+        "name": "Thiamin",
+        "amount": 0.0863,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "646",
+        "name": "Fatty acids, total polyunsaturated",
+        "amount": 0.458,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "405",
+        "name": "Riboflavin",
+        "amount": 0.104,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "406",
+        "name": "Niacin",
+        "amount": 1.48,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "410",
+        "name": "Pantothenic acid",
+        "amount": 0.25,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "652",
+        "name": "SFA 15:0",
+        "amount": 0.00142,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "653",
+        "name": "SFA 17:0",
+        "amount": 0.000606,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "959",
+        "name": "Vitamin E",
+        "amount": 0.233,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "654",
+        "name": "SFA 24:0",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "415",
+        "name": "Vitamin B-6",
+        "amount": 0.121,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "417",
+        "name": "Folate, total",
+        "amount": 9.57,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "418",
+        "name": "Vitamin B-12",
+        "amount": 1.76,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "255",
+        "name": "Water",
+        "amount": 80.4,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "671",
+        "name": "MUFA 24:1 c",
+        "amount": 0.00259,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "685",
+        "name": "PUFA 18:3 n-6 c,c,c",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "687",
+        "name": "MUFA 17:1",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "696",
+        "name": "SFA 13:0",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "697",
+        "name": "MUFA 15:1",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "698",
+        "name": "PUFA 22:2",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "291",
+        "name": "Fiber, total dietary",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "699",
+        "name": "SFA 11:0",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "501",
+        "name": "Tryptophan",
+        "amount": 0.138,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "502",
+        "name": "Threonine",
+        "amount": 0.513,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "503",
+        "name": "Isoleucine",
+        "amount": 0.564,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "504",
+        "name": "Leucine",
+        "amount": 1.04,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "505",
+        "name": "Lysine",
+        "amount": 1.27,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "301",
+        "name": "Calcium, Ca",
+        "amount": 40.4,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "506",
+        "name": "Methionine",
+        "amount": 0.421,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "507",
+        "name": "Cystine",
+        "amount": 0.156,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "303",
+        "name": "Iron, Fe",
+        "amount": 0.24,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "508",
+        "name": "Phenylalanine",
+        "amount": 0.496,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "304",
+        "name": "Magnesium, Mg",
+        "amount": 22.8,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "509",
+        "name": "Tyrosine",
+        "amount": 0.461,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "305",
+        "name": "Phosphorus, P",
+        "amount": 223,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "510",
+        "name": "Valine",
+        "amount": 0.606,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "306",
+        "name": "Potassium, K",
+        "amount": 353,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "511",
+        "name": "Arginine",
+        "amount": 0.804,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "307",
+        "name": "Sodium, Na",
+        "amount": 115,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "512",
+        "name": "Histidine",
+        "amount": 0.246,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "513",
+        "name": "Alanine",
+        "amount": 0.826,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "309",
+        "name": "Zinc, Zn",
+        "amount": 0.431,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "514",
+        "name": "Aspartic acid",
+        "amount": 1.47,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "515",
+        "name": "Glutamic acid",
+        "amount": 2.1,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "516",
+        "name": "Glycine",
+        "amount": 0.705,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "312",
+        "name": "Copper, Cu",
+        "amount": 0.0974,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "517",
+        "name": "Proline",
+        "amount": 0.456,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "518",
+        "name": "Serine",
+        "amount": 0.572,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "314",
+        "name": "Iodine, I",
+        "amount": 186,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "315",
+        "name": "Manganese, Mn",
+        "amount": 0.00312,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "317",
+        "name": "Selenium, Se",
+        "amount": 27,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "319",
+        "name": "Retinol",
+        "amount": 2.61,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "321",
+        "name": "Carotene, beta",
+        "amount": 0,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "325",
+        "name": "Vitamin D2 (ergocalciferol)",
+        "amount": 0,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "326",
+        "name": "Vitamin D3 (cholecalciferol)",
+        "amount": 0,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "328",
+        "name": "Vitamin D (D2 + D3)",
+        "amount": 0,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "601",
+        "name": "Cholesterol",
+        "amount": 60,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "605",
+        "name": "Fatty acids, total trans",
+        "amount": 0.00817,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "840",
+        "name": "PUFA 20:2 c",
+        "amount": 0.00268,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "amount": 0.237,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "203",
+        "name": "Protein",
+        "amount": 17.3,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "204",
+        "name": "Total lipid (fat)",
+        "amount": 0.992,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "609",
+        "name": "SFA 8:0",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "610",
+        "name": "SFA 10:0",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "207",
+        "name": "Ash",
+        "amount": 1.22,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "611",
+        "name": "SFA 12:0",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "612",
+        "name": "SFA 14:0",
+        "amount": 0.025,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "209",
+        "name": "Starch",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "613",
+        "name": "SFA 16:0",
+        "amount": 0.17,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "210",
+        "name": "Sucrose",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "614",
+        "name": "SFA 18:0",
+        "amount": 0.0382,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "211",
+        "name": "Glucose",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "615",
+        "name": "SFA 20:0",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "212",
+        "name": "Fructose",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "617",
+        "name": "MUFA 18:1",
+        "amount": 0.0747,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "213",
+        "name": "Lactose",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "618",
+        "name": "PUFA 18:2",
+        "amount": 0.00588,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "214",
+        "name": "Maltose",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "619",
+        "name": "PUFA 18:3",
+        "amount": 0.00436,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "621",
+        "name": "PUFA 22:6 n-3 (DHA)",
+        "amount": 0.237,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "624",
+        "name": "SFA 22:0",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "625",
+        "name": "MUFA 14:1",
+        "amount": 0.000176,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "626",
+        "name": "MUFA 16:1",
+        "amount": 0.0318,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "627",
+        "name": "PUFA 18:4",
+        "amount": 0.0118,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "628",
+        "name": "MUFA 20:1",
+        "amount": 0.0192,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "852",
+        "name": "PUFA 20:3 n-3",
+        "amount": 0.00037,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "853",
+        "name": "PUFA 20:3 n-6",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "629",
+        "name": "PUFA 20:5 n-3 (EPA)",
+        "amount": 0.168,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "854",
+        "name": "PUFA 20:4 n-3",
+        "amount": 0.0033,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "630",
+        "name": "MUFA 22:1",
+        "amount": 0.00271,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "205",
+        "name": "Carbohydrate, by difference",
+        "amount": 0.0565,
+        "unitName": "G",
+        "derivationCode": "NC",
+        "derivationDescription": "Calculated"
+      },
+      {
+        "number": "320",
+        "name": "Vitamin A, RAE",
+        "amount": 2.61,
+        "unitName": "UG",
+        "derivationCode": "NC",
+        "derivationDescription": "Calculated"
+      },
+      {
+        "number": "324",
+        "name": "Vitamin D (D2 + D3), International Units",
+        "amount": 0,
+        "unitName": "IU",
+        "derivationCode": "NC",
+        "derivationDescription": "Calculated"
+      },
+      {
+        "number": "957",
+        "name": "Energy (Atwater General Factors)",
+        "amount": 78.5,
+        "unitName": "KCAL",
+        "derivationCode": "NC",
+        "derivationDescription": "Calculated"
+      },
+      {
+        "number": "320",
+        "name": "Vitamin A, RAE",
+        "amount": 2.61,
+        "unitName": "UG",
+        "derivationCode": "NC",
+        "derivationDescription": "Calculated"
+      },
+      {
+        "number": "674",
+        "name": "MUFA 18:1 c",
+        "amount": 0.135,
+        "unitName": "G",
+        "derivationCode": "AS",
+        "derivationDescription": "Summed"
+      },
+      {
+        "number": "836",
+        "name": "PUFA 20:4c",
+        "amount": 0.00989,
+        "unitName": "G",
+        "derivationCode": "AS",
+        "derivationDescription": "Summed"
+      }
+    ]
+  }
+}

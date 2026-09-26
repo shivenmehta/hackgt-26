@@ -25,7 +25,9 @@
     "test:usda:get-foods-search": "node --env-file-if-exists=.env.local --import tsx scripts/usda-get-foods-search.ts",
     "test:usda:post-foods-search": "node --env-file-if-exists=.env.local --import tsx scripts/usda-post-foods-search.ts",
     "test:usda:get-json-spec": "node --env-file-if-exists=.env.local --import tsx scripts/usda-get-json-spec.ts",
-    "test:usda:get-yaml-spec": "node --env-file-if-exists=.env.local --import tsx scripts/usda-get-yaml-spec.ts"
+    "test:usda:get-yaml-spec": "node --env-file-if-exists=.env.local --import tsx scripts/usda-get-yaml-spec.ts",
+    "export:foods": "tsx scripts/export-foods.ts",
+    "test:foods": "tsx --test scripts/food-import.test.ts"
   },
   "dependencies": {
     "@chakra-ui/react": "^3.37.0",

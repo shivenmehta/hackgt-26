@@ -1,0 +1,526 @@
+{
+  "name": "Dressing, Ranch",
+  "fetchedAt": "2026-09-26T01:01:29.876Z",
+  "source": "USDA FoodData Central",
+  "food": {
+    "fdcId": 2758988,
+    "description": "Dressing, Ranch",
+    "dataType": "Foundation",
+    "publicationDate": "2026-04-30",
+    "ndbNumber": "4639",
+    "foodNutrients": [
+      {
+        "number": "821",
+        "name": "TFA 14:1 t",
+        "amount": 0.00025,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "858",
+        "name": "PUFA 22:4",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "861",
+        "name": "PUFA 20:3 n-9",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "645",
+        "name": "Fatty acids, total monounsaturated",
+        "amount": 11,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "646",
+        "name": "Fatty acids, total polyunsaturated",
+        "amount": 25.9,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "405",
+        "name": "Riboflavin",
+        "amount": 0.116,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "652",
+        "name": "SFA 15:0",
+        "amount": 0.0115,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "653",
+        "name": "SFA 17:0",
+        "amount": 0.0446,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "654",
+        "name": "SFA 24:0",
+        "amount": 0.0474,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "415",
+        "name": "Vitamin B-6",
+        "amount": 0.0128,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "662",
+        "name": "TFA 16:1 t",
+        "amount": 0.00075,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "663",
+        "name": "TFA 18:1 t",
+        "amount": 0.0249,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "664",
+        "name": "TFA 22:1 t",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "255",
+        "name": "Water",
+        "amount": 44,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "670",
+        "name": "PUFA 18:2 CLAs",
+        "amount": 0.024,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "671",
+        "name": "MUFA 24:1 c",
+        "amount": 0.00288,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "685",
+        "name": "PUFA 18:3 n-6 c,c,c",
+        "amount": 0.00025,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "687",
+        "name": "MUFA 17:1",
+        "amount": 0.0264,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "697",
+        "name": "MUFA 15:1",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "698",
+        "name": "PUFA 22:2",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "699",
+        "name": "SFA 11:0",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "632",
+        "name": "SFA 5:0",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "633",
+        "name": "SFA 7:0",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "634",
+        "name": "SFA 9:0",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "681",
+        "name": "SFA 21:0",
+        "amount": 0.0163,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "682",
+        "name": "SFA 23:0",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "635",
+        "name": "MUFA 12:1",
+        "amount": 0.000125,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "830",
+        "name": "TFA 20:1 t",
+        "amount": 0.00162,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "676.1",
+        "name": "MUFA 22:1 n-9",
+        "amount": 0.00756,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "676.2",
+        "name": "MUFA 22:1 n-11",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "832",
+        "name": "TFA 18:2 t",
+        "amount": 0.143,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "834",
+        "name": "TFA 18:3 t",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "683",
+        "name": "PUFA 22:3",
+        "amount": 0.00956,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "837",
+        "name": "PUFA 20:5c",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "838",
+        "name": "PUFA 22:5 c",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "605",
+        "name": "Fatty acids, total trans",
+        "amount": 0.172,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "839",
+        "name": "PUFA 22:6 c",
+        "amount": 0.00338,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "amount": 7.06,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "840",
+        "name": "PUFA 20:2 c",
+        "amount": 0.0174,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "607",
+        "name": "SFA 4:0",
+        "amount": 0.00944,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "608",
+        "name": "SFA 6:0",
+        "amount": 0.00512,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "609",
+        "name": "SFA 8:0",
+        "amount": 0.00819,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "610",
+        "name": "SFA 10:0",
+        "amount": 0.00969,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "611",
+        "name": "SFA 12:0",
+        "amount": 0.00969,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "207",
+        "name": "Ash",
+        "amount": 2.41,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "612",
+        "name": "SFA 14:0",
+        "amount": 0.0596,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "613",
+        "name": "SFA 16:0",
+        "amount": 4.6,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "614",
+        "name": "SFA 18:0",
+        "amount": 1.96,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "615",
+        "name": "SFA 20:0",
+        "amount": 0.145,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "617",
+        "name": "MUFA 18:1",
+        "amount": 10.5,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "618",
+        "name": "PUFA 18:2",
+        "amount": 22.8,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "619",
+        "name": "PUFA 18:3",
+        "amount": 3.06,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "620",
+        "name": "PUFA 20:4",
+        "amount": 0.0107,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "624",
+        "name": "SFA 22:0",
+        "amount": 0.136,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "625",
+        "name": "MUFA 14:1",
+        "amount": 0.0025,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "626",
+        "name": "MUFA 16:1",
+        "amount": 0.0576,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "627",
+        "name": "PUFA 18:4",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "628",
+        "name": "MUFA 20:1",
+        "amount": 0.366,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "852",
+        "name": "PUFA 20:3 n-3",
+        "amount": 0.000688,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "853",
+        "name": "PUFA 20:3 n-6",
+        "amount": 0.00138,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "693",
+        "name": "Fatty acids, total trans-monoenoic",
+        "amount": 0.0276,
+        "unitName": "G",
+        "derivationCode": "AS",
+        "derivationDescription": "Summed"
+      },
+      {
+        "number": "831",
+        "name": "PUFA 18:2 c",
+        "amount": 22.8,
+        "unitName": "G",
+        "derivationCode": "AS",
+        "derivationDescription": "Summed"
+      },
+      {
+        "number": "833",
+        "name": "PUFA 18:3 c",
+        "amount": 3.06,
+        "unitName": "G",
+        "derivationCode": "AS",
+        "derivationDescription": "Summed"
+      },
+      {
+        "number": "835",
+        "name": "PUFA 20:3 c",
+        "amount": 0.00206,
+        "unitName": "G",
+        "derivationCode": "AS",
+        "derivationDescription": "Summed"
+      }
+    ]
+  }
+}

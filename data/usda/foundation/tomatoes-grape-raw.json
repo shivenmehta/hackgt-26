@@ -1,0 +1,435 @@
+{
+  "name": "Tomatoes, grape, raw",
+  "fetchedAt": "2026-09-26T01:00:52.412Z",
+  "source": "USDA FoodData Central",
+  "food": {
+    "fdcId": 321360,
+    "description": "Tomatoes, grape, raw",
+    "dataType": "Foundation",
+    "publicationDate": "2019-04-01",
+    "ndbNumber": "100147",
+    "foodNutrients": [
+      {
+        "number": "255",
+        "name": "Water",
+        "amount": 92.5,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "401",
+        "name": "Vitamin C, total ascorbic acid",
+        "amount": 27.2,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "207",
+        "name": "Ash",
+        "amount": 0.56,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "204",
+        "name": "Total lipid (fat)",
+        "amount": 0.63,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "202",
+        "name": "Nitrogen",
+        "amount": 0.13,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "454",
+        "name": "Betaine",
+        "amount": 0,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "450",
+        "name": "Choline, free",
+        "amount": 8,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "453",
+        "name": "Choline, from glycerophosphocholine",
+        "amount": 0,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "452",
+        "name": "Choline, from phosphotidyl choline",
+        "amount": 1.2,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "451",
+        "name": "Choline, from phosphocholine",
+        "amount": 0.6,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "455",
+        "name": "Choline, from sphingomyelin",
+        "amount": 0,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "421",
+        "name": "Choline, total",
+        "amount": 9.8,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "301",
+        "name": "Calcium, Ca",
+        "amount": 11,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "312",
+        "name": "Copper, Cu",
+        "amount": 0.058,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "303",
+        "name": "Iron, Fe",
+        "amount": 0.33,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "304",
+        "name": "Magnesium, Mg",
+        "amount": 11.9,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "315",
+        "name": "Manganese, Mn",
+        "amount": 0.121,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "305",
+        "name": "Phosphorus, P",
+        "amount": 28,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "306",
+        "name": "Potassium, K",
+        "amount": 260,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "307",
+        "name": "Sodium, Na",
+        "amount": 6,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "309",
+        "name": "Zinc, Zn",
+        "amount": 0.2,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "291",
+        "name": "Fiber, total dietary",
+        "amount": 2.1,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "322",
+        "name": "Carotene, alpha",
+        "amount": 0,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "335",
+        "name": "Cryptoxanthin, alpha",
+        "amount": 0,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "321.2",
+        "name": "trans-beta-Carotene",
+        "amount": 393,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "334",
+        "name": "Cryptoxanthin, beta",
+        "amount": 0,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "321.1",
+        "name": "cis-beta-Carotene",
+        "amount": 49,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "338.3",
+        "name": "cis-Lutein/Zeaxanthin",
+        "amount": 12,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "337.1",
+        "name": "cis-Lycopene",
+        "amount": 554,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "338.1",
+        "name": "Lutein",
+        "amount": 95,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "337",
+        "name": "Lycopene",
+        "amount": 4100,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "338.2",
+        "name": "Zeaxanthin",
+        "amount": 9,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "323",
+        "name": "Vitamin E (alpha-tocopherol)",
+        "amount": 0.98,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "344",
+        "name": "Tocotrienol, alpha",
+        "amount": 0,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "341",
+        "name": "Tocopherol, beta",
+        "amount": 0.02,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "345",
+        "name": "Tocotrienol, beta",
+        "amount": 0,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "343",
+        "name": "Tocopherol, delta",
+        "amount": 0.12,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "347",
+        "name": "Tocotrienol, delta",
+        "amount": 0,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "342",
+        "name": "Tocopherol, gamma",
+        "amount": 0.7,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "346",
+        "name": "Tocotrienol, gamma",
+        "amount": 0,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "429",
+        "name": "Vitamin K (Dihydrophylloquinone)",
+        "amount": 0,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "428",
+        "name": "Vitamin K (Menaquinone-4)",
+        "amount": 0,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "430",
+        "name": "Vitamin K (phylloquinone)",
+        "amount": 4.2,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "405",
+        "name": "Riboflavin",
+        "amount": 0.065,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "404",
+        "name": "Thiamin",
+        "amount": 0.075,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "415",
+        "name": "Vitamin B-6",
+        "amount": 0.06,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "417",
+        "name": "Folate, total",
+        "amount": 10,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "406",
+        "name": "Niacin",
+        "amount": 0.805,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "203",
+        "name": "Protein",
+        "amount": 0.83,
+        "unitName": "G",
+        "derivationCode": "NC",
+        "derivationDescription": "Calculated"
+      },
+      {
+        "number": "205",
+        "name": "Carbohydrate, by difference",
+        "amount": 5.51,
+        "unitName": "G",
+        "derivationCode": "NC",
+        "derivationDescription": "Calculated"
+      },
+      {
+        "number": "208",
+        "name": "Energy",
+        "amount": 27,
+        "unitName": "KCAL",
+        "derivationCode": "NC",
+        "derivationDescription": "Calculated"
+      },
+      {
+        "number": "268",
+        "name": "Energy",
+        "amount": 113,
+        "unitName": "kJ",
+        "derivationCode": "NC",
+        "derivationDescription": "Calculated"
+      },
+      {
+        "number": "333",
+        "name": "Vitamin A",
+        "unitName": "MG"
+      }
+    ]
+  }
+}
