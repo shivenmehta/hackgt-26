@@ -36,6 +36,7 @@ Confirm event rules before reusing pre-event code in a submission.
 - Chakra UI 3 with Emotion; no Tailwind installation.
 - Next.js Route Handlers for backend endpoints.
 - Supabase JavaScript and SSR packages installed; no database or auth connected yet.
+- Python 3.10+ for the standalone nutrient matcher; standard library only.
 - Node.js 24 and npm 11; use `.nvmrc` and commit `package-lock.json`.
 - ESLint with Next.js rules, Prettier, and TypeScript checks.
 - Webpack dev/build scripts avoid the Emotion/Turbopack hydration issue documented
@@ -49,7 +50,7 @@ Open http://localhost:3000. The starter requires no credentials.
 Run `npm run lint`, `npm run typecheck`, `npm run format:check`, and
 `npm run build` for validation. After building, `npm start` serves production.
 Use `npm run format` to format files and `npm run lint:fix` for lint fixes.
-No automated behavioral test suite is configured yet.
+Run `python -m unittest discover -s tests -p "test_knn.py" -v` for offline nutrient-matcher tests.
 For the standalone manual USDA experiment, set `USDA_API_KEY` in `.env.local`
 and run `npm run test:usda`. This calls the real API and prints food data;
 it is not an automated test or part of the application flow.
@@ -92,3 +93,13 @@ The get-food script supports `<fdcId> <output-file> <display-name>` arguments.
 Twelve catalog wrappers include `nutritionFallbacks.energy` sourced from SR Legacy.
 These are labeled estimates with provenance; preserve the original Foundation
 `food.foodNutrients` and read the match notes before using fallback values.
+
+## Nutrient matching
+
+`src/lib/nutrition/knn.py` implements nutrient nearest-neighbor ranking; see its
+README for units, limits, missing data, and scientific scope. `catalog.py` loads
+only manifest-listed foods. Targets describe one portion, not daily requirements.
+Dietary compatibility requires caller-verified metadata; no allergy inference.
+
+Run `python -m src.lib.nutrition.example` for editable example targets. The Python
+matcher is standalone and is not called by the Next.js app.
