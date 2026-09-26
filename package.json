@@ -8,7 +8,7 @@
     "npm": ">=11 <12"
   },
   "scripts": {
-    "dev": "next dev --webpack",
+    "dev": "node scripts/dev-location.mjs",
     "build": "next build --webpack",
     "start": "next start",
     "lint": "eslint . --max-warnings=0",
@@ -43,19 +43,24 @@
     "meals:grok:fiber": "node --env-file-if-exists=.env.local --import tsx scripts/mealdb/estimate-grok-fiber.ts",
     "test:grok:fiber": "node --import tsx --test scripts/mealdb/grok-fiber.test.ts",
     "meals:grok:best-effort": "node --env-file-if-exists=.env.local --import tsx scripts/mealdb/estimate-grok-best-effort.ts",
-    "test:grok:best-effort": "node --import tsx --test scripts/mealdb/grok-best-effort.test.ts"
+    "test:grok:best-effort": "node --import tsx --test scripts/mealdb/grok-best-effort.test.ts",
+    "dev:web": "next dev --webpack",
+    "start:local": "node scripts/dev-location.mjs --production",
+    "test:location-ui": "playwright test --config playwright.location.config.ts"
   },
   "dependencies": {
     "@chakra-ui/react": "^3.37.0",
     "@emotion/react": "^11.14.0",
     "@supabase/ssr": "^0.12.7",
     "@supabase/supabase-js": "^2.117.1",
+    "leaflet": "^1.9.4",
     "next": "^16.3.6",
     "react": "^19.3.0",
     "react-dom": "^19.3.0"
   },
   "devDependencies": {
     "@playwright/test": "1.63.0",
+    "@types/leaflet": "^1.9.22",
     "@types/node": "^24.13.6",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
