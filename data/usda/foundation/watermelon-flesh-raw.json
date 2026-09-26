@@ -1,0 +1,203 @@
+{
+  "name": "Watermelon, seedless, flesh only, raw",
+  "fetchedAt": "2026-09-25T19:33:13.477Z",
+  "source": "USDA FoodData Central",
+  "food": {
+    "fdcId": 2747675,
+    "description": "Watermelon, seedless, flesh only, raw",
+    "dataType": "Foundation",
+    "publicationDate": "2025-12-18",
+    "ndbNumber": "100383",
+    "foodNutrients": [
+      {
+        "number": "303",
+        "name": "Iron, Fe",
+        "amount": 0.0213,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "304",
+        "name": "Magnesium, Mg",
+        "amount": 11.4,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "305",
+        "name": "Phosphorus, P",
+        "amount": 17.1,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "306",
+        "name": "Potassium, K",
+        "amount": 117,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "307",
+        "name": "Sodium, Na",
+        "amount": 0,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "269.3",
+        "name": "Sugars, Total",
+        "amount": 7.2,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "309",
+        "name": "Zinc, Zn",
+        "amount": 0.102,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "202",
+        "name": "Nitrogen",
+        "amount": 0.139,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "312",
+        "name": "Copper, Cu",
+        "amount": 0.0458,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "401",
+        "name": "Vitamin C, total ascorbic acid",
+        "amount": 6.46,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "315",
+        "name": "Manganese, Mn",
+        "amount": 0.0679,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "207",
+        "name": "Ash",
+        "amount": 0.265,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "210",
+        "name": "Sucrose",
+        "amount": 2.48,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "211",
+        "name": "Glucose",
+        "amount": 1.47,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "212",
+        "name": "Fructose",
+        "amount": 3.25,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "213",
+        "name": "Lactose",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "214",
+        "name": "Maltose",
+        "amount": 0,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "417",
+        "name": "Folate, total",
+        "amount": 11.9,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "255",
+        "name": "Water",
+        "amount": 90.9,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "301",
+        "name": "Calcium, Ca",
+        "amount": 7.86,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "203",
+        "name": "Protein",
+        "amount": 0.871,
+        "unitName": "G",
+        "derivationCode": "NC",
+        "derivationDescription": "Calculated"
+      }
+    ]
+  },
+  "nutritionFallbacks": {
+    "energy": {
+      "amount": 30,
+      "unitName": "KCAL",
+      "basisGrams": 100,
+      "isEstimate": true,
+      "method": "proxy-from-other-usda-record",
+      "matchType": "broader-food",
+      "matchNotes": "Raw edible watermelon; seedless variety is not specified.",
+      "source": {
+        "fdcId": 167765,
+        "dataType": "SR Legacy",
+        "description": "Watermelon, raw",
+        "nutrientNumber": "208",
+        "derivationCode": "NC",
+        "derivationDescription": "Calculated",
+        "url": "https://fdc.nal.usda.gov/food-details/167765/nutrients",
+        "fetchedAt": "2026-09-25T20:02:29.949Z"
+      }
+    }
+  }
+}

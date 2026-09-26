@@ -1,0 +1,131 @@
+{
+  "name": "Salt, table, iodized",
+  "fetchedAt": "2026-09-25T19:33:36.583Z",
+  "source": "USDA FoodData Central",
+  "food": {
+    "fdcId": 746775,
+    "description": "Salt, table, iodized",
+    "dataType": "Foundation",
+    "publicationDate": "2019-12-16",
+    "ndbNumber": "2047",
+    "foodNutrients": [
+      {
+        "number": "303",
+        "name": "Iron, Fe",
+        "amount": 0,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "304",
+        "name": "Magnesium, Mg",
+        "amount": 0,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "305",
+        "name": "Phosphorus, P",
+        "amount": 0,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "307",
+        "name": "Sodium, Na",
+        "amount": 38700,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "312",
+        "name": "Copper, Cu",
+        "amount": 0,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "315",
+        "name": "Manganese, Mn",
+        "amount": 0.032,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "207",
+        "name": "Ash",
+        "amount": 99,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "255",
+        "name": "Water",
+        "amount": 0.42,
+        "unitName": "G",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "301",
+        "name": "Calcium, Ca",
+        "amount": 50,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "306",
+        "name": "Potassium, K",
+        "amount": 2,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "309",
+        "name": "Zinc, Zn",
+        "amount": 0,
+        "unitName": "MG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      },
+      {
+        "number": "314",
+        "name": "Iodine, I",
+        "amount": 5080,
+        "unitName": "UG",
+        "derivationCode": "A",
+        "derivationDescription": "Analytical"
+      }
+    ]
+  },
+  "nutritionFallbacks": {
+    "energy": {
+      "amount": 0,
+      "unitName": "KCAL",
+      "basisGrams": 100,
+      "isEstimate": true,
+      "method": "proxy-from-other-usda-record",
+      "matchType": "broader-food",
+      "matchNotes": "Generic table salt; iodization is not specified. Zero energy is explicitly reported by USDA, not inferred from missing data.",
+      "source": {
+        "fdcId": 173468,
+        "dataType": "SR Legacy",
+        "description": "Salt, table",
+        "nutrientNumber": "208",
+        "derivationCode": "NC",
+        "derivationDescription": "Calculated",
+        "url": "https://fdc.nal.usda.gov/food-details/173468/nutrients",
+        "fetchedAt": "2026-09-25T20:02:31.322Z"
+      }
+    }
+  }
+}

@@ -1,10 +1,6 @@
-> Imported from the pre-event `hackgt-2026` project. Implementation, script,
-> and catalog availability statements below describe that source repository;
-> this new checkout currently contains dependencies and documentation only.
-
 # USDA Foundation starter catalog
 
-Downloaded September 25, 2026. This is a curated set of 100 common ingredients,
+Retrieved through USDA FoodData Central API calls on September 25, 2026. This is a curated set of 100 common ingredients,
 not a ranked claim about the world's most-used foods or a complete meal dataset.
 
 ## Files and structure

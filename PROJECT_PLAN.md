@@ -1,7 +1,3 @@
-> Imported from the pre-event `hackgt-2026` project. Implementation, script,
-> and catalog availability statements below describe that source repository;
-> this new checkout currently contains dependencies and documentation only.
-
 # Food planner — editable project plan
 
 Updated: September 25, 2026  
@@ -186,10 +182,12 @@ and current sponsor expectations against the live event guidance.
 
 ## 9. Current status and next action
 
-**Available:** shared app foundation and standalone USDA API experiments.
-The experiments are not yet an app integration. Supabase dependencies are installed.
+**Available:** shared app foundation, standalone USDA API experiments, and a
+100-record ingredient catalog retrieved through FoodData Central API calls.
+The catalog and experiments are not yet integrated into the app. Supabase
+dependencies are installed.
 
-**Not connected yet:** hosted database, curated catalog, AI provider, planner,
+**Not connected yet:** hosted database, in-app catalog access, AI provider, planner,
 authentication, and payments.
 
 **Next action:** fill in the scope decisions in sections 4 and 8, assign owners,

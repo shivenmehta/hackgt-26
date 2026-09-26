@@ -1,7 +1,3 @@
-> Imported from the pre-event `hackgt-2026` project. Implementation, script,
-> and catalog availability statements below describe that source repository;
-> this new checkout currently contains dependencies and documentation only.
-
 # Current project direction
 
 See [PROJECT_PLAN.md](PROJECT_PLAN.md) for the editable workflow, build sequence,
@@ -72,7 +68,9 @@ This sequence is a planning proposal, not a final product specification.
 
 ## Implementation status
 
-Only the shared Next.js/TypeScript/Chakra foundation, a starter page, and a health
-Route Handler exist on the setup branch. Supabase packages are installed, but no
-hosted database, authentication, USDA integration, recommendation engine, payment
-integration, or social functionality is connected.
+The shared Next.js/TypeScript/Chakra foundation, starter page, and health Route
+Handler are present on `main`. Manual USDA scripts and 100 reviewed ingredient
+records retrieved through FoodData Central API calls are available locally.
+Twelve records include separately sourced, labeled SR Legacy energy fallbacks.
+Supabase packages are installed, but no hosted database, authentication, in-app
+USDA integration, recommendation engine, payments, or social features are connected.

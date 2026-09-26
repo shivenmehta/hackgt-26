@@ -1,7 +1,3 @@
-> Imported from the pre-event `hackgt-2026` project. Implementation, script,
-> and catalog availability statements below describe that source repository;
-> this new checkout currently contains dependencies and documentation only.
-
 # USDA API experiments
 
 Set `USDA_API_KEY` in the repository root's ignored `.env.local`, then run a

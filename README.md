@@ -1,37 +1,109 @@
-# HackGT 26
+# HackGT 2026
 
-Dependency and documentation setup imported from the existing
-[HackGT 2026 repository](https://github.com/shivenmehta/hackgt-2026).
-This transfer contains pre-event preparation; creating this repository does not
-change when that material was originally prepared. Confirm reuse eligibility
-with the organizers.
+A two-person food-planning project for HackGT 13.
+Repository: https://github.com/shivenmehta/hackgt-26.
 
-## Install
+The shared foundation and preparation materials were imported from `hackgt-2026`.
+Original documentation snapshots are in `docs/source-project/`. Their previous
+setup instructions describe the source repository; this README describes the
+current checkout. Confirm eligibility for pre-event material with organizers.
 
-Use Node.js 24 and npm 11, then run `npm ci` from this directory.
-The dependency declarations and package-lock.json match the source project.
-Includes Next.js 16, React 19, Chakra UI 3, Emotion, Supabase, TypeScript,
-ESLint, Prettier, and tsx. No Tailwind is installed.
+## Stack
 
-## Scope
+Next.js 16 App Router, React 19, TypeScript, Chakra UI 3, and Next.js Route
+Handlers. Supabase client and SSR dependencies are installed for future database
+and authentication work. ESLint and Prettier provide shared code checks.
 
-This repository currently contains dependencies and Markdown documentation only.
-No application source, health endpoint, API experiment scripts, ingredient JSON
-records, credentials, or environment files were copied. There is no runnable
-application or build/typecheck command yet. Add those when creating the app.
-Only `npm run format` and `npm run format:check` are currently configured.
+## Getting started
 
-## Documentation
+Use Node.js 24 (`nvm use` if you use nvm) and npm 11. npm ships with Node;
+there is no need to install it as an application dependency.
 
-- [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md): food planner idea and track choices.
-- [PROJECT_PLAN.md](PROJECT_PLAN.md): editable implementation plan.
-- [EVENT_PACKET.md](EVENT_PACKET.md): event requirements summary.
-- [EVENT_PACKET_SOURCE.md](EVENT_PACKET_SOURCE.md): dated source snapshot.
-- [scripts/README.md](scripts/README.md): reference for source-project API experiments.
-- [data/usda/README.md](data/usda/README.md): reference for source-project catalog.
-- [AGENTS.md](AGENTS.md): current repository conventions.
-- [Original README](docs/source-project/README.md) and
-  [original conventions](docs/source-project/AGENTS.md): source-project snapshots.
+```bash
+npm ci
+npm run dev
+```
 
-Descriptions of implemented features in imported reference documents apply to
-the source project, not this dependency-only checkout.
+Open http://localhost:3000. The starter works without external credentials.
+The health endpoint at `/api/health` returns `{ "status": "ok" }`.
+
+Before connecting services, copy `.env.example` to `.env.local` and fill in
+Supabase's project URL/publishable key and your server-only USDA API key.
+Never commit `.env.local` or private keys. Installing Supabase packages does not
+create a hosted project: database tables, Row Level Security, login, and SSR
+session refresh still need to be implemented before user data is stored.
+
+## Commands
+
+| Command                | Purpose                                   |
+| ---------------------- | ----------------------------------------- |
+| `npm run dev`          | Start development server                  |
+| `npm run lint`         | ESLint; warnings fail the check           |
+| `npm run lint:fix`     | Apply available lint fixes                |
+| `npm run typecheck`    | Generate route types and check TypeScript |
+| `npm run format`       | Format project files                      |
+| `npm run format:check` | Check formatting                          |
+| `npm run build`        | Build production app                      |
+| `npm start`            | Serve the production build                |
+
+No behavioral test suite is configured yet. Run the four checks (lint,
+typecheck, format:check, build) before opening a PR.
+ESLint stays on major 9 because the React plugins bundled with the current
+Next.js lint config do not support ESLint 10 yet. npm flags ESLint 9 as deprecated;
+upgrade when those plugins support the newer API.
+Dev and build use Webpack because Chakra documents a possible Emotion hydration
+issue with Turbopack. See [Chakra setup](https://chakra-ui.com/docs/get-started/frameworks/next-app).
+
+## Manual USDA API experiment
+
+Set `USDA_API_KEY` in your ignored `.env.local`, then run:
+
+```bash
+npm run test:usda
+```
+
+The original `scripts/usda-api-testing.ts` is a search scratchpad. See
+[scripts/README.md](scripts/README.md) for separate examples covering all seven
+food request methods plus the JSON and YAML specification endpoints. For example:
+
+```bash
+npm run test:usda:get-foods-search
+npm run test:usda:post-foods-list
+```
+
+These commands make real API requests. The get-food script can save a JSON file;
+other commands print results. See the script documentation before refreshing data.
+
+## Ingredient data
+
+The catalog contains 100 reviewed ingredients retrieved through USDA FoodData
+Central API calls. Records preserve `fetchedAt`, source FDC IDs, response data,
+and provenance for separately sourced calorie estimates. See
+[data/usda/README.md](data/usda/README.md) for preparation states, missing nutrients,
+and the 12 labeled SR Legacy energy fallbacks. This setup did not refetch records
+or alter their retrieval timestamps. The catalog is not yet connected to the app.
+
+## Project layout
+
+- `src/app`: pages, root layout, and API Route Handlers.
+- `src/components/ui/provider.tsx`: shared Chakra provider.
+- `@/*`: import alias for `src/*`.
+- `.env.example`: safe configuration placeholders.
+- `AGENTS.md`: project conventions for coding agents.
+
+## Collaboration
+
+Create focused branches from the latest `main`; merge through teammate-reviewed
+pull requests. Commit `package.json` and `package-lock.json` together. After
+pulling dependency changes, run `npm ci`. Keep API experiments in separate branches.
+
+## Event reference
+
+- [Current idea and chosen tracks](PROJECT_CONTEXT.md): affordable food planning,
+  A Marina's Mission social-good track, and the Visa generative-AI commerce challenge.
+- [Event packet summary](EVENT_PACKET.md): requirements, schedule, and unresolved details.
+- [Retrieved packet text](EVENT_PACKET_SOURCE.md): September 24 snapshot with documented coverage gaps.
+
+[HackGT 13 pre-event packet](https://hexlabs.notion.site/HackGT-13-Pre-Event-Packet-cf10438064318246b668017b1b3030e4)
+
+Confirm event rules on advance preparation before reusing code in a submission.

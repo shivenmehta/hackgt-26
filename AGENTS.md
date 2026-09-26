@@ -2,12 +2,14 @@
 
 ## Project status
 
-This repository's `main` contains dependencies and Markdown documentation copied
-from the existing pre-event HackGT 2026 project. Preserve that provenance.
+The `main` branch contains the shared application foundation for an affordable
+food planner: a starter page, Chakra provider, health Route Handler, manual USDA
+scripts, and a curated USDA ingredient catalog. Meal planning, authentication,
+and payments are not implemented.
 Remote: `https://github.com/shivenmehta/hackgt-26.git`.
-No app source, USDA scripts, catalog JSON, or credentials have been copied.
-Confirm event rules before reusing pre-event materials in a submission.
-Original documentation is retained under docs/source-project as historical context.
+The foundation and preparation materials were imported from `hackgt-2026`;
+creating this repository does not change their original preparation dates.
+Confirm event rules before reusing pre-event code in a submission.
 
 ## Product and hackathon context
 
@@ -32,21 +34,32 @@ Original documentation is retained under docs/source-project as historical conte
 
 - Next.js 16 App Router with React 19 and strict TypeScript.
 - Chakra UI 3 with Emotion; no Tailwind installation.
-- Planned backend: Next.js Route Handlers; none exist in this checkout.
+- Next.js Route Handlers for backend endpoints.
 - Supabase JavaScript and SSR packages installed; no database or auth connected yet.
 - Node.js 24 and npm 11; use `.nvmrc` and commit `package-lock.json`.
-- ESLint/Next.js rules, Prettier, and TypeScript dependencies are installed;
-  only Prettier is configured in this dependency-only checkout.
-- When adding dev/build scripts, use Webpack as in the source setup to avoid
-  the documented Emotion/Turbopack hydration issue.
+- ESLint with Next.js rules, Prettier, and TypeScript checks.
+- Webpack dev/build scripts avoid the Emotion/Turbopack hydration issue documented
+  in Chakra's Next.js guide.
 
-## How to install dependencies
+## How to run the project
 
-Use Node.js 24 and npm 11. Run `npm ci` from the repository root.
-Run `npm run format:check` to check formatting or `npm run format` to format.
-No app exists yet, so dev, build, lint, typecheck, and USDA experiment commands
-are not currently configured. Add the relevant source and configuration before
-adding those commands. Preserve server-only credentials and never commit secrets.
+From the repository root, run `npm ci`, then `npm run dev`.
+Open http://localhost:3000. The starter requires no credentials.
+`GET /api/health` returns `{ "status": "ok" }`.
+Run `npm run lint`, `npm run typecheck`, `npm run format:check`, and
+`npm run build` for validation. After building, `npm start` serves production.
+Use `npm run format` to format files and `npm run lint:fix` for lint fixes.
+No automated behavioral test suite is configured yet.
+For the standalone manual USDA experiment, set `USDA_API_KEY` in `.env.local`
+and run `npm run test:usda`. This calls the real API and prints food data;
+it is not an automated test or part of the application flow.
+See `scripts/README.md` for per-request examples and `test:usda:*` commands
+covering every food request method and both specification endpoints.
+
+When connecting services, copy `.env.example` to `.env.local` and replace the
+placeholders. USDA keys stay server-only. Supabase publishable keys may be public,
+but data access needs Row Level Security policies. Never expose secret/service-role
+keys in client code. Supabase session refresh and authentication are not wired yet.
 
 ## Conventions for project work
 
@@ -67,9 +80,15 @@ adding those commands. Preserve server-only credentials and never commit secrets
 - Update this file whenever the stack, setup steps, run commands, or project
   conventions change.
 
-## Ingredient catalog reference
+## Ingredient catalog
 
-`data/usda/README.md` describes the source project's catalog. The JSON catalog,
-manifest, fallback data, and API scripts have not been copied here. Do not claim
-they are available locally. Preserve preparation states, unknown nutrition values,
-and provenance if catalog data is imported later.
+The 100-record starter catalog is in `data/usda/foundation/`, indexed by
+`data/usda/foundation-manifest.json`. Read `data/usda/README.md` before using it.
+All catalog records are Foundation abridged responses; nutrient identifiers use
+`food.foodNutrients[].number`. Preparation states and unknown values matter.
+Existing experimental JSON files outside that directory are not catalog entries.
+The get-food script supports `<fdcId> <output-file> <display-name>` arguments.
+
+Twelve catalog wrappers include `nutritionFallbacks.energy` sourced from SR Legacy.
+These are labeled estimates with provenance; preserve the original Foundation
+`food.foodNutrients` and read the match notes before using fallback values.
