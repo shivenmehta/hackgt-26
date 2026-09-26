@@ -1,0 +1,33 @@
+# Local secrets; safe example configuration may be committed.
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# JavaScript dependencies and generated output (if used)
+node_modules/
+.next/
+out/
+dist/
+coverage/
+test-results/
+playwright-report/
+.vercel/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python environments and caches (if used)
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

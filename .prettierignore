@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+dist/
+coverage/
+test-results/
+package-lock.json
+next-env.d.ts
+*.tsbuildinfo
+.env*
+!.env.example
