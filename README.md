@@ -6,7 +6,7 @@ Repository: https://github.com/shivenmehta/hackgt-26.
 The shared foundation and preparation materials were imported from `hackgt-2026`.
 Original documentation snapshots are in `docs/source-project/`. Their previous
 setup instructions describe the source repository; this README describes the
-current checkout. Confirm eligibility for pre-event material with organizers.
+current checkout.
 
 ## Stack
 
