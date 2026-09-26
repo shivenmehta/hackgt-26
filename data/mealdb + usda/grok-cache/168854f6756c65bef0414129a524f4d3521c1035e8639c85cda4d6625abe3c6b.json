@@ -1,0 +1,57 @@
+{
+  "inputHash": "168854f6756c65bef0414129a524f4d3521c1035e8639c85cda4d6625abe3c6b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:33.480Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 4.6,
+      "caloriesPer100g": null,
+      "assumptions": "1 tsp all-purpose seasoning estimated at ~4.6g based on typical density of dry seasoning blends (about 1 tsp = 1/5 tbsp ≈ 4-5g); modest amount as it's a seasoning."
+    },
+    {
+      "position": 5,
+      "grams": 45,
+      "caloriesPer100g": 32,
+      "assumptions": "3 chopped spring onions (scallions) estimated at 15g each for a total of 45g, using standard weight for medium chopped green onions; matches known calories for raw scallions."
+    },
+    {
+      "position": 6,
+      "grams": 60,
+      "caloriesPer100g": 22.9,
+      "assumptions": "1/2 green pepper (bell pepper) estimated at ~60g, based on average medium bell pepper half-weight (edible portion, raw); matches known calories for raw green pepper."
+    },
+    {
+      "position": 8,
+      "grams": 10,
+      "caloriesPer100g": null,
+      "assumptions": "1 chopped scotch bonnet pepper estimated at ~10g (small chili pepper size, whole edible portion including seeds if chopped); realistic modest weight for one hot pepper."
+    },
+    {
+      "position": 9,
+      "grams": 3,
+      "caloriesPer100g": 101,
+      "assumptions": "3 sprigs thyme estimated at 1g per sprig for total 3g (fresh herb leaves/stems); modest amount for seasoning, matches known calories for fresh thyme."
+    },
+    {
+      "position": 12,
+      "grams": 300,
+      "caloriesPer100g": 83.4,
+      "assumptions": "1 large russet potato estimated at 300g (typical large baking potato, raw, peeled/edible portion); consistent with standard weights and known calories for raw potato."
+    },
+    {
+      "position": 13,
+      "grams": 2,
+      "caloriesPer100g": 0,
+      "assumptions": "Salt to taste estimated at ~2g total (modest pinch for entire recipe); matches known 0 calories."
+    },
+    {
+      "position": 14,
+      "grams": 1,
+      "caloriesPer100g": 251,
+      "assumptions": "Pepper to taste estimated at ~1g total (modest grind for entire recipe); matches known calories for black pepper."
+    }
+  ]
+}

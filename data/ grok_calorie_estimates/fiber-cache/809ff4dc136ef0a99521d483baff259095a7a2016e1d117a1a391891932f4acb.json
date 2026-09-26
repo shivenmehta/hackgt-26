@@ -1,0 +1,81 @@
+{
+  "inputHash": "809ff4dc136ef0a99521d483baff259095a7a2016e1d117a1a391891932f4acb",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:03:40.048Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 7,
+      "fiberG": 0.4,
+      "assumptions": "2 lemons yield ~120 ml juice total; juice carbs ~5.8 g/100 ml"
+    },
+    {
+      "position": 2,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "4 tsp paprika ≈ 8 g; typical ~38 g carbs/100 g with high fiber"
+    },
+    {
+      "position": 3,
+      "carbsG": 22,
+      "fiberG": 4,
+      "assumptions": "2 medium red onions ≈ 220 g finely chopped; ~10 g carbs/100 g with ~1.8 g fiber"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "16 skinless chicken thighs (1.28 kg total); pure meat has no carbs"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp (14 g) vegetable oil used for brushing; pure oil has no carbs"
+    },
+    {
+      "position": 6,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "300 g full-fat Greek yogurt; typical ~4 g carbs/100 g (mostly lactose)"
+    },
+    {
+      "position": 7,
+      "carbsG": 4,
+      "fiberG": 1,
+      "assumptions": "30 g peeled ginger; ~14 g carbs/100 g with ~2 g fiber"
+    },
+    {
+      "position": 8,
+      "carbsG": 4,
+      "fiberG": 0.2,
+      "assumptions": "12 g garlic; ~33 g carbs/100 g with low fiber"
+    },
+    {
+      "position": 9,
+      "carbsG": 1.2,
+      "fiberG": 0.6,
+      "assumptions": "¾ tsp garam masala ≈ 2 g; typical spice mix ~60 g carbs/100 g"
+    },
+    {
+      "position": 10,
+      "carbsG": 1.3,
+      "fiberG": 0.3,
+      "assumptions": "¾ tsp ground cumin ≈ 2 g; ~44 g carbs/100 g with ~10 g fiber"
+    },
+    {
+      "position": 11,
+      "carbsG": 1,
+      "fiberG": 0.7,
+      "assumptions": "½ tsp chilli powder ≈ 1.5 g; ~56 g carbs/100 g with high fiber"
+    },
+    {
+      "position": 12,
+      "carbsG": 0.7,
+      "fiberG": 0.3,
+      "assumptions": "¼ tsp turmeric ≈ 1 g; ~67 g carbs/100 g with ~22 g fiber"
+    }
+  ]
+}

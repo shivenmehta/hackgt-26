@@ -1,0 +1,277 @@
+{
+  "inputHash": "3acf57b9b1fbf9e5f4791c6b21afc294b4e1b51cc916f75ffa341839fdec709b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:05.442Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 455,
+        "proteinG": 24,
+        "fatG": 38,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 227.5,
+      "proteinG": 12,
+      "fatG": 19,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "Standard cured Spanish chorizo sausage, typical values for 50g portion used as starting ingredient.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "Medium onion (approx 110g), chopped; standard raw onion values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "One average garlic clove weighing ~6g; raw garlic values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.8,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 9,
+      "proteinG": 0.75,
+      "fatG": 0.2,
+      "carbsG": 1.575,
+      "fiberG": 0.825,
+      "assumptions": "A typical 'bunch' of fresh parsley used in cooking (approx 25g total, including stalks); values for fresh parsley leaves and stems. Half is fried early, half scattered at end but entire amount is the ingredient line.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 5,
+        "proteinG": 0.1,
+        "fatG": 0.1,
+        "carbsG": 0.9,
+        "fiberG": 0.1
+      },
+      "caloriesKcal": 10,
+      "proteinG": 0.2,
+      "fatG": 0.2,
+      "carbsG": 1.8,
+      "fiberG": 0.2,
+      "assumptions": "200ml vegetable stock made from concentrate or cube; typical low-calorie stock values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.6,
+        "fatG": 0.2,
+        "carbsG": 6.4,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 128,
+      "proteinG": 6.4,
+      "fatG": 0.8,
+      "carbsG": 25.6,
+      "fiberG": 6.4,
+      "assumptions": "400g tin of chopped/plum tomatoes including juice; standard drained weight approx 360g but entire can contents used as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 260,
+      "per100g": {
+        "caloriesKcal": 113,
+        "proteinG": 7.2,
+        "fatG": 0.6,
+        "carbsG": 19.6,
+        "fiberG": 6.4
+      },
+      "caloriesKcal": 293.8,
+      "proteinG": 18.72,
+      "fatG": 1.56,
+      "carbsG": 50.96,
+      "fiberG": 16.64,
+      "assumptions": "400g tin of butter beans, drained weight approx 260g (standard for this size can); values for cooked/drained beans.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 14,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0.7,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.045,
+      "fiberG": 0,
+      "assumptions": "1 teaspoon sherry vinegar (approx 5g); negligible macros, treated as vinegar.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 86,
+        "proteinG": 15,
+        "fatG": 1.5,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 516,
+      "proteinG": 90,
+      "fatG": 9,
+      "carbsG": 21.6,
+      "fiberG": 0,
+      "assumptions": "600g fresh clams in shell (typical for stew); values for raw clams (edible portion after cooking/opening, but entire line weight used per instruction). Recipe context implies live clams steamed until open.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 1.5,
+        "carbsG": 52,
+        "fiberG": 3.5
+      },
+      "caloriesKcal": 265,
+      "proteinG": 9,
+      "fatG": 1.5,
+      "carbsG": 52,
+      "fiberG": 3.5,
+      "assumptions": "Crusty bread 'to serve' for 4 people; plausible assumption of 100g total bread (e.g. 25g per serving of French-style bread) used to mop up stew as described.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53154",
+    "name": "Clam, chorizo & white bean stew",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nFry the chorizo in a large frying pan with a lid, over a medium heat until it is starting to crisp up and release its oil. Add the onion and cook for 5 mins until starting to soften. Then add the garlic and finely chopped parsley, and fry for 1 min more.\r\n\r\nstep 2\r\nPour on the stock and tomatoes. Bring to the boil, reduce the heat, then add the beans and sherry vinegar. Simmer for 10 mins until the liquid is slightly reduced.\r\n\r\nstep 3\r\nScatter over the clams, cover with the lid and steam for 2-4 mins, shaking the pan occasionally until the clams are open. Have a little taste before seasoning, as the clams can be quite salty. Then scatter over the chopped parsley. Eat with lots of crusty bread.",
+    "ingredients": [
+      { "position": 1, "name": "Chorizo", "measurement": "50g" },
+      { "position": 2, "name": "Onion", "measurement": "1 chopped" },
+      { "position": 3, "name": "Garlic Clove", "measurement": "1" },
+      { "position": 4, "name": "Parsley", "measurement": "Bunch" },
+      { "position": 5, "name": "Vegetable Stock", "measurement": "200ml" },
+      { "position": 6, "name": "Tinned Tomatos", "measurement": "400g" },
+      { "position": 7, "name": "Butter Beans", "measurement": "400g" },
+      { "position": 8, "name": "Sherry vinegar", "measurement": "1 teaspoon" },
+      { "position": 9, "name": "Clams", "measurement": "600g" },
+      { "position": 10, "name": "Crusty Bread", "measurement": "To serve" }
+    ]
+  }
+}

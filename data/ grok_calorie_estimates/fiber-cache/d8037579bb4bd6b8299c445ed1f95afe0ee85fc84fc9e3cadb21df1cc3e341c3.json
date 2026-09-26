@@ -1,0 +1,45 @@
+{
+  "inputHash": "d8037579bb4bd6b8299c445ed1f95afe0ee85fc84fc9e3cadb21df1cc3e341c3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:05.563Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbs = 14 g butter (plain fat)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 rashers streaky bacon, ~100 g total (plain meat)"
+    },
+    {
+      "position": 3,
+      "carbsG": 10.1,
+      "fiberG": 1.9,
+      "assumptions": "1 medium onion (110 g) finely sliced"
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 clove garlic (~3 g) chopped"
+    },
+    {
+      "position": 5,
+      "carbsG": 16.4,
+      "fiberG": 7,
+      "assumptions": "20 medium Brussels sprouts (~200 g total, raw weight) sliced"
+    },
+    {
+      "position": 6,
+      "carbsG": 66,
+      "fiberG": 8,
+      "assumptions": "400 g potatoes (flesh only, boiled and mashed)"
+    }
+  ]
+}

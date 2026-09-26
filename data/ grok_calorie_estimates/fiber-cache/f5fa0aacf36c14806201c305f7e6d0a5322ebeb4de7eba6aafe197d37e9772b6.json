@@ -1,0 +1,81 @@
+{
+  "inputHash": "f5fa0aacf36c14806201c305f7e6d0a5322ebeb4de7eba6aafe197d37e9772b6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:00.438Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 126,
+      "fiberG": 6,
+      "assumptions": "180g dry rice stick noodles; standard uncooked rice noodle values (70g carbs/100g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "2 tbsp (~30g) dark soy sauce; typical dark soy sauce values"
+    },
+    {
+      "position": 3,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "2 tbsp (~30g) oyster sauce; typical oyster sauce values"
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 tsp (~10g) soy sauce; typical soy sauce values"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp (~10g) white vinegar; negligible carbs"
+    },
+    {
+      "position": 6,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "2 tsp (~8g) sugar; standard granulated sugar values"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp water; zero carbs"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp peanut oil; pure fat, zero carbs"
+    },
+    {
+      "position": 9,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "2 cloves (~6g) garlic; standard garlic values"
+    },
+    {
+      "position": 10,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 cup (~140g) chicken; plain meat, zero carbs"
+    },
+    {
+      "position": 11,
+      "carbsG": 0.4,
+      "fiberG": 0,
+      "assumptions": "1 large egg (~50g); standard egg values"
+    },
+    {
+      "position": 12,
+      "carbsG": 16,
+      "fiberG": 7,
+      "assumptions": "4 cups (~400g) Chinese broccoli/gai lan; standard raw values for edible portion"
+    }
+  ]
+}

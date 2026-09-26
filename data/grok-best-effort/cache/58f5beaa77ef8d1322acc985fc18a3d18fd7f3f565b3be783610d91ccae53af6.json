@@ -1,0 +1,407 @@
+{
+  "inputHash": "58f5beaa77ef8d1322acc985fc18a3d18fd7f3f565b3be783610d91ccae53af6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:20.861Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 900,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 26,
+        "fatG": 15,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2250,
+      "proteinG": 234,
+      "fatG": 135,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Beef stewing/casserole cut, raw weight as specified; typical values for braising beef.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 397.8,
+      "proteinG": 0,
+      "fatG": 45,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons olive oil (15 ml per tbsp, density ~0.92 g/ml); used for frying in batches as per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 90,
+      "per100g": {
+        "caloriesKcal": 72,
+        "proteinG": 2.5,
+        "fatG": 0.2,
+        "carbsG": 14,
+        "fiberG": 3.2
+      },
+      "caloriesKcal": 64.8,
+      "proteinG": 2.25,
+      "fatG": 0.18,
+      "carbsG": 12.6,
+      "fiberG": 2.88,
+      "assumptions": "3 medium shallots, peeled; ~30 g each based on typical size and recipe context for braising.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.98,
+      "fiberG": 0.126,
+      "assumptions": "2 cloves garlic minced; ~3 g per clove, standard estimate.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 540,
+        "proteinG": 27,
+        "fatG": 47,
+        "carbsG": 1.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 675,
+      "proteinG": 33.75,
+      "fatG": 58.75,
+      "carbsG": 1.75,
+      "fiberG": 0,
+      "assumptions": "Streaky or back bacon as used in British pies; raw weight as specified.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 7,
+        "carbsG": 43,
+        "fiberG": 37
+      },
+      "caloriesKcal": 10.6,
+      "proteinG": 0.36,
+      "fatG": 0.28,
+      "carbsG": 1.72,
+      "fiberG": 1.48,
+      "assumptions": "1 tablespoon chopped fresh thyme; ~4 g typical for 1 tbsp chopped herbs.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 bay leaves; negligible edible weight and nutrition after removal before serving.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 330,
+      "per100g": {
+        "caloriesKcal": 43,
+        "proteinG": 0.4,
+        "fatG": 0,
+        "carbsG": 3.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 141.9,
+      "proteinG": 1.32,
+      "fatG": 0,
+      "carbsG": 12.54,
+      "fiberG": 0,
+      "assumptions": "330 ml stout beer (density ~1 g/ml); typical for Guinness-style stout used in pies.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 28,
+      "proteinG": 4,
+      "fatG": 0.8,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "400 ml beef stock; typical low-calorie prepared stock values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 16,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0,
+        "carbsG": 91,
+        "fiberG": 0
+      },
+      "caloriesKcal": 60.96,
+      "proteinG": 0.048,
+      "fatG": 0,
+      "carbsG": 14.56,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons cornflour (cornstarch); ~8 g per tbsp, used as thickener per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 68,
+        "proteinG": 9,
+        "fatG": 2,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 68,
+      "proteinG": 9,
+      "fatG": 2,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "8 fresh oysters, shucked; ~12-15 g edible meat each (total ~100 g) as tucked into pie filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 1456,
+      "proteinG": 40,
+      "fatG": 4,
+      "carbsG": 304,
+      "fiberG": 12,
+      "assumptions": "Plain white flour as specified for pastry.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of salt; estimated 2 g typical for pastry seasoning.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1792.5,
+      "proteinG": 2.25,
+      "fatG": 202.5,
+      "carbsG": 0.25,
+      "fiberG": 0,
+      "assumptions": "Butter for pastry; full weight as specified.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 42.9,
+      "proteinG": 3.9,
+      "fatG": 3,
+      "carbsG": 0.3,
+      "fiberG": 0,
+      "assumptions": "Beaten egg for glaze; estimated 1 medium egg (~50-60 g but only glaze portion used, adjusted to 30 g effective).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52878",
+    "name": "Beef and Oyster pie",
+    "cuisine": "British",
+    "instructions": "Season the beef cubes with salt and black pepper. Heat a tablespoon of oil in the frying pan and fry the meat over a high heat. Do this in three batches so that you don’t overcrowd the pan, transferring the meat to a large flameproof casserole dish once it is browned all over. Add extra oil if the pan seems dry.\r\nIn the same pan, add another tablespoon of oil and cook the shallots for 4-5 minutes, then add the garlic and fry for 30 seconds. Add the bacon and fry until slightly browned. Transfer the onion and bacon mixture to the casserole dish and add the herbs.\r\nPreheat the oven to 180C/350F/Gas 4.\r\nPour the stout into the frying pan and bring to the boil, stirring to lift any stuck-on browned bits from the bottom of the pan. Pour the stout over the beef in the casserole dish and add the stock. Cover the casserole and place it in the oven for 1½-2 hours, or until the beef is tender and the sauce is reduced.\r\nSkim off any surface fat, taste and add salt and pepper if necessary, then stir in the cornflour paste. Put the casserole dish on the hob – don’t forget that it will be hot – and simmer for 1-2 minutes, stirring, until thickened. Leave to cool.\r\nIncrease the oven to 200C/400F/Gas 6. To make the pastry, put the flour and salt in a very large bowl. Grate the butter and stir it into the flour in three batches. Gradually add 325ml/11fl oz cold water – you may not need it all – and stir with a round-bladed knife until the mixture just comes together. Knead the pastry lightly into a ball on a lightly floured surface and set aside 250g/9oz for the pie lid.\r\nRoll the rest of the pastry out until about 2cm/¾in larger than the dish you’re using. Line the dish with the pastry then pile in the filling, tucking the oysters in as well. Brush the edge of the pastry with beaten egg.\r\nRoll the remaining pastry until slightly larger than your dish and gently lift over the filling, pressing the edges firmly to seal, then trim with a sharp knife. Brush with beaten egg to glaze. Put the dish on a baking tray and bake for 25-30 minutes, or until the pastry is golden-brown and the filling is bubbling.",
+    "ingredients": [
+      { "position": 1, "name": "Beef", "measurement": "900g" },
+      { "position": 2, "name": "Olive Oil", "measurement": "3 tbs" },
+      { "position": 3, "name": "Shallots", "measurement": "3" },
+      { "position": 4, "name": "Garlic", "measurement": "2 cloves minced" },
+      { "position": 5, "name": "Bacon", "measurement": "125g" },
+      { "position": 6, "name": "Thyme", "measurement": "1 tbs chopped" },
+      { "position": 7, "name": "Bay Leaf", "measurement": "2" },
+      { "position": 8, "name": "Stout", "measurement": "330ml" },
+      { "position": 9, "name": "Beef Stock", "measurement": "400ml" },
+      { "position": 10, "name": "Corn Flour", "measurement": "2 tbs" },
+      { "position": 11, "name": "Oysters", "measurement": "8" },
+      { "position": 12, "name": "Plain Flour", "measurement": "400g" },
+      { "position": 13, "name": "Salt", "measurement": "pinch" },
+      { "position": 14, "name": "Butter", "measurement": "250g" },
+      { "position": 15, "name": "Eggs", "measurement": "To Glaze" }
+    ]
+  }
+}

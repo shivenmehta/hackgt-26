@@ -1,0 +1,33 @@
+{
+  "inputHash": "9c5f03604a8f94f1a29b8dc0a7436f6215d82cd7ec478d19e581d7854c291804",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:47.750Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 2,
+      "caloriesPer100g": 375,
+      "assumptions": "Standard 1 tsp cumin is ~2g; knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 7,
+      "grams": 15,
+      "caloriesPer100g": 884,
+      "assumptions": "Modest amount for 'for frying' 4 burgers (light brushing ~1 tsp per side total); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 8,
+      "grams": 200,
+      "caloriesPer100g": 265,
+      "assumptions": "Typical hamburger bun ~50g each (4 buns total 200g); standard white bun calorie density."
+    },
+    {
+      "position": 9,
+      "grams": 150,
+      "caloriesPer100g": 15.9,
+      "assumptions": "Typical medium-large cucumber for tzatziki (grated weight after prep ~150g); knownCaloriesPer100g copied exactly."
+    }
+  ]
+}

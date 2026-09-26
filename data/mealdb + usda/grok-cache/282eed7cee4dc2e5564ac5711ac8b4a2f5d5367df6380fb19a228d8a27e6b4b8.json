@@ -1,0 +1,33 @@
+{
+  "inputHash": "282eed7cee4dc2e5564ac5711ac8b4a2f5d5367df6380fb19a228d8a27e6b4b8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:25.206Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 150,
+      "caloriesPer100g": 38,
+      "assumptions": "Large onion estimated at ~150g edible portion (typical medium-large onion is 100-200g; using upper end for 'large')."
+    },
+    {
+      "position": 3,
+      "grams": 120,
+      "caloriesPer100g": 198,
+      "assumptions": "'1 chopped' pork assumed to be one standard tonkatsu cutlet (~120g raw boneless pork loin, common in katsudon recipes; calorie density matches lean pork)."
+    },
+    {
+      "position": 6,
+      "grams": 5,
+      "caloriesPer100g": 250,
+      "assumptions": "Standard 1 tsp mirin = ~5g; ~250 kcal/100g is realistic for sweet rice wine (high sugar content)."
+    },
+    {
+      "position": 10,
+      "grams": 5,
+      "caloriesPer100g": 30,
+      "assumptions": "'Chopped' chives for garnish estimated at modest 5g total (small handful; typical for 2 servings)."
+    }
+  ]
+}

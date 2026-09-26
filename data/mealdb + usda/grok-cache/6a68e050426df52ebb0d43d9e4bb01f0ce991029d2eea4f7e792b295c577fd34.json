@@ -1,0 +1,45 @@
+{
+  "inputHash": "6a68e050426df52ebb0d43d9e4bb01f0ce991029d2eea4f7e792b295c577fd34",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:53.786Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 120,
+      "caloriesPer100g": 32,
+      "assumptions": "8 medium spring onions estimated at 15 g each (edible portion after trimming roots and outer leaves)."
+    },
+    {
+      "position": 4,
+      "grams": 240,
+      "caloriesPer100g": 299,
+      "assumptions": "Standard pack of 4 filo sheets; each ~60 g based on common 250 g packs of ~10-12 sheets total, using typical filo calorie density for raw pastry."
+    },
+    {
+      "position": 5,
+      "grams": 140,
+      "caloriesPer100g": 120,
+      "assumptions": "Standard drained weight of 1 can of tuna in oil or brine ~140 g edible portion (excluding can liquid); modest calorie density for canned tuna in water/oil mix as used in recipe."
+    },
+    {
+      "position": 7,
+      "grams": 5,
+      "caloriesPer100g": 21,
+      "assumptions": "Dash of hot sauce estimated as 1 tsp (5 g); calorie density copied from supplied known value."
+    },
+    {
+      "position": 8,
+      "grams": 480,
+      "caloriesPer100g": 22,
+      "assumptions": "4 medium chopped tomatoes estimated at 120 g each (edible raw portion); calorie density copied from supplied known value."
+    },
+    {
+      "position": 9,
+      "grams": 75,
+      "caloriesPer100g": 15.9,
+      "assumptions": "1/4 of a medium-large cucumber estimated at ~300 g whole, yielding ~75 g edible raw portion; calorie density copied from supplied known value."
+    }
+  ]
+}

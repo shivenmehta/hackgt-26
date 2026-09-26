@@ -1,0 +1,65 @@
+{
+  "inputHash": "1de2b011b2c53e9359116e253117d35d02ecd58d2afedc5f4dc602751b079e64",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:18:19.448Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 150,
+      "proteinG": 3.5,
+      "fatG": 1,
+      "assumptions": "6 medium carrots ≈ 360 g chopped, raw weights"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 45,
+      "proteinG": 1,
+      "fatG": 0.2,
+      "assumptions": "1 medium onion ≈ 110 g, raw"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 18,
+      "proteinG": 0.8,
+      "fatG": 0.1,
+      "assumptions": "4 cloves garlic ≈ 12 g, raw"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 8,
+      "proteinG": 0.4,
+      "fatG": 0.4,
+      "assumptions": "1 tsp cumin seeds ≈ 2 g"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 3,
+      "proteinG": 0.1,
+      "fatG": 0.2,
+      "assumptions": "1/2 tsp coriander seeds ≈ 1 g"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 120,
+      "proteinG": 0,
+      "fatG": 14,
+      "assumptions": "1 tbs olive oil = 14 g (all used in roasting)"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 2,
+      "proteinG": 0.1,
+      "fatG": 0.1,
+      "assumptions": "1/4 tsp garam masala ≈ 0.5 g"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 2,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tsp lemon juice ≈ 5 g"
+    }
+  ]
+}

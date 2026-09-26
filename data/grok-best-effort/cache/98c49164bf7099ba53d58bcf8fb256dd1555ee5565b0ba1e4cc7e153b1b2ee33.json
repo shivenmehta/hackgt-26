@@ -1,0 +1,199 @@
+{
+  "inputHash": "98c49164bf7099ba53d58bcf8fb256dd1555ee5565b0ba1e4cc7e153b1b2ee33",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:00.163Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 136,
+      "per100g": {
+        "caloriesKcal": 89,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 23,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 121.04,
+      "proteinG": 1.4960000000000002,
+      "fatG": 0.408,
+      "carbsG": 31.28,
+      "fiberG": 3.536,
+      "assumptions": "1 large banana (118 g flesh + peel adjustment, peeled edible portion ~136 g total used in mash)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 88,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 125.84,
+      "proteinG": 11.088,
+      "fatG": 8.36,
+      "carbsG": 0.616,
+      "fiberG": 0,
+      "assumptions": "2 medium eggs (USDA large ~50 g each edible without shell)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 27.7,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 0.53,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.27699999999999997,
+      "fiberG": 0.002,
+      "assumptions": "pinch of baking powder estimated at 1 g (typical small pinch for recipe)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0.1,
+        "fatG": 0.1,
+        "carbsG": 12.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 5.76,
+      "proteinG": 0.002,
+      "fatG": 0.002,
+      "carbsG": 0.254,
+      "fiberG": 0,
+      "assumptions": "sprinkling of vanilla extract estimated at 2 g (~1/2 tsp, common amount in pancake recipes)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 44.2,
+      "proteinG": 0,
+      "fatG": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp oil (vegetable or neutral oil, ~5 g; used for brushing pan)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 691,
+        "proteinG": 9.2,
+        "fatG": 72,
+        "carbsG": 14,
+        "fiberG": 9.6
+      },
+      "caloriesKcal": 172.75,
+      "proteinG": 2.3,
+      "fatG": 18,
+      "carbsG": 3.5,
+      "fiberG": 2.4,
+      "assumptions": "25 g pecans as listed (edible weight)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 52,
+        "proteinG": 1.2,
+        "fatG": 0.7,
+        "carbsG": 12,
+        "fiberG": 6.5
+      },
+      "caloriesKcal": 65,
+      "proteinG": 1.5,
+      "fatG": 0.875,
+      "carbsG": 15,
+      "fiberG": 8.125,
+      "assumptions": "125 g raspberries as listed (fresh, edible weight)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52855",
+    "name": "Banana Pancakes",
+    "cuisine": "American",
+    "instructions": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla.\r\nHeat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
+    "ingredients": [
+      { "position": 1, "name": "Banana", "measurement": "1 large" },
+      { "position": 2, "name": "Eggs", "measurement": "2 medium" },
+      { "position": 3, "name": "Baking Powder", "measurement": "pinch" },
+      { "position": 4, "name": "Vanilla Extract", "measurement": "spinkling" },
+      { "position": 5, "name": "Oil", "measurement": "1 tsp" },
+      { "position": 6, "name": "Pecan Nuts", "measurement": "25g" },
+      { "position": 7, "name": "Raspberries", "measurement": "125g" }
+    ]
+  }
+}

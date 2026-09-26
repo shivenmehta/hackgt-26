@@ -1,0 +1,107 @@
+{
+  "inputHash": "79184eae40fb0be270fd54af7bbef51430d8be42d2f84eb030ea09bf3351fbcc",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:16:06.227Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 880,
+      "proteinG": 84,
+      "fatG": 60,
+      "assumptions": "400g raw minced beef (80/20 lean-fat ratio assumed); all used in 4 patties"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 240,
+      "proteinG": 0,
+      "fatG": 28,
+      "assumptions": "2 tbs olive oil; assumes all 28g used for frying the patties"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 280,
+      "proteinG": 10,
+      "fatG": 4,
+      "assumptions": "2 standard sesame seed burger buns (~70g each including top, middle, bottom layers); all used"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 20,
+      "proteinG": 0.5,
+      "fatG": 0,
+      "assumptions": "1 medium onion (~110g) chopped; full amount used in assembly"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 8,
+      "proteinG": 0.7,
+      "fatG": 0.1,
+      "assumptions": "1/4 head iceberg lettuce (~75g) shredded; full amount used"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 160,
+      "proteinG": 10,
+      "fatG": 13,
+      "assumptions": "2 slices American-style cheese (~20g each); full amount used"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 10,
+      "proteinG": 0.4,
+      "fatG": 0.1,
+      "assumptions": "2 large dill pickles (~50g each drained); full amount sliced and used"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 1500,
+      "proteinG": 3,
+      "fatG": 160,
+      "assumptions": "1 cup mayonnaise (full 220g; all used in Big Mac sauce)"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 8,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "2 tsp white wine vinegar (~10g); all used in sauce"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 2,
+      "proteinG": 0.1,
+      "fatG": 0,
+      "assumptions": "Pinch of pepper (~0.5g); modest quantity used in sauce"
+    },
+    {
+      "position": 11,
+      "caloriesKcal": 10,
+      "proteinG": 0.6,
+      "fatG": 0.5,
+      "assumptions": "2 tsp mustard (~10g); all used in sauce"
+    },
+    {
+      "position": 12,
+      "caloriesKcal": 5,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "assumptions": "1.5 tsp onion salt (~9g); modest quantity used in sauce"
+    },
+    {
+      "position": 13,
+      "caloriesKcal": 8,
+      "proteinG": 0.4,
+      "fatG": 0,
+      "assumptions": "1.5 tsp garlic powder (~4.5g); all used in sauce"
+    },
+    {
+      "position": 14,
+      "caloriesKcal": 3,
+      "proteinG": 0.2,
+      "fatG": 0.1,
+      "assumptions": "0.5 tsp paprika (~1.5g); all used in sauce"
+    }
+  ]
+}

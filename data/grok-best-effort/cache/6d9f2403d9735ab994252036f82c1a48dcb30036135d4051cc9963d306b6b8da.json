@@ -1,0 +1,225 @@
+{
+  "inputHash": "6d9f2403d9735ab994252036f82c1a48dcb30036135d4051cc9963d306b6b8da",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:03.264Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1075.5,
+      "proteinG": 1.35,
+      "fatG": 121.5,
+      "carbsG": 0.15,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; full 150g used as listed for the recipe batter plus brushing tins.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 637,
+      "proteinG": 17.5,
+      "fatG": 1.75,
+      "carbsG": 133,
+      "fiberG": 4.7250000000000005,
+      "assumptions": "Standard plain white wheat flour; entire listed amount is incorporated into the batter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 483.75,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 125,
+      "fiberG": 0,
+      "assumptions": "Standard caster sugar (superfine white sugar); full listed amount beaten into batter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 214.5,
+      "proteinG": 18.9,
+      "fatG": 14.25,
+      "carbsG": 1.05,
+      "fiberG": 0,
+      "assumptions": "3 large eggs (approx 50g each, including shell but estimating edible portion only); used raw in batter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 27.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2.65,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1.385,
+      "fiberG": 0,
+      "assumptions": "1 tsp baking powder (approx 5g); standard amount sifted into dry ingredients.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 228,
+        "proteinG": 19.6,
+        "fatG": 13.7,
+        "carbsG": 57.9,
+        "fiberG": 37
+      },
+      "caloriesKcal": 22.8,
+      "proteinG": 1.96,
+      "fatG": 1.37,
+      "carbsG": 5.79,
+      "fiberG": 3.7,
+      "assumptions": "2 tsp unsweetened cocoa powder (approx 5-6g per tsp, total 10-12g rounded); mixed with milk for chocolate batter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 18.9,
+      "proteinG": 1.53,
+      "fatG": 0.45,
+      "carbsG": 2.25,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons milk (15ml each, total 45ml, density ~1g/ml); standard semi-skimmed cow's milk mixed with cocoa.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 46.44,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon icing sugar (powdered sugar, approx 12g); used for dusting finished cakes, plausible small amount for the batch.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53304",
+    "name": "Mini bundt cakes",
+    "cuisine": "Polish",
+    "instructions": "step 1\r\nHeat the oven to 180C/160C fan/gas 4. Melt 25g butter and generously brush into the holes of a mini bundt tins. Tip a little flour into each hole and shake to coat, then tip out the excess. Beat the butter, caster sugar and a pinch of salt together using an electric whisk. Add the eggs, one at a time, beating well after each addition. Combine the flour and baking powder in a separate bowl, then sift this into the wet ingredients and stir until smooth. Combine the cocoa powder and milk in a small bowl until smooth.\r\n\r\nstep 2\r\nSpoon 1 tbsp of the plain batter into each hole of the bundt tin. Mix the remaining plain batter with the cocoa powder mixture, then divide this between the holes. Bake for 15-18 mins, or until a skewer inserted into the cakes comes out clean. Leave to cool in the tin for 5 mins, then turn out onto a wire rack and leave to cool completely. Dust with icing sugar to serve.\r\n\r\nstep 3\r\nPour 1 tablespoon of light batter into each mold. Mix the remaining batter with the stirred cocoa mixture and then fill the molds with a tablespoon.\r\n\r\nstep 4\r\nBake the mini Bundt cakes in the preheated oven for 15-18 minutes , depending on the size of the molds. After 15 minutes of baking time, use a toothpick to test with a skewer and, if necessary, bake for another 3 minutes. Let the mini Bundt cakes cool down completely in the tin. Then carefully remove from the mold. Dust with some icing sugar and serve. Enjoy your meal!",
+    "ingredients": [
+      { "position": 1, "name": "Butter", "measurement": "150g" },
+      { "position": 2, "name": "Plain Flour", "measurement": "175g" },
+      { "position": 3, "name": "Caster Sugar", "measurement": "125g" },
+      { "position": 4, "name": "Egg", "measurement": "3" },
+      { "position": 5, "name": "Baking Powder", "measurement": "1 tsp" },
+      { "position": 6, "name": "Cocoa Powder", "measurement": "2 tsp" },
+      { "position": 7, "name": "Milk", "measurement": "3  tablespoons" },
+      { "position": 8, "name": "Icing Sugar", "measurement": "1 tablespoon" }
+    ]
+  }
+}

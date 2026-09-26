@@ -1,0 +1,65 @@
+{
+  "inputHash": "5f5798b6e686544f3ce2e75800e94181ab6f4c172ab71d96dc6e6e8801edeb84",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:20:39.375Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 80,
+      "proteinG": 11,
+      "fatG": 2,
+      "assumptions": "400g mushrooms cooked down to paste; ~20kcal/100g, 2.7g protein/100g, 0.5g fat/100g"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 30,
+      "proteinG": 1,
+      "fatG": 2,
+      "assumptions": "1.5 tbsp English mustard (~22g); typical values ~130kcal/100g, 4g protein/100g, 8g fat/100g"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 40,
+      "proteinG": 0,
+      "fatG": 4.5,
+      "assumptions": "dash olive oil for searing assumed as 5ml / ~1 tsp; 9kcal/ml, negligible protein"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 1050,
+      "proteinG": 165,
+      "fatG": 45,
+      "assumptions": "750g raw beef fillet (tenderloin); typical values ~140kcal/100g, 22g protein/100g, 6g fat/100g for lean cut"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 240,
+      "proteinG": 18,
+      "fatG": 18,
+      "assumptions": "7 slices Parma ham (~120g total); ~200kcal/100g, 15g protein/100g, 15g fat/100g"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 1700,
+      "proteinG": 23,
+      "fatG": 115,
+      "assumptions": "500g raw puff pastry; typical values ~340kcal/100g, 4.6g protein/100g, 23g fat/100g"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "flour for dusting: quantity too small and uncertain to estimate meaningfully"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 130,
+      "proteinG": 6,
+      "fatG": 11,
+      "assumptions": "2 large egg yolks (~34g); ~380kcal/100g, 17g protein/100g, 32g fat/100g"
+    }
+  ]
+}

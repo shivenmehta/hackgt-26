@@ -1,0 +1,251 @@
+{
+  "inputHash": "97790e564cf84424d69d1c3f887f90fd6306eaa6edf5b15182c5402cd64a7326",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:03.335Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 18,
+      "proteinG": 0.9,
+      "fatG": 0.225,
+      "carbsG": 4.05,
+      "fiberG": 0.675,
+      "assumptions": "1 large red chili ≈45g whole; edible portion after trimming stem.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0.8,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.3,
+      "fatG": 0.12,
+      "carbsG": 2.7,
+      "fiberG": 0.3,
+      "assumptions": "0.5 inch / 15g fresh ginger root, peeled weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.98,
+      "fiberG": 0.126,
+      "assumptions": "1 large garlic clove ≈6g, peeled.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.1,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 5.75,
+      "proteinG": 0.525,
+      "fatG": 0.125,
+      "carbsG": 0.925,
+      "fiberG": 0.7,
+      "assumptions": "Bunch of fresh coriander ≈25g usable leaves and stalks combined (typical small bunch trimmed).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp sunflower oil = 14g (standard volume-to-weight conversion).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 990,
+      "proteinG": 186,
+      "fatG": 21.6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 typical skinless chicken breasts, raw edible weight ≈600g total (150g each).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 588,
+        "proteinG": 25,
+        "fatG": 50,
+        "carbsG": 20,
+        "fiberG": 6
+      },
+      "caloriesKcal": 470.4,
+      "proteinG": 20,
+      "fatG": 40,
+      "carbsG": 16,
+      "fiberG": 4.8,
+      "assumptions": "5 tbsp smooth peanut butter ≈80g (16g per tbsp).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.3,
+        "carbsG": 0.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 10.5,
+      "proteinG": 1.35,
+      "fatG": 0.45,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "150ml chicken stock (typical low-fat prepared stock density ≈1g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 9,
+        "fatG": 5,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 194,
+      "proteinG": 18,
+      "fatG": 10,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "200g full-fat Greek yogurt as given (standard nutritional profile).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52851",
+    "name": "Nutty Chicken Curry",
+    "cuisine": "Indian",
+    "instructions": "Finely slice a quarter of the chilli, then put the rest in a food processor with the ginger, garlic, coriander stalks and one-third of the leaves. Whizz to a rough paste with a splash of water if needed.\r\nHeat the oil in a frying pan, then quickly brown the chicken chunks for 1 min. Stir in the paste for another min, then add the peanut butter, stock and yogurt. When the sauce is gently bubbling, cook for 10 mins until the chicken is just cooked through and sauce thickened. Stir in most of the remaining coriander, then scatter the rest on top with the chilli, if using. Eat with rice or mashed sweet potato.",
+    "ingredients": [
+      { "position": 1, "name": "Red Chilli", "measurement": "1 large" },
+      { "position": 2, "name": "Ginger", "measurement": "0.5" },
+      { "position": 3, "name": "Garlic", "measurement": "1 large" },
+      { "position": 4, "name": "Coriander", "measurement": "Bunch" },
+      { "position": 5, "name": "Sunflower Oil", "measurement": "1 tbsp" },
+      { "position": 6, "name": "Chicken Breasts", "measurement": "4" },
+      { "position": 7, "name": "Peanut Butter", "measurement": "5 tblsp" },
+      { "position": 8, "name": "Chicken Stock", "measurement": "150ml" },
+      { "position": 9, "name": "Greek Yogurt", "measurement": "200g" }
+    ]
+  }
+}

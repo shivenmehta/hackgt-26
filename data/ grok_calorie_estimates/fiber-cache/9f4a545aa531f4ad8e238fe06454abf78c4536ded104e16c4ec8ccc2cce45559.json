@@ -1,0 +1,93 @@
+{
+  "inputHash": "9f4a545aa531f4ad8e238fe06454abf78c4536ded104e16c4ec8ccc2cce45559",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:03:38.205Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 medium mackerel (approx 250g each, whole raw edible weight after cleaning) - fish contains no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 20,
+      "fiberG": 7.2,
+      "assumptions": "18 dried Kashmiri red chillies (approx 45g total) - using ~44g/100g carbs and ~16g/100g fiber for dried red chilies"
+    },
+    {
+      "position": 3,
+      "carbsG": 2.1,
+      "fiberG": 0.3,
+      "assumptions": "1 inch fresh ginger (approx 15g) - standard values for raw ginger"
+    },
+    {
+      "position": 4,
+      "carbsG": 8,
+      "fiberG": 0.5,
+      "assumptions": "8 garlic cloves (approx 24g) - standard values for raw garlic"
+    },
+    {
+      "position": 5,
+      "carbsG": 2.7,
+      "fiberG": 1.1,
+      "assumptions": "1.5 tsp whole black peppercorns (approx 4g) - standard values for black pepper"
+    },
+    {
+      "position": 6,
+      "carbsG": 1.2,
+      "fiberG": 0.2,
+      "assumptions": "1 tsp cumin seeds (approx 2g) - standard values for cumin seeds"
+    },
+    {
+      "position": 7,
+      "carbsG": 1,
+      "fiberG": 0.3,
+      "assumptions": "0.5 tsp turmeric powder (approx 1.5g) - standard values for turmeric"
+    },
+    {
+      "position": 8,
+      "carbsG": 1.7,
+      "fiberG": 1.1,
+      "assumptions": "1 cinnamon stick (approx 3g, modest quantity for paste) - standard values for cinnamon"
+    },
+    {
+      "position": 9,
+      "carbsG": 0.7,
+      "fiberG": 0.5,
+      "assumptions": "4 whole cloves (approx 1g) - standard values for cloves"
+    },
+    {
+      "position": 10,
+      "carbsG": 0.7,
+      "fiberG": 0.3,
+      "assumptions": "2 green cardamom pods (approx 1g) - standard values for cardamom"
+    },
+    {
+      "position": 11,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tbsp white sugar (approx 12g) - standard values for granulated sugar"
+    },
+    {
+      "position": 12,
+      "carbsG": 7.5,
+      "fiberG": 0.7,
+      "assumptions": "2 marble-sized tamarind balls (approx 15g pulp total) - standard values for tamarind pulp"
+    },
+    {
+      "position": 13,
+      "carbsG": 0.4,
+      "fiberG": 0,
+      "assumptions": "2.5 tbsp vinegar (approx 38g, negligible macros) - standard values for vinegar"
+    },
+    {
+      "position": 14,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "oil for shallow frying - cannot reasonably estimate total absorbed without specific volume or absorption data; pure oil has zero carbs"
+    }
+  ]
+}

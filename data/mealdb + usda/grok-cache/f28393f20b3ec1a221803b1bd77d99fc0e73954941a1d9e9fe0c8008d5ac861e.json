@@ -1,0 +1,39 @@
+{
+  "inputHash": "f28393f20b3ec1a221803b1bd77d99fc0e73954941a1d9e9fe0c8008d5ac861e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:45.558Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 5,
+      "grams": 6,
+      "caloriesPer100g": 47,
+      "assumptions": "2 strips of lemon zest estimated at ~3g each based on typical peel from 1/4-1/3 of a medium lemon; uses standard raw lemon zest calorie density."
+    },
+    {
+      "position": 6,
+      "grams": 3,
+      "caloriesPer100g": 247,
+      "assumptions": "1 cinnamon stick estimated at 3g (typical whole stick weight); copied known caloriesPer100g exactly."
+    },
+    {
+      "position": 9,
+      "grams": 50,
+      "caloriesPer100g": 381,
+      "assumptions": "Measurement supplied as 50g so copied exactly for grams; uses standard raw cornflour (corn starch) calorie density."
+    },
+    {
+      "position": 11,
+      "grams": 5,
+      "caloriesPer100g": 288,
+      "assumptions": "1 vanilla pod estimated at ~5g (typical whole pod weight, using seeds as directed); copied known caloriesPer100g exactly."
+    },
+    {
+      "position": 12,
+      "grams": 2,
+      "caloriesPer100g": 247,
+      "assumptions": "\"To serve\" is a modest dusting amount over 24 tarts, estimated at 2g total ground cinnamon; copied known caloriesPer100g exactly."
+    }
+  ]
+}

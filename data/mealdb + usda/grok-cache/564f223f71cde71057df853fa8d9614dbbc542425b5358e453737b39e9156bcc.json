@@ -1,0 +1,51 @@
+{
+  "inputHash": "564f223f71cde71057df853fa8d9614dbbc542425b5358e453737b39e9156bcc",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:50.967Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 480,
+      "caloriesPer100g": 201,
+      "assumptions": "4 small lamb leg steaks estimated at ~120g each (edible portion after trimming some fat as per recipe); typical small boneless lamb leg steak size used."
+    },
+    {
+      "position": 3,
+      "grams": 2,
+      "caloriesPer100g": 375,
+      "assumptions": "1 tsp ground cumin weighs ~2g; standard density for ground spices."
+    },
+    {
+      "position": 6,
+      "grams": 160,
+      "caloriesPer100g": 48,
+      "assumptions": "2 medium carrots estimated at 80g each; typical weight for whole peeled carrots in recipes."
+    },
+    {
+      "position": 7,
+      "grams": 30,
+      "caloriesPer100g": 32,
+      "assumptions": "2 sliced spring onions estimated at ~15g each; standard weight for medium scallions including green tops."
+    },
+    {
+      "position": 9,
+      "grams": 75,
+      "caloriesPer100g": null,
+      "assumptions": "5 sweet Peppadew peppers estimated at ~15g each (small pickled peppers); calorie density left null as no reasonable estimate without specific product data."
+    },
+    {
+      "position": 10,
+      "grams": 45,
+      "caloriesPer100g": 680,
+      "assumptions": "3 tablespoons mayonnaise estimated at 15g per tbsp; standard weight for mayo."
+    },
+    {
+      "position": 11,
+      "grams": 240,
+      "caloriesPer100g": 275,
+      "assumptions": "4 large pita breads estimated at 60g each; typical weight for large flatbread-style pitas."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "inputHash": "43c5557078a800d3037222978ad38e5091b2af9b95699d8532306900f2268cdf",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:36.986Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 370,
+      "fiberG": 15,
+      "assumptions": "500g dry macaroni (standard elbow or similar); ~74g carbs and 3g fiber per 100g uncooked"
+    },
+    {
+      "position": 2,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "2 US cups (480ml) chicken stock; assumes standard low-sodium broth ~1g carbs per cup"
+    },
+    {
+      "position": 3,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "1/2 US cup (120ml) heavy cream; ~3.3g carbs per 100ml, scaled to volume"
+    },
+    {
+      "position": 4,
+      "carbsG": 20,
+      "fiberG": 2,
+      "assumptions": "1 standard fajita seasoning packet (~30-35g); typical commercial mix values"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp table salt; negligible carbs"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 medium diced chicken breasts ~450g raw boneless skinless total; zero carbs"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp olive oil; zero carbs"
+    },
+    {
+      "position": 8,
+      "carbsG": 7,
+      "fiberG": 1,
+      "assumptions": "1 small onion (~70g) finely diced; raw values"
+    },
+    {
+      "position": 9,
+      "carbsG": 18,
+      "fiberG": 6,
+      "assumptions": "2 medium red bell peppers (~240g total) finely diced; raw values"
+    },
+    {
+      "position": 10,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "2 cloves garlic minced (~6g); raw values"
+    },
+    {
+      "position": 11,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 cup (100g) shredded cheddar cheese; standard values"
+    },
+    {
+      "position": 12,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "small handful chopped parsley for garnish (~10g); raw values"
+    }
+  ]
+}

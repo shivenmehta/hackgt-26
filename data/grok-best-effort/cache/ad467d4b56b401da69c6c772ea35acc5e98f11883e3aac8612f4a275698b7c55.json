@@ -1,0 +1,355 @@
+{
+  "inputHash": "ad467d4b56b401da69c6c772ea35acc5e98f11883e3aac8612f4a275698b7c55",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:04.489Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 54,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 477.36,
+      "proteinG": 0,
+      "fatG": 54,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 tbsp olive oil (standard 13.5g per tbsp; used in both onion/chickpea fry and aubergine brushing per instructions).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium chopped onion, typical edible weight ~110g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 9.1,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 18,
+      "proteinG": 0.855,
+      "fatG": 0.18,
+      "carbsG": 4.095,
+      "fiberG": 0.675,
+      "assumptions": "1 chopped red chilli, typical medium size ~45g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.8,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.18,
+      "fatG": 0.07,
+      "carbsG": 1.8,
+      "fiberG": 0.2,
+      "assumptions": "2cm piece of ginger, typical peeled weight ~10g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 17.8,
+        "fatG": 22.3,
+        "carbsG": 43.9,
+        "fiberG": 10.5
+      },
+      "caloriesKcal": 3.75,
+      "proteinG": 0.17800000000000002,
+      "fatG": 0.223,
+      "carbsG": 0.439,
+      "fiberG": 0.105,
+      "assumptions": "1/2 tsp ground cumin; standard density ~2g per tsp so 1g total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 138,
+        "proteinG": 8.9,
+        "fatG": 2.6,
+        "carbsG": 22.5,
+        "fiberG": 7
+      },
+      "caloriesKcal": 552,
+      "proteinG": 35.6,
+      "fatG": 10.4,
+      "carbsG": 90,
+      "fiberG": 28,
+      "assumptions": "400g chickpeas, drained weight from standard can as used in recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 36,
+      "proteinG": 1.8,
+      "fatG": 0.4,
+      "carbsG": 7.8,
+      "fiberG": 2.4,
+      "assumptions": "200g tomatoes (canned or fresh chopped per context).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.5,
+        "fatG": 0.2,
+        "carbsG": 9.3,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 4.35,
+      "proteinG": 0.075,
+      "fatG": 0.03,
+      "carbsG": 1.395,
+      "fiberG": 0.045,
+      "assumptions": "Juice of 1/2 lemon; typical yield ~15-20g, using 15g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 150,
+      "proteinG": 6,
+      "fatG": 1.2,
+      "carbsG": 36,
+      "fiberG": 18,
+      "assumptions": "2 medium aubergines; typical whole edible weight 300g each, total 600g (grilled with minimal oil already counted in pos 1).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 9,
+        "fatG": 5,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 194,
+      "proteinG": 18,
+      "fatG": 10,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "200g Greek yogurt (full-fat standard).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "1 garlic clove, typical peeled weight ~3g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 654,
+        "proteinG": 15.2,
+        "fatG": 65.2,
+        "carbsG": 13.7,
+        "fiberG": 6.7
+      },
+      "caloriesKcal": 163.5,
+      "proteinG": 3.8,
+      "fatG": 16.3,
+      "carbsG": 3.425,
+      "fiberG": 1.675,
+      "assumptions": "25g walnuts (as measured; split between sauce and garnish per instructions).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.1,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 3.45,
+      "proteinG": 0.315,
+      "fatG": 0.075,
+      "carbsG": 0.555,
+      "fiberG": 0.42,
+      "assumptions": "Handful of coriander leaves; typical fresh herb handful ~10-20g, using 15g for both mixing and scattering.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53255",
+    "name": "Grilled aubergines with spicy chickpeas & walnut sauce",
+    "cuisine": "Turkish",
+    "instructions": "step 1\r\nHeat 2 tbsp oil in a pan, add the onion and fry until soft and lightly browned, about 10 mins. Add the chilli, ginger and spices and mix well. Stir in the chickpeas, tomatoes and 5 tbsp water, bring to the boil, then simmer for 10 mins. Add a little salt and pepper and the lemon juice.\r\n\r\nstep 2\r\nArrange the aubergines over a grill pan. Brush lightly with oil, sprinkle with salt and pepper, then grill until golden. Flip them over, brush again with oil, season and grill again until tender and golden.\r\n\r\nstep 3\r\nMix the yogurt with the garlic, most of the walnuts and coriander and a little salt and pepper. Arrange the aubergine slices over a warm platter and spoon over the chickpea mix. Drizzle with the walnut sauce and scatter with the remaining walnuts and coriander.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "4 tablespoons" },
+      { "position": 2, "name": "Onion", "measurement": "1 chopped" },
+      { "position": 3, "name": "Red Chilli", "measurement": "1 chopped" },
+      { "position": 4, "name": "Ginger", "measurement": "2cm piece" },
+      { "position": 5, "name": "Ground Cumin", "measurement": "1/2 teaspoon" },
+      { "position": 6, "name": "Chickpeas", "measurement": "400g" },
+      { "position": 7, "name": "Tomato", "measurement": "200g" },
+      { "position": 8, "name": "Lemon", "measurement": "Juice of 1/2" },
+      { "position": 9, "name": "Aubergine", "measurement": "2" },
+      { "position": 10, "name": "Greek Yogurt", "measurement": "200g" },
+      { "position": 11, "name": "Garlic Clove", "measurement": "1" },
+      { "position": 12, "name": "Walnuts", "measurement": "25g" },
+      { "position": 13, "name": "Coriander", "measurement": "Handful" }
+    ]
+  }
+}

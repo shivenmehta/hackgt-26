@@ -1,0 +1,21 @@
+{
+  "inputHash": "0fbe36ede166c668dd9722fc55db5575e2669616b6e01814c784ac08ac50712e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:36.412Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 350,
+      "caloriesPer100g": null,
+      "assumptions": "Using the supplied knownGrams value of 350 g exactly as the full edible weight of the shortcrust pastry used to line the 22 cm tart tin (no trimming or waste assumed)."
+    },
+    {
+      "position": 3,
+      "grams": 10,
+      "caloriesPer100g": 358,
+      "assumptions": "'Dusting' is a modest amount of flour sprinkled on the work surface and rolling pin to prevent sticking; realistically 8-15 g is typical for a single pie crust, so 10 g used here. Copying the supplied knownCaloriesPer100g exactly."
+    }
+  ]
+}

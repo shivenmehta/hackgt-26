@@ -1,0 +1,277 @@
+{
+  "inputHash": "0bd2c968e762633f1874e71edd7ea7f3866e1258acc991bf8225d1e9c4b12627",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:14.865Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 640,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17.5,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 492.8,
+      "proteinG": 12.8,
+      "fatG": 0.64,
+      "carbsG": 112,
+      "fiberG": 14.08,
+      "assumptions": "4 cups mashed potato volume equates to ~640g peeled/boiled potatoes based on typical recipe yield and density",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 55,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 394.35,
+      "proteinG": 0.495,
+      "fatG": 44.55,
+      "carbsG": 0.055,
+      "fiberG": 0,
+      "assumptions": "60 ml butter (standard 2 tbsp = 28 g, so full amount ~55 g)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 50.4,
+      "proteinG": 4.08,
+      "fatG": 1.2,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "½ cup milk is approximately 120 ml / 123 g using 2% milk as standard",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 17,
+        "fatG": 20,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1125,
+      "proteinG": 76.5,
+      "fatG": 90,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw minced/ground beef (80/20 typical for recipes); 450 g as given",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion finely chopped is ~110 g raw",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 480,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 18,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 384,
+      "proteinG": 9.6,
+      "fatG": 2.4,
+      "carbsG": 86.4,
+      "fiberG": 7.2,
+      "assumptions": "500 ml creamed corn (density ~0.96 g/ml) = 480 g; typical canned values used",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14,
+        "fatG": 13,
+        "carbsG": 54,
+        "fiberG": 37
+      },
+      "caloriesKcal": 2.82,
+      "proteinG": 0.14,
+      "fatG": 0.13,
+      "carbsG": 0.54,
+      "fiberG": 0.37,
+      "assumptions": "Paprika 'to taste' estimated at 1 g (small sprinkle for whole dish)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.7,
+        "carbsG": 6,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 0.72,
+      "proteinG": 0.06,
+      "fatG": 0.013999999999999999,
+      "carbsG": 0.12,
+      "fiberG": 0.066,
+      "assumptions": "Parsley 'to taste' estimated at 2 g fresh (small garnish amount)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Salt 'dash' estimated at 1 g (typical small seasoning amount); contributes negligible macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pepper 'dash' estimated at 1 g (typical small seasoning amount); contributes negligible macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52930",
+    "name": "Pate Chinois",
+    "cuisine": "Canadian",
+    "instructions": "In a large pot of salted water, cook the potatoes until they are very tender. Drain.\r\nWith a masher, coarsely crush the potatoes with at least 30 ml (2 tablespoons) of butter. With an electric mixer, purée with the milk. Season with salt and pepper. Set aside.\r\nWith the rack in the middle position, preheat the oven to 190 °C (375 °F).\r\nIn a large skillet, brown the onion in the remaining butter. Add the meat and cook until golden brown. Season with salt and pepper. Remove from the heat.\r\nLightly press the meat at the bottom of a 20-cm (8-inch) square baking dish. Cover with the corn and the mashed potatoes. Sprinkle with paprika and parsley.\r\nBake for about 30 minutes. Finish cooking under the broiler. Let cool for 10 minutes.",
+    "ingredients": [
+      { "position": 1, "name": "Potatoes", "measurement": "4 cups" },
+      { "position": 2, "name": "Butter", "measurement": "60ml" },
+      { "position": 3, "name": "Milk", "measurement": "½ cup" },
+      { "position": 4, "name": "Minced Beef", "measurement": "450g" },
+      { "position": 5, "name": "Onion", "measurement": "1 finely chopped" },
+      { "position": 6, "name": "Creamed Corn", "measurement": "500ml" },
+      { "position": 7, "name": "Paprika", "measurement": "to taste" },
+      { "position": 8, "name": "Parsley", "measurement": "to taste" },
+      { "position": 9, "name": "Salt", "measurement": "Dash" },
+      { "position": 10, "name": "Pepper", "measurement": "Dash" }
+    ]
+  }
+}

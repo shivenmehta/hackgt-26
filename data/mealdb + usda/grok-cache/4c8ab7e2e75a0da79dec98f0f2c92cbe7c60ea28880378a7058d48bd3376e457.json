@@ -1,0 +1,33 @@
+{
+  "inputHash": "4c8ab7e2e75a0da79dec98f0f2c92cbe7c60ea28880378a7058d48bd3376e457",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:35.560Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 360,
+      "caloriesPer100g": 31.4,
+      "assumptions": "6 large cabbage leaves estimated at ~60g each (edible wilted portion after removing tough stalks; typical weight for large savoy or similar cabbage leaves used in stuffing recipes); calorie value copied from supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 5,
+      "grams": 40,
+      "caloriesPer100g": 16.7,
+      "assumptions": "1 medium celery stalk chopped estimated at ~40g (standard edible weight for one trimmed celery rib); calorie value copied from supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 7,
+      "grams": 140,
+      "caloriesPer100g": 213,
+      "assumptions": "Grams copied from supplied knownGrams in the input (140g cooked chestnuts); caloriesPer100g estimated from typical values for cooked/roasted European chestnuts (~213 kcal/100g, accounting for moisture loss vs raw)."
+    },
+    {
+      "position": 8,
+      "grams": 50,
+      "caloriesPer100g": 46,
+      "assumptions": "Grams copied from supplied knownGrams in the input (50g cranberries); caloriesPer100g estimated from typical values for fresh cranberries (~46 kcal/100g)."
+    }
+  ]
+}

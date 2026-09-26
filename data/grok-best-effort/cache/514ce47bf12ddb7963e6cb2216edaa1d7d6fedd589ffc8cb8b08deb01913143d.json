@@ -1,0 +1,359 @@
+{
+  "inputHash": "514ce47bf12ddb7963e6cb2216edaa1d7d6fedd589ffc8cb8b08deb01913143d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:50.772Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 5,
+        "fatG": 9,
+        "carbsG": 75,
+        "fiberG": 0
+      },
+      "caloriesKcal": 475,
+      "proteinG": 6.25,
+      "fatG": 11.25,
+      "carbsG": 93.75,
+      "fiberG": 0,
+      "assumptions": "Standard vanilla custard powder (e.g. Bird's); values for dry powder only.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 193.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 50,
+      "fiberG": 0,
+      "assumptions": "Granulated caster sugar.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 228,
+        "proteinG": 20,
+        "fatG": 14,
+        "carbsG": 58,
+        "fiberG": 37
+      },
+      "caloriesKcal": 68.4,
+      "proteinG": 6,
+      "fatG": 4.2,
+      "carbsG": 17.4,
+      "fiberG": 11.1,
+      "assumptions": "Unsweetened cocoa powder; 5 tbs ≈ 30 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.5,
+      "proteinG": 6.5,
+      "fatG": 5,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 large beaten egg ≈ 50 g edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 480,
+        "proteinG": 7,
+        "fatG": 20,
+        "carbsG": 65,
+        "fiberG": 3
+      },
+      "caloriesKcal": 960,
+      "proteinG": 14,
+      "fatG": 40,
+      "carbsG": 130,
+      "fiberG": 6,
+      "assumptions": "Digestive biscuits, crushed/shredded; typical sweet biscuit values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 660,
+        "proteinG": 7,
+        "fatG": 65,
+        "carbsG": 24,
+        "fiberG": 16
+      },
+      "caloriesKcal": 660,
+      "proteinG": 7,
+      "fatG": 65,
+      "carbsG": 24,
+      "fiberG": 16,
+      "assumptions": "Unsweetened desiccated coconut.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 579,
+        "proteinG": 21,
+        "fatG": 50,
+        "carbsG": 22,
+        "fiberG": 12
+      },
+      "caloriesKcal": 289.5,
+      "proteinG": 10.5,
+      "fatG": 25,
+      "carbsG": 11,
+      "fiberG": 6,
+      "assumptions": "Chopped or ground almonds.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 1,
+        "fatG": 81,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 717,
+      "proteinG": 1,
+      "fatG": 81,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter for base layer.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2,
+        "fatG": 36,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 204,
+      "proteinG": 1.2,
+      "fatG": 21.6,
+      "carbsG": 1.8,
+      "fiberG": 0,
+      "assumptions": "Heavy/double cream; 4 tbs ≈ 60 ml (density ≈ 1 g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 23,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 5,
+        "fatG": 9,
+        "carbsG": 75,
+        "fiberG": 0
+      },
+      "caloriesKcal": 87.4,
+      "proteinG": 1.15,
+      "fatG": 2.07,
+      "carbsG": 17.25,
+      "fiberG": 0,
+      "assumptions": "Custard powder (same as position 1); 3 tbs ≈ 23 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 967.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 250,
+      "fiberG": 0,
+      "assumptions": "Powdered/icing sugar.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 550,
+        "proteinG": 5,
+        "fatG": 35,
+        "carbsG": 55,
+        "fiberG": 7
+      },
+      "caloriesKcal": 825,
+      "proteinG": 7.5,
+      "fatG": 52.5,
+      "carbsG": 82.5,
+      "fiberG": 10.5,
+      "assumptions": "Dark/semi-sweet chocolate (≈50-60 % cocoa).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 1,
+        "fatG": 81,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 358.5,
+      "proteinG": 0.5,
+      "fatG": 40.5,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter for chocolate topping layer.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52924",
+    "name": "Nanaimo Bars",
+    "cuisine": "Canadian",
+    "instructions": "Start by making the biscuit base. In a bowl, over a pan of simmering water, melt the butter with the sugar and cocoa powder, stirring occasionally until smooth. Whisk in the egg for 2 to 3 mins until the mixture has thickened. Remove from heat and mix in the biscuit crumbs, coconut and almonds if using, then press into the base of a lined 20cm square tin. Chill for 10 mins.\r\nFor the middle layer, make the custard icing; whisk together the butter, cream and custard powder until light and fluffy, then gradually add the icing sugar until fully incorporated. Spread over the bottom layer and chill in the fridge for at least 10 mins until the custard is no longer soft.\r\nMelt the chocolate and butter together in the microwave, then spread over the chilled bars and put back in the fridge. Leave until the chocolate has fully set (about 2 hrs). Take the mixture out of the tin and slice into squares to serve.",
+    "ingredients": [
+      { "position": 1, "name": "Custard", "measurement": "125g" },
+      { "position": 2, "name": "Caster Sugar", "measurement": "50g" },
+      { "position": 3, "name": "Cocoa", "measurement": "5 tbs" },
+      { "position": 4, "name": "Egg", "measurement": "1 beaten" },
+      {
+        "position": 5,
+        "name": "Digestive Biscuits",
+        "measurement": "200g shredded"
+      },
+      { "position": 6, "name": "Desiccated Coconut", "measurement": "100g" },
+      { "position": 7, "name": "Almonds", "measurement": "50g" },
+      { "position": 8, "name": "Butter", "measurement": "100g" },
+      { "position": 9, "name": "Double Cream", "measurement": "4 tbs" },
+      { "position": 10, "name": "Custard Powder", "measurement": "3 tbs" },
+      { "position": 11, "name": "Icing Sugar", "measurement": "250g" },
+      { "position": 12, "name": "Dark Chocolate", "measurement": "150g" },
+      { "position": 13, "name": "Butter", "measurement": "50g" }
+    ]
+  }
+}

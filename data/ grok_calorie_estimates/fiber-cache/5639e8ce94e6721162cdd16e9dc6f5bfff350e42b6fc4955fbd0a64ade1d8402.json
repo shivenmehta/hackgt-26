@@ -1,0 +1,45 @@
+{
+  "inputHash": "5639e8ce94e6721162cdd16e9dc6f5bfff350e42b6fc4955fbd0a64ade1d8402",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:17.027Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 302,
+      "fiberG": 14,
+      "assumptions": "1 lb (454 g) dry fettuccine, standard uncooked durum wheat pasta values"
+    },
+    {
+      "position": 2,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "1/2 cup (120 ml) heavy whipping cream; standard full-fat values"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 cup (113 g) unsalted butter; pure fat, zero carbs"
+    },
+    {
+      "position": 4,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1/2 cup (50 g) grated Parmesan cheese; standard hard cheese values"
+    },
+    {
+      "position": 5,
+      "carbsG": 1,
+      "fiberG": 0.5,
+      "assumptions": "2 tbsp (~8 g) chopped fresh parsley leaves; standard herb values"
+    },
+    {
+      "position": 6,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "black pepper to taste; quantity unspecified, treated as unknown/negligible"
+    }
+  ]
+}

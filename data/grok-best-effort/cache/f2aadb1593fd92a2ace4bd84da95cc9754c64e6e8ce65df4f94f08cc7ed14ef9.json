@@ -1,0 +1,147 @@
+{
+  "inputHash": "f2aadb1593fd92a2ace4bd84da95cc9754c64e6e8ce65df4f94f08cc7ed14ef9",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:40.091Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 44,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 10.3,
+        "fiberG": 1.9
+      },
+      "caloriesKcal": 96.8,
+      "proteinG": 2.4200000000000004,
+      "fatG": 0.22,
+      "carbsG": 22.66,
+      "fiberG": 4.18,
+      "assumptions": "2 medium onions at ~110g each, raw weight, finely chopped as per recipe; typical white/yellow onion values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 101,
+        "proteinG": 5.6,
+        "fatG": 1.7,
+        "carbsG": 24.5,
+        "fiberG": 14.1
+      },
+      "caloriesKcal": 10.1,
+      "proteinG": 0.56,
+      "fatG": 0.17,
+      "carbsG": 2.45,
+      "fiberG": 1.41,
+      "assumptions": "A few sprigs of fresh thyme estimated at 10g total (plausible small bunch for flavoring the onions); standard fresh thyme nutrient profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons olive oil; standard density ~13.5g per tbsp, used for frying onions as instructed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 1500,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 1155,
+      "proteinG": 30,
+      "fatG": 1.5,
+      "carbsG": 255,
+      "fiberG": 33.00000000000001,
+      "assumptions": "1.5kg potatoes, raw peeled weight typical for Boulangère Potatoes recipe; standard white potato values, as they are layered and baked.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 425,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 1.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 29.75,
+      "proteinG": 0.425,
+      "fatG": 0,
+      "carbsG": 6.8,
+      "fiberG": 0,
+      "assumptions": "425g vegetable stock (as measured); typical low-calorie stock values, poured over the layered dish before baking.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52914",
+    "name": "Boulangère Potatoes",
+    "cuisine": "French",
+    "instructions": "Heat oven to 200C/fan 180C/gas 6. Fry the onions and thyme sprigs in the oil until softened and lightly coloured (about 5 mins).\r\nSpread a layer of potatoes over the base of a 1.5-litre oiled gratin dish. Sprinkle over a few onions (see picture, above) and continue layering, finishing with a layer of potatoes. Pour over the stock and bake for 50-60 mins until the potatoes are cooked and the top is golden and crisp.",
+    "ingredients": [
+      { "position": 1, "name": "Onions", "measurement": "2 finely chopped" },
+      { "position": 2, "name": "Thyme", "measurement": "sprigs of fresh" },
+      { "position": 3, "name": "Olive Oil", "measurement": "2 tbs" },
+      { "position": 4, "name": "Potatoes", "measurement": "1.5kg" },
+      { "position": 5, "name": "Vegetable Stock", "measurement": "425g" }
+    ]
+  }
+}

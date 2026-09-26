@@ -1,0 +1,39 @@
+{
+  "inputHash": "d6e2160b7751c64ded354abc31b05acb6fdd5dc4dd5efcce86d54b38cd7477a6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:54.975Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 6,
+      "caloriesPer100g": 143,
+      "assumptions": "Standard garlic clove is ~3g each when peeled and sliced; 2 cloves total 6g edible portion."
+    },
+    {
+      "position": 4,
+      "grams": 45,
+      "caloriesPer100g": 40,
+      "assumptions": "Average medium red chili pepper is ~45g whole; edible sliced portion after removing stem is nearly the full weight."
+    },
+    {
+      "position": 7,
+      "grams": 75,
+      "caloriesPer100g": 81,
+      "assumptions": "Measurement given as 75g; typical frozen green peas are ~81 kcal/100g."
+    },
+    {
+      "position": 10,
+      "grams": 20,
+      "caloriesPer100g": 23,
+      "assumptions": "'Bunch' of coriander (cilantro) estimated at 20g usable chopped leaves for a standard supermarket bunch; stems often partially discarded."
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "caloriesPer100g": 21,
+      "assumptions": "'To serve' hot sauce is a modest per-person drizzle; 5g total estimate across the recipe (modest seasoning amount)."
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "inputHash": "8b1f5e57338e02d969273b91b06774be9dac50546f3f16e60e38f024fb4f9d71",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:10.318Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 550,
+        "proteinG": 8,
+        "fatG": 38,
+        "carbsG": 35,
+        "fiberG": 8
+      },
+      "caloriesKcal": 1100,
+      "proteinG": 16,
+      "fatG": 76,
+      "carbsG": 70,
+      "fiberG": 16,
+      "assumptions": "Typical 70% dark chocolate; values reflect average commercial product.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 535,
+        "proteinG": 7.5,
+        "fatG": 30,
+        "carbsG": 57,
+        "fiberG": 3
+      },
+      "caloriesKcal": 535,
+      "proteinG": 7.5,
+      "fatG": 30,
+      "carbsG": 57,
+      "fiberG": 3,
+      "assumptions": "Typical milk chocolate bar; values reflect average commercial product.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 720,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1800,
+      "proteinG": 1.5,
+      "fatG": 202.5,
+      "carbsG": 0.25,
+      "fiberG": 0,
+      "assumptions": "Salted butter; standard butter nutrition with negligible salt impact.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0.5,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1520,
+      "proteinG": 2,
+      "fatG": 0,
+      "carbsG": 392,
+      "fiberG": 0,
+      "assumptions": "Light brown soft sugar; nearly identical to white sugar nutritionally.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 286,
+      "proteinG": 25.2,
+      "fatG": 19,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "4 large eggs ≈ 200 g edible portion (without shells); standard large egg weight used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 509.6,
+      "proteinG": 14,
+      "fatG": 1.4,
+      "carbsG": 106.4,
+      "fiberG": 4.2,
+      "assumptions": "Plain white wheat flour; standard values for all-purpose flour.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 20,
+        "fatG": 10,
+        "carbsG": 45,
+        "fiberG": 25
+      },
+      "caloriesKcal": 175,
+      "proteinG": 10,
+      "fatG": 5,
+      "carbsG": 22.5,
+      "fiberG": 12.5,
+      "assumptions": "Unsweetened cocoa powder; standard unsweetened baking cocoa.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 52,
+        "proteinG": 1.2,
+        "fatG": 0.7,
+        "carbsG": 12,
+        "fiberG": 6.5
+      },
+      "caloriesKcal": 104,
+      "proteinG": 2.4,
+      "fatG": 1.4,
+      "carbsG": 24,
+      "fiberG": 13,
+      "assumptions": "Fresh whole raspberries; standard values for raw edible raspberries.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52860",
+    "name": "Chocolate Raspberry Brownies",
+    "cuisine": "American",
+    "instructions": "Heat oven to 180C/160C fan/gas 4. Line a 20 x 30cm baking tray tin with baking parchment. Put the chocolate, butter and sugar in a pan and gently melt, stirring occasionally with a wooden spoon. Remove from the heat.\r\nStir the eggs, one by one, into the melted chocolate mixture. Sieve over the flour and cocoa, and stir in. Stir in half the raspberries, scrape into the tray, then scatter over the remaining raspberries. Bake on the middle shelf for 30 mins or, if you prefer a firmer texture, for 5 mins more. Cool before slicing into squares. Store in an airtight container for up to 3 days.",
+    "ingredients": [
+      { "position": 1, "name": "Dark Chocolate", "measurement": "200g" },
+      { "position": 2, "name": "Milk Chocolate", "measurement": "100g" },
+      { "position": 3, "name": "Salted Butter", "measurement": "250g" },
+      {
+        "position": 4,
+        "name": "Light Brown Soft Sugar",
+        "measurement": "400g"
+      },
+      { "position": 5, "name": "Eggs", "measurement": "4 large" },
+      { "position": 6, "name": "Plain Flour", "measurement": "140g" },
+      { "position": 7, "name": "Cocoa", "measurement": "50g" },
+      { "position": 8, "name": "Raspberries", "measurement": "200g" }
+    ]
+  }
+}

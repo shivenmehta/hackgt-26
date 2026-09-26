@@ -1,0 +1,75 @@
+{
+  "inputHash": "b4d11d190d146964569cd63aa024c12def4a74f85a51559d97aa97a6dd475bd6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:06:17.549Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 150,
+      "fiberG": 6,
+      "assumptions": "200g dry flat rice noodles; standard dry rice noodle values ~75g carbs and 3g fiber per 100g"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp vegetable oil; pure fat with no carbohydrates"
+    },
+    {
+      "position": 3,
+      "carbsG": 3,
+      "fiberG": 0.2,
+      "assumptions": "3 cloves garlic (~9g total), chopped; standard garlic values ~33g carbs and ~2g fiber per 100g raw"
+    },
+    {
+      "position": 4,
+      "carbsG": 3,
+      "fiberG": 0.5,
+      "assumptions": "3 birds-eye chillies (~15g total), chopped; standard raw chilli values ~20g carbs and ~3g fiber per 100g"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "225g raw sirloin steak; plain meat with no carbohydrates"
+    },
+    {
+      "position": 6,
+      "carbsG": 7,
+      "fiberG": 2.6,
+      "assumptions": "100g raw broccoli florets; standard values ~7g carbs and 2.6g fiber per 100g"
+    },
+    {
+      "position": 7,
+      "carbsG": 0.6,
+      "fiberG": 0.4,
+      "assumptions": "Handful fresh Thai basil leaves (~10g); standard fresh basil values ~6g carbs and 4g fiber per 100g"
+    },
+    {
+      "position": 8,
+      "carbsG": 6,
+      "fiberG": 0.6,
+      "assumptions": "4 tbsp (60ml) regular soy sauce; typical values ~10g carbs and 1g fiber per 100ml"
+    },
+    {
+      "position": 9,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "4 tbsp (60ml) oyster sauce; typical values ~20g carbs per 100ml with negligible fiber"
+    },
+    {
+      "position": 10,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 tsp (5ml) fish sauce; typical values ~10g carbs per 100ml with negligible fiber"
+    },
+    {
+      "position": 11,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tbsp (12g) white sugar; 100% sucrose carbohydrate"
+    }
+  ]
+}

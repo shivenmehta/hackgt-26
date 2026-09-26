@@ -1,0 +1,255 @@
+{
+  "inputHash": "89a2fcf6ceac1efaa0493b18ef30a364d706019cbd28a09131685ceaed95b58e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:35:20.532Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard tablespoon of olive oil is 14g; 100% fat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 88,
+      "proteinG": 2.4200000000000004,
+      "fatG": 0.22,
+      "carbsG": 20.46,
+      "fiberG": 3.74,
+      "assumptions": "2 medium red onions (approx 110g each) chopped; values for raw red onion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 9.1,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 18,
+      "proteinG": 0.855,
+      "fatG": 0.18,
+      "carbsG": 4.095,
+      "fiberG": 0.675,
+      "assumptions": "1 medium red chilli (approx 45g) finely chopped; values for raw red chili pepper.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "1 average garlic clove (approx 3g); values for raw garlic.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.1,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 4.6,
+      "proteinG": 0.42,
+      "fatG": 0.1,
+      "carbsG": 0.74,
+      "fiberG": 0.56,
+      "assumptions": "Coriander listed as 'Chopped' with no quantity; plausible assumption of 20g total (stalks in base + leaves to finish) based on typical shakshuka recipes; values for raw coriander/cilantro.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 4,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 144,
+      "proteinG": 7.2,
+      "fatG": 1.6,
+      "carbsG": 32,
+      "fiberG": 9.6,
+      "assumptions": "800g cherry tomatoes used as given; values for raw cherry tomatoes (similar to standard tomatoes).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 46.44,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon caster sugar is approx 12g; values for granulated sugar.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 286,
+      "proteinG": 25.2,
+      "fatG": 19,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "4 large eggs (approx 50g each, edible portion); values for raw whole egg.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 264,
+        "proteinG": 14.2,
+        "fatG": 21.3,
+        "carbsG": 2.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 79.2,
+      "proteinG": 4.26,
+      "fatG": 6.39,
+      "carbsG": 0.81,
+      "fiberG": 0,
+      "assumptions": "'Spinkling' of feta interpreted as a light 30g garnish on top (typical for 4 servings); values for feta cheese.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52963",
+    "name": "Shakshuka",
+    "cuisine": "Egyptian",
+    "instructions": "Heat the oil in a frying pan that has a lid, then soften the onions, chilli, garlic and coriander stalks for 5 mins until soft. Stir in the tomatoes and sugar, then bubble for 8-10 mins until thick. Can be frozen for 1 month.\r\n\r\nUsing the back of a large spoon, make 4 dips in the sauce, then crack an egg into each one. Put a lid on the pan, then cook over a low heat for 6-8 mins, until the eggs are done to your liking. Scatter with the coriander leaves and serve with crusty bread.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "1 tbs" },
+      { "position": 2, "name": "Red Onions", "measurement": "2 chopped" },
+      {
+        "position": 3,
+        "name": "Red Chilli",
+        "measurement": "1 finely chopped"
+      },
+      { "position": 4, "name": "Garlic", "measurement": "1 clove" },
+      { "position": 5, "name": "Coriander", "measurement": "Chopped" },
+      { "position": 6, "name": "Cherry Tomatoes", "measurement": "800g" },
+      { "position": 7, "name": "Caster Sugar", "measurement": "1 tbs" },
+      { "position": 8, "name": "Eggs", "measurement": "4" },
+      { "position": 9, "name": "Feta", "measurement": "Spinkling" }
+    ]
+  }
+}

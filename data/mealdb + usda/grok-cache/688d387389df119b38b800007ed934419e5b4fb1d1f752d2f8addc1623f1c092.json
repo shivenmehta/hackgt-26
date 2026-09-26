@@ -1,0 +1,33 @@
+{
+  "inputHash": "688d387389df119b38b800007ed934419e5b4fb1d1f752d2f8addc1623f1c092",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:57.184Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 0.3,
+      "caloriesPer100g": 0,
+      "assumptions": "Standard pinch of salt is ~0.3g; matches knownCaloriesPer100g=0 as pure salt has negligible caloric value in tiny amounts."
+    },
+    {
+      "position": 3,
+      "grams": 0.3,
+      "caloriesPer100g": 251,
+      "assumptions": "Standard pinch of pepper is ~0.3g; using supplied knownCaloriesPer100g exactly. Modest seasoning amount per guidelines."
+    },
+    {
+      "position": 4,
+      "grams": 5,
+      "caloriesPer100g": 80,
+      "assumptions": "1 tsp ginger cordial/juice ~5g (density similar to syrupy liquid); estimated calories based on typical ginger cordial values around 60-100 kcal/100g, averaged realistically for recipe context."
+    },
+    {
+      "position": 6,
+      "grams": 6,
+      "caloriesPer100g": 32,
+      "assumptions": "1 tbs chopped spring onions ~6g (standard volume-to-weight for sliced greens); using supplied knownCaloriesPer100g exactly. Modest amount consistent with full recipe."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "inputHash": "0e191de00840dd6063f0da020d907ca6c31498c56434dc0a6e5e8c35683c6ff8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:56.274Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1.2,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 436.8,
+      "proteinG": 12.36,
+      "fatG": 1.44,
+      "carbsG": 91.56,
+      "fiberG": 3.24,
+      "assumptions": "Standard plain white wheat flour; values for uncooked flour.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 232.2,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 60,
+      "fiberG": 0,
+      "assumptions": "Standard caster sugar (sucrose); 100% carbohydrate.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 430.2,
+      "proteinG": 0.36,
+      "fatG": 48.6,
+      "carbsG": 0.06,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; standard dairy butter values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 52,
+        "proteinG": 0.3,
+        "fatG": 0.2,
+        "carbsG": 13.8,
+        "fiberG": 2.4
+      },
+      "caloriesKcal": 156,
+      "proteinG": 0.9,
+      "fatG": 0.6,
+      "carbsG": 41.4,
+      "fiberG": 7.2,
+      "assumptions": "Braeburn apples, raw, with peel, cored and diced as per instructions; typical apple edible portion values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 215.1,
+      "proteinG": 0.18,
+      "fatG": 24.3,
+      "carbsG": 0.03,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; standard dairy butter values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 114,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 29.4,
+      "fiberG": 0,
+      "assumptions": "Demerara sugar; typical raw cane sugar values, nearly identical to white sugar nutritionally.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 43,
+        "proteinG": 1.4,
+        "fatG": 0.5,
+        "carbsG": 9.6,
+        "fiberG": 5.3
+      },
+      "caloriesKcal": 51.6,
+      "proteinG": 1.68,
+      "fatG": 0.6,
+      "carbsG": 11.52,
+      "fiberG": 6.36,
+      "assumptions": "Fresh blackberries; raw values, as they are cooked lightly.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 1.2,
+        "carbsG": 80.6,
+        "fiberG": 53.4
+      },
+      "caloriesKcal": 2.47,
+      "proteinG": 0.04,
+      "fatG": 0.012,
+      "carbsG": 0.8059999999999999,
+      "fiberG": 0.534,
+      "assumptions": "Ground cinnamon; ¼ tsp ≈ 0.6-0.8 g rounded to 1 g for estimation; high-fiber spice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 207,
+        "proteinG": 3.5,
+        "fatG": 11,
+        "carbsG": 23.6,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 207,
+      "proteinG": 3.5,
+      "fatG": 11,
+      "carbsG": 23.6,
+      "fiberG": 0.7,
+      "assumptions": "Vanilla ice cream 'to serve'; typical commercial vanilla ice cream values, assuming ~100 g portion as a plausible single-serving amount for the whole crumble (recipe makes 4-6 servings).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52893",
+    "name": "Apple & Blackberry Crumble",
+    "cuisine": "British",
+    "instructions": "Heat oven to 190C/170C fan/gas 5. Tip the flour and sugar into a large bowl. Add the butter, then rub into the flour using your fingertips to make a light breadcrumb texture. Do not overwork it or the crumble will become heavy. Sprinkle the mixture evenly over a baking sheet and bake for 15 mins or until lightly coloured.\r\nMeanwhile, for the compote, peel, core and cut the apples into 2cm dice. Put the butter and sugar in a medium saucepan and melt together over a medium heat. Cook for 3 mins until the mixture turns to a light caramel. Stir in the apples and cook for 3 mins. Add the blackberries and cinnamon, and cook for 3 mins more. Cover, remove from the heat, then leave for 2-3 mins to continue cooking in the warmth of the pan.\r\nTo serve, spoon the warm fruit into an ovenproof gratin dish, top with the crumble mix, then reheat in the oven for 5-10 mins. Serve with vanilla ice cream.",
+    "ingredients": [
+      { "position": 1, "name": "Plain Flour", "measurement": "120g" },
+      { "position": 2, "name": "Caster Sugar", "measurement": "60g" },
+      { "position": 3, "name": "Butter", "measurement": "60g" },
+      { "position": 4, "name": "Braeburn Apples", "measurement": "300g" },
+      { "position": 5, "name": "Butter", "measurement": "30g" },
+      { "position": 6, "name": "Demerara Sugar", "measurement": "30g" },
+      { "position": 7, "name": "Blackberries", "measurement": "120g" },
+      { "position": 8, "name": "Cinnamon", "measurement": "¼ teaspoon" },
+      { "position": 9, "name": "Ice Cream", "measurement": "to serve" }
+    ]
+  }
+}

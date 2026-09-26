@@ -1,0 +1,63 @@
+{
+  "inputHash": "6121008f079df7ca8139411f8ec75c6a11f5194dafc6cd23b7aa308c8788bc7c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:26.472Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 91,
+      "fiberG": 3,
+      "assumptions": "120g plain white flour; standard nutritional values for wheat flour"
+    },
+    {
+      "position": 2,
+      "carbsG": 60,
+      "fiberG": 0,
+      "assumptions": "60g caster sugar; fully refined sucrose"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "60g unsalted butter; standard butter composition"
+    },
+    {
+      "position": 4,
+      "carbsG": 39,
+      "fiberG": 5.4,
+      "assumptions": "300g whole raw Braeburn apples with skin, cored and diced as per instructions (edible portion after minor trimming)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "30g unsalted butter; standard butter composition"
+    },
+    {
+      "position": 6,
+      "carbsG": 30,
+      "fiberG": 0,
+      "assumptions": "30g demerara sugar; essentially sucrose with minor molasses"
+    },
+    {
+      "position": 7,
+      "carbsG": 9,
+      "fiberG": 5.4,
+      "assumptions": "120g raw blackberries; standard values, no draining"
+    },
+    {
+      "position": 8,
+      "carbsG": 0.4,
+      "fiberG": 0.3,
+      "assumptions": "¼ tsp (≈0.6g) ground cinnamon; modest quantity for seasoning"
+    },
+    {
+      "position": 9,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "ice cream 'to serve' - quantity not specified in recipe, cannot estimate total contribution"
+    }
+  ]
+}

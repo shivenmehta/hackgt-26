@@ -1,0 +1,463 @@
+{
+  "inputHash": "c61622362c7d47cbd1545c7ac610bccec3187c8a07369834516b28eee7810f72",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:23:26.308Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 26,
+        "fatG": 17,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2500,
+      "proteinG": 260,
+      "fatG": 170,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw beef chuck roast, typical for braising; values reflect average for boneless beef shoulder.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 120,
+      "proteinG": 3.3,
+      "fatG": 0.3,
+      "carbsG": 27.9,
+      "fiberG": 5.1,
+      "assumptions": "Medium yellow onions, raw weight; 3 onions estimated at ~100g each based on standard recipe use.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 29.8,
+      "proteinG": 1.28,
+      "fatG": 0.1,
+      "carbsG": 6.62,
+      "fiberG": 0.42,
+      "assumptions": "4 average garlic cloves, raw; total ~20g as typical household measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 265.2,
+      "proteinG": 0,
+      "fatG": 30,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Dash of olive oil for searing and cooking estimated at 2 tbsp total (~30g) based on recipe context of 'dash' plus 'small slug'.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 455,
+        "proteinG": 24,
+        "fatG": 38,
+        "carbsG": 2.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1365,
+      "proteinG": 72,
+      "fatG": 114,
+      "carbsG": 7.5,
+      "fiberG": 0,
+      "assumptions": "Cured chorizo sausage, typical Spanish-style; fully edible weight as given.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 22,
+        "carbsG": 44,
+        "fiberG": 11
+      },
+      "caloriesKcal": 15,
+      "proteinG": 0.72,
+      "fatG": 0.88,
+      "carbsG": 1.76,
+      "fiberG": 0.44,
+      "assumptions": "Ground cumin; 2 tsp estimated at ~4g using standard spice density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 263,
+        "proteinG": 9,
+        "fatG": 7,
+        "carbsG": 50,
+        "fiberG": 16
+      },
+      "caloriesKcal": 10.52,
+      "proteinG": 0.36,
+      "fatG": 0.28,
+      "carbsG": 2,
+      "fiberG": 0.64,
+      "assumptions": "Ground allspice; 2 tsp estimated at ~4g using standard spice density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 274,
+        "proteinG": 9,
+        "fatG": 13,
+        "carbsG": 66,
+        "fiberG": 34
+      },
+      "caloriesKcal": 5.48,
+      "proteinG": 0.18,
+      "fatG": 0.26,
+      "carbsG": 1.32,
+      "fiberG": 0.68,
+      "assumptions": "Ground cloves; 1 tsp estimated at ~2g using standard spice density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 3,
+        "carbsG": 81,
+        "fiberG": 53
+      },
+      "caloriesKcal": 14.82,
+      "proteinG": 0.24,
+      "fatG": 0.18,
+      "carbsG": 4.86,
+      "fiberG": 3.18,
+      "assumptions": "1 large cinnamon stick; estimated edible portion ~6g as whole spice used for infusion but partially consumed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 bay leaves; negligible edible weight and nutrition as typically removed before serving.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 11,
+        "fatG": 4,
+        "carbsG": 69,
+        "fiberG": 43
+      },
+      "caloriesKcal": 5.3,
+      "proteinG": 0.22,
+      "fatG": 0.08,
+      "carbsG": 1.38,
+      "fiberG": 0.86,
+      "assumptions": "Dried oregano; 2 tsp estimated at ~2g using standard spice density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 281,
+        "proteinG": 12,
+        "fatG": 9,
+        "carbsG": 65,
+        "fiberG": 27
+      },
+      "caloriesKcal": 84.3,
+      "proteinG": 3.6,
+      "fatG": 2.7,
+      "carbsG": 19.5,
+      "fiberG": 8.1,
+      "assumptions": "2 dried ancho chillies; total ~30g based on typical dried chile size and recipe use (rehydrated in cooking).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 88,
+        "proteinG": 0.5,
+        "fatG": 0,
+        "carbsG": 17,
+        "fiberG": 0
+      },
+      "caloriesKcal": 39.6,
+      "proteinG": 0.225,
+      "fatG": 0,
+      "carbsG": 7.65,
+      "fiberG": 0,
+      "assumptions": "Balsamic vinegar; 3 tbsp estimated at ~45g using standard liquid measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 4,
+        "fiberG": 1
+      },
+      "caloriesKcal": 144,
+      "proteinG": 8,
+      "fatG": 1.6,
+      "carbsG": 32,
+      "fiberG": 8,
+      "assumptions": "Canned plum tomatoes in juice; 2 x 400g tins including liquid as added to stew (drained solids would be lower but full can weight used per context).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 102,
+        "proteinG": 1.8,
+        "fatG": 0.3,
+        "carbsG": 24,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 30.6,
+      "proteinG": 0.54,
+      "fatG": 0.09,
+      "carbsG": 7.2,
+      "fiberG": 0.21,
+      "assumptions": "Tomato ketchup; 2 tbsp estimated at ~30g using standard condiment measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 95,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 24.5,
+      "fiberG": 0,
+      "assumptions": "Dark brown sugar; 2 tbsp estimated at ~25g using standard measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 90,
+        "proteinG": 6,
+        "fatG": 0.5,
+        "carbsG": 16,
+        "fiberG": 6
+      },
+      "caloriesKcal": 720,
+      "proteinG": 48,
+      "fatG": 4,
+      "carbsG": 128,
+      "fiberG": 48,
+      "assumptions": "Canned borlotti beans; 2 x 400g tins including drained weight approximation (full can weight used as typical in chili recipes, assuming ~half liquid).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52826",
+    "name": "Braised Beef Chilli",
+    "cuisine": "Mexican",
+    "instructions": "Preheat the oven to 120C/225F/gas mark 1.\r\n\r\nTake the meat out of the fridge to de-chill. Pulse the onions and garlic in a food processor until finely chopped. Heat 2 tbsp olive oil in a large casserole and sear the meat on all sides until golden.\r\n\r\nSet to one side and add another small slug of oil to brown the chorizo. Remove and add the onion and garlic, spices, herbs and chillies then cook until soft in the chorizo oil. Season with salt and pepper and add the vinegar, tomatoes, ketchup and sugar.\r\n\r\nPut all the meat back into the pot with 400ml water (or red wine if you prefer), bring up to a simmer and cook, covered, in the low oven.\r\n\r\nAfter 2 hours, check the meat and add the beans. Cook for a further hour and just before serving, pull the meat apart with a pair of forks.",
+    "ingredients": [
+      { "position": 1, "name": "Beef", "measurement": "1kg" },
+      { "position": 2, "name": "Onions", "measurement": "3" },
+      { "position": 3, "name": "Garlic", "measurement": "4 cloves" },
+      { "position": 4, "name": "Olive oil", "measurement": "Dash" },
+      { "position": 5, "name": "Chorizo", "measurement": "300g" },
+      { "position": 6, "name": "Cumin", "measurement": "2 tsp" },
+      { "position": 7, "name": "Allspice", "measurement": "2 tsp" },
+      { "position": 8, "name": "Cloves", "measurement": "1 tsp" },
+      { "position": 9, "name": "Cinnamon stick", "measurement": "1 large" },
+      { "position": 10, "name": "Bay Leaves", "measurement": "3" },
+      { "position": 11, "name": "Oregano", "measurement": "2 tsp dried" },
+      { "position": 12, "name": "Ancho Chillies", "measurement": "2 ancho" },
+      { "position": 13, "name": "Balsamic Vinegar", "measurement": "3 tbsp" },
+      { "position": 14, "name": "Plum Tomatoes", "measurement": "2 x 400g" },
+      { "position": 15, "name": "Tomato Ketchup", "measurement": "2 tbsp" },
+      { "position": 16, "name": "Dark Brown Sugar", "measurement": "2 tbsp" },
+      {
+        "position": 17,
+        "name": "Borlotti Beans",
+        "measurement": "2 x 400g tins"
+      }
+    ]
+  }
+}

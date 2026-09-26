@@ -1,0 +1,57 @@
+{
+  "inputHash": "6bb036204b7947fdf2e832a3f14017015a4660cc0a3ac59241e538dae6e313fd",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:04.999Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 26.7,
+      "caloriesPer100g": 31.2,
+      "assumptions": "1/3 cup sliced mushrooms (shiitake or similar) estimated at ~80 g/cup; used 26.7 g edible portion. Matches supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 2,
+      "grams": 8,
+      "caloriesPer100g": null,
+      "assumptions": "1/3 cup dried wood ear mushrooms rehydrates to ~24 g but edible drained weight for soup is modest; used conservative 8 g estimate based on typical dried-to-soup usage. No reasonable calorie density from recipe context, so left null."
+    },
+    {
+      "position": 3,
+      "grams": 150,
+      "caloriesPer100g": 145,
+      "assumptions": "2/3 cup cubed soft tofu estimated at ~225 g/cup; used 150 g edible portion. Matches supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 4,
+      "grams": 75,
+      "caloriesPer100g": 198,
+      "assumptions": "1/2 cup diced BBQ pork (char siu) estimated at ~150 g/cup; used 75 g edible cooked portion. Matches supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 5,
+      "grams": 600,
+      "caloriesPer100g": 6,
+      "assumptions": "2.5 cups chicken stock estimated at ~240 g/cup; used 600 g. Matches supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 9,
+      "grams": 0.6,
+      "caloriesPer100g": 251,
+      "assumptions": "1/4 tsp white pepper estimated at ~0.6 g. Matches supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 11,
+      "grams": 360,
+      "caloriesPer100g": 18,
+      "assumptions": "1.5 cups vinegar (likely rice vinegar) estimated at ~240 g/cup; used 360 g. Matches supplied knownCaloriesPer100g. Note: volume seems high for soup but followed recipe as given."
+    },
+    {
+      "position": 15,
+      "grams": 25,
+      "caloriesPer100g": 32,
+      "assumptions": "1/4 cup sliced green onions estimated at ~100 g/cup; used 25 g edible portion. Matches supplied knownCaloriesPer100g."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "inputHash": "b92723db001c75a25cb106e5251498396533ec8f1c6be4ad501f78c897bfd08b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:55.842Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Handful of sea salt (≈15-20g); zero carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 bay leaves (≈0.8g total); nutritional contribution negligible, treated as zero"
+    },
+    {
+      "position": 3,
+      "carbsG": 4,
+      "fiberG": 0.3,
+      "assumptions": "4 cloves garlic (≈12g total); raw weight used, standard garlic values"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Handful of fresh thyme (≈10-15g); nutritional contribution negligible, treated as zero"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 duck legs (≈1400g total raw with skin/bone); zero carbohydrates"
+    },
+    {
+      "position": 6,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "100ml white wine; standard dry white wine values"
+    }
+  ]
+}

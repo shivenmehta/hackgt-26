@@ -1,0 +1,57 @@
+{
+  "inputHash": "2b41b96d10333f75754730efd5e148df78d27d38e7df953adae2fdb7f8022ca1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:03.272Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 13.3,
+      "fiberG": 6.5,
+      "assumptions": "1 medium aubergine ~350g edible portion, raw; standard values ~3.8g carbs/100g including ~1.9g fiber"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbsp olive oil = 45ml total; pure oil contains no carbohydrates or fiber"
+    },
+    {
+      "position": 3,
+      "carbsG": 103.6,
+      "fiberG": 6.7,
+      "assumptions": "140g dry couscous; standard dry values ~74g carbs/100g including ~4.8g fiber"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.1,
+      "fiberG": 0,
+      "assumptions": "225g prepared vegetable stock; low-carb ~0.5g carbs/100g, negligible fiber"
+    },
+    {
+      "position": 5,
+      "carbsG": 8,
+      "fiberG": 2.4,
+      "assumptions": "200g cherry tomatoes, raw; ~4g carbs/100g including ~1.2g fiber"
+    },
+    {
+      "position": 6,
+      "carbsG": 0.8,
+      "fiberG": 0.6,
+      "assumptions": "handful fresh mint ~15g; ~5g carbs/100g including ~4g fiber"
+    },
+    {
+      "position": 7,
+      "carbsG": 2.5,
+      "fiberG": 0,
+      "assumptions": "100g goat cheese; ~2.5g carbs/100g, negligible fiber"
+    },
+    {
+      "position": 8,
+      "carbsG": 2.5,
+      "fiberG": 0.1,
+      "assumptions": "juice of 1/2 lemon ~30g; ~8.3g carbs/100g including ~0.3g fiber"
+    }
+  ]
+}

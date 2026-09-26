@@ -1,0 +1,75 @@
+{
+  "inputHash": "3bcc881f1e3f7b783a0bc00235b1c01a686e2e37ad8a079f253b3326de5bf09b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:24.719Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 113,
+      "fiberG": 3.8,
+      "assumptions": "150g plain wheat flour (standard ~75.4g carbs/100g including ~2.5g fiber)"
+    },
+    {
+      "position": 2,
+      "carbsG": 11.5,
+      "fiberG": 7,
+      "assumptions": "50g cocoa powder (often labelled cocoa sugar; ~23g carbs/100g with ~14g fiber)"
+    },
+    {
+      "position": 3,
+      "carbsG": 3.1,
+      "fiberG": 0,
+      "assumptions": "8 whole medium-large eggs (~71g edible each, standard ~0.7g carbs per egg)"
+    },
+    {
+      "position": 4,
+      "carbsG": 200,
+      "fiberG": 0,
+      "assumptions": "200g caster sugar (standard sucrose ~100g carbs/100g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "5 large egg whites (~33g each, standard ~0.24g carbs per white)"
+    },
+    {
+      "position": 6,
+      "carbsG": 200,
+      "fiberG": 0,
+      "assumptions": "200g caster sugar (standard sucrose ~100g carbs/100g)"
+    },
+    {
+      "position": 7,
+      "carbsG": 34.3,
+      "fiberG": 16.8,
+      "assumptions": "250g shelled walnuts (standard ~13.7g carbs/100g with ~6.7g fiber)"
+    },
+    {
+      "position": 8,
+      "carbsG": 6.3,
+      "fiberG": 0.2,
+      "assumptions": "1 level tablespoon plain flour (~8.5g, ~74g carbs/100g with ~2.5g fiber)"
+    },
+    {
+      "position": 9,
+      "carbsG": 8.3,
+      "fiberG": 0,
+      "assumptions": "1 level tablespoon potato starch (~10g, ~83g carbs/100g)"
+    },
+    {
+      "position": 10,
+      "carbsG": 3.3,
+      "fiberG": 0,
+      "assumptions": "100g double cream (standard ~3.3g carbs/100g)"
+    },
+    {
+      "position": 11,
+      "carbsG": 38,
+      "fiberG": 11,
+      "assumptions": "100g dark chocolate chips (typical dark chocolate ~38g carbs/100g with ~11g fiber)"
+    }
+  ]
+}

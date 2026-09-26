@@ -1,0 +1,329 @@
+{
+  "inputHash": "a7ed0fcd2dc30fd4759aa3f2e79db4d94ef6d42600d2e3782b52576ec155f018",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:19.195Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 340,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 561,
+      "proteinG": 105.4,
+      "fatG": 12.24,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 typical boneless skinless chicken breasts, ~6 oz each raw",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 340,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 139.4,
+      "proteinG": 3.06,
+      "fatG": 0.68,
+      "carbsG": 32.64,
+      "fiberG": 9.52,
+      "assumptions": "12 oz whole fresh carrots, trimmed/peeled weight used for estimate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 750,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17.5,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 577.5,
+      "proteinG": 15,
+      "fatG": 0.75,
+      "carbsG": 131.25,
+      "fiberG": 16.500000000000004,
+      "assumptions": "5 medium russet or Yukon gold potatoes, ~150 g each raw with skin",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium-large yellow onion, raw weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 12.5,
+        "fatG": 0,
+        "carbsG": 25,
+        "fiberG": 0
+      },
+      "caloriesKcal": 25,
+      "proteinG": 1.25,
+      "fatG": 0,
+      "carbsG": 2.5,
+      "fiberG": 0,
+      "assumptions": "1 beef stock concentrate packet (typical ~10 g, concentrated bouillon-like product)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 168,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 22,
+        "fatG": 22,
+        "carbsG": 2.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 504,
+      "proteinG": 36.96,
+      "fatG": 36.96,
+      "carbsG": 4.032,
+      "fiberG": 0,
+      "assumptions": "1.5 cups shredded low-moisture mozzarella cheese (typical density ~112 g/cup)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 181,
+        "proteinG": 2.1,
+        "fatG": 17.7,
+        "carbsG": 3.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 54.3,
+      "proteinG": 0.63,
+      "fatG": 5.31,
+      "carbsG": 1.05,
+      "fiberG": 0,
+      "assumptions": "2 tbsp full-fat sour cream (typical 15 g per tbsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 57,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 408.69,
+      "proteinG": 0.513,
+      "fatG": 46.17,
+      "carbsG": 0.057,
+      "fiberG": 0,
+      "assumptions": "4 tbsp butter for 4 servings (standard 14 g per tbsp); recipe context implies full 4-serving amount",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 30.96,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "~2 tsp granulated sugar for 4 servings (typical 4 g per tsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 265.2,
+      "proteinG": 0,
+      "fatG": 30,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "~3 tbsp total vegetable oil used across roasting, onion, and chicken steps (typical 14 g per tbsp); reasonable recipe volume for pan drizzles",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Salt to taste; estimated total added amount for whole recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pepper to taste; estimated total added amount for whole recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52996",
+    "name": "French Onion Chicken with Roasted Carrots & Mashed Potatoes",
+    "cuisine": "American",
+    "instructions": "1\r\n\r\nPreheat oven to 425 degrees. Wash and dry all produce. Trim, peel, and cut carrots on a diagonal into ¼-inch-thick pieces. Dice potatoes into ½-inch pieces. Halve, peel, and thinly slice onion.\r\n\r\n2\r\n\r\nToss carrots on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 15-20 minutes.\r\n\r\n3\r\n\r\nMeanwhile, place potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until tender, 12-15 minutes. Drain and return potatoes to pot; cover to keep warm.\r\n\r\n4\r\n\r\nWhile potatoes cook, heat a drizzle of oil in a large pan over medium-high heat. Add onion and cook, stirring occasionally, until lightly browned and softened, 8-10 minutes. Sprinkle with 1 tsp sugar (2 tsp for 4 servings). Stir in stock concentrate and 2 TBSP water (¼ cup for 4); season with salt and pepper. Cook until jammy, 2-3 minutes more. Turn off heat; transfer to a small bowl. Wash out pan.\r\n\r\n5\r\n\r\nPat chicken dry with paper towels; season all over with salt and pepper. Heat a drizzle of oil in pan used for onion over medium-high heat. Add chicken and cook until browned and cooked through, 5-6 minutes per side. In the last 1-2 minutes of cooking, top with caramelized onion and cheese. Cover pan until cheese melts. (If your pan doesn’t have a lid, cover with a baking sheet!)\r\n\r\n6\r\n\r\nHeat pot with drained potatoes over low heat; mash with sour cream, 2 TBSP butter (4 TBSP for 4 servings), salt, pepper, and a splash of water (or milk, for extra richness) until smooth. Divide chicken, roasted carrots, and mashed potatoes between plates.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken Breasts", "measurement": "2" },
+      { "position": 2, "name": "Carrots", "measurement": "12 ounces" },
+      { "position": 3, "name": "Potatoes", "measurement": "5" },
+      { "position": 4, "name": "Onion", "measurement": "1" },
+      { "position": 5, "name": "Beef Stock", "measurement": "1" },
+      { "position": 6, "name": "Mozzarella", "measurement": "1 1/2 cup" },
+      { "position": 7, "name": "Sour Cream", "measurement": "2 tbsp" },
+      { "position": 8, "name": "Butter", "measurement": null },
+      { "position": 9, "name": "Sugar", "measurement": null },
+      { "position": 10, "name": "Vegetable Oil", "measurement": null },
+      { "position": 11, "name": "Salt", "measurement": null },
+      { "position": 12, "name": "Pepper", "measurement": null }
+    ]
+  }
+}

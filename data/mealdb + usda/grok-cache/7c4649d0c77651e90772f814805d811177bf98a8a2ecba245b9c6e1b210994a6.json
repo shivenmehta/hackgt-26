@@ -1,0 +1,39 @@
+{
+  "inputHash": "7c4649d0c77651e90772f814805d811177bf98a8a2ecba245b9c6e1b210994a6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:24.326Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 172,
+      "caloriesPer100g": 106,
+      "assumptions": "Standard boneless, skinless chicken breast is ~172g (6oz). Used knownCaloriesPer100g exactly. This is raw weight before marinating/frying; edible portion after cooking is similar mass minus minor moisture loss."
+    },
+    {
+      "position": 2,
+      "grams": 60,
+      "caloriesPer100g": null,
+      "assumptions": "1/4 cup pickle juice ≈ 60g (density near water). Modest volume used for marinating; not all absorbed. No reasonable calorie density for pickle juice in this context so left as null."
+    },
+    {
+      "position": 9,
+      "grams": 0.5,
+      "caloriesPer100g": 251,
+      "assumptions": "1/4 tsp ground black pepper ≈ 0.5g. Used knownGrams estimate based on typical spice density and knownCaloriesPer100g exactly. Negligible contribution but quantified per instructions."
+    },
+    {
+      "position": 11,
+      "grams": 0.75,
+      "caloriesPer100g": null,
+      "assumptions": "1/4 tsp celery salt ≈ 0.75g (similar density to table salt). Modest seasoning amount; not all may adhere. No reasonable calorie density available so left as null."
+    },
+    {
+      "position": 14,
+      "grams": 50,
+      "caloriesPer100g": null,
+      "assumptions": "Typical sesame seed burger bun is ~45-55g; used 50g as average. This is the full bun (top + bottom) for the sandwich. No reasonable calorie density supplied for the specific bun so left as null."
+    }
+  ]
+}

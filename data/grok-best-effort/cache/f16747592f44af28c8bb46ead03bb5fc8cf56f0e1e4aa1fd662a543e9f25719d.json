@@ -1,0 +1,355 @@
+{
+  "inputHash": "f16747592f44af28c8bb46ead03bb5fc8cf56f0e1e4aa1fd662a543e9f25719d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:23.005Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1150,
+      "per100g": {
+        "caloriesKcal": 170,
+        "proteinG": 18.6,
+        "fatG": 9.3,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1955,
+      "proteinG": 213.9,
+      "fatG": 106.95,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 whole chicken estimated at 2.5 lb / 1134 g raw edible yield after removing giblets and excess bone; typical broiler chicken values used, raw with skin.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 123,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 22.14,
+      "proteinG": 1.107,
+      "fatG": 0.24600000000000002,
+      "carbsG": 4.797,
+      "fiberG": 1.476,
+      "assumptions": "1 medium tomato chopped, typical weight 123 g raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 88,
+      "proteinG": 2.4200000000000004,
+      "fatG": 0.22,
+      "carbsG": 20.46,
+      "fiberG": 3.74,
+      "assumptions": "2 medium onions chopped, 110 g each, raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 cloves garlic, typical 6 g total, raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 119,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 36.89,
+      "proteinG": 1.19,
+      "fatG": 0.357,
+      "carbsG": 7.14,
+      "fiberG": 2.499,
+      "assumptions": "1 medium red bell pepper chopped, typical 119 g raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 61,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 25.01,
+      "proteinG": 0.5489999999999999,
+      "fatG": 0.12200000000000001,
+      "carbsG": 5.856,
+      "fiberG": 1.7079999999999997,
+      "assumptions": "1 medium carrot chopped, typical 61 g raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 67,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 19.43,
+      "proteinG": 0.469,
+      "fatG": 0.134,
+      "carbsG": 7.035,
+      "fiberG": 1.876,
+      "assumptions": "1 whole lime, typical 67 g with some juice squeezed and discarded per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 276,
+        "proteinG": 16,
+        "fatG": 7.4,
+        "carbsG": 64.4,
+        "fiberG": 37
+      },
+      "caloriesKcal": 11.04,
+      "proteinG": 0.64,
+      "fatG": 0.29600000000000004,
+      "carbsG": 2.576,
+      "fiberG": 1.48,
+      "assumptions": "2 tsp dried thyme leaves, typical 4 g total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 263,
+        "proteinG": 6,
+        "fatG": 8.7,
+        "carbsG": 50.5,
+        "fiberG": 21.6
+      },
+      "caloriesKcal": 5.26,
+      "proteinG": 0.12,
+      "fatG": 0.174,
+      "carbsG": 1.01,
+      "fiberG": 0.43200000000000005,
+      "assumptions": "1 tsp ground allspice (pimento), typical 2 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.2,
+        "fatG": 0.1,
+        "carbsG": 4.9,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 15.9,
+      "proteinG": 1.56,
+      "fatG": 0.03,
+      "carbsG": 1.47,
+      "fiberG": 0.21,
+      "assumptions": "2 tbs regular soy sauce, typical 30 g total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0,
+        "carbsG": 91.3,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 19.05,
+      "proteinG": 0.015,
+      "fatG": 0,
+      "carbsG": 4.565,
+      "fiberG": 0.045,
+      "assumptions": "2 tsp cornstarch (listed as such despite instructions mentioning flour), typical 5 g total; used as thickener.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 480,
+      "per100g": {
+        "caloriesKcal": 197,
+        "proteinG": 2,
+        "fatG": 21.3,
+        "carbsG": 3.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 945.6,
+      "proteinG": 9.6,
+      "fatG": 102.24,
+      "carbsG": 15.84,
+      "fiberG": 0,
+      "assumptions": "2 cups canned full-fat coconut milk, typical 480 g total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbs vegetable oil for browning, typical 14 g; all oil assumed absorbed or retained in final dish per recipe context.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52940",
+    "name": "Brown Stew Chicken",
+    "cuisine": "Jamaican",
+    "instructions": "Squeeze lime over chicken and rub well. Drain off excess lime juice.\r\nCombine tomato, scallion, onion, garlic, pepper, thyme, pimento and soy sauce in a large bowl with the chicken pieces. Cover and marinate at least one hour.\r\nHeat oil in a dutch pot or large saucepan. Shake off the seasonings as you remove each piece of chicken from the marinade. Reserve the marinade for sauce.\r\nLightly brown the chicken a few pieces at a time in very hot oil. Place browned chicken pieces on a plate to rest while you brown the remaining pieces.\r\nDrain off excess oil and return the chicken to the pan. Pour the marinade over the chicken and add the carrots. Stir and cook over medium heat for 10 minutes.\r\nMix flour and coconut milk and add to stew, stirring constantly. Turn heat down to minimum and cook another 20 minutes or until tender.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken", "measurement": "1 whole" },
+      { "position": 2, "name": "Tomato", "measurement": "1 chopped" },
+      { "position": 3, "name": "Onions", "measurement": "2 chopped" },
+      { "position": 4, "name": "Garlic Clove", "measurement": "2 chopped" },
+      { "position": 5, "name": "Red Pepper", "measurement": "1 chopped" },
+      { "position": 6, "name": "Carrots", "measurement": "1 chopped" },
+      { "position": 7, "name": "Lime", "measurement": "1" },
+      { "position": 8, "name": "Thyme", "measurement": "2 tsp" },
+      { "position": 9, "name": "Allspice", "measurement": "1 tsp" },
+      { "position": 10, "name": "Soy Sauce", "measurement": "2 tbs" },
+      { "position": 11, "name": "Cornstarch", "measurement": "2 tsp" },
+      { "position": 12, "name": "Coconut Milk", "measurement": "2 cups" },
+      { "position": 13, "name": "Vegetable Oil", "measurement": "1 tbs" }
+    ]
+  }
+}

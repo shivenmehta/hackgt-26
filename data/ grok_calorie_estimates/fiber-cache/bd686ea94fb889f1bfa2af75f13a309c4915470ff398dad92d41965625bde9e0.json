@@ -1,0 +1,69 @@
+{
+  "inputHash": "bd686ea94fb889f1bfa2af75f13a309c4915470ff398dad92d41965625bde9e0",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:01.051Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 7.2,
+      "fiberG": 0,
+      "assumptions": "3 US cups = 720 ml; using typical canned/boxed chicken stock values (~1 g carbs per 100 ml)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp table salt contributes zero carbohydrates"
+    },
+    {
+      "position": 3,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp granulated sugar = ~1 g carbohydrate"
+    },
+    {
+      "position": 4,
+      "carbsG": 0.3,
+      "fiberG": 0.1,
+      "assumptions": "pinch of ground white pepper estimated at ~0.1 g; standard pepper values"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp sesame oil contributes zero carbohydrates"
+    },
+    {
+      "position": 6,
+      "carbsG": 7,
+      "fiberG": 2.5,
+      "assumptions": "1/3 cup = 50 g frozen green peas; standard values for cooked peas"
+    },
+    {
+      "position": 7,
+      "carbsG": 1.5,
+      "fiberG": 0.7,
+      "assumptions": "1/3 cup = 30 g sliced fresh mushrooms; standard raw values"
+    },
+    {
+      "position": 8,
+      "carbsG": 7,
+      "fiberG": 0.7,
+      "assumptions": "1 tbs = 8 g cornstarch; standard values (~88 g carbs/100 g)"
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs = 30 ml water contributes zero carbohydrates"
+    },
+    {
+      "position": 10,
+      "carbsG": 2,
+      "fiberG": 0.7,
+      "assumptions": "1/4 cup = 25 g chopped spring onions/scallions; standard raw values"
+    }
+  ]
+}

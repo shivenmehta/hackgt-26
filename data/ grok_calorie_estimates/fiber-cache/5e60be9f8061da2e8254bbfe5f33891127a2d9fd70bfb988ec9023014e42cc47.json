@@ -1,0 +1,57 @@
+{
+  "inputHash": "5e60be9f8061da2e8254bbfe5f33891127a2d9fd70bfb988ec9023014e42cc47",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:14.052Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 130,
+      "fiberG": 4,
+      "assumptions": "1 1/4 cup self-raising flour ≈ 175 g; standard values for white self-raising flour"
+    },
+    {
+      "position": 2,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "1/2 cup coconut sugar ≈ 100 g; standard values for granulated coconut sugar"
+    },
+    {
+      "position": 3,
+      "carbsG": 18,
+      "fiberG": 10,
+      "assumptions": "1/3 cup raw cacao powder ≈ 30 g; standard values for unsweetened cocoa powder"
+    },
+    {
+      "position": 4,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 tsp baking powder ≈ 4 g; standard values for baking powder"
+    },
+    {
+      "position": 5,
+      "carbsG": 4,
+      "fiberG": 4,
+      "assumptions": "2 flax eggs = 2 tbsp (14 g) ground flaxseed + water; standard values for ground flaxseed (fiber ≈ total carbs)"
+    },
+    {
+      "position": 6,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1/2 cup unsweetened almond milk ≈ 120 ml; standard values for unsweetened almond milk"
+    },
+    {
+      "position": 7,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tsp vanilla extract ≈ 4 g; standard values for vanilla extract"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 cup boiling water ≈ 120 ml; water contributes no carbohydrates"
+    }
+  ]
+}

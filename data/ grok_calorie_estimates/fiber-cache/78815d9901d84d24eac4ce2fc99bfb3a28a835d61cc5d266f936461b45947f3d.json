@@ -1,0 +1,69 @@
+{
+  "inputHash": "78815d9901d84d24eac4ce2fc99bfb3a28a835d61cc5d266f936461b45947f3d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:10.171Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 47,
+      "fiberG": 7,
+      "assumptions": "2 medium sweet potatoes (total ~400g raw, edible portion); standard nutritional values for sweet potato."
+    },
+    {
+      "position": 2,
+      "carbsG": 21,
+      "fiberG": 4,
+      "assumptions": "1 medium apple (~180g with core removed, as described); standard values for raw apple with skin."
+    },
+    {
+      "position": 3,
+      "carbsG": 2,
+      "fiberG": 0.1,
+      "assumptions": "2 cloves garlic (~6g total, peeled and chopped); standard garlic nutrition."
+    },
+    {
+      "position": 4,
+      "carbsG": 5,
+      "fiberG": 1.5,
+      "assumptions": "1 lemon (~100g whole); juice used for seasoning, modest contribution from squeezes only."
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 boneless pork chops (~200g raw total edible portion, typical 4-5oz each); pan-seared without added fat in estimate."
+    },
+    {
+      "position": 6,
+      "carbsG": 5,
+      "fiberG": 1.5,
+      "assumptions": "1 medium zucchini (~200g raw, trimmed and sliced); standard raw zucchini values."
+    },
+    {
+      "position": 7,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 unit chicken stock concentrate (~10-15g, typical packet/jar equivalent for 1 cup stock); modest values for concentrate."
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp vegetable oil (14g); all oil assumed used in roasting and pan (drizzles + pan heat)."
+    },
+    {
+      "position": 9,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "1.5 tsp sugar (~6g); standard granulated sugar nutrition."
+    },
+    {
+      "position": 10,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp butter (28g total); fully used as stated in sauce step."
+    }
+  ]
+}

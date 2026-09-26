@@ -1,0 +1,277 @@
+{
+  "inputHash": "55bca0378a2bbcfd9ffc1dfb173f93262350ec09052a208189ce03560b581183",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:30:56.392Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 480,
+        "proteinG": 6,
+        "fatG": 20,
+        "carbsG": 68,
+        "fiberG": 2
+      },
+      "caloriesKcal": 480,
+      "proteinG": 6,
+      "fatG": 20,
+      "carbsG": 68,
+      "fiberG": 2,
+      "assumptions": "Standard digestive biscuits, plain, used as-is for crust; values based on typical UK digestive biscuit composition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 580,
+        "proteinG": 21,
+        "fatG": 50,
+        "carbsG": 22,
+        "fiberG": 12
+      },
+      "caloriesKcal": 493,
+      "proteinG": 17.85,
+      "fatG": 42.5,
+      "carbsG": 18.7,
+      "fiberG": 10.2,
+      "assumptions": "Whole or flaked almonds, raw, as used in crust and topping; most crushed for base, remainder for garnish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 609.45,
+      "proteinG": 0.765,
+      "fatG": 68.85,
+      "carbsG": 0.085,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter, melted and mixed into crust; standard butter nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 260,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 9,
+        "fatG": 5,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 252.2,
+      "proteinG": 23.4,
+      "fatG": 13,
+      "carbsG": 10.4,
+      "fiberG": 0,
+      "assumptions": "250ml Greek yogurt (assuming density ~1.04 g/ml, typical full-fat strained Greek yogurt); used in filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 750,
+      "per100g": {
+        "caloriesKcal": 429,
+        "proteinG": 6,
+        "fatG": 42,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 3217.5,
+      "proteinG": 45,
+      "fatG": 315,
+      "carbsG": 30,
+      "fiberG": 0,
+      "assumptions": "Full-fat mascarpone cheese, as listed; forms the bulk of the cheesecake filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 157.3,
+      "proteinG": 14.3,
+      "fatG": 11,
+      "carbsG": 1.1,
+      "fiberG": 0,
+      "assumptions": "2 large whole eggs (~55g each, edible portion), whisked into filling; standard large egg values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 47,
+        "proteinG": 0.2,
+        "fatG": 0.1,
+        "carbsG": 12,
+        "fiberG": 6
+      },
+      "caloriesKcal": 2.82,
+      "proteinG": 0.012000000000000002,
+      "fatG": 0.006000000000000001,
+      "carbsG": 0.72,
+      "fiberG": 0.36,
+      "assumptions": "Zest of 1 medium lemon (~6g edible zest only); negligible calories, used for flavor.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 7,
+      "per100g": {
+        "caloriesKcal": 47,
+        "proteinG": 0.2,
+        "fatG": 0.1,
+        "carbsG": 12,
+        "fiberG": 6
+      },
+      "caloriesKcal": 3.29,
+      "proteinG": 0.014000000000000002,
+      "fatG": 0.007000000000000001,
+      "carbsG": 0.84,
+      "fiberG": 0.42,
+      "assumptions": "Zest of 1 medium orange (~7g edible zest only); similar to lemon zest, for flavor.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 304,
+        "proteinG": 0.3,
+        "fatG": 0,
+        "carbsG": 82,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 912,
+      "proteinG": 0.9,
+      "fatG": 0,
+      "carbsG": 246,
+      "fiberG": 0.6,
+      "assumptions": "250ml honey (density ~1.42 g/ml for typical runny honey), most mixed in, 3 tbsp (~45ml) reserved for drizzling; standard floral honey.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 52,
+        "proteinG": 0.8,
+        "fatG": 0.3,
+        "carbsG": 13,
+        "fiberG": 2
+      },
+      "caloriesKcal": 104,
+      "proteinG": 1.6,
+      "fatG": 0.6,
+      "carbsG": 26,
+      "fiberG": 4,
+      "assumptions": "'Fruit mix to serve' assumed as 200g mixed fresh berries or similar (plausible side amount for 8-10 servings); typical mixed fruit like strawberries/berries for topping or serving alongside.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53007",
+    "name": "Honey Yogurt Cheesecake",
+    "cuisine": "Greek",
+    "instructions": "Heat oven to 160C/140C fan/gas 3. Crush the biscuits and most of the almonds inside a plastic food bag using a rolling pin. Mix with the butter, then press into the bottom of a deep, oval, 23cm dish (or something similar in size – a roasting tin, baking dish or cake tin will work). Bake for 10 mins until crisp.\r\n\r\nStir or mash together the yogurt and mascarpone, then whisk in the eggs, one at a time. Stir in the lemon and orange zests, then stir in most of the honey, reserving about 3 tbsp. Spread over the biscuit base, cover loosely with foil and cook for 1 hr. Remove the foil and cook for 15 mins more until lightly golden and the top is firm with just the slightest wobble in the middle. Leave to cool. Can be kept in the fridge for up to 2 days.\r\n\r\nTo serve, scatter with almonds, drizzle over the remaining honey, and hand around fresh fruit to go with it.",
+    "ingredients": [
+      { "position": 1, "name": "Digestive Biscuits", "measurement": "100g" },
+      { "position": 2, "name": "Almonds", "measurement": "85g" },
+      { "position": 3, "name": "Butter", "measurement": "85g" },
+      { "position": 4, "name": "Greek Yogurt", "measurement": "250ml" },
+      { "position": 5, "name": "Mascarpone", "measurement": "750g" },
+      { "position": 6, "name": "Eggs", "measurement": "2" },
+      { "position": 7, "name": "Lemon", "measurement": "Zest of 1" },
+      { "position": 8, "name": "Orange", "measurement": "Zest of 1" },
+      { "position": 9, "name": "Honey", "measurement": "250ml" },
+      { "position": 10, "name": "Fruit Mix", "measurement": "To serve" }
+    ]
+  }
+}

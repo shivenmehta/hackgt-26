@@ -1,0 +1,39 @@
+{
+  "inputHash": "55413564a82e4481c381cebd77b9ec9da8af8e2cfaa066ea6e9980c6485e1050",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:36.837Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 135,
+      "caloriesPer100g": 30,
+      "assumptions": "Juice of 3 limes estimated at 45g per lime (standard medium lime juice yield), total 135g; matches supplied knownCaloriesPer100g for lime juice."
+    },
+    {
+      "position": 8,
+      "grams": 60,
+      "caloriesPer100g": 32,
+      "assumptions": "4 spring onions estimated at 15g each when finely sliced (typical trimmed weight), total 60g; matches supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 11,
+      "grams": 20,
+      "caloriesPer100g": 23,
+      "assumptions": "A handful of coriander is a modest fresh herb amount, realistically ~20g; matches supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 12,
+      "grams": 200,
+      "caloriesPer100g": 30,
+      "assumptions": "2 whole limes estimated at ~100g each (standard medium lime weight), total 200g; matches supplied knownCaloriesPer100g for lime."
+    },
+    {
+      "position": 13,
+      "grams": null,
+      "caloriesPer100g": null,
+      "assumptions": "'To serve' is not a quantified recipe ingredient; no reasonable estimate possible without assuming unlisted serving quantity."
+    }
+  ]
+}

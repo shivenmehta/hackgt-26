@@ -1,0 +1,39 @@
+{
+  "inputHash": "4b0029ba22388288e3eece30442a35386d078496bf49f893049e042774561277",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:39.712Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 59.5,
+      "fiberG": 10.5,
+      "assumptions": "350g raw butternut squash, peeled weight assumed edible portion"
+    },
+    {
+      "position": 2,
+      "carbsG": 3,
+      "fiberG": 0.2,
+      "assumptions": "3 garlic cloves (~9g total), raw"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbs olive oil (~42g total) for roasting; all oil counted as used"
+    },
+    {
+      "position": 4,
+      "carbsG": 259,
+      "fiberG": 11.2,
+      "assumptions": "350g dry linguine pasta, uncooked weight"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.6,
+      "fiberG": 1,
+      "assumptions": "small bunch fresh sage (~5g leaves), modest quantity for 'to taste'"
+    }
+  ]
+}

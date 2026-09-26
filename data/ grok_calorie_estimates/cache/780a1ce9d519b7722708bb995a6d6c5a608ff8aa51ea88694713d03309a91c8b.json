@@ -1,0 +1,44 @@
+{
+  "inputHash": "780a1ce9d519b7722708bb995a6d6c5a608ff8aa51ea88694713d03309a91c8b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:17:26.515Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 139,
+      "proteinG": 5.2,
+      "fatG": 0.6,
+      "assumptions": "320g raw beetroot, peeled and grated as typical for sauerkraut; standard raw beetroot values used (43 kcal, 1.6g protein, 0.2g fat per 100g)."
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 110,
+      "proteinG": 5.4,
+      "fatG": 0.9,
+      "assumptions": "450g raw red cabbage, shredded; standard raw red cabbage values used (24 kcal, 1.2g protein, 0.2g fat per 100g)."
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 22,
+      "proteinG": 0.6,
+      "fatG": 0.1,
+      "assumptions": "1 small onion ≈ 70g raw, peeled and sliced; standard raw onion values used (≈31 kcal, 0.9g protein, 0.1g fat per 100g)."
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 10,
+      "proteinG": 0.5,
+      "fatG": 0.4,
+      "assumptions": "2 tsp (≈4g) whole caraway seeds; standard values used (≈250 kcal, 12g protein, 10g fat per 100g)."
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tsp (≈6g) sea salt contributes negligible calories, protein or fat."
+    }
+  ]
+}

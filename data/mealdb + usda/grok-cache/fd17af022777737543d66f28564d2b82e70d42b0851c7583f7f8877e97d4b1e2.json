@@ -1,0 +1,21 @@
+{
+  "inputHash": "fd17af022777737543d66f28564d2b82e70d42b0851c7583f7f8877e97d4b1e2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:19.888Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 375,
+      "caloriesPer100g": null,
+      "assumptions": "knownGrams copied exactly from supplied value; this is the full prepared shortcrust pastry amount for the recipe. No calorie density supplied so left null."
+    },
+    {
+      "position": 7,
+      "grams": 20,
+      "caloriesPer100g": 195,
+      "assumptions": "4 tsp single cream estimated at ~5 g per tsp (standard volume-to-mass for light cream) yielding 20 g total edible mass; typical calorie density for single/light cream used. Full recipe context shows this is a small liquid addition to the filling."
+    }
+  ]
+}

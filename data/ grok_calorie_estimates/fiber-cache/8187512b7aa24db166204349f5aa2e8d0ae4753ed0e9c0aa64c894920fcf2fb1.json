@@ -1,0 +1,69 @@
+{
+  "inputHash": "8187512b7aa24db166204349f5aa2e8d0ae4753ed0e9c0aa64c894920fcf2fb1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:28.494Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 136,
+      "fiberG": 17,
+      "assumptions": "800g raw potatoes (consistent with prior estimate); standard values for raw potato with skin."
+    },
+    {
+      "position": 2,
+      "carbsG": 33,
+      "fiberG": 6,
+      "assumptions": "3 medium onions ≈ 330g total raw weight (consistent with prior estimate)."
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp olive oil = 28g; pure fat with no carbohydrates."
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "100ml chicken stock, typical low-fat commercial variety (consistent with prior estimate)."
+    },
+    {
+      "position": 5,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "1 standard 200ml pot full-fat crème fraîche (consistent with prior estimate); low-carb dairy."
+    },
+    {
+      "position": 6,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "20g grated Parmesan used as topping (consistent with prior estimate)."
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 medium skinless chicken breasts ≈ 600g total raw edible portion (consistent with prior estimate); pure meat."
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 rashers streaky bacon ≈ 100g total (consistent with prior estimate); cured meat with negligible carbs."
+    },
+    {
+      "position": 9,
+      "carbsG": 1.4,
+      "fiberG": 1.4,
+      "assumptions": "100g fresh spinach used as topping/greens (consistent with prior estimate)."
+    },
+    {
+      "position": 10,
+      "carbsG": 14,
+      "fiberG": 5,
+      "assumptions": "100g frozen or fresh peas used as topping/greens (consistent with prior estimate)."
+    }
+  ]
+}

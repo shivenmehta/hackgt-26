@@ -1,0 +1,355 @@
+{
+  "inputHash": "75c9ac344b88b9ea336c80d35e9d2c5b90d01144fda74531148c858bd54692a2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:43.142Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 628,
+        "proteinG": 15,
+        "fatG": 61,
+        "carbsG": 12,
+        "fiberG": 7
+      },
+      "caloriesKcal": 314,
+      "proteinG": 7.5,
+      "fatG": 30.5,
+      "carbsG": 6,
+      "fiberG": 3.5,
+      "assumptions": "Hazelnuts, roasted; using standard values for roasted hazelnuts.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 896.25,
+      "proteinG": 1.125,
+      "fatG": 101.25,
+      "carbsG": 0.125,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; standard butter values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 580.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 150,
+      "fiberG": 0,
+      "assumptions": "Caster sugar (sucrose); standard granulated sugar values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 9,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 4.35,
+      "proteinG": 0.165,
+      "fatG": 0.045,
+      "carbsG": 1.35,
+      "fiberG": 0.42,
+      "assumptions": "Zest from 1 medium lemon; estimated 15g edible zest only.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 546,
+      "proteinG": 15,
+      "fatG": 1.5,
+      "carbsG": 114,
+      "fiberG": 4.5,
+      "assumptions": "Plain white flour; standard all-purpose flour values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 27.7,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 1.59,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.831,
+      "fiberG": 0.006000000000000001,
+      "assumptions": "½ tsp baking powder ≈ 3g; standard values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 43,
+        "proteinG": 1.4,
+        "fatG": 0.5,
+        "carbsG": 10,
+        "fiberG": 5.3
+      },
+      "caloriesKcal": 258,
+      "proteinG": 8.4,
+      "fatG": 3,
+      "carbsG": 60,
+      "fiberG": 31.8,
+      "assumptions": "Whole fresh blackberries; raw values, entire 600g line used in recipe (some reserved).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 290.25,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 75,
+      "fiberG": 0,
+      "assumptions": "Caster sugar for blackberries; standard sugar values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 96.75,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 25,
+      "fiberG": 0,
+      "assumptions": "2 tbs caster sugar ≈ 25g for sweetening purée; standard sugar values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.4,
+        "fatG": 0.2,
+        "carbsG": 9.5,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 4.35,
+      "proteinG": 0.06,
+      "fatG": 0.03,
+      "carbsG": 1.425,
+      "fiberG": 0.045,
+      "assumptions": "1 tbs lemon juice ≈ 15g; standard lemon juice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 1.7,
+        "fatG": 37,
+        "carbsG": 2.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1020,
+      "proteinG": 5.1,
+      "fatG": 111,
+      "carbsG": 8.1,
+      "fiberG": 0,
+      "assumptions": "Double (heavy) cream; standard values for 48% fat cream.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 61,
+        "proteinG": 3.5,
+        "fatG": 3.3,
+        "carbsG": 4.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 61,
+      "proteinG": 3.5,
+      "fatG": 3.3,
+      "carbsG": 4.7,
+      "fiberG": 0,
+      "assumptions": "Plain yogurt (whole milk); standard values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 3.3,
+        "fatG": 0.7,
+        "carbsG": 4,
+        "fiberG": 3
+      },
+      "caloriesKcal": 2,
+      "proteinG": 0.165,
+      "fatG": 0.035,
+      "carbsG": 0.2,
+      "fiberG": 0.15,
+      "assumptions": "Mint leaves for garnish; small plausible amount ≈5g total used as decoration.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52891",
+    "name": "Blackberry Fool",
+    "cuisine": "British",
+    "instructions": "For the biscuits, preheat the oven to 200C/180C (fan)/Gas 6 and line two large baking trays with baking parchment. Scatter the nuts over a baking tray and roast in the oven for 6-8 minutes, or until golden-brown. Watch them carefully so that they don’t have a chance to burn. Remove from the oven, tip onto a board and leave to cool.\r\nPut the butter and sugar in a large bowl and beat with a wooden spoon until light and creamy. Roughly chop the cooled nuts and add to the creamed butter and sugar, along with the lemon zest, flour and baking powder. Stir well until the mixture comes together and forms a ball – you may need to use your hands.\r\nDivide the biscuit dough into 24 even pieces and roll into small balls. Place the balls the prepared baking trays, spaced well apart to allow for spreading.\r\nPress the biscuits to flatten to around 1cm/½in thick. Bake the biscuits, one tray at a time, for 12 minutes or until very pale golden-brown. Leave to cool on the trays. They will be very soft when you take them out of the oven, but will crisp as they cool.\r\nStore in an airtight tin and eat within five days.\r\nFor the fool, rinse the blackberries in a colander to wash away any dust or dirt. Put the blackberries in a non-stick saucepan and sprinkle over the caster sugar.\r\nStir in the lemon juice and heat gently for two minutes, or until the blackberries begin to soften and release their juices. Remove and reserve 12 blackberries for decoration and continue cooking the rest.\r\nSimmer the blackberries very gently for 15 minutes, stirring regularly until very soft and squidgy. Remove from the heat and press the berries and juice through a sieve over a bowl, using the bottom of a ladle to help you extract as much of the purée as possible. Leave the purée to cool and discard the seeds. You should end up with around 325ml/11fl oz of purée.\r\nPut the cream and yoghurt in a large bowl and whip with an electric whisk until soft peaks form when the whisk is removed from the bowl – the acidity of the fruit will thicken the cream further, so don’t take it too far.\r\nWhen the purée is completely cold, adjust the sweetness to taste by adding more sugar if needed. Pour it into the bowl with the whipped cream and yoghurt and stir just once or twice until very lightly combined.\r\nSpoon the blackberry fool into individual wide, glass dishes – or one large, single bowl. It should look quite marbled, so don’t over-stir it. Scatter a few tiny mint leaves on top and decorate with the reserved blackberries. Sprinkle with a little sugar if you like and serve with the hazelnut biscuits.",
+    "ingredients": [
+      { "position": 1, "name": "Hazlenuts", "measurement": "50g" },
+      { "position": 2, "name": "Butter", "measurement": "125g" },
+      { "position": 3, "name": "Caster Sugar", "measurement": "150g" },
+      { "position": 4, "name": "Lemon", "measurement": "Grated" },
+      { "position": 5, "name": "Plain Flour", "measurement": "150g" },
+      { "position": 6, "name": "Baking Powder", "measurement": "½ tsp" },
+      { "position": 7, "name": "Blackberries", "measurement": "600g" },
+      { "position": 8, "name": "Sugar", "measurement": "75g" },
+      { "position": 9, "name": "Caster Sugar", "measurement": "2 tbs" },
+      { "position": 10, "name": "Lemon Juice", "measurement": "1 tbs" },
+      { "position": 11, "name": "Double Cream", "measurement": "300ml" },
+      { "position": 12, "name": "Yogurt", "measurement": "100ml" },
+      { "position": 13, "name": "Mint", "measurement": "Garnish with" }
+    ]
+  }
+}

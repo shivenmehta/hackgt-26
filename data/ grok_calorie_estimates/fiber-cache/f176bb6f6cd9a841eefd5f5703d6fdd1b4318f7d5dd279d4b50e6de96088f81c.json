@@ -1,0 +1,57 @@
+{
+  "inputHash": "f176bb6f6cd9a841eefd5f5703d6fdd1b4318f7d5dd279d4b50e6de96088f81c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:40.067Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 88,
+      "fiberG": 13,
+      "assumptions": "200g dark chocolate (70% cocoa); standard values for bittersweet"
+    },
+    {
+      "position": 2,
+      "carbsG": 58,
+      "fiberG": 3,
+      "assumptions": "100g milk chocolate; standard values"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "250g salted butter; negligible carbs"
+    },
+    {
+      "position": 4,
+      "carbsG": 400,
+      "fiberG": 0,
+      "assumptions": "400g light brown soft sugar; fully sucrose"
+    },
+    {
+      "position": 5,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "4 large eggs (~200g total edible); negligible carbs"
+    },
+    {
+      "position": 6,
+      "carbsG": 104,
+      "fiberG": 4,
+      "assumptions": "140g plain white flour; standard AP flour values"
+    },
+    {
+      "position": 7,
+      "carbsG": 29,
+      "fiberG": 18,
+      "assumptions": "50g unsweetened cocoa powder; standard values"
+    },
+    {
+      "position": 8,
+      "carbsG": 24,
+      "fiberG": 13,
+      "assumptions": "200g fresh raspberries; whole, unprocessed"
+    }
+  ]
+}

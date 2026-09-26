@@ -1,0 +1,355 @@
+{
+  "inputHash": "af29bf45f8e1a11e80e075c49316628e3b1b8d537dc2aedc8572820317e95aee",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:25:34.298Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 86,
+        "proteinG": 1.6,
+        "fatG": 0.1,
+        "carbsG": 20.1,
+        "fiberG": 3
+      },
+      "caloriesKcal": 390.44,
+      "proteinG": 7.264000000000001,
+      "fatG": 0.45400000000000007,
+      "carbsG": 91.25400000000002,
+      "fiberG": 13.62,
+      "assumptions": "2 medium sweet potatoes (assuming 'Potatoes' refers to the sweet potatoes mentioned in instructions), total edible weight ~1 lb / 454g; raw, unpeeled but only flesh nutrients.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 0.9,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 63,
+      "proteinG": 1.35,
+      "fatG": 0.15,
+      "carbsG": 13.95,
+      "fiberG": 2.55,
+      "assumptions": "1 medium red onion, total ~150g edible portion after peeling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 average garlic cloves, total ~6g peeled.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 67,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 20.1,
+      "proteinG": 0.469,
+      "fatG": 0.134,
+      "carbsG": 7.035,
+      "fiberG": 1.876,
+      "assumptions": "1 medium lime, total ~67g edible flesh and juice after peeling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9.1,
+        "fatG": 4.2,
+        "carbsG": 49,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 265,
+      "proteinG": 9.1,
+      "fatG": 4.2,
+      "carbsG": 49,
+      "fiberG": 2.1,
+      "assumptions": "2 standard hamburger buns (~50g each), total 100g edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 198,
+        "proteinG": 16.9,
+        "fatG": 14,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 898.92,
+      "proteinG": 76.726,
+      "fatG": 63.56,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb raw ground pork, 80/20 typical; fully cooked in recipe but nutrients reported on raw weight basis per standard practice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 120,
+        "proteinG": 0.6,
+        "fatG": 0.3,
+        "carbsG": 29,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 144,
+      "proteinG": 0.72,
+      "fatG": 0.36,
+      "carbsG": 34.8,
+      "fiberG": 0.6,
+      "assumptions": "Plausible recipe amount of BBQ sauce used in sloppy joe style (about ½ cup / 120g); typical commercial values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "'To taste' hot sauce; small plausible drizzle total ~10g across servings, negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 90,
+      "per100g": {
+        "caloriesKcal": 100,
+        "proteinG": 1,
+        "fatG": 0.1,
+        "carbsG": 24,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 90,
+      "proteinG": 0.9,
+      "fatG": 0.09,
+      "carbsG": 21.6,
+      "fiberG": 0.6299999999999999,
+      "assumptions": "Plausible recipe amount of ketchup (3-6 TBSP scaled to ~90g total); typical values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 30.96,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "Small total sugar for pickling/sauce (~2 tsp / 8g); pure carbohydrate.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 132.6,
+      "proteinG": 0,
+      "fatG": 15,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Oil for roasting, pan-frying and drizzling; estimated total ~1 TBSP (15g) absorbed/used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Salt to taste; estimated total used ~5g across recipe, zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pepper to taste; estimated total ~2g, zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52995",
+    "name": "BBQ Pork Sloppy Joes",
+    "cuisine": "American",
+    "instructions": "1\r\n\r\nPreheat oven to 450 degrees. Wash and dry all produce. Cut sweet potatoes into ½-inch-thick wedges. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 20-25 minutes.\r\n\r\n2\r\n\r\nMeanwhile, halve and peel onion. Slice as thinly as possible until you have ¼ cup (½ cup for 4 servings); finely chop remaining onion. Peel and finely chop garlic. Halve lime; squeeze juice into a small bowl. Halve buns. Add 1 TBSP butter (2 TBSP for 4) to a separate small microwave-safe bowl; microwave until melted, 30 seconds. Brush onto cut sides of buns.\r\n\r\n3\r\n\r\nTo bowl with lime juice, add sliced onion, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. Stir to combine; set aside to quick-pickle.\r\n\r\n4\r\n\r\nHeat a drizzle of oil in a large pan over medium-high heat. Add chopped onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add garlic and cook until fragrant, 30 seconds more. Add pork and season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes.\r\n\r\n5\r\n\r\nWhile pork cooks, in a third small bowl, combine BBQ sauce, pickling liquid from onion, 3 TBSP ketchup (6 TBSP for 4 servings), ½ tsp sugar (1 tsp for 4), and ¼ cup water (⅓ cup for 4). Once pork is cooked through, add BBQ sauce mixture to pan. Cook, stirring, until sauce is thickened, 2-3 minutes. Taste and season with salt and pepper.\r\n\r\n6\r\n\r\nMeanwhile, toast buns in oven or toaster oven until golden, 3-5 minutes. Divide toasted buns between plates and fill with as much BBQ pork as you’d like. Top with pickled onion and hot sauce. Serve with sweet potato wedges on the side.",
+    "ingredients": [
+      { "position": 1, "name": "Potatoes", "measurement": "2" },
+      { "position": 2, "name": "Red Onions", "measurement": "1" },
+      { "position": 3, "name": "Garlic", "measurement": "2 cloves" },
+      { "position": 4, "name": "Lime", "measurement": "1" },
+      { "position": 5, "name": "Bread", "measurement": "2" },
+      { "position": 6, "name": "Pork", "measurement": "1 lb" },
+      { "position": 7, "name": "Barbeque Sauce", "measurement": null },
+      { "position": 8, "name": "Hotsauce", "measurement": null },
+      { "position": 9, "name": "Tomato Ketchup", "measurement": null },
+      { "position": 10, "name": "Sugar", "measurement": null },
+      { "position": 11, "name": "Vegetable Oil", "measurement": null },
+      { "position": 12, "name": "Salt", "measurement": null },
+      { "position": 13, "name": "Pepper", "measurement": null }
+    ]
+  }
+}

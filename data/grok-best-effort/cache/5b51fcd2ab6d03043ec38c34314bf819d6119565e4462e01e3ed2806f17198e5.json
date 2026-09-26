@@ -1,0 +1,437 @@
+{
+  "inputHash": "5b51fcd2ab6d03043ec38c34314bf819d6119565e4462e01e3ed2806f17198e5",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:08.997Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 85,
+        "proteinG": 18,
+        "fatG": 1,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 170,
+      "proteinG": 36,
+      "fatG": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard raw tiger prawn nutrition; peeled and deveined edible portion assumed for the 200g listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.2,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.6,
+      "fatG": 0.06,
+      "carbsG": 2.7,
+      "fiberG": 0.45,
+      "assumptions": "1 typical medium-large green chilli (approx 30g whole with seeds); chopped does not change weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.5760000000000001,
+      "fatG": 0.045,
+      "carbsG": 2.9790000000000005,
+      "fiberG": 0.18900000000000003,
+      "assumptions": "3 average garlic cloves (approx 3g each).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.1,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 13.8,
+      "proteinG": 1.26,
+      "fatG": 0.3,
+      "carbsG": 2.22,
+      "fiberG": 1.68,
+      "assumptions": "1 standard supermarket bunch of fresh coriander; entire bunch (stalks + leaves) used across recipe, approx 60g edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 46.44,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 level tablespoon caster sugar weighs approx 12g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.28,
+      "fatG": 0.08,
+      "carbsG": 4.2,
+      "fiberG": 1.12,
+      "assumptions": "Juice of 1 average lime (approx 40g juice); used across two mentions in recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 35,
+        "proteinG": 5.1,
+        "fatG": 0,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 15.75,
+      "proteinG": 2.295,
+      "fatG": 0,
+      "carbsG": 1.62,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons fish sauce (15g per tbsp).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons groundnut (peanut) oil (14g per tbsp); total oil used in recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.8,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.27,
+      "fatG": 0.105,
+      "carbsG": 2.7,
+      "fiberG": 0.3,
+      "assumptions": "3cm piece of fresh ginger root, peeled, approx 15g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 25.6,
+      "proteinG": 1.44,
+      "fatG": 0.16,
+      "carbsG": 5.6,
+      "fiberG": 2.08,
+      "assumptions": "8 spring onions (scallions), trimmed and sliced; approx 10g each.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 37.2,
+      "proteinG": 1.2,
+      "fatG": 0.36,
+      "carbsG": 7.2,
+      "fiberG": 2.52,
+      "assumptions": "1 medium red bell pepper, sliced, approx 120g edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 50,
+        "proteinG": 0.8,
+        "fatG": 0,
+        "carbsG": 12,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 42.5,
+      "proteinG": 0.68,
+      "fatG": 0,
+      "carbsG": 10.2,
+      "fiberG": 2.125,
+      "assumptions": "Canned water chestnuts, drained weight as listed; typical nutrition for canned/drained.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 3,
+        "fatG": 0.2,
+        "carbsG": 5.9,
+        "fiberG": 1.8
+      },
+      "caloriesKcal": 30,
+      "proteinG": 3,
+      "fatG": 0.2,
+      "carbsG": 5.9,
+      "fiberG": 1.8,
+      "assumptions": "Fresh bean sprouts, as listed; typical mung bean sprout values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 8.2,
+        "fatG": 0.1,
+        "carbsG": 4.5,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 7.95,
+      "proteinG": 1.2299999999999998,
+      "fatG": 0.015,
+      "carbsG": 0.675,
+      "fiberG": 0.105,
+      "assumptions": "1 tablespoon soy sauce (15g).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 8,
+        "fatG": 1.5,
+        "carbsG": 78,
+        "fiberG": 2
+      },
+      "caloriesKcal": 525,
+      "proteinG": 12,
+      "fatG": 2.25,
+      "carbsG": 117,
+      "fiberG": 3,
+      "assumptions": "Dry rice noodles to serve 4 portions; plausible 150g total dry weight for the recipe (about 37g per serving).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.14,
+      "fatG": 0.04,
+      "carbsG": 2.1,
+      "fiberG": 0.56,
+      "assumptions": "Extra lime to serve; juice of half a lime approx 20g, as recipe mentions extra for squeezing.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53200",
+    "name": "Prawn stir-fry",
+    "cuisine": "Thai",
+    "instructions": "step 1\r\nPut the prawns in a bowl. Put the chilli, garlic, coriander stalks (snip these up using scissors first) and caster sugar in a spice grinder or small food processor and whizz together. Add half of the lime juice and the fish sauce, then pour this over the prawns.\r\n\r\nstep 2\r\nHeat 1 tbsp oil in a wok, add the ginger and spring onions and fry for 1 min. Add the red pepper and fry for 1 min, until the pepper starts to soften. Add the water chestnuts and bean sprouts, and toss together until the bean sprouts start to wilt. Add the soy sauce and a really good grind of black pepper, then tip the lot into a serving dish.\r\n\r\nstep 3\r\nHeat the remaining oil in the wok and add the prawns, lifting them out of their juices. Toss for 1-2 mins until they turn pink, add the marinade and swirl the wok quickly, then tip the lot onto the veg. Snip over the coriander leaves and sprinkle on the remaining lime. Serves over noodles with extra lime for squeezing over.",
+    "ingredients": [
+      { "position": 1, "name": "Raw tiger prawns", "measurement": "200g" },
+      { "position": 2, "name": "Green Chilli", "measurement": "1 chopped" },
+      { "position": 3, "name": "Garlic", "measurement": "3 Cloves Crushed" },
+      { "position": 4, "name": "Coriander", "measurement": "1  bunch" },
+      { "position": 5, "name": "Caster Sugar", "measurement": "1 tblsp" },
+      { "position": 6, "name": "Lime", "measurement": "Juice of 1" },
+      { "position": 7, "name": "Fish Sauce", "measurement": "3 tbsp" },
+      {
+        "position": 8,
+        "name": "Ground Nut Oil",
+        "measurement": "2 tablespoons"
+      },
+      { "position": 9, "name": "Ginger", "measurement": "3cm piece" },
+      { "position": 10, "name": "Spring Onions", "measurement": "8 slices" },
+      { "position": 11, "name": "Red Pepper", "measurement": "1 sliced" },
+      { "position": 12, "name": "Water Chestnut", "measurement": "85g" },
+      { "position": 13, "name": "Bean Sprouts", "measurement": "100g" },
+      { "position": 14, "name": "Soy Sauce", "measurement": "1 tablespoon" },
+      { "position": 15, "name": "Rice Noodles", "measurement": "To serve" },
+      { "position": 16, "name": "Lime", "measurement": "To serve" }
+    ]
+  }
+}

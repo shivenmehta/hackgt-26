@@ -1,0 +1,27 @@
+{
+  "inputHash": "6bbc48c6c93c5db29ec4863626d76a17a8a7a3b91b49898c2bb9d3b5f38572b3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:12.422Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 145,
+      "caloriesPer100g": 195,
+      "assumptions": "142ml single cream (light cream ~20% fat) estimated at density ~1.02 g/ml, rounded to 145g; standard calorie density for single cream."
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "caloriesPer100g": 717,
+      "assumptions": "'Drizzle' of melted butter for brushing 6 ramekins estimated modestly at ~5g total (under 1g per ramekin); known calories copied exactly."
+    },
+    {
+      "position": 12,
+      "grams": 10,
+      "caloriesPer100g": 389,
+      "assumptions": "'To serve' icing sugar for dusting 6 souffles estimated at ~10g total (modest ~1-2g per serving); known calories copied exactly."
+    }
+  ]
+}

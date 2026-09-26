@@ -1,0 +1,39 @@
+{
+  "inputHash": "82369d74a508929058c3cb22c9783d7a145dc139d76c66c141282a25ba9245c6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:30.852Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 720,
+      "caloriesPer100g": 97,
+      "assumptions": "Standard sea bass fillet is ~120g each (edible portion, skin-on); 6 fillets total 720g. Typical value for raw sea bass is ~97 kcal/100g."
+    },
+    {
+      "position": 3,
+      "grams": 30,
+      "caloriesPer100g": 80,
+      "assumptions": "A 'large knob' of ginger is estimated at 30g peeled weight, typical for this style of recipe."
+    },
+    {
+      "position": 4,
+      "grams": 9,
+      "caloriesPer100g": 143,
+      "assumptions": "Average garlic clove is 3g; 3 cloves = 9g total. Matches supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 5,
+      "grams": 120,
+      "caloriesPer100g": 40,
+      "assumptions": "3 large red chillies estimated at ~40g each (edible portion after deseeding/shredding) = 120g total. Matches supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 6,
+      "grams": 100,
+      "caloriesPer100g": 32,
+      "assumptions": "A 'bunch' of spring onions is typically 100g once trimmed and shredded. Matches supplied knownCaloriesPer100g."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "inputHash": "c9cfc3dda1122104084e7cbeadd5826b42de26a97d35afb528b93118e551951f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:16:08.372Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 1850,
+      "proteinG": 65,
+      "fatG": 8,
+      "assumptions": "500g dry macaroni (standard elbow or similar); ~370 kcal, 13g protein, 1.6g fat per 100g uncooked"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 20,
+      "proteinG": 4,
+      "fatG": 1,
+      "assumptions": "2 US cups (480ml) chicken stock; assumes standard low-sodium broth ~10 kcal, 2g protein, 0.5g fat per cup"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 410,
+      "proteinG": 3,
+      "fatG": 44,
+      "assumptions": "1/2 US cup (120ml) heavy cream; ~340 kcal and 36g fat per 100ml, scaled to volume"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 80,
+      "proteinG": 3,
+      "fatG": 2,
+      "assumptions": "1 standard fajita seasoning packet (~30-35g); typical commercial mix values"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tsp table salt; negligible calories"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 450,
+      "proteinG": 95,
+      "fatG": 10,
+      "assumptions": "3 medium diced chicken breasts ~450g raw boneless skinless total; ~100 kcal, 21g protein, 2.2g fat per 100g raw"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 240,
+      "proteinG": 0,
+      "fatG": 28,
+      "assumptions": "2 tbsp olive oil (all absorbed/used in frying); 120 kcal and 14g fat per tbsp"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 30,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "1 small onion (~70g) finely diced; raw values"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 90,
+      "proteinG": 3,
+      "fatG": 1,
+      "assumptions": "2 medium red bell peppers (~240g total) finely diced; raw values"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 10,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "2 cloves garlic minced (~6g); raw values"
+    },
+    {
+      "position": 11,
+      "caloriesKcal": 460,
+      "proteinG": 26,
+      "fatG": 38,
+      "assumptions": "1 cup (100g) shredded cheddar cheese; standard values"
+    },
+    {
+      "position": 12,
+      "caloriesKcal": 5,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "small handful chopped parsley for garnish (~10g); negligible calories"
+    }
+  ]
+}

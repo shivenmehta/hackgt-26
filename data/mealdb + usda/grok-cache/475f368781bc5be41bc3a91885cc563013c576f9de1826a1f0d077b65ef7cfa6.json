@@ -1,0 +1,63 @@
+{
+  "inputHash": "475f368781bc5be41bc3a91885cc563013c576f9de1826a1f0d077b65ef7cfa6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:43.413Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 1134,
+      "caloriesPer100g": 119,
+      "assumptions": "5 boneless, skinless chicken breasts; each estimated at ~8 oz (227g) raw edible portion based on common large breast size in recipes, total 2.5 lb."
+    },
+    {
+      "position": 5,
+      "grams": 196,
+      "caloriesPer100g": 21,
+      "assumptions": "1 medium butternut squash (or similar) cut into 1/2-inch cubes; whole edible flesh ~196g after peeling/seeding, typical for a ~1 lb raw squash."
+    },
+    {
+      "position": 6,
+      "grams": 608,
+      "caloriesPer100g": 31,
+      "assumptions": "1 medium head of broccoli, chopped; typical edible chopped weight ~608g (including some stem)."
+    },
+    {
+      "position": 7,
+      "grams": 227,
+      "caloriesPer100g": 31.2,
+      "assumptions": "8-ounce package of sliced mushrooms; used supplied package weight directly as edible mass."
+    },
+    {
+      "position": 8,
+      "grams": 119,
+      "caloriesPer100g": 251,
+      "assumptions": "1 medium red bell pepper; typical edible weight ~119g after coring."
+    },
+    {
+      "position": 12,
+      "grams": 119,
+      "caloriesPer100g": 82,
+      "assumptions": "1/2 cup white wine; standard volume-to-mass conversion ~119g."
+    },
+    {
+      "position": 17,
+      "grams": 1,
+      "caloriesPer100g": 0,
+      "assumptions": "Pinch of salt; modest estimate of ~1g for a small pinch, negligible mass."
+    },
+    {
+      "position": 18,
+      "grams": 1,
+      "caloriesPer100g": 251,
+      "assumptions": "Pinch of pepper; modest estimate of ~1g for a small pinch."
+    },
+    {
+      "position": 19,
+      "grams": 5,
+      "caloriesPer100g": 36,
+      "assumptions": "Chopped parsley for garnish; modest estimate of ~5g (a small handful) as 'to taste' garnish."
+    }
+  ]
+}

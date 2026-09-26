@@ -1,0 +1,27 @@
+{
+  "inputHash": "bb7fa038086c2c546fee84744ec193a24f16d42d619a7e584d9c6f1f4a12c3e2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:10.103Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 600,
+      "caloriesPer100g": 15.9,
+      "assumptions": "2 medium cucumbers (about 300g each with peel; standard market size for English or similar cucumbers used in salads; fully edible after prep)."
+    },
+    {
+      "position": 4,
+      "grams": 30,
+      "caloriesPer100g": null,
+      "assumptions": "2 tablespoons rice vinegar (standard volume-to-weight conversion ~15g per tbsp; calories null as no known value supplied and recipe state is as-added liquid)."
+    },
+    {
+      "position": 5,
+      "grams": 12,
+      "caloriesPer100g": 23,
+      "assumptions": "6 fresh basil leaves (modest ~2g per large leaf estimate; typical for fresh herb additions in small recipes)."
+    }
+  ]
+}

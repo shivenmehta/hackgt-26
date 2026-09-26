@@ -1,0 +1,93 @@
+{
+  "inputHash": "b8c728d0cbc056de28ff487bf06901d62f7ff010966c08dec9445dd6d879ccee",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:03:46.048Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0.7,
+      "fiberG": 0,
+      "assumptions": "1 tsp soy sauce ≈ 5 g; standard nutrition for regular soy sauce"
+    },
+    {
+      "position": 2,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 tsp dry sherry ≈ 5 g; ≈14 kcal per tbsp scaled down"
+    },
+    {
+      "position": 3,
+      "carbsG": 1.3,
+      "fiberG": 0.1,
+      "assumptions": "1/2 tsp cornstarch ≈ 1.5 g; ≈4 kcal per gram of starch"
+    },
+    {
+      "position": 4,
+      "carbsG": 0.2,
+      "fiberG": 0.1,
+      "assumptions": "1/8 tsp black pepper ≈ 0.3 g; negligible macros"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb raw sirloin steak (edible portion only); trimmed of visible fat, typical 25% fat content raw beef sirloin"
+    },
+    {
+      "position": 6,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "2 tbsp oyster sauce ≈ 30 g; typical bottled values"
+    },
+    {
+      "position": 7,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 tsp dry sherry ≈ 5 g; ≈14 kcal per tbsp scaled down"
+    },
+    {
+      "position": 8,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "1 tbsp soy sauce ≈ 15 g; standard nutrition for regular soy sauce"
+    },
+    {
+      "position": 9,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1/4 cup chicken stock ≈ 60 ml; low-sodium homemade-style, low fat"
+    },
+    {
+      "position": 10,
+      "carbsG": 13,
+      "fiberG": 6,
+      "assumptions": "1 lb raw broccoli (edible florets and stems only); standard values for fresh broccoli"
+    },
+    {
+      "position": 11,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp high-heat cooking oil (e.g. vegetable or canola); all oil is used in stir-fry, 120 kcal per tbsp"
+    },
+    {
+      "position": 12,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "2 cloves garlic minced ≈ 6 g; typical values"
+    },
+    {
+      "position": 13,
+      "carbsG": 2.7,
+      "fiberG": 0.1,
+      "assumptions": "1 tsp cornstarch ≈ 3 g; ≈4 kcal per gram of starch"
+    },
+    {
+      "position": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp water = 15 g; zero calories"
+    }
+  ]
+}

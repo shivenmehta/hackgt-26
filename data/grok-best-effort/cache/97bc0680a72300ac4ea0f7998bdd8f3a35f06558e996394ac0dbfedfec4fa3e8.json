@@ -1,0 +1,251 @@
+{
+  "inputHash": "97bc0680a72300ac4ea0f7998bdd8f3a35f06558e996394ac0dbfedfec4fa3e8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:25.579Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 371,
+        "proteinG": 13,
+        "fatG": 2,
+        "carbsG": 75,
+        "fiberG": 3
+      },
+      "caloriesKcal": 1113,
+      "proteinG": 39,
+      "fatG": 6,
+      "carbsG": 225,
+      "fiberG": 9,
+      "assumptions": "Dry spaghetti weight as specified; standard durum wheat pasta values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon olive oil weighs ~14g; pure olive oil.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 9,
+        "fiberG": 2
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.1,
+      "fatG": 0,
+      "carbsG": 9.9,
+      "fiberG": 2.2,
+      "assumptions": "1 medium onion finely chopped ≈110g raw; typical white onion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6,
+        "fatG": 1,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.36,
+      "fatG": 0.06,
+      "carbsG": 1.98,
+      "fiberG": 0.12,
+      "assumptions": "2 average garlic cloves minced ≈6g raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 1,
+        "carbsG": 9,
+        "fiberG": 1
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.4,
+      "fatG": 0.2,
+      "carbsG": 1.8,
+      "fiberG": 0.2,
+      "assumptions": "1 medium red chilli ≈20g whole (edible portion after trimming).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 4,
+        "fatG": 1,
+        "carbsG": 19,
+        "fiberG": 3
+      },
+      "caloriesKcal": 12.3,
+      "proteinG": 0.6,
+      "fatG": 0.15,
+      "carbsG": 2.85,
+      "fiberG": 0.45,
+      "assumptions": "1 tablespoon tomato puree ≈15g; standard concentrated tomato paste.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 425,
+      "per100g": {
+        "caloriesKcal": 145,
+        "proteinG": 20,
+        "fatG": 7,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 616.25,
+      "proteinG": 85,
+      "fatG": 29.75,
+      "carbsG": 4.25,
+      "fiberG": 0,
+      "assumptions": "425g can of pilchards in tomato sauce, entire edible contents including sauce (typical drained + sauce weight used).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 70,
+      "per100g": {
+        "caloriesKcal": 115,
+        "proteinG": 1,
+        "fatG": 11,
+        "carbsG": 4,
+        "fiberG": 3
+      },
+      "caloriesKcal": 80.5,
+      "proteinG": 0.7,
+      "fatG": 7.7,
+      "carbsG": 2.8,
+      "fiberG": 2.1,
+      "assumptions": "70g pitted black olives as specified; standard cured olive values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 392,
+        "proteinG": 35,
+        "fatG": 26,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 78.4,
+      "proteinG": 7,
+      "fatG": 5.2,
+      "carbsG": 0.8,
+      "fiberG": 0,
+      "assumptions": "Shaved Parmesan estimated at 20g total for the dish (plausible amount for scattering over 4 servings); hard cheese values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52837",
+    "name": "Pilchard puttanesca",
+    "cuisine": "Italian",
+    "instructions": "Cook the pasta following pack instructions. Heat the oil in a non-stick frying pan and cook the onion, garlic and chilli for 3-4 mins to soften. Stir in the tomato purée and cook for 1 min, then add the pilchards with their sauce. Cook, breaking up the fish with a wooden spoon, then add the olives and continue to cook for a few more mins.\r\n\r\nDrain the pasta and add to the pan with 2-3 tbsp of the cooking water. Toss everything together well, then divide between plates and serve, scattered with Parmesan.",
+    "ingredients": [
+      { "position": 1, "name": "Spaghetti", "measurement": "300g" },
+      { "position": 2, "name": "Olive Oil", "measurement": "1 tbls" },
+      { "position": 3, "name": "Onion", "measurement": "1 finely chopped" },
+      { "position": 4, "name": "Garlic", "measurement": "2 cloves minced" },
+      { "position": 5, "name": "Red Chilli", "measurement": "1" },
+      { "position": 6, "name": "Tomato Puree", "measurement": "1 tbls" },
+      { "position": 7, "name": "Pilchards", "measurement": "425g" },
+      { "position": 8, "name": "Black Olives", "measurement": "70g" },
+      { "position": 9, "name": "Parmesan", "measurement": "Shaved" }
+    ]
+  }
+}

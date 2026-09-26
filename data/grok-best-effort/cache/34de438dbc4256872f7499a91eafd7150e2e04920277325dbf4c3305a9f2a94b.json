@@ -1,0 +1,537 @@
+{
+  "inputHash": "34de438dbc4256872f7499a91eafd7150e2e04920277325dbf4c3305a9f2a94b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:28.545Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 1820,
+      "proteinG": 51.5,
+      "fatG": 5,
+      "carbsG": 381.5,
+      "fiberG": 13.5,
+      "assumptions": "Standard all-purpose flour; 4 cups equals approximately 500g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1 tsp equals 5-6g, negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 10,
+        "fatG": 10,
+        "carbsG": 50,
+        "fiberG": 20
+      },
+      "caloriesKcal": 5,
+      "proteinG": 0.2,
+      "fatG": 0.2,
+      "carbsG": 1,
+      "fiberG": 0.4,
+      "assumptions": "Typical curry powder (turmeric-based as per instructions); 1 tsp equals ~2g; rounded estimates for spices.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1792.5,
+      "proteinG": 2.25,
+      "fatG": 202.5,
+      "carbsG": 0.25,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter as shortening; full 250g used in dough.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Ice/cold water for dough; ~1 cup or 240ml assumed from context of bringing dough together (original '1 cup' adjusted for typical usage).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 900,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 17,
+        "fatG": 20,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2250,
+      "proteinG": 153,
+      "fatG": 180,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw minced/ground beef (80/20 typical); full 900g as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 263,
+        "proteinG": 9,
+        "fatG": 9,
+        "carbsG": 55,
+        "fiberG": 25
+      },
+      "caloriesKcal": 5.26,
+      "proteinG": 0.18,
+      "fatG": 0.18,
+      "carbsG": 1.1,
+      "fiberG": 0.5,
+      "assumptions": "Ground allspice; 1 tsp equals ~2g; spice estimates.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 255,
+        "proteinG": 11,
+        "fatG": 3,
+        "carbsG": 64,
+        "fiberG": 25
+      },
+      "caloriesKcal": 2.55,
+      "proteinG": 0.11,
+      "fatG": 0.03,
+      "carbsG": 0.64,
+      "fiberG": 0.25,
+      "assumptions": "Ground black pepper; 1/2 tsp equals ~1g; spice estimates.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Vegetable oil for sautéing; 2 tbs equals ~28g (plausible amount for skillet).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 160,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.2,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 64,
+      "proteinG": 1.76,
+      "fatG": 0.32,
+      "carbsG": 14.88,
+      "fiberG": 2.72,
+      "assumptions": "Chopped raw onions; 1 cup equals ~160g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.5,
+        "fatG": 0.4,
+        "carbsG": 7.5,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 2,
+      "proteinG": 0.075,
+      "fatG": 0.02,
+      "carbsG": 0.375,
+      "fiberG": 0.125,
+      "assumptions": "Ground red/hot pepper (chili); vague 'Ground' assumed as ~1 tsp or 5g for flavoring.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.4,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.024000000000000004,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "Ground garlic (or equivalent minced); 2 tsp equals ~6g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 276,
+        "proteinG": 9,
+        "fatG": 7,
+        "carbsG": 65,
+        "fiberG": 37
+      },
+      "caloriesKcal": 11.04,
+      "proteinG": 0.36,
+      "fatG": 0.28,
+      "carbsG": 2.6,
+      "fiberG": 1.48,
+      "assumptions": "Dried thyme leaves; 1 tbs equals ~4g; herb estimates.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 1.5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1/4 tsp equals ~1.5g, negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 102,
+        "proteinG": 1.7,
+        "fatG": 0.1,
+        "carbsG": 24,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 30.6,
+      "proteinG": 0.51,
+      "fatG": 0.03,
+      "carbsG": 7.2,
+      "fiberG": 0.09,
+      "assumptions": "Tomato ketchup; 2 tbs equals ~30g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 480,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Water for simmering filling; 2 cups equals ~480ml, fully reduces/evaporates in recipe so minimal retained impact but included as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.2,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 20,
+      "proteinG": 0.55,
+      "fatG": 0.1,
+      "carbsG": 4.65,
+      "fiberG": 0.85,
+      "assumptions": "Chopped green/spring onions; 1/2 cup equals ~50g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.5,
+      "proteinG": 6.3,
+      "fatG": 4.75,
+      "carbsG": 0.35,
+      "fiberG": 0,
+      "assumptions": "Large egg for wash; 1 beaten egg equals ~50g edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 19,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Water for egg wash; 1 tbs equals ~15ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 20,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Additional water (likely for dough adjustment or extra); 1/4 cup equals ~60ml, plausible extra from instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52938",
+    "name": "Jamaican Beef Patties",
+    "cuisine": "Jamaican",
+    "instructions": "Make the Pastry Dough\r\n\r\nTo a large bowl, add flour, 1 teaspoon salt, and turmeric and mix thoroughly.\r\nRub shortening into flour until there are small pieces of shortening completely covered with flour.\r\nPour in 1/2 cup of the ice water and mix with your hands to bring the dough together. Keep adding ice water 2 to 3 tablespoons at a time until the mixture forms a dough.\r\nAt this stage, you can cut the dough into 2 large pieces, wrap in plastic and refrigerate for 30 minutes before using it.\r\nAlternatively, cut the dough into 10 to 12 equal pieces, place on a platter or baking sheet, cover securely with plastic wrap and let chill for 30 minutes while you make the filling.\r\nMake the Filling\r\n\r\nAdd ground beef to a large bowl. Sprinkle in allspice and black pepper. Mix together and set aside.\r\nHeat oil in a skillet until hot.\r\nAdd onions and sauté until translucent. Add hot pepper, garlic and thyme and continue to sauté for another minute. Add 1/4 teaspoon salt.\r\nAdd seasoned ground beef and toss to mix, breaking up any clumps, and let cook until the meat is no longer pink.\r\nAdd ketchup and more salt to taste.\r\nPour in 2 cups of water and stir. Bring the mixture to a boil then reduce heat and let simmer until most of the liquid has evaporated and whatever is remaining has reduced to a thick sauce.\r\nFold in green onions. Remove from heat and let cool completely.\r\nAssemble the Patties\r\n\r\nBeat the egg and water together to make an egg wash. Set aside.\r\nNow you can prepare the dough in two ways.\r\nFirst Method: Flour the work surface and rolling pin. If you had cut it into 2 large pieces, then take one of the large pieces and roll it out into a very large circle. Take a bowl with a wide rim (about 5 inches) and cut out three circles.\r\n\r\nPlace about 3 heaping tablespoons of the filling onto 1/2 of each circle. Dip a finger into the water and moisten the edges of the pastry. Fold over the other half and press to seal. \r\n\r\nTake a fork and crimp the edges. Cut off any extra to make it look neat and uniform. Place on a parchment-lined baking sheet and continue to work until you have rolled all the dough and filled the patties.\r\nSecond Method: If you had pre-cut the dough into individual pieces, work with one piece of dough at a time. Roll it out on a floured surface into a 5-inch circle or a little larger. Don’t worry if the edges are not perfect.\r\n\r\nPlace 3 heaping tablespoons of the filling on one side of the circle. Dip a finger into the water and moisten the edges of the pastry. Fold over the other half and press to seal.\r\n\r\nTake a fork and crimp the edges. Cut off any extra to make it look neat and uniform. Place on a parchment-lined baking sheet and continue work until you have rolled all the dough and filled the patties.\r\n\r\nFrying and Serving the Patties\r\n\r\nAfter forming the patties, place the pans in the refrigerator while you heat the oven to 350 F.\r\nJust before adding the pans with the patties to the oven, brush the patties with egg wash.\r\nBake patties for 30 minutes or until golden brown.\r\nCool on wire racks.\r\nServe warm.",
+    "ingredients": [
+      { "position": 1, "name": "Plain Flour", "measurement": "4 cups" },
+      { "position": 2, "name": "Salt", "measurement": "1 tsp" },
+      { "position": 3, "name": "Curry Powder", "measurement": "1 tsp" },
+      { "position": 4, "name": "Butter", "measurement": "250g" },
+      { "position": 5, "name": "Water", "measurement": "1 cup" },
+      { "position": 6, "name": "Minced Beef", "measurement": "900g" },
+      { "position": 7, "name": "Allspice", "measurement": "1 tsp" },
+      { "position": 8, "name": "Black Pepper", "measurement": "1/2 tsp" },
+      { "position": 9, "name": "Vegetable Oil", "measurement": "2 tbs" },
+      { "position": 10, "name": "Onions", "measurement": "1 cup" },
+      { "position": 11, "name": "Red Pepper", "measurement": "Ground" },
+      { "position": 12, "name": "Garlic", "measurement": "2 tsp ground" },
+      { "position": 13, "name": "Thyme", "measurement": "1 tbs" },
+      { "position": 14, "name": "Salt", "measurement": "1/4 tsp" },
+      { "position": 15, "name": "Tomato Ketchup", "measurement": "2 tbs" },
+      { "position": 16, "name": "Water", "measurement": "2 cups" },
+      { "position": 17, "name": "Onions", "measurement": "1/2 cup" },
+      { "position": 18, "name": "Egg", "measurement": "1 beaten" },
+      { "position": 19, "name": "Water", "measurement": "1 tbs" },
+      { "position": 20, "name": "Water", "measurement": "1/4 cup" }
+    ]
+  }
+}

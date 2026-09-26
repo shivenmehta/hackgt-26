@@ -1,0 +1,307 @@
+{
+  "inputHash": "bac459b5f848870a96e0268aabc4be15bd3da953027e4d5270a5069a6d1d8beb",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:09.774Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 360,
+        "proteinG": 8,
+        "fatG": 2,
+        "carbsG": 78,
+        "fiberG": 2
+      },
+      "caloriesKcal": 720,
+      "proteinG": 16,
+      "fatG": 4,
+      "carbsG": 156,
+      "fiberG": 4,
+      "assumptions": "Dry rice noodles as per pack; typical Asian rice stick noodle values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp sesame oil (14g); assumes all oil is used for cooking the egg.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 171.6,
+      "proteinG": 15.6,
+      "fatG": 12,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "2 large eggs beaten (~60g each); values for whole raw egg.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 18,
+      "proteinG": 0.9,
+      "fatG": 0.225,
+      "carbsG": 4.05,
+      "fiberG": 0.675,
+      "assumptions": "1 medium red chili (~45g whole, chopped); typical fresh red chili values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.3,
+      "fatG": 0.105,
+      "carbsG": 2.7,
+      "fiberG": 0.3,
+      "assumptions": "3cm fresh ginger root (~15g peeled and chopped); typical fresh ginger values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 85,
+        "proteinG": 18,
+        "fatG": 1,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 382.5,
+      "proteinG": 81,
+      "fatG": 4.5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "450g raw peeled prawns (edible portion); typical cooked prawn values adjusted for raw weight context.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 6,
+        "fatG": 0,
+        "carbsG": 6,
+        "fiberG": 1
+      },
+      "caloriesKcal": 9,
+      "proteinG": 0.9,
+      "fatG": 0,
+      "carbsG": 0.9,
+      "fiberG": 0.15,
+      "assumptions": "1 tbsp soy sauce (~15g); typical regular soy sauce values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 4,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 6.9,
+      "proteinG": 0.6,
+      "fatG": 0.15,
+      "carbsG": 1.2,
+      "fiberG": 0.75,
+      "assumptions": "1 bunch fresh coriander (~30g chopped leaves and stems); typical fresh cilantro values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 44,
+        "proteinG": 4,
+        "fatG": 1,
+        "carbsG": 7,
+        "fiberG": 3
+      },
+      "caloriesKcal": 6.6,
+      "proteinG": 0.6,
+      "fatG": 0.15,
+      "carbsG": 1.05,
+      "fiberG": 0.45,
+      "assumptions": "Half a handful fresh mint (~15g leaves); typical fresh mint values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 11,
+        "fiberG": 3
+      },
+      "caloriesKcal": 17.4,
+      "proteinG": 0.6,
+      "fatG": 0.18,
+      "carbsG": 6.6,
+      "fiberG": 1.8,
+      "assumptions": "Zest and juice of 1 lime (~60g total edible yield); typical lime values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 567,
+        "proteinG": 26,
+        "fatG": 49,
+        "carbsG": 16,
+        "fiberG": 8
+      },
+      "caloriesKcal": 170.1,
+      "proteinG": 7.8,
+      "fatG": 14.7,
+      "carbsG": 4.8,
+      "fiberG": 2.4,
+      "assumptions": "1 handful roasted peanuts (~30g chopped); typical dry-roasted unsalted peanut values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53209",
+    "name": "Spicy Thai prawn noodles",
+    "cuisine": "Thai",
+    "instructions": "step 1\r\nCook the noodles following the pack instructions, drain and set aside for later. Heat the oil in a large frying pan and pour in the beaten egg. Swirl around the pan to make a thin omelette, cook for 1-2 mins, then flip over and cook the other side for 1 min. Tip out and slice into thin strips.\r\n\r\nstep 2\r\nAdd the chilli and ginger to the pan, fry for 1-2 mins then tip in the noodles, prawns and egg. Splash in the soy sauce and stir-fry for 1 min more. Throw in the chopped herbs and pour over the lime juice and zest, then sprinkle over the chopped peanuts and serve.",
+    "ingredients": [
+      { "position": 1, "name": "Rice Noodles", "measurement": "200g" },
+      {
+        "position": 2,
+        "name": "Sesame Seed Oil",
+        "measurement": "1 tablespoon"
+      },
+      { "position": 3, "name": "Egg", "measurement": "2 Beaten" },
+      { "position": 4, "name": "Red Chilli", "measurement": "1 chopped" },
+      { "position": 5, "name": "Ginger", "measurement": "3cm piece" },
+      { "position": 6, "name": "Prawns", "measurement": "450g" },
+      { "position": 7, "name": "Soy Sauce", "measurement": "1 tablespoon" },
+      { "position": 8, "name": "Coriander", "measurement": "Bunch" },
+      { "position": 9, "name": "Mint", "measurement": "1/2 handful" },
+      { "position": 10, "name": "Lime", "measurement": "Zest and juice of 1" },
+      { "position": 11, "name": "Peanuts", "measurement": "Handful" }
+    ]
+  }
+}

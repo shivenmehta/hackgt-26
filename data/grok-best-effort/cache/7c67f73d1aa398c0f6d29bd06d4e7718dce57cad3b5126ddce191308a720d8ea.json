@@ -1,0 +1,229 @@
+{
+  "inputHash": "7c67f73d1aa398c0f6d29bd06d4e7718dce57cad3b5126ddce191308a720d8ea",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:03.320Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 946,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 cups water = 946 g; plain water contributes no macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 380,
+      "per100g": {
+        "caloriesKcal": 197,
+        "proteinG": 2.1,
+        "fatG": 21.3,
+        "carbsG": 2.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 748.6,
+      "proteinG": 7.98,
+      "fatG": 80.94,
+      "carbsG": 10.26,
+      "fiberG": 0,
+      "assumptions": "Canned full-fat coconut milk; typical values for 380 g can drained weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 370,
+        "proteinG": 8.1,
+        "fatG": 3.6,
+        "carbsG": 79,
+        "fiberG": 7.3
+      },
+      "caloriesKcal": 888,
+      "proteinG": 19.44,
+      "fatG": 8.64,
+      "carbsG": 189.6,
+      "fiberG": 17.52,
+      "assumptions": "1 cup fine yellow cornmeal ≈ 240 g dry weight; standard uncooked cornmeal nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0.1,
+        "fatG": 0.1,
+        "carbsG": 12.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 23.04,
+      "proteinG": 0.008,
+      "fatG": 0.008,
+      "carbsG": 1.016,
+      "fiberG": 0,
+      "assumptions": "1.5 tsp vanilla extract ≈ 8 g; typical alcohol-based extract",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 1.2,
+        "carbsG": 80.6,
+        "fiberG": 53.1
+      },
+      "caloriesKcal": 2.47,
+      "proteinG": 0.04,
+      "fatG": 0.012,
+      "carbsG": 0.8059999999999999,
+      "fiberG": 0.531,
+      "assumptions": "0.5 tsp ground cinnamon ≈ 1 g; typical spice nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 525,
+        "proteinG": 5.8,
+        "fatG": 36.5,
+        "carbsG": 49.3,
+        "fiberG": 20.9
+      },
+      "caloriesKcal": 5.25,
+      "proteinG": 0.057999999999999996,
+      "fatG": 0.365,
+      "carbsG": 0.493,
+      "fiberG": 0.209,
+      "assumptions": "0.5 tsp ground nutmeg ≈ 1 g; typical spice nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 0.5,
+      "per100g": {
+        "caloriesKcal": 263,
+        "proteinG": 6.1,
+        "fatG": 8.7,
+        "carbsG": 55.3,
+        "fiberG": 15.8
+      },
+      "caloriesKcal": 1.315,
+      "proteinG": 0.0305,
+      "fatG": 0.0435,
+      "carbsG": 0.27649999999999997,
+      "fiberG": 0.079,
+      "assumptions": "0.25 tsp ground allspice ≈ 0.5 g; typical spice nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 154,
+      "per100g": {
+        "caloriesKcal": 321,
+        "proteinG": 7.9,
+        "fatG": 8.7,
+        "carbsG": 54.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 494.34,
+      "proteinG": 12.166000000000002,
+      "fatG": 13.398,
+      "carbsG": 83.77600000000001,
+      "fiberG": 0,
+      "assumptions": "1/2 cup sweetened condensed milk ≈ 154 g (standard 14-oz can is ~300 g for 1 cup); typical sweetened values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53363",
+    "name": "Jamaican Cornmeal Porridge",
+    "cuisine": "Jamaican",
+    "instructions": "Add 2 ½ cups water, 1 can coconut milk to a 4 QT heavy bottomed pot. Bring to a boil over medium-high heat.\r\nMeanwhile, add 1 cup cornmeal and 1 ½ cup water to a large mixing cup and whisk until smooth.\r\nOnce the pot begins to boil, whisk in cornmeal mixture and continue to whisk for about 1 minute, ensuring there are no lumps. Reduce heat to low and cover with a tight fitting lid.\r\nCook over low heat for 15-20 minutes, stirring occasionally. When there is about 5 minutes left, stir in vanilla extract, cinnamon, nutmeg, and all-spice. Remove from heat and sweeten with condensed milk.\r\nServe and enjoy.",
+    "ingredients": [
+      { "position": 1, "name": "Water", "measurement": "4 cups" },
+      { "position": 2, "name": "Coconut Milk", "measurement": "380g" },
+      { "position": 3, "name": "Fine Yellow Cornmeal", "measurement": "1 cup" },
+      { "position": 4, "name": "Vanilla Extract", "measurement": "1 1/2 tsp" },
+      { "position": 5, "name": "Ground Cinnamon", "measurement": "1/2 tsp" },
+      { "position": 6, "name": "Ground Nutmeg", "measurement": "1/2 tsp" },
+      { "position": 7, "name": "Ground Allspice", "measurement": "1/4 tsp" },
+      {
+        "position": 8,
+        "name": "Sweetened Condensed Milk",
+        "measurement": "1/2 cup"
+      }
+    ]
+  }
+}

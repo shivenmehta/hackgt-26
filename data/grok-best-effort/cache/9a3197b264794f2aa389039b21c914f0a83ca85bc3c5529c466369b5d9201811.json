@@ -1,0 +1,523 @@
+{
+  "inputHash": "9a3197b264794f2aa389039b21c914f0a83ca85bc3c5529c466369b5d9201811",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:19.992Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 200.76,
+      "proteinG": 0.252,
+      "fatG": 22.68,
+      "carbsG": 0.028000000000000004,
+      "fiberG": 0,
+      "assumptions": "Standard butter; 1 tbsp = 14g so 2 tbsp total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 41,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 362.44,
+      "proteinG": 0,
+      "fatG": 41,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Olive oil; 1 tbsp ≈ 13.6g so 3 tbsp total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1650,
+      "proteinG": 310,
+      "fatG": 36,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "5 boneless, skinless chicken breasts; typical total raw weight ~1000g (≈200g each).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1 tsp ≈ 6g; negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 21,
+        "proteinG": 1.2,
+        "fatG": 0.2,
+        "carbsG": 4.6,
+        "fiberG": 1
+      },
+      "caloriesKcal": 42,
+      "proteinG": 2.4,
+      "fatG": 0.4,
+      "carbsG": 9.2,
+      "fiberG": 2,
+      "assumptions": "1 medium yellow squash, raw, cubed; ≈200g edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 34,
+        "proteinG": 2.8,
+        "fatG": 0.4,
+        "carbsG": 6.6,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 204,
+      "proteinG": 16.8,
+      "fatG": 2.4,
+      "carbsG": 39.6,
+      "fiberG": 15.6,
+      "assumptions": "1 large head broccoli, chopped; typical edible raw weight ≈600g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 227,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 3.1,
+        "fatG": 0.3,
+        "carbsG": 3.3,
+        "fiberG": 1
+      },
+      "caloriesKcal": 49.94,
+      "proteinG": 7.037000000000001,
+      "fatG": 0.6809999999999999,
+      "carbsG": 7.490999999999999,
+      "fiberG": 2.27,
+      "assumptions": "8 oz (227g) white mushrooms, raw, sliced; full package weight used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 46.5,
+      "proteinG": 1.5,
+      "fatG": 0.45,
+      "carbsG": 9,
+      "fiberG": 3.15,
+      "assumptions": "1 medium red bell pepper, raw; ≈150g edible portion after seeding.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion, raw, chopped; ≈110g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.5760000000000001,
+      "fatG": 0.045,
+      "carbsG": 2.9790000000000005,
+      "fiberG": 0.18900000000000003,
+      "assumptions": "3 cloves garlic, raw; ≈3g each.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Crushed red pepper flakes; ½ tsp ≈ 1g; negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 118,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 2.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 96.76,
+      "proteinG": 0.11800000000000001,
+      "fatG": 0,
+      "carbsG": 3.068,
+      "fiberG": 0,
+      "assumptions": "Dry white wine; ½ cup = 118 ml, density ≈1 g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 122,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 51.24,
+      "proteinG": 4.148,
+      "fatG": 1.22,
+      "carbsG": 6.1,
+      "fiberG": 0,
+      "assumptions": "2% milk; ½ cup = 122g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 119,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2,
+        "fatG": 36.7,
+        "carbsG": 2.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 404.6,
+      "proteinG": 2.38,
+      "fatG": 43.673,
+      "carbsG": 3.332,
+      "fiberG": 0,
+      "assumptions": "Heavy (whipping) cream; ½ cup = 119g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 431,
+        "proteinG": 38,
+        "fatG": 29,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 431,
+      "proteinG": 38,
+      "fatG": 29,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "Grated Parmesan cheese; 1 cup ≈ 100g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 371,
+        "proteinG": 13,
+        "fatG": 1.5,
+        "carbsG": 75,
+        "fiberG": 3.2
+      },
+      "caloriesKcal": 1684.34,
+      "proteinG": 59.02,
+      "fatG": 6.81,
+      "carbsG": 340.5,
+      "fiberG": 14.528000000000002,
+      "assumptions": "Dry bowtie (farfalle) pasta; 16 oz = 454g; values for uncooked as added to recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of kosher salt; ≈1g; negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of black pepper; ≈1g; negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 19,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.7,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 3.6,
+      "proteinG": 0.3,
+      "fatG": 0.07,
+      "carbsG": 0.63,
+      "fiberG": 0.33,
+      "assumptions": "Chopped fresh parsley for garnish; typical small bunch portion ≈10g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52796",
+    "name": "Chicken Alfredo Primavera",
+    "cuisine": "Italian",
+    "instructions": "Heat 1 tablespoon of butter and 2 tablespoons of olive oil in a large skillet over medium-high heat. Season both sides of each chicken breast with seasoned salt and a pinch of pepper. Add the chicken to the skillet and cook for 5-7 minutes on each side, or until cooked through.  While the chicken is cooking, bring a large pot of water to a boil. Season the boiling water with a few generous pinches of kosher salt. Add the pasta and give it a stir. Cook, stirring occasionally, until al dente, about 12 minutes. Reserve 1/2 cup of  pasta water before draining the pasta.  Remove the chicken from the pan and transfer it to a cutting board; allow it to rest. Turn the heat down to medium and dd the remaining 1 tablespoon of butter and olive oil to the same pan you used to cook the chicken. Add the veggies (minus the garlic) and red pepper flakes to the pan and stir to coat with the oil and butter (refrain from seasoning with salt until the veggies are finished browning). Cook, stirring often, until the veggies are tender, about 5 minutes. Add the garlic and a generous pinch of salt and pepper to the pan and cook for 1 minute.  Deglaze the pan with the white wine. Continue to cook until the wine has reduced by half, about 3 minutes. Stir in the milk, heavy cream, and reserved pasta water. Bring the mixture to a gentle boil and allow to simmer and reduce for 2-3 minutes. Turn off the heat and add the Parmesan cheese and cooked pasta. Season with salt and pepper to taste. Garnish with Parmesan cheese and chopped parsley, if desired.",
+    "ingredients": [
+      { "position": 1, "name": "Butter", "measurement": "2 tablespoons" },
+      { "position": 2, "name": "Olive Oil", "measurement": "3 tablespoons" },
+      { "position": 3, "name": "Chicken", "measurement": "5 boneless" },
+      { "position": 4, "name": "Salt", "measurement": "1 teaspoon" },
+      {
+        "position": 5,
+        "name": "Squash",
+        "measurement": "1 cut into 1/2-inch cubes"
+      },
+      { "position": 6, "name": "Broccoli", "measurement": "1 Head chopped" },
+      { "position": 7, "name": "mushrooms", "measurement": "8-ounce sliced" },
+      { "position": 8, "name": "Pepper", "measurement": "1 red" },
+      { "position": 9, "name": "onion", "measurement": "1 chopped" },
+      { "position": 10, "name": "garlic", "measurement": "3 cloves" },
+      {
+        "position": 11,
+        "name": "red pepper flakes",
+        "measurement": "1/2 teaspoon"
+      },
+      { "position": 12, "name": "white wine", "measurement": "1/2 cup" },
+      { "position": 13, "name": "milk", "measurement": "1/2 cup" },
+      { "position": 14, "name": "heavy cream", "measurement": "1/2 cup" },
+      {
+        "position": 15,
+        "name": "Parmesan cheese",
+        "measurement": "1 cup grated"
+      },
+      { "position": 16, "name": "bowtie pasta", "measurement": "16 ounces" },
+      { "position": 17, "name": "Salt", "measurement": "pinch" },
+      { "position": 18, "name": "Pepper", "measurement": "pinch" },
+      { "position": 19, "name": "Parsley", "measurement": "chopped" }
+    ]
+  }
+}

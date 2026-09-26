@@ -1,0 +1,69 @@
+{
+  "inputHash": "9ea6274fbf23e4c7b103515d62a9b9edcc4a8cabd1979e9aaa7b1d663189e36f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:04.535Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp = 14 g olive oil; pure fat, no carbs"
+    },
+    {
+      "position": 2,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion ≈ 110 g, chopped, raw weight used"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "200 g raw boneless skinless chicken breast; pure meat, no carbs"
+    },
+    {
+      "position": 4,
+      "carbsG": 0.4,
+      "fiberG": 0,
+      "assumptions": "pinch of grated fresh ginger ≈ 1 g; negligible contribution"
+    },
+    {
+      "position": 5,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "2 tbsp harissa paste ≈ 30 g; unknown without specific brand data"
+    },
+    {
+      "position": 6,
+      "carbsG": 44,
+      "fiberG": 5,
+      "assumptions": "10 dried apricots ≈ 80 g total (8 g each); whole dried fruit, no added sugar"
+    },
+    {
+      "position": 7,
+      "carbsG": 30,
+      "fiberG": 12,
+      "assumptions": "220 g drained canned chickpeas; standard drained weight used"
+    },
+    {
+      "position": 8,
+      "carbsG": 150,
+      "fiberG": 9,
+      "assumptions": "200 g dry couscous; standard dry weight values"
+    },
+    {
+      "position": 9,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "200 ml chicken stock; typical commercial low-fat variety"
+    },
+    {
+      "position": 10,
+      "carbsG": 0.5,
+      "fiberG": 0.4,
+      "assumptions": "handful fresh coriander ≈ 10 g; negligible contribution"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "inputHash": "fd6f207327e382f88e731afbef6ab015fd9ba5994e42f46f4be8eb0ca8510139",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:31.456Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "25 g butter; pure fat, no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 152,
+      "fiberG": 7.7,
+      "assumptions": "8 thin slices white bread (~320 g total, crusts removed but weight includes edible portion only); using ~47.5 g carbs and ~2.4 g fiber per 100 g white bread"
+    },
+    {
+      "position": 3,
+      "carbsG": 36.5,
+      "fiberG": 1.2,
+      "assumptions": "50 g sultanas (raisins); standard dried fruit values"
+    },
+    {
+      "position": 4,
+      "carbsG": 2.7,
+      "fiberG": 1.7,
+      "assumptions": "2 tsp ground cinnamon (~5 g); modest seasoning amount"
+    },
+    {
+      "position": 5,
+      "carbsG": 17,
+      "fiberG": 0,
+      "assumptions": "350 ml whole cow's milk; ~4.8 g carbs per 100 ml"
+    },
+    {
+      "position": 6,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "50 ml double (heavy) cream; ~4 g carbs per 100 ml"
+    },
+    {
+      "position": 7,
+      "carbsG": 0.8,
+      "fiberG": 0,
+      "assumptions": "2 large free-range eggs (~100 g without shell); trace carbs from ~0.4 g per large egg"
+    },
+    {
+      "position": 8,
+      "carbsG": 25,
+      "fiberG": 0,
+      "assumptions": "25 g white sugar; 100% sucrose"
+    },
+    {
+      "position": 9,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "nutmeg to taste; negligible and unquantified, cannot reasonably estimate"
+    }
+  ]
+}

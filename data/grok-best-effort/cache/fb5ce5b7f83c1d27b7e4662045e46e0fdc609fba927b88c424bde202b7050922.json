@@ -1,0 +1,307 @@
+{
+  "inputHash": "fb5ce5b7f83c1d27b7e4662045e46e0fdc609fba927b88c424bde202b7050922",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:09.032Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 225,
+      "per100g": {
+        "caloriesKcal": 368,
+        "proteinG": 14.1,
+        "fatG": 6.1,
+        "carbsG": 64.2,
+        "fiberG": 7
+      },
+      "caloriesKcal": 828,
+      "proteinG": 31.725,
+      "fatG": 13.725,
+      "carbsG": 144.45,
+      "fiberG": 15.75,
+      "assumptions": "Dry quinoa as specified; standard uncooked values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 179.25,
+      "proteinG": 0.225,
+      "fatG": 20.25,
+      "carbsG": 0.025,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 9.1,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 18,
+      "proteinG": 0.855,
+      "fatG": 0.18,
+      "carbsG": 4.095,
+      "fiberG": 0.675,
+      "assumptions": "One medium red chili (approx 45g whole, edible portion).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "One small garlic clove (approx 3g).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 660,
+      "proteinG": 124,
+      "fatG": 14.4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw boneless skinless chicken breast.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons olive oil (standard 13.5g per tbsp).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 115,
+        "proteinG": 0.8,
+        "fatG": 11.8,
+        "carbsG": 3.2,
+        "fiberG": 2.3
+      },
+      "caloriesKcal": 34.5,
+      "proteinG": 0.24,
+      "fatG": 3.54,
+      "carbsG": 0.96,
+      "fiberG": 0.69,
+      "assumptions": "A handful of pitted black olives (approx 30g, typical recipe amount).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "One medium red onion (approx 110g).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 264,
+        "proteinG": 14.2,
+        "fatG": 21.3,
+        "carbsG": 4.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 264,
+      "proteinG": 14.2,
+      "fatG": 21.3,
+      "carbsG": 4.1,
+      "fiberG": 0,
+      "assumptions": "Standard feta cheese block.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 44,
+        "proteinG": 3.3,
+        "fatG": 0.7,
+        "carbsG": 8.4,
+        "fiberG": 6.8
+      },
+      "caloriesKcal": 6.6,
+      "proteinG": 0.495,
+      "fatG": 0.105,
+      "carbsG": 1.26,
+      "fiberG": 1.02,
+      "assumptions": "A small bunch of fresh mint, chopped (approx 15g leaves).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.4,
+        "fatG": 0.2,
+        "carbsG": 9.3,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 7.25,
+      "proteinG": 0.1,
+      "fatG": 0.05,
+      "carbsG": 2.325,
+      "fiberG": 0.7,
+      "assumptions": "Juice from half a lemon (approx 25g juice).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53011",
+    "name": "Chicken Quinoa Greek Salad",
+    "cuisine": "Greek",
+    "instructions": "Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly.\r\n\r\nMeanwhile, mix the butter, chilli and garlic into a paste. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt.\r\n\r\nNext, tip the tomatoes, olives, onion, feta and mint into a bowl. Toss in the cooked quinoa. Stir through the remaining olive oil, lemon juice and zest, and season well. Serve with the chicken fillets on top, drizzled with any buttery chicken juices.",
+    "ingredients": [
+      { "position": 1, "name": "Quinoa", "measurement": "225g" },
+      { "position": 2, "name": "Butter", "measurement": "25g" },
+      { "position": 3, "name": "Red Chilli", "measurement": "1 chopped" },
+      {
+        "position": 4,
+        "name": "Garlic",
+        "measurement": "1 clove finely chopped"
+      },
+      { "position": 5, "name": "Chicken Breast", "measurement": "400g" },
+      { "position": 6, "name": "Olive Oil", "measurement": "2 tbs" },
+      { "position": 7, "name": "Black Olives", "measurement": "Handful" },
+      { "position": 8, "name": "Red Onions", "measurement": "1 chopped" },
+      { "position": 9, "name": "Feta", "measurement": "100g" },
+      { "position": 10, "name": "Mint", "measurement": "Chopped" },
+      { "position": 11, "name": "Lemon", "measurement": "Juice of 1/2" }
+    ]
+  }
+}

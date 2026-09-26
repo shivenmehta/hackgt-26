@@ -1,0 +1,467 @@
+{
+  "inputHash": "da684107c5193516e20d4e8fe00fc1df88c9f0e9ba4d9113f4791f898c7fe52d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:35:06.496Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 907,
+      "per100g": {
+        "caloriesKcal": 100,
+        "proteinG": 20,
+        "fatG": 2,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 907,
+      "proteinG": 181.4,
+      "fatG": 18.14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 lb whole red snapper; typical edible portion after cleaning and cooking is nearly the full weight as fish is consumed almost entirely in this recipe context",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 972.4,
+      "proteinG": 0,
+      "fatG": 110,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 cup vegetable oil (density ~0.92 g/ml); used for frying, most is drained but full amount included as typical for nutrition estimate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.2,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.006000000000000001,
+      "carbsG": 0.99,
+      "fiberG": 0.063,
+      "assumptions": "1 peeled crushed garlic clove; average medium clove weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 333,
+        "proteinG": 9,
+        "fatG": 13,
+        "carbsG": 72,
+        "fiberG": 14
+      },
+      "caloriesKcal": 3.33,
+      "proteinG": 0.09,
+      "fatG": 0.13,
+      "carbsG": 0.72,
+      "fiberG": 0.14,
+      "assumptions": "1/2 tsp grated ginger; typical density for fresh ginger root",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 100,
+        "proteinG": 5,
+        "fatG": 2,
+        "carbsG": 20,
+        "fiberG": 14
+      },
+      "caloriesKcal": 4,
+      "proteinG": 0.2,
+      "fatG": 0.08,
+      "carbsG": 0.8,
+      "fiberG": 0.56,
+      "assumptions": "2 sprigs fresh thyme; typical small sprig weight ~2g each, leaves and stem",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 0.5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 bay leaf; negligible weight and nutrition contribution, estimated at 0.5g dry",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2
+      },
+      "caloriesKcal": 18.6,
+      "proteinG": 0.6,
+      "fatG": 0.18,
+      "carbsG": 3.6,
+      "fiberG": 1.2,
+      "assumptions": "0.5 red bell pepper; typical half pepper weight ~60g edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2
+      },
+      "caloriesKcal": 18.6,
+      "proteinG": 0.6,
+      "fatG": 0.18,
+      "carbsG": 3.6,
+      "fiberG": 1.2,
+      "assumptions": "0.5 yellow bell pepper; typical half pepper weight ~60g edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 1,
+        "fatG": 0.1,
+        "carbsG": 9,
+        "fiberG": 2
+      },
+      "caloriesKcal": 46.2,
+      "proteinG": 1.1,
+      "fatG": 0.11,
+      "carbsG": 9.9,
+      "fiberG": 2.2,
+      "assumptions": "1 medium onion, sliced; typical whole onion weight ~110g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 10,
+        "fiberG": 3
+      },
+      "caloriesKcal": 24.6,
+      "proteinG": 0.6,
+      "fatG": 0.12,
+      "carbsG": 6,
+      "fiberG": 1.8,
+      "assumptions": "1 medium carrot, chopped; typical whole carrot weight ~60g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 46.44,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon granulated sugar; standard 12g per tbsp",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 263,
+        "proteinG": 6,
+        "fatG": 9,
+        "carbsG": 56,
+        "fiberG": 20
+      },
+      "caloriesKcal": 2.63,
+      "proteinG": 0.06,
+      "fatG": 0.09,
+      "carbsG": 0.56,
+      "fiberG": 0.2,
+      "assumptions": "1/2 tsp ground allspice; typical spice density ~2g per tsp",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 78,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 19,
+        "fiberG": 0
+      },
+      "caloriesKcal": 3.9,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.95,
+      "fiberG": 0,
+      "assumptions": "1 tsp Worcestershire sauce; standard 5g per tsp",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 whole scotch bonnet pepper; small chili, ~5g, nutrition negligible beyond trace heat",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 11,
+        "fiberG": 3
+      },
+      "caloriesKcal": 15,
+      "proteinG": 0.35,
+      "fatG": 0.1,
+      "carbsG": 5.5,
+      "fiberG": 1.5,
+      "assumptions": "1 lime used for rubbing; typical medium lime weight ~50g, juice and some pulp contribute",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 180,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 36,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1.8,
+      "fiberG": 0,
+      "assumptions": "3/4 cup malt vinegar; density ~1.01 g/ml, standard nutrition for vinegar",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 0.3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "pinch of pepper; typical pinch ~0.3g, nutrition negligible",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52944",
+    "name": "Escovitch Fish",
+    "cuisine": "Jamaican",
+    "instructions": "Rinse fish; rub with lemon or lime, seasoned with salt and pepper or use your favorite seasoning. I used creole seasoning. Set aside or place in the oven to keep it warm until sauce is ready.\r\n\r\nIn large skillet heat oil over medium heat, until hot, add the fish, cook each side- for about 5-7 minutes until cooked through and crispy on both sides. Remove fish and set aside. Drain oil and leave about 2-3 tablespoons of oil\r\nAdd, bay leave, garlic and ginger, stir-fry for about a minute making sure the garlic does not burn\r\nThen add onion, bell peppers, thyme, scotch bonnet, sugar, all spice-continue stirring for about 2-3 minutes. Add vinegar, mix an adjust salt and pepper according to preference. Let it simmer for about 2 more minutes. \r\n\r\nDiscard bay leave, thyme spring and serve over fish with a side of this bammy. You may make the sauce about 2 days in advance.",
+    "ingredients": [
+      { "position": 1, "name": "Red Snapper", "measurement": "2 Pounds" },
+      { "position": 2, "name": "Vegetable Oil", "measurement": "1/2 cup" },
+      {
+        "position": 3,
+        "name": "Garlic",
+        "measurement": "1 clove peeled crushed"
+      },
+      { "position": 4, "name": "Ginger", "measurement": "1/2 tsp" },
+      { "position": 5, "name": "Thyme", "measurement": "2 sprigs" },
+      { "position": 6, "name": "Bay Leaf", "measurement": "1" },
+      { "position": 7, "name": "Red Pepper", "measurement": "0.5" },
+      { "position": 8, "name": "Yellow Pepper", "measurement": "0.5" },
+      { "position": 9, "name": "Onion", "measurement": "1 sliced" },
+      { "position": 10, "name": "Carrots", "measurement": "1 chopped" },
+      { "position": 11, "name": "Sugar", "measurement": "1 tbs" },
+      { "position": 12, "name": "Allspice", "measurement": "1/2 tsp" },
+      {
+        "position": 13,
+        "name": "Worcestershire Sauce",
+        "measurement": "1 tsp"
+      },
+      { "position": 14, "name": "Scotch Bonnet", "measurement": "1" },
+      { "position": 15, "name": "Lime", "measurement": "1" },
+      { "position": 16, "name": "Malt Vinegar", "measurement": "3/4 cup" },
+      { "position": 17, "name": "Pepper", "measurement": "pinch" }
+    ]
+  }
+}

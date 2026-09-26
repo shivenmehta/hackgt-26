@@ -1,0 +1,1287 @@
+{
+  "source": "USDA FoodData Central",
+  "fetchedAt": "2026-09-26T17:50:10.111Z",
+  "sourceUrl": "https://fdc.nal.usda.gov/food-details/172461/nutrients",
+  "food": {
+    "fdcId": 172461,
+    "description": "MORI-NU, Tofu, silken, firm",
+    "publicationDate": "4/1/2019",
+    "foodNutrients": [
+      {
+        "nutrient": {
+          "id": 2045,
+          "number": "951",
+          "name": "Proximates",
+          "rank": 50,
+          "unitName": "g"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1051,
+          "number": "255",
+          "name": "Water",
+          "rank": 100,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696983,
+        "amount": 87.4,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1008,
+          "number": "208",
+          "name": "Energy",
+          "rank": 300,
+          "unitName": "kcal"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696982,
+        "amount": 62,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1062,
+          "number": "268",
+          "name": "Energy",
+          "rank": 400,
+          "unitName": "kJ"
+        },
+        "id": 1696965,
+        "amount": 259,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1003,
+          "number": "203",
+          "name": "Protein",
+          "rank": 600,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696973,
+        "amount": 6.9,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1004,
+          "number": "204",
+          "name": "Total lipid (fat)",
+          "rank": 800,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696980,
+        "amount": 2.7,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1007,
+          "number": "207",
+          "name": "Ash",
+          "rank": 1000,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696974,
+        "amount": 0.6,
+        "dataPoints": 0
+      },
+      {
+        "nutrient": {
+          "id": 2039,
+          "number": "956",
+          "name": "Carbohydrates",
+          "rank": 1100,
+          "unitName": "g"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1005,
+          "number": "205",
+          "name": "Carbohydrate, by difference",
+          "rank": 1110,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696981,
+        "amount": 2.4,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1079,
+          "number": "291",
+          "name": "Fiber, total dietary",
+          "rank": 1200,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696991,
+        "amount": 0.1,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 2000,
+          "number": "269",
+          "name": "Total Sugars",
+          "rank": 1510,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696984,
+        "amount": 1.27,
+        "dataPoints": 0
+      },
+      {
+        "nutrient": {
+          "id": 2043,
+          "number": "300",
+          "name": "Minerals",
+          "rank": 5200,
+          "unitName": "mg"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1087,
+          "number": "301",
+          "name": "Calcium, Ca",
+          "rank": 5300,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696985,
+        "amount": 32,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1089,
+          "number": "303",
+          "name": "Iron, Fe",
+          "rank": 5400,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696966,
+        "amount": 1.03,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1090,
+          "number": "304",
+          "name": "Magnesium, Mg",
+          "rank": 5500,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696967,
+        "amount": 27,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1091,
+          "number": "305",
+          "name": "Phosphorus, P",
+          "rank": 5600,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696968,
+        "amount": 90,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1092,
+          "number": "306",
+          "name": "Potassium, K",
+          "rank": 5700,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696986,
+        "amount": 194,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1093,
+          "number": "307",
+          "name": "Sodium, Na",
+          "rank": 5800,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696969,
+        "amount": 36,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1095,
+          "number": "309",
+          "name": "Zinc, Zn",
+          "rank": 5900,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696987,
+        "amount": 0.61,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1098,
+          "number": "312",
+          "name": "Copper, Cu",
+          "rank": 6000,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696970,
+        "amount": 0.203,
+        "dataPoints": 0
+      },
+      {
+        "nutrient": {
+          "id": 2046,
+          "number": "952",
+          "name": "Vitamins and Other Components",
+          "rank": 6250,
+          "unitName": "g"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1162,
+          "number": "401",
+          "name": "Vitamin C, total ascorbic acid",
+          "rank": 6300,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696976,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1165,
+          "number": "404",
+          "name": "Thiamin",
+          "rank": 6400,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696977,
+        "amount": 0.101,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1166,
+          "number": "405",
+          "name": "Riboflavin",
+          "rank": 6500,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696978,
+        "amount": 0.041,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1167,
+          "number": "406",
+          "name": "Niacin",
+          "rank": 6600,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696988,
+        "amount": 0.247,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1175,
+          "number": "415",
+          "name": "Vitamin B-6",
+          "rank": 6800,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1697001,
+        "amount": 0.011,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1178,
+          "number": "418",
+          "name": "Vitamin B-12",
+          "rank": 7300,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 68,
+          "code": "Z",
+          "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)",
+          "foodNutrientSource": {
+            "id": 5,
+            "code": "7",
+            "description": "Assumed zero"
+          }
+        },
+        "id": 1696979,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1106,
+          "number": "320",
+          "name": "Vitamin A, RAE",
+          "rank": 7420,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1697012,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1105,
+          "number": "319",
+          "name": "Retinol",
+          "rank": 7430,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 68,
+          "code": "Z",
+          "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)",
+          "foodNutrientSource": {
+            "id": 5,
+            "code": "7",
+            "description": "Assumed zero"
+          }
+        },
+        "id": 1697011,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1104,
+          "number": "318",
+          "name": "Vitamin A, IU",
+          "rank": 7500,
+          "unitName": "IU"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696971,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "nutrient": {
+          "id": 2044,
+          "number": "950",
+          "name": "Lipids",
+          "rank": 9600,
+          "unitName": "g"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1258,
+          "number": "606",
+          "name": "Fatty acids, total saturated",
+          "rank": 9700,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696975,
+        "amount": 0.406,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1292,
+          "number": "645",
+          "name": "Fatty acids, total monounsaturated",
+          "rank": 11400,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696989,
+        "amount": 0.539,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1293,
+          "number": "646",
+          "name": "Fatty acids, total polyunsaturated",
+          "rank": 12900,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696990,
+        "amount": 1.485,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1257,
+          "number": "605",
+          "name": "Fatty acids, total trans",
+          "rank": 15400,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 68,
+          "code": "Z",
+          "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)",
+          "foodNutrientSource": {
+            "id": 5,
+            "code": "7",
+            "description": "Assumed zero"
+          }
+        },
+        "id": 1697013,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1253,
+          "number": "601",
+          "name": "Cholesterol",
+          "rank": 15700,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696972,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "nutrient": {
+          "id": 2042,
+          "number": "500",
+          "name": "Amino acids",
+          "rank": 16250,
+          "unitName": "g"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1210,
+          "number": "501",
+          "name": "Tryptophan",
+          "rank": 16300,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696992,
+        "amount": 0.085,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1211,
+          "number": "502",
+          "name": "Threonine",
+          "rank": 16400,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696993,
+        "amount": 0.286,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1212,
+          "number": "503",
+          "name": "Isoleucine",
+          "rank": 16500,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1697002,
+        "amount": 0.349,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1213,
+          "number": "504",
+          "name": "Leucine",
+          "rank": 16600,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1697003,
+        "amount": 0.586,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1214,
+          "number": "505",
+          "name": "Lysine",
+          "rank": 16700,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1697004,
+        "amount": 0.459,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1215,
+          "number": "506",
+          "name": "Methionine",
+          "rank": 16800,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696994,
+        "amount": 0.106,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1216,
+          "number": "507",
+          "name": "Cystine",
+          "rank": 16900,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1697005,
+        "amount": 0.1,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1217,
+          "number": "508",
+          "name": "Phenylalanine",
+          "rank": 17000,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696995,
+        "amount": 0.394,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1218,
+          "number": "509",
+          "name": "Tyrosine",
+          "rank": 17100,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696996,
+        "amount": 0.299,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1219,
+          "number": "510",
+          "name": "Valine",
+          "rank": 17200,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1697006,
+        "amount": 0.385,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1220,
+          "number": "511",
+          "name": "Arginine",
+          "rank": 17300,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1697007,
+        "amount": 0.517,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1221,
+          "number": "512",
+          "name": "Histidine",
+          "rank": 17400,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1697008,
+        "amount": 0.169,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1222,
+          "number": "513",
+          "name": "Alanine",
+          "rank": 17500,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696997,
+        "amount": 0.266,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1223,
+          "number": "514",
+          "name": "Aspartic acid",
+          "rank": 17600,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1697009,
+        "amount": 0.771,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1224,
+          "number": "515",
+          "name": "Glutamic acid",
+          "rank": 17700,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696998,
+        "amount": 1.176,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1225,
+          "number": "516",
+          "name": "Glycine",
+          "rank": 17800,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1696999,
+        "amount": 0.268,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1226,
+          "number": "517",
+          "name": "Proline",
+          "rank": 17900,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1697000,
+        "amount": 0.349,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1227,
+          "number": "518",
+          "name": "Serine",
+          "rank": 18000,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1697010,
+        "amount": 0.333,
+        "dataPoints": 0
+      }
+    ],
+    "foodPortions": [
+      {
+        "id": 90662,
+        "gramWeight": 84,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "slice",
+        "measureUnit": {
+          "id": 9999,
+          "name": "undetermined",
+          "abbreviation": "undetermined"
+        }
+      }
+    ],
+    "dataType": "SR Legacy",
+    "foodClass": "FinalFood",
+    "foodComponents": [],
+    "foodAttributes": [
+      {
+        "id": 3403521,
+        "value": "http://purl.obolibrary.org/obo/NCBITaxon_3847",
+        "name": "NCBI Taxon",
+        "foodAttributeType": {
+          "id": 999,
+          "name": "Attribute",
+          "description": "Generic attributes"
+        }
+      },
+      {
+        "id": 3403522,
+        "value": "http://purl.obolibrary.org/obo/NCBITaxon_35493",
+        "name": "NCBI Taxon Parent",
+        "foodAttributeType": {
+          "id": 999,
+          "name": "Attribute",
+          "description": "Generic attributes"
+        }
+      },
+      {
+        "id": 3403523,
+        "value": "Glycine max",
+        "name": "Scientific Name",
+        "foodAttributeType": {
+          "id": 999,
+          "name": "Attribute",
+          "description": "Generic attributes"
+        }
+      },
+      {
+        "id": 3403524,
+        "value": "http://purl.obolibrary.org/obo/FOODON_00005543",
+        "name": "FoodOn Ontology ID #1 For FDC Item",
+        "foodAttributeType": {
+          "id": 999,
+          "name": "Attribute",
+          "description": "Generic attributes"
+        }
+      },
+      {
+        "id": 3403525,
+        "value": "silken firm tofu",
+        "name": "FoodOn Ontology Name #1 For FDC Item",
+        "foodAttributeType": {
+          "id": 999,
+          "name": "Attribute",
+          "description": "Generic attributes"
+        }
+      },
+      {
+        "id": 3403526,
+        "value": "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "name": "Ontology ID For Source",
+        "foodAttributeType": {
+          "id": 999,
+          "name": "Attribute",
+          "description": "Generic attributes"
+        }
+      },
+      {
+        "id": 3403527,
+        "value": "legume food product",
+        "name": "Ontology Name For Source",
+        "foodAttributeType": {
+          "id": 999,
+          "name": "Attribute",
+          "description": "Generic attributes"
+        }
+      }
+    ],
+    "nutrientConversionFactors": [],
+    "inputFoods": [],
+    "ndbNumber": 16162,
+    "isHistoricalReference": true,
+    "foodCategory": {
+      "id": 16,
+      "code": "1600",
+      "description": "Legumes and Legume Products"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "inputHash": "e3a437cd206439621bdaab033755cf18b995fb687c86d6e6242f778f94e55b97",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:27.368Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 750,
+      "caloriesPer100g": 48,
+      "assumptions": "Standard medium carrot is ~125g; 6 chopped carrots total ~750g edible weight (raw, peeled)."
+    },
+    {
+      "position": 3,
+      "grams": 12,
+      "caloriesPer100g": 143,
+      "assumptions": "Average garlic clove ~3g; 4 cloves = 12g (raw)."
+    },
+    {
+      "position": 4,
+      "grams": 2,
+      "caloriesPer100g": 375,
+      "assumptions": "1 tsp cumin seeds ~2g (standard volume-to-weight for whole seeds)."
+    },
+    {
+      "position": 7,
+      "grams": 0.5,
+      "caloriesPer100g": null,
+      "assumptions": "1/4 tsp garam masala ~0.5g (standard volume-to-weight for ground spice); calorie density left null as no known value supplied and no reliable estimate without specific blend data."
+    }
+  ]
+}

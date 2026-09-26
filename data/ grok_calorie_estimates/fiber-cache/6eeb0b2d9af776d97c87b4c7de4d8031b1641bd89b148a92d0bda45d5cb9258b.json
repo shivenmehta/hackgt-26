@@ -1,0 +1,69 @@
+{
+  "inputHash": "6eeb0b2d9af776d97c87b4c7de4d8031b1641bd89b148a92d0bda45d5cb9258b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:22.267Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "200g raw pork tenderloin (lean cut) - no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 0.4,
+      "fiberG": 0,
+      "assumptions": "1 large whole egg (~50g) - ~0.4g carbs in yolk/white"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Dash of water - negligible/zero carbohydrates"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp table salt (~3g) - zero carbohydrates"
+    },
+    {
+      "position": 5,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "1 tsp granulated sugar (~4g) - 4g carbs (all sugars)"
+    },
+    {
+      "position": 6,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "10g light soy sauce - ~1g carbs from fermentation/sugars"
+    },
+    {
+      "position": 7,
+      "carbsG": 9,
+      "fiberG": 0,
+      "assumptions": "10g cornstarch (starch) - ~9g carbs (nearly all starch)"
+    },
+    {
+      "position": 8,
+      "carbsG": 3.6,
+      "fiberG": 0.9,
+      "assumptions": "30g canned tomato puree/paste - ~12g carbs/100g with ~3g fiber/100g"
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "10g white vinegar (5% acidity) - zero carbohydrates"
+    },
+    {
+      "position": 10,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Dash of fresh coriander (cilantro) - negligible but not exactly zero; cannot quantify without specific weight"
+    }
+  ]
+}

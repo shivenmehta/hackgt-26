@@ -1,0 +1,39 @@
+{
+  "inputHash": "f4d2455496cc3d9be9c653e4e2e86bf4182dd92e867fd1ce916200773565e526",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:07.008Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 large pork sausages (plain meat, no carbs)"
+    },
+    {
+      "position": 2,
+      "carbsG": 60,
+      "fiberG": 8,
+      "assumptions": "1 standard 400-420g jar tomato pasta sauce (~380g edible; typical values ~15-16g carbs/100g)"
+    },
+    {
+      "position": 3,
+      "carbsG": 156,
+      "fiberG": 48,
+      "assumptions": "1200g drained canned butter beans (typical ~13g carbs and 4g fiber per 100g drained)"
+    },
+    {
+      "position": 4,
+      "carbsG": 13,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon (~20g) black treacle (nearly all carbohydrate)"
+    },
+    {
+      "position": 5,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 teaspoon (~5g) English mustard (negligible carbs)"
+    }
+  ]
+}

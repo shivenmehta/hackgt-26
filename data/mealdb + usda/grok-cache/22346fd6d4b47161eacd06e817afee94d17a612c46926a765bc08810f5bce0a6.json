@@ -1,0 +1,51 @@
+{
+  "inputHash": "22346fd6d4b47161eacd06e817afee94d17a612c46926a765bc08810f5bce0a6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:15.789Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 60,
+      "caloriesPer100g": 250,
+      "assumptions": "4 tbsp massaman curry paste estimated at ~15g per tbsp (typical density for Thai curry pastes); ~250 kcal/100g is realistic for commercial pastes high in oil, shallots, and spices."
+    },
+    {
+      "position": 7,
+      "grams": 2,
+      "caloriesPer100g": 30,
+      "assumptions": "4 lime leaves estimated at ~0.5g each (very light, thin leaves); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 8,
+      "grams": 3,
+      "caloriesPer100g": 247,
+      "assumptions": "1 cinnamon stick estimated at ~3g (typical whole stick weight); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "caloriesPer100g": 240,
+      "assumptions": "1 tbsp tamarind paste estimated at ~15g (standard tbsp weight for thick paste); ~240 kcal/100g realistic for concentrated tamarind."
+    },
+    {
+      "position": 10,
+      "grams": 12,
+      "caloriesPer100g": 380,
+      "assumptions": "1 tbsp brown/palm sugar estimated at ~12g (standard tbsp weight for granulated sugar); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 12,
+      "grams": 15,
+      "caloriesPer100g": 40,
+      "assumptions": "1 red chilli (deseeded, sliced) estimated at ~15g whole trimmed weight; ~40 kcal/100g typical for fresh chillies."
+    },
+    {
+      "position": 13,
+      "grams": null,
+      "caloriesPer100g": 359,
+      "assumptions": "Jasmine rice 'to serve' with no quantity given in recipe; cannot estimate grams without assuming unstated serving count, so grams left null; knownCaloriesPer100g copied exactly."
+    }
+  ]
+}

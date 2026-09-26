@@ -1,0 +1,57 @@
+{
+  "inputHash": "11c758658814322fa1ebe3671e571a0c230fec1e83b3584abf0505574566a699",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:15.872Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 30,
+      "caloriesPer100g": null,
+      "assumptions": "Standard tablespoon is 15 ml; seasoned rice vinegar has density near 1 g/ml so 2 tbsp = 30 g. No known calories, returned null."
+    },
+    {
+      "position": 6,
+      "grams": 12,
+      "caloriesPer100g": 335,
+      "assumptions": "Ground ginger density is ~0.2 g/ml; 1 tbsp ≈ 6 g so 2 tbsp = 12 g. Used supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 8,
+      "grams": 122,
+      "caloriesPer100g": 48,
+      "assumptions": "Medium carrot without tops ≈ 61 g; 2 carrots = 122 g. Used supplied knownCaloriesPer100g for raw carrots."
+    },
+    {
+      "position": 9,
+      "grams": 45,
+      "caloriesPer100g": 29,
+      "assumptions": "Typical sliced jalapeño (medium pepper) ≈ 45 g including some seeds. Used supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 12,
+      "grams": 113,
+      "caloriesPer100g": 145,
+      "assumptions": "4 oz ham = 113 g by definition. CaloriesPer100g estimated for typical cooked ham (≈145 kcal/100 g) as no known value supplied."
+    },
+    {
+      "position": 13,
+      "grams": 454,
+      "caloriesPer100g": 16,
+      "assumptions": "Medium head napa cabbage ≈ 900-1000 g; 1/2 head (edible portion) ≈ 454 g. Used supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 14,
+      "grams": 60,
+      "caloriesPer100g": 32,
+      "assumptions": "Medium scallion ≈ 15 g; 4 scallions = 60 g. Used supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 15,
+      "grams": 60,
+      "caloriesPer100g": 31.3,
+      "assumptions": "Medium red bell pepper ≈ 120 g; 1/2 = 60 g. Used supplied knownCaloriesPer100g."
+    }
+  ]
+}

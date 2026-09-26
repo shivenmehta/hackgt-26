@@ -1,0 +1,39 @@
+{
+  "inputHash": "0154fd1b3cd3faf62d12c8ea519b205e0e62249dbd1e7fa1dd47cb96f678ce81",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:30.446Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 22.5,
+      "caloriesPer100g": 97,
+      "assumptions": "1-2 tbsp English mustard averages 1.5 tbsp; standard mustard density ~15 g/tbsp, so 22.5 g total. Calories based on typical Dijon-style mustard (~97 kcal/100 g)."
+    },
+    {
+      "position": 3,
+      "grams": 10,
+      "caloriesPer100g": 884,
+      "assumptions": "'Dash' of olive oil for searing is a small amount for the pan; conservatively estimated at 10 g (about 2 tsp). Supplied knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 4,
+      "grams": 750,
+      "caloriesPer100g": 198,
+      "assumptions": "'750g piece' of beef fillet is the full edible weight given; no trimming or bone loss assumed. Calories reflect typical raw beef tenderloin/fillet (~198 kcal/100 g)."
+    },
+    {
+      "position": 5,
+      "grams": 120,
+      "caloriesPer100g": 250,
+      "assumptions": "6-8 slices Parma ham averaged to 7 slices; typical thin slice is ~17 g, so ~120 g total. Calories based on standard prosciutto/Parma values (~250 kcal/100 g)."
+    },
+    {
+      "position": 7,
+      "grams": 5,
+      "caloriesPer100g": 358,
+      "assumptions": "'Dusting' of flour for rolling pastry is a modest sprinkling; estimated at 5 g. Supplied knownCaloriesPer100g copied exactly."
+    }
+  ]
+}

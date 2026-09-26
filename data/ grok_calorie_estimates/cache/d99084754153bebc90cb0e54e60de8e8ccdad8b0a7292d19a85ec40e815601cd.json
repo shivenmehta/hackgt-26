@@ -1,0 +1,65 @@
+{
+  "inputHash": "d99084754153bebc90cb0e54e60de8e8ccdad8b0a7292d19a85ec40e815601cd",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:19:23.439Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 1100,
+      "proteinG": 85,
+      "fatG": 80,
+      "assumptions": "500g raw minced beef (20% fat assumed); all used in recipe"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 120,
+      "proteinG": 5,
+      "fatG": 1,
+      "assumptions": "1 large aubergine ≈ 450g raw; edible portion after microwaving/slicing; minimal oil absorption"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 170,
+      "proteinG": 9,
+      "fatG": 13,
+      "assumptions": "150g full-fat Greek yogurt; entire amount used"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 70,
+      "proteinG": 6,
+      "fatG": 5,
+      "assumptions": "1 large beaten egg (≈50g without shell); all used"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 110,
+      "proteinG": 10,
+      "fatG": 8,
+      "assumptions": "3 tbs grated Parmesan ≈ 45g; entire amount used"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 80,
+      "proteinG": 4,
+      "fatG": 1,
+      "assumptions": "400g canned chopped tomatoes (drained weight basis); entire contents used"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 60,
+      "proteinG": 3,
+      "fatG": 0,
+      "assumptions": "4 tbs tomato puree ≈ 60g; entire amount used"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 270,
+      "proteinG": 6,
+      "fatG": 0,
+      "assumptions": "350g raw potatoes, peeled and sliced; all used in dish"
+    }
+  ]
+}

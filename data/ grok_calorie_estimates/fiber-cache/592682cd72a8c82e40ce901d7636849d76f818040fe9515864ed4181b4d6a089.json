@@ -1,0 +1,51 @@
+{
+  "inputHash": "592682cd72a8c82e40ce901d7636849d76f818040fe9515864ed4181b4d6a089",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:21.860Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 1.8,
+      "fiberG": 0.1,
+      "assumptions": "2 cloves garlic ≈ 6g; standard garlic nutrition (2.98g carbs/100g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp sea salt ≈ 10g; no carbohydrates"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 tbs olive oil ≈ 52g; pure oil has no carbohydrates"
+    },
+    {
+      "position": 4,
+      "carbsG": 5.4,
+      "fiberG": 1.6,
+      "assumptions": "Zest + juice of 1 medium lemon ≈ 60g edible portion; standard lemon nutrition (≈9g carbs/100g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.7,
+      "fiberG": 0.2,
+      "assumptions": "1 tbs fresh dill ≈ 3g; standard fresh herb nutrition (≈7g carbs/100g)"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "750g raw boneless lamb leg; pure meat has no carbohydrates"
+    },
+    {
+      "position": 7,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "'To serve' quantity unspecified; cannot estimate total contribution"
+    }
+  ]
+}

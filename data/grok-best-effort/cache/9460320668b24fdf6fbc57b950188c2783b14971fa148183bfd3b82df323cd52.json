@@ -1,0 +1,233 @@
+{
+  "inputHash": "9460320668b24fdf6fbc57b950188c2783b14971fa148183bfd3b82df323cd52",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:57.627Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0.1,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0.027000000000000003,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard sunflower oil density ~0.92 g/ml; 1 tbsp = 14 ml so 2 tbsp ~27g total; all oil is included even if some remains in pan.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "Medium onion ~110g after peeling and chopping; standard raw onion values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "Typical peeled garlic clove ~3g; standard raw garlic values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 119,
+        "proteinG": 7.2,
+        "fatG": 2.6,
+        "carbsG": 15.7,
+        "fiberG": 7.5
+      },
+      "caloriesKcal": 476,
+      "proteinG": 28.8,
+      "fatG": 10.4,
+      "carbsG": 62.8,
+      "fiberG": 30,
+      "assumptions": "Drained weight of 400g can chickpeas; values for drained/canned chickpeas.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 17.8,
+        "fatG": 22.3,
+        "carbsG": 43.8,
+        "fiberG": 10.5
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.35600000000000004,
+      "fatG": 0.446,
+      "carbsG": 0.8759999999999999,
+      "fiberG": 0.21,
+      "assumptions": "1 tsp ground cumin ~2g; standard ground cumin values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 298,
+        "proteinG": 12.4,
+        "fatG": 17.8,
+        "carbsG": 55,
+        "fiberG": 29.1
+      },
+      "caloriesKcal": 5.96,
+      "proteinG": 0.248,
+      "fatG": 0.35600000000000004,
+      "carbsG": 1.1,
+      "fiberG": 0.5820000000000001,
+      "assumptions": "1 tsp ground coriander ~2g; standard ground coriander values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.8,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 7.2,
+      "proteinG": 0.6,
+      "fatG": 0.16,
+      "carbsG": 1.26,
+      "fiberG": 0.66,
+      "assumptions": "'Handful' fresh parsley estimated at 20g; standard fresh parsley values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.5,
+      "proteinG": 6.3,
+      "fatG": 4.75,
+      "carbsG": 0.35,
+      "fiberG": 0,
+      "assumptions": "Medium beaten egg ~50g edible portion; standard raw egg values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53266",
+    "name": "Falafel",
+    "cuisine": "Turkish",
+    "instructions": "step 1\r\nHeat 1 tbsp oil in a large pan, then fry the onion and garlic over a low heat for 5 mins until softened. Tip into a large mixing bowl with the chickpeas and spices, then mash together with a fork or potato masher until the chickpeas are totally broken down. Stir in the parsley or dried herbs, with seasoning to taste. Add the egg, then squish the mixture together with your hands.\r\n\r\nstep 2\r\nMould the mix into 6 balls, then flatten into patties. Heat the remaining oil in the pan, then fry the falafels on a medium heat for 3 mins on each side, until golden brown and firm. Serve hot or cold with couscous, pitta bread or salad.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Sunflower Oil",
+        "measurement": "2 tablespoons"
+      },
+      { "position": 2, "name": "Onion", "measurement": "1 chopped" },
+      {
+        "position": 3,
+        "name": "Garlic",
+        "measurement": "1 clove peeled crushed"
+      },
+      { "position": 4, "name": "Chickpeas", "measurement": "400g" },
+      { "position": 5, "name": "Ground Cumin", "measurement": "1 tsp" },
+      { "position": 6, "name": "Ground Coriander", "measurement": "1 tsp" },
+      { "position": 7, "name": "Parsley", "measurement": "Handful" },
+      { "position": 8, "name": "Egg", "measurement": "1 beaten" }
+    ]
+  }
+}

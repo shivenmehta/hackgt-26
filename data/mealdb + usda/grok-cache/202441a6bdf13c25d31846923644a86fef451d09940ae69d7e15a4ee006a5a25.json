@@ -1,0 +1,33 @@
+{
+  "inputHash": "202441a6bdf13c25d31846923644a86fef451d09940ae69d7e15a4ee006a5a25",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:39.328Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 114,
+      "caloriesPer100g": 223,
+      "assumptions": "Standard English muffin is ~57 g each; 2 muffins total 114 g edible portion."
+    },
+    {
+      "position": 4,
+      "grams": 20,
+      "caloriesPer100g": 717,
+      "assumptions": "Modest 'to serve' amount for buttering 4 muffin halves; ~5 g per half is realistic for light spreading."
+    },
+    {
+      "position": 5,
+      "grams": 200,
+      "caloriesPer100g": 117,
+      "assumptions": "Typical smoked salmon slice is ~25 g; 8 slices total 200 g edible smoked salmon."
+    },
+    {
+      "position": 8,
+      "grams": 51,
+      "caloriesPer100g": 317,
+      "assumptions": "One large egg yolk is ~17 g; 3 yolks total 51 g. Calories based on standard raw egg yolk density (~317 kcal/100 g)."
+    }
+  ]
+}

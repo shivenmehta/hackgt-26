@@ -1,0 +1,33 @@
+{
+  "inputHash": "4afc3bf0d742e02f656dcfebd77a7c02fd86a35ef848fdc5289cdd0500c9cd68",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:34.520Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 20,
+      "caloriesPer100g": 38,
+      "assumptions": "2 tbs chopped onion estimated at 20g (standard density for chopped raw onion; ~10g per tbs)."
+    },
+    {
+      "position": 5,
+      "grams": 200,
+      "caloriesPer100g": 266,
+      "assumptions": "8 slices of bread; standard slice ~25g each for typical sandwich bread (total 200g), consistent with the supplied calorie density of 266 kcal/100g."
+    },
+    {
+      "position": 7,
+      "grams": 120,
+      "caloriesPer100g": 22,
+      "assumptions": "8 slices of tomato; medium tomato yields ~4 slices at ~15g per slice (total 120g), consistent with supplied calorie density of 22 kcal/100g for raw tomato."
+    },
+    {
+      "position": 8,
+      "grams": 112,
+      "caloriesPer100g": 300,
+      "assumptions": "4 slices mozzarella; standard slice ~28g each (total 112g). Typical part-skim mozzarella is ~300 kcal/100g; used this realistic value since field was null."
+    }
+  ]
+}

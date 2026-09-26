@@ -1,0 +1,51 @@
+{
+  "inputHash": "40613468ec6604873684a302294764ed2a95bf253d7f5697ce58807821ecea5c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:02.911Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 102,
+      "fiberG": 3.5,
+      "assumptions": "320g ready-to-use puff pastry (standard all-butter type); values based on typical commercial product nutrition per gram."
+    },
+    {
+      "position": 2,
+      "carbsG": 60,
+      "fiberG": 0,
+      "assumptions": "4 tbsp (≈60g) dark brown soft sugar; fully contributes its sugar calories."
+    },
+    {
+      "position": 3,
+      "carbsG": 66,
+      "fiberG": 11,
+      "assumptions": "3 medium Braeburn apples (≈540g total raw edible weight after peeling/coring); modest size assumed, raw values used."
+    },
+    {
+      "position": 4,
+      "carbsG": 48,
+      "fiberG": 0.5,
+      "assumptions": "4 tbsp (≈80g) of the prepared red wine jelly from the instructions (wine + jam sugar reduced); modest sugar content assumed for syrupy jelly."
+    },
+    {
+      "position": 5,
+      "carbsG": 7,
+      "fiberG": 0,
+      "assumptions": "100ml crème fraîche (standard ~30-35% fat product); volume converted at typical density."
+    },
+    {
+      "position": 6,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "1 tbsp (≈8g) icing sugar; fully contributes its sugar calories."
+    },
+    {
+      "position": 7,
+      "carbsG": 1.2,
+      "fiberG": 0.8,
+      "assumptions": "3 whole cardamom pods (≈2g total, ground for mixing); modest spice weight, typical per-pod values."
+    }
+  ]
+}

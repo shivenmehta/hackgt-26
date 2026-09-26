@@ -1,0 +1,57 @@
+{
+  "inputHash": "3e3bf1a9d54105d84b1371adef8fac5bfbb1f67c7b0533b861177f452890ba58",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:55.929Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 150,
+      "caloriesPer100g": 31.3,
+      "assumptions": "Medium red pepper (about 150g whole) diced; all edible."
+    },
+    {
+      "position": 3,
+      "grams": 25,
+      "caloriesPer100g": 23,
+      "assumptions": "Small bunch coriander ≈25g total (stalks + leaves); typical supermarket bunch weight used for the whole herb."
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "caloriesPer100g": 40,
+      "assumptions": "1 small red chilli ≈15g whole; fully edible after chopping."
+    },
+    {
+      "position": 6,
+      "grams": 400,
+      "caloriesPer100g": 82,
+      "assumptions": "Density of dry white wine ≈1g/ml, so 400ml = 400g."
+    },
+    {
+      "position": 7,
+      "grams": 0.2,
+      "caloriesPer100g": 310,
+      "assumptions": "Typical pinch of saffron threads is 0.1-0.3g; used 0.2g as modest average for a recipe pinch."
+    },
+    {
+      "position": 8,
+      "grams": 0.5,
+      "caloriesPer100g": 313,
+      "assumptions": "1 dried bay leaf weighs ≈0.5g; fully used in recipe."
+    },
+    {
+      "position": 13,
+      "grams": 200,
+      "caloriesPer100g": 71.4,
+      "assumptions": "8 tiger prawns (large, ~25g each raw, peeled weight); modest edible portion estimate for 8 prawns."
+    },
+    {
+      "position": 16,
+      "grams": 250,
+      "caloriesPer100g": 265,
+      "assumptions": "1 standard baguette ≈250g total edible weight when sliced for serving; typical baguette density/calories used since known value was null."
+    }
+  ]
+}

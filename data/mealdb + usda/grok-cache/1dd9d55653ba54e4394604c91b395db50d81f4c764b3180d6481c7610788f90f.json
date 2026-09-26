@@ -1,0 +1,27 @@
+{
+  "inputHash": "1dd9d55653ba54e4394604c91b395db50d81f4c764b3180d6481c7610788f90f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:11.022Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 500,
+      "caloriesPer100g": null,
+      "assumptions": "Directly using the supplied measurement of 500g as the edible mass for the entire white bread mix ingredient line; no estimation needed."
+    },
+    {
+      "position": 4,
+      "grams": 360,
+      "caloriesPer100g": 393,
+      "assumptions": "12 rashers/strips of typical bacon; each rasher ~30g raw edible weight (standard UK rasher size 25-35g), total 360g. Copying supplied knownCaloriesPer100g exactly; assumes this value is for the raw preparation state as listed."
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "caloriesPer100g": 80,
+      "assumptions": "A 'knob' of fresh ginger is typically a small 10-20g piece; using 15g as realistic average peeled edible weight in a recipe context for 12 buns. Copying supplied knownCaloriesPer100g exactly; assumes this is for raw peeled ginger."
+    }
+  ]
+}

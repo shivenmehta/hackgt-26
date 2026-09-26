@@ -1,0 +1,277 @@
+{
+  "inputHash": "ddf72b6cbd90b1777a30a7b8bbe5047b10904f20078c86561b50359392a6777d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:34:56.033Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1150,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1897.5,
+      "proteinG": 356.5,
+      "fatG": 41.4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1.25 kg whole chicken with bone; ~1150 g edible raw meat after estimating ~8% bone/skin waste for a cut-up chicken",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp olive oil using standard 14 g per tbsp",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.5760000000000001,
+      "fatG": 0.045,
+      "carbsG": 2.9790000000000005,
+      "fiberG": 0.18900000000000003,
+      "assumptions": "3 cloves garlic ≈ 9 g chopped, raw",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 0.2,
+      "per100g": {
+        "caloriesKcal": 310,
+        "proteinG": 11.4,
+        "fatG": 5.9,
+        "carbsG": 65.4,
+        "fiberG": 3.9
+      },
+      "caloriesKcal": 0.62,
+      "proteinG": 0.0228,
+      "fatG": 0.011800000000000001,
+      "carbsG": 0.13080000000000003,
+      "fiberG": 0.0078000000000000005,
+      "assumptions": "Pinch of saffron threads estimated at 0.2 g (typical small pinch amount used in recipes)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 102,
+      "per100g": {
+        "caloriesKcal": 129,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 3.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 131.58,
+      "proteinG": 0.10200000000000001,
+      "fatG": 0,
+      "carbsG": 3.8759999999999994,
+      "fiberG": 0,
+      "assumptions": "125 ml dry sherry; density ≈ 0.816 g/ml, alcohol contributes to calories",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 0.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14,
+      "proteinG": 1.8,
+      "fatG": 0.4,
+      "carbsG": 0.8,
+      "fiberG": 0,
+      "assumptions": "200 ml chicken stock using typical low-sodium broth values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 101,
+        "proteinG": 5.6,
+        "fatG": 1.7,
+        "carbsG": 24.5,
+        "fiberG": 14
+      },
+      "caloriesKcal": 3.03,
+      "proteinG": 0.16799999999999998,
+      "fatG": 0.051,
+      "carbsG": 0.735,
+      "fiberG": 0.42,
+      "assumptions": "1 tbsp fresh thyme leaves ≈ 3 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 299,
+        "proteinG": 3.1,
+        "fatG": 0.5,
+        "carbsG": 79.2,
+        "fiberG": 3.7
+      },
+      "caloriesKcal": 149.5,
+      "proteinG": 1.55,
+      "fatG": 0.25,
+      "carbsG": 39.6,
+      "fiberG": 1.85,
+      "assumptions": "50 g raisins used as-is",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 18,
+      "per100g": {
+        "caloriesKcal": 673,
+        "proteinG": 13.7,
+        "fatG": 68.3,
+        "carbsG": 13.1,
+        "fiberG": 6.7
+      },
+      "caloriesKcal": 121.14,
+      "proteinG": 2.4659999999999997,
+      "fatG": 12.293999999999999,
+      "carbsG": 2.3579999999999997,
+      "fiberG": 1.2060000000000002,
+      "assumptions": "2 tbsp pine nuts ≈ 18 g (standard 9 g per tbsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.8,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 5.4,
+      "proteinG": 0.45,
+      "fatG": 0.12,
+      "carbsG": 0.945,
+      "fiberG": 0.495,
+      "assumptions": "Handful of fresh parsley ≈ 15 g chopped",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53186",
+    "name": "Chicken with saffron, raisins & pine nuts",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nHeat a large frying pan on a high heat and season the chicken. Add the olive oil to the pan, then the chicken. Brown for about 5 mins on each side, remove onto a plate, then set aside.\r\n\r\nstep 2\r\nLower the heat to medium. In the remaining fat, fry the onions for 3 mins, then add the garlic and saffron. Cook for 3-4 mins more. Add the sherry, then simmer for 3-5 mins until syrupy.\r\n\r\nstep 3\r\nPut the chicken leg pieces back into the pan, tip in the stock, thyme and raisins, cover, then gently cook on a low heat for 20 mins. Add the breast meat and any juices left on the plate. Simmer for 10 mins more until cooked through and the sauce in the pan has reduced.\r\n\r\nstep 4\r\nWhile the chicken is cooking, heat oven to 200C/180C fan/gas 6. Scatter the pine nuts over a baking sheet, then roast for 10 mins until golden and toasted. Once the chicken has cooked through, season to taste, scatter with pine nuts and parsley, then serve with rice.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken", "measurement": "1.25kg" },
+      { "position": 2, "name": "Olive Oil", "measurement": "2 tblsp" },
+      { "position": 3, "name": "Garlic", "measurement": "3 cloves Chopped" },
+      { "position": 4, "name": "Saffron", "measurement": "Pinch" },
+      { "position": 5, "name": "Dry sherry", "measurement": "125ml" },
+      { "position": 6, "name": "Chicken Stock", "measurement": "200ml" },
+      { "position": 7, "name": "Thyme", "measurement": "1 tbsp" },
+      { "position": 8, "name": "Raisins", "measurement": "50g" },
+      { "position": 9, "name": "Pine Nuts", "measurement": "2 tbsp" },
+      { "position": 10, "name": "Parsley", "measurement": "Handful" }
+    ]
+  }
+}

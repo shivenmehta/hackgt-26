@@ -1,0 +1,385 @@
+{
+  "inputHash": "5ed31a7f85a507891507e2f71562e77db30e34c1a0f0af3ae3e3704595d804f0",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:18.381Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 5.5,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.4,
+        "fatG": 0.1,
+        "carbsG": 4.4,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 2.915,
+      "proteinG": 0.29700000000000004,
+      "fatG": 0.0055000000000000005,
+      "carbsG": 0.24200000000000002,
+      "fiberG": 0.0275,
+      "assumptions": "Standard soy sauce; 1 tsp ≈ 5.5 g; values for regular (not low-sodium) soy sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 34,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1.2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1.7,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.06,
+      "fiberG": 0,
+      "assumptions": "Dry sherry (or Chinese rice wine substitute); 1 tsp ≈ 5 g; alcohol mostly evaporates but nutrients calculated on liquid basis.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 1.3,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 91,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 4.953,
+      "proteinG": 0.0039000000000000003,
+      "fatG": 0.0013,
+      "carbsG": 1.183,
+      "fiberG": 0.011700000000000002,
+      "assumptions": "Cornstarch; 1/2 tsp ≈ 1.3 g; nearly pure carbohydrate.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 0.3,
+      "per100g": {
+        "caloriesKcal": 255,
+        "proteinG": 10.9,
+        "fatG": 3.3,
+        "carbsG": 64.5,
+        "fiberG": 25.3
+      },
+      "caloriesKcal": 0.765,
+      "proteinG": 0.0327,
+      "fatG": 0.009899999999999999,
+      "carbsG": 0.19349999999999998,
+      "fiberG": 0.0759,
+      "assumptions": "Ground black pepper; 1/8 tsp ≈ 0.3 g; high-fiber spice used in tiny amount.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 135,
+        "proteinG": 21,
+        "fatG": 5.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 612.9,
+      "proteinG": 95.34,
+      "fatG": 25.423999999999996,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw sirloin steak (beef top sirloin, lean); 1 lb = 454 g edible portion; values for separable lean only, trimmed to 0\" fat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 32,
+      "per100g": {
+        "caloriesKcal": 69,
+        "proteinG": 2.7,
+        "fatG": 0.3,
+        "carbsG": 13.4,
+        "fiberG": 0.4
+      },
+      "caloriesKcal": 22.08,
+      "proteinG": 0.8640000000000001,
+      "fatG": 0.096,
+      "carbsG": 4.288,
+      "fiberG": 0.128,
+      "assumptions": "Oyster sauce; 2 Tbsp ≈ 32 g; typical commercial bottled oyster sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 34,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1.2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1.7,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.06,
+      "fiberG": 0,
+      "assumptions": "Dry sherry (or Chinese rice wine); 1 tsp ≈ 5 g; same as earlier sherry line.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 16,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.4,
+        "fatG": 0.1,
+        "carbsG": 4.4,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 8.48,
+      "proteinG": 0.8640000000000001,
+      "fatG": 0.016,
+      "carbsG": 0.7040000000000001,
+      "fiberG": 0.08,
+      "assumptions": "Standard soy sauce; 1 Tbsp ≈ 16 g; values for regular soy sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 4.2,
+      "proteinG": 0.54,
+      "fatG": 0.12,
+      "carbsG": 0.3,
+      "fiberG": 0,
+      "assumptions": "Chicken stock/broth (ready-to-use, low-sodium typical); 1/4 cup ≈ 60 g; values averaged for homemade-style stock.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 34,
+        "proteinG": 2.8,
+        "fatG": 0.4,
+        "carbsG": 6.6,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 154.36,
+      "proteinG": 12.711999999999998,
+      "fatG": 1.8160000000000003,
+      "carbsG": 29.963999999999995,
+      "fiberG": 11.804,
+      "assumptions": "Fresh broccoli florets and stems (raw weight); 1 lb = 454 g; edible portion after trimming, before blanching (nutrients stable post-blanch).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "High-heat neutral cooking oil (e.g. canola or vegetable oil); 2 Tbsp ≈ 28 g; fully absorbed into recipe estimate.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "Fresh garlic, minced; 2 cloves ≈ 6 g; standard raw garlic values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 2.7,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 91,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 10.287,
+      "proteinG": 0.008100000000000001,
+      "fatG": 0.0027,
+      "carbsG": 2.4570000000000003,
+      "fiberG": 0.024300000000000002,
+      "assumptions": "Cornstarch for slurry; 1 tsp ≈ 2.7 g; nearly pure carbohydrate.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Plain water for cornstarch slurry; 1 Tbsp ≈ 15 g; contributes no calories or macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53366",
+    "name": "Beef and Broccoli Stir-Fry",
+    "cuisine": "Chinese",
+    "instructions": "Marinate the beef:\r\nStir together the beef marinade ingredients (1 teaspoon soy sauce, 1 teaspoon Chinese rice wine, 1/2 teaspoon cornstarch, 1/8 teaspoon black pepper) in a medium bowl.\r\n\r\nAdd the beef slices and stir until coated. Let stand for 10 minutes.\r\n\r\nPrepare the sauce:\r\nStir together the sauce ingredients (2 tablespoons oyster sauce, 1 teaspoon Chinese rice wine, 1 teaspoon soy sauce, 1/4 cup chicken broth) in a small bowl. Set aside.\r\n\r\nBlanch or steam the broccoli:\r\nBring a pot of water to a boil. Add the broccoli and cook until crisp-tender, about 2 minutes. Drain thoroughly.\r\n\r\nStir-fry the beef:\r\nHeat a large frying pan or wok over high heat until a bead of water sizzles and instantly evaporates upon contact. Add the cooking oil and swirl to coat.\r\n\r\nAdd the beef and immediately spread it out all over the surface of the wok or pan in a single layer (preferably not touching).\r\n\r\nLet the beef fry undisturbed for 1 minute. Flip the beef slices over, add the garlic to the pan, and fry for an additional 30 seconds to 1 minute until no longer pink.\r\n\r\nAdd the sauce, cornstarch, and broccoli:\r\nPour in the sauce and the cornstarch slurry (1 teaspoon cornstarch dissolved in 1 tablespoon of water). Stir until the sauce boils and thickens, about 30 seconds. Stir in the broccoli.\r\n\r\nServe immediately, with steamed rice or on its own.",
+    "ingredients": [
+      { "position": 1, "name": "Soy Sauce", "measurement": "1 tsp" },
+      { "position": 2, "name": "Dry sherry", "measurement": "1 tsp" },
+      { "position": 3, "name": "Cornstarch", "measurement": "1/2 tsp" },
+      { "position": 4, "name": "Black Pepper", "measurement": "1/8 teaspoon" },
+      { "position": 5, "name": "Sirloin steak", "measurement": "1 lb" },
+      { "position": 6, "name": "Oyster Sauce", "measurement": "2 tablespoons" },
+      { "position": 7, "name": "Dry sherry", "measurement": "1 tsp" },
+      { "position": 8, "name": "Soy Sauce", "measurement": "1 tablespoon" },
+      { "position": 9, "name": "Chicken Stock", "measurement": "1/4 cup" },
+      { "position": 10, "name": "Broccoli", "measurement": "1 lb" },
+      {
+        "position": 11,
+        "name": "High Heat Cooking Oil",
+        "measurement": "2 tablespoons"
+      },
+      { "position": 12, "name": "Garlic", "measurement": "2 cloves minced" },
+      { "position": 13, "name": "Cornstarch", "measurement": "1 tsp" },
+      { "position": 14, "name": "Water", "measurement": "1 tablespoon" }
+    ]
+  }
+}

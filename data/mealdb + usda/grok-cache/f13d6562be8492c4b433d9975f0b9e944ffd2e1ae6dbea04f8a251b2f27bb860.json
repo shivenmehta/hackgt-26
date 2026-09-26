@@ -1,0 +1,69 @@
+{
+  "inputHash": "f13d6562be8492c4b433d9975f0b9e944ffd2e1ae6dbea04f8a251b2f27bb860",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:59.657Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 15,
+      "caloriesPer100g": 40,
+      "assumptions": "Standard medium green chili pepper is ~15g when chopped; matches known cal density for fresh chili."
+    },
+    {
+      "position": 4,
+      "grams": 25,
+      "caloriesPer100g": 23,
+      "assumptions": "Typical fresh coriander (cilantro) bunch used in recipes is 20-30g edible leaves and stalks; using 25g here as modest amount for stir-fry."
+    },
+    {
+      "position": 6,
+      "grams": 30,
+      "caloriesPer100g": 30,
+      "assumptions": "Average lime yields ~30g (2 tbsp) juice; using juice-only edible portion with given cal density for lime juice."
+    },
+    {
+      "position": 8,
+      "grams": 28,
+      "caloriesPer100g": 884,
+      "assumptions": "1 tbsp oil = 14g so 2 tbsp = 28g; matches known high cal density for groundnut/peanut oil."
+    },
+    {
+      "position": 9,
+      "grams": 9,
+      "caloriesPer100g": 80,
+      "assumptions": "3cm piece of ginger root weighs ~9g when peeled/sliced for stir-fry; matches known cal density for fresh ginger."
+    },
+    {
+      "position": 10,
+      "grams": 60,
+      "caloriesPer100g": 32,
+      "assumptions": "8 spring onions (scallions) sliced is ~60g total edible portion; matches known cal density for fresh spring onions."
+    },
+    {
+      "position": 11,
+      "grams": 120,
+      "caloriesPer100g": 31.3,
+      "assumptions": "1 medium red bell pepper sliced is ~120g edible flesh; matches known cal density for raw red pepper."
+    },
+    {
+      "position": 12,
+      "grams": 85,
+      "caloriesPer100g": 50,
+      "assumptions": "Measurement already supplies 85g; using typical cal density for canned water chestnuts (drained, ~50 kcal/100g)."
+    },
+    {
+      "position": 15,
+      "grams": null,
+      "caloriesPer100g": 364,
+      "assumptions": "'To serve' with no quantity; cannot reasonably estimate total dry noodle grams for the whole recipe without inventing a serving count."
+    },
+    {
+      "position": 16,
+      "grams": null,
+      "caloriesPer100g": 30,
+      "assumptions": "'To serve' with no quantity; cannot reasonably estimate total lime grams for the whole recipe without inventing a serving count."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "inputHash": "6b4703587ed0d8a81d7b2f9751c088873eebd8376eb1b9fc4c978aeda76e36a2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:31.120Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 88,
+      "fiberG": 52,
+      "assumptions": "4 medium eggplants (approx 300 g each raw, total 1200 g); grilled then peeled; edible flesh only after skin removal (approx 960 g total edible); using 2.4 g net carbs and 1.4 g fiber per 100 g raw eggplant scaled to total raw weight, then adjusted proportionally for edible portion"
+    },
+    {
+      "position": 2,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 large whole eggs (approx 100 g total); raw, fully used; standard values for whole eggs"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp table salt (approx 6 g); no carbohydrates"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 tsp olive oil (approx 18 g total); pure fat, no carbohydrates"
+    }
+  ]
+}

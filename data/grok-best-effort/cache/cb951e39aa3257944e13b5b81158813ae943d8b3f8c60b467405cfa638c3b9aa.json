@@ -1,0 +1,95 @@
+{
+  "inputHash": "cb951e39aa3257944e13b5b81158813ae943d8b3f8c60b467405cfa638c3b9aa",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:23:37.223Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 3.5,
+        "carbsG": 49,
+        "fiberG": 3
+      },
+      "caloriesKcal": 159,
+      "proteinG": 5.4,
+      "fatG": 2.1,
+      "carbsG": 29.4,
+      "fiberG": 1.8,
+      "assumptions": "Standard white bread slices; ~30 g per slice, typical for Indian bread omelette recipes using 2 slices as base.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143,
+      "proteinG": 13,
+      "fatG": 10,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 large whole eggs; ~50 g edible portion each, raw, as used in omelette.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "0.5 tsp table salt; negligible calories/macros, standard estimate for seasoning in Indian bread omelette.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53076",
+    "name": "Bread omelette",
+    "cuisine": "Indian",
+    "instructions": "Make and enjoy",
+    "ingredients": [
+      { "position": 1, "name": "Bread", "measurement": "2" },
+      { "position": 2, "name": "Egg", "measurement": "2" },
+      { "position": 3, "name": "Salt", "measurement": "0.5" }
+    ]
+  }
+}

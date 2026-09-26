@@ -1,0 +1,39 @@
+{
+  "inputHash": "01d642941f4b835d42cd6ca9c70e5c856263356a0ea9c629e8dc1ebc7474ac04",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:26.957Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 260,
+      "caloriesPer100g": 340,
+      "assumptions": "Standard volume-to-weight for dry navy beans: 1 cup ≈ 130 g, so 2 cups = 260 g. Calories reflect typical dry white navy beans."
+    },
+    {
+      "position": 3,
+      "grams": 110,
+      "caloriesPer100g": 38,
+      "assumptions": "1 medium onion is typically 110 g; knownCaloriesPer100g copied exactly (raw onion)."
+    },
+    {
+      "position": 7,
+      "grams": 2,
+      "caloriesPer100g": 61,
+      "assumptions": "Ground mustard 'to taste' or unspecified amount estimated very modestly at ~2 g (≈1/2 tsp); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "caloriesPer100g": 0,
+      "assumptions": "Salt to taste estimated modestly at ~5 g (≈1 tsp); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "caloriesPer100g": 251,
+      "assumptions": "Pepper to taste estimated modestly at ~2 g (≈1/2 tsp); knownCaloriesPer100g copied exactly."
+    }
+  ]
+}

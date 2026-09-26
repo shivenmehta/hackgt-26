@@ -1,0 +1,51 @@
+{
+  "inputHash": "ddc6b74fa7d92193965ea16db6fe1ab5279ad66ed558ad8aea813b2eff181d93",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:56.341Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 73,
+      "fiberG": 2.7,
+      "assumptions": "100g plain white flour (standard all-purpose)"
+    },
+    {
+      "position": 2,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "2 large whole eggs (approx 50g each, raw/edible portion)"
+    },
+    {
+      "position": 3,
+      "carbsG": 14.7,
+      "fiberG": 0,
+      "assumptions": "300ml semi-skimmed cow's milk"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp sunflower oil (15ml / 14g; full amount used in batter)"
+    },
+    {
+      "position": 5,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "sugar 'to serve' - quantity not stated; cannot reasonably estimate total contribution without assumed amount"
+    },
+    {
+      "position": 6,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "raspberries 'to serve' - quantity not stated; cannot reasonably estimate total contribution without assumed amount"
+    },
+    {
+      "position": 7,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "blueberries 'to serve' - quantity not stated; cannot reasonably estimate total contribution without assumed amount"
+    }
+  ]
+}

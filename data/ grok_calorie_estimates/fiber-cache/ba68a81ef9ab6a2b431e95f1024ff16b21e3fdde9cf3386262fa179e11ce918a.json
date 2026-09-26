@@ -1,0 +1,63 @@
+{
+  "inputHash": "ba68a81ef9ab6a2b431e95f1024ff16b21e3fdde9cf3386262fa179e11ce918a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:45.187Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 25,
+      "fiberG": 1.5,
+      "assumptions": "1 medium white bread roll (~50g); standard white roll values"
+    },
+    {
+      "position": 2,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "120ml whole milk"
+    },
+    {
+      "position": 3,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (~110g) chopped, raw weight"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "~12ml oil actually absorbed by the onion during frying (remainder not consumed)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "500g raw ground beef (80/20 lean-to-fat ratio)"
+    },
+    {
+      "position": 6,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 large whole egg (~50g)"
+    },
+    {
+      "position": 7,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 small garlic clove (~3g), raw"
+    },
+    {
+      "position": 8,
+      "carbsG": 0.2,
+      "fiberG": 0.1,
+      "assumptions": "pinch of dried marjoram (~0.2g)"
+    },
+    {
+      "position": 9,
+      "carbsG": 55,
+      "fiberG": 3.5,
+      "assumptions": "75g dry breadcrumbs"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "inputHash": "ad50fa0465274465427ce3c09a0a614d311896b551c3fd11422a4aa40051f742",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:36.643Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 20,
+      "fiberG": 0.4,
+      "assumptions": "2 tbsp sweet chilli sauce ≈ 40 g; typical commercial values (≈50g/100ml density)"
+    },
+    {
+      "position": 2,
+      "carbsG": 1.5,
+      "fiberG": 1,
+      "assumptions": "zest of 1 medium orange ≈ 6 g; typical orange peel values"
+    },
+    {
+      "position": 3,
+      "carbsG": 7,
+      "fiberG": 0.1,
+      "assumptions": "2 tbsp orange juice ≈ 30 ml / 31 g; typical orange juice values"
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 medium garlic clove crushed ≈ 3 g; typical garlic values"
+    },
+    {
+      "position": 5,
+      "carbsG": 2,
+      "fiberG": 0.5,
+      "assumptions": "1 tbsp Thai red curry paste ≈ 15 g; typical commercial paste values"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 raw chicken drumsticks with skin and bone ≈ 1100 g total; chicken has negligible carbs/fiber"
+    }
+  ]
+}

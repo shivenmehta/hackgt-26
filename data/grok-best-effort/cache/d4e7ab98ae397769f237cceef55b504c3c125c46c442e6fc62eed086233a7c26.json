@@ -1,0 +1,225 @@
+{
+  "inputHash": "d4e7ab98ae397769f237cceef55b504c3c125c46c442e6fc62eed086233a7c26",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:30:30.219Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 375,
+      "per100g": {
+        "caloriesKcal": 430,
+        "proteinG": 6,
+        "fatG": 25,
+        "carbsG": 48,
+        "fiberG": 2
+      },
+      "caloriesKcal": 1612.5,
+      "proteinG": 22.5,
+      "fatG": 93.75,
+      "carbsG": 180,
+      "fiberG": 7.5,
+      "assumptions": "Standard shortcrust pastry; values based on typical retail butter shortcrust.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143,
+      "proteinG": 13,
+      "fatG": 10,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "Two large eggs ≈100 g total edible portion (raw, without shells).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0.5,
+        "fatG": 0,
+        "carbsG": 95,
+        "fiberG": 0
+      },
+      "caloriesKcal": 665,
+      "proteinG": 0.875,
+      "fatG": 0,
+      "carbsG": 166.25,
+      "fiberG": 0,
+      "assumptions": "Muscovado sugar treated as typical dark brown sugar.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 299,
+        "proteinG": 3.1,
+        "fatG": 0.5,
+        "carbsG": 79,
+        "fiberG": 4
+      },
+      "caloriesKcal": 299,
+      "proteinG": 3.1,
+      "fatG": 0.5,
+      "carbsG": 79,
+      "fiberG": 4,
+      "assumptions": "Standard seedless raisins; 100 g as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 13,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.65,
+      "fiberG": 0,
+      "assumptions": "1 tsp vanilla extract ≈5 g; typical alcohol-based extract.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 358.5,
+      "proteinG": 0.45,
+      "fatG": 40.5,
+      "carbsG": 0.05,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; 50 g as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 195,
+        "proteinG": 3,
+        "fatG": 19,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 39,
+      "proteinG": 0.6,
+      "fatG": 3.8,
+      "carbsG": 0.8,
+      "fiberG": 0,
+      "assumptions": "4 tsp single cream (light cream) ≈20 g total; typical 18-20% fat cream.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 654,
+        "proteinG": 15,
+        "fatG": 65,
+        "carbsG": 14,
+        "fiberG": 7
+      },
+      "caloriesKcal": 327,
+      "proteinG": 7.5,
+      "fatG": 32.5,
+      "carbsG": 7,
+      "fiberG": 3.5,
+      "assumptions": "Chopped walnuts; 50 g as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52923",
+    "name": "Canadian Butter Tarts",
+    "cuisine": "Canadian",
+    "instructions": "Preheat the oven to fan 170C/ conventional 190C/gas 5. Roll out the pastry on a lightly floured surface so it’s slightly thinner than straight from the pack. Then cut out 18-20 rounds with a 7.5cm fluted cutter, re-rolling the trimmings. Use the rounds to line two deep 12-hole tart tins (not muffin tins). If you only have a regular-sized, 12-hole tart tin you will be able to make a few more slightly shallower tarts.\r\nBeat the eggs in a large bowl and combine with the rest of the ingredients except the walnuts. Tip this mixture into a pan and stir continuously for 3-4 minutes until the butter melts, and the mixture bubbles and starts to thicken. It should be thick enough to coat the back of a wooden spoon. Don’t overcook, and be sure to stir all the time as the mixture can easily burn. Remove from the heat and stir in the nuts.\r\nSpoon the filling into the unbaked tart shells so it’s level with the pastry. Bake for 15-18 minutes until set and pale golden. Leave in the tin to cool for a few minutes before lifting out on to a wire rack. Serve warm or cold.",
+    "ingredients": [
+      { "position": 1, "name": "Shortcrust Pastry", "measurement": "375g" },
+      { "position": 2, "name": "Eggs", "measurement": "2 large" },
+      { "position": 3, "name": "Muscovado Sugar", "measurement": "175g" },
+      { "position": 4, "name": "Raisins", "measurement": "100g" },
+      { "position": 5, "name": "Vanilla Extract", "measurement": "1 tsp" },
+      { "position": 6, "name": "Butter", "measurement": "50g" },
+      { "position": 7, "name": "Single Cream", "measurement": "4 tsp" },
+      { "position": 8, "name": "Walnuts", "measurement": "50g" }
+    ]
+  }
+}

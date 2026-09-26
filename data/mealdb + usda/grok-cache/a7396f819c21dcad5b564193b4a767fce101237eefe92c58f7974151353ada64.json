@@ -1,0 +1,33 @@
+{
+  "inputHash": "a7396f819c21dcad5b564193b4a767fce101237eefe92c58f7974151353ada64",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:56.856Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 4,
+      "grams": 1,
+      "caloriesPer100g": 335,
+      "assumptions": "1/2 tsp ground ginger weighs ~1g (standard density for ground spices; modest amount as seasoning)."
+    },
+    {
+      "position": 7,
+      "grams": 440,
+      "caloriesPer100g": 106,
+      "assumptions": "2 typical boneless, skinless chicken breasts total ~440g raw/edible portion (average 220g per breast; matches raw state implied by baking then shredding, with given cal density for raw)."
+    },
+    {
+      "position": 8,
+      "grams": 340,
+      "caloriesPer100g": null,
+      "assumptions": "1 (12 oz.) bag/package of frozen stir-fry vegetables; 12 oz = 340g total edible mass (standard package weight, cooked per instructions but cal density unknown so left null)."
+    },
+    {
+      "position": 9,
+      "grams": 600,
+      "caloriesPer100g": 366,
+      "assumptions": "3 cups cooked brown rice (recipe context implies prepared/cooked rice added to casserole; ~200g per cup standard yield for cooked rice, totaling 600g edible; matches given cal density)."
+    }
+  ]
+}

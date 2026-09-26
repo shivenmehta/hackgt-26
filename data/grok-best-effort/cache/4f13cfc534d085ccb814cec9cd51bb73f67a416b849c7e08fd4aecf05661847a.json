@@ -1,0 +1,411 @@
+{
+  "inputHash": "4f13cfc534d085ccb814cec9cd51bb73f67a416b849c7e08fd4aecf05661847a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:50.834Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 40.5,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 358.02,
+      "proteinG": 0,
+      "fatG": 40.5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbsp olive oil (standard 13.5g per tbsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 24,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.4,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 35.76,
+      "proteinG": 1.5360000000000003,
+      "fatG": 0.09600000000000002,
+      "carbsG": 7.944000000000001,
+      "fiberG": 0.504,
+      "assumptions": "8 cloves garlic (approx 3g per clove)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 37.5,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 145.125,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 37.5,
+      "fiberG": 0,
+      "assumptions": "3 tbsp caster sugar (standard 12.5g per tbsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 19,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 5.7,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.27,
+      "fiberG": 0,
+      "assumptions": "2 tbsp red wine vinegar (standard 15g per tbsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 1200,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.6,
+        "fatG": 0.2,
+        "carbsG": 5.6,
+        "fiberG": 1.4
+      },
+      "caloriesKcal": 384,
+      "proteinG": 19.2,
+      "fatG": 2.4,
+      "carbsG": 67.2,
+      "fiberG": 16.8,
+      "assumptions": "3 x 400g cans chopped tomatoes (total net weight)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 3,
+        "fatG": 0.6,
+        "carbsG": 2.7,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 6.9,
+      "proteinG": 0.9,
+      "fatG": 0.18,
+      "carbsG": 0.81,
+      "fiberG": 0.48,
+      "assumptions": "1 bunch fresh basil leaves (typical 30g bunch)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 429,
+        "proteinG": 6,
+        "fatG": 44,
+        "carbsG": 3.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2145,
+      "proteinG": 30,
+      "fatG": 220,
+      "carbsG": 17.5,
+      "fiberG": 0,
+      "assumptions": "2 standard 250g tubs mascarpone (total 500g)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 18.9,
+      "proteinG": 1.53,
+      "fatG": 0.45,
+      "carbsG": 2.25,
+      "fiberG": 0,
+      "assumptions": "3 tbsp milk (standard 15g per tbsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 392,
+        "proteinG": 35,
+        "fatG": 26,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 333.2,
+      "proteinG": 29.75,
+      "fatG": 22.1,
+      "carbsG": 3.4,
+      "fiberG": 0,
+      "assumptions": "85g Parmesan (as listed)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 22,
+        "fatG": 22,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 750,
+      "proteinG": 55,
+      "fatG": 55,
+      "carbsG": 5,
+      "fiberG": 0,
+      "assumptions": "2 standard 125g balls mozzarella, sliced (total 250g)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.9,
+        "fatG": 0.4,
+        "carbsG": 3.6,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 230,
+      "proteinG": 29,
+      "fatG": 4,
+      "carbsG": 36,
+      "fiberG": 22,
+      "assumptions": "1kg fresh spinach (raw weight; wilting reduces volume but edible weight approx same after squeezing)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 392,
+        "proteinG": 35,
+        "fatG": 26,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 392,
+      "proteinG": 35,
+      "fatG": 26,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "100g Parmesan (as listed)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 750,
+      "per100g": {
+        "caloriesKcal": 174,
+        "proteinG": 11,
+        "fatG": 13,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1305,
+      "proteinG": 82.5,
+      "fatG": 97.5,
+      "carbsG": 22.5,
+      "fiberG": 0,
+      "assumptions": "3 standard 250g tubs ricotta (total 750g)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 525,
+        "proteinG": 6,
+        "fatG": 36,
+        "carbsG": 49,
+        "fiberG": 0
+      },
+      "caloriesKcal": 10.5,
+      "proteinG": 0.12,
+      "fatG": 0.72,
+      "carbsG": 0.98,
+      "fiberG": 0,
+      "assumptions": "pinch nutmeg estimated as 2g ground (plausible small amount for seasoning)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 113,
+        "proteinG": 7.8,
+        "fatG": 0.5,
+        "carbsG": 19.5,
+        "fiberG": 6.4
+      },
+      "caloriesKcal": 452,
+      "proteinG": 31.2,
+      "fatG": 2,
+      "carbsG": 78,
+      "fiberG": 25.6,
+      "assumptions": "400g cannellini beans (drained weight; plausible total for recipe despite unusual placement)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52849",
+    "name": "Spinach & Ricotta Cannelloni",
+    "cuisine": "Italian",
+    "instructions": "First make the tomato sauce. Heat the oil in a large pan and fry the garlic for 1 min. Add the sugar, vinegar, tomatoes and some seasoning and simmer for 20 mins, stirring occasionally, until thick. Add the basil and divide the sauce between 2 or more shallow ovenproof dishes (see Tips for freezing, below). Set aside. Make a sauce by beating the mascarpone with the milk until smooth, season, then set aside.\r\n\r\nPut the spinach in a large colander and pour over a kettle of boiling water to wilt it (you may need to do this in batches). When cool enough to handle squeeze out the excess water. Roughly chop the spinach and mix in a large bowl with 100g Parmesan and ricotta. Season well with salt, pepper and the nutmeg.\r\n\r\nHeat oven to 200C/180C fan/gas 6. Using a piping bag or plastic food bag with the corner snipped off, squeeze the filling into the cannelloni tubes. Lay the tubes, side by side, on top of the tomato sauce and spoon over the mascarpone sauce. Top with Parmesan and mozzarella. You can now freeze the cannelloni, uncooked, or you can cook it first and then freeze. Bake for 30-35 mins until golden and bubbling. Remove from oven and let stand for 5 mins before serving.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "3 tbsp" },
+      { "position": 2, "name": "Garlic", "measurement": "8 cloves chopped" },
+      { "position": 3, "name": "Caster Sugar", "measurement": "3 tbsp" },
+      { "position": 4, "name": "Red Wine Vinegar", "measurement": "2 tblsp" },
+      {
+        "position": 5,
+        "name": "Chopped Tomatoes",
+        "measurement": "3 400g Cans"
+      },
+      { "position": 6, "name": "Basil Leaves", "measurement": "Bunch" },
+      { "position": 7, "name": "Mascarpone", "measurement": "2 tubs" },
+      { "position": 8, "name": "Milk", "measurement": "3 tbsp" },
+      { "position": 9, "name": "Parmesan", "measurement": "85g" },
+      { "position": 10, "name": "Mozzarella", "measurement": "2 sliced" },
+      { "position": 11, "name": "Spinach", "measurement": "1kg" },
+      { "position": 12, "name": "Parmesan", "measurement": "100g" },
+      { "position": 13, "name": "Ricotta", "measurement": "3 tubs" },
+      { "position": 14, "name": "Nutmeg", "measurement": "pinch" },
+      { "position": 15, "name": "Cannellini Beans", "measurement": "400g" }
+    ]
+  }
+}

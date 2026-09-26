@@ -1,0 +1,415 @@
+{
+  "inputHash": "4441e057c0707fb707ad7616afc96e4cab97048343654006adf721bca5756af3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:35:04.904Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 8,
+        "fatG": 1.5,
+        "carbsG": 78,
+        "fiberG": 2
+      },
+      "caloriesKcal": 700,
+      "proteinG": 16,
+      "fatG": 3,
+      "carbsG": 156,
+      "fiberG": 4,
+      "assumptions": "Standard dried rice vermicelli/noodles; values for uncooked weight as listed in recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 99,
+        "proteinG": 21,
+        "fatG": 1,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 198,
+      "proteinG": 42,
+      "fatG": 2,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "Cooked peeled prawns (typical for Vietnamese salad); edible portion only.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium red onion (approx 110 g) sliced; typical household size.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 9.1,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.38,
+      "fatG": 0.08,
+      "carbsG": 1.82,
+      "fiberG": 0.3,
+      "assumptions": "1 medium red chilli (approx 20 g) sliced; typical size.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 0.7,
+        "fatG": 0.1,
+        "carbsG": 3.6,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 45,
+      "proteinG": 2.1,
+      "fatG": 0.3,
+      "carbsG": 10.8,
+      "fiberG": 1.5,
+      "assumptions": "1 medium cucumber (approx 300 g) sliced; typical size including peel.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 5.75,
+      "proteinG": 0.55,
+      "fatG": 0.125,
+      "carbsG": 0.925,
+      "fiberG": 0.7,
+      "assumptions": "Handful of fresh coriander leaves and stems; approx 25 g typical handful.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 43,
+        "proteinG": 3.3,
+        "fatG": 0.7,
+        "carbsG": 8.5,
+        "fiberG": 6.4
+      },
+      "caloriesKcal": 10.75,
+      "proteinG": 0.825,
+      "fatG": 0.175,
+      "carbsG": 2.125,
+      "fiberG": 1.6,
+      "assumptions": "Handful of fresh mint leaves; approx 25 g typical handful.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 18,
+      "per100g": {
+        "caloriesKcal": 567,
+        "proteinG": 26,
+        "fatG": 49,
+        "carbsG": 16,
+        "fiberG": 8.5
+      },
+      "caloriesKcal": 102.06,
+      "proteinG": 4.68,
+      "fatG": 8.82,
+      "carbsG": 2.88,
+      "fiberG": 1.53,
+      "assumptions": "2 tablespoons roasted unsalted peanuts; standard 9 g per tbsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 36,
+      "proteinG": 0.84,
+      "fatG": 0.24,
+      "carbsG": 12.6,
+      "fiberG": 3.36,
+      "assumptions": "Juice of 3 limes; approx 40 ml per lime (total 120 g juice).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 45.6,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 11.76,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon brown sugar; standard 12 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 35,
+        "proteinG": 5,
+        "fatG": 0,
+        "carbsG": 3.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 3.5,
+      "proteinG": 0.5,
+      "fatG": 0,
+      "carbsG": 0.35,
+      "fiberG": 0,
+      "assumptions": "2 tsp fish sauce; standard 5 g per tsp (total 10 g).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.99,
+      "fiberG": 0.063,
+      "assumptions": "1 clove garlic crushed; approx 3 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 72,
+        "proteinG": 2.5,
+        "fatG": 0.1,
+        "carbsG": 16.8,
+        "fiberG": 3.2
+      },
+      "caloriesKcal": 54,
+      "proteinG": 1.875,
+      "fatG": 0.075,
+      "carbsG": 12.6,
+      "fiberG": 2.4,
+      "assumptions": "5 shallots sliced (approx 15 g each, total 75 g); typical small shallots.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 132.6,
+      "proteinG": 0,
+      "fatG": 15,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Oil absorbed during shallow frying of shallots; plausible 15 g retained after draining on paper.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 18.2,
+      "proteinG": 0.5,
+      "fatG": 0.05,
+      "carbsG": 3.8,
+      "fiberG": 0.135,
+      "assumptions": "Light sprinkling of plain flour to dust shallots before frying; approx 5 g used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53244",
+    "name": "Prawn & noodle salad with crispy shallots",
+    "cuisine": "Vietnamese",
+    "instructions": "step 1\r\nFor the crispy shallots, heat 5cm of oil until hot in a wok. You will know the oil is hot enough when one piece of shallot sizzles as soon as it’s dropped in. Toss the shallot slices with flour, shake off excess and fry in the oil until golden. They fry quickly, about 1 min. Drain on kitchen paper, sprinkle with salt and set aside.\r\n\r\nstep 2\r\nTo make the dressing, mix the lime juice, sugar, fish sauce and garlic and set aside. In a large mixing bowl, pour boiling water over the noodles. Leave them for 2 mins or until they are just cooked, then rinse under cold water. Drain well, shaking the sieve numerous times to get out the excess water, then place back in the bowl. Add prawns, onion, chilli, cucumber and herbs. Pour the dressing over, mix, then sprinkle with the shallots and peanuts.",
+    "ingredients": [
+      { "position": 1, "name": "Rice Noodles", "measurement": "200g" },
+      { "position": 2, "name": "Prawns", "measurement": "200g" },
+      { "position": 3, "name": "Red Onions", "measurement": "1 sliced" },
+      { "position": 4, "name": "Red Chilli", "measurement": "1 sliced" },
+      { "position": 5, "name": "Cucumber", "measurement": "1 sliced" },
+      { "position": 6, "name": "Coriander", "measurement": "Handful" },
+      { "position": 7, "name": "Mint", "measurement": "Handful" },
+      {
+        "position": 8,
+        "name": "Roasted Peanut",
+        "measurement": "2 tablespoons"
+      },
+      { "position": 9, "name": "Lime", "measurement": "Juice of 3" },
+      { "position": 10, "name": "Brown Sugar", "measurement": "1 tablespoon" },
+      { "position": 11, "name": "Fish Sauce", "measurement": "2 tsp" },
+      {
+        "position": 12,
+        "name": "Garlic",
+        "measurement": "1 clove peeled crushed"
+      },
+      { "position": 13, "name": "Shallots", "measurement": "5 Slices" },
+      { "position": 14, "name": "Vegetable Oil", "measurement": "For frying" },
+      { "position": 15, "name": "Flour", "measurement": "Sprinkling" }
+    ]
+  }
+}

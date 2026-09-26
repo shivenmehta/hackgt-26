@@ -1,0 +1,21 @@
+{
+  "inputHash": "5e76856608eb49abc648eaca766dc2e00f02e5b3bba90036d60d9a5e6b18ea9f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:11.600Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 30,
+      "caloriesPer100g": 534,
+      "assumptions": "Standard Chinese sesame paste/sauce (e.g. tahini-like) is ~30 g per 2 tbsp; calories based on typical sesame paste density around 534 kcal/100 g."
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "caloriesPer100g": 32,
+      "assumptions": "1 sliced scallion (green onion) is typically ~15 g edible portion; knownCaloriesPer100g copied exactly as supplied."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "inputHash": "f06e2a6c5d475e39fc4092efb127b5cb3e49f5d38c47ac8141d7b2f7e81deec7",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:37.738Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 336,
+      "fiberG": 16,
+      "assumptions": "1 lb (454 g) dry penne rigate; standard dry pasta nutrition (74 g carbs, 3.5 g fiber per 100 g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/4 cup olive oil (~55 g); pure fat with no carbohydrates"
+    },
+    {
+      "position": 3,
+      "carbsG": 3,
+      "fiberG": 0.2,
+      "assumptions": "3 cloves garlic (~9 g total); typical values for raw garlic"
+    },
+    {
+      "position": 4,
+      "carbsG": 24,
+      "fiberG": 6,
+      "assumptions": "1 tin (400 g / 14 oz) chopped tomatoes; using drained edible portion ~240 g at ~10 g carbs and 2.5 g fiber per 100 g"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.5,
+      "fiberG": 0.3,
+      "assumptions": "1/2 tsp red chilli flakes (~1 g); typical values for dried chili flakes"
+    },
+    {
+      "position": 6,
+      "carbsG": 0.5,
+      "fiberG": 0.3,
+      "assumptions": "1/2 tsp Italian seasoning (~1 g); typical values for dried herb blend"
+    },
+    {
+      "position": 7,
+      "carbsG": 0.3,
+      "fiberG": 0.2,
+      "assumptions": "6 fresh basil leaves (~6 g total); typical values for fresh basil"
+    },
+    {
+      "position": 8,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "sprinkling of Parmigiano-Reggiano (~20 g); typical values for hard cheese"
+    }
+  ]
+}

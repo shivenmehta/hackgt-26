@@ -1,0 +1,33 @@
+{
+  "inputHash": "44c3dff9cb02678512cd3e3accbd86c0ec31dd90cd499f53954caa6e5d33f436",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:25.599Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 30,
+      "caloriesPer100g": null,
+      "assumptions": "Standard dark soy sauce density ~1.25 g/ml; 1 tbsp = 15 ml so 2 tbsp = 30 g edible mass."
+    },
+    {
+      "position": 8,
+      "grams": 28,
+      "caloriesPer100g": 884,
+      "assumptions": "Standard oil conversion: 1 tbsp peanut oil ≈ 14 g, therefore 2 tbsp = 28 g edible mass. Known caloriesPer100g copied exactly."
+    },
+    {
+      "position": 10,
+      "grams": 140,
+      "caloriesPer100g": 119,
+      "assumptions": "1 cup chopped or diced cooked chicken ≈ 140 g edible meat (no bones/skin). Known caloriesPer100g copied exactly; matches typical cooked chicken breast/thigh values used in recipes."
+    },
+    {
+      "position": 12,
+      "grams": 240,
+      "caloriesPer100g": 26,
+      "assumptions": "Chinese broccoli (gai lan) is a leafy vegetable; 1 cup chopped ≈ 60 g, therefore 4 cups = 240 g raw edible mass (stems and leaves). Known caloriesPer100g copied exactly."
+    }
+  ]
+}

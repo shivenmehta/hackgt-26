@@ -1,0 +1,63 @@
+{
+  "inputHash": "e683a5b562200b3378824c9377d42427e678e6e016c006afe3a688af3851762e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:19.973Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 average boneless pork loin chops (~600g total raw); plain meat has no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 73,
+      "fiberG": 3,
+      "assumptions": "100g plain white flour, all used in dredging"
+    },
+    {
+      "position": 3,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 large eggs (~100g total beaten weight), all used in coating"
+    },
+    {
+      "position": 4,
+      "carbsG": 73,
+      "fiberG": 4,
+      "assumptions": "100g panko breadcrumbs, all used in coating"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "~60ml vegetable oil absorbed during frying; pure oil has no carbohydrates"
+    },
+    {
+      "position": 6,
+      "carbsG": 9,
+      "fiberG": 0,
+      "assumptions": "2 tbsp tomato ketchup (~30g total)"
+    },
+    {
+      "position": 7,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "2 tbsp Worcestershire sauce (~30g total)"
+    },
+    {
+      "position": 8,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 tbsp oyster sauce (~15g)"
+    },
+    {
+      "position": 9,
+      "carbsG": 25,
+      "fiberG": 0,
+      "assumptions": "2 tbsp caster sugar (~25g)"
+    }
+  ]
+}

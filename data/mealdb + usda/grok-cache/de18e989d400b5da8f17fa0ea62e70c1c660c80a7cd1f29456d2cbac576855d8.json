@@ -1,0 +1,39 @@
+{
+  "inputHash": "de18e989d400b5da8f17fa0ea62e70c1c660c80a7cd1f29456d2cbac576855d8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:04.223Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 6,
+      "grams": 6,
+      "caloriesPer100g": 375,
+      "assumptions": "Standard volume to weight for ground cumin: 1 tbs ≈ 6g (common density for dry spices)."
+    },
+    {
+      "position": 8,
+      "grams": 6,
+      "caloriesPer100g": 272,
+      "assumptions": "Standard volume to weight for harissa spice blend: 3 tsp ≈ 6g (≈2g per tsp, typical for ground spice mixes); calories estimated from typical harissa powder averages (chili-based, lower than pure cumin)."
+    },
+    {
+      "position": 10,
+      "grams": 24,
+      "caloriesPer100g": 22,
+      "assumptions": "1/2 lemon yields ≈24g juice (standard average from a medium lemon); known calories copied exactly."
+    },
+    {
+      "position": 12,
+      "grams": 1,
+      "caloriesPer100g": 0,
+      "assumptions": "Pinch of salt estimated at ≈1g (modest seasoning amount); known calories copied exactly."
+    },
+    {
+      "position": 13,
+      "grams": 1,
+      "caloriesPer100g": 251,
+      "assumptions": "Pinch of pepper estimated at ≈1g (modest seasoning amount); known calories copied exactly."
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "inputHash": "81aff3430fb61d4208d4afa32543b5a0f1f2af07d45fb2153ad7be7743a644cc",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:57.024Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard olive oil density ~0.91 g/ml; 2 tbsp = 30 ml ≈ 27 g edible oil.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "Medium onion ≈ 110 g peeled and chopped; typical white/yellow cooking onion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 455,
+        "proteinG": 24,
+        "fatG": 38,
+        "carbsG": 3.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 682.5,
+      "proteinG": 36,
+      "fatG": 57,
+      "carbsG": 5.25,
+      "fiberG": 0,
+      "assumptions": "Cured Spanish chorizo sausage; values based on typical cured pork chorizo nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 37.2,
+      "proteinG": 1.2,
+      "fatG": 0.36,
+      "carbsG": 7.2,
+      "fiberG": 2.52,
+      "assumptions": "Medium-large red bell pepper ≈ 120 g trimmed and sliced; raw edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 37.2,
+      "proteinG": 1.2,
+      "fatG": 0.36,
+      "carbsG": 7.2,
+      "fiberG": 2.52,
+      "assumptions": "Medium-large yellow bell pepper ≈ 120 g trimmed and sliced; raw edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14,
+        "fatG": 13,
+        "carbsG": 54,
+        "fiberG": 35
+      },
+      "caloriesKcal": 8.46,
+      "proteinG": 0.42,
+      "fatG": 0.39,
+      "carbsG": 1.62,
+      "fiberG": 1.05,
+      "assumptions": "1 tsp smoked paprika ≈ 3 g; typical ground paprika values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 17.88,
+      "proteinG": 0.7680000000000001,
+      "fatG": 0.06,
+      "carbsG": 3.96,
+      "fiberG": 0.252,
+      "assumptions": "4 average garlic cloves ≈ 12 g peeled; typical raw garlic nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.3,
+        "fatG": 0.3,
+        "carbsG": 7,
+        "fiberG": 2
+      },
+      "caloriesKcal": 128,
+      "proteinG": 5.2,
+      "fatG": 1.2,
+      "carbsG": 28,
+      "fiberG": 8,
+      "assumptions": "400 g can chopped tomatoes with juice; drained weight not assumed as recipe uses whole contents.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 145,
+        "proteinG": 1,
+        "fatG": 15,
+        "carbsG": 4,
+        "fiberG": 3.5
+      },
+      "caloriesKcal": 217.5,
+      "proteinG": 1.5,
+      "fatG": 22.5,
+      "carbsG": 6,
+      "fiberG": 5.25,
+      "assumptions": "Pitted or whole green olives; typical Spanish-style brined olives (edible portion after brine drain).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 260,
+      "per100g": {
+        "caloriesKcal": 113,
+        "proteinG": 7.6,
+        "fatG": 0.6,
+        "carbsG": 17,
+        "fiberG": 6.5
+      },
+      "caloriesKcal": 293.8,
+      "proteinG": 19.76,
+      "fatG": 1.56,
+      "carbsG": 44.2,
+      "fiberG": 16.9,
+      "assumptions": "400 g can butter beans; standard drained weight ≈ 260 g after discarding canning liquid.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 177,
+        "proteinG": 24,
+        "fatG": 8.2,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1770,
+      "proteinG": 240,
+      "fatG": 82,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 skin-on bone-in chicken thighs; average 125 g each raw including bone/skin (edible cooked yield estimated via typical poultry values).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.8,
+        "carbsG": 6,
+        "fiberG": 3.7
+      },
+      "caloriesKcal": 7.2,
+      "proteinG": 0.6,
+      "fatG": 0.16,
+      "carbsG": 1.2,
+      "fiberG": 0.74,
+      "assumptions": "1 handful fresh parsley ≈ 20 g; typical flat-leaf parsley bunch portion used as garnish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53143",
+    "name": "Easy Spanish chicken",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nHeat the oven to 200C/180C fan/gas 6. Heat the olive oil in a large ovenproof frying pan over a medium heat and fry the onion, chorizo and peppers along with a pinch of salt and pepper for 15 mins until the veg has softened and the chorizo has released its oils. Add the paprika and garlic, and cook for another few minutes until fragrant.\r\n\r\nstep 2\r\nTip in the chopped tomatoes, olives and butter beans, stir to combine and season. Nestle in the chicken thighs and season well. Transfer to the oven and bake for 40 mins until the chicken skin is crisp and the meat cooked through and tender. Scatter with the parsley and serve.\r\n\r\nWatch after ad (0.04):\r\n3 Budget Egg Ideas",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Extra Virgin Olive Oil",
+        "measurement": "2 tbsp"
+      },
+      { "position": 2, "name": "Onion", "measurement": "1" },
+      { "position": 3, "name": "Chorizo", "measurement": "150g" },
+      { "position": 4, "name": "Red Pepper", "measurement": "1" },
+      { "position": 5, "name": "Yellow Pepper", "measurement": "1" },
+      {
+        "position": 6,
+        "name": "sweet smoked paprika",
+        "measurement": "1 teaspoon"
+      },
+      { "position": 7, "name": "Garlic", "measurement": "4 cloves" },
+      { "position": 8, "name": "Tinned Tomatos", "measurement": "400g" },
+      { "position": 9, "name": "Green Olives", "measurement": "150g" },
+      { "position": 10, "name": "Butter Beans", "measurement": "400g" },
+      { "position": 11, "name": "Chicken Thighs", "measurement": "8" },
+      { "position": 12, "name": "Parsley", "measurement": "1 Handfull" }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "inputHash": "f0885946880f1efad0115bb1a0a3f0f7562cffe199fe5b7d7d21b67315293192",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:00.072Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 6,
+      "caloriesPer100g": 47,
+      "assumptions": "Zest of 1 medium orange estimated at 6g edible portion (standard for orange zest)."
+    },
+    {
+      "position": 2,
+      "grams": 60,
+      "caloriesPer100g": 47.2,
+      "assumptions": "1/4 cup orange juice = 60g (standard density for juice)."
+    },
+    {
+      "position": 5,
+      "grams": 80,
+      "caloriesPer100g": null,
+      "assumptions": "1/3 cup rice vinegar ≈ 80g by volume; caloriesPer100g left null as no known value supplied and not estimating it."
+    },
+    {
+      "position": 12,
+      "grams": 0.5,
+      "caloriesPer100g": 251,
+      "assumptions": "1/4 tsp black pepper ≈ 0.5g (standard density for ground pepper); modest amount for seasoning."
+    },
+    {
+      "position": 17,
+      "grams": 15,
+      "caloriesPer100g": 72,
+      "assumptions": "1 chopped shallot estimated at 15g edible portion (typical small shallot weight)."
+    },
+    {
+      "position": 18,
+      "grams": 10,
+      "caloriesPer100g": 32,
+      "assumptions": "Sliced scallions as garnish estimated at 10g modest edible portion per serving."
+    },
+    {
+      "position": 19,
+      "grams": 5,
+      "caloriesPer100g": 573,
+      "assumptions": "Sesame seeds as garnish estimated at 5g modest amount."
+    },
+    {
+      "position": 20,
+      "grams": null,
+      "caloriesPer100g": 365,
+      "assumptions": "Rice 'to serve' has no specified quantity in recipe, so grams left null (do not estimate or invent serving amounts)."
+    }
+  ]
+}

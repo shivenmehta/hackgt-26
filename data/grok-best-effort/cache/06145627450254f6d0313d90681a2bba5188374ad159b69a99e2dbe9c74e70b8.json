@@ -1,0 +1,173 @@
+{
+  "inputHash": "06145627450254f6d0313d90681a2bba5188374ad159b69a99e2dbe9c74e70b8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:13.118Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 100.38,
+      "proteinG": 0.126,
+      "fatG": 11.34,
+      "carbsG": 0.014000000000000002,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; 1 tbs = 14 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 417,
+        "proteinG": 13,
+        "fatG": 40,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 500.4,
+      "proteinG": 15.6,
+      "fatG": 48,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "Streaky bacon rashers; 4 typical UK rashers ≈ 120 g total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "Medium onion finely sliced; 1 medium onion ≈ 110 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "1 average garlic clove chopped ≈ 3 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 43,
+        "proteinG": 3.4,
+        "fatG": 0.3,
+        "carbsG": 9,
+        "fiberG": 3.8
+      },
+      "caloriesKcal": 86,
+      "proteinG": 6.8,
+      "fatG": 0.6,
+      "carbsG": 18,
+      "fiberG": 7.6,
+      "assumptions": "20 medium Brussels sprouts; whole raw weight ≈ 200 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 308,
+      "proteinG": 8,
+      "fatG": 0.4,
+      "carbsG": 68,
+      "fiberG": 8.8,
+      "assumptions": "400 g raw potatoes (as given); peeled/boiled then used in recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52885",
+    "name": "Bubble & Squeak",
+    "cuisine": "British",
+    "instructions": "Melt the fat in a non-stick pan, allow it to get nice and hot, then add the bacon. As it begins to brown, add the onion and garlic. Next, add the sliced sprouts or cabbage and let it colour slightly. All this will take 5-6 mins.\r\nNext, add the potato. Work everything together in the pan and push it down so that the mixture covers the base of the pan – allow the mixture to catch slightly on the base of the pan before turning it over and doing the same again. It’s the bits of potato that catch in the pan that define the term ‘bubble and squeak’, so be brave and let the mixture colour. Cut into wedges and serve.",
+    "ingredients": [
+      { "position": 1, "name": "Butter", "measurement": "1 tbs" },
+      { "position": 2, "name": "Bacon", "measurement": "4" },
+      { "position": 3, "name": "Onion", "measurement": "1 finely sliced" },
+      { "position": 4, "name": "Garlic Clove", "measurement": "1 chopped" },
+      { "position": 5, "name": "Brussels Sprouts", "measurement": "20" },
+      { "position": 6, "name": "Potatoes", "measurement": "400g" }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "inputHash": "be58a09f1b15267426dd69b90f386f0d53cdb8a40ea7b44e2ce2e5aec9327c16",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:33:15.480Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard olive oil; 1 tbsp = 13.5g so 2 tbsp = 27g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "Medium onion is ~110g edible portion after peeling and dicing.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 378,
+        "proteinG": 20.5,
+        "fatG": 6,
+        "carbsG": 63,
+        "fiberG": 12.2
+      },
+      "caloriesKcal": 945,
+      "proteinG": 51.25,
+      "fatG": 15,
+      "carbsG": 157.5,
+      "fiberG": 30.5,
+      "assumptions": "Dry chickpeas (soaked then cooked in soup); nutrition for dry weight as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 1500,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.5,
+        "fatG": 0.1,
+        "carbsG": 0.7,
+        "fiberG": 0.1
+      },
+      "caloriesKcal": 105,
+      "proteinG": 7.5,
+      "fatG": 1.5,
+      "carbsG": 10.5,
+      "fiberG": 1.5,
+      "assumptions": "Standard vegetable stock/broth; low-calorie commercial or homemade average.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 22,
+        "carbsG": 44,
+        "fiberG": 11
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.36,
+      "fatG": 0.44,
+      "carbsG": 0.88,
+      "fiberG": 0.22,
+      "assumptions": "Ground cumin seeds; 1 tsp ≈ 2g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 22.35,
+      "proteinG": 0.96,
+      "fatG": 0.075,
+      "carbsG": 4.965,
+      "fiberG": 0.315,
+      "assumptions": "5 average garlic cloves ≈ 15g peeled.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1/2 tsp ≈ 3g, contributes negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 10,
+        "fatG": 10,
+        "carbsG": 40,
+        "fiberG": 15
+      },
+      "caloriesKcal": 5,
+      "proteinG": 0.2,
+      "fatG": 0.2,
+      "carbsG": 0.8,
+      "fiberG": 0.3,
+      "assumptions": "Harissa spice blend (chili-based); 1 tsp ≈ 2g, typical dry mix values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 0.5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of black pepper ≈ 0.5g, contributes negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 13.5,
+      "proteinG": 0.31499999999999995,
+      "fatG": 0.09,
+      "carbsG": 4.725,
+      "fiberG": 1.2599999999999998,
+      "assumptions": "Half a lime (juice only, ~45g juice from 90g fruit); typical citrus values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52973",
+    "name": "Leblebi Soup",
+    "cuisine": "Tunisian",
+    "instructions": "Heat the oil in a large pot. Add the onion and cook until translucent.\r\nDrain the soaked chickpeas and add them to the pot together with the vegetable stock. Bring to the boil, then reduce the heat and cover. Simmer for 30 minutes.\r\nIn the meantime toast the cumin in a small ungreased frying pan, then grind them in a mortar. Add the garlic and salt and pound to a fine paste.\r\nAdd the paste and the harissa to the soup and simmer until the chickpeas are tender, about 30 minutes.\r\nSeason to taste with salt, pepper and lemon juice and serve hot.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "2 tbs" },
+      {
+        "position": 2,
+        "name": "Onion",
+        "measurement": "1 medium finely diced"
+      },
+      { "position": 3, "name": "Chickpeas", "measurement": "250g" },
+      { "position": 4, "name": "Vegetable Stock", "measurement": "1.5L" },
+      { "position": 5, "name": "Cumin", "measurement": "1 tsp" },
+      { "position": 6, "name": "Garlic", "measurement": "5 cloves" },
+      { "position": 7, "name": "Salt", "measurement": "1/2 tsp" },
+      { "position": 8, "name": "Harissa Spice", "measurement": "1 tsp" },
+      { "position": 9, "name": "Pepper", "measurement": "Pinch" },
+      { "position": 10, "name": "Lime", "measurement": "1/2" }
+    ]
+  }
+}

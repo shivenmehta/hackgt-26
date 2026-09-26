@@ -1,0 +1,69 @@
+{
+  "inputHash": "79387c3ecc8d2b4bc505f12eb41087d632f183cb830dfc5ee3a3fa7a215d9035",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:33.732Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 175,
+      "fiberG": 7.5,
+      "assumptions": "250g dry udon noodles (standard package size for this recipe name); ~70g carbs/100g, ~3g fiber/100g"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs = 30ml sesame oil; pure oil with no carbohydrates"
+    },
+    {
+      "position": 3,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (~110g) sliced; edible portion only, ~9g carbs/100g"
+    },
+    {
+      "position": 4,
+      "carbsG": 57.5,
+      "fiberG": 25,
+      "assumptions": "0.25 medium head cabbage (~250g edible portion after trimming); ~23g carbs/100g, ~10g fiber/100g"
+    },
+    {
+      "position": 5,
+      "carbsG": 14,
+      "fiberG": 4,
+      "assumptions": "10 medium shiitake mushrooms (~200g fresh whole weight; stems trimmed but included in estimate); ~7g carbs/100g"
+    },
+    {
+      "position": 6,
+      "carbsG": 4,
+      "fiberG": 2,
+      "assumptions": "4 medium spring onions (~60g edible portion); half used in cooking, half sprinkled at end, ~7g carbs/100g"
+    },
+    {
+      "position": 7,
+      "carbsG": 36,
+      "fiberG": 0,
+      "assumptions": "4 tbsp = 60ml mirin; all added to sauce, ~60g carbs/100ml"
+    },
+    {
+      "position": 8,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "2 tbs = 30ml soy sauce; all added to sauce, ~20g carbs/100ml"
+    },
+    {
+      "position": 9,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tblsp = 12g caster sugar; all added to sauce, 100% carbohydrate"
+    },
+    {
+      "position": 10,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "1 tblsp = 15ml Worcestershire sauce; all added to sauce, ~25g carbs/100ml"
+    }
+  ]
+}

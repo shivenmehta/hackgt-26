@@ -1,0 +1,51 @@
+{
+  "inputHash": "dfc31f394912b8c93d92fe76408897c18fbe96c0abea05596ea7b2620d383f6e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:09.971Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "6 x 150 g sea bass fillets; fish contains no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "45 ml sunflower oil; pure oil contains no carbohydrates"
+    },
+    {
+      "position": 3,
+      "carbsG": 3.1,
+      "fiberG": 0.6,
+      "assumptions": "30 g peeled ginger (from previous estimates); standard values for raw ginger"
+    },
+    {
+      "position": 4,
+      "carbsG": 2.7,
+      "fiberG": 0.2,
+      "assumptions": "9 g garlic (from previous estimates); standard values for raw garlic"
+    },
+    {
+      "position": 5,
+      "carbsG": 7.9,
+      "fiberG": 1.2,
+      "assumptions": "60 g red chillies (from previous estimates); standard values for raw red chilli"
+    },
+    {
+      "position": 6,
+      "carbsG": 7.4,
+      "fiberG": 2.4,
+      "assumptions": "80 g spring onions (from previous estimates); standard values for raw spring onions"
+    },
+    {
+      "position": 7,
+      "carbsG": 1.3,
+      "fiberG": 0.1,
+      "assumptions": "15 ml soy sauce; standard values for typical soy sauce"
+    }
+  ]
+}

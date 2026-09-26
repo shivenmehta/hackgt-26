@@ -1,0 +1,199 @@
+{
+  "inputHash": "5302ff9c256c8e55e5c5a319fdb244cdd6432923c62f0ee6aa03036eac1e15a0",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:31:05.566Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 700,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1.2,
+        "fatG": 0.3,
+        "carbsG": 6.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 217,
+      "proteinG": 8.4,
+      "fatG": 2.1,
+      "carbsG": 44.1,
+      "fiberG": 18.900000000000002,
+      "assumptions": "2 medium fennel bulbs ~350 g each raw edible portion; trimmed fronds reserved but included in total weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.7,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 2.88,
+      "proteinG": 0.24,
+      "fatG": 0.055999999999999994,
+      "carbsG": 0.504,
+      "fiberG": 0.264,
+      "assumptions": "2 tablespoons chopped fresh parsley ~8 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 58,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 16.82,
+      "proteinG": 0.638,
+      "fatG": 0.174,
+      "carbsG": 5.394000000000001,
+      "fiberG": 1.6239999999999997,
+      "assumptions": "Juice of 1 medium lemon ~58 g; zest used separately but juice is primary measured component",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.8,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 31.5,
+      "proteinG": 1.4,
+      "fatG": 0.35,
+      "carbsG": 6.825,
+      "fiberG": 2.1,
+      "assumptions": "175 g cherry tomatoes as given; raw edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0.1,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0.014000000000000002,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon olive oil ~14 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 350,
+      "per100g": {
+        "caloriesKcal": 208,
+        "proteinG": 20,
+        "fatG": 13,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 728,
+      "proteinG": 70,
+      "fatG": 45.5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "350 g raw salmon fillet as given; edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 115,
+        "proteinG": 0.8,
+        "fatG": 11,
+        "carbsG": 6,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 34.5,
+      "proteinG": 0.24,
+      "fatG": 3.3,
+      "carbsG": 1.8,
+      "fiberG": 0.99,
+      "assumptions": "Black olives to serve; assumed 30 g (small handful) typical garnish amount for 2 servings",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52959",
+    "name": "Baked salmon with fennel & tomatoes",
+    "cuisine": "British",
+    "instructions": "Heat oven to 180C/fan 160C/gas 4. Trim the fronds from the fennel and set aside. Cut the fennel bulbs in half, then cut each half into 3 wedges. Cook in boiling salted water for 10 mins, then drain well. Chop the fennel fronds roughly, then mix with the parsley and lemon zest.\r\n\r\nSpread the drained fennel over a shallow ovenproof dish, then add the tomatoes. Drizzle with olive oil, then bake for 10 mins. Nestle the salmon among the veg, sprinkle with lemon juice, then bake 15 mins more until the fish is just cooked. Scatter over the parsley and serve.",
+    "ingredients": [
+      { "position": 1, "name": "Fennel", "measurement": "2 medium" },
+      { "position": 2, "name": "Parsley", "measurement": "2 tbs chopped" },
+      { "position": 3, "name": "Lemon", "measurement": "Juice of 1" },
+      { "position": 4, "name": "Cherry Tomatoes", "measurement": "175g" },
+      { "position": 5, "name": "Olive Oil", "measurement": "1 tbs" },
+      { "position": 6, "name": "Salmon", "measurement": "350g" },
+      { "position": 7, "name": "Black Olives", "measurement": "to serve" }
+    ]
+  }
+}

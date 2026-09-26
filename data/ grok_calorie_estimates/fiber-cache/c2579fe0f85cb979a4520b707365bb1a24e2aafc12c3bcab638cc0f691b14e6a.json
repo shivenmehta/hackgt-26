@@ -1,0 +1,51 @@
+{
+  "inputHash": "c2579fe0f85cb979a4520b707365bb1a24e2aafc12c3bcab638cc0f691b14e6a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:06.250Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 21.7,
+      "fiberG": 9.1,
+      "assumptions": "2 medium fennel bulbs ≈ 700g total raw edible portion (USDA values scaled)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0.6,
+      "fiberG": 0.4,
+      "assumptions": "2 tbs chopped parsley ≈ 8g (USDA values scaled)"
+    },
+    {
+      "position": 3,
+      "carbsG": 5.4,
+      "fiberG": 0.2,
+      "assumptions": "juice of 1 lemon ≈ 45g (USDA lemon juice values scaled; zest not quantified)"
+    },
+    {
+      "position": 4,
+      "carbsG": 7.9,
+      "fiberG": 2.5,
+      "assumptions": "175g cherry tomatoes, raw (USDA values scaled)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbs olive oil ≈ 14g (pure fat, zero carbs)"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "350g raw salmon fillet, edible portion (pure protein/fat, zero carbs)"
+    },
+    {
+      "position": 7,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "black olives to serve – quantity not specified, cannot estimate"
+    }
+  ]
+}

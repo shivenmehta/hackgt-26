@@ -1,0 +1,33 @@
+{
+  "inputHash": "f59f363ad3f7c185bf8a31fa9945343eb1f35a50fb5f8eaeef315c1b151af05f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:00.181Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 5,
+      "grams": 4.8,
+      "caloriesPer100g": null,
+      "assumptions": "2 tsp chicken bouillon powder estimated at ~2.4g per tsp (standard density for granular powders); total 4.8g for entire line. Calories left null as no known value supplied and not estimating kcal."
+    },
+    {
+      "position": 7,
+      "grams": 1.05,
+      "caloriesPer100g": 251,
+      "assumptions": "1/2 tsp white pepper (listed as Pepper) estimated at ~2.1g per tsp (standard density for ground pepper); total ~1.05g for entire line. Copied supplied knownCaloriesPer100g exactly."
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "caloriesPer100g": 32,
+      "assumptions": "1 spring onion (scallion) estimated at 15g edible portion (typical trimmed weight for one medium stalk). Copied supplied knownCaloriesPer100g exactly."
+    },
+    {
+      "position": 10,
+      "grams": 370,
+      "caloriesPer100g": 359,
+      "assumptions": "2 cups uncooked jasmine rice estimated at 185g per cup (standard uncooked rice density); total 370g for entire line. Copied supplied knownCaloriesPer100g exactly (matches typical uncooked white rice)."
+    }
+  ]
+}

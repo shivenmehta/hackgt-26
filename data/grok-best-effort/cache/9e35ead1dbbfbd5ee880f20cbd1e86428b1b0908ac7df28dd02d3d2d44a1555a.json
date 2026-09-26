@@ -1,0 +1,407 @@
+{
+  "inputHash": "9e35ead1dbbfbd5ee880f20cbd1e86428b1b0908ac7df28dd02d3d2d44a1555a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:24.753Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 177,
+        "proteinG": 24,
+        "fatG": 8.1,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1770,
+      "proteinG": 240,
+      "fatG": 81,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Boneless skinless chicken thighs, raw weight as listed; typical values for raw thigh meat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 298,
+        "proteinG": 12.4,
+        "fatG": 17.8,
+        "carbsG": 55,
+        "fiberG": 29
+      },
+      "caloriesKcal": 14.9,
+      "proteinG": 0.62,
+      "fatG": 0.89,
+      "carbsG": 2.75,
+      "fiberG": 1.45,
+      "assumptions": "Ground coriander seed; 1 tbs ≈ 5 g typical spice density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 22,
+        "carbsG": 44,
+        "fiberG": 11
+      },
+      "caloriesKcal": 22.5,
+      "proteinG": 1.08,
+      "fatG": 1.32,
+      "carbsG": 2.64,
+      "fiberG": 0.66,
+      "assumptions": "Ground cumin; 1 tbs ≈ 6 g typical spice density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 311,
+        "proteinG": 11,
+        "fatG": 7,
+        "carbsG": 74,
+        "fiberG": 28
+      },
+      "caloriesKcal": 18.66,
+      "proteinG": 0.66,
+      "fatG": 0.42,
+      "carbsG": 4.44,
+      "fiberG": 1.68,
+      "assumptions": "Ground cardamom; 1 tbs ≈ 6 g typical spice density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 318,
+        "proteinG": 12,
+        "fatG": 17,
+        "carbsG": 57,
+        "fiberG": 27
+      },
+      "caloriesKcal": 6.36,
+      "proteinG": 0.24,
+      "fatG": 0.34,
+      "carbsG": 1.14,
+      "fiberG": 0.54,
+      "assumptions": "Ground cayenne pepper; 1 tsp ≈ 2 g typical spice density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14,
+        "fatG": 13,
+        "carbsG": 54,
+        "fiberG": 37
+      },
+      "caloriesKcal": 14.1,
+      "proteinG": 0.7,
+      "fatG": 0.65,
+      "carbsG": 2.7,
+      "fiberG": 1.85,
+      "assumptions": "Ground paprika; 2 tsp ≈ 5 g typical spice density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 0.4,
+        "fatG": 0.2,
+        "carbsG": 7,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 6.6,
+      "proteinG": 0.12,
+      "fatG": 0.06,
+      "carbsG": 2.1,
+      "fiberG": 0.09,
+      "assumptions": "Fresh lemon juice; 2 tbs = 30 ml ≈ 30 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 397.8,
+      "proteinG": 0,
+      "fatG": 45,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Olive oil; 3 tbs = 45 ml ≈ 45 g (density ≈1 g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 245,
+      "per100g": {
+        "caloriesKcal": 73,
+        "proteinG": 10,
+        "fatG": 0.4,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 178.85,
+      "proteinG": 24.5,
+      "fatG": 0.98,
+      "carbsG": 9.8,
+      "fiberG": 0,
+      "assumptions": "Plain Greek yogurt, non-fat typical; 1 cup ≈ 245 g standard weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.99,
+      "fiberG": 0.063,
+      "assumptions": "Fresh garlic clove, peeled; 1 average clove ≈ 3 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 22,
+        "carbsG": 44,
+        "fiberG": 11
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.36,
+      "fatG": 0.44,
+      "carbsG": 0.88,
+      "fiberG": 0.22,
+      "assumptions": "Ground cumin; 1 tsp ≈ 2 g typical spice density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 0.4,
+        "fatG": 0.2,
+        "carbsG": 7,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 3.3,
+      "proteinG": 0.06,
+      "fatG": 0.03,
+      "carbsG": 1.05,
+      "fiberG": 0.045,
+      "assumptions": "Fresh lemon juice splash; assumed 1 tbs (15 ml ≈ 15 g) as plausible for sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 1.4,
+        "fatG": 0.2,
+        "carbsG": 2.9,
+        "fiberG": 1.3
+      },
+      "caloriesKcal": 15,
+      "proteinG": 1.4,
+      "fatG": 0.2,
+      "carbsG": 2.9,
+      "fiberG": 1.3,
+      "assumptions": "Shredded lettuce (e.g. iceberg or romaine); assumed 100 g total for 'sliced' serving amount in recipe context.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 27,
+      "proteinG": 1.35,
+      "fatG": 0.3,
+      "carbsG": 5.85,
+      "fiberG": 1.8,
+      "assumptions": "Sliced fresh tomato; assumed 150 g total (≈1 medium-large tomato) for 'sliced' serving amount.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 360,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9.1,
+        "fatG": 1.2,
+        "carbsG": 55,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 954,
+      "proteinG": 32.76,
+      "fatG": 4.32,
+      "carbsG": 198,
+      "fiberG": 9.36,
+      "assumptions": "Pita bread; 6 average 60 g pitas (standard size) = 360 g total edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53028",
+    "name": "Shawarma",
+    "cuisine": "Egyptian",
+    "instructions": "Combine the marinade ingredients in a large ziplock bag (or bowl).\r\nAdd the chicken and use your hands to make sure each piece is coated. If using a ziplock bag, I find it convenient to close the bag then massage the bag to disperse the rub all over each chicken piece.\r\nMarinate overnight or up to 24 hours.\r\nCombine the Yoghurt Sauce ingredients in a bowl and mix. Cover and put in the fridge until required (it will last for 3 days in the fridge).\r\nHeat grill/BBQ (or large heavy based pan on stove) on medium high. You should not need to oil it because the marinade has oil in it and also thigh fillets have fat. But if you are worried then oil your hotplate/grill. (See notes for baking)\r\nPlace chicken on the grill and cook the first side for 4 to 5 minutes until nicely charred, then turn and cook the other side for 3 to 4 minutes (the 2nd side takes less time).\r\nRemove chicken from the grill and cover loosely with foil. Set aside to rest for 5 minutes.\r\nTO SERVE\r\nSlice chicken and pile onto platter alongside flatbreads, Salad and the Yoghurt Sauce.\r\nTo make a wrap, get a piece of flatbread and smear with Yoghurt Sauce. Top with a bit of lettuce and tomato and Chicken Shawarma. Roll up and enjoy!",
+    "ingredients": [
+      { "position": 1, "name": "Chicken Thighs", "measurement": "1 kg" },
+      { "position": 2, "name": "Coriander", "measurement": "1 tbs" },
+      { "position": 3, "name": "Cumin", "measurement": "1 tbs" },
+      { "position": 4, "name": "Cardamom", "measurement": "1 tbs" },
+      { "position": 5, "name": "Cayenne Pepper", "measurement": "1 tsp" },
+      { "position": 6, "name": "Paprika", "measurement": "2 tsp" },
+      { "position": 7, "name": "Lemon Juice", "measurement": "2 tbs" },
+      { "position": 8, "name": "Olive Oil", "measurement": "3 tbs" },
+      { "position": 9, "name": "Greek Yogurt", "measurement": "1 cup" },
+      { "position": 10, "name": "Garlic Clove", "measurement": "1" },
+      { "position": 11, "name": "Cumin", "measurement": "1 tsp" },
+      { "position": 12, "name": "Lemon Juice", "measurement": "Splash" },
+      { "position": 13, "name": "Lettuce", "measurement": "Sliced" },
+      { "position": 14, "name": "Tomato", "measurement": "Sliced" },
+      { "position": 15, "name": "Pita Bread", "measurement": "6" }
+    ]
+  }
+}

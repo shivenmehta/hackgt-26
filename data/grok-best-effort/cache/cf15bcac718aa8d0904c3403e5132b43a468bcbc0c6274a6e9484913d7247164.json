@@ -1,0 +1,173 @@
+{
+  "inputHash": "cf15bcac718aa8d0904c3403e5132b43a468bcbc0c6274a6e9484913d7247164",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:17.916Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 371,
+        "proteinG": 13,
+        "fatG": 1.5,
+        "carbsG": 71,
+        "fiberG": 3.2
+      },
+      "caloriesKcal": 1684.34,
+      "proteinG": 59.02,
+      "fatG": 6.81,
+      "carbsG": 322.34,
+      "fiberG": 14.528000000000002,
+      "assumptions": "Standard dry fettuccine pasta; 1 lb = 454 g; typical values for enriched durum wheat pasta.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2.1,
+        "fatG": 36.7,
+        "carbsG": 2.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 408,
+      "proteinG": 2.52,
+      "fatG": 44.04,
+      "carbsG": 3.36,
+      "fiberG": 0,
+      "assumptions": "Heavy whipping cream; 1/2 cup = 120 ml ≈ 120 g; values for typical heavy cream (36-40% fat).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 113,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 810.21,
+      "proteinG": 1.0170000000000001,
+      "fatG": 91.53,
+      "carbsG": 0.113,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; 1/2 cup = 113 g (standard stick equivalent); typical butter nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 431,
+        "proteinG": 38,
+        "fatG": 29,
+        "carbsG": 4.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 215.5,
+      "proteinG": 19,
+      "fatG": 14.5,
+      "carbsG": 2.05,
+      "fiberG": 0,
+      "assumptions": "Grated parmesan cheese; 1/2 cup ≈ 50 g (standard grated volume to weight); typical hard parmesan values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.8,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 2.88,
+      "proteinG": 0.24,
+      "fatG": 0.064,
+      "carbsG": 0.504,
+      "fiberG": 0.264,
+      "assumptions": "Fresh chopped parsley; 2 tbsp ≈ 8 g; typical values for fresh parsley leaves.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 255,
+        "proteinG": 10.9,
+        "fatG": 3.3,
+        "carbsG": 64.5,
+        "fiberG": 25.3
+      },
+      "caloriesKcal": 5.1,
+      "proteinG": 0.218,
+      "fatG": 0.066,
+      "carbsG": 1.29,
+      "fiberG": 0.506,
+      "assumptions": "Ground black pepper; 'to taste' assumed as 2 g (≈ 1 tsp ground, plausible for whole recipe seasoning); typical values for ground black pepper.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53064",
+    "name": "Fettuccine Alfredo",
+    "cuisine": "Italian",
+    "instructions": "Cook pasta according to package instructions in a large pot of boiling water and salt. Add heavy cream and butter to a large skillet over medium heat until the cream bubbles and the butter melts. Whisk in parmesan and add seasoning (salt and black pepper). Let the sauce thicken slightly and then add the pasta and toss until coated in sauce. Garnish with parsley, and it's ready.",
+    "ingredients": [
+      { "position": 1, "name": "Fettuccine", "measurement": "1 lb" },
+      { "position": 2, "name": "Heavy Cream", "measurement": "1/2 cup" },
+      { "position": 3, "name": "Butter", "measurement": "1/2 cup" },
+      { "position": 4, "name": "Parmesan", "measurement": "1/2 cup" },
+      { "position": 5, "name": "Parsley", "measurement": "2 tbsp" },
+      { "position": 6, "name": "Black Pepper", "measurement": null }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "inputHash": "7c74c6641a73d78ef02977913aa51ef0f6381d66a3c1f6229ff47cb11d84945d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:06.545Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp olive oil = 28g; pure fat, zero carbs."
+    },
+    {
+      "position": 2,
+      "carbsG": 12,
+      "fiberG": 3.5,
+      "assumptions": "2 small carrots ≈ 120g total; raw, edible portion."
+    },
+    {
+      "position": 3,
+      "carbsG": 4,
+      "fiberG": 2,
+      "assumptions": "2 small celery stalks ≈ 80g total; raw, edible portion."
+    },
+    {
+      "position": 4,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion ≈ 110g; raw, edible portion."
+    },
+    {
+      "position": 5,
+      "carbsG": 6,
+      "fiberG": 0.4,
+      "assumptions": "6 medium garlic cloves ≈ 18g total; raw."
+    },
+    {
+      "position": 6,
+      "carbsG": 200,
+      "fiberG": 100,
+      "assumptions": "12 oz (340g) dry brown lentils; entire dry weight, standard values for uncooked brown lentils."
+    },
+    {
+      "position": 7,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "2 bay leaves; negligible and unknown exact weight, cannot reasonably estimate."
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 cups water; zero carbohydrates."
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of salt; zero carbohydrates."
+    },
+    {
+      "position": 10,
+      "carbsG": 0.3,
+      "fiberG": 0,
+      "assumptions": "2 tsp (10ml) apple cider vinegar; minimal carbs from entire quantity."
+    },
+    {
+      "position": 11,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of pepper; negligible, treated as zero."
+    },
+    {
+      "position": 12,
+      "carbsG": 58,
+      "fiberG": 29,
+      "assumptions": "2 large eggplants ≈ 1000g total raw weight; roasted, edible flesh only (standard values ~5.8g carb/2.9g fiber per 100g)."
+    },
+    {
+      "position": 13,
+      "carbsG": 1,
+      "fiberG": 0.7,
+      "assumptions": "4 rosemary sprigs ≈ 8g total; modest edible portion."
+    },
+    {
+      "position": 14,
+      "carbsG": 4,
+      "fiberG": 1.5,
+      "assumptions": "1/4 cup pine nuts ≈ 34g; entire quantity."
+    },
+    {
+      "position": 15,
+      "carbsG": 1,
+      "fiberG": 0.7,
+      "assumptions": "2 tbsp chopped parsley ≈ 8g; entire quantity."
+    }
+  ]
+}

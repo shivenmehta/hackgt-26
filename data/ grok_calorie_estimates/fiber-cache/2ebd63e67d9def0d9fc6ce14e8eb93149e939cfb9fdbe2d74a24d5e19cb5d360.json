@@ -1,0 +1,87 @@
+{
+  "inputHash": "2ebd63e67d9def0d9fc6ce14e8eb93149e939cfb9fdbe2d74a24d5e19cb5d360",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:12.932Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 108,
+      "fiberG": 4,
+      "assumptions": "1.5 cups graham cracker crumbs ≈ 180 g (standard density for crumbs); ~60g carbs/100g"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "6 Tbsp melted butter ≈ 85 g (butter is ~81% fat); zero carbs"
+    },
+    {
+      "position": 3,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "1/2 cup sugar ≈ 100 g (granulated white sugar); 100% carbs"
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 0.7,
+      "assumptions": "1/2 tsp ground cinnamon ≈ 1.3 g (negligible macros); ~50g carbs/100g"
+    },
+    {
+      "position": 5,
+      "carbsG": 30,
+      "fiberG": 0,
+      "assumptions": "2.5 cups whole milk ≈ 610 g (standard 3.25% milk); ~5g carbs/100g"
+    },
+    {
+      "position": 6,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "1/2 cup sugar ≈ 100 g (granulated white sugar); 100% carbs"
+    },
+    {
+      "position": 7,
+      "carbsG": 30,
+      "fiberG": 0.7,
+      "assumptions": "1/4 cup cornstarch ≈ 32 g (pure starch); ~91g carbs/100g with trace fiber"
+    },
+    {
+      "position": 8,
+      "carbsG": 2.1,
+      "fiberG": 0,
+      "assumptions": "3 large egg yolks ≈ 51 g total (raw, from ~50 g eggs); ~4.1g carbs/100g"
+    },
+    {
+      "position": 9,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 tsp vanilla extract ≈ 4 g (negligible macros); ~12.5g carbs/100g"
+    },
+    {
+      "position": 10,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp salt ≈ 1.5 g (zero calories); zero carbs"
+    },
+    {
+      "position": 11,
+      "carbsG": 0.9,
+      "fiberG": 0,
+      "assumptions": "3 large egg whites ≈ 99 g total (raw, from ~50 g eggs); ~0.9g carbs/100g"
+    },
+    {
+      "position": 12,
+      "carbsG": 50,
+      "fiberG": 0,
+      "assumptions": "1/4 cup sugar ≈ 50 g (granulated white sugar); 100% carbs"
+    },
+    {
+      "position": 13,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp cream of tartar ≈ 1 g (negligible macros); ~60g carbs/100g"
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "inputHash": "f72205b2abdd60c671487d1c8660acff041b35e090a999e4dd06fea423c21d66",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:10.232Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 34.8,
+      "proteinG": 1.32,
+      "fatG": 0.36,
+      "carbsG": 11.16,
+      "fiberG": 3.36,
+      "assumptions": "2 lemons yield about 120g total juice; standard juice content and nutrition for lemon juice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14.1,
+        "fatG": 12.9,
+        "carbsG": 53.9,
+        "fiberG": 34.9
+      },
+      "caloriesKcal": 22.56,
+      "proteinG": 1.128,
+      "fatG": 1.032,
+      "carbsG": 4.312,
+      "fiberG": 2.792,
+      "assumptions": "4 tsp paprika weighs ~8g; standard values for ground paprika.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 88,
+      "proteinG": 2.4200000000000004,
+      "fatG": 0.22,
+      "carbsG": 20.46,
+      "fiberG": 3.74,
+      "assumptions": "2 medium red onions finely chopped total ~220g edible portion; standard raw red onion nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 1600,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 17.7,
+        "fatG": 8.4,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2288,
+      "proteinG": 283.2,
+      "fatG": 134.4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "16 skinless chicken thighs average ~100g each, total 1.6kg; nutrition for raw skinless boneless chicken thigh meat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 132.6,
+      "proteinG": 0,
+      "fatG": 15,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Oil for brushing estimated at 15g total (light brushing on all pieces before grilling); standard vegetable oil nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 8.8,
+        "fatG": 5,
+        "carbsG": 3.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 291,
+      "proteinG": 26.4,
+      "fatG": 15,
+      "carbsG": 11.7,
+      "fiberG": 0,
+      "assumptions": "300ml Greek yogurt weighs ~300g; typical full-fat Greek yogurt values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.8,
+        "fatG": 0.7,
+        "carbsG": 17.8,
+        "fiberG": 2
+      },
+      "caloriesKcal": 24,
+      "proteinG": 0.54,
+      "fatG": 0.21,
+      "carbsG": 5.34,
+      "fiberG": 0.6,
+      "assumptions": "Large piece of ginger estimated at 30g peeled; standard raw ginger root nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 17.88,
+      "proteinG": 0.7680000000000001,
+      "fatG": 0.06,
+      "carbsG": 3.9720000000000004,
+      "fiberG": 0.252,
+      "assumptions": "4 garlic cloves total ~12g peeled; standard raw garlic nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 12.5,
+        "fatG": 15,
+        "carbsG": 55,
+        "fiberG": 25
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.25,
+      "fatG": 0.3,
+      "carbsG": 1.1,
+      "fiberG": 0.5,
+      "assumptions": "¾ tsp garam masala weighs ~2g; typical spice blend nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 17.8,
+        "fatG": 22.5,
+        "carbsG": 44,
+        "fiberG": 10.5
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.35600000000000004,
+      "fatG": 0.45,
+      "carbsG": 0.88,
+      "fiberG": 0.21,
+      "assumptions": "¾ tsp ground cumin weighs ~2g; standard ground cumin nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 12.7,
+        "fatG": 14.3,
+        "carbsG": 54,
+        "fiberG": 34.8
+      },
+      "caloriesKcal": 2.82,
+      "proteinG": 0.127,
+      "fatG": 0.14300000000000002,
+      "carbsG": 0.54,
+      "fiberG": 0.348,
+      "assumptions": "½ tsp chilli powder weighs ~1g; typical values for ground chili powder.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 312,
+        "proteinG": 9.7,
+        "fatG": 3.3,
+        "carbsG": 67,
+        "fiberG": 21
+      },
+      "caloriesKcal": 3.12,
+      "proteinG": 0.09699999999999999,
+      "fatG": 0.033,
+      "carbsG": 0.67,
+      "fiberG": 0.21,
+      "assumptions": "¼ tsp turmeric weighs ~1g; standard ground turmeric nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52806",
+    "name": "Tandoori chicken",
+    "cuisine": "Indian",
+    "instructions": "Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.\r\nMix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.\r\nHeat the grill. Lift the chicken pieces onto a rack over a baking tray. Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through.",
+    "ingredients": [
+      { "position": 1, "name": "lemons", "measurement": "2 Juice" },
+      { "position": 2, "name": "paprika", "measurement": "4 tsp" },
+      {
+        "position": 3,
+        "name": "red onions",
+        "measurement": "2 finely chopped"
+      },
+      {
+        "position": 4,
+        "name": "chicken thighs",
+        "measurement": "16 skinnless"
+      },
+      { "position": 5, "name": "vegetable oil", "measurement": "For brushing" },
+      { "position": 6, "name": "Greek yogurt", "measurement": "300ml" },
+      { "position": 7, "name": "ginger", "measurement": "large piece" },
+      { "position": 8, "name": "garlic clove", "measurement": "4" },
+      { "position": 9, "name": "garam masala", "measurement": "¾ tsp" },
+      { "position": 10, "name": "ground cumin", "measurement": "¾ tsp" },
+      { "position": 11, "name": "chilli powder", "measurement": "½ tsp" },
+      { "position": 12, "name": "turmeric", "measurement": "¼ tsp" }
+    ]
+  }
+}

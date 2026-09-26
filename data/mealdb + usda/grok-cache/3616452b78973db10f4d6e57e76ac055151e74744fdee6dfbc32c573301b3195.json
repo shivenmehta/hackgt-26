@@ -1,0 +1,57 @@
+{
+  "inputHash": "3616452b78973db10f4d6e57e76ac055151e74744fdee6dfbc32c573301b3195",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:49.879Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 225,
+      "caloriesPer100g": null,
+      "assumptions": "Directly using supplied knownGrams=null and knownCaloriesPer100g=null; no estimation performed as known values must be copied exactly per instructions."
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "caloriesPer100g": 80,
+      "assumptions": "2 ginger pieces estimated at 3g each (small thumb-sized pieces common in Indian recipes); modest weight used as this is a seasoning/aromatic."
+    },
+    {
+      "position": 4,
+      "grams": 2,
+      "caloriesPer100g": 375,
+      "assumptions": "1 tsp cumin seeds/powder ≈ 2g (standard density for ground spices); modest amount for seasoning."
+    },
+    {
+      "position": 7,
+      "grams": 15,
+      "caloriesPer100g": 40,
+      "assumptions": "1 green chilli ≈ 15g (medium-sized typical weight for Indian green chillies)."
+    },
+    {
+      "position": 8,
+      "grams": 500,
+      "caloriesPer100g": 22,
+      "assumptions": "4 large tomatoes ≈ 125g each (standard edible weight for large ripe tomatoes in recipes); full edible portion assumed."
+    },
+    {
+      "position": 10,
+      "grams": 2,
+      "caloriesPer100g": null,
+      "assumptions": "1 tsp garam masala ≈ 2g (standard density for ground spice blends); modest amount for seasoning; knownCaloriesPer100g=null copied exactly."
+    },
+    {
+      "position": 11,
+      "grams": 20,
+      "caloriesPer100g": 23,
+      "assumptions": "Small bunch fresh coriander (cilantro) ≈ 20g (typical recipe yield for leaves and tender stems; modest edible portion)."
+    },
+    {
+      "position": 12,
+      "grams": null,
+      "caloriesPer100g": 291,
+      "assumptions": "Naan bread is 'to serve' with no quantity; cannot reasonably estimate total grams for entire recipe without inventing serving count, so grams=null."
+    }
+  ]
+}

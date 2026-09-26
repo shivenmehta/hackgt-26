@@ -1,0 +1,63 @@
+{
+  "inputHash": "b3fbdd6c257900f893d00987fb9877ae8251951f866992ea11bc4075afd210d3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:57.599Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 200,
+      "caloriesPer100g": 280,
+      "assumptions": "Small Vietnamese-style bánh mì baguette estimated at ~100g each (edible portion after halving); typical calorie density for crusty white bread roll."
+    },
+    {
+      "position": 3,
+      "grams": 75,
+      "caloriesPer100g": 15.9,
+      "assumptions": "1/4 medium cucumber ≈75g edible flesh; knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 4,
+      "grams": 140,
+      "caloriesPer100g": 150,
+      "assumptions": "Cooked turkey breast meat; knownGrams matches supplied 140g measurement, typical kcal for lean roasted turkey."
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "caloriesPer100g": 680,
+      "assumptions": "1 tbsp mayonnaise ≈15g; knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 6,
+      "grams": 20,
+      "caloriesPer100g": 40,
+      "assumptions": "1 medium red chilli sliced ≈20g edible portion; knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 7,
+      "grams": 10,
+      "caloriesPer100g": 44,
+      "assumptions": "Handful of fresh mint leaves ≈10g; knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 8,
+      "grams": 120,
+      "caloriesPer100g": 48,
+      "assumptions": "2 small carrots ≈120g total peeled weight; knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 10,
+      "grams": 1,
+      "caloriesPer100g": 335,
+      "assumptions": "1/4 tsp ground ginger ≈0.7-1g; knownCaloriesPer100g copied exactly, rounded for practicality."
+    },
+    {
+      "position": 11,
+      "grams": 8,
+      "caloriesPer100g": null,
+      "assumptions": "½ tbsp rice vinegar ≈8g; no realistic calorie density for vinegar (near zero), so caloriesPer100g left null."
+    }
+  ]
+}

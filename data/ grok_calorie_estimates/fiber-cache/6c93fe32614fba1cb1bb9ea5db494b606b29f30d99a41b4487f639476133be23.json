@@ -1,0 +1,51 @@
+{
+  "inputHash": "6c93fe32614fba1cb1bb9ea5db494b606b29f30d99a41b4487f639476133be23",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:50.461Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 80,
+      "fiberG": 2,
+      "assumptions": "Standard dry rice noodles; 100g dry weight as stated. Typical values approx 80g total carbohydrate including ~2g fiber per 100g dry."
+    },
+    {
+      "position": 2,
+      "carbsG": 3,
+      "fiberG": 1.2,
+      "assumptions": "3 medium spring onions (approx 45g total edible portion after slicing); consistent with prior 15 kcal estimate."
+    },
+    {
+      "position": 3,
+      "carbsG": 7,
+      "fiberG": 4,
+      "assumptions": "50g frozen petit pois (green peas) as stated; values for cooked, consistent with prior 40 kcal estimate."
+    },
+    {
+      "position": 4,
+      "carbsG": 8,
+      "fiberG": 1.3,
+      "assumptions": "85g fresh red or green chilli peppers as stated (edible portion after deseeding if applicable); consistent with prior 34 kcal estimate."
+    },
+    {
+      "position": 5,
+      "carbsG": 3,
+      "fiberG": 2.5,
+      "assumptions": "85g fresh coriander leaves and stems as stated; consistent with prior 20 kcal estimate."
+    },
+    {
+      "position": 6,
+      "carbsG": 8,
+      "fiberG": 2,
+      "assumptions": "85g fresh lime (approx 1 large lime or 1.5 small; flesh + some rind contribution); consistent with prior 25 kcal estimate."
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "300g raw salmon fillet (edible portion); plain fish contains no carbohydrates or fiber, consistent with prior 620 kcal estimate."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "inputHash": "5077cb3a164d095dedca04fafc515537c7135be59a93133d00f102f5f56088e5",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:29.110Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 100,
+      "caloriesPer100g": null,
+      "assumptions": "Copy knownGrams=null and knownCaloriesPer100g=null exactly; measurement already in grams so no conversion needed. No reasonable basis to estimate caloriesPer100g from recipe text."
+    },
+    {
+      "position": 4,
+      "grams": 250,
+      "caloriesPer100g": 93.7,
+      "assumptions": "250 ml Greek yogurt ≈ 250 g (standard density ≈1 g/ml for yogurt); copy supplied knownCaloriesPer100g exactly."
+    },
+    {
+      "position": 5,
+      "grams": 750,
+      "caloriesPer100g": null,
+      "assumptions": "Copy knownGrams=null (but measurement already supplies 750 g so used that); knownCaloriesPer100g=null exactly. No reasonable basis to estimate caloriesPer100g from recipe text."
+    },
+    {
+      "position": 7,
+      "grams": 6,
+      "caloriesPer100g": 29,
+      "assumptions": "Zest of 1 average lemon ≈ 6 g edible zest; copy supplied knownCaloriesPer100g exactly (per 100 g zest)."
+    },
+    {
+      "position": 8,
+      "grams": 8,
+      "caloriesPer100g": 47,
+      "assumptions": "Zest of 1 average orange ≈ 8 g edible zest; copy supplied knownCaloriesPer100g exactly (per 100 g zest)."
+    },
+    {
+      "position": 10,
+      "grams": null,
+      "caloriesPer100g": null,
+      "assumptions": "Measurement 'To serve' provides no quantity; no reasonable estimate possible for grams or caloriesPer100g without inventing omitted details."
+    }
+  ]
+}

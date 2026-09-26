@@ -1,0 +1,27 @@
+{
+  "inputHash": "8fc73b06103d33f8f7622f4e4b712948fa4b48391a16d1fcfdf67f3c1986c9fd",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:32.839Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 750,
+      "caloriesPer100g": null,
+      "assumptions": "Directly using the supplied measurement of 750g for the lamb as the edible mass. No estimation needed for grams; caloriesPer100g left null per instructions as it is not a supplied known value and we do not estimate it."
+    },
+    {
+      "position": 4,
+      "grams": 150,
+      "caloriesPer100g": 38,
+      "assumptions": "A large onion is typically 150g when chopped (standard culinary estimate for a large peeled onion weighing ~110-200g); using midpoint as realistic edible mass. Copying supplied knownCaloriesPer100g exactly."
+    },
+    {
+      "position": 8,
+      "grams": 65,
+      "caloriesPer100g": 29,
+      "assumptions": "A medium-large whole lemon (as used for wedges) weighs ~65g including peel (edible portion after juicing/wedges is similar in mass context); standard average for one lemon. Copying supplied knownCaloriesPer100g exactly."
+    }
+  ]
+}

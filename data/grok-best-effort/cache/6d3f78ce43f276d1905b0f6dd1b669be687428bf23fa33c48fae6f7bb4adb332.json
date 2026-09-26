@@ -1,0 +1,489 @@
+{
+  "inputHash": "6d3f78ce43f276d1905b0f6dd1b669be687428bf23fa33c48fae6f7bb4adb332",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:42.781Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 85,
+        "proteinG": 18,
+        "fatG": 1,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 255,
+      "proteinG": 54,
+      "fatG": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "6 large raw prawns, approx 50g each including shell; edible tail meat portion estimated at 300g total after deveining and peeling (shells used separately for stock).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 41,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 362.44,
+      "proteinG": 0,
+      "fatG": 41,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons olive oil; standard tablespoon is ~13.6g, total 40.8g rounded to 41g for frying prawns and vegetables.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 4.5,
+      "fiberG": 0,
+      "assumptions": "150ml dry white wine; density ~1g/ml, used to deglaze prawn shells and reduced by 2/3 in instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 17,
+        "proteinG": 2,
+        "fatG": 1,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 34,
+      "proteinG": 4,
+      "fatG": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "200ml fish stock from carton or homemade; density ~1g/ml, strained into the stew base.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1.2,
+        "fatG": 0.2,
+        "carbsG": 7,
+        "fiberG": 3.1
+      },
+      "caloriesKcal": 46.5,
+      "proteinG": 1.8,
+      "fatG": 0.3,
+      "carbsG": 10.5,
+      "fiberG": 4.65,
+      "assumptions": "1 small fennel bulb finely diced, approx 150g edible trimmed weight (typical small bulb 120-180g).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 9,
+        "fiberG": 2
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.1,
+      "fatG": 0,
+      "carbsG": 9.9,
+      "fiberG": 2.2,
+      "assumptions": "1 small onion finely diced, approx 110g edible weight after peeling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6,
+        "fatG": 0,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.54,
+      "fatG": 0,
+      "carbsG": 2.97,
+      "fiberG": 0.18,
+      "assumptions": "3 garlic cloves chopped; average clove 3g, total 9g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 154,
+      "proteinG": 4,
+      "fatG": 0,
+      "carbsG": 36,
+      "fiberG": 4,
+      "assumptions": "1 large potato peeled and cut into chunks; typical large potato ~200g edible peeled weight, parboiled per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 47,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 12,
+        "fiberG": 3
+      },
+      "caloriesKcal": 7.05,
+      "proteinG": 0.15,
+      "fatG": 0,
+      "carbsG": 1.8,
+      "fiberG": 0.45,
+      "assumptions": "Zest strip from 1 orange; only the outer peel used (~15g estimated), negligible impact but included for completeness.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 333,
+        "proteinG": 18,
+        "fatG": 16,
+        "carbsG": 50,
+        "fiberG": 33
+      },
+      "caloriesKcal": 9.99,
+      "proteinG": 0.54,
+      "fatG": 0.48,
+      "carbsG": 1.5,
+      "fiberG": 0.99,
+      "assumptions": "1 whole star anise; typical dried pod weight ~2-4g, used as whole spice and discarded.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 bay leaf; typical dried leaf ~0.5-1g, used as whole spice and discarded.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 10,
+        "fatG": 10,
+        "carbsG": 30,
+        "fiberG": 15
+      },
+      "caloriesKcal": 10,
+      "proteinG": 0.4,
+      "fatG": 0.4,
+      "carbsG": 1.2,
+      "fiberG": 0.6,
+      "assumptions": "1.5 tsp harissa spice (1/2 tsp in stew + 1 tsp in rouille); typical density ~2.7g/tsp, total ~4g, split between stew and rouille.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 4,
+        "fatG": 2,
+        "carbsG": 12,
+        "fiberG": 4
+      },
+      "caloriesKcal": 24.6,
+      "proteinG": 1.2,
+      "fatG": 0.6,
+      "carbsG": 3.6,
+      "fiberG": 1.2,
+      "assumptions": "2 tablespoons tomato puree/paste; standard tablespoon ~15g, total 30g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 7,
+        "fiberG": 2
+      },
+      "caloriesKcal": 128,
+      "proteinG": 8,
+      "fatG": 0,
+      "carbsG": 28,
+      "fiberG": 8,
+      "assumptions": "400g can chopped tomatoes, entire contents used including juice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 86,
+        "proteinG": 12,
+        "fatG": 2,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 129,
+      "proteinG": 18,
+      "fatG": 3,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "Handful of mussels or clams (scrubbed, beards removed); plausible recipe quantity ~150g live weight with shells, edible meat yield lower but total line weight used; any unopened discarded but not subtracted here.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 90,
+        "proteinG": 19,
+        "fatG": 2,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 180,
+      "proteinG": 38,
+      "fatG": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "200g white fish (e.g. cod/hake/monkfish), cut into chunks; raw edible weight as specified.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 276,
+        "proteinG": 6,
+        "fatG": 1,
+        "carbsG": 64,
+        "fiberG": 37
+      },
+      "caloriesKcal": 5.52,
+      "proteinG": 0.12,
+      "fatG": 0.02,
+      "carbsG": 1.28,
+      "fiberG": 0.74,
+      "assumptions": "2 sprigs fresh thyme (leaves scattered); typical small sprig ~1g, total 2g leaves and tender stems.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 3,
+        "carbsG": 49,
+        "fiberG": 3
+      },
+      "caloriesKcal": 530,
+      "proteinG": 18,
+      "fatG": 6,
+      "carbsG": 98,
+      "fiberG": 6,
+      "assumptions": "Bread to serve (mop up juices); plausible per-person amount for 4 servings, ~50g slice each, total 200g; standard white bread values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52918",
+    "name": "Fish Stew with Rouille",
+    "cuisine": "French",
+    "instructions": "Twist the heads from the prawns, then peel away the legs and shells, but leave the tails intact. Devein each prawn. Fry the shells in 1 tbsp oil for 5 mins, until dark pink and golden in patches. Add the wine, boil down by two thirds, then pour in the stock. Strain into a jug, discarding the shells.\r\nHeat the rest of the oil in a deep frying pan or casserole. Add the fennel, onion and garlic, season, then cover and gently cook for 10 mins until softened. Meanwhile, peel the potato and cut into 2cm-ish chunks. Put into a pan of cold water, bring to the boil and cook for 5 mins until almost tender. Drain in a colander.\r\nPeel a strip of zest from the orange. Put the zest, star anise, bay and ½ tsp harissa into the pan. Fry gently, uncovered, for 5-10 mins, until the vegetables are soft, sweet and golden.\r\nStir in the tomato purée, cook for 2 mins, then add the tomatoes and stock. Simmer for 10 mins until the sauce thickens slightly. Season to taste. The sauce can be made ahead, then reheated later in the day. Meantime, scrub the mussels or clams and pull away any stringy beards. Any that are open should be tapped sharply on the worktop – if they don’t close after a few seconds, discard them.\r\nReheat the sauce if necessary, then stir the potato, chunks of fish and prawns very gently into the stew. Bring back to the boil, then cover and gently simmer for 3 mins. Scatter the mussels or clams over the stew, then cover and cook for 2 mins more or until the shells have opened wide. Discard any that remain closed. The chunks of fish should flake easily and the prawns should be pink through. Scatter with the thyme leaves.\r\nTo make the quick rouille, stir the rest of the harissa through the mayonnaise. Serve the stew in bowls, topped with spoonfuls of rouille, which will melt into the sauce and enrich it. Have some good bread ready, as you’ll definitely want to mop up the juices.",
+    "ingredients": [
+      { "position": 1, "name": "Prawns", "measurement": "6 large" },
+      { "position": 2, "name": "Olive Oil", "measurement": "3 tbs" },
+      { "position": 3, "name": "Dry White Wine", "measurement": "150ml" },
+      { "position": 4, "name": "Fish Stock", "measurement": "200ml" },
+      {
+        "position": 5,
+        "name": "Fennel",
+        "measurement": "1 small finely diced"
+      },
+      { "position": 6, "name": "Onion", "measurement": "1 small finely diced" },
+      { "position": 7, "name": "Garlic", "measurement": "3 cloves Chopped" },
+      { "position": 8, "name": "Potatoes", "measurement": "1 large" },
+      { "position": 9, "name": "Orange", "measurement": "1" },
+      { "position": 10, "name": "Star Anise", "measurement": "1" },
+      { "position": 11, "name": "Bay Leaf", "measurement": "1" },
+      { "position": 12, "name": "Harissa Spice", "measurement": "1 1/2 tsp" },
+      { "position": 13, "name": "Tomato Puree", "measurement": "2 tbs" },
+      { "position": 14, "name": "Chopped Tomatoes", "measurement": "400g" },
+      { "position": 15, "name": "Mussels", "measurement": "Handful" },
+      { "position": 16, "name": "White Fish", "measurement": "200g" },
+      { "position": 17, "name": "Thyme", "measurement": "2" },
+      { "position": 18, "name": "Bread", "measurement": "to serve" }
+    ]
+  }
+}

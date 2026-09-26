@@ -1,0 +1,177 @@
+{
+  "inputHash": "38f6724ba70e0597593946bbc56370cab61e75f727a3722015db4f9047943fd0",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:34:51.418Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 61,
+        "proteinG": 3.5,
+        "fatG": 3.3,
+        "carbsG": 4.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 305,
+      "proteinG": 17.5,
+      "fatG": 16.5,
+      "carbsG": 23.5,
+      "fiberG": 0,
+      "assumptions": "Plain whole-milk natural yogurt; standard values for full-fat Turkish-style yogurt before straining.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 0.4,
+        "fatG": 0,
+        "carbsG": 7.4,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 2.2,
+      "proteinG": 0.04,
+      "fatG": 0,
+      "carbsG": 0.74,
+      "fiberG": 0.03,
+      "assumptions": "Fresh lemon juice; typical household teaspoon is ~5 ml each, total 10 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Extra virgin olive oil; 1 tablespoon = 14 g standard density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 14,
+        "fatG": 7,
+        "carbsG": 42,
+        "fiberG": 31
+      },
+      "caloriesKcal": 10.6,
+      "proteinG": 0.56,
+      "fatG": 0.28,
+      "carbsG": 1.68,
+      "fiberG": 1.24,
+      "assumptions": "Dried mint leaves; 1 tablespoon ≈ 4 g typical density for dried herbs; fiber high as typical for dried leafy herbs.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 0.7,
+        "fatG": 0.1,
+        "carbsG": 3.6,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 45,
+      "proteinG": 2.1,
+      "fatG": 0.3,
+      "carbsG": 10.8,
+      "fiberG": 1.5,
+      "assumptions": "Medium-large cucumber (≈300 g whole, edible portion after seeding/peeling losses accounted in estimate); standard raw cucumber values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 average garlic cloves minced (≈6 g total); standard raw garlic nutrient profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53256",
+    "name": "Cacik",
+    "cuisine": "Turkish",
+    "instructions": "step 1\r\nPut a sieve over a large bowl, line it with a thick sheet of non-dyed kitchen paper or a clean muslin cloth, and spoon in the yogurt. Cover with another sheet of kitchen paper and leave to strain in the fridge for a minimum of 12 hrs.\r\n\r\nstep 2\r\nAdd the lemon juice, most of the olive oil and the dried mint to a bowl and stir well for the dried mint to soften and soak up the juices. Mix in the strained yogurt, then pour away the strained yogurt liquid and leave that bowl to one side.\r\n\r\nstep 3\r\nHalve the cucumber(s) lengthways and remove the seeds by running a teaspoon from the top to the bottom of the flesh, halve the cucumbers widthways to make them shorter and easier to handle, then coarsely grate each one into the bowl the yogurt was straining over. Using clean hands (or a clean muslin cloth), squeeze as much of the liquid out of the cucumber as possible.\r\n\r\nstep 4\r\nAdd the strained, grated cucumber, garlic and ¾ tsp flaky salt to the rest of the ingredients and mix well. Garnish with a drizzle of extra virgin olive oil and a sprinkling of dried mint.",
+    "ingredients": [
+      { "position": 1, "name": "Natural Yoghurt", "measurement": "500g" },
+      { "position": 2, "name": "Lemon Juice", "measurement": "2 tsp" },
+      {
+        "position": 3,
+        "name": "Extra Virgin Olive Oil",
+        "measurement": "1 tablespoon"
+      },
+      { "position": 4, "name": "Dried Mint", "measurement": "1 tablespoon" },
+      { "position": 5, "name": "Cucumber", "measurement": "1" },
+      { "position": 6, "name": "Garlic", "measurement": "2 cloves minced" }
+    ]
+  }
+}

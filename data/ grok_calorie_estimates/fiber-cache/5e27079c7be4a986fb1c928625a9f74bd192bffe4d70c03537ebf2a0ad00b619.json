@@ -1,0 +1,57 @@
+{
+  "inputHash": "5e27079c7be4a986fb1c928625a9f74bd192bffe4d70c03537ebf2a0ad00b619",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:53.138Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 195,
+      "fiberG": 6,
+      "assumptions": "300g digestive biscuits (standard UK type: ~65g carbs, ~2g fiber per 100g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "150g butter (no carbohydrates)"
+    },
+    {
+      "position": 3,
+      "carbsG": 272,
+      "fiberG": 0,
+      "assumptions": "400g sweetened condensed milk (~68g carbs per 100g; whole can used)"
+    },
+    {
+      "position": 4,
+      "carbsG": 2.1,
+      "fiberG": 0,
+      "assumptions": "3 large egg yolks (~0.7g carbs each; standard large yolk weight ~17g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 24,
+      "fiberG": 6,
+      "assumptions": "zest + juice from 4 limes (edible portion ~200g total fruit; ~12g carbs, ~3g fiber per 100g)"
+    },
+    {
+      "position": 6,
+      "carbsG": 9,
+      "fiberG": 0,
+      "assumptions": "300ml double cream (~3g carbs per 100ml; volume ≈ weight for cream)"
+    },
+    {
+      "position": 7,
+      "carbsG": 15,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon icing sugar (~15g; ~100g carbs per 100g)"
+    },
+    {
+      "position": 8,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "lime to serve (for zest/garnish only; quantity unspecified and minimal, cannot estimate reasonably)"
+    }
+  ]
+}

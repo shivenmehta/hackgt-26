@@ -1,0 +1,501 @@
+{
+  "inputHash": "852ed703fff4a6f6e30793f49dfcb33b4e2d7498a410c3fc5bba10e6dbfb3d45",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:25:15.711Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0.1,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 79.56,
+      "proteinG": 0.009000000000000001,
+      "fatG": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp sesame oil estimated at 9g using standard oil density; full fat oil values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.5,
+        "fatG": 0.1,
+        "carbsG": 4.8,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 15.9,
+      "proteinG": 1.65,
+      "fatG": 0.03,
+      "carbsG": 1.44,
+      "fiberG": 0.21,
+      "assumptions": "2 tbsp regular soy sauce estimated at 30g using typical bottle nutrition for Chinese-style soy sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 9,
+      "proteinG": 0.03,
+      "fatG": 0,
+      "carbsG": 2.1,
+      "fiberG": 0,
+      "assumptions": "2 tbsp seasoned rice vinegar estimated at 30g; assumes typical sweetened variety with added sugar.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 170,
+      "per100g": {
+        "caloriesKcal": 351,
+        "proteinG": 8.1,
+        "fatG": 0.6,
+        "carbsG": 79.6,
+        "fiberG": 2.4
+      },
+      "caloriesKcal": 596.7,
+      "proteinG": 13.77,
+      "fatG": 1.02,
+      "carbsG": 135.32,
+      "fiberG": 4.08,
+      "assumptions": "6 oz (170g) dry vermicelli rice noodles; standard uncooked rice noodle package values used as recipe starts with dry noodles.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143,
+      "proteinG": 12.6,
+      "fatG": 9.5,
+      "carbsG": 0.7,
+      "fiberG": 0,
+      "assumptions": "2 large eggs estimated at 100g total edible portion using standard large egg nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 335,
+        "proteinG": 9,
+        "fatG": 13,
+        "carbsG": 72,
+        "fiberG": 13
+      },
+      "caloriesKcal": 40.2,
+      "proteinG": 1.08,
+      "fatG": 1.56,
+      "carbsG": 8.64,
+      "fiberG": 1.56,
+      "assumptions": "2 tbsp ground ginger estimated at 12g using typical dried spice density and nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "1 clove garlic finely chopped estimated at 3g using average clove size.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 122,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 50.02,
+      "proteinG": 1.0979999999999999,
+      "fatG": 0.24400000000000002,
+      "carbsG": 11.712,
+      "fiberG": 3.4159999999999995,
+      "assumptions": "2 medium carrots estimated at 122g total raw edible weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.9,
+        "fatG": 0.4,
+        "carbsG": 6.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 13.05,
+      "proteinG": 0.405,
+      "fatG": 0.18,
+      "carbsG": 2.97,
+      "fiberG": 1.2599999999999998,
+      "assumptions": "1 sliced jalapeño estimated at 45g using average whole pepper weight including seeds.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 55,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 22,
+      "proteinG": 0.6050000000000001,
+      "fatG": 0.055,
+      "carbsG": 5.115,
+      "fiberG": 0.935,
+      "assumptions": "1/2 sweet onion (Vidalia-type) estimated at 55g raw edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp salt estimated at 3g; pure salt contributes zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 113,
+      "per100g": {
+        "caloriesKcal": 145,
+        "proteinG": 16.5,
+        "fatG": 7.8,
+        "carbsG": 1.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 163.85,
+      "proteinG": 18.645,
+      "fatG": 8.814,
+      "carbsG": 1.695,
+      "fiberG": 0,
+      "assumptions": "4 oz ham estimated at 113g using typical cooked ham slice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 340,
+      "per100g": {
+        "caloriesKcal": 13,
+        "proteinG": 1.5,
+        "fatG": 0.2,
+        "carbsG": 2.2,
+        "fiberG": 1.1
+      },
+      "caloriesKcal": 44.2,
+      "proteinG": 5.1,
+      "fatG": 0.68,
+      "carbsG": 7.480000000000001,
+      "fiberG": 3.7400000000000007,
+      "assumptions": "1/2 head napa cabbage estimated at 340g raw edible weight based on average small head size.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 19.2,
+      "proteinG": 1.08,
+      "fatG": 0.12,
+      "carbsG": 4.38,
+      "fiberG": 1.56,
+      "assumptions": "4 scallions estimated at 60g total raw weight using typical bunch portions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 18.6,
+      "proteinG": 0.6,
+      "fatG": 0.18,
+      "carbsG": 3.6,
+      "fiberG": 1.26,
+      "assumptions": "1/2 red bell pepper estimated at 60g raw edible weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 325,
+        "proteinG": 12.4,
+        "fatG": 13.8,
+        "carbsG": 55.8,
+        "fiberG": 19.4
+      },
+      "caloriesKcal": 13,
+      "proteinG": 0.496,
+      "fatG": 0.552,
+      "carbsG": 2.2319999999999998,
+      "fiberG": 0.7759999999999999,
+      "assumptions": "2 tsp curry powder estimated at 4g using standard spice blend nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 227,
+      "per100g": {
+        "caloriesKcal": 85,
+        "proteinG": 20.4,
+        "fatG": 0.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 192.95,
+      "proteinG": 46.30799999999999,
+      "fatG": 1.3619999999999999,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 lb (227g) raw shrimp; assumes peeled, deveined, edible tail-off portion with standard raw shrimp values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.1,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 1.15,
+      "proteinG": 0.105,
+      "fatG": 0.025,
+      "carbsG": 0.185,
+      "fiberG": 0.14,
+      "assumptions": "2 tbsp cilantro leaves estimated at 5g using typical fresh herb volume-to-weight conversion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53368",
+    "name": "Singapore Noodles with Shrimp",
+    "cuisine": "Chinese",
+    "instructions": "For the sweet onion, look for Vidalia, OSO Sweet, or Walla Walla. The super-sweet varieties are more suited to this stir-fry because at the end of cooking, the onion still has a slight crunch.\r\n\r\nMake the sauce:\r\nIn a bowl, combine the sesame oil, soy sauce, and rice vinegar.\r\n\r\nCook the rice noodles:\r\nBring a large saucepan of water to a boil, add the noodles, and use tongs to turn them so they are submerged. Cook for 2 minutes, or until they are tender but still have some bite (they will cook a little more once you add them to the skillet).\r\n\r\nDrain, rinse with cold water, and use scissors to snip the noodles several times to break them up into shorter lengths.\r\n\r\nScramble the eggs:\r\nIn a small bowl whisk together the eggs. Heat the skillet or Dutch oven over medium heat. Add 1 tablespoon of the peanut or canola oil. Add the eggs and scramble them for 2 minutes, or until they form large, soft curds. Transfer them from the pan to a plate or bowl.\r\n\r\nCook the vegetables:\r\nAdd 1 tablespoon of the remaining oil to the pan. When it is hot, add the ginger, garlic, carrots, jalapeño, onion, and salt. Cook, stirring constantly, for 2 minutes or until the vegetables start to soften.\r\n\r\nAdd the remaining ingredients:\r\nSprinkle the vegetable mixture with the remaining 1 tablespoon peanut or canola oil. When the oil is hot, add the ham, cabbage, scallions, red pepper, and curry powder to the pan. Cook, stirring constantly, for 1 minute.\r\n\r\nAdd the shrimp and cook, stirring, for 3 more minutes or until the shrimp are bright pink and cooked through.\r\n\r\nAdd the noodles in batches:\r\nAdd the eggs, the sauce mixture, and half the noodles to the pan. Toss for 1 minute.\r\n\r\nAdd the remaining noodles and continue tossing for 1 minute more until they are thoroughly combined and the mixture is heated through.\r\n\r\nServe:\r\nTaste for seasoning and add more salt or soy sauce, if you like. Sprinkle with cilantro leaves and serve.",
+    "ingredients": [
+      { "position": 1, "name": "Sesame Seed Oil", "measurement": "2 tsp" },
+      { "position": 2, "name": "Soy Sauce", "measurement": "2 tablespoons" },
+      {
+        "position": 3,
+        "name": "Seasoned Rice Vinegar",
+        "measurement": "2 tablespoons"
+      },
+      {
+        "position": 4,
+        "name": "Vermicelli Rice Noodles",
+        "measurement": "6 oz"
+      },
+      { "position": 5, "name": "Egg", "measurement": "2 large" },
+      { "position": 6, "name": "Ground Ginger", "measurement": "2 tblsp" },
+      {
+        "position": 7,
+        "name": "Garlic",
+        "measurement": "1 clove finely chopped"
+      },
+      { "position": 8, "name": "Carrots", "measurement": "2" },
+      { "position": 9, "name": "Jalapeno", "measurement": "1 sliced" },
+      { "position": 10, "name": "Onion", "measurement": "1/2" },
+      { "position": 11, "name": "Salt", "measurement": "1/2 tsp" },
+      { "position": 12, "name": "Ham", "measurement": "4 oz" },
+      { "position": 13, "name": "Napa Cabbage", "measurement": "1/2" },
+      { "position": 14, "name": "Scallions", "measurement": "4" },
+      { "position": 15, "name": "Red Pepper", "measurement": "1/2" },
+      { "position": 16, "name": "Curry Powder", "measurement": "2 tsp" },
+      { "position": 17, "name": "Shrimp", "measurement": "1/2 lb" },
+      {
+        "position": 18,
+        "name": "Cilantro Leaves",
+        "measurement": "2 tablespoons"
+      }
+    ]
+  }
+}

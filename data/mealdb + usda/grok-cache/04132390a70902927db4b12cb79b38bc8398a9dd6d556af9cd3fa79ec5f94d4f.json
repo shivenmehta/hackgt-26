@@ -1,0 +1,21 @@
+{
+  "inputHash": "04132390a70902927db4b12cb79b38bc8398a9dd6d556af9cd3fa79ec5f94d4f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:58.277Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 5,
+      "grams": 15,
+      "caloriesPer100g": 134,
+      "assumptions": "1 tbsp sake is approximately 15g (standard liquid volume to mass conversion)."
+    },
+    {
+      "position": 7,
+      "grams": 50,
+      "caloriesPer100g": 357,
+      "assumptions": "1/3 cup potato starch weighs ~50g based on typical bulk density of ~0.6 g/ml for starch powders; calories based on standard value for potato starch."
+    }
+  ]
+}

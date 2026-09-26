@@ -1,0 +1,69 @@
+{
+  "inputHash": "2c397f7aba55d67e387f86731bd23442b87987b0f184000004c00eac62a0b940",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:01.873Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 65,
+      "fiberG": 2,
+      "assumptions": "100g digestive biscuits as given; standard UK values ~65g carbs/100g with ~2g fiber"
+    },
+    {
+      "position": 2,
+      "carbsG": 18,
+      "fiberG": 9,
+      "assumptions": "85g whole almonds as given; standard ~21g carbs/100g with ~11g fiber"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "85g butter as given; pure fat, zero carbs"
+    },
+    {
+      "position": 4,
+      "carbsG": 11,
+      "fiberG": 0,
+      "assumptions": "250ml Greek yogurt (~260g at density ~1.04 g/ml); full-fat strained style ~4.2g carbs/100g"
+    },
+    {
+      "position": 5,
+      "carbsG": 23,
+      "fiberG": 0,
+      "assumptions": "750g mascarpone as given; standard ~3g carbs/100g"
+    },
+    {
+      "position": 6,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 large eggs (~100g edible portion without shell); ~0.7g carbs each"
+    },
+    {
+      "position": 7,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "zest of 1 lemon (~6g); ~2.5g carbs/g with high fiber proportion"
+    },
+    {
+      "position": 8,
+      "carbsG": 3,
+      "fiberG": 1,
+      "assumptions": "zest of 1 orange (~10g); ~3g carbs/g with high fiber proportion"
+    },
+    {
+      "position": 9,
+      "carbsG": 280,
+      "fiberG": 1,
+      "assumptions": "250ml honey (~350g at density ~1.4 g/ml); ~80g carbs/100g with negligible fiber"
+    },
+    {
+      "position": 10,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "'fruit mix to serve' is vague/optional and lacks any quantity; cannot estimate reasonably"
+    }
+  ]
+}

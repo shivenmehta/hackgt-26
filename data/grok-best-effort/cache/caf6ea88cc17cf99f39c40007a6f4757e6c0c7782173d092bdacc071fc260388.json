@@ -1,0 +1,433 @@
+{
+  "inputHash": "caf6ea88cc17cf99f39c40007a6f4757e6c0c7782173d092bdacc071fc260388",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:35:35.186Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 88,
+      "proteinG": 2.4200000000000004,
+      "fatG": 0.22,
+      "carbsG": 20.46,
+      "fiberG": 3.74,
+      "assumptions": "2 medium onions at 110g each, raw weight, finely chopped as per recipe; standard onion nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 37.2,
+      "proteinG": 1.2,
+      "fatG": 0.36,
+      "carbsG": 7.2,
+      "fiberG": 2.52,
+      "assumptions": "1 medium-large red bell pepper, diced, edible portion ~120g after deseeding; standard red pepper values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.1,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 5.75,
+      "proteinG": 0.525,
+      "fatG": 0.125,
+      "carbsG": 0.925,
+      "fiberG": 0.7,
+      "assumptions": "Small bunch fresh coriander (~25g total weight used, stalks in base, leaves as garnish); standard cilantro nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 9.1,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.285,
+      "fatG": 0.06,
+      "carbsG": 1.365,
+      "fiberG": 0.225,
+      "assumptions": "1 small red chilli (~15g whole, deseeded if preferred but nutrition includes typical edible part); standard red chili pepper values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 22.35,
+      "proteinG": 0.96,
+      "fatG": 0.075,
+      "carbsG": 4.965,
+      "fiberG": 0.315,
+      "assumptions": "3 average garlic cloves (~5g each, total 15g), chopped; standard raw garlic nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 360,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 2.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 295.2,
+      "proteinG": 0.36,
+      "fatG": 0,
+      "carbsG": 9.36,
+      "fiberG": 0,
+      "assumptions": "400ml dry white wine (density ~0.9g/ml, total 360g); standard dry white wine values, alcohol contributes to calories.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 0.1,
+      "per100g": {
+        "caloriesKcal": 310,
+        "proteinG": 11.4,
+        "fatG": 5.9,
+        "carbsG": 64.4,
+        "fiberG": 3.9
+      },
+      "caloriesKcal": 0.31,
+      "proteinG": 0.0114,
+      "fatG": 0.005900000000000001,
+      "carbsG": 0.06440000000000001,
+      "fiberG": 0.0039000000000000003,
+      "assumptions": "Pinch of saffron threads estimated at 0.1g (typical small pinch in recipes); standard saffron nutrition, negligible impact but included per guidelines.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 0.5,
+      "per100g": {
+        "caloriesKcal": 313,
+        "proteinG": 7.6,
+        "fatG": 8.4,
+        "carbsG": 75,
+        "fiberG": 26.3
+      },
+      "caloriesKcal": 1.565,
+      "proteinG": 0.038,
+      "fatG": 0.042,
+      "carbsG": 0.375,
+      "fiberG": 0.1315,
+      "assumptions": "1 dried bay leaf (~0.5g); standard bay leaf nutrition, used whole and typically removed but weight included.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17.5,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 231,
+      "proteinG": 6,
+      "fatG": 0.3,
+      "carbsG": 52.5,
+      "fiberG": 6.6,
+      "assumptions": "300g potatoes as specified, peeled and cut (edible raw weight); standard potato nutrition, raw state as added before cooking.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 72,
+      "proteinG": 3.6,
+      "fatG": 0.8,
+      "carbsG": 15.6,
+      "fiberG": 4.8,
+      "assumptions": "400g canned or fresh plum tomatoes as listed (recipe breaks them up); standard canned plum tomato values in juice, drained weight approximated but using whole line as 400g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 17.8,
+        "fatG": 0.7,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 492,
+      "proteinG": 106.8,
+      "fatG": 4.2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "600g cod fillets (raw, edible portion); standard Atlantic cod raw nutrition, pushed into sauce as per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 92,
+        "proteinG": 15.6,
+        "fatG": 1.4,
+        "carbsG": 3.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 276,
+      "proteinG": 46.8,
+      "fatG": 4.2,
+      "carbsG": 9.3,
+      "fiberG": 0,
+      "assumptions": "300g squid (raw, cleaned edible weight); standard mixed species squid raw nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 99,
+        "proteinG": 21,
+        "fatG": 1.7,
+        "carbsG": 0.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 198,
+      "proteinG": 42,
+      "fatG": 3.4,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "8 tiger prawns estimated at ~25g each raw with shell (total 200g edible after minor prep); standard prawn/shrimp raw values, arranged on surface.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 74,
+        "proteinG": 14.2,
+        "fatG": 1,
+        "carbsG": 2.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 185,
+      "proteinG": 35.5,
+      "fatG": 2.5,
+      "carbsG": 6.25,
+      "fiberG": 0,
+      "assumptions": "500g clams in shell; edible drained meat portion ~50% or 250g after cooking/opening per typical yield; standard raw clam meat nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 86,
+        "proteinG": 11.9,
+        "fatG": 2.2,
+        "carbsG": 3.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 215,
+      "proteinG": 29.75,
+      "fatG": 5.5,
+      "carbsG": 9.25,
+      "fiberG": 0,
+      "assumptions": "500g mussels in shell; edible drained meat portion ~50% or 250g after cooking/opening per typical yield; standard raw mussel meat nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9.5,
+        "fatG": 1.6,
+        "carbsG": 52.5,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 662.5,
+      "proteinG": 23.75,
+      "fatG": 4,
+      "carbsG": 131.25,
+      "fiberG": 6.25,
+      "assumptions": "1 medium baguette (~250g total, sliced and toasted for serving); standard French baguette nutrition, entire loaf used as per recipe for dunking.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53045",
+    "name": "Portuguese fish stew (Caldeirada de peixe)",
+    "cuisine": "Portuguese",
+    "instructions": "STEP 1\r\n\r\nHeat a drizzle of oil in a large, deep-sided frying pan, and fry the onion and pepper on a medium heat until softened but not browned. Finely chop the coriander stalks (keep the leaves for later), and add to the pan with the chilli and chopped garlic. Fry for another few minutes. Add the wine, saffron and bay leaf and let it simmer until reduced by half.\r\n\r\nSTEP 2\r\n\r\nAdd the potatoes, tomatoes, and 300ml water and bring to a gentle boil. Break up the tomatoes with a spoon on the side of the pan and simmer for 20-25 minutes until the potatoes are just tender, and the tomatoes have broken down.\r\n\r\nSTEP 3\r\n\r\nSeason well, then gently push the fish into the sauce, and arrange the squid, prawns, clams and mussels on the surface. Put the lid on and cook for 6-8 minutes until the mussel and clam shells have opened, the prawns are cooked and the fish is flaky. Toast the bread, rub lightly with the halved garlic clove and drizzle with olive oil. Serve the stew scatted with chopped coriander leaves, and the toasts for dunking.",
+    "ingredients": [
+      { "position": 1, "name": "Onions", "measurement": "2 finely chopped" },
+      { "position": 2, "name": "Red Pepper", "measurement": "1 Diced" },
+      { "position": 3, "name": "Coriander", "measurement": "Small bunch" },
+      { "position": 4, "name": "Red Chilli", "measurement": "1 small" },
+      { "position": 5, "name": "Garlic", "measurement": "3 cloves" },
+      { "position": 6, "name": "Dry White Wine", "measurement": "400ml" },
+      { "position": 7, "name": "Saffron", "measurement": "Pinch" },
+      { "position": 8, "name": "Bay Leaf", "measurement": "1" },
+      { "position": 9, "name": "Potatoes", "measurement": "300g" },
+      { "position": 10, "name": "Plum Tomatoes", "measurement": "400g" },
+      { "position": 11, "name": "Cod", "measurement": "600g" },
+      { "position": 12, "name": "Squid", "measurement": "300g" },
+      { "position": 13, "name": "Tiger Prawns", "measurement": "8" },
+      { "position": 14, "name": "Clams", "measurement": "500g" },
+      { "position": 15, "name": "Mussels", "measurement": "500g" },
+      { "position": 16, "name": "Baguette", "measurement": "1 sliced" }
+    ]
+  }
+}

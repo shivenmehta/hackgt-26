@@ -1,0 +1,277 @@
+{
+  "inputHash": "d1f51af254b6ab65191be7aea59f7913eaac8adb6b55142a3996d45683f25410",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:17.295Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 13.6,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 120.22399999999999,
+      "proteinG": 0,
+      "fatG": 13.6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard olive oil density ~0.91 g/ml; 1 tbsp = 13.6 g. Pure fat, so protein/carbs/fiber zero.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "Medium onion ~110 g when chopped; typical raw white/yellow onion values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 330,
+      "proteinG": 62,
+      "fatG": 7.2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw boneless skinless chicken breast; values reflect typical raw state before cooking.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 347,
+        "proteinG": 9,
+        "fatG": 6,
+        "carbsG": 71,
+        "fiberG": 13
+      },
+      "caloriesKcal": 6.94,
+      "proteinG": 0.18,
+      "fatG": 0.12,
+      "carbsG": 1.42,
+      "fiberG": 0.26,
+      "assumptions": "Pinch of grated fresh ginger estimated at 2 g (small amount for flavor in one-pan dish); typical raw ginger root values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 280,
+        "proteinG": 12,
+        "fatG": 10,
+        "carbsG": 35,
+        "fiberG": 12
+      },
+      "caloriesKcal": 84,
+      "proteinG": 3.6,
+      "fatG": 3,
+      "carbsG": 10.5,
+      "fiberG": 3.6,
+      "assumptions": "2 tablespoons harissa paste/spice blend estimated at ~15 g per tbsp; typical North African harissa values used (calories from oil/spices).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 241,
+        "proteinG": 3.4,
+        "fatG": 0.5,
+        "carbsG": 62.6,
+        "fiberG": 7.3
+      },
+      "caloriesKcal": 96.4,
+      "proteinG": 1.36,
+      "fatG": 0.2,
+      "carbsG": 25.04,
+      "fiberG": 2.92,
+      "assumptions": "10 dried apricots average ~4 g each (small/medium size common in recipes); typical unsulfured dried apricot values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 164,
+        "proteinG": 8.9,
+        "fatG": 2.6,
+        "carbsG": 27.4,
+        "fiberG": 7.6
+      },
+      "caloriesKcal": 360.8,
+      "proteinG": 19.58,
+      "fatG": 5.72,
+      "carbsG": 60.28,
+      "fiberG": 16.72,
+      "assumptions": "220 g canned chickpeas, drained weight (common can size yields ~220-240 g drained); values for drained chickpeas.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 376,
+        "proteinG": 12.8,
+        "fatG": 0.6,
+        "carbsG": 77.4,
+        "fiberG": 5
+      },
+      "caloriesKcal": 752,
+      "proteinG": 25.6,
+      "fatG": 1.2,
+      "carbsG": 154.8,
+      "fiberG": 10,
+      "assumptions": "Dry couscous (absorbs the 200 ml stock); standard uncooked durum wheat couscous values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.5,
+        "fatG": 0.3,
+        "carbsG": 0.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14,
+      "proteinG": 1,
+      "fatG": 0.6,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "200 ml chicken stock ~200 g (density ~1 g/ml); typical low-sodium prepared stock values (mostly water).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.1,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 2.3,
+      "proteinG": 0.21,
+      "fatG": 0.05,
+      "carbsG": 0.37,
+      "fiberG": 0.28,
+      "assumptions": "Handful of fresh coriander (cilantro) estimated at 10 g (typical garnish amount); standard fresh herb values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52850",
+    "name": "Chicken Couscous",
+    "cuisine": "Moroccan",
+    "instructions": "Heat the olive oil in a large frying pan and cook the onion for 1-2 mins just until softened. Add the chicken and fry for 7-10 mins until cooked through and the onions have turned golden. Grate over the ginger, stir through the harissa to coat everything and cook for 1 min more.\r\n\r\nTip in the apricots, chickpeas and couscous, then pour over the stock and stir once. Cover with a lid or tightly cover the pan with foil and leave for about 5 mins until the couscous has soaked up all the stock and is soft. Fluff up the couscous with a fork and scatter over the coriander to serve. Serve with extra harissa, if you like.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "1 tbsp" },
+      { "position": 2, "name": "Onion", "measurement": "1 chopped" },
+      { "position": 3, "name": "Chicken Breast", "measurement": "200g" },
+      { "position": 4, "name": "Ginger", "measurement": "pinch" },
+      { "position": 5, "name": "Harissa Spice", "measurement": "2 tblsp" },
+      { "position": 6, "name": "Dried Apricots", "measurement": "10" },
+      { "position": 7, "name": "Chickpeas", "measurement": "220g" },
+      { "position": 8, "name": "Couscous", "measurement": "200g" },
+      { "position": 9, "name": "Chicken Stock", "measurement": "200ml" },
+      { "position": 10, "name": "Coriander", "measurement": "Handful" }
+    ]
+  }
+}

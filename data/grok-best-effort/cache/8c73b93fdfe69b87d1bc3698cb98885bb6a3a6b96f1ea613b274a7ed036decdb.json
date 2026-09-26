@@ -1,0 +1,329 @@
+{
+  "inputHash": "8c73b93fdfe69b87d1bc3698cb98885bb6a3a6b96f1ea613b274a7ed036decdb",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:23:39.349Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 7,
+        "fatG": 1,
+        "carbsG": 78,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 3500,
+      "proteinG": 70,
+      "fatG": 10,
+      "carbsG": 780,
+      "fiberG": 12,
+      "assumptions": "Standard dry basmati rice values; 1 kg as listed, uncooked weight used in recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 1200,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 84,
+      "proteinG": 10.8,
+      "fatG": 2.4,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "Beef stock assumed similar to typical broth; 5 cups ≈ 1.2 L / 1200 g, low calorie.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 88,
+      "proteinG": 2.4200000000000004,
+      "fatG": 0.22,
+      "carbsG": 20.46,
+      "fiberG": 3.74,
+      "assumptions": "2 medium onions ≈ 220 g total; typical yellow onion, raw values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 22.35,
+      "proteinG": 0.96,
+      "fatG": 0.075,
+      "carbsG": 4.95,
+      "fiberG": 0.315,
+      "assumptions": "5 chopped garlic cloves ≈ 15 g total; standard garlic bulb cloves.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.4,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.6,
+      "fatG": 0.12,
+      "carbsG": 2.7,
+      "fiberG": 0.45,
+      "assumptions": "2 green chilies ≈ 30 g total; typical fresh mild green chili peppers.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 18,
+      "proteinG": 0.9,
+      "fatG": 0.2,
+      "carbsG": 3.9,
+      "fiberG": 1.2,
+      "assumptions": "1 small tomato ≈ 100 g; standard raw tomato values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2.5 tsp table salt ≈ 15 g; sodium contributes 0 kcal/macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 42,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 371.28,
+      "proteinG": 0,
+      "fatG": 42,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons neutral cooking oil ≈ 42 g (14 g per tbsp); typical vegetable oil.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 312,
+        "proteinG": 10,
+        "fatG": 3,
+        "carbsG": 67,
+        "fiberG": 22
+      },
+      "caloriesKcal": 12.48,
+      "proteinG": 0.4,
+      "fatG": 0.12,
+      "carbsG": 2.68,
+      "fiberG": 0.88,
+      "assumptions": "1.5 tsp turmeric powder ≈ 4 g; standard ground turmeric.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 311,
+        "proteinG": 11,
+        "fatG": 14,
+        "carbsG": 68,
+        "fiberG": 28
+      },
+      "caloriesKcal": 3.11,
+      "proteinG": 0.11,
+      "fatG": 0.14,
+      "carbsG": 0.68,
+      "fiberG": 0.28,
+      "assumptions": "0.5 tsp ground cardamom ≈ 1 g; typical spice values, small quantity.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 274,
+        "proteinG": 6,
+        "fatG": 13,
+        "carbsG": 65,
+        "fiberG": 33
+      },
+      "caloriesKcal": 2.74,
+      "proteinG": 0.06,
+      "fatG": 0.13,
+      "carbsG": 0.65,
+      "fiberG": 0.33,
+      "assumptions": "0.5 tsp ground cloves ≈ 1 g; typical spice values, small quantity.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 0.5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "0.5 tsp crushed bay leaf ≈ 0.5 g; negligible macros due to tiny amount.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53359",
+    "name": "Beef Mandi",
+    "cuisine": "Indian",
+    "instructions": "1. Wash the beef and cut into large pieces. Season lightly with salt and turmeric.\r\n2. Heat ghee/oil in a large pot. Add sliced onions and sauté until light golden.\r\n3. Add garlic, green chilies, and tomato; cook until softened.\r\n4. Add the mandi spice mix: coriander, cumin, black pepper, cinnamon, cardamom, cloves, and bay leaves.\r\n5. Add beef pieces and stir on medium heat until the meat is well coated with spices.\r\n6. Pour in water or beef stock. Cover and simmer until beef is tender (about 1.5–2 hours depending on cut).\r\n7. Remove beef carefully and set aside. Strain and measure the broth.\r\n8. Add washed, soaked basmati rice to the broth (usually 1 cup rice = 1.5–2 cups liquid). Adjust seasoning and bring to a boil.\r\n9. Lower heat, cover, and cook the rice until fluffy.\r\n10. Place the beef pieces over the rice and steam on low heat for 10 minutes so flavors combine.\r\n11. Optional: For smoky flavor, place a small hot charcoal on foil in the pot, add 1 tsp butter/oil, immediately cover for 5 minutes. Remove coal before serving.\r\n12. Fluff rice and serve beef mandi with salad or chutney.",
+    "ingredients": [
+      { "position": 1, "name": "Basmati Rice", "measurement": "1 kg" },
+      { "position": 2, "name": "Beef Stock", "measurement": "5 Cups" },
+      { "position": 3, "name": "Onion", "measurement": "2 medium" },
+      { "position": 4, "name": "Garlic", "measurement": "5 chopped cloves" },
+      { "position": 5, "name": "Green Chilli", "measurement": "2" },
+      { "position": 6, "name": "Tomato", "measurement": "1 small" },
+      { "position": 7, "name": "Salt", "measurement": "2 1/2 Tsp" },
+      { "position": 8, "name": "Oil", "measurement": "3  tablespoons" },
+      { "position": 9, "name": "Turmeric Powder", "measurement": "1 ½ tsp" },
+      { "position": 10, "name": "Cardamom", "measurement": "1/2 tsp" },
+      { "position": 11, "name": "Cloves", "measurement": "1/2 tsp" },
+      { "position": 12, "name": "Bay Leaf", "measurement": "1/2 tsp" }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "inputHash": "041b66b1074fa7c070235718869ec010d2e40b278f7cbcc2d746d80dc690c14e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:38.643Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 12.3,
+      "fiberG": 0.4,
+      "assumptions": "2 tbs plain flour ≈ 16g; standard wheat flour values"
+    },
+    {
+      "position": 2,
+      "carbsG": 15.7,
+      "fiberG": 0,
+      "assumptions": "2 tbs icing sugar ≈ 16g; nearly pure sucrose"
+    },
+    {
+      "position": 3,
+      "carbsG": 110,
+      "fiberG": 4,
+      "assumptions": "375g ready-made puff pastry (all edible; typical all-butter or standard supermarket nutritional average)"
+    },
+    {
+      "position": 4,
+      "carbsG": 250,
+      "fiberG": 0,
+      "assumptions": "250g caster sugar; pure sucrose values"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.2,
+      "fiberG": 0.8,
+      "assumptions": "2 strips lemon zest ≈ 6g; peel only"
+    },
+    {
+      "position": 6,
+      "carbsG": 2,
+      "fiberG": 1.3,
+      "assumptions": "1 cinnamon stick for infusion; negligible but some carbs/fiber present, stick discarded"
+    },
+    {
+      "position": 7,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 large whole eggs ≈ 100g edible portion"
+    },
+    {
+      "position": 8,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "4 large egg yolks ≈ 68g edible portion"
+    },
+    {
+      "position": 9,
+      "carbsG": 43.5,
+      "fiberG": 0.5,
+      "assumptions": "50g cornflour (cornstarch); standard values"
+    },
+    {
+      "position": 10,
+      "carbsG": 24,
+      "fiberG": 0,
+      "assumptions": "500ml whole milk (≈515g); standard whole cow's milk"
+    },
+    {
+      "position": 11,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "seeds from 1 vanilla pod; negligible macros"
+    },
+    {
+      "position": 12,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "cinnamon to serve (dusting); quantity not specified, cannot reasonably estimate"
+    }
+  ]
+}

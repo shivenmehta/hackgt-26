@@ -1,0 +1,69 @@
+{
+  "inputHash": "39860e20cde464893703d787be7316823b942ffc627cd01558ccb060a2e1113a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:29.635Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 lb (227 g) dry salt cod; soaked, boiled, drained and shredded; typical values for boneless skinless salt cod after preparation"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 standard bacon strips (~100 g total raw); cooked crispy, majority of rendered fat drained off per instructions"
+    },
+    {
+      "position": 3,
+      "carbsG": 15,
+      "fiberG": 7,
+      "assumptions": "525 g fresh callaloo leaves and stems, cooked; edible portion only; using amaranth/collard-like values scaled to full quantity"
+    },
+    {
+      "position": 4,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (110 g), chopped and cooked"
+    },
+    {
+      "position": 5,
+      "carbsG": 4,
+      "fiberG": 1,
+      "assumptions": "2 spring onions (30 g), chopped and cooked"
+    },
+    {
+      "position": 6,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "2 garlic cloves (6 g), minced and cooked"
+    },
+    {
+      "position": 7,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "1 scotch bonnet pepper (10 g), chopped and cooked; seeds may be partially removed"
+    },
+    {
+      "position": 8,
+      "carbsG": 8,
+      "fiberG": 2,
+      "assumptions": "2 plum tomatoes (150 g), chopped and cooked"
+    },
+    {
+      "position": 9,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "2 thyme sprigs (4 g leaves only); modest quantity for seasoning"
+    },
+    {
+      "position": 10,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp ground black pepper; modest seasoning quantity"
+    }
+  ]
+}

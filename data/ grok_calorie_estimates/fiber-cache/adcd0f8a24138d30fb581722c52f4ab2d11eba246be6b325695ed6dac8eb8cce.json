@@ -1,0 +1,81 @@
+{
+  "inputHash": "adcd0f8a24138d30fb581722c52f4ab2d11eba246be6b325695ed6dac8eb8cce",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:38.674Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 228,
+      "fiberG": 7.5,
+      "assumptions": "300g plain white flour at standard 76g carbs/100g with 2.5g fiber/100g"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "75g butter contributes no carbohydrates"
+    },
+    {
+      "position": 3,
+      "carbsG": 2.6,
+      "fiberG": 0,
+      "assumptions": "100g full-fat cream cheese at standard 2.6g carbs/100g (nearly all from lactose, fiber negligible)"
+    },
+    {
+      "position": 4,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tbsp (≈12g) icing sugar at standard 100g carbs/100g"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "150g butter contributes no carbohydrates"
+    },
+    {
+      "position": 6,
+      "carbsG": 178,
+      "fiberG": 0,
+      "assumptions": "200ml maple syrup weighed at ≈268g with standard 66.3g carbs/100g (all sugars, fiber negligible)"
+    },
+    {
+      "position": 7,
+      "carbsG": 250,
+      "fiberG": 0,
+      "assumptions": "250g light brown soft sugar at standard 100g carbs/100g"
+    },
+    {
+      "position": 8,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "100g dark brown soft sugar at standard 100g carbs/100g"
+    },
+    {
+      "position": 9,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "4 large eggs (≈200g edible portion) at standard 0.6g carbs/100g"
+    },
+    {
+      "position": 10,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 tsp (≈4g) vanilla extract at standard ~12.5g carbs/100g"
+    },
+    {
+      "position": 11,
+      "carbsG": 52,
+      "fiberG": 36,
+      "assumptions": "400g pecan nuts at standard 13g carbs/100g with 9g fiber/100g (edible kernel weight)"
+    },
+    {
+      "position": 12,
+      "carbsG": 108,
+      "fiberG": 14,
+      "assumptions": "200g dark chocolate chips at standard 54g carbs/100g with 7g fiber/100g"
+    }
+  ]
+}

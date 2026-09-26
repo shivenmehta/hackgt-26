@@ -1,0 +1,39 @@
+{
+  "inputHash": "72ac9909514d1e3257981db5fcd05b43507f7c4eccacda96c7380e93d19b097a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:30.760Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 364,
+      "fiberG": 12,
+      "assumptions": "4 cups all-purpose flour (480g total); standard values for white wheat flour"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1.5 cups water (355ml); contributes no carbohydrates"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp table salt; negligible contribution"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 cup unsalted butter (227g); no carbohydrates"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/4 cup olive oil (54g); no carbohydrates"
+    }
+  ]
+}

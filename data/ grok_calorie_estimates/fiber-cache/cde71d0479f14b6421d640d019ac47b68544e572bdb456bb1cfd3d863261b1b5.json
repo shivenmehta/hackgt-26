@@ -1,0 +1,51 @@
+{
+  "inputHash": "cde71d0479f14b6421d640d019ac47b68544e572bdb456bb1cfd3d863261b1b5",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:12.547Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 14.4,
+      "fiberG": 2,
+      "assumptions": "2 medium cucumbers ≈ 600 g total edible portion (peeled, deseeded if needed, cut into pieces); using 2.4 g carbs and 0.33 g fiber per 100 g cucumber"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp table salt contributes no carbohydrates"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp sesame oil (≈ 9 g total) is pure fat with no carbohydrates"
+    },
+    {
+      "position": 4,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "2 tbsp rice vinegar (≈ 30 ml) has minimal residual carbs"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.1,
+      "fiberG": 0.1,
+      "assumptions": "6 fresh basil leaves ≈ 6 g total; using ≈ 2.7 g carbs and 1.6 g fiber per 100 g basil"
+    },
+    {
+      "position": 6,
+      "carbsG": 1,
+      "fiberG": 0.7,
+      "assumptions": "1/2 tsp red chili flakes ≈ 1.5 g; using ≈ 69 g carbs and 45 g fiber per 100 g dried flakes"
+    },
+    {
+      "position": 7,
+      "carbsG": 1.3,
+      "fiberG": 0.7,
+      "assumptions": "2 tsp toasted sesame seeds (≈ 6 g total); using ≈ 21.5 g carbs and 11.8 g fiber per 100 g"
+    }
+  ]
+}

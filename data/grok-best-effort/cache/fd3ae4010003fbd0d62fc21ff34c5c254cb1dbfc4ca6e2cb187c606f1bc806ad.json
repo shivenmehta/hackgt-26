@@ -1,0 +1,303 @@
+{
+  "inputHash": "fd3ae4010003fbd0d62fc21ff34c5c254cb1dbfc4ca6e2cb187c606f1bc806ad",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:11.897Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81.1,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 200.76,
+      "proteinG": 0.252,
+      "fatG": 22.708,
+      "carbsG": 0.028000000000000004,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; 2 tbs = 28g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 53,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 21.2,
+      "proteinG": 0.5830000000000001,
+      "fatG": 0.053000000000000005,
+      "carbsG": 4.929,
+      "fiberG": 0.9009999999999999,
+      "assumptions": "Chopped raw onion; 1/3 cup = ~53g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 210,
+      "per100g": {
+        "caloriesKcal": 19,
+        "proteinG": 0.9,
+        "fatG": 0.1,
+        "carbsG": 4.4,
+        "fiberG": 2.9
+      },
+      "caloriesKcal": 39.9,
+      "proteinG": 1.89,
+      "fatG": 0.21,
+      "carbsG": 9.240000000000002,
+      "fiberG": 6.09,
+      "assumptions": "Drained sauerkraut from 1 1/2 cups; typical drained weight ~210g with low calories from fermentation.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 42,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81.1,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 301.14,
+      "proteinG": 0.37800000000000006,
+      "fatG": 34.062,
+      "carbsG": 0.042,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; 3 tbs = 42g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 32,
+      "proteinG": 0.88,
+      "fatG": 0.08,
+      "carbsG": 7.44,
+      "fiberG": 1.36,
+      "assumptions": "Chopped raw onion; 1/2 cup = ~80g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 420,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17.5,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 323.4,
+      "proteinG": 8.4,
+      "fatG": 0.42,
+      "carbsG": 73.5,
+      "fiberG": 8.82,
+      "assumptions": "Plain mashed potatoes (boiled, peeled, no added fat/milk); 2 cups = ~420g based on typical recipe yield from ~450-500g raw potatoes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 214.5,
+      "proteinG": 18.9,
+      "fatG": 14.25,
+      "carbsG": 1.05,
+      "fiberG": 0,
+      "assumptions": "3 large whole eggs; ~50g each edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 230,
+      "per100g": {
+        "caloriesKcal": 198,
+        "proteinG": 2.1,
+        "fatG": 19.1,
+        "carbsG": 4.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 455.4,
+      "proteinG": 4.83,
+      "fatG": 43.93,
+      "carbsG": 10.58,
+      "fiberG": 0,
+      "assumptions": "'1 pot' sour cream interpreted as standard 8oz/227g container (common in recipes); adjusted slightly for typical use.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 375,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 1365,
+      "proteinG": 38.62500000000001,
+      "fatG": 3.75,
+      "carbsG": 286.125,
+      "fiberG": 10.125000000000002,
+      "assumptions": "All-purpose white flour; 3 cups = ~375g (standard density).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 1.5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1/4 tsp = ~1.5g, negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 27.7,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 7.42,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 3.878,
+      "fiberG": 0.028000000000000004,
+      "assumptions": "Baking powder (double-acting); 1 tbs = ~14g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53019",
+    "name": "Pierogi (Polish Dumplings)",
+    "cuisine": "Polish",
+    "instructions": "To prepare the sauerkraut filling, melt the butter in a skillet over medium heat. Stir in the onion, and cook until translucent, about 5 minutes. Add the drained sauerkraut and cook for an additional 5 minutes. Season to taste with salt and pepper, then remove to a plate to cool.\r\n\r\nFor the mashed potato filling, melt the butter in a skillet over medium heat. Stir in the onion, and cook until translucent, about 5 minutes. Stir into the mashed potatoes, and season with salt and white pepper.\r\n\r\nTo make the dough, beat together the eggs and sour cream until smooth. Sift together the flour, salt, and baking powder; stir into the sour cream mixture until dough comes together. Knead the dough on a lightly floured surface until firm and smooth. Divide the dough in half, then roll out one half to 1/8 inch thickness. Cut into 3 inch rounds using a biscuit cutter.\r\n\r\nPlace a small spoonful of the mashed potato filling into the center of each round. Moisten the edges with water, fold over, and press together with a fork to seal. Repeat procedure with the remaining dough and the sauerkraut filling.\r\n\r\nBring a large pot of lightly salted water to a boil. Add perogies and cook for 3 to 5 minutes or until pierogi float to the top. Remove with a slotted spoon.",
+    "ingredients": [
+      { "position": 1, "name": "Butter", "measurement": "2 tbs" },
+      { "position": 2, "name": "Chopped Onion", "measurement": "1/3 cup" },
+      { "position": 3, "name": "Sauerkraut", "measurement": "1 1/2 cups" },
+      { "position": 4, "name": "Butter", "measurement": "3 tbs" },
+      { "position": 5, "name": "Chopped Onion", "measurement": "1/2 cup" },
+      { "position": 6, "name": "Potatoes", "measurement": "2 cups" },
+      { "position": 7, "name": "Eggs", "measurement": "3" },
+      { "position": 8, "name": "Sour Cream", "measurement": "1 pot" },
+      { "position": 9, "name": "Flour", "measurement": "3 cups" },
+      { "position": 10, "name": "Salt", "measurement": "1/4 tsp" },
+      { "position": 11, "name": "Baking Powder", "measurement": "1 tbs" }
+    ]
+  }
+}

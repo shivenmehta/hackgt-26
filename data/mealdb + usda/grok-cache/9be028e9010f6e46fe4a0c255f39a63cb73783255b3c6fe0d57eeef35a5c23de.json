@@ -1,0 +1,63 @@
+{
+  "inputHash": "9be028e9010f6e46fe4a0c255f39a63cb73783255b3c6fe0d57eeef35a5c23de",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:47.845Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 4,
+      "grams": 15,
+      "caloriesPer100g": 80,
+      "assumptions": "A thumb-sized piece of peeled ginger is typically 12-18g; using 15g as a realistic average for a standard thumb."
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "caloriesPer100g": 250,
+      "assumptions": "2 tbsp of curry paste (e.g., Madras) weighs ~30g (15g per tbsp for thick paste); ~250 kcal/100g is a typical value for commercial Indian curry pastes based on oil, spices, and tomatoes."
+    },
+    {
+      "position": 7,
+      "grams": 3,
+      "caloriesPer100g": 247,
+      "assumptions": "One standard cinnamon stick weighs ~2-4g; using 3g as average. Known calories copied exactly."
+    },
+    {
+      "position": 8,
+      "grams": 4,
+      "caloriesPer100g": 311,
+      "assumptions": "6 cardamom pods (bashed) weigh ~3-5g total; using 4g as realistic. Known calories copied exactly."
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "caloriesPer100g": 274,
+      "assumptions": "4 whole cloves weigh ~1-2.5g total; using 2g as average. Known calories copied exactly."
+    },
+    {
+      "position": 10,
+      "grams": 1,
+      "caloriesPer100g": 313,
+      "assumptions": "2 bay leaves weigh ~0.5-1.5g total; using 1g as realistic. Known calories copied exactly."
+    },
+    {
+      "position": 12,
+      "grams": 1000,
+      "caloriesPer100g": 250,
+      "assumptions": "1kg cubed lamb is taken as 1000g of lean-to-moderately-fat raw boneless lamb shoulder/leg (common for rogan josh); ~250 kcal/100g is typical for such cuts in raw cubed state."
+    },
+    {
+      "position": 13,
+      "grams": 150,
+      "caloriesPer100g": 93.7,
+      "assumptions": "150ml Greek yogurt weighs ~150g (density ~1g/ml). Known grams and calories copied exactly."
+    },
+    {
+      "position": 14,
+      "grams": 10,
+      "caloriesPer100g": 23,
+      "assumptions": "Chopped coriander as garnish for the full recipe is a modest 8-15g bunch portion; using 10g. Known calories copied exactly."
+    }
+  ]
+}

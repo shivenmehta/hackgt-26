@@ -1,0 +1,329 @@
+{
+  "inputHash": "bda07ae32129b7d1ded8021b73ae0aeba70a39fe4ce7ca01e4350b3f5c79a049",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:28.035Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 455,
+      "proteinG": 12.875,
+      "fatG": 1.25,
+      "carbsG": 95.375,
+      "fiberG": 3.375,
+      "assumptions": "Standard all-purpose white flour; 1 cup = 125g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 1.5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1/4 tsp ≈ 1.5g; negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 17,
+      "per100g": {
+        "caloriesKcal": 317,
+        "proteinG": 15.9,
+        "fatG": 26.5,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 53.89,
+      "proteinG": 2.7030000000000003,
+      "fatG": 4.505,
+      "carbsG": 0.612,
+      "fiberG": 0,
+      "assumptions": "1 large egg yolk only; ≈17g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.5,
+      "proteinG": 6.3,
+      "fatG": 4.75,
+      "carbsG": 0.35,
+      "fiberG": 0,
+      "assumptions": "1 large whole egg; ≈50g edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 71,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 509.07,
+      "proteinG": 0.639,
+      "fatG": 57.51,
+      "carbsG": 0.07100000000000001,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; 5 US tablespoons = 71g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 609.45,
+      "proteinG": 0.765,
+      "fatG": 68.85,
+      "carbsG": 0.085,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; 6 US tablespoons = 85g (total butter split across dough and filling).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 53,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 21.2,
+      "proteinG": 0.5830000000000001,
+      "fatG": 0.053000000000000005,
+      "carbsG": 4.929,
+      "fiberG": 0.9009999999999999,
+      "assumptions": "Chopped raw onion; 1/3 cup ≈ 53g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 70,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 1.2,
+        "fatG": 0.2,
+        "carbsG": 8.1,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 25.2,
+      "proteinG": 0.84,
+      "fatG": 0.14,
+      "carbsG": 5.67,
+      "fiberG": 1.75,
+      "assumptions": "Rutabaga (swede), peeled and chopped; 1/2 cup ≈ 70g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 227,
+      "per100g": {
+        "caloriesKcal": 155,
+        "proteinG": 22.8,
+        "fatG": 6.3,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 351.85,
+      "proteinG": 51.756,
+      "fatG": 14.300999999999998,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw beef brisket, trimmed; 1/2 lb = 227g; used as ground/cooked filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143,
+      "proteinG": 12.6,
+      "fatG": 9.5,
+      "carbsG": 0.7,
+      "fiberG": 0,
+      "assumptions": "2 large whole eggs, beaten (1 for filling, 1 for egg wash); ≈100g total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1 tsp ≈ 6g; negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 0.6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Ground black pepper; 1/4 tsp ≈ 0.6g; negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53017",
+    "name": "Paszteciki (Polish Pasties)",
+    "cuisine": "Polish",
+    "instructions": "Sift flour and salt into a large mixing bowl.\r\nUse a spoon to push the egg yolk through a fine sieve into the flour.\r\nAdd the raw egg and mix well.\r\nBeat in butter 1 tablespoon at a time.\r\nPlace dough on a floured surface and knead until smooth and elastic, then wrap in waxed paper and refrigerate until firm (at least 30 minutes).\r\nIn a heavy skillet, melt 2 tablespoons butter over medium heat; saute the onion and rutabaga until the onion is soft and transparent (5 minutes).\r\nPut the onions, rutabaga, and beef through a meat grinder twice if you have one, if not just chop them up as fine as possible.\r\nMelt the remaining 4 tablespoons butter over medium heat, and add the meat mixture.\r\nCook over low heat, stirring occasionally, until all of the liquid has evaporated and the mixture is thick enough to hold its shape.\r\nRemove from heat and let cool, then stir in 1 egg, and season with salt and pepper.\r\nPreheat oven to 350°F.\r\nOn a lightly floured surface, roll the dough out into a 13x8\" rectangle (1/8\" thick).\r\nSpoon the filling down the center of the rectangle lengthwise, leaving about an inch of space on each end.\r\nLightly brush the long sides with cold water, then fold one of the long sides over the filling and the other side over the top of that.\r\nBrush the short ends with cold water and fold them over the top, enclosing the filling.\r\nPlace pastry seam side down on a baking sheet and brush the top evenly with the remaining scrambled egg.\r\nBake in preheated oven until rich golden brown (30 minutes).\r\nSlice pastry diagonally into 1.5\" long pieces and serve as an appetizer or with soup.",
+    "ingredients": [
+      { "position": 1, "name": "Flour", "measurement": "1 cup" },
+      { "position": 2, "name": "Salt", "measurement": "1/4 tsp" },
+      { "position": 3, "name": "Egg", "measurement": "1 Yolk" },
+      { "position": 4, "name": "Egg", "measurement": "1" },
+      { "position": 5, "name": "Butter", "measurement": "5 tbs" },
+      { "position": 6, "name": "Butter", "measurement": "6 tblsp" },
+      { "position": 7, "name": "Onion", "measurement": "1/3 cup" },
+      { "position": 8, "name": "Swede", "measurement": "1/2 cup" },
+      { "position": 9, "name": "Beef Brisket", "measurement": "1/2 lb" },
+      { "position": 10, "name": "Eggs", "measurement": "2 Beaten" },
+      { "position": 11, "name": "Salt", "measurement": "1 tsp" },
+      { "position": 12, "name": "Pepper", "measurement": "1/4 tsp" }
+    ]
+  }
+}

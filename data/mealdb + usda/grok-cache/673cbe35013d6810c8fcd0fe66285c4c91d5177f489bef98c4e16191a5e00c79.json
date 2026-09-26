@@ -1,0 +1,57 @@
+{
+  "inputHash": "673cbe35013d6810c8fcd0fe66285c4c91d5177f489bef98c4e16191a5e00c79",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:22.637Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 150,
+      "caloriesPer100g": 260,
+      "assumptions": "Standard sesame seed hamburger buns weigh ~75g each; 2 buns total 150g edible portion. Typical value for similar buns."
+    },
+    {
+      "position": 4,
+      "grams": 40,
+      "caloriesPer100g": 38,
+      "assumptions": "'Chopped' onion in Big Mac context is a modest amount for 4 burgers; ~40g total chopped white onion is realistic. CaloriesPer100g copied from supplied known value."
+    },
+    {
+      "position": 5,
+      "grams": 85,
+      "caloriesPer100g": 17.1,
+      "assumptions": "1/4 of a typical medium-large iceberg lettuce head (~340g whole) yields ~85g shredded edible portion. CaloriesPer100g copied from supplied known value."
+    },
+    {
+      "position": 6,
+      "grams": 40,
+      "caloriesPer100g": 350,
+      "assumptions": "2 slices American-style cheese for the recipe; each slice ~20g. Typical calorie density for processed burger cheese."
+    },
+    {
+      "position": 7,
+      "grams": 60,
+      "caloriesPer100g": 12,
+      "assumptions": "2 large dill pickles sliced for 4 burgers total ~60g edible weight. CaloriesPer100g copied from supplied known value."
+    },
+    {
+      "position": 8,
+      "grams": 220,
+      "caloriesPer100g": 680,
+      "assumptions": "1 cup mayonnaise weighs ~220g. CaloriesPer100g copied from supplied known value."
+    },
+    {
+      "position": 10,
+      "grams": 1,
+      "caloriesPer100g": 251,
+      "assumptions": "A pinch of pepper is a very small amount (~0.5-1g); using 1g as modest estimate. CaloriesPer100g copied from supplied known value."
+    },
+    {
+      "position": 12,
+      "grams": 7,
+      "caloriesPer100g": 200,
+      "assumptions": "1.5 tsp onion salt weighs ~7-9g (salt-based seasoning); using 7g. Typical calorie density for onion salt."
+    }
+  ]
+}

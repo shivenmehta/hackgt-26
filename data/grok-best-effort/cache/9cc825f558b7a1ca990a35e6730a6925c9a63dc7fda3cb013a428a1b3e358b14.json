@@ -1,0 +1,329 @@
+{
+  "inputHash": "9cc825f558b7a1ca990a35e6730a6925c9a63dc7fda3cb013a428a1b3e358b14",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:34:36.700Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 16,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 58.24,
+      "proteinG": 1.6,
+      "fatG": 0.16,
+      "carbsG": 12.16,
+      "fiberG": 0.48,
+      "assumptions": "2 tbs plain flour is approximately 16g; standard all-purpose flour values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 16,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 61.92,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 16,
+      "fiberG": 0,
+      "assumptions": "2 tbs icing sugar is approximately 16g; treated as powdered sugar.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 375,
+      "per100g": {
+        "caloriesKcal": 410,
+        "proteinG": 6,
+        "fatG": 28,
+        "carbsG": 36,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 1537.5,
+      "proteinG": 22.5,
+      "fatG": 105,
+      "carbsG": 135,
+      "fiberG": 5.625,
+      "assumptions": "Full 375g puff pastry block used; typical ready-rolled puff pastry nutrition applied, raw weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 967.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 250,
+      "fiberG": 0,
+      "assumptions": "Full 250g caster sugar used; standard granulated sugar values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 47,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 12,
+        "fiberG": 5
+      },
+      "caloriesKcal": 2.82,
+      "proteinG": 0.018,
+      "fatG": 0.006000000000000001,
+      "carbsG": 0.72,
+      "fiberG": 0.3,
+      "assumptions": "2 strips lemon zest estimated at 6g total; peel only, typical citrus peel nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 3,
+        "carbsG": 81,
+        "fiberG": 53
+      },
+      "caloriesKcal": 14.82,
+      "proteinG": 0.24,
+      "fatG": 0.18,
+      "carbsG": 4.86,
+      "fiberG": 3.18,
+      "assumptions": "1 cinnamon stick estimated at 6g; typical stick size and spice nutrition values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143,
+      "proteinG": 13,
+      "fatG": 10,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 large whole eggs total ~100g; standard large egg nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 68,
+      "per100g": {
+        "caloriesKcal": 317,
+        "proteinG": 16,
+        "fatG": 27,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 215.56,
+      "proteinG": 10.88,
+      "fatG": 18.36,
+      "carbsG": 2.72,
+      "fiberG": 0,
+      "assumptions": "4 large egg yolks total ~68g; standard yolk nutrition values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 91,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 190.5,
+      "proteinG": 0.15,
+      "fatG": 0.05,
+      "carbsG": 45.5,
+      "fiberG": 0.45,
+      "assumptions": "Full 50g cornflour (cornstarch) used; standard values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 64,
+        "proteinG": 3.3,
+        "fatG": 3.6,
+        "carbsG": 4.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 320,
+      "proteinG": 16.5,
+      "fatG": 18,
+      "carbsG": 23.5,
+      "fiberG": 0,
+      "assumptions": "Full 500ml whole milk (density ~1.03g/ml so ~515g but rounded to 500g for simplicity); standard whole milk nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0.1,
+        "fatG": 0.1,
+        "carbsG": 13,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0.005,
+      "fatG": 0.005,
+      "carbsG": 0.65,
+      "fiberG": 0,
+      "assumptions": "Seeds from 1 vanilla pod estimated at 5g; typical vanilla bean nutrition, seeds only.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 3,
+        "carbsG": 81,
+        "fiberG": 53
+      },
+      "caloriesKcal": 4.94,
+      "proteinG": 0.08,
+      "fatG": 0.06,
+      "carbsG": 1.62,
+      "fiberG": 1.06,
+      "assumptions": "Ground cinnamon 'to serve' estimated at 2g total for the whole recipe (small dusting amount); typical spice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53046",
+    "name": "Portuguese custard tarts",
+    "cuisine": "Portuguese",
+    "instructions": "STEP 1\r\nRoll the pastry\r\nMix the flour and icing sugar, and use this to dust the work surface. Roll the pastry out to make a 45 x 30cm rectangle. Roll up lengthways to create a long sausage shape.\r\n\r\nSTEP 2\r\nCutting pastry into rounds\r\nCut the pastry into 24 wheels, about 1-2cm thick.\r\n\r\nSTEP 3\r\nRoll out each pastry portion\r\nRoll each wheel lightly with the rolling pin to fit 2 x 12-hole non-stick fairy cake tins.\r\n\r\nSTEP 4\r\nPress pastry into the tin\r\nPress the pastry circles into the tins and mould into the tins to make thin cases. Chill until needed.\r\n\r\nSTEP 5\r\nMake the infused syrup\r\nHeat the oven to 220C/fan 200C/gas 7. Make a sugar syrup by bringing the sugar, 200ml water, lemon zest and cinnamon stick to the boil. Reduce until syrupy, allow to cool, then remove the cinnamon and lemon. Whisk the eggs, egg yolks and cornflour until smooth in another large pan.\r\n\r\nSTEP 6\r\nMaking custard\r\nHeat the milk and vanilla pod seeds in a separate pan until just below the boil. Gradually pour the hot milk over the eggs and cornflour, then cook on a low heat, continually whisking.\r\n\r\nSTEP 7\r\nAdd syrup to custard\r\nAdd the cooled sugar syrup to the custard and whisk until thickened slightly.\r\n\r\nSTEP 8\r\nPour custard into the tins\r\nPour the custard through a sieve. Pour into the pastry cases and bake for 15 minutes until the pastry is golden and the custard has darkened.\r\n\r\nSTEP 9\r\ncool and dust with icing sugar\r\nCool completely in the tins then sift over icing sugar and ground cinnamon to serve.",
+    "ingredients": [
+      { "position": 1, "name": "Plain Flour", "measurement": "2 tbs" },
+      { "position": 2, "name": "Icing Sugar", "measurement": "2 tbs" },
+      { "position": 3, "name": "Puff Pastry", "measurement": "375g" },
+      { "position": 4, "name": "Caster Sugar", "measurement": "250g" },
+      { "position": 5, "name": "Lemon Zest", "measurement": "2 strips" },
+      { "position": 6, "name": "Cinnamon", "measurement": "1 Stick" },
+      { "position": 7, "name": "Eggs", "measurement": "2" },
+      { "position": 8, "name": "Egg Yolks", "measurement": "4" },
+      { "position": 9, "name": "Corn Flour", "measurement": "50g" },
+      { "position": 10, "name": "Whole Milk", "measurement": "500ml" },
+      { "position": 11, "name": "Vanilla", "measurement": "Pod of" },
+      { "position": 12, "name": "Cinnamon", "measurement": "To serve" }
+    ]
+  }
+}

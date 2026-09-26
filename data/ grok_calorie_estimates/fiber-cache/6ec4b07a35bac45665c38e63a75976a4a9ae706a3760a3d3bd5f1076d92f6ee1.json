@@ -1,0 +1,75 @@
+{
+  "inputHash": "6ec4b07a35bac45665c38e63a75976a4a9ae706a3760a3d3bd5f1076d92f6ee1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:01.517Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 2.3,
+      "fiberG": 0.2,
+      "assumptions": "1 tsp cornflour ≈ 3g per prior estimate; standard corn starch values"
+    },
+    {
+      "position": 2,
+      "carbsG": 10.8,
+      "fiberG": 0.4,
+      "assumptions": "Juice of 2 medium oranges ≈ 170ml total per prior estimate; standard orange juice values"
+    },
+    {
+      "position": 3,
+      "carbsG": 1.5,
+      "fiberG": 0.8,
+      "assumptions": "Zest of 1 medium orange ≈ 7g per prior estimate; standard orange peel values"
+    },
+    {
+      "position": 4,
+      "carbsG": 25,
+      "fiberG": 0,
+      "assumptions": "2 tbs caster sugar ≈ 25g per prior estimate; standard sucrose values"
+    },
+    {
+      "position": 5,
+      "carbsG": 60,
+      "fiberG": 9,
+      "assumptions": "6 medium peaches, raw, edible portion only ≈ 600g total per prior estimate; standard raw peach values"
+    },
+    {
+      "position": 6,
+      "carbsG": 37,
+      "fiberG": 6,
+      "assumptions": "250g raw blueberries as stated per prior estimate; standard blueberry values"
+    },
+    {
+      "position": 7,
+      "carbsG": 152,
+      "fiberG": 5,
+      "assumptions": "200g self-raising flour as stated per prior estimate; standard wheat flour values"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "50g butter as stated per prior estimate; pure fat, no carbs"
+    },
+    {
+      "position": 9,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "100g muscovado sugar as stated per prior estimate; standard brown sugar values"
+    },
+    {
+      "position": 10,
+      "carbsG": 1.6,
+      "fiberG": 1.1,
+      "assumptions": "1 tsp ground cinnamon ≈ 2.6g per prior estimate; standard cinnamon values"
+    },
+    {
+      "position": 11,
+      "carbsG": 7,
+      "fiberG": 0,
+      "assumptions": "6 tbsp whole milk ≈ 90ml per prior estimate; standard whole milk values"
+    }
+  ]
+}

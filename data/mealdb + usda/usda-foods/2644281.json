@@ -1,0 +1,3048 @@
+{
+  "source": "USDA FoodData Central",
+  "fetchedAt": "2026-09-26T17:49:40.833Z",
+  "sourceUrl": "https://fdc.nal.usda.gov/food-details/2644281/nutrients",
+  "food": {
+    "fdcId": 2644281,
+    "description": "Beans, cannellini, dry",
+    "publicationDate": "10/26/2023",
+    "foodNutrients": [
+      {
+        "nutrient": {
+          "id": 2045,
+          "number": "951",
+          "name": "Proximates",
+          "rank": 50,
+          "unitName": "g"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1051,
+          "number": "255",
+          "name": "Water",
+          "rank": 100,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293896,
+        "amount": 12.3,
+        "dataPoints": 8,
+        "max": 13.49,
+        "min": 10.96,
+        "median": 12.23,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2644520,
+            "nutrientId": 1051,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 11.76,
+            "labMethodTechnique": "Vacuum oven",
+            "labMethodDescription": "AOAC 934.06 mod",
+            "labMethodOriginalDescription": "AOAC 934.06 (37.1.10) Moisture in Fruits, Vegetables, and their Products",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644521,
+            "nutrientId": 1051,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 12.98,
+            "labMethodTechnique": "Vacuum oven",
+            "labMethodDescription": "AOAC 934.06 mod",
+            "labMethodOriginalDescription": "AOAC 934.06 (37.1.10) Moisture in Fruits, Vegetables, and their Products",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644522,
+            "nutrientId": 1051,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 12.83,
+            "labMethodTechnique": "Vacuum oven",
+            "labMethodDescription": "AOAC 934.06 mod",
+            "labMethodOriginalDescription": "AOAC 934.06 (37.1.10) Moisture in Fruits, Vegetables, and their Products",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644523,
+            "nutrientId": 1051,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 10.96,
+            "labMethodTechnique": "Vacuum oven",
+            "labMethodDescription": "AOAC 934.06 mod",
+            "labMethodOriginalDescription": "AOAC 934.06 (37.1.10) Moisture in Fruits, Vegetables, and their Products",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644524,
+            "nutrientId": 1051,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 12.37,
+            "labMethodTechnique": "Vacuum oven",
+            "labMethodDescription": "AOAC 934.06 mod",
+            "labMethodOriginalDescription": "AOAC 934.06 (37.1.10) Moisture in Fruits, Vegetables, and their Products",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644525,
+            "nutrientId": 1051,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 12.09,
+            "labMethodTechnique": "Vacuum oven",
+            "labMethodDescription": "AOAC 934.06 mod",
+            "labMethodOriginalDescription": "AOAC 934.06 (37.1.10) Moisture in Fruits, Vegetables, and their Products",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644526,
+            "nutrientId": 1051,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 13.49,
+            "labMethodTechnique": "Vacuum oven",
+            "labMethodDescription": "AOAC 934.06 mod",
+            "labMethodOriginalDescription": "AOAC 934.06 (37.1.10) Moisture in Fruits, Vegetables, and their Products",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644527,
+            "nutrientId": 1051,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 11.93,
+            "labMethodTechnique": "Vacuum oven",
+            "labMethodDescription": "AOAC 934.06 mod",
+            "labMethodOriginalDescription": "AOAC 934.06 (37.1.10) Moisture in Fruits, Vegetables, and their Products",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ]
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 2047,
+          "number": "957",
+          "name": "Energy (Atwater General Factors)",
+          "rank": 280,
+          "unitName": "kcal"
+        },
+        "foodNutrientDerivation": {
+          "id": 49,
+          "code": "NC",
+          "description": "Calculated",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 33293987,
+        "amount": 345.223,
+        "nutrientAnalysisDetails": []
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 2048,
+          "number": "958",
+          "name": "Energy (Atwater Specific Factors)",
+          "rank": 290,
+          "unitName": "kcal"
+        },
+        "foodNutrientDerivation": {
+          "id": 49,
+          "code": "NC",
+          "description": "Calculated",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 33293988,
+        "amount": 336.59519,
+        "nutrientAnalysisDetails": []
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1002,
+          "number": "202",
+          "name": "Nitrogen",
+          "rank": 500,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293891,
+        "amount": 3.45,
+        "dataPoints": 8,
+        "max": 3.83,
+        "min": 3.12,
+        "median": 3.4,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2645752,
+            "nutrientId": 1002,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 3.34,
+            "labMethodTechnique": "Kjeldahl",
+            "labMethodDescription": "AOAC 991.20",
+            "labMethodOriginalDescription": "991.20 Nitrogen (Total) in Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645755,
+            "nutrientId": 1002,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 3.12,
+            "labMethodTechnique": "Kjeldahl",
+            "labMethodDescription": "AOAC 991.20",
+            "labMethodOriginalDescription": "991.20 Nitrogen (Total) in Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645758,
+            "nutrientId": 1002,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 3.47,
+            "labMethodTechnique": "Kjeldahl",
+            "labMethodDescription": "AOAC 991.20",
+            "labMethodOriginalDescription": "991.20 Nitrogen (Total) in Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645761,
+            "nutrientId": 1002,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 3.82,
+            "labMethodTechnique": "Kjeldahl",
+            "labMethodDescription": "AOAC 991.20",
+            "labMethodOriginalDescription": "991.20 Nitrogen (Total) in Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645764,
+            "nutrientId": 1002,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 3.4,
+            "labMethodTechnique": "Kjeldahl",
+            "labMethodDescription": "AOAC 991.20",
+            "labMethodOriginalDescription": "991.20 Nitrogen (Total) in Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645767,
+            "nutrientId": 1002,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 3.4,
+            "labMethodTechnique": "Kjeldahl",
+            "labMethodDescription": "AOAC 991.20",
+            "labMethodOriginalDescription": "991.20 Nitrogen (Total) in Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645770,
+            "nutrientId": 1002,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 3.22,
+            "labMethodTechnique": "Kjeldahl",
+            "labMethodDescription": "AOAC 991.20",
+            "labMethodOriginalDescription": "991.20 Nitrogen (Total) in Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645773,
+            "nutrientId": 1002,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 3.83,
+            "labMethodTechnique": "Kjeldahl",
+            "labMethodDescription": "AOAC 991.20",
+            "labMethodOriginalDescription": "991.20 Nitrogen (Total) in Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ]
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1003,
+          "number": "203",
+          "name": "Protein",
+          "rank": 600,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 49,
+          "code": "NC",
+          "description": "Calculated",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 33293985,
+        "amount": 21.5625,
+        "max": 23.9375,
+        "min": 19.5,
+        "median": 21.25,
+        "nutrientAnalysisDetails": []
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1004,
+          "number": "204",
+          "name": "Total lipid (fat)",
+          "rank": 800,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293892,
+        "amount": 2.199,
+        "dataPoints": 8,
+        "max": 2.65,
+        "min": 2,
+        "median": 2.2,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2645753,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 2.2,
+            "labMethodTechnique": "Fat by Soxhlet extraction",
+            "labMethodDescription": "AOAC 948.22",
+            "labMethodOriginalDescription": "AOAC Official Method 948.22",
+            "labMethodLink": "https://www.aoac.org/official-methods-of-analysis-21st-edition-2019/"
+          },
+          {
+            "subSampleId": 2645756,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 2,
+            "labMethodTechnique": "Fat by Soxhlet extraction",
+            "labMethodDescription": "AOAC 948.22",
+            "labMethodOriginalDescription": "AOAC Official Method 948.22",
+            "labMethodLink": "https://www.aoac.org/official-methods-of-analysis-21st-edition-2019/"
+          },
+          {
+            "subSampleId": 2645759,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 2.2,
+            "labMethodTechnique": "Fat by Soxhlet extraction",
+            "labMethodDescription": "AOAC 948.22",
+            "labMethodOriginalDescription": "AOAC Official Method 948.22",
+            "labMethodLink": "https://www.aoac.org/official-methods-of-analysis-21st-edition-2019/"
+          },
+          {
+            "subSampleId": 2645762,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 2.23,
+            "labMethodTechnique": "Fat by Soxhlet extraction",
+            "labMethodDescription": "AOAC 948.22",
+            "labMethodOriginalDescription": "AOAC Official Method 948.22",
+            "labMethodLink": "https://www.aoac.org/official-methods-of-analysis-21st-edition-2019/"
+          },
+          {
+            "subSampleId": 2645765,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 2.65,
+            "labMethodTechnique": "Fat by Soxhlet extraction",
+            "labMethodDescription": "AOAC 948.22",
+            "labMethodOriginalDescription": "AOAC Official Method 948.22",
+            "labMethodLink": "https://www.aoac.org/official-methods-of-analysis-21st-edition-2019/"
+          },
+          {
+            "subSampleId": 2645768,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 2.2,
+            "labMethodTechnique": "Fat by Soxhlet extraction",
+            "labMethodDescription": "AOAC 948.22",
+            "labMethodOriginalDescription": "AOAC Official Method 948.22",
+            "labMethodLink": "https://www.aoac.org/official-methods-of-analysis-21st-edition-2019/"
+          },
+          {
+            "subSampleId": 2645771,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 2.11,
+            "labMethodTechnique": "Fat by Soxhlet extraction",
+            "labMethodDescription": "AOAC 948.22",
+            "labMethodOriginalDescription": "AOAC Official Method 948.22",
+            "labMethodLink": "https://www.aoac.org/official-methods-of-analysis-21st-edition-2019/"
+          },
+          {
+            "subSampleId": 2645774,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 2,
+            "labMethodTechnique": "Fat by Soxhlet extraction",
+            "labMethodDescription": "AOAC 948.22",
+            "labMethodOriginalDescription": "AOAC Official Method 948.22",
+            "labMethodLink": "https://www.aoac.org/official-methods-of-analysis-21st-edition-2019/"
+          }
+        ]
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1007,
+          "number": "207",
+          "name": "Ash",
+          "rank": 1000,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293894,
+        "amount": 4.143,
+        "dataPoints": 8,
+        "max": 4.36,
+        "min": 3.87,
+        "median": 4.13,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2645754,
+            "nutrientId": 1007,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 4.11,
+            "labMethodTechnique": "Gravimetric",
+            "labMethodDescription": "AOAC 945.46",
+            "labMethodOriginalDescription": "945.46 Ash of Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645757,
+            "nutrientId": 1007,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 3.87,
+            "labMethodTechnique": "Gravimetric",
+            "labMethodDescription": "AOAC 945.46",
+            "labMethodOriginalDescription": "945.46 Ash of Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645760,
+            "nutrientId": 1007,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 4.03,
+            "labMethodTechnique": "Gravimetric",
+            "labMethodDescription": "AOAC 945.46",
+            "labMethodOriginalDescription": "945.46 Ash of Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645763,
+            "nutrientId": 1007,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 4.24,
+            "labMethodTechnique": "Gravimetric",
+            "labMethodDescription": "AOAC 945.46",
+            "labMethodOriginalDescription": "945.46 Ash of Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645766,
+            "nutrientId": 1007,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 4.27,
+            "labMethodTechnique": "Gravimetric",
+            "labMethodDescription": "AOAC 945.46",
+            "labMethodOriginalDescription": "945.46 Ash of Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645769,
+            "nutrientId": 1007,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 4.14,
+            "labMethodTechnique": "Gravimetric",
+            "labMethodDescription": "AOAC 945.46",
+            "labMethodOriginalDescription": "945.46 Ash of Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645772,
+            "nutrientId": 1007,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 4.12,
+            "labMethodTechnique": "Gravimetric",
+            "labMethodDescription": "AOAC 945.46",
+            "labMethodOriginalDescription": "945.46 Ash of Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645775,
+            "nutrientId": 1007,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 4.36,
+            "labMethodTechnique": "Gravimetric",
+            "labMethodDescription": "AOAC 945.46",
+            "labMethodOriginalDescription": "945.46 Ash of Milk",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ]
+      },
+      {
+        "nutrient": {
+          "id": 2039,
+          "number": "956",
+          "name": "Carbohydrates",
+          "rank": 1100,
+          "unitName": "g"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1005,
+          "number": "205",
+          "name": "Carbohydrate, by difference",
+          "rank": 1110,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 49,
+          "code": "NC",
+          "description": "Calculated",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 33293986,
+        "amount": 59.7955,
+        "nutrientAnalysisDetails": []
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1009,
+          "number": "209",
+          "name": "Starch",
+          "rank": 2200,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293895,
+        "amount": 29.87,
+        "dataPoints": 8,
+        "max": 32.42,
+        "min": 28.16,
+        "median": 29.35,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2645640,
+            "nutrientId": 1009,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 30.46,
+            "labMethodTechnique": "Enzymatic-spectrometric",
+            "labMethodDescription": "AOAC 979.10",
+            "labMethodOriginalDescription": "979.10 (32.2.05) Starch in Cereals, Glucoamylase Method",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645641,
+            "nutrientId": 1009,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 31.81,
+            "labMethodTechnique": "Enzymatic-spectrometric",
+            "labMethodDescription": "AOAC 979.10",
+            "labMethodOriginalDescription": "979.10 (32.2.05) Starch in Cereals, Glucoamylase Method",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645642,
+            "nutrientId": 1009,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 29.67,
+            "labMethodTechnique": "Enzymatic-spectrometric",
+            "labMethodDescription": "AOAC 979.10",
+            "labMethodOriginalDescription": "979.10 (32.2.05) Starch in Cereals, Glucoamylase Method",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645643,
+            "nutrientId": 1009,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 29.03,
+            "labMethodTechnique": "Enzymatic-spectrometric",
+            "labMethodDescription": "AOAC 979.10",
+            "labMethodOriginalDescription": "979.10 (32.2.05) Starch in Cereals, Glucoamylase Method",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645644,
+            "nutrientId": 1009,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 28.47,
+            "labMethodTechnique": "Enzymatic-spectrometric",
+            "labMethodDescription": "AOAC 979.10",
+            "labMethodOriginalDescription": "979.10 (32.2.05) Starch in Cereals, Glucoamylase Method",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645645,
+            "nutrientId": 1009,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 28.94,
+            "labMethodTechnique": "Enzymatic-spectrometric",
+            "labMethodDescription": "AOAC 979.10",
+            "labMethodOriginalDescription": "979.10 (32.2.05) Starch in Cereals, Glucoamylase Method",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645646,
+            "nutrientId": 1009,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 32.42,
+            "labMethodTechnique": "Enzymatic-spectrometric",
+            "labMethodDescription": "AOAC 979.10",
+            "labMethodOriginalDescription": "979.10 (32.2.05) Starch in Cereals, Glucoamylase Method",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2645647,
+            "nutrientId": 1009,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 28.16,
+            "labMethodTechnique": "Enzymatic-spectrometric",
+            "labMethodDescription": "AOAC 979.10",
+            "labMethodOriginalDescription": "979.10 (32.2.05) Starch in Cereals, Glucoamylase Method",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ]
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1071,
+          "number": "283",
+          "name": "Resistant starch",
+          "rank": 2225,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 34673982,
+        "amount": 33,
+        "dataPoints": 8,
+        "max": 37,
+        "min": 31,
+        "median": 33,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2726511,
+            "nutrientId": 1071,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 34,
+            "labMethodTechnique": "Enzymatic",
+            "labMethodDescription": "Resistant Starch",
+            "labMethodOriginalDescription": "Samples are digested with pancreatic alpha-amylase and amyloglucosidase with incubation conditions similar to AOAC 2017.16 for dietary fiber (McCleary et al., 2002) to remove digestible starch, recovery of the non-digestible (resistant) starch, hydrolysis of the resistant starch with 1.7N sodium hydroxide, then quantitation of D-glucose using a spectrophotometric assay, with resistant starch calculated from measured glucose, using the Megazyme (Neogen®) Rapid Resistant Starch kit (K-RAPRS).",
+            "labMethodLink": "Measurement of Resistant Starch by Enzymatic Digestion in Starch and Selected Plant Materials: Collaborative Study "
+          },
+          {
+            "subSampleId": 2726512,
+            "nutrientId": 1071,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 37,
+            "labMethodTechnique": "Enzymatic",
+            "labMethodDescription": "Resistant Starch",
+            "labMethodOriginalDescription": "Samples are digested with pancreatic alpha-amylase and amyloglucosidase with incubation conditions similar to AOAC 2017.16 for dietary fiber (McCleary et al., 2002) to remove digestible starch, recovery of the non-digestible (resistant) starch, hydrolysis of the resistant starch with 1.7N sodium hydroxide, then quantitation of D-glucose using a spectrophotometric assay, with resistant starch calculated from measured glucose, using the Megazyme (Neogen®) Rapid Resistant Starch kit (K-RAPRS).",
+            "labMethodLink": "Measurement of Resistant Starch by Enzymatic Digestion in Starch and Selected Plant Materials: Collaborative Study "
+          },
+          {
+            "subSampleId": 2726513,
+            "nutrientId": 1071,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 33,
+            "labMethodTechnique": "Enzymatic",
+            "labMethodDescription": "Resistant Starch",
+            "labMethodOriginalDescription": "Samples are digested with pancreatic alpha-amylase and amyloglucosidase with incubation conditions similar to AOAC 2017.16 for dietary fiber (McCleary et al., 2002) to remove digestible starch, recovery of the non-digestible (resistant) starch, hydrolysis of the resistant starch with 1.7N sodium hydroxide, then quantitation of D-glucose using a spectrophotometric assay, with resistant starch calculated from measured glucose, using the Megazyme (Neogen®) Rapid Resistant Starch kit (K-RAPRS).",
+            "labMethodLink": "Measurement of Resistant Starch by Enzymatic Digestion in Starch and Selected Plant Materials: Collaborative Study "
+          },
+          {
+            "subSampleId": 2726514,
+            "nutrientId": 1071,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 32,
+            "labMethodTechnique": "Enzymatic",
+            "labMethodDescription": "Resistant Starch",
+            "labMethodOriginalDescription": "Samples are digested with pancreatic alpha-amylase and amyloglucosidase with incubation conditions similar to AOAC 2017.16 for dietary fiber (McCleary et al., 2002) to remove digestible starch, recovery of the non-digestible (resistant) starch, hydrolysis of the resistant starch with 1.7N sodium hydroxide, then quantitation of D-glucose using a spectrophotometric assay, with resistant starch calculated from measured glucose, using the Megazyme (Neogen®) Rapid Resistant Starch kit (K-RAPRS).",
+            "labMethodLink": "Measurement of Resistant Starch by Enzymatic Digestion in Starch and Selected Plant Materials: Collaborative Study "
+          },
+          {
+            "subSampleId": 2726515,
+            "nutrientId": 1071,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 33,
+            "labMethodTechnique": "Enzymatic",
+            "labMethodDescription": "Resistant Starch",
+            "labMethodOriginalDescription": "Samples are digested with pancreatic alpha-amylase and amyloglucosidase with incubation conditions similar to AOAC 2017.16 for dietary fiber (McCleary et al., 2002) to remove digestible starch, recovery of the non-digestible (resistant) starch, hydrolysis of the resistant starch with 1.7N sodium hydroxide, then quantitation of D-glucose using a spectrophotometric assay, with resistant starch calculated from measured glucose, using the Megazyme (Neogen®) Rapid Resistant Starch kit (K-RAPRS).",
+            "labMethodLink": "Measurement of Resistant Starch by Enzymatic Digestion in Starch and Selected Plant Materials: Collaborative Study "
+          },
+          {
+            "subSampleId": 2726516,
+            "nutrientId": 1071,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 32,
+            "labMethodTechnique": "Enzymatic",
+            "labMethodDescription": "Resistant Starch",
+            "labMethodOriginalDescription": "Samples are digested with pancreatic alpha-amylase and amyloglucosidase with incubation conditions similar to AOAC 2017.16 for dietary fiber (McCleary et al., 2002) to remove digestible starch, recovery of the non-digestible (resistant) starch, hydrolysis of the resistant starch with 1.7N sodium hydroxide, then quantitation of D-glucose using a spectrophotometric assay, with resistant starch calculated from measured glucose, using the Megazyme (Neogen®) Rapid Resistant Starch kit (K-RAPRS).",
+            "labMethodLink": "Measurement of Resistant Starch by Enzymatic Digestion in Starch and Selected Plant Materials: Collaborative Study "
+          },
+          {
+            "subSampleId": 2726517,
+            "nutrientId": 1071,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 34,
+            "labMethodTechnique": "Enzymatic",
+            "labMethodDescription": "Resistant Starch",
+            "labMethodOriginalDescription": "Samples are digested with pancreatic alpha-amylase and amyloglucosidase with incubation conditions similar to AOAC 2017.16 for dietary fiber (McCleary et al., 2002) to remove digestible starch, recovery of the non-digestible (resistant) starch, hydrolysis of the resistant starch with 1.7N sodium hydroxide, then quantitation of D-glucose using a spectrophotometric assay, with resistant starch calculated from measured glucose, using the Megazyme (Neogen®) Rapid Resistant Starch kit (K-RAPRS).",
+            "labMethodLink": "Measurement of Resistant Starch by Enzymatic Digestion in Starch and Selected Plant Materials: Collaborative Study "
+          },
+          {
+            "subSampleId": 2726518,
+            "nutrientId": 1071,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 31,
+            "labMethodTechnique": "Enzymatic",
+            "labMethodDescription": "Resistant Starch",
+            "labMethodOriginalDescription": "Samples are digested with pancreatic alpha-amylase and amyloglucosidase with incubation conditions similar to AOAC 2017.16 for dietary fiber (McCleary et al., 2002) to remove digestible starch, recovery of the non-digestible (resistant) starch, hydrolysis of the resistant starch with 1.7N sodium hydroxide, then quantitation of D-glucose using a spectrophotometric assay, with resistant starch calculated from measured glucose, using the Megazyme (Neogen®) Rapid Resistant Starch kit (K-RAPRS).",
+            "labMethodLink": "Measurement of Resistant Starch by Enzymatic Digestion in Starch and Selected Plant Materials: Collaborative Study "
+          }
+        ]
+      },
+      {
+        "nutrient": {
+          "id": 2043,
+          "number": "300",
+          "name": "Minerals",
+          "rank": 5200,
+          "unitName": "mg"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1087,
+          "number": "301",
+          "name": "Calcium, Ca",
+          "rank": 5300,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293897,
+        "amount": 142.9,
+        "dataPoints": 8,
+        "max": 184.5,
+        "min": 103,
+        "median": 136,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2644632,
+            "nutrientId": 1087,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 128,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644641,
+            "nutrientId": 1087,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 103,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644650,
+            "nutrientId": 1087,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 125,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644659,
+            "nutrientId": 1087,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 134,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644668,
+            "nutrientId": 1087,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 184.5,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644677,
+            "nutrientId": 1087,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 181,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644686,
+            "nutrientId": 1087,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 150,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644695,
+            "nutrientId": 1087,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 138,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ]
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1089,
+          "number": "303",
+          "name": "Iron, Fe",
+          "rank": 5400,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293884,
+        "amount": 6.673,
+        "dataPoints": 8,
+        "max": 8.57,
+        "min": 5.26,
+        "median": 6.565,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2644633,
+            "nutrientId": 1089,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 5.26,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644642,
+            "nutrientId": 1089,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 5.82,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644651,
+            "nutrientId": 1089,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 7.06,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644660,
+            "nutrientId": 1089,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 7.41,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644669,
+            "nutrientId": 1089,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 6.16,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644678,
+            "nutrientId": 1089,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 6.13,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644687,
+            "nutrientId": 1089,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 6.97,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644696,
+            "nutrientId": 1089,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 8.57,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ]
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1090,
+          "number": "304",
+          "name": "Magnesium, Mg",
+          "rank": 5500,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293885,
+        "amount": 153.6,
+        "dataPoints": 8,
+        "max": 160,
+        "min": 142,
+        "median": 154,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2644634,
+            "nutrientId": 1090,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 160,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644643,
+            "nutrientId": 1090,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 154,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644652,
+            "nutrientId": 1090,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 158,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644661,
+            "nutrientId": 1090,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 157,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644670,
+            "nutrientId": 1090,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 154,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644679,
+            "nutrientId": 1090,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 152,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644688,
+            "nutrientId": 1090,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 142,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644697,
+            "nutrientId": 1090,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 152,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ]
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1091,
+          "number": "305",
+          "name": "Phosphorus, P",
+          "rank": 5600,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293886,
+        "amount": 412.3,
+        "dataPoints": 8,
+        "max": 481,
+        "min": 337,
+        "median": 426.5,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2644635,
+            "nutrientId": 1091,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 457,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644644,
+            "nutrientId": 1091,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 363,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644653,
+            "nutrientId": 1091,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 444,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644662,
+            "nutrientId": 1091,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 463,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644671,
+            "nutrientId": 1091,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 344,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644680,
+            "nutrientId": 1091,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 337,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644689,
+            "nutrientId": 1091,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 409,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644698,
+            "nutrientId": 1091,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 481,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ]
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1092,
+          "number": "306",
+          "name": "Potassium, K",
+          "rank": 5700,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293887,
+        "amount": 1424,
+        "dataPoints": 8,
+        "max": 1480,
+        "min": 1380,
+        "median": 1415,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2644636,
+            "nutrientId": 1092,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 1460,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644645,
+            "nutrientId": 1092,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 1410,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644654,
+            "nutrientId": 1092,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 1400,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644663,
+            "nutrientId": 1092,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 1420,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644672,
+            "nutrientId": 1092,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 1445,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644681,
+            "nutrientId": 1092,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 1400,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644690,
+            "nutrientId": 1092,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 1380,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644699,
+            "nutrientId": 1092,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 1480,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ]
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1093,
+          "number": "307",
+          "name": "Sodium, Na",
+          "rank": 5800,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293888,
+        "amount": 0,
+        "dataPoints": 8,
+        "max": 0,
+        "min": 0,
+        "median": 0,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2644637,
+            "nutrientId": 1093,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 0,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "loq": 2.5,
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644646,
+            "nutrientId": 1093,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 0,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "loq": 2.5,
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644655,
+            "nutrientId": 1093,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 0,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "loq": 2.5,
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644664,
+            "nutrientId": 1093,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 0,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "loq": 2.5,
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644673,
+            "nutrientId": 1093,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 0,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "loq": 2.5,
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644682,
+            "nutrientId": 1093,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 0,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "loq": 2.5,
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644691,
+            "nutrientId": 1093,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 0,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "loq": 2.5,
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644700,
+            "nutrientId": 1093,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 0,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "loq": 2.5,
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ],
+        "loq": 2.5
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1095,
+          "number": "309",
+          "name": "Zinc, Zn",
+          "rank": 5900,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293889,
+        "amount": 2.72,
+        "dataPoints": 8,
+        "max": 3.25,
+        "min": 2.14,
+        "median": 2.825,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2644638,
+            "nutrientId": 1095,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 2.58,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644647,
+            "nutrientId": 1095,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 2.88,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644656,
+            "nutrientId": 1095,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 2.87,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644665,
+            "nutrientId": 1095,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 3.07,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644674,
+            "nutrientId": 1095,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 2.19,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644683,
+            "nutrientId": 1095,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 2.14,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644692,
+            "nutrientId": 1095,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 2.78,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644701,
+            "nutrientId": 1095,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 3.25,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ]
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1098,
+          "number": "312",
+          "name": "Copper, Cu",
+          "rank": 6000,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293890,
+        "amount": 0.7419,
+        "dataPoints": 8,
+        "max": 0.882,
+        "min": 0.578,
+        "median": 0.7685,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2644639,
+            "nutrientId": 1098,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 0.738,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644648,
+            "nutrientId": 1098,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 0.578,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644657,
+            "nutrientId": 1098,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 0.626,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644666,
+            "nutrientId": 1098,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 0.602,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644675,
+            "nutrientId": 1098,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 0.867,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644684,
+            "nutrientId": 1098,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 0.882,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644693,
+            "nutrientId": 1098,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 0.799,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644702,
+            "nutrientId": 1098,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 0.843,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ]
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1101,
+          "number": "315",
+          "name": "Manganese, Mn",
+          "rank": 6100,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33293893,
+        "amount": 1.784,
+        "dataPoints": 8,
+        "max": 2.28,
+        "min": 1.38,
+        "median": 1.675,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2644640,
+            "nutrientId": 1101,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644295,
+                "purchaseDate": "5/1/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Milwaukie",
+                "packerState": "OR"
+              }
+            ],
+            "amount": 1.38,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644649,
+            "nutrientId": 1101,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644297,
+                "purchaseDate": "5/15/2023",
+                "storeCity": "Columbia",
+                "storeState": "MD",
+                "packerCity": "Jersey City",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 2.28,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644658,
+            "nutrientId": 1101,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644299,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "New Orleans",
+                "packerState": "LA"
+              }
+            ],
+            "amount": 1.59,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644667,
+            "nutrientId": 1101,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644301,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Richmond Hill",
+                "packerState": "Canada"
+              }
+            ],
+            "amount": 1.76,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644676,
+            "nutrientId": 1101,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644303,
+                "purchaseDate": "5/17/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Merrill",
+                "packerState": "WI"
+              }
+            ],
+            "amount": 2.09,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644685,
+            "nutrientId": 1101,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644305,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Cranford",
+                "packerState": "NJ"
+              }
+            ],
+            "amount": 2.07,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644694,
+            "nutrientId": 1101,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644307,
+                "purchaseDate": "5/16/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Lignana",
+                "packerState": "Italy"
+              }
+            ],
+            "amount": 1.55,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2644703,
+            "nutrientId": 1101,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2644309,
+                "purchaseDate": "5/25/2023",
+                "storeCity": "",
+                "storeState": "",
+                "packerCity": "Orlando",
+                "packerState": "FL"
+              }
+            ],
+            "amount": 1.55,
+            "labMethodTechnique": "ICP",
+            "labMethodDescription": "AOAC 985.01 + 984.27",
+            "labMethodOriginalDescription": "Covance modified 985.01 (3.2.06) + 984.27 (50.1.15) Metals in Food by ICP",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ]
+      }
+    ],
+    "foodPortions": [
+      {
+        "id": 312688,
+        "dataPoints": 0,
+        "gramWeight": 35,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ],
+    "dataType": "Foundation",
+    "foodClass": "FinalFood",
+    "inputFoods": [
+      {
+        "id": 123947,
+        "foodDescription": "beans, cannellini, dry",
+        "inputFood": {
+          "fdcId": 2644296,
+          "description": "beans, cannellini, dry",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 16,
+            "code": "1600",
+            "description": "Legumes and Legume Products"
+          }
+        }
+      },
+      {
+        "id": 123946,
+        "foodDescription": "beans, cannellini, dry",
+        "inputFood": {
+          "fdcId": 2644306,
+          "description": "beans, cannellini, dry",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 16,
+            "code": "1600",
+            "description": "Legumes and Legume Products"
+          }
+        }
+      },
+      {
+        "id": 123945,
+        "foodDescription": "beans, cannellini, dry",
+        "inputFood": {
+          "fdcId": 2644304,
+          "description": "beans, cannellini, dry",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 16,
+            "code": "1600",
+            "description": "Legumes and Legume Products"
+          }
+        }
+      },
+      {
+        "id": 123944,
+        "foodDescription": "beans, cannellini, dry",
+        "inputFood": {
+          "fdcId": 2644310,
+          "description": "beans, cannellini, dry",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 16,
+            "code": "1600",
+            "description": "Legumes and Legume Products"
+          }
+        }
+      },
+      {
+        "id": 123943,
+        "foodDescription": "beans, cannellini, dry",
+        "inputFood": {
+          "fdcId": 2644308,
+          "description": "beans, cannellini, dry",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 16,
+            "code": "1600",
+            "description": "Legumes and Legume Products"
+          }
+        }
+      },
+      {
+        "id": 123942,
+        "foodDescription": "beans, cannellini, dry",
+        "inputFood": {
+          "fdcId": 2644298,
+          "description": "beans, cannellini, dry",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 16,
+            "code": "1600",
+            "description": "Legumes and Legume Products"
+          }
+        }
+      },
+      {
+        "id": 123941,
+        "foodDescription": "beans, cannellini, dry",
+        "inputFood": {
+          "fdcId": 2644302,
+          "description": "beans, cannellini, dry",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 16,
+            "code": "1600",
+            "description": "Legumes and Legume Products"
+          }
+        }
+      },
+      {
+        "id": 123940,
+        "foodDescription": "beans, cannellini, dry",
+        "inputFood": {
+          "fdcId": 2644300,
+          "description": "beans, cannellini, dry",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 16,
+            "code": "1600",
+            "description": "Legumes and Legume Products"
+          }
+        }
+      }
+    ],
+    "foodComponents": [],
+    "foodAttributes": [],
+    "nutrientConversionFactors": [
+      {
+        "id": 23034,
+        "value": 6.25,
+        "type": ".ProteinConversionFactor",
+        "name": "Protein From Nitrogen"
+      },
+      {
+        "id": 23020,
+        "proteinValue": 3.47,
+        "fatValue": 8.37,
+        "carbohydrateValue": 4.07,
+        "type": ".CalorieConversionFactor",
+        "name": "Calories From Proximates"
+      }
+    ],
+    "ndbNumber": 100310,
+    "isHistoricalReference": false,
+    "foodCategory": {
+      "id": 16,
+      "code": "1600",
+      "description": "Legumes and Legume Products"
+    }
+  }
+}

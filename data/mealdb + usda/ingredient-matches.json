@@ -1,0 +1,851 @@
+[
+  {
+    "slug": "all-purpose-flour",
+    "aliases": [
+      "plain flour",
+      "all purpose flour",
+      "all-purpose flour",
+      "flour"
+    ],
+    "kind": "proxy",
+    "notes": "Assumes all-purpose wheat flour; unspecified enrichment/bleaching is approximated."
+  },
+  {
+    "slug": "sugar-granulated",
+    "aliases": [
+      "sugar",
+      "granulated sugar",
+      "caster sugar",
+      "golden caster sugar"
+    ],
+    "kind": "proxy",
+    "notes": "Uses granulated sugar; caster grain size and golden formulation are approximate."
+  },
+  {
+    "slug": "butter-unsalted",
+    "aliases": ["unsalted butter", "butter", "melted butter", "chilled butter"],
+    "kind": "proxy",
+    "notes": "Assumes unsalted dairy butter; melted volumes need explicit mass or matching portion."
+  },
+  {
+    "slug": "butter-stick-salted",
+    "aliases": ["salted butter"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "olive-oil-extra-virgin",
+    "aliases": ["olive oil", "extra virgin olive oil"],
+    "kind": "proxy",
+    "notes": "Uses extra-virgin olive oil for generic olive oil."
+  },
+  {
+    "slug": "canola-oil",
+    "aliases": ["canola oil", "rapeseed oil"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "oil-sunflower",
+    "aliases": ["sunflower oil"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "oil-peanut",
+    "aliases": ["peanut oil", "ground nut oil"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "oil-coconut",
+    "aliases": ["coconut oil"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "oil-corn",
+    "aliases": ["corn oil"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "oil-soybean",
+    "aliases": ["soybean oil"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "salt-iodized",
+    "aliases": ["salt", "table salt", "sea salt", "kosher salt"],
+    "kind": "proxy",
+    "notes": "Uses iodized table salt. Volume conversions are disabled for different crystal sizes; mass conversions remain usable."
+  },
+  {
+    "slug": "garlic-raw",
+    "aliases": ["garlic", "garlic clove", "garlic cloves", "minced garlic"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "yellow-onion-raw",
+    "aliases": ["onion", "onions", "chopped onion"],
+    "kind": "proxy",
+    "notes": "Assumes raw yellow onion, edible portion; variety unspecified."
+  },
+  {
+    "slug": "onions-red-raw",
+    "aliases": ["red onion", "red onions"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "onions-white-raw",
+    "aliases": ["white onion", "white onions"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "green-onion-scallion-bulb-and-greens-root-removed-raw",
+    "aliases": ["spring onions", "spring onion", "scallions"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "shallots-bulb-peeled-root-removed-raw",
+    "aliases": ["shallots", "shallot", "challots"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "eggs-whole",
+    "aliases": [
+      "egg",
+      "eggs",
+      "free-range eggs, beaten",
+      "free-range egg, beaten"
+    ],
+    "kind": "proxy",
+    "notes": "Assumes whole large chicken eggs without shells. Yolk/white-only measurements require a different match."
+  },
+  {
+    "slug": "eggs-grade-a-large-egg-yolk",
+    "aliases": ["egg yolk", "egg yolks"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "eggs-grade-a-large-egg-white",
+    "aliases": ["egg white", "egg whites"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "milk-whole",
+    "aliases": ["milk", "whole milk"],
+    "kind": "proxy",
+    "notes": "Uses whole milk when fat percentage is unspecified."
+  },
+  {
+    "slug": "milk-nonfat-fluid-with-added-vitamin-a-and-vitamin-d-fat-free-or-skim",
+    "aliases": ["skimmed milk", "skim milk"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "sweetened-condensed-milk",
+    "aliases": ["condensed milk", "sweetened condensed milk"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "heavy-cream",
+    "aliases": ["heavy cream"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "sour-cream",
+    "aliases": ["sour cream", "soured cream"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "cream-cheese",
+    "aliases": ["cream cheese"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "greek-yogurt-plain-whole-milk",
+    "aliases": ["greek yogurt"],
+    "kind": "proxy",
+    "notes": "Assumes plain whole-milk Greek yogurt."
+  },
+  {
+    "slug": "yogurt-plain-whole-milk",
+    "aliases": ["yogurt", "natural yoghurt", "plain yogurt", "full fat yogurt"],
+    "kind": "proxy",
+    "notes": "Assumes plain whole-milk yogurt."
+  },
+  {
+    "slug": "buttermilk-low-fat",
+    "aliases": ["buttermilk"],
+    "kind": "proxy",
+    "notes": "Assumes low-fat buttermilk."
+  },
+  {
+    "slug": "cheddar-cheese",
+    "aliases": ["cheddar cheese", "cheddar"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "cheese-monterey-jack-solid",
+    "aliases": ["monterey jack cheese", "shredded monterey jack cheese"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "parmesan-grated",
+    "aliases": ["parmesan", "parmesan cheese", "parmigiano-reggiano"],
+    "kind": "proxy",
+    "notes": "Uses grated Parmesan; variant and grating density can differ."
+  },
+  {
+    "slug": "cheese-ricotta-whole-milk",
+    "aliases": ["ricotta"],
+    "kind": "proxy",
+    "notes": "Assumes whole-milk ricotta."
+  },
+  {
+    "slug": "cheese-feta-whole-milk-crumbled",
+    "aliases": ["feta", "feta cheese", "cubed feta cheese"],
+    "kind": "proxy",
+    "notes": "Uses whole-milk crumbled feta."
+  },
+  {
+    "slug": "chicken-breast-raw",
+    "aliases": ["chicken breast", "chicken breasts"],
+    "kind": "proxy",
+    "notes": "Assumes raw boneless skinless breast; bone/skin and cooked quantities are not interchangeable."
+  },
+  {
+    "slug": "chicken-thigh-raw",
+    "aliases": ["chicken thighs", "chicken thigh"],
+    "kind": "proxy",
+    "notes": "Assumes raw boneless skinless thigh; bone-in and skin-on weights require review."
+  },
+  {
+    "slug": "pork-ground-raw",
+    "aliases": ["ground pork", "minced pork"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "ground-beef-90-lean-raw",
+    "aliases": ["ground beef", "minced beef", "lean minced beef"],
+    "kind": "proxy",
+    "notes": "Assumes raw 90% lean ground beef; actual fat percentage may differ."
+  },
+  {
+    "slug": "beef-top-sirloin-steak-raw",
+    "aliases": ["sirloin steak"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "beef-flank-steak-boneless-choice-raw",
+    "aliases": ["flank steak"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "pork-loin-tenderloin-boneless-raw",
+    "aliases": ["pork tenderloin"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "shrimp-raw",
+    "aliases": [
+      "shrimp",
+      "prawns",
+      "king prawns",
+      "jumbo shrimp",
+      "raw king prawns",
+      "raw tiger prawns",
+      "tiger prawns"
+    ],
+    "kind": "proxy",
+    "notes": "Assumes raw edible shrimp; shell-on weight is not edible weight."
+  },
+  {
+    "slug": "salmon-atlantic-raw",
+    "aliases": ["salmon", "salmon fillet"],
+    "kind": "proxy",
+    "notes": "Assumes raw farmed Atlantic salmon; species and preparation unspecified."
+  },
+  {
+    "slug": "carrots-raw",
+    "aliases": ["carrot", "carrots"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "broccoli-raw",
+    "aliases": ["broccoli", "purple sprouting broccoli"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "cauliflower-raw",
+    "aliases": ["cauliflower"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "celery-raw",
+    "aliases": ["celery"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "green-cabbage-raw",
+    "aliases": ["cabbage", "white cabbage", "cabbage leaves"],
+    "kind": "proxy",
+    "notes": "Assumes raw green cabbage."
+  },
+  {
+    "slug": "cabbage-red-raw",
+    "aliases": ["red cabbage"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "cabbage-bok-choy-raw",
+    "aliases": ["pak choi", "bok choy"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "cabbage-napa-leaf-destemmed-raw",
+    "aliases": ["napa cabbage", "chinese leaf"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "eggplant-raw",
+    "aliases": ["aubergine", "aubergines", "egg plants", "eggplant"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "zucchini-raw",
+    "aliases": ["zucchini", "courgette", "courgettes"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "butternut-squash-raw",
+    "aliases": ["butternut squash"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "pumpkin-peeled-raw",
+    "aliases": ["pumpkin"],
+    "kind": "proxy",
+    "notes": "Assumes raw peeled pie pumpkin; canned puree is a different preparation."
+  },
+  {
+    "slug": "russet-potato-peeled-raw",
+    "aliases": ["potato", "potatoes", "russet potato", "small potatoes"],
+    "kind": "proxy",
+    "notes": "Assumes raw peeled russet potato; variety and peel unspecified."
+  },
+  {
+    "slug": "sweet-potato-peeled-raw",
+    "aliases": ["sweet potato", "sweet potatoes"],
+    "kind": "proxy",
+    "notes": "Assumes raw peeled orange-flesh sweet potato."
+  },
+  {
+    "slug": "green-beans-raw",
+    "aliases": ["green beans"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "kale-raw",
+    "aliases": ["kale"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "spinach-mature",
+    "aliases": ["spinach"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "spinach-baby",
+    "aliases": ["baby spinach"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "red-bell-pepper-raw",
+    "aliases": ["red pepper", "red peppers"],
+    "kind": "proxy",
+    "notes": "Assumes fresh red bell pepper; spice powder and chilli require separate matches."
+  },
+  {
+    "slug": "green-bell-pepper-raw",
+    "aliases": ["green pepper", "green peppers"],
+    "kind": "proxy",
+    "notes": "Assumes fresh green bell pepper, not hot chilli."
+  },
+  {
+    "slug": "peppers-bell-yellow-raw",
+    "aliases": ["yellow pepper"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "tomato-roma",
+    "aliases": ["tomato", "tomatoes", "plum tomatoes"],
+    "kind": "proxy",
+    "notes": "Assumes raw Roma tomatoes. Canned/drained preparations require separate matches."
+  },
+  {
+    "slug": "tomatoes-grape-raw",
+    "aliases": ["grape tomatoes", "cherry tomatoes", "baby plum tomatoes"],
+    "kind": "proxy",
+    "notes": "Uses raw grape tomatoes for small fresh tomatoes."
+  },
+  {
+    "slug": "tomatoes-canned-red-ripe-diced",
+    "aliases": ["diced tomatoes", "canned tomatoes", "tinned tomatos"],
+    "kind": "proxy",
+    "notes": "Uses canned diced tomatoes; formulation and drained weight need review."
+  },
+  {
+    "slug": "tomatoes-crushed-canned",
+    "aliases": ["crushed tomatoes"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "tomato-paste-unsalted",
+    "aliases": ["tomato paste"],
+    "kind": "proxy",
+    "notes": "Uses unsalted canned tomato paste."
+  },
+  {
+    "slug": "cucumber-with-peel-raw",
+    "aliases": ["cucumber"],
+    "kind": "proxy",
+    "notes": "Uses raw cucumber with peel; peeled preparation differs."
+  },
+  {
+    "slug": "fennel-bulb-raw",
+    "aliases": ["fennel bulb", "fennel"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "white-button-mushrooms",
+    "aliases": ["mushrooms", "chestnut mushroom"],
+    "kind": "proxy",
+    "notes": "Assumes fresh white button mushrooms, not dried."
+  },
+  {
+    "slug": "mushrooms-shiitake",
+    "aliases": ["shiitake mushrooms"],
+    "kind": "proxy",
+    "notes": "Assumes fresh shiitake, not dried."
+  },
+  {
+    "slug": "leeks-raw",
+    "aliases": ["leek", "leeks"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "beets-raw",
+    "aliases": ["beetroot"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "parsnips-raw",
+    "aliases": ["parsnips"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "asparagus-raw",
+    "aliases": ["asparagus"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "lettuce-iceberg-raw",
+    "aliases": ["iceberg lettuce"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "arugula-baby-raw",
+    "aliases": ["rocket"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "banana-ripe-raw",
+    "aliases": ["banana", "bananas"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "strawberries-raw",
+    "aliases": ["strawberries"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "raspberries-raw",
+    "aliases": ["raspberries"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "blueberries-raw",
+    "aliases": ["blueberries"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "blackberries-raw",
+    "aliases": ["blackberries"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "apples-granny-smith-with-skin-raw",
+    "aliases": ["granny smith apples"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "apple-gala-with-skin-raw",
+    "aliases": ["apples", "apple", "braeburn apples"],
+    "kind": "proxy",
+    "notes": "Uses raw Gala apple with skin as a variety proxy."
+  },
+  {
+    "slug": "orange-navel-raw",
+    "aliases": ["orange", "oranges"],
+    "kind": "proxy",
+    "notes": "Uses raw navel orange edible portion. Juice/zest need separate matches."
+  },
+  {
+    "slug": "pineapple-raw",
+    "aliases": ["pineapple"],
+    "kind": "proxy",
+    "notes": "Assumes fresh pineapple flesh, not canned in syrup."
+  },
+  {
+    "slug": "avocado-hass-raw",
+    "aliases": ["avocado"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "peach-yellow-raw",
+    "aliases": ["peaches"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "almonds-raw",
+    "aliases": ["almonds", "flaked almonds", "ground almonds"],
+    "kind": "proxy",
+    "notes": "Raw almonds; ground/flaked volume requires its own portion weight."
+  },
+  {
+    "slug": "walnuts-raw",
+    "aliases": ["walnuts"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "pecans-raw",
+    "aliases": ["pecan nuts", "pecans"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "cashews-raw",
+    "aliases": ["cashew nuts", "cashews"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "peanuts-raw",
+    "aliases": ["peanuts"],
+    "kind": "proxy",
+    "notes": "Assumes raw peanuts; roasted preparations differ."
+  },
+  {
+    "slug": "pistachios-raw",
+    "aliases": ["pistachio", "pistachios", "ground pistachios"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "nuts-pine-nuts-raw",
+    "aliases": ["pine nuts"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "nuts-hazelnuts-or-filberts-raw",
+    "aliases": ["hazlenuts", "hazelnuts"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "peanut-butter-creamy",
+    "aliases": ["peanut butter"],
+    "kind": "proxy",
+    "notes": "Assumes commercial creamy peanut butter."
+  },
+  {
+    "slug": "sesame-butter",
+    "aliases": ["tahini", "tahini paste"],
+    "kind": "proxy",
+    "notes": "Uses creamy sesame butter; tahini processing may differ."
+  },
+  {
+    "slug": "hummus-commercial",
+    "aliases": ["hummus"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "raisins-dark-seedless",
+    "aliases": ["raisins", "sultanas"],
+    "kind": "proxy",
+    "notes": "Uses dark seedless raisins as dried-grape proxy."
+  },
+  {
+    "slug": "raisins-golden-seedless",
+    "aliases": ["golden raisins"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "rolled-oats",
+    "aliases": ["oats", "rolled oats"],
+    "kind": "proxy",
+    "notes": "Assumes dry old-fashioned rolled oats."
+  },
+  {
+    "slug": "white-rice-raw",
+    "aliases": ["white rice", "basmati rice", "jasmine rice"],
+    "kind": "proxy",
+    "notes": "Uses raw long-grain white rice; variety is approximated. Cooked measures excluded."
+  },
+  {
+    "slug": "brown-rice-raw",
+    "aliases": ["brown rice"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "whole-wheat-flour",
+    "aliases": ["whole wheat flour", "strong wholemeal flour"],
+    "kind": "proxy",
+    "notes": "Uses whole-wheat flour; protein strength unspecified."
+  },
+  {
+    "slug": "flour-bread-white-enriched-unbleached",
+    "aliases": ["strong white bread flour", "bread flour"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "cornmeal-enriched",
+    "aliases": ["cornmeal", "fine yellow cornmeal"],
+    "kind": "proxy",
+    "notes": "Uses fine enriched yellow cornmeal, not cornstarch."
+  },
+  {
+    "slug": "bread-white-commercial",
+    "aliases": ["white bread", "bread"],
+    "kind": "proxy",
+    "notes": "Assumes commercial white bread; density varies by loaf."
+  },
+  {
+    "slug": "corn-tortilla",
+    "aliases": ["corn tortillas", "corn tortilla"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "tortilla-wheat-flour-shelf-stable",
+    "aliases": ["flour tortilla", "flour tortillas"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "spaghetti-dry",
+    "aliases": [
+      "spaghetti",
+      "bowtie pasta",
+      "farfalle",
+      "fettuccine",
+      "linguine pasta",
+      "paccheri pasta",
+      "penne rigate",
+      "rigatoni",
+      "macaroni"
+    ],
+    "kind": "proxy",
+    "notes": "Uses dry enriched spaghetti; cooked amounts excluded."
+  },
+  {
+    "slug": "bulgur-dry",
+    "aliases": ["bulgur wheat", "bulgur"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "lentils-dry",
+    "aliases": ["red lentils", "brown lentils", "french lentils"],
+    "kind": "proxy",
+    "notes": "Uses dry lentils; variety differs. Cooked weights excluded."
+  },
+  {
+    "slug": "mayonnaise-regular",
+    "aliases": ["mayonnaise"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "mustard-yellow",
+    "aliases": ["yellow mustard"],
+    "kind": "direct",
+    "notes": "Matches the named ingredient in the local USDA catalog."
+  },
+  {
+    "slug": "refried-beans-canned-pinto",
+    "aliases": ["refried beans"],
+    "kind": "proxy",
+    "notes": "Uses canned pinto refried beans; brand formulation differs."
+  },
+  {
+    "slug": "sauce-salsa-ready-to-serve",
+    "aliases": ["salsa"],
+    "kind": "proxy",
+    "notes": "Uses ready-to-serve commercial salsa."
+  },
+  {
+    "slug": "almond-milk-unsweetened-plain-shelf-stable",
+    "aliases": ["almond milk"],
+    "kind": "proxy",
+    "notes": "Reviewed approximate match to local USDA food; generic ingredient variety/formulation assumed."
+  },
+  {
+    "slug": "soy-milk-unsweetened-plain-shelf-stable",
+    "aliases": ["soya milk"],
+    "kind": "proxy",
+    "notes": "Reviewed approximate match to local USDA food; generic ingredient variety/formulation assumed."
+  },
+  {
+    "slug": "potatoes-red-without-skin-raw",
+    "aliases": ["new potatoes", "baby new potatoes"],
+    "kind": "proxy",
+    "notes": "Reviewed approximate match to local USDA food; generic ingredient variety/formulation assumed."
+  },
+  {
+    "slug": "black-beans-canned-drained-rinsed",
+    "aliases": ["black beans"],
+    "kind": "proxy",
+    "notes": "Assumes canned drained/rinsed beans for unspecified state. Dry/soak/boil recipe preparations must be reviewed; not interchangeable with dry weights."
+  },
+  {
+    "slug": "kidney-beans-canned-drained-rinsed",
+    "aliases": ["kidney beans"],
+    "kind": "proxy",
+    "notes": "Assumes canned drained/rinsed beans for unspecified state. Dry/soak/boil recipe preparations must be reviewed; not interchangeable with dry weights."
+  },
+  {
+    "slug": "chickpeas-canned-drained-rinsed",
+    "aliases": ["chickpeas"],
+    "kind": "proxy",
+    "notes": "Assumes canned drained/rinsed beans for unspecified state. Dry/soak/boil recipe preparations must be reviewed; not interchangeable with dry weights."
+  },
+  {
+    "slug": "beans-cannellini-canned-sodium-added-drained-and-rinsed",
+    "aliases": ["cannellini beans"],
+    "kind": "proxy",
+    "notes": "Assumes canned drained/rinsed beans for unspecified state. Dry/soak/boil recipe preparations must be reviewed; not interchangeable with dry weights."
+  },
+  {
+    "slug": "orange-juice-no-pulp-not-fortified-from-concentrate-refrigerated",
+    "aliases": ["orange juice"],
+    "kind": "proxy",
+    "notes": "Reviewed approximate match to local USDA food; generic ingredient variety/formulation assumed."
+  },
+  {
+    "slug": "pork-belly-with-skin-raw",
+    "aliases": ["pork belly slices"],
+    "kind": "proxy",
+    "notes": "Reviewed approximate match to local USDA food; generic ingredient variety/formulation assumed."
+  },
+  {
+    "slug": "tomato-sauce-salted",
+    "aliases": ["tomato sauce"],
+    "kind": "proxy",
+    "notes": "Reviewed approximate match to local USDA food; generic ingredient variety/formulation assumed."
+  },
+  {
+    "slug": "tomato-puree-canned",
+    "aliases": ["passata"],
+    "kind": "proxy",
+    "notes": "Reviewed approximate match to local USDA food; generic ingredient variety/formulation assumed."
+  },
+  {
+    "slug": "plums-dried-prunes-uncooked",
+    "aliases": ["prunes"],
+    "kind": "proxy",
+    "notes": "Reviewed approximate match to local USDA food; generic ingredient variety/formulation assumed."
+  },
+  {
+    "slug": "sweet-corn-raw",
+    "aliases": ["sweetcorn"],
+    "kind": "proxy",
+    "notes": "Reviewed approximate match to local USDA food; generic ingredient variety/formulation assumed."
+  },
+  {
+    "slug": "whole-wheat-bread",
+    "aliases": ["wholegrain bread"],
+    "kind": "proxy",
+    "notes": "Reviewed approximate match to local USDA food; generic ingredient variety/formulation assumed."
+  },
+  {
+    "slug": "rutabaga-peeled-raw",
+    "aliases": ["swede"],
+    "kind": "proxy",
+    "notes": "Reviewed approximate match to local USDA food; generic ingredient variety/formulation assumed."
+  },
+  {
+    "slug": "lamb-ground-raw",
+    "aliases": ["lamb mince"],
+    "kind": "proxy",
+    "notes": "Reviewed approximate match to local USDA food; generic ingredient variety/formulation assumed."
+  }
+]

@@ -1,0 +1,415 @@
+{
+  "inputHash": "85f0aa95499775006088c58ce3b309955ede90ac2d597283f930fcf0957115d1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:30:24.954Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard olive oil density ~0.91 g/ml; 1 tbsp = 13.5 ml so 2 tbsp = 27 g. All oil is included as some remains in the dish after frying.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 518,
+        "proteinG": 9.3,
+        "fatG": 53,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 4144,
+      "proteinG": 74.4,
+      "fatG": 424,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw pork belly, skin-on but edible portion used; typical values for fresh Spanish-style pork belly.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 343,
+        "proteinG": 14.5,
+        "fatG": 29,
+        "carbsG": 2.5,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 514.5,
+      "proteinG": 21.75,
+      "fatG": 43.5,
+      "carbsG": 3.75,
+      "fiberG": 0.75,
+      "assumptions": "Typical Spanish morcilla (black pudding/blood sausage); includes blood, rice or onion filler.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 458,
+        "proteinG": 15,
+        "fatG": 43,
+        "carbsG": 1.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 458,
+      "proteinG": 15,
+      "fatG": 43,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "Standard cured/smoked bacon lardons; values reflect fatty European-style bacon.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium-large onion (~110 g) after peeling and chopping; standard yellow onion values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 74.4,
+      "proteinG": 2.4,
+      "fatG": 0.72,
+      "carbsG": 14.4,
+      "fiberG": 5.04,
+      "assumptions": "2 medium red bell peppers (~120 g each) after deseeding; typical raw values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 70,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 12.6,
+      "proteinG": 0.63,
+      "fatG": 0.14,
+      "carbsG": 2.73,
+      "fiberG": 0.84,
+      "assumptions": "1 medium plum (Roma) tomato (~70 g) after chopping; standard raw values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 24,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 35.76,
+      "proteinG": 1.5360000000000003,
+      "fatG": 0.12,
+      "carbsG": 7.944000000000001,
+      "fiberG": 0.504,
+      "assumptions": "8 average garlic cloves (~3 g each peeled); typical raw garlic nutrient profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14.3,
+        "fatG": 12.9,
+        "carbsG": 53.8,
+        "fiberG": 34.9
+      },
+      "caloriesKcal": 22.56,
+      "proteinG": 1.1440000000000001,
+      "fatG": 1.032,
+      "carbsG": 4.303999999999999,
+      "fiberG": 2.792,
+      "assumptions": "4 level teaspoons smoked Spanish paprika (~2 g per tsp); values reflect typical ground paprika.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 12,
+        "fatG": 13,
+        "carbsG": 50,
+        "fiberG": 25
+      },
+      "caloriesKcal": 2.82,
+      "proteinG": 0.12,
+      "fatG": 0.13,
+      "carbsG": 0.5,
+      "fiberG": 0.25,
+      "assumptions": "½ tsp dried chilli flakes (~1 g); typical crushed red pepper values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 333,
+        "proteinG": 21.6,
+        "fatG": 1.2,
+        "carbsG": 60,
+        "fiberG": 15.2
+      },
+      "caloriesKcal": 666,
+      "proteinG": 43.2,
+      "fatG": 2.4,
+      "carbsG": 120,
+      "fiberG": 30.4,
+      "assumptions": "200 g dry weight white beans (e.g. cannellini or haricot); assumes soaked/cooked in the dish per recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 1500,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 1.3,
+        "fatG": 0.3,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 105,
+      "proteinG": 19.5,
+      "fatG": 4.5,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "1.5 L chicken stock (standard density ~1 g/ml); typical low-sodium homemade or stock-cube values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 276,
+        "proteinG": 16.6,
+        "fatG": 7.4,
+        "carbsG": 53.8,
+        "fiberG": 37
+      },
+      "caloriesKcal": 13.8,
+      "proteinG": 0.83,
+      "fatG": 0.37,
+      "carbsG": 2.69,
+      "fiberG": 1.85,
+      "assumptions": "6 sprigs fresh thyme (~5 g total leaves and tender stems); typical fresh herb values, added whole then mostly discarded.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 375,
+      "per100g": {
+        "caloriesKcal": 353,
+        "proteinG": 6.6,
+        "fatG": 1.4,
+        "carbsG": 77.2,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 1323.75,
+      "proteinG": 24.75,
+      "fatG": 5.25,
+      "carbsG": 289.5,
+      "fiberG": 6.375,
+      "assumptions": "375 g dry paella rice (Spanish bomba or similar short-grain rice); standard uncooked values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.4,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 0.4
+      },
+      "caloriesKcal": 8.7,
+      "proteinG": 0.12,
+      "fatG": 0.09,
+      "carbsG": 2.79,
+      "fiberG": 0.12,
+      "assumptions": "Juice of 1 medium lemon (~30 g); standard lemon juice values, added at end.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53156",
+    "name": "Arroz al horno (baked rice)",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nHeat oven to 200C/180C/gas 6. Heat half the oil in a deep frying or sauté pan (or shallow casserole dish) measuring around 30cm in diameter. Over a high heat, colour the pork belly slices on each side in several batches, then transfer to a bowl. Add the remaining oil to the pan and lower the heat to medium, then add the black pudding and bacon and fry all over for several mins. Remove with a slotted spoon. Fry the onion and peppers for around 10 mins until soft and pale gold, then add the tomato and cook until soft. Add the garlic, smoked paprika and chilli flakes and cook for another 2 mins, then put the pork, black pudding and bacon back in the pan. Add the beans, stock and whichever herb you're using, and bring everything to the boil.\r\n\r\nstep 2\r\nSprinkle the rice around the pork belly, pushing it underneath the stock. Let the stock come to the boil again, season well, then transfer to the oven (leave it uncovered). Cook for 20 mins without stirring, then check to see how the rice is doing. The rice should be tender and the stock absorbed. If it’s not ready, put back in the oven for another 5 mins, then check again. Taste for seasoning.\r\n\r\nstep 3\r\nSqueeze lemon juice over the top and drizzle over some extra virgin olive oil just before serving, if you like.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Extra Virgin Olive Oil",
+        "measurement": "2 tbsp"
+      },
+      { "position": 2, "name": "Pork belly slices", "measurement": "800g" },
+      { "position": 3, "name": "Black Pudding", "measurement": "150g" },
+      { "position": 4, "name": "Bacon lardon", "measurement": "100g" },
+      { "position": 5, "name": "Onion", "measurement": "1 chopped" },
+      { "position": 6, "name": "Red Pepper", "measurement": "2" },
+      { "position": 7, "name": "Plum Tomatoes", "measurement": "1 chopped" },
+      { "position": 8, "name": "Garlic Clove", "measurement": "8" },
+      { "position": 9, "name": "Paprika", "measurement": "4 teaspoons" },
+      {
+        "position": 10,
+        "name": "Chilli Flakes",
+        "measurement": "1/2 teaspoon"
+      },
+      { "position": 11, "name": "Dried white beans", "measurement": "200g" },
+      { "position": 12, "name": "Chicken Stock", "measurement": "1 1/2 L" },
+      { "position": 13, "name": "Thyme", "measurement": "6 parts" },
+      { "position": 14, "name": "Paella Rice", "measurement": "375g" },
+      { "position": 15, "name": "Lemon Juice", "measurement": "1" }
+    ]
+  }
+}

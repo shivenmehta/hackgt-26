@@ -1,0 +1,147 @@
+{
+  "inputHash": "2d16636172469a5c803d16560fbe3280af536874dffe1818873ab6f1d3ca6227",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:58.777Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 910,
+      "proteinG": 25.75,
+      "fatG": 2.5,
+      "carbsG": 190.75,
+      "fiberG": 6.75,
+      "assumptions": "Standard all-purpose flour; 1 cup ≈ 125 g; dry weight used in dough.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 28,
+        "fiberG": 0
+      },
+      "caloriesKcal": 5.3,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 2.8,
+      "fiberG": 0,
+      "assumptions": "Typical double-acting baking powder; 1 tsp ≈ 5 g; contributes minor carbs from starch.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1 tsp ≈ 6 g; negligible calories and macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 183,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 76.86,
+      "proteinG": 6.2219999999999995,
+      "fatG": 1.83,
+      "carbsG": 9.15,
+      "fiberG": 0,
+      "assumptions": "Whole milk; 3/4 US cup = 183 ml ≈ 183 g (density ≈1); standard whole cow's milk values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 336,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2970.24,
+      "proteinG": 0,
+      "fatG": 336,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Vegetable/canola frying oil; full 1.5 US cups (355 ml) listed is used for deep-frying estimate, but only ~10-20% typically absorbed; total input amount provided for whole-recipe total as per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53356",
+    "name": "Jamaican Fried Dumplings",
+    "cuisine": "Jamaican",
+    "instructions": "Add flour, baking powder, and salt in a large bowl and stir to combine. Pour in the milk and stir until combined. Then roll the mixture into a ball and lightly knead until it comes together.\r\nBreak off about 10 pieces of dough and form them into balls. Set them aside.\r\nIn a 10-inch skillet, heat enough oil over medium heat to fry the dumplings, until the oil is about 350 degrees.\r\nOnce the dumplings are browned on one side, flip them and cook until both sides are browned, about 2-3 minutes each.\r\nOnce done, remove the dumplings from the oil and place them on paper towels or a cooling rack to drain off any excess oil.\r\nServe and enjoy.",
+    "ingredients": [
+      { "position": 1, "name": "All purpose flour", "measurement": "2 cups" },
+      { "position": 2, "name": "Baking Powder", "measurement": "2 tsp" },
+      { "position": 3, "name": "Salt", "measurement": "1 tsp" },
+      { "position": 4, "name": "Milk", "measurement": "3/4 cup" },
+      { "position": 5, "name": "Oil", "measurement": "1 1/2 cup" }
+    ]
+  }
+}

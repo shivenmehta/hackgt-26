@@ -1,0 +1,63 @@
+{
+  "inputHash": "2906661dd0db615d84632f653ef9790a4d88b32c0ecb3387ae05d040bf47d1b5",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:45.187Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp vegetable oil = 28 g; pure oil contains no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "450 g raw skinless chicken breast meat; plain meat contains no carbohydrates"
+    },
+    {
+      "position": 3,
+      "carbsG": 8.4,
+      "fiberG": 0.5,
+      "assumptions": "3 tbsp chopped garlic ≈ 27 g; using 31 g carbs and 2 g fiber per 100 g"
+    },
+    {
+      "position": 4,
+      "carbsG": 7,
+      "fiberG": 1.3,
+      "assumptions": "3 tbsp chopped shallots ≈ 30 g; using 23 g carbs and 4.3 g fiber per 100 g for shallots"
+    },
+    {
+      "position": 5,
+      "carbsG": 9,
+      "fiberG": 1.4,
+      "assumptions": "3 medium red chillies ≈ 45 g (edible portion); using 20 g carbs and 3 g fiber per 100 g for red chillies"
+    },
+    {
+      "position": 6,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "2 tbsp fish sauce ≈ 30 g; using 4 g carbs per 100 g, negligible fiber"
+    },
+    {
+      "position": 7,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "2 tsp soy sauce ≈ 10 g; using 5 g carbs per 100 g, negligible fiber"
+    },
+    {
+      "position": 8,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "2 tsp sugar ≈ 8 g; sugar is 100% carbohydrate"
+    },
+    {
+      "position": 9,
+      "carbsG": 0.8,
+      "fiberG": 0.5,
+      "assumptions": "Handful fresh basil leaves ≈ 15 g; using ~5 g carbs and 3 g fiber per 100 g"
+    }
+  ]
+}

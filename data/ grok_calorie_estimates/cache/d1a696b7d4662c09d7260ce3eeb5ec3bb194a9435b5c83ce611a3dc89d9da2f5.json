@@ -1,0 +1,79 @@
+{
+  "inputHash": "d1a696b7d4662c09d7260ce3eeb5ec3bb194a9435b5c83ce611a3dc89d9da2f5",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:19:26.770Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 180,
+      "proteinG": 3,
+      "fatG": 0.5,
+      "assumptions": "50g cornflour (corn starch) as listed; standard values for dry corn flour."
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 364,
+      "proteinG": 10,
+      "fatG": 1,
+      "assumptions": "100g plain white wheat flour as listed; standard dry values."
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 50,
+      "proteinG": 2,
+      "fatG": 4,
+      "assumptions": "1 tbsp (approx 9g) sesame seeds; standard values for whole seeds."
+    },
+    {
+      "position": 4,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Vegetable oil for frying - quantity absorbed cannot be reasonably estimated without specific absorption data or measured post-fry weight; not defaulted to 100g or any fixed amount."
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "250ml soda water (carbonated water); negligible macros."
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 68,
+      "proteinG": 6,
+      "fatG": 1,
+      "assumptions": "200g raw purple sprouting broccoli as listed; standard values for raw broccoli."
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 20,
+      "proteinG": 3,
+      "fatG": 0,
+      "assumptions": "2 tbsp (approx 30ml) fish sauce; standard values for typical nuoc mam."
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 20,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "Juice of 2 limes (approx 60ml total juice); standard values for lime juice."
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 5,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 chopped bird's-eye chilli (approx 5-6g); standard values for fresh chilli."
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 100,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "2 tbsp (approx 25g) white sugar; standard values for granulated sugar."
+    }
+  ]
+}

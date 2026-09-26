@@ -1,0 +1,45 @@
+{
+  "inputHash": "a7c8323b9acb326ed0285f4b6baf625ec43f1ff12217eab83ba36bc87b373780",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:56.806Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 27,
+      "fiberG": 8.4,
+      "assumptions": "3 medium-large beef tomatoes ≈ 600 g total; standard raw red tomato values (4.5 g carbs, 1.4 g fiber per 100 g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 5.5,
+      "fiberG": 1,
+      "assumptions": "½ medium red onion ≈ 55 g raw; standard raw onion values (10 g carbs, 1.9 g fiber per 100 g)"
+    },
+    {
+      "position": 3,
+      "carbsG": 0.6,
+      "fiberG": 0.4,
+      "assumptions": "small handful fresh thyme sprigs ≈ 5 g; standard fresh thyme values (12 g carbs, 7 g fiber per 100 g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 0.2,
+      "fiberG": 0,
+      "assumptions": "1 tbsp sherry vinegar ≈ 15 g; negligible carbs per standard vinegar values"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp extra-virgin olive oil ≈ 27 g; pure oil has zero carbohydrates"
+    },
+    {
+      "position": 6,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "100 g chorizo (standard cured Spanish-style); typical values ≈ 4 g carbs per 100 g"
+    }
+  ]
+}

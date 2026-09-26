@@ -1,0 +1,255 @@
+{
+  "inputHash": "8cd5c1c45b63a21c9fb758b86d63fdeacdb84f4e53050fbba95b0c1a73d0b831",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:25.304Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 18,
+        "fatG": 20,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 500,
+      "proteinG": 36,
+      "fatG": 40,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "Drained fresh mozzarella balls; typical values for cow's milk mozzarella.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 45,
+      "proteinG": 2.5,
+      "fatG": 0.5,
+      "carbsG": 9.75,
+      "fiberG": 3,
+      "assumptions": "Raw baby plum tomatoes; standard tomato nutrition applied to whole edible weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 3.2,
+        "fatG": 0.6,
+        "carbsG": 2.7,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 6.9,
+      "proteinG": 0.96,
+      "fatG": 0.18,
+      "carbsG": 0.81,
+      "fiberG": 0.48,
+      "assumptions": "1 bunch fresh basil estimated at 30 g edible leaves only (stems discarded); typical fresh basil values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 350,
+      "per100g": {
+        "caloriesKcal": 371,
+        "proteinG": 13,
+        "fatG": 2,
+        "carbsG": 74,
+        "fiberG": 3.5
+      },
+      "caloriesKcal": 1298.5,
+      "proteinG": 45.5,
+      "fatG": 7,
+      "carbsG": 259,
+      "fiberG": 12.25,
+      "assumptions": "Dry farfalle pasta as packaged; cooked in salted water but nutrition uses dry basis per standard practice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 397.8,
+      "proteinG": 0,
+      "fatG": 45,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons extra virgin olive oil (15 ml per tbsp, density ~0.91 g/ml yields ~41-45 g total); pure oil values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 145,
+        "proteinG": 1,
+        "fatG": 15,
+        "carbsG": 4,
+        "fiberG": 3
+      },
+      "caloriesKcal": 58,
+      "proteinG": 0.4,
+      "fatG": 6,
+      "carbsG": 1.6,
+      "fiberG": 1.2,
+      "assumptions": "Drained green olives; typical pitted olive nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 130,
+        "proteinG": 25,
+        "fatG": 1,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 260,
+      "proteinG": 50,
+      "fatG": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Drained canned tuna in water or brine (edible portion after draining); typical skipjack values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Salt to taste estimated at 5 g total for the recipe (reasonable for pasta water and seasoning); contributes negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Black pepper to taste estimated at 2 g total for generous grind; contributes negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52777",
+    "name": "Mediterranean Pasta Salad",
+    "cuisine": "Italian",
+    "instructions": "Bring a large saucepan of salted water to the boil\r\nAdd the pasta, stir once and cook for about 10 minutes or as directed on the packet.\r\nMeanwhile, wash the tomatoes and cut into quarters. Slice the olives. Wash the basil.\r\nPut the tomatoes into a salad bowl and tear the basil leaves over them. Add a tablespoon of olive oil and mix.\r\nWhen the pasta is ready, drain into a colander and run cold water over it to cool it quickly.\r\nToss the pasta into the salad bowl with the tomatoes and basil.\r\nAdd the sliced olives, drained mozzarella balls, and chunks of tuna. Mix well and let the salad rest for at least half an hour to allow the flavours to mingle.\r\nSprinkle the pasta with a generous grind of black pepper and drizzle with the remaining olive oil just before serving.",
+    "ingredients": [
+      { "position": 1, "name": "mozzarella balls", "measurement": "200 g" },
+      { "position": 2, "name": "baby plum tomatoes", "measurement": "250 g" },
+      { "position": 3, "name": "fresh basil", "measurement": "1  bunch" },
+      { "position": 4, "name": "farfalle", "measurement": "350 g" },
+      {
+        "position": 5,
+        "name": "extra virgin olive oil",
+        "measurement": "3  tablespoons"
+      },
+      { "position": 6, "name": "Green Olives", "measurement": "40 g" },
+      { "position": 7, "name": "tuna", "measurement": "200 g" },
+      { "position": 8, "name": "salt", "measurement": "to taste" },
+      { "position": 9, "name": "pepper", "measurement": "to taste" }
+    ]
+  }
+}

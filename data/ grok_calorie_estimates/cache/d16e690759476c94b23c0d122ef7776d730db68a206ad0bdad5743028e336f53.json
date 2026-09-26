@@ -1,0 +1,37 @@
+{
+  "inputHash": "d16e690759476c94b23c0d122ef7776d730db68a206ad0bdad5743028e336f53",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:14:48.747Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 280,
+      "proteinG": 8,
+      "fatG": 12,
+      "assumptions": "14 oz jar ≈ 400 g total weight; typical canned enchilada sauce (red, mild) at ~70 kcal/100 g, ~2 g protein/100 g, ~3 g fat/100 g; entire jar used in recipe."
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 1320,
+      "proteinG": 75,
+      "fatG": 108,
+      "assumptions": "3 US cups shredded Monterey Jack ≈ 340 g; standard values ~388 kcal/100 g, ~22 g protein/100 g, ~32 g fat/100 g; entire amount layered into casserole."
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 360,
+      "proteinG": 9,
+      "fatG": 4.5,
+      "assumptions": "6 standard 6-inch corn tortillas ≈ 240 g total (≈40 g each); typical values ~150 kcal/100 g, ~3.7 g protein/100 g, ~1.9 g fat/100 g; all 6 used in layers."
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 440,
+      "proteinG": 82,
+      "fatG": 10,
+      "assumptions": "2 raw boneless skinless chicken breasts ≈ 400 g total edible portion (≈200 g each, typical medium size); values ~110 kcal/100 g, ~20.5 g protein/100 g, ~2.5 g fat/100 g; fully cooked in sauce, all meat shredded and used (no bones/skin)."
+    }
+  ]
+}

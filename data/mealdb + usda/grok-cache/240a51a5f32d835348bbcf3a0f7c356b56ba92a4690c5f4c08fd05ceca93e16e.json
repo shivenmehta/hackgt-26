@@ -1,0 +1,33 @@
+{
+  "inputHash": "240a51a5f32d835348bbcf3a0f7c356b56ba92a4690c5f4c08fd05ceca93e16e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:36.780Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 175,
+      "caloriesPer100g": 480,
+      "assumptions": "Peanut cookies assumed similar to peanut butter cookies or shortbread with peanuts; typical calorie density around 480 kcal/100g for such baked goods. Used supplied measurement of 175g directly as edible mass."
+    },
+    {
+      "position": 3,
+      "grams": 8.5,
+      "caloriesPer100g": 340,
+      "assumptions": "Standard gelatine leaf is ~1.7g each; 5 leaves total ~8.5g edible. Calories based on typical dry gelatin at ~340 kcal/100g. Modest amount as it's a setting agent."
+    },
+    {
+      "position": 6,
+      "grams": 175,
+      "caloriesPer100g": 320,
+      "assumptions": "Golden syrup density ~1.4 g/ml but used supplied 175g measurement directly as the edible mass. Typical calorie density for golden syrup is ~320 kcal/100g."
+    },
+    {
+      "position": 10,
+      "grams": 50,
+      "caloriesPer100g": 486,
+      "assumptions": "Measurement is 'crushed' with no quantity; modest sprinkling amount of 50g assumed for topping the finished cheesecake (realistic for scattering on a 20cm cake to serve 8-10). Used the supplied knownCaloriesPer100g of 486 exactly."
+    }
+  ]
+}

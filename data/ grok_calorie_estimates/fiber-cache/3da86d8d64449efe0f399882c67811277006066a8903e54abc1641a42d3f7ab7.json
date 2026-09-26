@@ -1,0 +1,51 @@
+{
+  "inputHash": "3da86d8d64449efe0f399882c67811277006066a8903e54abc1641a42d3f7ab7",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:19.735Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbs olive oil = 14 g; pure fat, no carbs"
+    },
+    {
+      "position": 2,
+      "carbsG": 5,
+      "fiberG": 2,
+      "assumptions": "300 g fresh mushrooms, raw weight; standard white/button mushrooms"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 chicken legs ≈ 1.2 kg raw with skin and bone; pure meat/skin/fat, no carbs"
+    },
+    {
+      "position": 4,
+      "carbsG": 30,
+      "fiberG": 8,
+      "assumptions": "500 g passata (tomato puree), drained solids only; typical tomato product values"
+    },
+    {
+      "position": 5,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 stock cube dissolved; typical dehydrated bouillon cube"
+    },
+    {
+      "position": 6,
+      "carbsG": 3,
+      "fiberG": 3,
+      "assumptions": "100 g drained black olives, pitted edible portion; standard cured olives"
+    },
+    {
+      "position": 7,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "small handful chopped parsley (≈ 10 g); typical fresh herb values"
+    }
+  ]
+}

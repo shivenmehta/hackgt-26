@@ -1,0 +1,363 @@
+{
+  "inputHash": "6d54d2938bb329854f58f0f9f63da5b2a51b52b3b96354286795ef82f1ac6ebe",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:35.986Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 22,
+      "per100g": {
+        "caloriesKcal": 170,
+        "proteinG": 3.5,
+        "fatG": 8,
+        "carbsG": 20,
+        "fiberG": 6
+      },
+      "caloriesKcal": 37.4,
+      "proteinG": 0.77,
+      "fatG": 1.76,
+      "carbsG": 4.4,
+      "fiberG": 1.32,
+      "assumptions": "Typical Thai red curry paste; ~22g for 1.5 tbsp based on common jar density (~15g per tbsp).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 44.2,
+      "proteinG": 0,
+      "fatG": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Vegetable oil; 1 tsp ≈ 5 ml/g (standard density).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 0.5,
+        "fatG": 0.5,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 150,
+      "proteinG": 5,
+      "fatG": 5,
+      "carbsG": 10,
+      "fiberG": 0,
+      "assumptions": "Vegetable stock/broth; 1 L assumed as 1000 g with low-calorie vegetable base (common carton values).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 180,
+        "proteinG": 2,
+        "fatG": 18,
+        "carbsG": 3.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 720,
+      "proteinG": 8,
+      "fatG": 72,
+      "carbsG": 14,
+      "fiberG": 0,
+      "assumptions": "Coconut milk; standard full-fat canned value for 400 ml can (≈400 g).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 30.4,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 7.84,
+      "fiberG": 0,
+      "assumptions": "Brown sugar; 2 tsp ≈ 8 g (standard granulated density).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 12,
+        "fatG": 2,
+        "carbsG": 75,
+        "fiberG": 3
+      },
+      "caloriesKcal": 665,
+      "proteinG": 21,
+      "fatG": 3.5,
+      "carbsG": 131.25,
+      "fiberG": 5.25,
+      "assumptions": "Dried egg noodles; direct 175 g as listed (typical dry wheat/egg noodle profile).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 10,
+        "fiberG": 3
+      },
+      "caloriesKcal": 49.2,
+      "proteinG": 1.2,
+      "fatG": 0.24,
+      "carbsG": 12,
+      "fiberG": 3.6,
+      "assumptions": "Carrots; 2 medium carrots ≈ 120 g total (edible raw weight).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 350,
+      "per100g": {
+        "caloriesKcal": 13,
+        "proteinG": 1.5,
+        "fatG": 0.2,
+        "carbsG": 2,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 45.5,
+      "proteinG": 5.25,
+      "fatG": 0.7,
+      "carbsG": 7,
+      "fiberG": 5.25,
+      "assumptions": "Chinese leaf (Napa cabbage); 1/2 medium head ≈ 350 g edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 3,
+        "fatG": 0.2,
+        "carbsG": 5.5,
+        "fiberG": 2
+      },
+      "caloriesKcal": 45,
+      "proteinG": 4.5,
+      "fatG": 0.3,
+      "carbsG": 8.25,
+      "fiberG": 3,
+      "assumptions": "Bean sprouts (mung); direct 150 g as listed (raw).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 90,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 4,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 16.2,
+      "proteinG": 0.9,
+      "fatG": 0.18,
+      "carbsG": 3.6,
+      "fiberG": 1.35,
+      "assumptions": "Cherry tomatoes; 6 medium ≈ 90 g total (edible raw).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.5,
+        "fatG": 0.2,
+        "carbsG": 10,
+        "fiberG": 3
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.2,
+      "fatG": 0.08,
+      "carbsG": 4,
+      "fiberG": 1.2,
+      "assumptions": "Lime juice; juice of 1 lime ≈ 40 g (standard yield, no peel).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 2,
+        "fatG": 0.2,
+        "carbsG": 7,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0.9,
+      "fatG": 0.09,
+      "carbsG": 3.15,
+      "fiberG": 1.125,
+      "assumptions": "Spring onions; 3 sliced ≈ 45 g total (edible raw weight).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 4,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 3.45,
+      "proteinG": 0.3,
+      "fatG": 0.075,
+      "carbsG": 0.6,
+      "fiberG": 0.375,
+      "assumptions": "Fresh coriander (cilantro); handful ≈ 15 g (typical garnish amount).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53208",
+    "name": "Thai coconut & veg broth",
+    "cuisine": "Thai",
+    "instructions": "step 1\r\nPlace the curry paste in a large saucepan or wok with the oil. Fry for 1 min until fragrant. Tip in the vegetable stock, coconut milk and brown sugar. Simmer for 3 mins.\r\n\r\nstep 2\r\nAdd the noodles, carrots and Chinese leaf and simmer for 4-6 mins, until all are tender. Mix in beansprouts and tomatoes. Add lime juice to taste and some extra seasoning, if you like. Spoon into bowls and sprinkle with spring onions and coriander.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Thai Red Curry Paste",
+        "measurement": "1 ½ tbsp"
+      },
+      { "position": 2, "name": "Vegetable Oil", "measurement": "1 tsp" },
+      { "position": 3, "name": "Vegetable Stock", "measurement": "1 L" },
+      { "position": 4, "name": "Coconut Milk", "measurement": "400ml" },
+      { "position": 5, "name": "Brown Sugar", "measurement": "2 tsp" },
+      { "position": 6, "name": "Egg Noodles", "measurement": "175g" },
+      { "position": 7, "name": "Carrots", "measurement": "2" },
+      { "position": 8, "name": "Chinese Leaf", "measurement": "1/2" },
+      { "position": 9, "name": "Bean Sprouts", "measurement": "150g" },
+      { "position": 10, "name": "Cherry Tomatoes", "measurement": "6" },
+      { "position": 11, "name": "Lime", "measurement": "Juice of 1" },
+      {
+        "position": 12,
+        "name": "Spring Onions",
+        "measurement": "3 sliced thinly"
+      },
+      { "position": 13, "name": "Coriander", "measurement": "Handful" }
+    ]
+  }
+}

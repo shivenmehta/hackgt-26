@@ -1,0 +1,51 @@
+{
+  "inputHash": "44462c0ebb7e245e6951570cf749a97bc36ee02502e27e4578e2dbd51ab803f6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:02.217Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 6,
+      "grams": 6,
+      "caloriesPer100g": 143,
+      "assumptions": "Standard garlic clove is ~3g each when sliced; 2 cloves total 6g edible portion. Known caloriesPer100g copied exactly."
+    },
+    {
+      "position": 7,
+      "grams": 2,
+      "caloriesPer100g": null,
+      "assumptions": "Bouquet garni (herb bundle) is very light; typical weight ~1-3g total for one in a stew. No reasonable calorie density for the tiny dried/herb mix in this context, so caloriesPer100g left null."
+    },
+    {
+      "position": 9,
+      "grams": 750,
+      "caloriesPer100g": 85,
+      "assumptions": "Red wine density ~1g/ml; 750ml = 750g. Known values copied exactly."
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "caloriesPer100g": 101,
+      "assumptions": "'Sprigs of fresh' thyme is modest seasoning amount; realistic total ~5g for a few sprigs in full recipe. Known caloriesPer100g copied exactly."
+    },
+    {
+      "position": 13,
+      "grams": 5,
+      "caloriesPer100g": 131,
+      "assumptions": "'Sprigs of fresh' rosemary is modest seasoning amount; realistic total ~5g for a few sprigs in full recipe. Known caloriesPer100g copied exactly."
+    },
+    {
+      "position": 14,
+      "grams": 1,
+      "caloriesPer100g": 313,
+      "assumptions": "2 bay leaves total ~0.5-1g edible dry weight. Known caloriesPer100g copied exactly."
+    },
+    {
+      "position": 15,
+      "grams": 2,
+      "caloriesPer100g": 311,
+      "assumptions": "4 cardamom pods total ~1.5-2.5g; using 2g as modest whole-pod weight in mash. Known caloriesPer100g copied exactly."
+    }
+  ]
+}

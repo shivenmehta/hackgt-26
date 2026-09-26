@@ -1,0 +1,355 @@
+{
+  "inputHash": "cde82a08d69bdbc5cb51340a000de8e6e125778c313eeb049743596ae3d00e52",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:25:16.122Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 177,
+        "proteinG": 24,
+        "fatG": 8.1,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 803.58,
+      "proteinG": 108.96,
+      "fatG": 36.773999999999994,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Boneless skinless chicken thighs, raw weight; typical values for this cut.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 33,
+      "per100g": {
+        "caloriesKcal": 52,
+        "proteinG": 11,
+        "fatG": 0.2,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 17.16,
+      "proteinG": 3.63,
+      "fatG": 0.066,
+      "carbsG": 0.23099999999999998,
+      "fiberG": 0,
+      "assumptions": "One large egg white is approximately 33 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp total kosher salt (split between chicken and sauce); negligible nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0,
+        "carbsG": 91,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 19.05,
+      "proteinG": 0.015,
+      "fatG": 0,
+      "carbsG": 4.55,
+      "fiberG": 0.045,
+      "assumptions": "2 tsp cornstarch weighs ~5 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 284,
+      "per100g": {
+        "caloriesKcal": 71,
+        "proteinG": 0.5,
+        "fatG": 0.1,
+        "carbsG": 18.6,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 201.64,
+      "proteinG": 1.42,
+      "fatG": 0.28400000000000003,
+      "carbsG": 52.824000000000005,
+      "fiberG": 3.408,
+      "assumptions": "10 oz can of pineapple chunks in juice, drained weight used in dish; values for canned in juice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0.4,
+        "fatG": 0.1,
+        "carbsG": 13.8,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 31.8,
+      "proteinG": 0.24,
+      "fatG": 0.06,
+      "carbsG": 8.28,
+      "fiberG": 0.12,
+      "assumptions": "1/4 cup (60 ml) pineapple juice from the can.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 21,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 12.6,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.54,
+      "fiberG": 0,
+      "assumptions": "1/4 cup (60 ml) white vinegar; low-calorie.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 101,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 26,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 60.6,
+      "proteinG": 0.6,
+      "fatG": 0.18,
+      "carbsG": 15.6,
+      "fiberG": 0.18,
+      "assumptions": "1/4 cup (60 g) tomato ketchup.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 38,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 144.4,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 37.24,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons packed brown sugar weighs ~38 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 18,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 159.12,
+      "proteinG": 0,
+      "fatG": 18,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 tsp neutral cooking oil (e.g. vegetable or canola); total used for stir-frying.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 26,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 31.2,
+      "proteinG": 1.2,
+      "fatG": 0.36,
+      "carbsG": 7.32,
+      "fiberG": 2.52,
+      "assumptions": "1 medium red bell pepper, chopped; ~120 g edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 26,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 31.2,
+      "proteinG": 1.2,
+      "fatG": 0.36,
+      "carbsG": 7.32,
+      "fiberG": 2.52,
+      "assumptions": "1 medium yellow bell pepper, chopped; ~120 g edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.8,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 4,
+      "proteinG": 0.09,
+      "fatG": 0.035,
+      "carbsG": 0.9,
+      "fiberG": 0.1,
+      "assumptions": "1 tsp fresh grated ginger root; ~5 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53376",
+    "name": "Sweet and Sour Chicken",
+    "cuisine": "Chinese",
+    "instructions": "Coat the chicken with egg white:\r\nIn a bowl, combine the chicken with the egg white, 1/2 teaspoon kosher salt, and cornstarch. Stir to coat the chicken evenly. Let sit for 15 minutes at room temperature or up to overnight in the refrigerator.\r\n\r\nMake the sweet and sour sauce:\r\nWhisk together the pineapple juice, vinegar, ketchup, 1/2 teaspoon kosher salt, and brown sugar.\r\n\r\nStir-fry the chicken over high heat:\r\nHeat a large frying pan or wok over high heat until a bead of water instantly sizzles and evaporates. Pour in 1 tablespoon of cooking oil and swirl to coat. It's important that the pan is very hot.\r\n\r\nAdd the chicken and spread the pieces out in one layer. Let the chicken fry untouched for 1 minute, until the bottoms are browned.\r\n\r\nFlip and fry the other side for 1 minute. The chicken should still be pinkish in the middle. Dish out the chicken onto a clean plate, leaving as much oil in the pan as possible.\r\n\r\nStir-fry the bell pepper and ginger:\r\nReduce the heat to medium and add the remaining 1 teaspoon of cooking oil. Let the oil heat up before adding the bell pepper chunks and ginger. Fry for 1 minute.\r\n\r\nAdd the pineapple, sauce, and then, the chicken:\r\nAdd the pineapple chunks and the sweet and sour sauce. Turn up the heat to high. When the sauce is simmering, add the chicken pieces back in.\r\n\r\nLet simmer for 1 to 2 minutes, until the chicken is cooked through. Timing depends on how thick you've cut your chicken. The best way to tell if the chicken is done is to take a piece out and cut into it. If it's pink, add another minute to the cooking.\r\n\r\nAdjust the seasoning and serve:\r\nTaste the sauce and add more brown sugar or vinegar to suit your tastes, if you’d like.\r\n\r\nServe hot with steamed white or brown rice.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken Thighs", "measurement": "1 lb" },
+      { "position": 2, "name": "Egg White", "measurement": "1 large" },
+      { "position": 3, "name": "Kosher Salt", "measurement": "1 tsp" },
+      { "position": 4, "name": "Cornstarch", "measurement": "2 tsp" },
+      { "position": 5, "name": "Pineapple Chunks", "measurement": "10 oz" },
+      { "position": 6, "name": "Pineapple Juice", "measurement": "1/4 cup" },
+      { "position": 7, "name": "White Vinegar", "measurement": "1/4 cup" },
+      { "position": 8, "name": "Tomato Ketchup", "measurement": "1/4 cup" },
+      { "position": 9, "name": "Brown Sugar", "measurement": "3  tablespoons" },
+      { "position": 10, "name": "Oil", "measurement": "4 tsp" },
+      { "position": 11, "name": "Red Pepper", "measurement": "1 chopped" },
+      { "position": 12, "name": "Yellow Pepper", "measurement": "1 chopped" },
+      { "position": 13, "name": "Ginger", "measurement": "1 tsp" }
+    ]
+  }
+}

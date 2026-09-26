@@ -1,0 +1,225 @@
+{
+  "inputHash": "524fe3475808656424b303b72cc7abb79e703748deddcc64f04c3b8c01c5f48c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:47.795Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 907,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 18,
+        "fatG": 20,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2267.5,
+      "proteinG": 163.26,
+      "fatG": 181.4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 lbs salt beef (corned/salted brisket or similar cut); typical raw weight used as-is for the entire ingredient line; cured beef nutrition averaged from common values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 25,
+        "fatG": 1,
+        "carbsG": 60,
+        "fiberG": 25
+      },
+      "caloriesKcal": 700,
+      "proteinG": 50,
+      "fatG": 2,
+      "carbsG": 120,
+      "fiberG": 50,
+      "assumptions": "1 cup dry yellow split peas (standard cup = 200g); soaked overnight but nutrition based on dry state before cooking",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 1100,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1.3,
+        "fatG": 0.1,
+        "carbsG": 6,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 275,
+      "proteinG": 14.3,
+      "fatG": 1.1,
+      "carbsG": 66,
+      "fiberG": 27.5,
+      "assumptions": "1 medium-large head of green cabbage, approx 1.1 kg raw edible portion after removing core; typical whole-head size for a family recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 360,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 10,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 147.6,
+      "proteinG": 3.24,
+      "fatG": 0.72,
+      "carbsG": 36,
+      "fiberG": 10.079999999999998,
+      "assumptions": "6 medium carrots, ~60g each raw and peeled; standard household carrot size",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 28,
+        "proteinG": 1,
+        "fatG": 0.1,
+        "carbsG": 6.5,
+        "fiberG": 1.8
+      },
+      "caloriesKcal": 84,
+      "proteinG": 3,
+      "fatG": 0.3,
+      "carbsG": 19.5,
+      "fiberG": 5.4,
+      "assumptions": "1 large turnip/rutabaga, approx 300g raw peeled weight; common size for this type of boiled dinner",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 1200,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 924,
+      "proteinG": 24,
+      "fatG": 1.2,
+      "carbsG": 204,
+      "fiberG": 26.4,
+      "assumptions": "8 medium potatoes, ~150g each raw; typical size for boiling potatoes in a large pot",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 42,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 301.14,
+      "proteinG": 0.37800000000000006,
+      "fatG": 34.02,
+      "carbsG": 0.042,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons butter (standard tbsp = 14g); used to mix into the cooked peas pudding",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Black pepper to taste; estimated small plausible amount for the peas pudding (5g whole peppercorns or ground); contributes negligible macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53335",
+    "name": "Jiggs Dinner",
+    "cuisine": "Canadian",
+    "instructions": "The night before, break salt beef into big chunks and soak in water overnight, at least 8-10 hours. Put split peas into a bowl and cover with water to soak overnight.\r\nDrain the salt beef and place it into a large stockpot. Cover with fresh water, at least 6-7 litres. Place the split peas into a pease pudding canvas bag or triple layer of cheesecloth and tie, making sure to leave room for peas to expand inside the bag.\r\nPut the bag inside the pot, tying the strings to the outside handle so it doesn't stick to the bottom of the pot with the salt beef. Bring to a boil, then lower the heat and simmer for 2 hours.\r\nRemove the peas pudding bag and empty contents into a bowl, mixing with butter and pepper for taste. Set aside.\r\nAdd your cabbage to the pot and boil for 20 more minutes. Then add turnip, carrots and potatoes then boil for 20 more, or until vegetables are tender.\r\nRemove salt beef and vegetables from the pot and put them on a platter.\r\nUse the cooking liquid in two ways; as a pot liquor which some people like to drink or reduce it to make a jus or gravy to pour over the meal.",
+    "ingredients": [
+      { "position": 1, "name": "Beef", "measurement": "2 Lbs" },
+      { "position": 2, "name": "Yellow Split Peas", "measurement": "1 cup" },
+      { "position": 3, "name": "Cabbage", "measurement": "1 head" },
+      { "position": 4, "name": "Carrots", "measurement": "6" },
+      { "position": 5, "name": "Turnips", "measurement": "1 large" },
+      { "position": 6, "name": "Potatoes", "measurement": "8" },
+      { "position": 7, "name": "Butter", "measurement": "3  tablespoons" },
+      { "position": 8, "name": "Black Pepper", "measurement": "To taste" }
+    ]
+  }
+}

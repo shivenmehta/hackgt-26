@@ -1,0 +1,303 @@
+{
+  "inputHash": "da20145cc1f7b578c36e813ce33fee5b6b6ddfbb0cb442d5a12b373b5b802b02",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:46.549Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 91,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 11.43,
+      "proteinG": 0.009,
+      "fatG": 0.0030000000000000005,
+      "carbsG": 2.73,
+      "fiberG": 0.027000000000000003,
+      "assumptions": "1 tsp cornflour (corn starch) weighs ~3g; typical dry values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 47,
+        "proteinG": 0.9,
+        "fatG": 0.1,
+        "carbsG": 12,
+        "fiberG": 2.4
+      },
+      "caloriesKcal": 94,
+      "proteinG": 1.8,
+      "fatG": 0.2,
+      "carbsG": 24,
+      "fiberG": 4.8,
+      "assumptions": "Juice of 2 medium oranges ≈ 200 ml / 200 g; typical orange juice values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 47,
+        "proteinG": 0.9,
+        "fatG": 0.1,
+        "carbsG": 12,
+        "fiberG": 2.4
+      },
+      "caloriesKcal": 2.82,
+      "proteinG": 0.054000000000000006,
+      "fatG": 0.006000000000000001,
+      "carbsG": 0.72,
+      "fiberG": 0.144,
+      "assumptions": "Zest of 1 medium orange ≈ 6 g; nutrients approximated from orange peel data, low contribution.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 96.75,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 25,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons caster sugar ≈ 25 g; pure sucrose values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 900,
+      "per100g": {
+        "caloriesKcal": 39,
+        "proteinG": 0.9,
+        "fatG": 0.3,
+        "carbsG": 9.5,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 351,
+      "proteinG": 8.1,
+      "fatG": 2.7,
+      "carbsG": 85.5,
+      "fiberG": 13.5,
+      "assumptions": "6 medium peaches (halved, stoned, sliced) ≈ 900 g total edible portion; typical raw peach values, assuming flesh only.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 57,
+        "proteinG": 0.7,
+        "fatG": 0.3,
+        "carbsG": 14.5,
+        "fiberG": 2.4
+      },
+      "caloriesKcal": 142.5,
+      "proteinG": 1.75,
+      "fatG": 0.75,
+      "carbsG": 36.25,
+      "fiberG": 6,
+      "assumptions": "250 g blueberries as listed; typical raw values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 354,
+        "proteinG": 9,
+        "fatG": 1.5,
+        "carbsG": 74,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 708,
+      "proteinG": 18,
+      "fatG": 3,
+      "carbsG": 148,
+      "fiberG": 5,
+      "assumptions": "200 g self-raising flour as listed; typical UK self-raising flour values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 358.5,
+      "proteinG": 0.3,
+      "fatG": 40.5,
+      "carbsG": 0.05,
+      "fiberG": 0,
+      "assumptions": "50 g butter as listed; typical unsalted butter values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 97,
+        "fiberG": 0
+      },
+      "caloriesKcal": 380,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 97,
+      "fiberG": 0,
+      "assumptions": "100 g muscovado sugar as listed; typical dark brown sugar values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 8,
+        "fatG": 3.2,
+        "carbsG": 80,
+        "fiberG": 53
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.24,
+      "fatG": 0.09600000000000002,
+      "carbsG": 2.4,
+      "fiberG": 1.59,
+      "assumptions": "1 tsp ground cinnamon ≈ 3 g; typical spice values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 90,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 4.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 37.8,
+      "proteinG": 3.06,
+      "fatG": 0.9,
+      "carbsG": 4.32,
+      "fiberG": 0,
+      "assumptions": "6 tablespoons milk (whole) ≈ 90 g / ml; typical whole milk values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52862",
+    "name": "Peach & Blueberry Grunt",
+    "cuisine": "American",
+    "instructions": "Heat oven to 190C/170C fan/gas 5. Butter a wide shallow ovenproof dish. Blend the cornflour with the orange zest and juice, and put in a large pan with the sugar. Halve, stone and slice the peaches and add to the pan. Bring slowly to the boil, stirring gently until the sauce is shiny and thickened, about 3-4 mins. Remove from the heat, stir in the blueberries and tip into the prepared dish.\r\nTip the flour into a mixing bowl and add the 50g butter. Rub the butter into the flour until it resembles fine breadcrumbs, then stir in half the sugar. Mix the remaining sugar with the cinnamon and set aside.\r\nAdd the milk to the dry ingredients and mix to a soft dough. Turn out onto a lightly floured surface and knead briefly. Roll out to an oblong roughly 16 x 24cm. Brush with melted butter and sprinkle evenly with the spicy sugar. Roll up from one long side and cut into 12 slices. Arrange around the top of the dish, leaving the centre uncovered.\r\nBake for 20-25 mins, until the topping is crisp and golden. Serve warm.",
+    "ingredients": [
+      { "position": 1, "name": "Corn Flour", "measurement": "1 tsp" },
+      { "position": 2, "name": "Orange", "measurement": "Juice of 2" },
+      { "position": 3, "name": "Orange", "measurement": "Zest of 1" },
+      { "position": 4, "name": "Caster Sugar", "measurement": "2 tbs" },
+      { "position": 5, "name": "Peaches", "measurement": "6" },
+      { "position": 6, "name": "Blueberries", "measurement": "250g" },
+      { "position": 7, "name": "Self-raising Flour", "measurement": "200g" },
+      { "position": 8, "name": "Butter", "measurement": "50g" },
+      { "position": 9, "name": "Muscovado Sugar", "measurement": "100g" },
+      { "position": 10, "name": "Cinnamon", "measurement": "1 tsp" },
+      { "position": 11, "name": "Milk", "measurement": "6 tblsp" }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "inputHash": "de1747e7d6196b7685bb6fe0bfb263fb09d0129fc55c1974f83059aa5bfc5ad4",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:32.109Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 98,
+      "fiberG": 4,
+      "assumptions": "125g dry rice noodles; standard dry rice noodle values ~78g carbs and ~3g fiber per 100g"
+    },
+    {
+      "position": 2,
+      "carbsG": 14,
+      "fiberG": 6,
+      "assumptions": "200g raw sugar snap peas; standard values ~7g carbs and ~3g fiber per 100g"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp sesame oil; pure oil has no carbohydrates"
+    },
+    {
+      "position": 4,
+      "carbsG": 4,
+      "fiberG": 1.6,
+      "assumptions": "4 medium spring onions (~80g total); standard values ~5g carbs and ~2g fiber per 100g"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.7,
+      "fiberG": 0.6,
+      "assumptions": "handful fresh coriander (~15g); standard values ~4.7g carbs and ~4g fiber per 100g"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "150g hot-smoked salmon flakes; plain fish has no carbohydrates"
+    },
+    {
+      "position": 7,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "pretzels 'to serve' - quantity not specified, cannot estimate"
+    },
+    {
+      "position": 8,
+      "carbsG": 6,
+      "fiberG": 0.5,
+      "assumptions": "3 tbsp soy sauce (~45 ml / ~50g); standard values ~12g carbs per 100g"
+    },
+    {
+      "position": 9,
+      "carbsG": 17,
+      "fiberG": 0,
+      "assumptions": "1 tbsp clear honey (~21g); standard values ~82g carbs per 100g with negligible fiber"
+    },
+    {
+      "position": 10,
+      "carbsG": 3,
+      "fiberG": 0.1,
+      "assumptions": "1 tbsp lemon juice (~15 ml / ~15g); standard values ~9g carbs and ~0.3g fiber per 100g"
+    },
+    {
+      "position": 11,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp groundnut oil; pure oil has no carbohydrates"
+    },
+    {
+      "position": 12,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 clove garlic (~3g); standard values ~33g carbs and ~2.1g fiber per 100g"
+    },
+    {
+      "position": 13,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "small knob fresh ginger (~5g); standard values ~18g carbs and ~2g fiber per 100g"
+    }
+  ]
+}

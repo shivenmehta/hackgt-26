@@ -1,0 +1,39 @@
+{
+  "inputHash": "a691d0d9dbd3ffe270d0405eb0ce28a0f17b8ddde77a0fd03886f9f1b59b2b54",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:52.913Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 190,
+      "fiberG": 6.7,
+      "assumptions": "2 cups AP flour = 250 g; standard uncooked white flour values"
+    },
+    {
+      "position": 2,
+      "carbsG": 2.4,
+      "fiberG": 0,
+      "assumptions": "2 tsp baking powder ≈ 10 g; typical values for baking powder"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp table salt ≈ 6 g; zero carbs"
+    },
+    {
+      "position": 4,
+      "carbsG": 9,
+      "fiberG": 0,
+      "assumptions": "3/4 cup whole milk ≈ 184 g; standard whole milk values"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1.5 cups vegetable oil for frying; ≈108 g absorbed (per prior estimate); pure oil has zero carbs"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "inputHash": "a39da7f0c371e0e38675935cf13b32a48620d320a0a7ad8a06d00d6340396e16",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:34.167Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 104,
+      "fiberG": 12,
+      "assumptions": "4 cups mashed potato from ~800g raw peeled potatoes (flesh only); ~26g carbs, 3g fiber per cup"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "60 ml butter = 4 tbsp; pure fat, zero carbs"
+    },
+    {
+      "position": 3,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "½ cup (120 ml) whole milk; standard whole milk values"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "450 g raw minced beef (80/20 lean-to-fat ratio assumed); pure meat, zero carbs"
+    },
+    {
+      "position": 5,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (~110 g) finely chopped, raw weight; standard onion nutrition"
+    },
+    {
+      "position": 6,
+      "carbsG": 70,
+      "fiberG": 5,
+      "assumptions": "500 ml (≈1 can) creamed corn; standard canned creamed corn values"
+    },
+    {
+      "position": 7,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Paprika to taste; negligible at typical usage, left null"
+    },
+    {
+      "position": 8,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Parsley to taste; negligible at typical usage, left null"
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Dash of salt; no carbohydrates"
+    },
+    {
+      "position": 10,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Dash of pepper; negligible carbohydrates"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "inputHash": "1955a9e310c042e99a5dab3a46770a45f7e02545e199798566b48f472952057d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:18.118Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 8,
+        "fatG": 1,
+        "carbsG": 78,
+        "fiberG": 2
+      },
+      "caloriesKcal": 490,
+      "proteinG": 11.2,
+      "fatG": 1.4,
+      "carbsG": 109.2,
+      "fiberG": 2.8,
+      "assumptions": "Dry rice noodles as per pack; typical Asian vermicelli-style values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 48,
+      "per100g": {
+        "caloriesKcal": 590,
+        "proteinG": 25,
+        "fatG": 50,
+        "carbsG": 20,
+        "fiberG": 8
+      },
+      "caloriesKcal": 283.2,
+      "proteinG": 12,
+      "fatG": 24,
+      "carbsG": 9.6,
+      "fiberG": 3.84,
+      "assumptions": "Smooth peanut butter; 1 tbsp ≈ 16 g, standard nutritional profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 170,
+        "proteinG": 2,
+        "fatG": 18,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 102,
+      "proteinG": 1.2,
+      "fatG": 10.8,
+      "carbsG": 1.8,
+      "fiberG": 0,
+      "assumptions": "Canned coconut milk; 1 tbsp ≈ 15 g, full-fat standard values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 1,
+        "fatG": 1,
+        "carbsG": 60,
+        "fiberG": 1
+      },
+      "caloriesKcal": 112.5,
+      "proteinG": 0.45,
+      "fatG": 0.45,
+      "carbsG": 27,
+      "fiberG": 0.45,
+      "assumptions": "Sweet chilli sauce; 1 tbsp ≈ 15 g, typical sugar-heavy profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 7,
+        "fiberG": 3
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0.9,
+      "fatG": 0,
+      "carbsG": 3.15,
+      "fiberG": 1.35,
+      "assumptions": "3 medium spring onions, total edible weight ≈ 45 g after trimming.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 4,
+        "fiberG": 1
+      },
+      "caloriesKcal": 45,
+      "proteinG": 3,
+      "fatG": 0,
+      "carbsG": 12,
+      "fiberG": 3,
+      "assumptions": "1 medium-large cucumber, edible flesh and skin ≈ 300 g after slicing.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 3,
+        "fatG": 0,
+        "carbsG": 6,
+        "fiberG": 2
+      },
+      "caloriesKcal": 90,
+      "proteinG": 9,
+      "fatG": 0,
+      "carbsG": 18,
+      "fiberG": 6,
+      "assumptions": "Fresh bean sprouts, standard mung bean values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 100,
+        "proteinG": 20,
+        "fatG": 1,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 200,
+      "proteinG": 40,
+      "fatG": 2,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "Cooked prawns (shrimp), peeled and ready-to-eat weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53239",
+    "name": "Bang bang prawn salad",
+    "cuisine": "Vietnamese",
+    "instructions": "step 1\r\nCook the noodles following pack instructions, then rinse under cold water and drain thoroughly. In a small saucepan melt together the peanut butter, coconut milk, sweet chilli sauce and half the spring onions, adding 1-2 tbsp of water to loosen the mixture to a drizzling consistency.\r\n\r\nstep 2\r\nMix the noodles, cucumber and beansprouts in a serving dish. Top with the prawns, drizzle over the peanut sauce and scatter over the remaining spring onions.",
+    "ingredients": [
+      { "position": 1, "name": "Rice Noodles", "measurement": "140g" },
+      {
+        "position": 2,
+        "name": "Peanut Butter",
+        "measurement": "3 tablespoons"
+      },
+      { "position": 3, "name": "Coconut Milk", "measurement": "4 tablespoons" },
+      {
+        "position": 4,
+        "name": "sweet chilli sauce",
+        "measurement": "3  tablespoons"
+      },
+      {
+        "position": 5,
+        "name": "Spring Onions",
+        "measurement": "3 sliced thinly"
+      },
+      { "position": 6, "name": "Cucumber", "measurement": "1 sliced" },
+      { "position": 7, "name": "Bean Sprouts", "measurement": "300g" },
+      { "position": 8, "name": "Prawns", "measurement": "200g" }
+    ]
+  }
+}

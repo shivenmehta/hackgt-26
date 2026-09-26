@@ -1,0 +1,45 @@
+{
+  "inputHash": "c5508b3ae82feb233964eb913f60fb0e15fb285245b4cb34251989f63894e779",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:46.982Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 18.5,
+      "fiberG": 0,
+      "assumptions": "500g full-fat natural yogurt; typical 3.7g carbs/100g, all incorporated after straining"
+    },
+    {
+      "position": 2,
+      "carbsG": 1.3,
+      "fiberG": 0.1,
+      "assumptions": "2 tsp (≈10g) lemon juice; ≈13g carbs/100g"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp (≈14g) extra virgin olive oil; pure fat, zero carbs"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.5,
+      "fiberG": 1.4,
+      "assumptions": "1 tbsp (≈3g) dried mint; ≈50g carbs/100g with high fiber content"
+    },
+    {
+      "position": 5,
+      "carbsG": 11,
+      "fiberG": 1.5,
+      "assumptions": "1 medium cucumber (≈300g whole, ≈250g edible flesh after seeding); typical 4.4g carbs/100g raw, macros remain after squeezing liquid"
+    },
+    {
+      "position": 6,
+      "carbsG": 2,
+      "fiberG": 0.1,
+      "assumptions": "2 cloves garlic minced (≈6g); ≈33g carbs/100g"
+    }
+  ]
+}

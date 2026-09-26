@@ -1,0 +1,75 @@
+{
+  "inputHash": "21d26d437de959c5765557ae17ead2ef32520ea3b2efa473a7647a4de1fd9383",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:01.103Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 152,
+      "fiberG": 13,
+      "assumptions": "225g dry quinoa (uncooked weight); standard values for dry quinoa"
+    },
+    {
+      "position": 2,
+      "carbsG": 0.2,
+      "fiberG": 0,
+      "assumptions": "25g butter (standard salted or unsalted butter)"
+    },
+    {
+      "position": 3,
+      "carbsG": 4,
+      "fiberG": 0.7,
+      "assumptions": "1 medium red chilli (~20g chopped)"
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 average garlic clove (~3g finely chopped)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "400g raw boneless skinless chicken breast"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs olive oil = 30ml / ~27g total (all used in recipe)"
+    },
+    {
+      "position": 7,
+      "carbsG": 2,
+      "fiberG": 1.5,
+      "assumptions": "Handful black olives = ~30g drained (modest estimate)"
+    },
+    {
+      "position": 8,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium red onion (~110g chopped)"
+    },
+    {
+      "position": 9,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "100g feta cheese (standard block)"
+    },
+    {
+      "position": 10,
+      "carbsG": 0.6,
+      "fiberG": 0.5,
+      "assumptions": "Chopped fresh mint = ~10g (modest handful)"
+    },
+    {
+      "position": 11,
+      "carbsG": 3,
+      "fiberG": 0.1,
+      "assumptions": "Juice of 1/2 lemon (~30g juice)"
+    }
+  ]
+}

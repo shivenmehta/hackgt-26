@@ -1,0 +1,367 @@
+{
+  "inputHash": "1e17749e9f8c9ff76d1de89158e26fa54518e379aaa238733a876ff4bd9a82aa",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:41.333Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 358.5,
+      "proteinG": 0.3,
+      "fatG": 40.5,
+      "carbsG": 0.05,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; fully used in dough.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0.1,
+        "fatG": 0.1,
+        "carbsG": 12.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 5.76,
+      "proteinG": 0.002,
+      "fatG": 0.002,
+      "carbsG": 0.254,
+      "fiberG": 0,
+      "assumptions": "Typical vanilla extract density ~0.9 g/ml; 1/2 tsp ≈ 2g; negligible impact.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 910,
+      "proteinG": 25,
+      "fatG": 2.5,
+      "carbsG": 190,
+      "fiberG": 7.5,
+      "assumptions": "Standard plain white wheat flour; used as-is.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 28,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2.12,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1.12,
+      "fiberG": 0,
+      "assumptions": "Typical baking powder; 1 tsp ≈ 4g; used in dough.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 265.2,
+      "proteinG": 0,
+      "fatG": 30,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Sunflower oil for deep-frying; estimated 30g absorbed per typical batch of churros based on similar fried dough recipes (not the full 1L which is the frying medium).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 3.2,
+        "carbsG": 49,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 79.5,
+      "proteinG": 2.7,
+      "fatG": 0.96,
+      "carbsG": 14.7,
+      "fiberG": 0.81,
+      "assumptions": "Cube of white bread used only as oil-temperature test; ≈30g bread; not consumed in final dish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 546,
+        "proteinG": 7.9,
+        "fatG": 36.7,
+        "carbsG": 34.8,
+        "fiberG": 11.3
+      },
+      "caloriesKcal": 1092,
+      "proteinG": 15.8,
+      "fatG": 73.4,
+      "carbsG": 69.6,
+      "fiberG": 22.6,
+      "assumptions": "Standard 70% dark chocolate; fully used in sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 449,
+        "proteinG": 1.7,
+        "fatG": 48.3,
+        "carbsG": 2.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 449,
+      "proteinG": 1.7,
+      "fatG": 48.3,
+      "carbsG": 2.7,
+      "fiberG": 0,
+      "assumptions": "Standard double (heavy) cream; fully used in sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 42,
+      "proteinG": 3.4,
+      "fatG": 1,
+      "carbsG": 5,
+      "fiberG": 0,
+      "assumptions": "Standard whole milk; fully used in sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 320,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 80,
+        "fiberG": 0
+      },
+      "caloriesKcal": 192,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 48,
+      "fiberG": 0,
+      "assumptions": "Golden syrup (invert sugar syrup); 3 tbsp ≈ 60g; fully used in sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0.1,
+        "fatG": 0.1,
+        "carbsG": 12.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 5.76,
+      "proteinG": 0.002,
+      "fatG": 0.002,
+      "carbsG": 0.254,
+      "fiberG": 0,
+      "assumptions": "Second vanilla extract for sauce; 1/2 tsp ≈ 2g; negligible impact.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 387,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "Standard caster sugar; fully used for coating.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 4,
+        "fatG": 2,
+        "carbsG": 80,
+        "fiberG": 34
+      },
+      "caloriesKcal": 12.5,
+      "proteinG": 0.2,
+      "fatG": 0.1,
+      "carbsG": 4,
+      "fiberG": 1.7,
+      "assumptions": "Ground cinnamon; 2 tsp ≈ 5g; used in coating mix.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53153",
+    "name": "Churros",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nBoil the kettle, then measure 300ml boiling water into a jug and add the melted butter and vanilla extract. Sift the flour and baking powder into a big mixing bowl with a big pinch of salt. Make a well in the centre, then pour in the contents of the jug and very quickly beat into the flour with a wooden spoon until lump-free. Rest for 10-15 mins while you make the sauce.\r\n\r\nstep 2\r\nPut all the sauce ingredients into a pan and gently melt together, stirring occasionally until you have a smooth shiny sauce. Keep warm on a low heat.\r\n\r\nstep 3\r\nFill a large deep saucepan one-third full of oil. Cooking with hot oil can be dangerous – before you start, read up on how to deep-fry safely to avoid accidents in the kitchen. Heat until a cube of bread browns in 45 seconds to 1 min. Cover a tray with kitchen paper and mix the caster sugar and cinnamon together.\r\n\r\nstep 4\r\nFit a star nozzle to a piping bag – 1.5-2cm wide is a good size. Fill with the rested dough, then pipe 2-3 strips directly into the pan, snipping off each dough strip with a pair of kitchen scissors. Fry until golden brown and crisp. Be very careful here – if air bubbles form in the churros they can explode, especially if the oil overheats or you use old flour. Cooking with hot oil can be dangerous – before you start, read up on how to deep-fry safely to avoid accidents in the kitchen. Keep children out of the kitchen and protect yourself by wearing long sleeves and eye protection, and keeping your face away from the pan.\r\n\r\nstep 5\r\nOnce the churros are crisp and golden brown, remove them from the oil with a slotted spoon and drain on the kitchen paper-lined tray. Carry on cooking the rest of the dough in batches, sprinkling the cooked churros with some cinnamon sugar as you go. When you’ve cooked all the churros, toss with any remaining cinnamon sugar and serve with the chocolate sauce, for dipping.\r\nTo see a video of how to prepare churros, take a look at our churros ice cream sandwich recipe.",
+    "ingredients": [
+      { "position": 1, "name": "Butter", "measurement": "50g" },
+      {
+        "position": 2,
+        "name": "Vanilla Extract",
+        "measurement": "1/2 teaspoon"
+      },
+      { "position": 3, "name": "Plain Flour", "measurement": "250g" },
+      { "position": 4, "name": "Baking Powder", "measurement": "1 teaspoon" },
+      { "position": 5, "name": "Sunflower Oil", "measurement": "1 L" },
+      { "position": 6, "name": "Bread", "measurement": "2 chopped" },
+      { "position": 7, "name": "Dark Chocolate", "measurement": "200g" },
+      { "position": 8, "name": "Double Cream", "measurement": "100 ml" },
+      { "position": 9, "name": "Milk", "measurement": "100 ml" },
+      {
+        "position": 10,
+        "name": "Golden Syrup",
+        "measurement": "3  tablespoons"
+      },
+      {
+        "position": 11,
+        "name": "Vanilla Extract",
+        "measurement": "1/2 teaspoon"
+      },
+      { "position": 12, "name": "Caster Sugar", "measurement": "100g" },
+      { "position": 13, "name": "Cinnamon", "measurement": "2 teaspoon" }
+    ]
+  }
+}

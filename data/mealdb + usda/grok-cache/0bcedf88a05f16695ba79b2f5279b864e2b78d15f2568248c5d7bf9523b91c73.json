@@ -1,0 +1,21 @@
+{
+  "inputHash": "0bcedf88a05f16695ba79b2f5279b864e2b78d15f2568248c5d7bf9523b91c73",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:58.827Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 4,
+      "grams": 9,
+      "caloriesPer100g": 40,
+      "assumptions": "3 birds-eye chillies; each ~3g (small fresh chilli typical weight)."
+    },
+    {
+      "position": 7,
+      "grams": 20,
+      "caloriesPer100g": 23,
+      "assumptions": "A 'handful' of fresh basil leaves is estimated at 20g based on typical recipe usage for stir-fries; knownCaloriesPer100g copied exactly."
+    }
+  ]
+}

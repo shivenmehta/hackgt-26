@@ -1,0 +1,95 @@
+{
+  "inputHash": "feabff93dc3f66e69af590ff8bb0a37a403af69cf3fb46c8083cb4639bf34f62",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:23:37.809Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 160,
+      "per100g": {
+        "caloriesKcal": 354,
+        "proteinG": 3.3,
+        "fatG": 33,
+        "carbsG": 15,
+        "fiberG": 9
+      },
+      "caloriesKcal": 566.4,
+      "proteinG": 5.28,
+      "fatG": 52.8,
+      "carbsG": 24,
+      "fiberG": 14.4,
+      "assumptions": "2 cups unsweetened coconut flakes ≈ 160 g edible weight; standard density for dried coconut flakes; values reflect unsweetened desiccated coconut.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 760,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 196,
+      "fiberG": 0,
+      "assumptions": "1 cup jaggery/brown sugar ≈ 200 g; treated as typical Indian jaggery (solid form broken or grated) with near-100 % carbohydrate content; calories and macros based on common jaggery profiles.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 320,
+        "proteinG": 3.5,
+        "fatG": 1,
+        "carbsG": 75,
+        "fiberG": 7
+      },
+      "caloriesKcal": 160,
+      "proteinG": 1.75,
+      "fatG": 0.5,
+      "carbsG": 37.5,
+      "fiberG": 3.5,
+      "assumptions": "'Dried Fruit' is vague with no quantity; plausible assumption of 50 g mixed dried fruit (e.g., raisins, dates or chopped apricots) added to the 3-cup total mixture for a typical sweet modak variation; macros averaged from common dried fruits.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53580",
+    "name": "Biss Jaggery Modak",
+    "cuisine": "Indian",
+    "instructions": "Jaggery Modak\n\n1. Take the grated coconut in a bowl.\n2. Add jaggery to the grated coconut.\n3. Mix the coconut and jaggery thoroughly until they are evenly combined.\n4. Take small portions of the mixture and shape them into modaks using your hands or a modak mould.\n5. Repeat until all the mixture has been used.\n6. Serve the freshly prepared jaggery coconut modaks.",
+    "ingredients": [
+      { "position": 1, "name": "Coconut Flakes", "measurement": "2 cups" },
+      { "position": 2, "name": "Brown Sugar", "measurement": "1 cups" },
+      { "position": 3, "name": "Dried Fruit", "measurement": null }
+    ]
+  }
+}

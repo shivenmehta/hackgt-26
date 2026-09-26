@@ -1,0 +1,69 @@
+{
+  "inputHash": "13f8b0dec97622339ce5ec3b359f7c53555a11610843bed7c89627c8f386085a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:49.190Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1.25 kg raw skin-on bone-in chicken pieces (mix of legs and breasts); meat has no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons olive oil (28 g total); pure fat, zero carbs"
+    },
+    {
+      "position": 3,
+      "carbsG": 3,
+      "fiberG": 0.2,
+      "assumptions": "3 cloves garlic, chopped (approx. 9 g); standard values ~33 g carbs/100 g"
+    },
+    {
+      "position": 4,
+      "carbsG": 0.2,
+      "fiberG": 0,
+      "assumptions": "Pinch of saffron threads (approx. 0.2 g); negligible but non-zero carbs"
+    },
+    {
+      "position": 5,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "125 ml dry sherry; ~1.5–2 g residual carbs per 100 ml in dry styles"
+    },
+    {
+      "position": 6,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "200 ml chicken stock; typical commercial stock ~1 g carbs per 100 ml"
+    },
+    {
+      "position": 7,
+      "carbsG": 0.5,
+      "fiberG": 0.3,
+      "assumptions": "1 tablespoon fresh thyme leaves (approx. 3–4 g); standard herb values"
+    },
+    {
+      "position": 8,
+      "carbsG": 40,
+      "fiberG": 2,
+      "assumptions": "50 g raisins; standard nutritional values for dried fruit (~80 g carbs/100 g)"
+    },
+    {
+      "position": 9,
+      "carbsG": 3.6,
+      "fiberG": 1,
+      "assumptions": "2 tablespoons pine nuts (approx. 18 g); standard values ~20 g carbs/100 g"
+    },
+    {
+      "position": 10,
+      "carbsG": 1,
+      "fiberG": 0.7,
+      "assumptions": "Handful of fresh parsley (approx. 12 g); standard herb values"
+    }
+  ]
+}

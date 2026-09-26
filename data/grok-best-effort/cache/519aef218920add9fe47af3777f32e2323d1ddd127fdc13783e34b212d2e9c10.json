@@ -1,0 +1,203 @@
+{
+  "inputHash": "519aef218920add9fe47af3777f32e2323d1ddd127fdc13783e34b212d2e9c10",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:41.830Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 8,
+        "fatG": 1,
+        "carbsG": 78,
+        "fiberG": 2
+      },
+      "caloriesKcal": 350,
+      "proteinG": 8,
+      "fatG": 1,
+      "carbsG": 78,
+      "fiberG": 2,
+      "assumptions": "Standard dry rice noodles; values based on typical uncooked white rice vermicelli.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.9,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0.855,
+      "fatG": 0.09,
+      "carbsG": 3.285,
+      "fiberG": 1.17,
+      "assumptions": "3 medium spring onions (scallions) sliced thinly; typical combined edible weight ~45g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 81,
+        "proteinG": 5.4,
+        "fatG": 0.4,
+        "carbsG": 14.4,
+        "fiberG": 5.7
+      },
+      "caloriesKcal": 40.5,
+      "proteinG": 2.7,
+      "fatG": 0.2,
+      "carbsG": 7.2,
+      "fiberG": 2.85,
+      "assumptions": "Frozen or fresh petit pois (small green peas); standard nutritional profile for cooked peas adjusted for recipe use.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 9.5,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 34,
+      "proteinG": 1.615,
+      "fatG": 0.34,
+      "carbsG": 8.075,
+      "fiberG": 1.275,
+      "assumptions": "One medium fresh red or green chilli (85g whole weight); includes seeds and stem as typical in Vietnamese recipes; values for raw chilli pepper.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 19.55,
+      "proteinG": 1.8700000000000003,
+      "fatG": 0.425,
+      "carbsG": 3.145,
+      "fiberG": 2.38,
+      "assumptions": "Fresh coriander (cilantro) leaves and stems; 85g is a large bunch, typical values for raw coriander.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 25.5,
+      "proteinG": 0.595,
+      "fatG": 0.17,
+      "carbsG": 8.925,
+      "fiberG": 2.38,
+      "assumptions": "One large fresh lime (whole weight ~85g including peel); values represent edible flesh/juice portion scaled to whole weight as recipe lists whole fruit.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 208,
+        "proteinG": 20,
+        "fatG": 13.4,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 624,
+      "proteinG": 60,
+      "fatG": 40.2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw Atlantic salmon fillet; typical farmed salmon values, edible portion only.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53248",
+    "name": "Salmon noodle wraps",
+    "cuisine": "Vietnamese",
+    "instructions": "step 1\r\nHeat oven to 200C/fan 180C/gas 6. Put the noodles in a bowl and pour over enough boiling water to just cover them. Leave for 2 mins, until they are bendable, but not too soft, then drain well. Return to the bowl with the spring onions, petit pois, salt and pepper and a third of the butter. Mix well until the butter has melted.\r\n\r\nstep 2\r\nPile the noodles and vegetables onto two large squares of baking parchment, then sit the salmon on top. Slice the remaining butter and arrange over the top of the salmon. Bring the ends of the paper over the fish, fold them together to seal, then tuck the ends of the paper underneath so there are no gaps. Put the parcels on a baking sheet and bake for 15-20 mins. Transfer to dinner plates and serve without delay.",
+    "ingredients": [
+      { "position": 1, "name": "Rice Noodles", "measurement": "100g" },
+      {
+        "position": 2,
+        "name": "Spring Onions",
+        "measurement": "3 sliced thinly"
+      },
+      { "position": 3, "name": "Petit Pois", "measurement": "50g" },
+      { "position": 4, "name": "Chilli", "measurement": "85g" },
+      { "position": 5, "name": "Coriander", "measurement": "85g" },
+      { "position": 6, "name": "Lime", "measurement": "85g" },
+      { "position": 7, "name": "Salmon", "measurement": "300g" }
+    ]
+  }
+}

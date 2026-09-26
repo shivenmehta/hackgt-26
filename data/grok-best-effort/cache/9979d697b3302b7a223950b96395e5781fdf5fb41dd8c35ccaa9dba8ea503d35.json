@@ -1,0 +1,151 @@
+{
+  "inputHash": "9979d697b3302b7a223950b96395e5781fdf5fb41dd8c35ccaa9dba8ea503d35",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:49.843Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 3.2,
+        "carbsG": 49,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 397.5,
+      "proteinG": 13.5,
+      "fatG": 4.8,
+      "carbsG": 73.5,
+      "fiberG": 4.05,
+      "assumptions": "Standard white bread, as-is weight (soaked later but base weight used).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 579,
+        "proteinG": 21.2,
+        "fatG": 49.9,
+        "carbsG": 21.6,
+        "fiberG": 12.5
+      },
+      "caloriesKcal": 1158,
+      "proteinG": 42.4,
+      "fatG": 99.8,
+      "carbsG": 43.2,
+      "fiberG": 25,
+      "assumptions": "Blanched or skin-on almonds typical for ajo blanco; raw weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 46,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 406.64,
+      "proteinG": 0,
+      "fatG": 46,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Extra virgin olive oil density ≈0.92 g/ml; entire 50 ml used in the blended soup.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "1 average garlic clove ≈3 g peeled; raw weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 23,
+      "per100g": {
+        "caloriesKcal": 19,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 4.37,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.207,
+      "fiberG": 0,
+      "assumptions": "1.5 tbsp red wine vinegar ≈22.5 ml, density ≈1.01 g/ml; entire amount blended.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53169",
+    "name": "Ajo blanco",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nTip the bread into a bowl and pour over 350ml water. Leave to soak for 10 mins.\r\n\r\nstep 2\r\nBlend the ingredients together with 350ml water and 1 tsp salt.\r\n\r\nstep 3\r\nLet the soup cool in the fridge for 1 hr or so, then serve with a drizzle of oil and some black pepper.",
+    "ingredients": [
+      { "position": 1, "name": "White bread", "measurement": "150g" },
+      { "position": 2, "name": "Almonds", "measurement": "200g" },
+      {
+        "position": 3,
+        "name": "Extra Virgin Olive Oil",
+        "measurement": "50 ml"
+      },
+      { "position": 4, "name": "Garlic Clove", "measurement": "1" },
+      { "position": 5, "name": "Red Wine Vinegar", "measurement": "1 ½ tbsp" }
+    ]
+  }
+}

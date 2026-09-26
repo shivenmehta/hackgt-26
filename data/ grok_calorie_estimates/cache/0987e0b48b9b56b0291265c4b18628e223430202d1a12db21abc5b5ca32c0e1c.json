@@ -1,0 +1,93 @@
+{
+  "inputHash": "0987e0b48b9b56b0291265c4b18628e223430202d1a12db21abc5b5ca32c0e1c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:21:29.515Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 3586,
+      "proteinG": 0,
+      "fatG": 405,
+      "assumptions": "450ml vegetable oil ≈ 405g (density ~0.9 g/ml); all oil is incorporated into the batter"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 1380,
+      "proteinG": 40,
+      "fatG": 7,
+      "assumptions": "400g plain white flour; standard nutritional values for wheat flour"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "2 tsp bicarbonate of soda ≈ 10g; negligible calories, protein and fat"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 2120,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "550ml granulated sugar ≈ 440g (bulk density ~0.8 g/ml); all sugar is white table sugar"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 360,
+      "proteinG": 32,
+      "fatG": 24,
+      "assumptions": "5 large eggs ≈ 300g total edible portion (60g each without shell); average values for whole raw eggs"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "½ tsp salt ≈ 3g; negligible calories, protein and fat"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "2 tsp ground cinnamon ≈ 5g; negligible calories, protein and fat"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 205,
+      "proteinG": 5,
+      "fatG": 1,
+      "assumptions": "500g grated carrots; raw, peeled, edible portion only"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 980,
+      "proteinG": 23,
+      "fatG": 98,
+      "assumptions": "150g chopped walnuts; standard values for shelled nuts"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 510,
+      "proteinG": 12,
+      "fatG": 49,
+      "assumptions": "200g full-fat cream cheese; standard nutritional values"
+    },
+    {
+      "position": 11,
+      "caloriesKcal": 580,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "150g caster sugar; same as granulated white sugar"
+    },
+    {
+      "position": 12,
+      "caloriesKcal": 740,
+      "proteinG": 1,
+      "fatG": 82,
+      "assumptions": "100g unsalted butter; all used in the icing"
+    }
+  ]
+}

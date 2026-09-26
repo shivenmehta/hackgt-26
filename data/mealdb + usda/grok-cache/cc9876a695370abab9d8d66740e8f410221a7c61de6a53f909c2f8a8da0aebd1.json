@@ -1,0 +1,63 @@
+{
+  "inputHash": "cc9876a695370abab9d8d66740e8f410221a7c61de6a53f909c2f8a8da0aebd1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:47.339Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 15,
+      "caloriesPer100g": 325,
+      "assumptions": "Standard density for curry powder ~6g per tbsp; 2.5 tbsp total used in recipe (1 tbsp on shrimp + 1.5 tbsp in skillet)."
+    },
+    {
+      "position": 3,
+      "grams": 5,
+      "caloriesPer100g": 250,
+      "assumptions": "All-purpose seasoning is a spice blend; typical 1 tsp ~5g, modest calorie density similar to other dry spice mixes."
+    },
+    {
+      "position": 6,
+      "grams": 119,
+      "caloriesPer100g": 31.3,
+      "assumptions": "One medium-large red bell pepper sliced; standard edible weight ~119g (raw)."
+    },
+    {
+      "position": 7,
+      "grams": 119,
+      "caloriesPer100g": 22.9,
+      "assumptions": "One medium-large green bell pepper sliced; standard edible weight ~119g (raw)."
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "caloriesPer100g": 40,
+      "assumptions": "One scotch bonnet pepper is small (~5-10g edible portion when sliced); using conservative 5g. Calorie density similar to other hot peppers."
+    },
+    {
+      "position": 10,
+      "grams": 380,
+      "caloriesPer100g": 185,
+      "assumptions": "Directly given as 380g; unsweetened coconut milk from a can or carton is typically ~185 kcal/100g."
+    },
+    {
+      "position": 12,
+      "grams": 4,
+      "caloriesPer100g": 101,
+      "assumptions": "4 sprigs of fresh thyme ~1g per sprig (leaves only, modest amount); using supplied known calories."
+    },
+    {
+      "position": 13,
+      "grams": 2,
+      "caloriesPer100g": 0,
+      "assumptions": "To taste salt; modest estimate of 2g total added, 0 kcal as supplied."
+    },
+    {
+      "position": 14,
+      "grams": 1,
+      "caloriesPer100g": 251,
+      "assumptions": "To taste black pepper; modest estimate of 1g total added, using supplied known calories."
+    }
+  ]
+}

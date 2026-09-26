@@ -1,0 +1,33 @@
+{
+  "inputHash": "d938803a02f0130a94bb976832745822712046f02c42b94d862b8df986e6559e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:55.349Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 4,
+      "grams": 2,
+      "caloriesPer100g": 251,
+      "assumptions": "1 tsp freshly ground black pepper weighs ~2g (standard density for ground pepper; matches supplied knownCaloriesPer100g)."
+    },
+    {
+      "position": 5,
+      "grams": 24,
+      "caloriesPer100g": 143,
+      "assumptions": "1 whole garlic bulb (8 cloves as described in instructions) averages 24g peeled; matches supplied knownCaloriesPer100g for raw garlic."
+    },
+    {
+      "position": 8,
+      "grams": 45,
+      "caloriesPer100g": null,
+      "assumptions": "3 Tbsp rice vinegar (or coconut vinegar) totals ~45g (standard 15g per Tbsp density for vinegar); no reasonable calorie density supplied or assumed as target is null."
+    },
+    {
+      "position": 10,
+      "grams": 0.6,
+      "caloriesPer100g": 313,
+      "assumptions": "2 bay leaves average ~0.3g each (standard dried leaf weight); matches supplied knownCaloriesPer100g for dried bay leaves."
+    }
+  ]
+}

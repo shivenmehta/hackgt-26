@@ -1,0 +1,69 @@
+{
+  "inputHash": "5c6fa3ad1fc02d868b92a34cb5447a9f649ecfe0973eab1abdbbfcc71e92b76a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:38.970Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1500,
+      "caloriesPer100g": 106,
+      "assumptions": "4-6 chicken breasts average ~250-375g each raw; used 1.5kg total as typical for crockpot recipe yielding multiple tacos. Known cal value copied."
+    },
+    {
+      "position": 2,
+      "grams": 710,
+      "caloriesPer100g": 150,
+      "assumptions": "Standard 'bottle' of salad dressing/vinaigrette assumed 24 fl oz (~710g). Cal density estimated from typical vinaigrette (oil-based, ~150kcal/100g)."
+    },
+    {
+      "position": 3,
+      "grams": 10,
+      "caloriesPer100g": 375,
+      "assumptions": "1½ tbsp cumin ~10g (1 tbsp ≈6-7g). Known cal value copied; modest amount for seasoning."
+    },
+    {
+      "position": 6,
+      "grams": 425,
+      "caloriesPer100g": 90,
+      "assumptions": "Standard can of refried beans is 15oz (425g). Known cal value copied."
+    },
+    {
+      "position": 7,
+      "grams": 300,
+      "caloriesPer100g": 480,
+      "assumptions": "12 hard taco shells; typical shell ~22-28g each (standard corn taco shell weight). Cal density from typical hard taco shells (~480kcal/100g)."
+    },
+    {
+      "position": 8,
+      "grams": 225,
+      "caloriesPer100g": 400,
+      "assumptions": "2 cups shredded Mexican cheese blend ≈225g (1 cup shredded cheese ≈110-115g). Cal density from typical Mexican blend (~400kcal/100g)."
+    },
+    {
+      "position": 9,
+      "grams": 150,
+      "caloriesPer100g": 27,
+      "assumptions": "'Halved' grape tomatoes for 12+ tacos assumed ~150g (1-2 cups or ~20-25 small tomatoes). Known cal value copied."
+    },
+    {
+      "position": 10,
+      "grams": 30,
+      "caloriesPer100g": 29,
+      "assumptions": "1-2 sliced/seeded jalapeños ≈30g total for topping 12 tacos. Known cal value copied."
+    },
+    {
+      "position": 11,
+      "grams": 150,
+      "caloriesPer100g": 223,
+      "assumptions": "1 large avocado (peeled/sliced for guacamole) ≈150g edible flesh. Known cal value copied."
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "caloriesPer100g": 45,
+      "assumptions": "2 tbsp green salsa ≈30g. Cal density estimated from typical salsa verde (~45kcal/100g)."
+    }
+  ]
+}

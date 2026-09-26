@@ -1,0 +1,489 @@
+{
+  "inputHash": "a934c157d646d5945326a0d3c869478d41481d4f49dcec8f203982d97b45cb67",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:36.735Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 176.8,
+      "proteinG": 0,
+      "fatG": 20,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1.5 tbsp olive oil (density ~0.92 g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 400,
+        "proteinG": 30,
+        "fatG": 30,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 400,
+      "proteinG": 30,
+      "fatG": 30,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "100g dry-cured bacon as specified; typical values for streaky/pancetta style.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 72,
+        "proteinG": 3,
+        "fatG": 0.3,
+        "carbsG": 14,
+        "fiberG": 3
+      },
+      "caloriesKcal": 172.8,
+      "proteinG": 7.2,
+      "fatG": 0.72,
+      "carbsG": 33.6,
+      "fiberG": 7.2,
+      "assumptions": "12 small shallots ~20g each, peeled and edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 460,
+      "per100g": {
+        "caloriesKcal": 180,
+        "proteinG": 20,
+        "fatG": 10,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 828,
+      "proteinG": 92,
+      "fatG": 46,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw bone-in chicken legs with skin; typical dark meat values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 650,
+      "per100g": {
+        "caloriesKcal": 220,
+        "proteinG": 18,
+        "fatG": 16,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1430,
+      "proteinG": 117,
+      "fatG": 104,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw bone-in chicken thighs with skin; typical values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 280,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 25,
+        "fatG": 6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 462,
+      "proteinG": 70,
+      "fatG": 16.8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw boneless chicken breasts without skin; typical white meat values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 22.35,
+      "proteinG": 0.9,
+      "fatG": 0.075,
+      "carbsG": 4.95,
+      "fiberG": 0.3,
+      "assumptions": "3 garlic cloves, finely chopped ~5g each.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 231,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 103.95,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbsp brandy (density ~0.94 g/ml); alcohol calories included.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 2.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 492,
+      "proteinG": 0.6,
+      "fatG": 0,
+      "carbsG": 15.6,
+      "fiberG": 0,
+      "assumptions": "600ml red wine (density ~1 g/ml); typical dry red wine values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 1.5,
+        "fatG": 0.5,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 22.5,
+      "proteinG": 2.25,
+      "fatG": 0.75,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "150ml chicken stock; typical low-calorie broth values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 4,
+        "fatG": 0,
+        "carbsG": 18,
+        "fiberG": 3
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.4,
+      "fatG": 0,
+      "carbsG": 1.8,
+      "fiberG": 0.3,
+      "assumptions": "2 tsp tomato puree/paste; typical concentrated values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 100,
+        "proteinG": 5,
+        "fatG": 2,
+        "carbsG": 15,
+        "fiberG": 10
+      },
+      "caloriesKcal": 5,
+      "proteinG": 0.25,
+      "fatG": 0.1,
+      "carbsG": 0.75,
+      "fiberG": 0.5,
+      "assumptions": "3 sprigs fresh thyme; estimated edible leaves only.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 130,
+        "proteinG": 3,
+        "fatG": 4,
+        "carbsG": 20,
+        "fiberG": 14
+      },
+      "caloriesKcal": 6.5,
+      "proteinG": 0.15,
+      "fatG": 0.2,
+      "carbsG": 1,
+      "fiberG": 0.7,
+      "assumptions": "2 sprigs fresh rosemary; estimated edible leaves only.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 bay leaves; negligible edible contribution after removal.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 1,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 3.6,
+      "proteinG": 0.3,
+      "fatG": 0.1,
+      "carbsG": 0.6,
+      "fiberG": 0.3,
+      "assumptions": "Parsley for garnish; estimated small bunch used as garnish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 3,
+        "fatG": 0.3,
+        "carbsG": 3.3,
+        "fiberG": 1
+      },
+      "caloriesKcal": 55,
+      "proteinG": 7.5,
+      "fatG": 0.75,
+      "carbsG": 8.25,
+      "fiberG": 2.5,
+      "assumptions": "250g chestnut mushrooms; typical fresh values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 72.8,
+      "proteinG": 2,
+      "fatG": 0.2,
+      "carbsG": 15.2,
+      "fiberG": 0.6,
+      "assumptions": "2 tbsp plain flour ~10g each level tbsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 1,
+        "fatG": 81,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 35.85,
+      "proteinG": 0.05,
+      "fatG": 4.05,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp butter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52832",
+    "name": "Coq au vin",
+    "cuisine": "French",
+    "instructions": "Heat 1 tbsp of the oil in a large, heavy-based saucepan or flameproof dish. Tip in the bacon and fry until crisp. Remove and drain on kitchen paper. Add the shallots to the pan and fry, stirring or shaking the pan often, for 5-8 mins until well browned all over. Remove and set aside with the bacon.\r\nPat the chicken pieces dry with kitchen paper. Pour the remaining oil into the pan, then fry half the chicken pieces, turning regularly, for 5-8 mins until well browned. Remove, then repeat with the remaining chicken. Remove and set aside.\r\nScatter in the garlic and fry briefly, then, with the heat medium-high, pour in the brandy or Cognac, stirring the bottom of the pan to deglaze. The alcohol should sizzle and start to evaporate so there is not much left.\r\nReturn the chicken legs and thighs to the pan along with any juices, then pour in a little of the wine, stirring the bottom of the pan again. Stir in the rest of the wine, the stock and tomato purée, drop in the bouquet garni, season with pepper and a pinch of salt, then return the bacon and shallots to the pan. Cover, lower the heat to a gentle simmer, add the chicken breasts and cook for 50 mins-1hr.\r\nJust before ready to serve, heat the oil for the mushrooms in a large non-stick frying pan. Add the mushrooms and fry over a high heat for a few mins until golden. Remove and keep warm.\r\nLift the chicken, shallots and bacon from the pan and transfer to a warmed serving dish. Remove the bouquet garni. To make the thickener, mix the flour, olive oil and butter in a small bowl using the back of a teaspoon. Bring the wine mixture to a gentle boil, then gradually drop in small pieces of the thickener, whisking each piece in using a wire whisk. Simmer for 1-2 mins. Scatter the mushrooms over the chicken, then pour over the wine sauce. Garnish with chopped parsley.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "1½ tbsp" },
+      {
+        "position": 2,
+        "name": "Bacon",
+        "measurement": "3 rashers (100g) chopped dry-cured"
+      },
+      { "position": 3, "name": "Shallots", "measurement": "12 small" },
+      { "position": 4, "name": "Chicken Legs", "measurement": "2 (460g)" },
+      { "position": 5, "name": "Chicken Thighs", "measurement": "4 (650g)" },
+      { "position": 6, "name": "Chicken Breasts", "measurement": "2 (280g)" },
+      { "position": 7, "name": "Garlic", "measurement": "3 finely chopped" },
+      { "position": 8, "name": "Brandy", "measurement": "3 tbsp" },
+      { "position": 9, "name": "Red Wine", "measurement": "600ml" },
+      { "position": 10, "name": "Chicken Stock", "measurement": "150ml" },
+      { "position": 11, "name": "tomato puree", "measurement": "2 tsp" },
+      { "position": 12, "name": "thyme", "measurement": "3 sprigs" },
+      { "position": 13, "name": "Rosemary", "measurement": "2 sprigs" },
+      { "position": 14, "name": "bay leaves", "measurement": "2" },
+      { "position": 15, "name": "parsley", "measurement": "garnish" },
+      { "position": 16, "name": "chestnut mushroom", "measurement": "250g" },
+      { "position": 17, "name": "plain flour", "measurement": "2 tbsp" },
+      { "position": 18, "name": "butter", "measurement": "1 tsp" }
+    ]
+  }
+}

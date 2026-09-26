@@ -1,0 +1,251 @@
+{
+  "inputHash": "df0506eb403f875cab393bfefdf82c4359e21c204858ca42353c3208a0f69a92",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:29:29.709Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17.5,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 346.5,
+      "proteinG": 9,
+      "fatG": 0.45,
+      "carbsG": 78.75,
+      "fiberG": 9.9,
+      "assumptions": "3 medium russet potatoes, raw, unpeeled, typical edible weight ~150 g each; matches diced hash-brown style prep",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon olive oil; standard density ~14 g per tbsp used for initial frying",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 541,
+        "proteinG": 37,
+        "fatG": 42,
+        "carbsG": 1.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 324.6,
+      "proteinG": 22.2,
+      "fatG": 25.2,
+      "carbsG": 0.84,
+      "fiberG": 0,
+      "assumptions": "2 strips thick-cut bacon, frozen then chopped; typical raw weight 30 g per strip, fully rendered in skillet",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "1 medium garlic clove, minced; typical peeled weight ~6 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 260,
+        "proteinG": 0,
+        "fatG": 0.1,
+        "carbsG": 67,
+        "fiberG": 0
+      },
+      "caloriesKcal": 52,
+      "proteinG": 0,
+      "fatG": 0.02,
+      "carbsG": 13.4,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon pure maple syrup; standard density ~20 g per tbsp drizzled at end",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.7,
+        "carbsG": 6.1,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 1.8,
+      "proteinG": 0.15,
+      "fatG": 0.035,
+      "carbsG": 0.305,
+      "fiberG": 0.165,
+      "assumptions": "Fresh parsley garnish, small handful chopped; plausible ~5 g for final sprinkle",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of salt; negligible weight ~1 g for seasoning estimate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of pepper; negligible weight ~1 g for seasoning estimate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Allspice to taste (listed as Old Bay in instructions but Allspice here); small pinch ~2 g total, negligible macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52965",
+    "name": "Breakfast Potatoes",
+    "cuisine": "Canadian",
+    "instructions": "Before you do anything, freeze your bacon slices that way when you're ready to prep, it'll be so much easier to chop!\r\nWash the potatoes and cut medium dice into square pieces. To prevent any browning, place the already cut potatoes in a bowl filled with water.\r\nIn the meantime, heat 1-2 tablespoons of oil in a large skillet over medium-high heat. Tilt the skillet so the oil spreads evenly.\r\nOnce the oil is hot, drain the potatoes and add to the skillet. Season with salt, pepper, and Old Bay as needed.\r\nCook for 10 minutes, stirring the potatoes often, until brown. If needed, add a tablespoon more of oil.\r\nChop up the bacon and add to the potatoes. The bacon will start to render and the fat will begin to further cook the potatoes. Toss it up a bit! The bacon will take 5-6 minutes to crisp.\r\nOnce the bacon is cooked, reduce the heat to medium-low, add the minced garlic and toss. Season once more. Add dried or fresh parsley. Control heat as needed.\r\nLet the garlic cook until fragrant, about one minute.\r\nJust before serving, drizzle over the maple syrup and toss. Let that cook another minute, giving the potatoes a caramelized effect.\r\nServe in a warm bowl with a sunny side up egg!",
+    "ingredients": [
+      { "position": 1, "name": "Potatoes", "measurement": "3 Medium" },
+      { "position": 2, "name": "Olive Oil", "measurement": "1 tbs" },
+      { "position": 3, "name": "Bacon", "measurement": "2 strips" },
+      { "position": 4, "name": "Garlic Clove", "measurement": "Minced" },
+      { "position": 5, "name": "Maple Syrup", "measurement": "1 tbs" },
+      { "position": 6, "name": "Parsley", "measurement": "Garnish" },
+      { "position": 7, "name": "Salt", "measurement": "Pinch" },
+      { "position": 8, "name": "Pepper", "measurement": "Pinch" },
+      { "position": 9, "name": "Allspice", "measurement": "To taste" }
+    ]
+  }
+}

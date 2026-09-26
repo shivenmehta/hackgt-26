@@ -1,0 +1,63 @@
+{
+  "inputHash": "8c4007d774c28c1ff5e2575f691dcb56f8f68c4ae5663829842bce995e37901f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:47.088Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 200,
+      "caloriesPer100g": null,
+      "assumptions": "Directly supplied in the ingredient measurement as 200g; using knownGrams=null so estimating only the null calories field is not possible without a source, but per instructions we do not invent values or citations; returning null for caloriesPer100g."
+    },
+    {
+      "position": 5,
+      "grams": 20,
+      "caloriesPer100g": 40,
+      "assumptions": "1 large red chilli is typically 15-25g; using 20g as a realistic average weight for a large fresh chilli in recipes."
+    },
+    {
+      "position": 6,
+      "grams": 360,
+      "caloriesPer100g": 71.4,
+      "assumptions": "24 skinned king prawns; standard large/king prawns weigh ~15g each when peeled and deveined (edible portion only), so 24 x 15g = 360g total edible mass."
+    },
+    {
+      "position": 7,
+      "grams": 150,
+      "caloriesPer100g": 27,
+      "assumptions": "12 cherry tomatoes; average cherry tomato weighs ~12-15g, so 12 x ~12.5g = 150g total."
+    },
+    {
+      "position": 8,
+      "grams": 20,
+      "caloriesPer100g": 23,
+      "assumptions": "A handful of fresh basil leaves is typically 10-25g; using 20g as a realistic modest amount for a recipe serving 4."
+    },
+    {
+      "position": 9,
+      "grams": 100,
+      "caloriesPer100g": 17.11,
+      "assumptions": "Lettuce leaves for salad (to serve with dressing); assuming ~100g total edible portion for 4 modest side servings, as the recipe does not specify quantity."
+    },
+    {
+      "position": 10,
+      "grams": null,
+      "caloriesPer100g": 266,
+      "assumptions": "Bread 'to serve' with no quantity given; cannot reasonably estimate total edible grams for the entire recipe without inventing a serving count or amount, so returning null for grams."
+    },
+    {
+      "position": 11,
+      "grams": 30,
+      "caloriesPer100g": null,
+      "assumptions": "2 tbsp fromage frais; 1 tbsp is ~15g for creamy dairy products, so 30g total. No known calories supplied and per instructions we do not invent values, so returning null for caloriesPer100g."
+    },
+    {
+      "position": 12,
+      "grams": 10,
+      "caloriesPer100g": 30,
+      "assumptions": "Grated zest of 2 limes; lime zest is the outer peel only (low mass, ~5g per lime), so ~10g total for 2 limes."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "inputHash": "af6baab7db4301f15b0d082d1276f8bc385a438d8f93e38a2f44f0390de6f8f1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:15.828Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1800,
+      "caloriesPer100g": 197,
+      "assumptions": "4 meaty veal shanks estimated at ~450g each (bone-in weight); typical range for osso buco shanks is 400-600g per piece for meaty cuts. Known calories used directly (likely for raw veal shank meaty portion)."
+    },
+    {
+      "position": 5,
+      "grams": 110,
+      "caloriesPer100g": 38,
+      "assumptions": "1 medium onion chopped ≈ 110g (standard edible weight for a 3-inch diameter onion). Known calories used directly (raw)."
+    },
+    {
+      "position": 6,
+      "grams": 60,
+      "caloriesPer100g": 48,
+      "assumptions": "1 medium carrot chopped ≈ 60g (standard edible weight). Known calories used directly (raw)."
+    },
+    {
+      "position": 7,
+      "grams": 40,
+      "caloriesPer100g": 16.7,
+      "assumptions": "1 celery stalk chopped ≈ 40g (standard edible weight). Known calories used directly (raw)."
+    },
+    {
+      "position": 8,
+      "grams": 230,
+      "caloriesPer100g": 26.9,
+      "assumptions": "1 medium fennel bulb (edible portion after trimming) ≈ 230g. Known calories used directly (raw)."
+    },
+    {
+      "position": 10,
+      "grams": 6,
+      "caloriesPer100g": 47,
+      "assumptions": "2 strips orange zest estimated at ~3g each (thin peel only, no pith); standard caloric density for orange peel used as reasonable estimate for null value."
+    },
+    {
+      "position": 12,
+      "grams": 0.5,
+      "caloriesPer100g": 313,
+      "assumptions": "1 dried bay leaf ≈ 0.5g (typical whole leaf weight). Known calories used directly."
+    },
+    {
+      "position": 13,
+      "grams": 240,
+      "caloriesPer100g": 82,
+      "assumptions": "1 cup dry white wine = 240 ml ≈ 240g (density near 1). Known calories used directly."
+    },
+    {
+      "position": 15,
+      "grams": 240,
+      "caloriesPer100g": 22,
+      "assumptions": "1 cup chopped tomatoes with juice ≈ 240g. Known calories used directly."
+    },
+    {
+      "position": 18,
+      "grams": 2,
+      "caloriesPer100g": 47,
+      "assumptions": "1 tsp grated lemon zest ≈ 2g; standard caloric density for citrus peel used as reasonable estimate for null value."
+    }
+  ]
+}

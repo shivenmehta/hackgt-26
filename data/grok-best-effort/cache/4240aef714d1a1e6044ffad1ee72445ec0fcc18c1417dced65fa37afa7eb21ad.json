@@ -1,0 +1,407 @@
+{
+  "inputHash": "4240aef714d1a1e6044ffad1ee72445ec0fcc18c1417dced65fa37afa7eb21ad",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:40.191Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 3.1,
+        "fatG": 0.4,
+        "carbsG": 3.3,
+        "fiberG": 1
+      },
+      "caloriesKcal": 5.94,
+      "proteinG": 0.8370000000000001,
+      "fatG": 0.10800000000000001,
+      "carbsG": 0.8909999999999999,
+      "fiberG": 0.27,
+      "assumptions": "Shiitake or button mushrooms; 1/3 cup chopped mushrooms ≈27g based on typical density of 80-85g per cup.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 35,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 8.5,
+        "fiberG": 5.9
+      },
+      "caloriesKcal": 3.5,
+      "proteinG": 0.18,
+      "fatG": 0.02,
+      "carbsG": 0.85,
+      "fiberG": 0.59,
+      "assumptions": "Dried wood ear mushrooms rehydrated; 1/3 cup sliced ≈10g dry weight equivalent, using standard rehydrated density in Chinese soups.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 160,
+      "per100g": {
+        "caloriesKcal": 76,
+        "proteinG": 8.1,
+        "fatG": 4.2,
+        "carbsG": 2,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 121.6,
+      "proteinG": 12.96,
+      "fatG": 6.72,
+      "carbsG": 3.2,
+      "fiberG": 0.32,
+      "assumptions": "Silken or firm tofu; 2/3 cup cubed ≈160g (density ~240g per cup).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 220,
+        "proteinG": 25,
+        "fatG": 13,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 165,
+      "proteinG": 18.75,
+      "fatG": 9.75,
+      "carbsG": 0.75,
+      "fiberG": 0,
+      "assumptions": "BBQ/char siu pork; 1/2 cup diced ≈75g using typical cooked pork density ~150g/cup.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 10,
+        "proteinG": 1.8,
+        "fatG": 0.3,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 60,
+      "proteinG": 10.8,
+      "fatG": 1.8,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "Chicken broth/stock; 2.5 cups ≈600ml/600g (density ~1g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1/2 tsp ≈3g; all values zeroed as pure mineral.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 3.87,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "Granulated sugar; 1/4 tsp ≈1g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 44.2,
+      "proteinG": 0,
+      "fatG": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Sesame oil; 1 tsp ≈5g (density ~0.92g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "White pepper; 1/4 tsp ≈0.6g rounded to 1g; negligible macros treated as zero.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 1,
+        "fatG": 0.5,
+        "carbsG": 3,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 0.6,
+      "proteinG": 0.03,
+      "fatG": 0.015,
+      "carbsG": 0.09,
+      "fiberG": 0.015,
+      "assumptions": "Chili/hot pepper sauce; 1/2 tsp ≈3g using typical Asian chili sauce density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 360,
+      "per100g": {
+        "caloriesKcal": 21,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 75.6,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 3.24,
+      "fiberG": 0,
+      "assumptions": "Rice vinegar or black vinegar; 1.5 cups ≈360ml/360g (density ~1g/ml); adjusted for typical vinegar composition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.5,
+        "fatG": 0.1,
+        "carbsG": 5.2,
+        "fiberG": 0.8
+      },
+      "caloriesKcal": 2.65,
+      "proteinG": 0.275,
+      "fatG": 0.005,
+      "carbsG": 0.26,
+      "fiberG": 0.04,
+      "assumptions": "Light or regular soy sauce; 1 tsp ≈5g (density ~1.1g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 91,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 30.48,
+      "proteinG": 0.024,
+      "fatG": 0.008,
+      "carbsG": 7.28,
+      "fiberG": 0.07200000000000001,
+      "assumptions": "Cornstarch; 1 tbs ≈8g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Tap water; 2 tbs ≈30g; all values zeroed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.45,
+      "fatG": 0.05,
+      "carbsG": 1.825,
+      "fiberG": 0.65,
+      "assumptions": "Green/spring onions sliced; 1/4 cup ≈25g using typical density ~100g per cup.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52954",
+    "name": "Hot and Sour Soup",
+    "cuisine": "Chinese",
+    "instructions": "STEP 1 - MAKING THE SOUP\r\nIn a wok add chicken broth and wait for it to boil.\r\nNext add salt, sugar, sesame seed oil, white pepper, hot pepper sauce, vinegar and soy sauce and stir for few seconds.\r\nAdd Tofu, mushrooms, black wood ear mushrooms to the wok.\r\nTo thicken the sauce, whisk together 1 Tablespoon of cornstarch and 2 Tablespoon of water in a bowl and slowly add to your soup until it's the right thickness.\r\nNext add 1 egg slightly beaten with a knife or fork and add it to the soup and stir for 8 seconds\r\nServe the soup in a bowl and add the bbq pork and sliced green onions on top.",
+    "ingredients": [
+      { "position": 1, "name": "Mushrooms", "measurement": "1/3 cup" },
+      { "position": 2, "name": "Wood Ear Mushrooms", "measurement": "1/3 cup" },
+      { "position": 3, "name": "Tofu", "measurement": "2/3 Cup" },
+      { "position": 4, "name": "Pork", "measurement": "1/2 cup" },
+      { "position": 5, "name": "Chicken Stock", "measurement": "2-1/2 cups" },
+      { "position": 6, "name": "Salt", "measurement": "1/2 tsp" },
+      { "position": 7, "name": "Sugar", "measurement": "1/4 tsp" },
+      { "position": 8, "name": "Sesame Seed Oil", "measurement": "1 tsp" },
+      { "position": 9, "name": "Pepper", "measurement": "1/4 tsp" },
+      { "position": 10, "name": "Hotsauce", "measurement": "1/2 tsp" },
+      { "position": 11, "name": "Vinegar", "measurement": "1-½ cups" },
+      { "position": 12, "name": "Soy Sauce", "measurement": "1 tsp" },
+      { "position": 13, "name": "Cornstarch", "measurement": "1 tbs" },
+      { "position": 14, "name": "Water", "measurement": "2 tbs" },
+      { "position": 15, "name": "Spring Onions", "measurement": "1/4 cup" }
+    ]
+  }
+}

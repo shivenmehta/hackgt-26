@@ -1,0 +1,21 @@
+{
+  "inputHash": "2105896399b48d78b9f75d7c684aa2c017e69e78c8bc016de2f354b1a4af7a2f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:37.321Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 100,
+      "caloriesPer100g": 318,
+      "assumptions": "Miniature marshmallows are ~50g per cup based on standard product density (e.g. Kraft Jet-Puffed); used 2 cups total in recipe but only position 1 targets the first 2-cup line, so 100g for that line. Calories from typical marshmallow nutrition."
+    },
+    {
+      "position": 5,
+      "grams": 180,
+      "caloriesPer100g": 588,
+      "assumptions": "Chopped peanuts ~145g per cup; 1.25 cups = ~181g rounded. Known caloriesPer100g copied exactly."
+    }
+  ]
+}

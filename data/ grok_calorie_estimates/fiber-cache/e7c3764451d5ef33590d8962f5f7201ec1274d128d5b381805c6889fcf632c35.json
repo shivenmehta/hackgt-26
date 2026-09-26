@@ -1,0 +1,75 @@
+{
+  "inputHash": "e7c3764451d5ef33590d8962f5f7201ec1274d128d5b381805c6889fcf632c35",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:26.450Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 130,
+      "fiberG": 16,
+      "assumptions": "650 g small potatoes, raw weight, skin on; standard potato nutrition (20 g carbs, 2.5 g fiber per 100 g)."
+    },
+    {
+      "position": 2,
+      "carbsG": 1.2,
+      "fiberG": 0.6,
+      "assumptions": "1 tsp harissa spice blend; typical dry spice mix values."
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp olive oil (≈9 g total); pure oil has zero carbs."
+    },
+    {
+      "position": 4,
+      "carbsG": 5.3,
+      "fiberG": 0.2,
+      "assumptions": "Juice of half a lemon (≈30 ml / 30 g); standard lemon juice values."
+    },
+    {
+      "position": 5,
+      "carbsG": 4.6,
+      "fiberG": 1.7,
+      "assumptions": "4 spring onions (≈80 g total); standard values for green onions."
+    },
+    {
+      "position": 6,
+      "carbsG": 3.6,
+      "fiberG": 3,
+      "assumptions": "150 g rocket (arugula); standard leafy green nutrition."
+    },
+    {
+      "position": 7,
+      "carbsG": 3.2,
+      "fiberG": 0,
+      "assumptions": "80 g feta cheese; standard values for Greek-style feta."
+    },
+    {
+      "position": 8,
+      "carbsG": 2.4,
+      "fiberG": 1.6,
+      "assumptions": "20 g chopped fresh mint; standard herb nutrition."
+    },
+    {
+      "position": 9,
+      "carbsG": 2.3,
+      "fiberG": 1.3,
+      "assumptions": "2 tbsp pine nuts (≈15 g); standard values, all used as topping."
+    },
+    {
+      "position": 10,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of salt; negligible contribution, cannot reasonably estimate beyond zero."
+    },
+    {
+      "position": 11,
+      "carbsG": 0.4,
+      "fiberG": 0.2,
+      "assumptions": "Pinch of pepper; typical values for small amount of ground black pepper."
+    }
+  ]
+}

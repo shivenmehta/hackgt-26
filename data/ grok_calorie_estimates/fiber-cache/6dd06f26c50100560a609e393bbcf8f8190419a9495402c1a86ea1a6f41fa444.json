@@ -1,0 +1,27 @@
+{
+  "inputHash": "6dd06f26c50100560a609e393bbcf8f8190419a9495402c1a86ea1a6f41fa444",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:03:18.671Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 28,
+      "fiberG": 2,
+      "assumptions": "2 standard medium slices white bread (~50 g total); values for plain white bread."
+    },
+    {
+      "position": 2,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 large whole eggs (~100 g total, raw/edible portion)."
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "0.5 tsp table salt (~3 g); no carbohydrates."
+    }
+  ]
+}

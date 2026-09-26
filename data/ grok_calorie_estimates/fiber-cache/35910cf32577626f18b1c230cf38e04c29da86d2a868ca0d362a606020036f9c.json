@@ -1,0 +1,57 @@
+{
+  "inputHash": "35910cf32577626f18b1c230cf38e04c29da86d2a868ca0d362a606020036f9c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:07.620Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 12,
+      "fiberG": 6,
+      "assumptions": "400g mushrooms; typical raw values ~3g carbs/100g with ~1.5g fiber/100g"
+    },
+    {
+      "position": 2,
+      "carbsG": 3,
+      "fiberG": 1,
+      "assumptions": "1.5 tbsp English mustard (~22g); typical values ~13g carbs/100g with ~4g fiber/100g"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "dash olive oil (5ml assumed); pure fat, zero carbs"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "750g beef fillet; pure meat, zero carbs"
+    },
+    {
+      "position": 5,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "7 slices Parma ham (~120g); typical values ~1-2g carbs/100g, negligible fiber"
+    },
+    {
+      "position": 6,
+      "carbsG": 170,
+      "fiberG": 6,
+      "assumptions": "500g puff pastry; typical values ~34g carbs/100g with ~1.2g fiber/100g"
+    },
+    {
+      "position": 7,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "flour for dusting: quantity too small and uncertain to estimate meaningfully"
+    },
+    {
+      "position": 8,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 egg yolks (~34g); typical values ~3.6g carbs/100g with negligible fiber"
+    }
+  ]
+}

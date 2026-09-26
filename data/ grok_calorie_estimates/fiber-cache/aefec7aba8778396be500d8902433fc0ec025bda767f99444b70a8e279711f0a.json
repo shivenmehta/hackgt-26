@@ -1,0 +1,129 @@
+{
+  "inputHash": "aefec7aba8778396be500d8902433fc0ec025bda767f99444b70a8e279711f0a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:52.683Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "175g butter: pure fat, no carbs"
+    },
+    {
+      "position": 2,
+      "carbsG": 175,
+      "fiberG": 0,
+      "assumptions": "175g caster sugar (sucrose)"
+    },
+    {
+      "position": 3,
+      "carbsG": 104,
+      "fiberG": 3.5,
+      "assumptions": "140g self-raising flour (standard wheat-based; ~74g carbs/100g incl. ~2.5g fiber/100g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 6,
+      "fiberG": 6,
+      "assumptions": "50g ground almonds (almond meal; fiber equals total carbs as all from fiber)"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "½ tsp baking powder (~3g; typical starch content)"
+    },
+    {
+      "position": 6,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "3 medium eggs (~150g total without shells; trace carbs)"
+    },
+    {
+      "position": 7,
+      "carbsG": 0.3,
+      "fiberG": 0,
+      "assumptions": "½ tsp vanilla extract (~2.5g; alcohol/sugar base)"
+    },
+    {
+      "position": 8,
+      "carbsG": 0.1,
+      "fiberG": 0,
+      "assumptions": "¼ tsp almond extract (~1g; alcohol/sugar base)"
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "175g butter: pure fat, no carbs"
+    },
+    {
+      "position": 10,
+      "carbsG": 175,
+      "fiberG": 0,
+      "assumptions": "175g caster sugar (sucrose)"
+    },
+    {
+      "position": 11,
+      "carbsG": 104,
+      "fiberG": 3.5,
+      "assumptions": "140g self-raising flour (standard wheat-based; ~74g carbs/100g incl. ~2.5g fiber/100g)"
+    },
+    {
+      "position": 12,
+      "carbsG": 6,
+      "fiberG": 6,
+      "assumptions": "50g ground almonds (almond meal; fiber equals total carbs as all from fiber)"
+    },
+    {
+      "position": 13,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "½ tsp baking powder (~3g; typical starch content)"
+    },
+    {
+      "position": 14,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "3 medium eggs (~150g total without shells; trace carbs)"
+    },
+    {
+      "position": 15,
+      "carbsG": 0.3,
+      "fiberG": 0,
+      "assumptions": "½ tsp vanilla extract (~2.5g; alcohol/sugar base)"
+    },
+    {
+      "position": 16,
+      "carbsG": 0.1,
+      "fiberG": 0,
+      "assumptions": "¼ tsp almond extract (~1g; alcohol/sugar base)"
+    },
+    {
+      "position": 17,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "½ tsp pink food colouring (gel/paste; minor sugar carrier)"
+    },
+    {
+      "position": 18,
+      "carbsG": 104,
+      "fiberG": 1.4,
+      "assumptions": "200g apricot jam (typical fruit jam values: ~52g carbs/100g incl. ~0.7g fiber/100g)"
+    },
+    {
+      "position": 19,
+      "carbsG": 520,
+      "fiberG": 26,
+      "assumptions": "1kg marzipan (typical UK almond paste/sugar mix: ~52g carbs/100g incl. ~2.6g fiber/100g)"
+    },
+    {
+      "position": 20,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Icing sugar for dusting: quantity unspecified, cannot reasonably estimate total"
+    }
+  ]
+}

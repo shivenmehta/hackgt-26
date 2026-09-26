@@ -1,0 +1,39 @@
+{
+  "inputHash": "933c1e5f20e9dcda9d72d5ed44c5ec0275b4e08c75931c5532bf4eb2c3a66698",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:00.993Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 15,
+      "fiberG": 6,
+      "assumptions": "2 large Romano peppers ≈ 300 g total raw weight; drained of juice per instructions (edible portion only); typical values for sweet red peppers."
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "800 g raw lamb mince; pure meat with no carbohydrates."
+    },
+    {
+      "position": 3,
+      "carbsG": 9,
+      "fiberG": 2,
+      "assumptions": "3 tbsp Turkish red pepper paste ≈ 60 g total; typical values for concentrated biber salçası."
+    },
+    {
+      "position": 4,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "1 tbsp pul biber ≈ 6 g; typical values for dried Turkish chili flakes."
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbsp sunflower oil; pure fat with no carbohydrates."
+    }
+  ]
+}

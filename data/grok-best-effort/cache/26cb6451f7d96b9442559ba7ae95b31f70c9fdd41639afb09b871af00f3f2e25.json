@@ -1,0 +1,385 @@
+{
+  "inputHash": "26cb6451f7d96b9442559ba7ae95b31f70c9fdd41639afb09b871af00f3f2e25",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:37.123Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 7,
+      "per100g": {
+        "caloriesKcal": 325,
+        "proteinG": 40,
+        "fatG": 8,
+        "carbsG": 40,
+        "fiberG": 20
+      },
+      "caloriesKcal": 22.75,
+      "proteinG": 2.8,
+      "fatG": 0.56,
+      "carbsG": 2.8,
+      "fiberG": 1.4,
+      "assumptions": "Active dry yeast; standard 7g packet equivalent for 1/4 oz; typical values for dry yeast.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 59,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Warm water for dissolving yeast; 1/4 cup = 59 ml assumed density 1g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 355,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Additional water in dough; 1 1/2 cups = 355 ml assumed density 1g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 387,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "Granulated white sugar; 1/2 cup = 100g standard measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1 tsp = 6g standard measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143,
+      "proteinG": 13,
+      "fatG": 10,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "Large whole eggs; 2 eggs ≈ 100g edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 65,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 574.6,
+      "proteinG": 0,
+      "fatG": 65,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Vegetable shortening; 1/3 cup ≈ 65g standard measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 650,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 2366,
+      "proteinG": 65,
+      "fatG": 6.5,
+      "carbsG": 494,
+      "fiberG": 19.5,
+      "assumptions": "All-purpose flour; measurement listed as '5 drops' is clearly erroneous (likely OCR/copy-paste error from glaze section); assumed 5 cups based on standard Krispy Kreme-style yeast donut recipes that use ~5-5.25 cups total flour to match the rise, beating and rolling instructions; ~650g total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 353.6,
+      "proteinG": 0,
+      "fatG": 40,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Canola oil for deep frying; 'Sprinking' is erroneous/vague; plausible assumption of ~40g absorbed oil per batch of ~12 donuts based on typical fried donut absorption rates (recipe context implies enough for deep fryer at 350°F).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3,
+        "fatG": 2,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 50.4,
+      "proteinG": 3.6,
+      "fatG": 2.4,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "Whole milk; 1/2 cup = 120 ml/g standard measure (listed out of order but used in dough).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 774,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 200,
+      "fiberG": 0,
+      "assumptions": "Powdered sugar for glaze; 2 cups = 200g standard measure (listed out of order).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 43.2,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Vanilla extract; 1 1/2 tsp assumed (measurement listed as 1 1/2 cups is clearly erroneous given context and typical glaze recipes; 1.5 tsp ≈ 6-7g but using 15g to reflect plausible total liquid); negligible impact but estimated.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 90,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Boiling water for glaze; 6 tablespoons = 90 ml assumed density 1g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 1,
+        "fatG": 81,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 537.75,
+      "proteinG": 0.75,
+      "fatG": 60.75,
+      "carbsG": 0.75,
+      "fiberG": 0,
+      "assumptions": "Butter for glaze; 1/3 cup = 75g standard measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53015",
+    "name": "Krispy Kreme Donut",
+    "cuisine": "American",
+    "instructions": "Dissolve yeast in warm water in 2 1/2-quart bowl. Add milk, sugar, salt, eggs, shortening and 2 cups flour. Beat on low for 30 seconds, scraping bowl constantly. Beat on medium speed for 2 minutes, scraping bowl occasionally. Stir in remaining flour until smooth. Cover and let rise until double, 50-60 minutes. (Dough is ready when indentation remains when touched.) Turn dough onto floured surface; roll around lightly to coat with flour. Gently roll dough 1/2-inch thick with floured rolling pin. Cut with floured doughnut cutter. Cover and let rise until double, 30-40 minutes.\r\nHeat vegetable oil in deep fryer to 350°. Slide doughnuts into hot oil with wide spatula. Turn doughnuts as they rise to the surface. Fry until golden brown, about 1 minute on each side. Remove carefully from oil (do not prick surface); drain. Dip the doughnuts into creamy glaze set on rack.\r\n\r\n\r\nGlaze: \r\nHeat butter until melted. Remove from heat. Stir in powdered sugar and vanilla until smooth. Stir in water, 1 tablespoon at a time, until desired consistency.",
+    "ingredients": [
+      { "position": 1, "name": "Yeast", "measurement": "1/4 ounce" },
+      { "position": 2, "name": "Water", "measurement": "1/4 cup" },
+      { "position": 3, "name": "Water", "measurement": "1 1/2 cups" },
+      { "position": 4, "name": "Sugar", "measurement": "1/2 cup" },
+      { "position": 5, "name": "Salt", "measurement": "1 tsp" },
+      { "position": 6, "name": "Eggs", "measurement": "2" },
+      { "position": 7, "name": "Shortening", "measurement": "1/3 cup" },
+      { "position": 8, "name": "Flour", "measurement": "5 drops" },
+      { "position": 9, "name": "Canola Oil", "measurement": "Sprinking" },
+      { "position": 10, "name": "Milk", "measurement": "1/2 cup" },
+      { "position": 11, "name": "Sugar", "measurement": "2 cups" },
+      { "position": 12, "name": "Vanilla", "measurement": "1 1/2 cups" },
+      {
+        "position": 13,
+        "name": "Boiling Water",
+        "measurement": "6 tablespoons"
+      },
+      { "position": 14, "name": "Butter", "measurement": "1/3 cup" }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "inputHash": "d11a06fb3fff5124bd51d0243300d6b2c576214455fc43590c38f81c8dff2eac",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:33.957Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 150,
+      "fiberG": 6,
+      "assumptions": "200g dry rice noodles (standard; ~75g carbs/100g dry)."
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp sesame oil (pure fat; no carbs)."
+    },
+    {
+      "position": 3,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 large eggs (~100g total; negligible carbs)."
+    },
+    {
+      "position": 4,
+      "carbsG": 1.4,
+      "fiberG": 0.5,
+      "assumptions": "1 medium red chilli (~20g whole, chopped)."
+    },
+    {
+      "position": 5,
+      "carbsG": 2,
+      "fiberG": 0.5,
+      "assumptions": "3cm fresh ginger root (~15g, peeled)."
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "450g raw prawns (pure protein/fat; zero carbs)."
+    },
+    {
+      "position": 7,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "1 tbsp soy sauce (~15g)."
+    },
+    {
+      "position": 8,
+      "carbsG": 1,
+      "fiberG": 0.8,
+      "assumptions": "1 bunch fresh coriander (~30g)."
+    },
+    {
+      "position": 9,
+      "carbsG": 0.5,
+      "fiberG": 0.3,
+      "assumptions": "Half a handful fresh mint (~5g)."
+    },
+    {
+      "position": 10,
+      "carbsG": 7,
+      "fiberG": 2,
+      "assumptions": "Zest and juice of 1 lime (edible portion from one 100g lime)."
+    },
+    {
+      "position": 11,
+      "carbsG": 6,
+      "fiberG": 3,
+      "assumptions": "1 handful roasted peanuts (~30g)."
+    }
+  ]
+}

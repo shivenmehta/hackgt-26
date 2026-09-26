@@ -1,0 +1,281 @@
+{
+  "inputHash": "a40c3dc005db68477415219ee59337074efb87bda2a548a0eeece5bd3e7500d4",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:49.835Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 358.5,
+      "proteinG": 0.3,
+      "fatG": 40.5,
+      "carbsG": 0.05,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; all used in crust.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 480,
+        "proteinG": 7,
+        "fatG": 22,
+        "carbsG": 62,
+        "fiberG": 2
+      },
+      "caloriesKcal": 840,
+      "proteinG": 12.25,
+      "fatG": 38.5,
+      "carbsG": 108.5,
+      "fiberG": 3.5,
+      "assumptions": "Typical peanut butter sandwich cookies (e.g. Nutter Butter style); entire amount crushed for base.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "5 standard gelatine leaves (approx 2 g each); negligible nutrition, all dissolved into filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 150,
+        "proteinG": 11,
+        "fatG": 11,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 750,
+      "proteinG": 55,
+      "fatG": 55,
+      "carbsG": 15,
+      "fiberG": 0,
+      "assumptions": "Whole-milk ricotta cheese; entire 500 g used in filling, as-is.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 590,
+        "proteinG": 25,
+        "fatG": 50,
+        "carbsG": 20,
+        "fiberG": 6
+      },
+      "caloriesKcal": 1032.5,
+      "proteinG": 43.75,
+      "fatG": 87.5,
+      "carbsG": 35,
+      "fiberG": 10.5,
+      "assumptions": "Standard smooth peanut butter; entire amount incorporated into filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 330,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 82,
+        "fiberG": 0
+      },
+      "caloriesKcal": 577.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 143.5,
+      "fiberG": 0,
+      "assumptions": "Golden syrup (light treacle); entire quantity beaten into filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 63,
+      "proteinG": 5.1,
+      "fatG": 1.5,
+      "carbsG": 7.5,
+      "fiberG": 0,
+      "assumptions": "Cow's milk (semi-skimmed); entire 150 ml used to dissolve gelatine.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 275,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2,
+        "fatG": 37,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 935,
+      "proteinG": 5.5,
+      "fatG": 101.75,
+      "carbsG": 8.25,
+      "fiberG": 0,
+      "assumptions": "Heavy/double cream; entire amount whipped for topping.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 95,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 24.5,
+      "fiberG": 0,
+      "assumptions": "2 level US tablespoons light brown soft sugar (≈25 g); all used to sweeten whipped cream.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 480,
+        "proteinG": 8,
+        "fatG": 20,
+        "carbsG": 65,
+        "fiberG": 2
+      },
+      "caloriesKcal": 144,
+      "proteinG": 2.4,
+      "fatG": 6,
+      "carbsG": 19.5,
+      "fiberG": 0.6,
+      "assumptions": "Crushed peanut brittle for scattering on top; plausible 30 g garnish amount estimated from typical dessert decoration and recipe context.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52861",
+    "name": "Peanut Butter Cheesecake",
+    "cuisine": "American",
+    "instructions": "Oil and line a 20cm round loose- bottomed cake tin with cling film, making it as smooth as possible. Melt the butter in a pan. Crush the biscuits by bashing them in a bag with a rolling pin, then stir them into the butter until very well coated. Press the mixture firmly into the base of the tin and chill.\r\nSoak the gelatine in water while you make the filling. Tip the ricotta into a bowl, then beat in the peanut butter and syrup. Ricotta has a slightly grainy texture so blitz until smooth with a stick blender for a smoother texture if you prefer.\r\nTake the soaked gelatine from the water and squeeze dry. Put it into a pan with the milk and heat very gently until the gelatine dissolves. Beat into the peanut mixture, then tip onto the biscuit base. Chill until set.\r\nTo freeze, leave in the tin and as soon as it is solid, cover the surface with cling film, then wrap the tin with cling film and foil.\r\nTo defrost, thaw in the fridge overnight.\r\nTo serve, carefully remove from the tin. Whisk the cream with the sugar until it holds its shape, then spread on top of the cheesecake and scatter with the peanut brittle.",
+    "ingredients": [
+      { "position": 1, "name": "Butter", "measurement": "50g" },
+      { "position": 2, "name": "Peanut Cookies", "measurement": "175g" },
+      { "position": 3, "name": "Gelatine Leafs", "measurement": "5" },
+      { "position": 4, "name": "Ricotta", "measurement": "500g" },
+      { "position": 5, "name": "Peanut Butter", "measurement": "175g" },
+      { "position": 6, "name": "Golden Syrup", "measurement": "175g" },
+      { "position": 7, "name": "Milk", "measurement": "150ml" },
+      { "position": 8, "name": "Double Cream", "measurement": "275ml" },
+      {
+        "position": 9,
+        "name": "Light Brown Soft Sugar",
+        "measurement": "2 tblsp"
+      },
+      { "position": 10, "name": "Peanut Brittle", "measurement": "Crushed" }
+    ]
+  }
+}

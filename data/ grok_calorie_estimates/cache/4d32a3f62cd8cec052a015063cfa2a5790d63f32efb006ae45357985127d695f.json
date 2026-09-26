@@ -1,0 +1,65 @@
+{
+  "inputHash": "4d32a3f62cd8cec052a015063cfa2a5790d63f32efb006ae45357985127d695f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:18:04.040Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 1350,
+      "proteinG": 18,
+      "fatG": 90,
+      "assumptions": "375g ready-to-use shortcrust pastry block; typical values ~360 kcal, 4.8g protein, 24g fat per 100g"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 140,
+      "proteinG": 12.5,
+      "fatG": 10,
+      "assumptions": "2 large eggs (~100g total edible portion without shell); ~140 kcal, 12.5g protein, 10g fat"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 665,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "175g muscovado sugar; ~380 kcal per 100g, negligible protein and fat"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 300,
+      "proteinG": 3,
+      "fatG": 0.5,
+      "assumptions": "100g raisins; ~300 kcal, 3g protein, 0.5g fat per 100g"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 12,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tsp (5ml) vanilla extract; ~12 kcal, negligible macros"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 370,
+      "proteinG": 0.5,
+      "fatG": 41,
+      "assumptions": "50g butter; ~740 kcal, 1g protein, 82g fat per 100g"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 65,
+      "proteinG": 0.5,
+      "fatG": 7,
+      "assumptions": "4 tsp (20ml) single/light cream; ~325 kcal, 2.5g protein, 35g fat per 100ml"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 330,
+      "proteinG": 7.5,
+      "fatG": 32.5,
+      "assumptions": "50g chopped walnuts; ~660 kcal, 15g protein, 65g fat per 100g"
+    }
+  ]
+}

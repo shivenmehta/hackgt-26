@@ -1,0 +1,81 @@
+{
+  "inputHash": "60eebc7f8f3450f4f4ebf3319c82e6fdd46d363c92201cf68a247feee03b9705",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:42.323Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0.4,
+      "fiberG": 0,
+      "assumptions": "1 large whole egg (50g edible portion)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 cup = 227g butter (all used in dough)"
+    },
+    {
+      "position": 3,
+      "carbsG": 200,
+      "fiberG": 0,
+      "assumptions": "1 cup granulated white sugar (200g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 124,
+      "fiberG": 0,
+      "assumptions": "1/2 cup molasses (160g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 tsp vanilla extract (4g)"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp baking soda (used with water; 10g total)"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbsp water (45g; negligible macros)"
+    },
+    {
+      "position": 8,
+      "carbsG": 4.5,
+      "fiberG": 0,
+      "assumptions": "2 tbsp baking powder (30g)"
+    },
+    {
+      "position": 9,
+      "carbsG": 1.8,
+      "fiberG": 1.2,
+      "assumptions": "1 tsp ground cinnamon (2.6g)"
+    },
+    {
+      "position": 10,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp table salt (12g; negligible macros)"
+    },
+    {
+      "position": 11,
+      "carbsG": 380,
+      "fiberG": 13.5,
+      "assumptions": "4 cups all-purpose flour (500g)"
+    },
+    {
+      "position": 12,
+      "carbsG": 320,
+      "fiberG": 6.4,
+      "assumptions": "2 cups jam (640g; typical fruit jam values)"
+    }
+  ]
+}

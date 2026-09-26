@@ -1,0 +1,69 @@
+{
+  "inputHash": "66e4b69e1e234e20110627a75a13f31e66dc8b419332913d61d8df266c5884c2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:39.720Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 L chicken stock; typical commercial values ~2g carbs/L, negligible fiber."
+    },
+    {
+      "position": 2,
+      "carbsG": 4,
+      "fiberG": 1,
+      "assumptions": "2 tsp (~10g) Thai red curry paste; typical commercial values."
+    },
+    {
+      "position": 3,
+      "carbsG": 82,
+      "fiberG": 2,
+      "assumptions": "100g dry rice noodles; standard uncooked white rice noodle values."
+    },
+    {
+      "position": 4,
+      "carbsG": 7,
+      "fiberG": 3,
+      "assumptions": "150g fresh shiitake mushrooms, raw weight; typical values."
+    },
+    {
+      "position": 5,
+      "carbsG": 20,
+      "fiberG": 3,
+      "assumptions": "125g drained sweetcorn kernels (canned style); standard values."
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 salmon fillets (~300g total raw edible portion); plain fish has zero carbs/fiber."
+    },
+    {
+      "position": 7,
+      "carbsG": 8,
+      "fiberG": 1,
+      "assumptions": "Juice of 2 limes (~70ml total juice); standard lime juice values."
+    },
+    {
+      "position": 8,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 tbsp (~15g) soy sauce; typical values."
+    },
+    {
+      "position": 9,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "Pinch of brown sugar (~3g); standard sugar values."
+    },
+    {
+      "position": 10,
+      "carbsG": 1,
+      "fiberG": 0.5,
+      "assumptions": "Bunch of fresh coriander (~25g); typical values for leaves and stems."
+    }
+  ]
+}

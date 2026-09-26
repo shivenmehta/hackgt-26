@@ -1,0 +1,407 @@
+{
+  "inputHash": "83f1bb22871182c467ce85793c5e048c6de07ca6c9325c3f492f58d4a0ff68c0",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:50.917Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 176,
+        "proteinG": 26,
+        "fatG": 8,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1760,
+      "proteinG": 260,
+      "fatG": 80,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw beef stewing/casserole cut, typical values for lean braising steak; edible portion after trimming visible fat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 109.2,
+      "proteinG": 3,
+      "fatG": 0.3,
+      "carbsG": 22.8,
+      "fiberG": 0.9,
+      "assumptions": "Plain white wheat flour; 2 tablespoons ≈ 30 g standard household measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 828,
+        "proteinG": 0,
+        "fatG": 92,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 248.4,
+      "proteinG": 0,
+      "fatG": 27.6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Rapeseed (canola) oil; 2 tablespoons ≈ 30 g (≈ 2 tbsp volume at typical density); used for frying, all oil is included in estimate.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 83,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 2.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 166,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "carbsG": 5.2,
+      "fiberG": 0,
+      "assumptions": "Red wine; 200 ml volume converted at ≈1 g/ml density; alcohol and sugars contribute to carbs.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 0.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 28,
+      "proteinG": 4,
+      "fatG": 0.8,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "Beef stock/broth; 400 ml volume converted at ≈1 g/ml; typical low-fat, low-carb commercial or homemade stock values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion (≈110 g) finely sliced; raw weight, typical brown onion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 10,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 49.2,
+      "proteinG": 1.08,
+      "fatG": 0.24,
+      "carbsG": 12,
+      "fiberG": 3.36,
+      "assumptions": "2 medium carrots (≈120 g total) chopped; raw weight, edible portion after peeling assumed minimal.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 100,
+        "proteinG": 5.6,
+        "fatG": 1.7,
+        "carbsG": 20,
+        "fiberG": 14
+      },
+      "caloriesKcal": 5,
+      "proteinG": 0.28,
+      "fatG": 0.085,
+      "carbsG": 1,
+      "fiberG": 0.7,
+      "assumptions": "3 sprigs fresh thyme (≈5 g total leaves and stems); typical fresh herb weight; high fiber from stems/leaves.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 4.5,
+        "fatG": 6,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 29.1,
+      "proteinG": 1.35,
+      "fatG": 1.8,
+      "carbsG": 1.8,
+      "fiberG": 0.9,
+      "assumptions": "Wholegrain or Dijon mustard; 2 tablespoons ≈ 30 g standard household measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 34,
+      "per100g": {
+        "caloriesKcal": 317,
+        "proteinG": 16,
+        "fatG": 27,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 107.78,
+      "proteinG": 5.44,
+      "fatG": 9.18,
+      "carbsG": 0.68,
+      "fiberG": 0,
+      "assumptions": "2 free-range egg yolks; standard large yolk ≈17 g each, total 34 g; negligible carbs.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 410,
+        "proteinG": 6,
+        "fatG": 28,
+        "carbsG": 36,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 1640,
+      "proteinG": 24,
+      "fatG": 112,
+      "carbsG": 144,
+      "fiberG": 6,
+      "assumptions": "Ready-rolled puff pastry; 400 g as given, typical all-butter or vegetable-fat commercial sheet values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7,
+        "fiberG": 3.4
+      },
+      "caloriesKcal": 93,
+      "proteinG": 5.4,
+      "fatG": 0.6,
+      "carbsG": 21,
+      "fiberG": 10.2,
+      "assumptions": "Fresh green beans; 300 g as given, raw trimmed weight, boiled until tender.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 179.25,
+      "proteinG": 0.225,
+      "fatG": 20.25,
+      "carbsG": 0.025,
+      "fiberG": 0,
+      "assumptions": "Butter; 25 g as given, typical unsalted butter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Salt; 'pinch' estimated at 2 g total used in recipe (beef, beans, seasoning); contributes negligible macros/calories.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Black pepper; 'pinch' estimated at 2 g total used in recipe (beef, beans, seasoning); contributes negligible macros/calories.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52874",
+    "name": "Beef and Mustard Pie",
+    "cuisine": "British",
+    "instructions": "Preheat the oven to 150C/300F/Gas 2.\r\nToss the beef and flour together in a bowl with some salt and black pepper.\r\nHeat a large casserole until hot, add half of the rapeseed oil and enough of the beef to just cover the bottom of the casserole.\r\nFry until browned on each side, then remove and set aside. Repeat with the remaining oil and beef.\r\nReturn the beef to the pan, add the wine and cook until the volume of liquid has reduced by half, then add the stock, onion, carrots, thyme and mustard, and season well with salt and pepper.\r\nCover with a lid and place in the oven for two hours.\r\nRemove from the oven, check the seasoning and set aside to cool. Remove the thyme.\r\nWhen the beef is cool and you're ready to assemble the pie, preheat the oven to 200C/400F/Gas 6.\r\nTransfer the beef to a pie dish, brush the rim with the beaten egg yolks and lay the pastry over the top. Brush the top of the pastry with more beaten egg.\r\nTrim the pastry so there is just enough excess to crimp the edges, then place in the oven and bake for 30 minutes, or until the pastry is golden-brown and cooked through.\r\nFor the green beans, bring a saucepan of salted water to the boil, add the beans and cook for 4-5 minutes, or until just tender.\r\nDrain and toss with the butter, then season with black pepper.\r\nTo serve, place a large spoonful of pie onto each plate with some green beans alongside.",
+    "ingredients": [
+      { "position": 1, "name": "Beef", "measurement": "1kg" },
+      { "position": 2, "name": "Plain Flour", "measurement": "2 tbs" },
+      { "position": 3, "name": "Rapeseed Oil", "measurement": "2 tbs" },
+      { "position": 4, "name": "Red Wine", "measurement": "200ml" },
+      { "position": 5, "name": "Beef Stock", "measurement": "400ml" },
+      { "position": 6, "name": "Onion", "measurement": "1 finely sliced" },
+      { "position": 7, "name": "Carrots", "measurement": "2 chopped" },
+      { "position": 8, "name": "Thyme", "measurement": "3 sprigs" },
+      { "position": 9, "name": "Mustard", "measurement": "2 tbs" },
+      { "position": 10, "name": "Egg Yolks", "measurement": "2 free-range" },
+      { "position": 11, "name": "Puff Pastry", "measurement": "400g" },
+      { "position": 12, "name": "Green Beans", "measurement": "300g" },
+      { "position": 13, "name": "Butter", "measurement": "25g" },
+      { "position": 14, "name": "Salt", "measurement": "pinch" },
+      { "position": 15, "name": "Pepper", "measurement": "pinch" }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "inputHash": "ca71dd1ea26d716358d0f3e0a7d42bd47ba63ec8ffb6bd609c0e854087dded7a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:57.465Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs olive oil = 30 ml total; pure oil has no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 7.2,
+      "fiberG": 2.6,
+      "assumptions": "8 spring onions ≈ 120 g total edible portion; using standard green onion values"
+    },
+    {
+      "position": 3,
+      "carbsG": 7,
+      "fiberG": 4.4,
+      "assumptions": "200 g raw spinach; full quantity as provided"
+    },
+    {
+      "position": 4,
+      "carbsG": 140,
+      "fiberG": 5,
+      "assumptions": "4 standard filo sheets (≈ 200 g total); all pastry used, based on typical filo carb density"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 standard drained can of tuna in water/brine ≈ 140-160 g drained; plain tuna has no carbs"
+    },
+    {
+      "position": 6,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "2 large whole raw eggs (≈ 100 g total); trace carbs from eggs"
+    },
+    {
+      "position": 7,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Dash of hot sauce is negligible volume; cannot reasonably estimate exact contribution"
+    },
+    {
+      "position": 8,
+      "carbsG": 26,
+      "fiberG": 8,
+      "assumptions": "4 medium chopped tomatoes ≈ 500 g total edible portion for salad"
+    },
+    {
+      "position": 9,
+      "carbsG": 2.7,
+      "fiberG": 0.4,
+      "assumptions": "1/4 medium cucumber ≈ 75 g edible portion for salad"
+    },
+    {
+      "position": 10,
+      "carbsG": 4.2,
+      "fiberG": 0.2,
+      "assumptions": "1 tbs lemon juice ≈ 15 ml; using standard lemon juice values"
+    },
+    {
+      "position": 11,
+      "carbsG": 52,
+      "fiberG": 0.6,
+      "assumptions": "4 tbs apricot jam ≈ 80 g total (served as chutney accompaniment); typical sweetened jam values"
+    }
+  ]
+}

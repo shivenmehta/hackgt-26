@@ -1,0 +1,173 @@
+{
+  "inputHash": "1eec251774138aaaf7fd83d3cf5b223d6edf59e0347357080338ab3f5ca21f88",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:15.956Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 92.4,
+      "proteinG": 2.4,
+      "fatG": 0.12,
+      "carbsG": 20.4,
+      "fiberG": 2.64,
+      "assumptions": "1 small potato estimated at 120g raw, peeled weight; standard white potato values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 44.2,
+      "proteinG": 0,
+      "fatG": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp olive oil = 5g; typical extra virgin olive oil",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 455,
+        "proteinG": 24,
+        "fatG": 38,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 227.5,
+      "proteinG": 12,
+      "fatG": 19,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "50g chorizo sausage as given; cured pork sausage typical values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 214.5,
+      "proteinG": 19.5,
+      "fatG": 15,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "3 large eggs estimated at 50g each edible portion (150g total); standard large chicken eggs, raw",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 1,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 1.8,
+      "proteinG": 0.15,
+      "fatG": 0.05,
+      "carbsG": 0.3,
+      "fiberG": 0.15,
+      "assumptions": "'Chopped' parsley estimated at 5g (small handful for garnish); typical fresh parsley leaves",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 403,
+        "proteinG": 25,
+        "fatG": 33,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 100.75,
+      "proteinG": 6.25,
+      "fatG": 8.25,
+      "carbsG": 0.25,
+      "fiberG": 0,
+      "assumptions": "25g cheddar cheese as given; typical mature cheddar block",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53159",
+    "name": "Chorizo, potato & cheese omelette",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nCook the potato in boiling water for 8-10 mins or until tender. Drain and allow to steam-dry. Heat oil in an omelette pan, add chorizo and cook for 2 mins. Add the potato and cook for a further 5 mins until the potato starts to crisp. Spoon pan contents out, wipe pan and cook a 2 or 3-egg omelette in the same pan. When almost cooked, scatter with the chorizo and potato, parsley and cheese. Fold the omelette in the pan and cook for 1 min more to melt the cheese.",
+    "ingredients": [
+      { "position": 1, "name": "Potatoes", "measurement": "1 small" },
+      { "position": 2, "name": "Olive Oil", "measurement": "1 teaspoon" },
+      { "position": 3, "name": "Chorizo", "measurement": "50g" },
+      { "position": 4, "name": "Egg", "measurement": "3" },
+      { "position": 5, "name": "Parsley", "measurement": "Chopped" },
+      { "position": 6, "name": "Cheddar Cheese", "measurement": "25g" }
+    ]
+  }
+}

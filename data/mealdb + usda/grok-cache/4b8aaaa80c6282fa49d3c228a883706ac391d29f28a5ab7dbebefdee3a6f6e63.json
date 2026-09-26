@@ -1,0 +1,51 @@
+{
+  "inputHash": "4b8aaaa80c6282fa49d3c228a883706ac391d29f28a5ab7dbebefdee3a6f6e63",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:57.541Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 800,
+      "caloriesPer100g": 220,
+      "assumptions": "4 average duck legs at ~200g each including bone and skin; typical raw weight used in recipes. Edible meat yield after cooking/shredding is lower (~50-60%) but total ingredient line mass reported as purchased/used."
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "caloriesPer100g": 247,
+      "assumptions": "2 tsp ground cinnamon ≈ 5g; modest volume-to-weight conversion for ground spice."
+    },
+    {
+      "position": 7,
+      "grams": 250,
+      "caloriesPer100g": 85,
+      "assumptions": "250ml red wine ≈ 250g (density near 1g/ml); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 9,
+      "grams": 5,
+      "caloriesPer100g": 350,
+      "assumptions": "1 stock cube ≈ 5g typical dry weight; ~350 kcal/100g is standard for chicken bouillon cubes (mostly salt, fat, flavorings)."
+    },
+    {
+      "position": 10,
+      "grams": 6,
+      "caloriesPer100g": 131,
+      "assumptions": "3 sprigs fresh rosemary ≈ 6g total; modest weight for small herb sprigs."
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "caloriesPer100g": 313,
+      "assumptions": "2 dried bay leaves ≈ 1g total; modest weight for whole leaves."
+    },
+    {
+      "position": 15,
+      "grams": 30,
+      "caloriesPer100g": 403,
+      "assumptions": "'Grated' Parmesan listed without quantity; typical modest serving amount for 4-6 portions of pasta dish is ~30g total added at table."
+    }
+  ]
+}

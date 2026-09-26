@@ -1,0 +1,63 @@
+{
+  "inputHash": "a229929ec6a3e5a488c316952a3db70b06b9096bdd2f8e14be8763e7c9be9839",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:58.143Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "1/4 cup sour cream ≈ 60g (standard density for regular sour cream); ~5g carbs/100g"
+    },
+    {
+      "position": 2,
+      "carbsG": 2,
+      "fiberG": 0.4,
+      "assumptions": "2 tbs chopped onion ≈ 20g (raw, standard volume-to-weight conversion); ~9g carbs/100g"
+    },
+    {
+      "position": 3,
+      "carbsG": 2,
+      "fiberG": 1.3,
+      "assumptions": "1/2 tbs dried oregano ≈ 3g (modest volume-to-weight for dried herb); ~69g carbs/100g"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp salt ≈ 1.5g (standard; contributes negligible macros)"
+    },
+    {
+      "position": 5,
+      "carbsG": 76,
+      "fiberG": 4,
+      "assumptions": "8 slices white bread ≈ 200g total (standard slice ≈ 25g); ~38g carbs/100g"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 slices bacon ≈ 240g total (standard slice ≈ 30g raw weight; cooked in skillet but fat contribution retained as typical for recipe)"
+    },
+    {
+      "position": 7,
+      "carbsG": 7,
+      "fiberG": 2.2,
+      "assumptions": "8 slices tomato ≈ 160g total (standard slice ≈ 20g, raw, edible portion); ~4.5g carbs/100g"
+    },
+    {
+      "position": 8,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "4 slices mozzarella ≈ 112g total (standard slice ≈ 28g, whole milk variety); ~2.5g carbs/100g"
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2.5 tbs butter ≈ 35g total (used for toasting; all fat retained as no draining occurs)"
+    }
+  ]
+}

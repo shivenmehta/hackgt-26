@@ -1,0 +1,87 @@
+{
+  "inputHash": "43eef45d24e8a919ba54c65dfd7e30473d691bc3ad6ede669479159f1560a6ad",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:22.237Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 28,
+      "fiberG": 8.8,
+      "assumptions": "4 large tomatoes ≈ 800g total edible flesh after scooping; raw, whole edible portion (USDA tomato values)"
+    },
+    {
+      "position": 2,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "pinch of sugar ≈ 3g"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 tbs olive oil = 60ml / ≈54g total (all used in recipe: 2 tbs for frying + 2 tbs drizzled)"
+    },
+    {
+      "position": 4,
+      "carbsG": 10,
+      "fiberG": 1.9,
+      "assumptions": "1 medium chopped onion ≈ 110g raw"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.8,
+      "fiberG": 0.1,
+      "assumptions": "2 garlic cloves ≈ 6g raw, finely chopped"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "200g raw lamb mince (typical 20% fat ground lamb)"
+    },
+    {
+      "position": 7,
+      "carbsG": 4.7,
+      "fiberG": 3.1,
+      "assumptions": "1 tbs ground cinnamon ≈ 8g"
+    },
+    {
+      "position": 8,
+      "carbsG": 5,
+      "fiberG": 1.3,
+      "assumptions": "2 tbs tomato puree ≈ 30g (concentrated, not fresh chopped tomatoes)"
+    },
+    {
+      "position": 9,
+      "carbsG": 39.5,
+      "fiberG": 0.7,
+      "assumptions": "50g uncooked white rice (dry weight)"
+    },
+    {
+      "position": 10,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "100ml chicken stock ≈ 100g (typical low-fat prepared stock)"
+    },
+    {
+      "position": 11,
+      "carbsG": 1.2,
+      "fiberG": 0.7,
+      "assumptions": "4 tbs chopped fresh dill ≈ 12g"
+    },
+    {
+      "position": 12,
+      "carbsG": 1.1,
+      "fiberG": 0.7,
+      "assumptions": "2 tbs chopped fresh parsley ≈ 8g"
+    },
+    {
+      "position": 13,
+      "carbsG": 0.8,
+      "fiberG": 0.5,
+      "assumptions": "1 tbs chopped fresh mint ≈ 4g"
+    }
+  ]
+}

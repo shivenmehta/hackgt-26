@@ -1,0 +1,39 @@
+{
+  "inputHash": "73cc69ace520df084ed6befe9bda87d7e8c6b9f0861728dc7ad7abbce4790ccd",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:50.328Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 6,
+      "grams": 10,
+      "caloriesPer100g": 884,
+      "assumptions": "Drizzle of olive oil for the whole pizza estimated at 10g (about 2 tsp), realistic modest amount for a single 10-12\" pizza based on similar recipes; full recipe context shows it's used in dough and as a finishing drizzle."
+    },
+    {
+      "position": 8,
+      "grams": 70,
+      "caloriesPer100g": 250,
+      "assumptions": "Measurement given as 70g; standard whole-milk mozzarella calories used as estimate since known value is null (typical range 240-280 kcal/100g)."
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "caloriesPer100g": 265,
+      "assumptions": "'Peeled and Sliced' appears to be erroneous for oregano; modest pinch-to-taste amount for entire pizza estimated at 2g (dried oregano is very light and used sparingly)."
+    },
+    {
+      "position": 10,
+      "grams": 5,
+      "caloriesPer100g": 23,
+      "assumptions": "Basil leaves for one pizza; typical garnish is 4-6 fresh leaves ≈5g total edible mass."
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "caloriesPer100g": 251,
+      "assumptions": "Pinch of black pepper for the whole pizza estimated at 1g (standard modest amount for seasoning)."
+    }
+  ]
+}

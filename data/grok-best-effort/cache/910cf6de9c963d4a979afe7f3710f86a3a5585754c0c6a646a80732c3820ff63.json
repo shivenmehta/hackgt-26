@@ -1,0 +1,503 @@
+{
+  "inputHash": "910cf6de9c963d4a979afe7f3710f86a3a5585754c0c6a646a80732c3820ff63",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:26.844Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 230,
+      "per100g": {
+        "caloriesKcal": 371,
+        "proteinG": 13,
+        "fatG": 1.5,
+        "carbsG": 75,
+        "fiberG": 3.1
+      },
+      "caloriesKcal": 853.3,
+      "proteinG": 29.9,
+      "fatG": 3.45,
+      "carbsG": 172.5,
+      "fiberG": 7.13,
+      "assumptions": "Dry elbow macaroni; standard values for uncooked enriched pasta.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 42,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 152.88,
+      "proteinG": 4.3260000000000005,
+      "fatG": 0.42,
+      "carbsG": 32.046,
+      "fiberG": 1.1340000000000001,
+      "assumptions": "All-purpose white flour; 1/3 cup equals approximately 42g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Dry mustard powder; negligible calories and macros for small spice quantity of 3/4 tsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Garlic powder; negligible calories and macros for small spice quantity of 1/2 tsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Kosher salt; negligible calories and macros for 1/2 tsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Ground black pepper; negligible calories and macros for 1/2 tsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 0.3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Cayenne pepper; negligible calories and macros for very small spice quantity of 1/8 tsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 609.45,
+      "proteinG": 0.765,
+      "fatG": 68.85,
+      "carbsG": 0.085,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; used in the sauce roux.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 360,
+      "per100g": {
+        "caloriesKcal": 61,
+        "proteinG": 3.2,
+        "fatG": 3.3,
+        "carbsG": 4.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 219.6,
+      "proteinG": 11.52,
+      "fatG": 11.88,
+      "carbsG": 17.28,
+      "fiberG": 0,
+      "assumptions": "Whole milk; 1.5 cups equals 360ml, density ~1g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2.8,
+        "fatG": 36.1,
+        "carbsG": 2.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 816,
+      "proteinG": 6.72,
+      "fatG": 86.64,
+      "carbsG": 6.72,
+      "fiberG": 0,
+      "assumptions": "Heavy cream; 1 cup equals 240ml, density ~1g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 455,
+      "per100g": {
+        "caloriesKcal": 370,
+        "proteinG": 24,
+        "fatG": 30,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1683.5,
+      "proteinG": 109.2,
+      "fatG": 136.5,
+      "carbsG": 4.55,
+      "fiberG": 0,
+      "assumptions": "Monterey Jack cheese, shredded or grated; 1 pound block.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 55,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 394.35,
+      "proteinG": 0.495,
+      "fatG": 44.55,
+      "carbsG": 0.055,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; for garlic butter spread, 4 tablespoons.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Garlic powder; negligible calories and macros for 1 tsp in butter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 640,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 3.2,
+        "carbsG": 49,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 1696,
+      "proteinG": 57.6,
+      "fatG": 20.48,
+      "carbsG": 313.6,
+      "fiberG": 17.28,
+      "assumptions": "White sandwich bread; standard square slices ~40g each, 16 slices total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 400,
+        "proteinG": 23,
+        "fatG": 33,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 800,
+      "proteinG": 46,
+      "fatG": 66,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "Mild Cheddar cheese slices; 8 slices at ~25g each.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 22,
+        "fatG": 31,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 760,
+      "proteinG": 44,
+      "fatG": 62,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "Colby Jack cheese slices; 8 slices at ~25g each, similar to Monterey Jack.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 55,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 394.35,
+      "proteinG": 0.495,
+      "fatG": 44.55,
+      "carbsG": 0.055,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; additional for skillet or spread, 4 tablespoons as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52829",
+    "name": "Grilled Mac and Cheese Sandwich",
+    "cuisine": "American",
+    "instructions": "Make the mac and cheese\r\n\r\n1. Bring a medium saucepan of generously salted water (you want it to taste like seawater) to a boil. Add the pasta and cook, stirring occasionally, until al dente, 8 to 10 minutes, or according to the package directions. The pasta should be tender but still chewy.\r\n2. While the pasta is cooking, in a small bowl, whisk together the flour, mustard powder, garlic powder, salt, black pepper, and cayenne pepper.\r\n3. Drain the pasta in a colander. Place the empty pasta pan (no need to wash it) over low heat and add the butter. When the butter has melted, whisk in the flour mixture and continue to cook, whisking frequently, until the mixture is beginning to brown and has a pleasant, nutty aroma, about 1 minute. Watch carefully so it does not scorch on the bottom of the pan.\r\n4. Slowly whisk the milk and cream into the flour mixture until everything is really well combined. Cook, whisking constantly, until the sauce is heated through and just begins to thicken, about 2 minutes. Remove from the heat. Gradually add the cheese while stirring constantly with a wooden spoon or silicone spatula and keep stirring until the cheese has melted into the sauce. Then stir in the drained cooked pasta.\r\n5. Line a 9-by-13-inch (23-by-33-centimeter) rimmed baking sheet with parchment paper or aluminum foil. Coat the paper or foil with nonstick cooking spray or slick it with butter. Pour the warm mac and cheese onto the prepared baking sheet and spread it evenly with a spatula. Coat another piece of parchment paper with cooking spray or butter and place it, oiled or buttered side down, directly on the surface of the mac and cheese. Refrigerate until cool and firm, about 1 hour.\r\n\r\nMake the grilled cheese\r\n6. Heat a large cast-iron or nonstick skillet over medium-low heat.\r\n7. In a small bowl, stir together the 4 tablespoons (55 grams) butter and garlic powder until well blended.\r\n8. Remove the mac and cheese from the refrigerator and peel off the top layer of parchment paper. Carefully cut into 8 equal pieces. Each piece will make 1 grilled mac and cheese sandwich. (You can stash each individual portion in a double layer of resealable plastic bags and refrigerate for up to 3 days or freeze it for up to 1 month.)\r\n9. Spread 3/4 teaspoon garlic butter on one side of each bread slice. Place half of the slices, buttered-side down, on a clean cutting board. Top each with one slice of Cheddar, then 1 piece of the mac and cheese. (Transfer from the baking sheet by scooting your hand or a spatula under each piece of mac and cheese and then flipping it over onto a sandwich.) Place 1 slice of Jack on top of each. Finish with the remaining bread slices, buttered-side up.\r\n10. Using a wide spatula, place as many sandwiches in the pan as will fit without crowding it. Cover and cook until the bottoms are nicely browned, about 4 minutes. Turn and cook until the second sides are browned, the cheese is melted, and the mac and cheese is heated through, about 4 minutes more.\r\n11. Repeat with the remaining ingredients. Cut the sandwiches in half, if desired, and serve.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Macaroni",
+        "measurement": "8 ounces (230 grams)"
+      },
+      { "position": 2, "name": "Plain Flour", "measurement": "1/3 cup" },
+      {
+        "position": 3,
+        "name": "Mustard Powder",
+        "measurement": "3/4 teaspoon"
+      },
+      { "position": 4, "name": "Garlic powder", "measurement": "1/2 teaspoon" },
+      { "position": 5, "name": "Kosher salt", "measurement": "1/2 teaspoon" },
+      { "position": 6, "name": "Black pepper", "measurement": "1/2 teaspoon" },
+      {
+        "position": 7,
+        "name": "Cayenne pepper",
+        "measurement": "1/8 teaspoon"
+      },
+      {
+        "position": 8,
+        "name": "Butter",
+        "measurement": "6 tablespoons (85 grams)"
+      },
+      {
+        "position": 9,
+        "name": "Whole Milk",
+        "measurement": "1 1/2 cups (360 milliliters)"
+      },
+      {
+        "position": 10,
+        "name": "Heavy Cream",
+        "measurement": "1 cup (240 milliliters)"
+      },
+      {
+        "position": 11,
+        "name": "Monterey Jack Cheese",
+        "measurement": "1 pound (455 grams)"
+      },
+      {
+        "position": 12,
+        "name": "Butter",
+        "measurement": "4 tablespoons (55 grams)"
+      },
+      { "position": 13, "name": "garlic powder", "measurement": "1 teaspoon" },
+      { "position": 14, "name": "Bread", "measurement": "16 slices square" },
+      {
+        "position": 15,
+        "name": "Cheddar Cheese",
+        "measurement": "8 slices mild"
+      },
+      {
+        "position": 16,
+        "name": "Colby Jack Cheese",
+        "measurement": "8 slices"
+      },
+      {
+        "position": 17,
+        "name": "Butter",
+        "measurement": "4 tablespoons (55 grams)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "inputHash": "23f0f9c8a23330e24261b093d259b6218d465174f544306554345656c7c29358",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:52.274Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1003.8,
+      "proteinG": 1.26,
+      "fatG": 113.4,
+      "carbsG": 0.14,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter values; fully used in batter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 304,
+        "proteinG": 0.3,
+        "fatG": 0,
+        "carbsG": 82.4,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 912,
+      "proteinG": 0.9,
+      "fatG": 0,
+      "carbsG": 247.2,
+      "fiberG": 0.6,
+      "assumptions": "Typical clear/runny honey; entire 300g measurement melted into batter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0.5,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 380,
+      "proteinG": 0.5,
+      "fatG": 0,
+      "carbsG": 98,
+      "fiberG": 0,
+      "assumptions": "Standard light brown sugar; fully incorporated.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 375,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1.3,
+        "carbsG": 76,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 1365,
+      "proteinG": 37.5,
+      "fatG": 4.875,
+      "carbsG": 285,
+      "fiberG": 9.375,
+      "assumptions": "Typical self-raising wheat flour; all used in dry mix.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 335,
+        "proteinG": 9,
+        "fatG": 4.2,
+        "carbsG": 72,
+        "fiberG": 13
+      },
+      "caloriesKcal": 20.1,
+      "proteinG": 0.54,
+      "fatG": 0.252,
+      "carbsG": 4.32,
+      "fiberG": 0.78,
+      "assumptions": "3 tsp ground ginger ≈ 6g; typical dried spice density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 2.6,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 2.2,
+        "carbsG": 80,
+        "fiberG": 53
+      },
+      "caloriesKcal": 6.422000000000001,
+      "proteinG": 0.10400000000000001,
+      "fatG": 0.05720000000000001,
+      "carbsG": 2.08,
+      "fiberG": 1.3780000000000001,
+      "assumptions": "1 tsp ground cinnamon ≈ 2.6g; typical dried spice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1.2,
+      "per100g": {
+        "caloriesKcal": 274,
+        "proteinG": 6,
+        "fatG": 13,
+        "carbsG": 66,
+        "fiberG": 35
+      },
+      "caloriesKcal": 3.2880000000000003,
+      "proteinG": 0.072,
+      "fatG": 0.156,
+      "carbsG": 0.792,
+      "fiberG": 0.42,
+      "assumptions": "½ tsp ground cloves ≈ 1.2g; typical dried spice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 0.6,
+      "per100g": {
+        "caloriesKcal": 525,
+        "proteinG": 6,
+        "fatG": 36,
+        "carbsG": 49,
+        "fiberG": 13
+      },
+      "caloriesKcal": 3.15,
+      "proteinG": 0.036,
+      "fatG": 0.21599999999999997,
+      "carbsG": 0.294,
+      "fiberG": 0.078,
+      "assumptions": "¼ tsp ground nutmeg ≈ 0.6g; typical dried spice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 0.6,
+      "per100g": {
+        "caloriesKcal": 255,
+        "proteinG": 10.9,
+        "fatG": 3.3,
+        "carbsG": 64,
+        "fiberG": 25
+      },
+      "caloriesKcal": 1.53,
+      "proteinG": 0.0654,
+      "fatG": 0.019799999999999998,
+      "carbsG": 0.384,
+      "fiberG": 0.15,
+      "assumptions": "¼ tsp ground black pepper ≈ 0.6g; typical dried spice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 286,
+      "proteinG": 25.2,
+      "fatG": 19,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "3 large eggs ≈ 200g total edible portion (no shell); whisked into cooled liquid.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 0.6,
+        "fatG": 0.1,
+        "carbsG": 65,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 530,
+      "proteinG": 1.2,
+      "fatG": 0.2,
+      "carbsG": 130,
+      "fiberG": 3,
+      "assumptions": "200g plum jam spread between layers; standard fruit jam values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 225,
+      "per100g": {
+        "caloriesKcal": 449,
+        "proteinG": 1.7,
+        "fatG": 48,
+        "carbsG": 3.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1010.25,
+      "proteinG": 3.825,
+      "fatG": 108,
+      "carbsG": 6.975,
+      "fiberG": 0,
+      "assumptions": "225ml double/heavy cream (density ≈1g/ml) for chocolate glaze.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 580,
+        "proteinG": 5,
+        "fatG": 45,
+        "carbsG": 22,
+        "fiberG": 11
+      },
+      "caloriesKcal": 812,
+      "proteinG": 7,
+      "fatG": 63,
+      "carbsG": 30.8,
+      "fiberG": 15.4,
+      "assumptions": "140g dark chocolate (70% cocoa typical); melted into glaze.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 304,
+        "proteinG": 0.3,
+        "fatG": 0,
+        "carbsG": 82.4,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 182.4,
+      "proteinG": 0.18,
+      "fatG": 0,
+      "carbsG": 49.44,
+      "fiberG": 0.12,
+      "assumptions": "3 tbsp clear honey ≈ 60g (20g per tbsp); added to glaze.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53292",
+    "name": "Piernik (Polish gingerbread)",
+    "cuisine": "Polish",
+    "instructions": "Heat oven to 160C/140C fan/gas 3. Grease and line the base and sides of a deep 20cm cake tin with baking parchment. Put the honey, sugar and butter in a medium saucepan and cook over a medium heat until fully melted. Remove from the heat and allow to cool. Put the flour and spices in a large bowl and mix everything together.\r\n\r\nstep 2\r\nOnce the liquid ingredients have cooled, whisk in the eggs. Pour over the dry ingredients, whisking them together to form a smooth batter – be careful not to overmix as this can lead to a dry cake. Pour into the prepared tin and bake for 50-55 mins or until risen and a skewer inserted into the middle of the cake comes out clean. Allow the cake to cool in the pan for 20 mins before turning out onto a wire rack to cool completely.\r\n\r\nstep 3\r\nOnce cooled, use a large serrated knife to slice the cake into 3 layers. Spread the jam across the 2 bottom cake layers, then reassemble the cake and set aside while you make the glaze. Put the cream, chocolate and honey in a medium pan and cook over a low-medium heat until the chocolate is melted and you have a smooth, pourable mixture. Put the cake on a wire rack set over a parchment-lined baking tray and pour over the glaze, making sure to cover the entire cake. Use a fish slice to carefully transfer the cake to a serving plate and allow the glaze to set. To decorate, dust with a little edible gold powder, if you like. Uniced, this cake will keep for up to 5 days. Once iced, enjoy within 3 days – just keep in the fridge, but remove before serving and eat at room temperature.",
+    "ingredients": [
+      { "position": 1, "name": "Unsalted Butter", "measurement": "140g" },
+      { "position": 2, "name": "Clear Honey", "measurement": "300g" },
+      { "position": 3, "name": "Brown Sugar", "measurement": "100g" },
+      { "position": 4, "name": "Self-raising Flour", "measurement": "375g" },
+      { "position": 5, "name": "Ground Ginger", "measurement": "3 tsp" },
+      { "position": 6, "name": "Ground Cinnamon", "measurement": "1 tsp" },
+      { "position": 7, "name": "Ground Clove", "measurement": "1/2 teaspoon" },
+      { "position": 8, "name": "Ground Nutmeg", "measurement": "1/4 tsp" },
+      { "position": 9, "name": "Pepper", "measurement": "1/4 tsp" },
+      { "position": 10, "name": "Egg", "measurement": "3 Large" },
+      { "position": 11, "name": "Plum Jam", "measurement": "200g" },
+      { "position": 12, "name": "Double Cream", "measurement": "225ml" },
+      { "position": 13, "name": "Dark Chocolate", "measurement": "140g" },
+      { "position": 14, "name": "Clear Honey", "measurement": "3  tablespoons" }
+    ]
+  }
+}

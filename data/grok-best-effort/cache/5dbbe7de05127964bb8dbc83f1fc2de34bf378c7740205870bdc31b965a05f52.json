@@ -1,0 +1,407 @@
+{
+  "inputHash": "5dbbe7de05127964bb8dbc83f1fc2de34bf378c7740205870bdc31b965a05f52",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:25.430Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon olive oil, standard density ~0.92 g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 400,
+        "proteinG": 30,
+        "fatG": 30,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 240,
+      "proteinG": 18,
+      "fatG": 18,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "2 rashers of typical streaky bacon, ~30 g each including edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 9,
+        "fiberG": 2
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.1,
+      "fatG": 0,
+      "carbsG": 9.9,
+      "fiberG": 2.2,
+      "assumptions": "1 medium onion finely chopped, typical edible weight ~110 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 16,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 3,
+        "fiberG": 2
+      },
+      "caloriesKcal": 6.4,
+      "proteinG": 0.4,
+      "fatG": 0,
+      "carbsG": 1.2,
+      "fiberG": 0.8,
+      "assumptions": "1 celery stick, typical edible weight ~40 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 10,
+        "fiberG": 3
+      },
+      "caloriesKcal": 24.6,
+      "proteinG": 0.6,
+      "fatG": 0,
+      "carbsG": 6,
+      "fiberG": 1.8,
+      "assumptions": "1 medium carrot, typical edible weight ~60 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6,
+        "fatG": 0,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.36,
+      "fatG": 0,
+      "carbsG": 1.98,
+      "fiberG": 0.12,
+      "assumptions": "2 cloves garlic chopped, typical combined weight ~6 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 17,
+        "fatG": 20,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1250,
+      "proteinG": 85,
+      "fatG": 100,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "500 g raw minced beef (20% fat typical for lasagne).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 4,
+        "fatG": 0,
+        "carbsG": 19,
+        "fiberG": 4
+      },
+      "caloriesKcal": 12.3,
+      "proteinG": 0.6,
+      "fatG": 0,
+      "carbsG": 2.85,
+      "fiberG": 0.6,
+      "assumptions": "1 tablespoon tomato puree/paste, standard density ~1 g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 7,
+        "fiberG": 2
+      },
+      "caloriesKcal": 256,
+      "proteinG": 16,
+      "fatG": 0,
+      "carbsG": 56,
+      "fiberG": 16,
+      "assumptions": "800 g canned chopped tomatoes including juice (drained weight lower but whole can used per instructions).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 21,
+      "per100g": {
+        "caloriesKcal": 304,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 82,
+        "fiberG": 0
+      },
+      "caloriesKcal": 63.84,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 17.22,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon honey, standard density ~1.4 g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 371,
+        "proteinG": 13,
+        "fatG": 2,
+        "carbsG": 73,
+        "fiberG": 3
+      },
+      "caloriesKcal": 1855,
+      "proteinG": 65,
+      "fatG": 10,
+      "carbsG": 365,
+      "fiberG": 15,
+      "assumptions": "500 g dry lasagne sheets (pasta).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 3,
+        "fatG": 35,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1360,
+      "proteinG": 12,
+      "fatG": 140,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "400 ml creme fraiche (~400 g at density ~1 g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 18,
+        "fatG": 20,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 312.5,
+      "proteinG": 22.5,
+      "fatG": 25,
+      "carbsG": 2.5,
+      "fiberG": 0,
+      "assumptions": "125 g mozzarella balls, drained edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 392,
+        "proteinG": 35,
+        "fatG": 25,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 196,
+      "proteinG": 17.5,
+      "fatG": 12.5,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "50 g grated parmesan cheese.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 3,
+        "fatG": 1,
+        "carbsG": 3,
+        "fiberG": 2
+      },
+      "caloriesKcal": 2.3,
+      "proteinG": 0.3,
+      "fatG": 0.1,
+      "carbsG": 0.3,
+      "fiberG": 0.2,
+      "assumptions": "Small handful basil leaves as topping, plausible ~10 g edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52844",
+    "name": "Lasagne",
+    "cuisine": "Italian",
+    "instructions": "Heat the oil in a large saucepan. Use kitchen scissors to snip the bacon into small pieces, or use a sharp knife to chop it on a chopping board. Add the bacon to the pan and cook for just a few mins until starting to turn golden. Add the onion, celery and carrot, and cook over a medium heat for 5 mins, stirring occasionally, until softened.\r\nAdd the garlic and cook for 1 min, then tip in the mince and cook, stirring and breaking it up with a wooden spoon, for about 6 mins until browned all over.\r\nStir in the tomato purée and cook for 1 min, mixing in well with the beef and vegetables. Tip in the chopped tomatoes. Fill each can half full with water to rinse out any tomatoes left in the can, and add to the pan. Add the honey and season to taste. Simmer for 20 mins.\r\nHeat oven to 200C/180C fan/gas 6. To assemble the lasagne, ladle a little of the ragu sauce into the bottom of the roasting tin or casserole dish, spreading the sauce all over the base. Place 2 sheets of lasagne on top of the sauce overlapping to make it fit, then repeat with more sauce and another layer of pasta. Repeat with a further 2 layers of sauce and pasta, finishing with a layer of pasta.\r\nPut the crème fraîche in a bowl and mix with 2 tbsp water to loosen it and make a smooth pourable sauce. Pour this over the top of the pasta, then top with the mozzarella. Sprinkle Parmesan over the top and bake for 25–30 mins until golden and bubbling. Serve scattered with basil, if you like.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "1 tblsp" },
+      { "position": 2, "name": "Bacon", "measurement": "2" },
+      { "position": 3, "name": "Onion", "measurement": "1 finely chopped" },
+      { "position": 4, "name": "Celery", "measurement": "1 Stick" },
+      { "position": 5, "name": "Carrots", "measurement": "1 medium" },
+      { "position": 6, "name": "Garlic", "measurement": "2 cloves chopped" },
+      { "position": 7, "name": "Minced Beef", "measurement": "500g" },
+      { "position": 8, "name": "Tomato Puree", "measurement": "1 tbls" },
+      { "position": 9, "name": "Chopped Tomatoes", "measurement": "800g" },
+      { "position": 10, "name": "Honey", "measurement": "1 tblsp" },
+      { "position": 11, "name": "Lasagne Sheets", "measurement": "500g" },
+      { "position": 12, "name": "Creme Fraiche", "measurement": "400ml" },
+      { "position": 13, "name": "Mozzarella Balls", "measurement": "125g" },
+      { "position": 14, "name": "Parmesan Cheese", "measurement": "50g" },
+      { "position": 15, "name": "Basil Leaves", "measurement": "Topping" }
+    ]
+  }
+}

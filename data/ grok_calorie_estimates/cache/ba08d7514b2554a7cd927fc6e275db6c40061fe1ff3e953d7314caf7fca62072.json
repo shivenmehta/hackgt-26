@@ -1,0 +1,100 @@
+{
+  "inputHash": "ba08d7514b2554a7cd927fc6e275db6c40061fe1ff3e953d7314caf7fca62072",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:15:54.864Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 760,
+      "proteinG": 68,
+      "fatG": 52,
+      "assumptions": "1 lb raw boneless skinless chicken thighs; standard values ~172 kcal, 15.4g protein, 11.7g fat per 100g"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 17,
+      "proteinG": 3.6,
+      "fatG": 0,
+      "assumptions": "1 large egg white only (~33g); standard ~51 kcal/100g"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tsp table salt; negligible calories"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 16,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "2 tsp cornstarch (~10g); ~364 kcal/100g"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 170,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "10 oz canned pineapple chunks in juice, drained weight (~284g); ~60 kcal/100g"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 33,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "assumptions": "1/4 cup pineapple juice from can (~60g); ~55 kcal/100g"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 11,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1/4 cup distilled white vinegar (~60g); ~18 kcal/100g"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 70,
+      "proteinG": 1,
+      "fatG": 0.2,
+      "assumptions": "1/4 cup tomato ketchup (~60g); ~117 kcal/100g"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 130,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "3 tbsp packed brown sugar (~36g); ~360 kcal/100g"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 160,
+      "proteinG": 0,
+      "fatG": 18,
+      "assumptions": "4 tsp neutral cooking oil (e.g. vegetable); all 18g fat assumed absorbed/used in stir-fry (~40g total)"
+    },
+    {
+      "position": 11,
+      "caloriesKcal": 35,
+      "proteinG": 1.2,
+      "fatG": 0.3,
+      "assumptions": "1 medium red bell pepper, chopped (~120g raw edible portion); ~29 kcal/100g"
+    },
+    {
+      "position": 12,
+      "caloriesKcal": 35,
+      "proteinG": 1.2,
+      "fatG": 0.3,
+      "assumptions": "1 medium yellow bell pepper, chopped (~120g raw edible portion); ~29 kcal/100g"
+    },
+    {
+      "position": 13,
+      "caloriesKcal": 2,
+      "proteinG": 0.1,
+      "fatG": 0,
+      "assumptions": "1 tsp fresh grated ginger (~2g); ~80 kcal/100g"
+    }
+  ]
+}

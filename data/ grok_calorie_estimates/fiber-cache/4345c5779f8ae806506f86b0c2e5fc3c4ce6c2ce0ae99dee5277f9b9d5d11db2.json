@@ -1,0 +1,63 @@
+{
+  "inputHash": "4345c5779f8ae806506f86b0c2e5fc3c4ce6c2ce0ae99dee5277f9b9d5d11db2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:24.141Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "200g drained mozzarella balls; typical fresh mozzarella has ~1-2g carbs/100g with negligible fiber"
+    },
+    {
+      "position": 2,
+      "carbsG": 9,
+      "fiberG": 3,
+      "assumptions": "250g raw baby plum tomatoes; ~3.5g carbs and 1.2g fiber per 100g"
+    },
+    {
+      "position": 3,
+      "carbsG": 1.5,
+      "fiberG": 1,
+      "assumptions": "1 bunch fresh basil (~25g leaves); ~6g carbs and 4g fiber per 100g"
+    },
+    {
+      "position": 4,
+      "carbsG": 262,
+      "fiberG": 11,
+      "assumptions": "350g dry farfalle pasta (uncooked); ~75g carbs and ~3g fiber per 100g"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons extra virgin olive oil (~45ml); pure oil has zero carbs/fiber"
+    },
+    {
+      "position": 6,
+      "carbsG": 2,
+      "fiberG": 2,
+      "assumptions": "40g drained green olives; ~5g carbs and ~4g fiber per 100g"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "200g drained canned tuna; plain fish has zero carbs/fiber"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "salt to taste; no carbohydrates"
+    },
+    {
+      "position": 9,
+      "carbsG": 1.5,
+      "fiberG": 0.7,
+      "assumptions": "pepper to taste; estimated ~5g total black pepper used, ~30g carbs and ~14g fiber per 100g"
+    }
+  ]
+}

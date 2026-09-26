@@ -1,0 +1,51 @@
+{
+  "inputHash": "ff4e3c69e7b0115f8250148f73421d0c8500bd23ad119c88a6e74f2812ba3729",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:04.893Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 39.4,
+      "fiberG": 5.2,
+      "assumptions": "225g raw potatoes (peeled weight as per previous estimates); standard potato nutrition (USDA) used."
+    },
+    {
+      "position": 2,
+      "carbsG": 14.3,
+      "fiberG": 6.3,
+      "assumptions": "1 small fennel bulb ~150g edible portion after trimming (as per previous estimates); raw bulb only."
+    },
+    {
+      "position": 3,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 clove garlic ~3g, finely chopped (as per previous estimates)."
+    },
+    {
+      "position": 4,
+      "carbsG": 3.8,
+      "fiberG": 0,
+      "assumptions": "75ml semi-skimmed milk (as per previous estimates); standard milk nutrition used."
+    },
+    {
+      "position": 5,
+      "carbsG": 3.3,
+      "fiberG": 0,
+      "assumptions": "100ml double cream (as per previous estimates)."
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "~4g butter for greasing (as per previous estimates); pure fat has no carbs."
+    },
+    {
+      "position": 7,
+      "carbsG": 0.2,
+      "fiberG": 0,
+      "assumptions": "10g Parmesan (as per previous estimates)."
+    }
+  ]
+}

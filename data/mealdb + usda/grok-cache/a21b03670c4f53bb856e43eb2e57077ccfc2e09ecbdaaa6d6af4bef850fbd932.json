@@ -1,0 +1,45 @@
+{
+  "inputHash": "a21b03670c4f53bb856e43eb2e57077ccfc2e09ecbdaaa6d6af4bef850fbd932",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:54.093Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 40,
+      "caloriesPer100g": 16.7,
+      "assumptions": "1 celery stalk is typically ~40g edible portion (USDA average for a medium stalk without leaves)."
+    },
+    {
+      "position": 4,
+      "grams": 90,
+      "caloriesPer100g": 61,
+      "assumptions": "1 sliced leek is estimated at ~90g based on a medium leek's white and light green edible parts (common recipe size; dark green often discarded)."
+    },
+    {
+      "position": 5,
+      "grams": 170,
+      "caloriesPer100g": 83.4,
+      "assumptions": "1 medium potato estimated at 170g (typical range 150-200g for a medium baking or all-purpose potato, raw peeled weight)."
+    },
+    {
+      "position": 6,
+      "grams": 15,
+      "caloriesPer100g": 717,
+      "assumptions": "1 knob of butter is a modest ~15g (standard estimate for a small pat or knob used in sweating vegetables)."
+    },
+    {
+      "position": 8,
+      "grams": 250,
+      "caloriesPer100g": 31,
+      "assumptions": "1 head of broccoli (chopped) estimated at 250g edible florets and tender stalk (typical medium head after trimming tough stem; full head with stem often 300-400g but recipe separates stalk earlier)."
+    },
+    {
+      "position": 9,
+      "grams": 140,
+      "caloriesPer100g": 362,
+      "assumptions": "Grams copied from supplied 140g. CaloriesPer100g estimated from typical Stilton blue cheese values (~360-370 kcal/100g); known value was null so realistic average used."
+    }
+  ]
+}

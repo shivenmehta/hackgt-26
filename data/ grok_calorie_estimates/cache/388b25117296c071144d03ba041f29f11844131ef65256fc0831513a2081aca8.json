@@ -1,0 +1,79 @@
+{
+  "inputHash": "388b25117296c071144d03ba041f29f11844131ef65256fc0831513a2081aca8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:15:30.214Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 180,
+      "proteinG": 12,
+      "fatG": 6,
+      "assumptions": "3 US cups = 720 ml; using typical canned/boxed chicken stock values (25 kcal, 1.7 g protein, 0.8 g fat per 100 ml)"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1/4 tsp table salt contributes negligible macros"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 4,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1/4 tsp granulated sugar = ~1 g carbohydrate yielding ~4 kcal"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "pinch of ground white pepper is <0.1 g and contributes negligible calories/macros"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 40,
+      "proteinG": 0,
+      "fatG": 4.5,
+      "assumptions": "1 tsp sesame oil = 4.5 g; standard oil values (9 kcal/g)"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 35,
+      "proteinG": 2.3,
+      "fatG": 0.2,
+      "assumptions": "1/3 cup = 50 g frozen green peas; standard values for cooked peas"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 10,
+      "proteinG": 1.4,
+      "fatG": 0.2,
+      "assumptions": "1/3 cup = 30 g sliced fresh mushrooms (e.g., button or shiitake); standard raw values"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 30,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tbs = 8 g cornstarch; standard values (~375 kcal/100 g)"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "2 tbs = 30 ml water contributes zero macros"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 8,
+      "proteinG": 0.5,
+      "fatG": 0.1,
+      "assumptions": "1/4 cup = 25 g chopped spring onions/scallions; standard raw values"
+    }
+  ]
+}

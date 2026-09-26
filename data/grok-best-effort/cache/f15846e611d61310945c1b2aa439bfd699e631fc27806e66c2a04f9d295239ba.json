@@ -1,0 +1,381 @@
+{
+  "inputHash": "f15846e611d61310945c1b2aa439bfd699e631fc27806e66c2a04f9d295239ba",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:33.702Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.4,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.012000000000000002,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "1 small clove garlic, peeled, ~3g edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 135,
+        "proteinG": 20,
+        "fatG": 6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 405,
+      "proteinG": 60,
+      "fatG": 18,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 small beef fillet steaks; typical small fillet steak ~150g each, raw weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 265.2,
+      "proteinG": 0,
+      "fatG": 30,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons olive oil; standard 15ml per tbsp, density ~0.92g/ml",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 14,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2.1,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.135,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon sherry vinegar (or similar wine vinegar); standard 15ml tbsp, mostly water with low nutrients",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.8,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 1.8,
+      "proteinG": 0.15,
+      "fatG": 0.04,
+      "carbsG": 0.315,
+      "fiberG": 0.165,
+      "assumptions": "Parsley stalks only (from 1 small bunch total); ~5g edible stalks used for marinade",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 2.5,
+        "carbsG": 49,
+        "fiberG": 3.5
+      },
+      "caloriesKcal": 530,
+      "proteinG": 18,
+      "fatG": 5,
+      "carbsG": 98,
+      "fiberG": 7,
+      "assumptions": "2 ciabatta rolls; typical 100g each, as used for sandwiches",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 2.6,
+        "fatG": 0.7,
+        "carbsG": 3.7,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 10,
+      "proteinG": 1.04,
+      "fatG": 0.28,
+      "carbsG": 1.48,
+      "fiberG": 0.64,
+      "assumptions": "2 handfuls rocket/arugula; typical small handful ~20g each, fresh edible weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 3.2,
+        "fatG": 0.6,
+        "carbsG": 2.7,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 5.75,
+      "proteinG": 0.8,
+      "fatG": 0.15,
+      "carbsG": 0.675,
+      "fiberG": 0.4,
+      "assumptions": "Small bunch fresh basil leaves; ~25g edible leaves only",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.8,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 9,
+      "proteinG": 0.75,
+      "fatG": 0.2,
+      "carbsG": 1.575,
+      "fiberG": 0.825,
+      "assumptions": "Small bunch fresh parsley leaves; ~25g edible leaves only (separate from stalks in pos 5)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 12,
+        "proteinG": 0.4,
+        "fatG": 0.4,
+        "carbsG": 2.8,
+        "fiberG": 1.4
+      },
+      "caloriesKcal": 5.4,
+      "proteinG": 0.18,
+      "fatG": 0.18,
+      "carbsG": 1.2599999999999998,
+      "fiberG": 0.6299999999999999,
+      "assumptions": "1 medium fresh jalapeño pepper, ~45g whole trimmed weight with seeds",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 14,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2.1,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.135,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon vinegar (for sauce); standard 15ml tbsp, similar to pos 4",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 9.6,
+      "proteinG": 0.54,
+      "fatG": 0.06,
+      "carbsG": 2.19,
+      "fiberG": 0.78,
+      "assumptions": "2 spring onions, chopped; typical 15g each trimmed",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 1.5,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.4,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 2.235,
+      "proteinG": 0.09600000000000002,
+      "fatG": 0.006000000000000001,
+      "carbsG": 0.49650000000000005,
+      "fiberG": 0.0315,
+      "assumptions": "1/2 small garlic clove; ~1.5g edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 7.74,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1/2 teaspoon caster sugar; standard 4g per tsp, so ~2g total",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53042",
+    "name": "Portuguese prego with green piri-piri",
+    "cuisine": "Portuguese",
+    "instructions": "STEP 1\r\n\r\nRub the garlic over the steaks then put in a sandwich bag and tip in the olive oil, sherry vinegar and parsley stalks. Smoosh everything together, then use a rolling pin to bash the steaks a few times. Leave for 1-2 hours.\r\n\r\nSTEP 2\r\n\r\nTo make the sauce, put all the ingredients into a blender with 1 tbsp water and whizz until as smooth as possible. This will make more than you’ll need for the recipe but will keep for a week in an airtight jar.\r\n\r\nSTEP 3\r\n\r\nHeat a griddle or frying pan to high. Brush away the garlic and parsley stalks from the steaks and season well. Sear the steaks for 2 minutes on each side then rest on a plate. Put the ciabatta halves onto the plate, toasted-side down, to soak up any juices.\r\n\r\nSTEP 4\r\n\r\nSlice the steaks then stuff into the rolls with the green sauce and rocket.",
+    "ingredients": [
+      { "position": 1, "name": "Garlic", "measurement": "1 clove" },
+      { "position": 2, "name": "Beef Fillet", "measurement": "2 small" },
+      { "position": 3, "name": "Olive Oil", "measurement": "2 tbs" },
+      { "position": 4, "name": "Vinegar", "measurement": "1 tbs" },
+      { "position": 5, "name": "Parsley", "measurement": "Leaves" },
+      { "position": 6, "name": "Ciabatta", "measurement": "2" },
+      { "position": 7, "name": "Rocket", "measurement": "2 handfulls" },
+      { "position": 8, "name": "Basil Leaves", "measurement": "Small bunch" },
+      { "position": 9, "name": "Parsley", "measurement": "Small bunch" },
+      { "position": 10, "name": "Jalapeno", "measurement": "1" },
+      { "position": 11, "name": "Vinegar", "measurement": "1 tbs" },
+      { "position": 12, "name": "Spring Onions", "measurement": "2 chopped" },
+      { "position": 13, "name": "Garlic", "measurement": "1/2" },
+      { "position": 14, "name": "Caster Sugar", "measurement": "1/2 tsp" }
+    ]
+  }
+}

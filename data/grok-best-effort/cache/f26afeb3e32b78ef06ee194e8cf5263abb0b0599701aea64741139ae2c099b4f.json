@@ -1,0 +1,389 @@
+{
+  "inputHash": "f26afeb3e32b78ef06ee194e8cf5263abb0b0599701aea64741139ae2c099b4f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:23:57.885Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 44,
+        "proteinG": 1.2,
+        "fatG": 0.2,
+        "carbsG": 10,
+        "fiberG": 2
+      },
+      "caloriesKcal": 132,
+      "proteinG": 3.6,
+      "fatG": 0.6,
+      "carbsG": 30,
+      "fiberG": 6,
+      "assumptions": "2 medium onions, approx 150g each, raw weight; typical for quartered onions in curry base.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 530.4,
+      "proteinG": 0,
+      "fatG": 60,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 tbsp sunflower oil; standard density ~15ml/tbsp, total 60ml, nearly 100% fat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 29.8,
+      "proteinG": 1.28,
+      "fatG": 0.1,
+      "carbsG": 6.62,
+      "fiberG": 0.42,
+      "assumptions": "4 average garlic cloves, ~5g each, raw; typical for Indian recipes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.8,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 16,
+      "proteinG": 0.36,
+      "fatG": 0.14,
+      "carbsG": 3.6,
+      "fiberG": 0.4,
+      "assumptions": "Thumb-sized piece of fresh ginger (~20g peeled); standard estimate for grated ginger in curry.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 6,
+        "fatG": 15,
+        "carbsG": 20,
+        "fiberG": 5
+      },
+      "caloriesKcal": 100,
+      "proteinG": 2.4,
+      "fatG": 6,
+      "carbsG": 8,
+      "fiberG": 2,
+      "assumptions": "2 tbsp Madras curry paste; typical commercial Indian paste values, ~20g/tbsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14,
+        "fatG": 13,
+        "carbsG": 54,
+        "fiberG": 37
+      },
+      "caloriesKcal": 14.1,
+      "proteinG": 0.7,
+      "fatG": 0.65,
+      "carbsG": 2.7,
+      "fiberG": 1.85,
+      "assumptions": "2 tsp paprika; standard spice density ~2.5g/tsp, total 5g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 3,
+        "carbsG": 81,
+        "fiberG": 53
+      },
+      "caloriesKcal": 7.41,
+      "proteinG": 0.12,
+      "fatG": 0.09,
+      "carbsG": 2.43,
+      "fiberG": 1.59,
+      "assumptions": "1 cinnamon stick, typical 3g whole spice; nutrients based on ground cinnamon as proxy.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 311,
+        "proteinG": 11,
+        "fatG": 7,
+        "carbsG": 68,
+        "fiberG": 28
+      },
+      "caloriesKcal": 12.44,
+      "proteinG": 0.44,
+      "fatG": 0.28,
+      "carbsG": 2.72,
+      "fiberG": 1.12,
+      "assumptions": "6 cardamom pods, bashed, ~0.7g each total ~4g; typical whole spice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 274,
+        "proteinG": 6,
+        "fatG": 13,
+        "carbsG": 66,
+        "fiberG": 40
+      },
+      "caloriesKcal": 8.22,
+      "proteinG": 0.18,
+      "fatG": 0.39,
+      "carbsG": 1.98,
+      "fiberG": 1.2,
+      "assumptions": "4 whole cloves, ~0.7g each total ~3g; typical whole spice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 313,
+        "proteinG": 8,
+        "fatG": 8,
+        "carbsG": 75,
+        "fiberG": 26
+      },
+      "caloriesKcal": 3.13,
+      "proteinG": 0.08,
+      "fatG": 0.08,
+      "carbsG": 0.75,
+      "fiberG": 0.26,
+      "assumptions": "2 bay leaves, ~0.5g each total 1g; typical dried herb values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 4.3,
+        "fatG": 0.5,
+        "carbsG": 18.9,
+        "fiberG": 4.1
+      },
+      "caloriesKcal": 12.3,
+      "proteinG": 0.645,
+      "fatG": 0.075,
+      "carbsG": 2.835,
+      "fiberG": 0.6149999999999999,
+      "assumptions": "1 tbsp tomato purée/paste; standard ~15g, concentrated tomato values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 20,
+        "fatG": 20,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2500,
+      "proteinG": 200,
+      "fatG": 200,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1kg boneless lamb shoulder/leg cubes, raw; typical values for stewing lamb with moderate fat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 9,
+        "fatG": 5,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 145.5,
+      "proteinG": 13.5,
+      "fatG": 7.5,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "150ml Greek yogurt; density ~1g/ml, full-fat strained yogurt values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 2.3,
+      "proteinG": 0.22,
+      "fatG": 0.05,
+      "carbsG": 0.37,
+      "fiberG": 0.28,
+      "assumptions": "Chopped fresh coriander (cilantro) as garnish; typical small bunch portion used for scattering.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52808",
+    "name": "Lamb Rogan josh",
+    "cuisine": "Indian",
+    "instructions": "Put the onions in a food processor and whizz until very finely chopped. Heat the oil in a large heavy-based pan, then fry the onion with the lid on, stirring every now and then, until it is really golden and soft. Add the garlic and ginger, then fry for 5 mins more.\r\nTip the curry paste, all the spices and the bay leaves into the pan, with the tomato purée. Stir well over the heat for about 30 secs, then add the meat and 300ml water. Stir to mix, turn down the heat, then add the yogurt.\r\nCover the pan, then gently simmer for 40-60 mins until the meat is tender and the sauce nice and thick. Serve scattered with coriander, with plain basmati or pilau rice.",
+    "ingredients": [
+      { "position": 1, "name": "Onion", "measurement": "2 quartered" },
+      { "position": 2, "name": "Sunflower Oil", "measurement": "4 tbsp" },
+      { "position": 3, "name": "Garlic", "measurement": "4 cloves" },
+      {
+        "position": 4,
+        "name": "Ginger",
+        "measurement": "Thumb sized peeled and very finely grated"
+      },
+      { "position": 5, "name": "Madras Paste", "measurement": "2 tbsp" },
+      { "position": 6, "name": "Paprika", "measurement": "2 tsp" },
+      { "position": 7, "name": "cinnamon stick", "measurement": "1" },
+      {
+        "position": 8,
+        "name": "Cardamom",
+        "measurement": "6 bashed to break shells"
+      },
+      { "position": 9, "name": "Cloves", "measurement": "4" },
+      { "position": 10, "name": "Bay Leaf", "measurement": "2" },
+      { "position": 11, "name": "Tomato Purée", "measurement": "1 tbsp" },
+      { "position": 12, "name": "Lamb", "measurement": "1kg cubed" },
+      { "position": 13, "name": "Greek yogurt", "measurement": "150ml" },
+      { "position": 14, "name": "Coriander", "measurement": "Garnish chopped" }
+    ]
+  }
+}

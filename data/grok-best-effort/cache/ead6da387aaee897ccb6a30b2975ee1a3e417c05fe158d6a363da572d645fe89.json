@@ -1,0 +1,147 @@
+{
+  "inputHash": "ead6da387aaee897ccb6a30b2975ee1a3e417c05fe158d6a363da572d645fe89",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:29.352Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 320,
+      "per100g": {
+        "caloriesKcal": 43,
+        "proteinG": 1.6,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 137.6,
+      "proteinG": 5.12,
+      "fatG": 0.64,
+      "carbsG": 30.72,
+      "fiberG": 8.96,
+      "assumptions": "Raw beetroot, peeled and grated as typical for sauerkraut; full 320g used as edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1.4,
+        "fatG": 0.3,
+        "carbsG": 7.4,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 139.5,
+      "proteinG": 6.3,
+      "fatG": 1.35,
+      "carbsG": 33.3,
+      "fiberG": 11.25,
+      "assumptions": "Raw red cabbage, shredded; full 450g used as edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 70,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 28,
+      "proteinG": 0.77,
+      "fatG": 0.07,
+      "carbsG": 6.51,
+      "fiberG": 1.19,
+      "assumptions": "1 small onion estimated at 70g (typical size for recipes); raw and thinly sliced or grated.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 333,
+        "proteinG": 19.8,
+        "fatG": 14.6,
+        "carbsG": 49.9,
+        "fiberG": 37.7
+      },
+      "caloriesKcal": 13.32,
+      "proteinG": 0.792,
+      "fatG": 0.584,
+      "carbsG": 1.996,
+      "fiberG": 1.508,
+      "assumptions": "2 tsp caraway seeds ≈ 4g (standard density for whole seeds); full amount used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp sea salt ≈ 6g; negligible calories/macros as pure salt.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53307",
+    "name": "Beetroot & red cabbage sauerkraut",
+    "cuisine": "Polish",
+    "instructions": "step 1\r\nTip all the ingredients into a large bowl, add 1-1½ tsp freshly ground black pepper, then scrunch it all together with your hands for 5 mins. You might want to wear gloves to avoid staining your skin with the beetroot juices.\r\n\r\nstep 2\r\nPress the veg down in the bowl with your hands, then cover the surface and up the side of the bowl with a large sheet of compostable cling film or something reusable like a beeswax wrap. Now place another similar-sized bowl on top. Press down hard and add anything heavy (packs of rice or cans work well) to weigh it down so the juices rise to cover the surface. Cover again.\r\n\r\nstep 3\r\nLeave to ferment at room temperature for at least five days, but for maximum flavour, leave for one-five weeks (until the bubbling subsides).\r\n\r\nstep 4\r\nCheck the sauerkraut. After a few days, you will see bubbles that have built up as it ferments. Give it a stir, then cover and weigh it down again as before. The cabbage will become increasingly sour the longer it’s fermented, so taste it now and again. When you like the flavour, transfer it to sterilised jars and keep chilled. Will keep chilled for up to six months.",
+    "ingredients": [
+      { "position": 1, "name": "Beetroot", "measurement": "320g" },
+      { "position": 2, "name": "Red Cabbage", "measurement": "450g" },
+      { "position": 3, "name": "Onion", "measurement": "1 small" },
+      { "position": 4, "name": "Caraway Seed", "measurement": "2 tsp" },
+      { "position": 5, "name": "Sea Salt", "measurement": "1 tsp" }
+    ]
+  }
+}

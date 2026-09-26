@@ -1,0 +1,51 @@
+{
+  "inputHash": "c82624941fbe1a5a7726f779470340b61e58801a57999c250a76f06d3ef34c9d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:17.304Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 45,
+      "caloriesPer100g": 72,
+      "assumptions": "3 shallots ≈ 15g each (small/medium size, typical for recipes); edible portion only, raw state as added."
+    },
+    {
+      "position": 7,
+      "grams": 1,
+      "caloriesPer100g": 313,
+      "assumptions": "2 bay leaves ≈ 0.5g each (dried herb weight); modest amount, entire leaves used but low mass."
+    },
+    {
+      "position": 8,
+      "grams": 330,
+      "caloriesPer100g": 37,
+      "assumptions": "Stout density ≈1g/ml; 330ml can/bottle as typical serving, calories based on standard stout values (≈37kcal/100ml)."
+    },
+    {
+      "position": 10,
+      "grams": 16,
+      "caloriesPer100g": 381,
+      "assumptions": "2 tbs cornflour (cornstarch) ≈ 8g per tbs (standard density); full edible mass, typical calorie density for corn starch."
+    },
+    {
+      "position": 11,
+      "grams": 200,
+      "caloriesPer100g": 81,
+      "assumptions": "8 medium oysters ≈ 25g edible meat each (shucked, no shell); total realistic yield from standard oysters, calories match given value for raw/edible portion."
+    },
+    {
+      "position": 13,
+      "grams": 1,
+      "caloriesPer100g": 0,
+      "assumptions": "Pinch of salt ≈ 1g or less; negligible but modest estimate, zero calories as given."
+    },
+    {
+      "position": 15,
+      "grams": 50,
+      "caloriesPer100g": 148,
+      "assumptions": "Eggs to glaze ≈ 1 large egg (≈50g whole, beaten for wash); modest realistic amount for pie glaze, calories match given whole egg value."
+    }
+  ]
+}

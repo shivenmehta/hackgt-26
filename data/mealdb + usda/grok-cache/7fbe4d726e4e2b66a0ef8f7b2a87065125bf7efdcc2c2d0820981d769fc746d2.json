@@ -1,0 +1,45 @@
+{
+  "inputHash": "7fbe4d726e4e2b66a0ef8f7b2a87065125bf7efdcc2c2d0820981d769fc746d2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:56.848Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 5,
+      "grams": 1200,
+      "caloriesPer100g": 18,
+      "assumptions": "3 x 400g cans; knownCaloriesPer100g copied exactly; total drained/edible weight equals can contents (standard for canned chopped tomatoes in sauce recipes)."
+    },
+    {
+      "position": 6,
+      "grams": 30,
+      "caloriesPer100g": 23,
+      "assumptions": "A typical fresh basil bunch weighs ~25-40g; 30g used here as realistic whole-bunch estimate for a sauce recipe; knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 7,
+      "grams": 500,
+      "caloriesPer100g": 429,
+      "assumptions": "Standard Italian mascarpone tub is ~250g; 2 tubs = 500g total edible weight. CaloriesPer100g estimated from typical mascarpone density (~429 kcal/100g) since field was null."
+    },
+    {
+      "position": 10,
+      "grams": 250,
+      "caloriesPer100g": 280,
+      "assumptions": "2 standard mozzarella balls (~125g each when sliced); total 250g edible weight. CaloriesPer100g estimated from typical mozzarella (~280 kcal/100g) since field was null."
+    },
+    {
+      "position": 13,
+      "grams": 750,
+      "caloriesPer100g": 157,
+      "assumptions": "Standard ricotta tub is ~250g; 3 tubs = 750g total edible weight; knownCaloriesPer100g and knownGrams logic applied to scale."
+    },
+    {
+      "position": 14,
+      "grams": 2,
+      "caloriesPer100g": 525,
+      "assumptions": "A pinch of nutmeg is ~1-3g; 2g used as modest realistic amount for seasoning a large spinach-ricotta mix; knownCaloriesPer100g copied exactly."
+    }
+  ]
+}

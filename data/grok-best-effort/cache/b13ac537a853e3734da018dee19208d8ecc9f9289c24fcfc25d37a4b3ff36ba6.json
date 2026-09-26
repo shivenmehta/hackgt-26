@@ -1,0 +1,303 @@
+{
+  "inputHash": "b13ac537a853e3734da018dee19208d8ecc9f9289c24fcfc25d37a4b3ff36ba6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:25:23.908Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 453.6,
+      "per100g": {
+        "caloriesKcal": 242,
+        "proteinG": 17,
+        "fatG": 19,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1097.7120000000002,
+      "proteinG": 77.11200000000001,
+      "fatG": 86.184,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard raw ground pork; 1 lb = 453.6 g edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.5760000000000001,
+      "fatG": 0.045,
+      "carbsG": 2.9790000000000005,
+      "fiberG": 0.18900000000000003,
+      "assumptions": "3 average garlic cloves chopped, total ~9 g edible weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.8,
+        "fatG": 0.8,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 1.6,
+      "proteinG": 0.036000000000000004,
+      "fatG": 0.016,
+      "carbsG": 0.36,
+      "fiberG": 0.04,
+      "assumptions": "1 tsp grated fresh ginger root ~2 g edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.2,
+        "fatG": 0.1,
+        "carbsG": 4.8,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 7.95,
+      "proteinG": 0.78,
+      "fatG": 0.015,
+      "carbsG": 0.72,
+      "fiberG": 0.105,
+      "assumptions": "1 tablespoon regular soy sauce ~15 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 44.2,
+      "proteinG": 0,
+      "fatG": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp toasted sesame oil ~5 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 61.5,
+      "proteinG": 1.35,
+      "fatG": 0.3,
+      "carbsG": 14.4,
+      "fiberG": 4.2,
+      "assumptions": "3 medium carrots finely chopped, total edible ~150 g after peeling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 16,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 3,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 19.2,
+      "proteinG": 0.84,
+      "fatG": 0.24,
+      "carbsG": 3.6,
+      "fiberG": 1.92,
+      "assumptions": "3 medium celery stalks finely chopped, total edible ~120 g after trimming.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 90,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.9,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 28.8,
+      "proteinG": 1.71,
+      "fatG": 0.18,
+      "carbsG": 6.57,
+      "fiberG": 2.34,
+      "assumptions": "6 medium spring onions (scallions) chopped, total edible ~90 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 230,
+      "per100g": {
+        "caloriesKcal": 324,
+        "proteinG": 9.1,
+        "fatG": 1.5,
+        "carbsG": 63.6,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 745.2,
+      "proteinG": 20.93,
+      "fatG": 3.45,
+      "carbsG": 146.28,
+      "fiberG": 4.83,
+      "assumptions": "Standard 1 packet (about 50-60 skins) of wonton wrappers, total ~230 g edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 221,
+      "proteinG": 0,
+      "fatG": 25,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Oil for deep frying (assumed 25 g absorbed per typical batch of 4-5 wontons based on recipe context and common frying estimates; not the full fryer volume).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Water for sealing (assumed ~30 g brushed on from a bottle; negligible nutrition).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52948",
+    "name": "Wontons",
+    "cuisine": "Chinese",
+    "instructions": "Combine pork, garlic, ginger, soy sauce, sesame oil, and vegetables in a bowl.\r\nSeparate wonton skins.\r\nPlace a heaping teaspoon of filling in the center of the wonton.\r\nBrush water on 2 borders of the skin, covering 1/4 inch from the edge.\r\nFold skin over to form a triangle, sealing edges.\r\nPinch the two long outside points together.\r\nHeat oil to 450 degrees and fry 4 to 5 at a time until golden.\r\nDrain and serve with sauce.",
+    "ingredients": [
+      { "position": 1, "name": "Pork", "measurement": "1lb" },
+      { "position": 2, "name": "Garlic Clove", "measurement": "3 chopped" },
+      { "position": 3, "name": "Ginger", "measurement": "1 tsp" },
+      { "position": 4, "name": "Soy Sauce", "measurement": "1 tbs" },
+      { "position": 5, "name": "Sesame Seed Oil", "measurement": "1 tsp" },
+      { "position": 6, "name": "Carrots", "measurement": "3 finely chopped" },
+      { "position": 7, "name": "Celery", "measurement": "3 finely chopped" },
+      { "position": 8, "name": "Spring Onions", "measurement": "6 chopped" },
+      { "position": 9, "name": "Wonton Skin", "measurement": "1 Packet" },
+      { "position": 10, "name": "Oil", "measurement": "Fry" },
+      { "position": 11, "name": "Water", "measurement": "Bottle" }
+    ]
+  }
+}

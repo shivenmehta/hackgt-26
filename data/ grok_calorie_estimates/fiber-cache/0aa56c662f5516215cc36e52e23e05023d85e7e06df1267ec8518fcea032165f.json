@@ -1,0 +1,63 @@
+{
+  "inputHash": "0aa56c662f5516215cc36e52e23e05023d85e7e06df1267ec8518fcea032165f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:03:48.662Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 oz raw boneless chicken thigh; zero carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "pinch of salt; zero carbohydrates"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "pinch of pepper; zero carbohydrates"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.25,
+      "fiberG": 0,
+      "assumptions": "1 tsp ginger cordial/juice ≈ 5 g; assumed mostly simple sugars"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.4,
+      "fiberG": 0.1,
+      "assumptions": "1 tsp grated fresh ginger ≈ 2 g; standard values for fresh ginger root"
+    },
+    {
+      "position": 6,
+      "carbsG": 1.2,
+      "fiberG": 0.4,
+      "assumptions": "1 tbs chopped spring onions ≈ 10 g raw; standard values for green onions"
+    },
+    {
+      "position": 7,
+      "carbsG": 77,
+      "fiberG": 1,
+      "assumptions": "1/2 cup uncooked white rice ≈ 100 g dry; standard white rice values (includes fiber)"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 cups water; zero carbohydrates"
+    },
+    {
+      "position": 9,
+      "carbsG": 3.3,
+      "fiberG": 2.5,
+      "assumptions": "2 oz fresh coriander/cilantro ≈ 57 g raw; standard values for cilantro leaves and stems"
+    }
+  ]
+}

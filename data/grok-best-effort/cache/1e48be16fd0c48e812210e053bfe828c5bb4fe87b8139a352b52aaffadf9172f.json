@@ -1,0 +1,303 @@
+{
+  "inputHash": "1e48be16fd0c48e812210e053bfe828c5bb4fe87b8139a352b52aaffadf9172f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:43.102Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 113.5,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.85,
+        "fatG": 81.1,
+        "carbsG": 0.06,
+        "fiberG": 0
+      },
+      "caloriesKcal": 813.795,
+      "proteinG": 0.96475,
+      "fatG": 92.04849999999999,
+      "carbsG": 0.0681,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; entire 1/2 cup (113.5g) used in batter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 774,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 200,
+      "fiberG": 0,
+      "assumptions": "Granulated white sugar; entire 1 cup (200g) used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143,
+      "proteinG": 12.6,
+      "fatG": 9.5,
+      "carbsG": 0.7,
+      "fiberG": 0,
+      "assumptions": "Large whole eggs; 2 large eggs average 100g total edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0.1,
+        "fatG": 0.1,
+        "carbsG": 12.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 11.52,
+      "proteinG": 0.004,
+      "fatG": 0.004,
+      "carbsG": 0.508,
+      "fiberG": 0,
+      "assumptions": "Pure vanilla extract; entire 1 tsp (4g) used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 910,
+      "proteinG": 25.75,
+      "fatG": 2.5,
+      "carbsG": 190.75,
+      "fiberG": 6.75,
+      "assumptions": "All-purpose white flour; entire 2 cups (250g) used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 27.7,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 2.12,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1.1079999999999999,
+      "fiberG": 0.008,
+      "assumptions": "Standard baking powder; entire 1 tsp (4g) used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 305,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 128.1,
+      "proteinG": 10.37,
+      "fatG": 3.05,
+      "carbsG": 15.25,
+      "fiberG": 0,
+      "assumptions": "Whole milk; entire 1 1/4 cups (305g) used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 474,
+      "per100g": {
+        "caloriesKcal": 260,
+        "proteinG": 0,
+        "fatG": 0.1,
+        "carbsG": 67,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1232.4,
+      "proteinG": 0,
+      "fatG": 0.47400000000000003,
+      "carbsG": 317.58,
+      "fiberG": 0,
+      "assumptions": "Pure maple syrup; entire 1 1/2 cups (474g) used in sauce (density ~316g per cup).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 330,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1254,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 323.4,
+      "fiberG": 0,
+      "assumptions": "Packed brown sugar; entire 1 1/2 cups (330g) used in sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 360,
+      "per100g": {
+        "caloriesKcal": 195,
+        "proteinG": 2.8,
+        "fatG": 19.1,
+        "carbsG": 3.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 702,
+      "proteinG": 10.079999999999998,
+      "fatG": 68.76,
+      "carbsG": 13.32,
+      "fiberG": 0,
+      "assumptions": "Single/light cream (18-20% fat); entire 1 1/2 cups (360g) used in sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.85,
+        "fatG": 81.1,
+        "carbsG": 0.06,
+        "fiberG": 0
+      },
+      "caloriesKcal": 537.75,
+      "proteinG": 0.6375,
+      "fatG": 60.825,
+      "carbsG": 0.045,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter for sauce; entire 1/3 cup (75g) used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52932",
+    "name": "Pouding chomeur",
+    "cuisine": "Canadian",
+    "instructions": "In a large bowl, with an electric mixer, mix the butter and sugar till the mix is light.\r\nAdd eggs and vanilla and mix.\r\nIn another bowl, mix flour and baking powder.\r\nAlternate flour mix and milk to the butter mix.\r\nPour into a 13 inch by 9 inch greased pan.\r\nMAPLE SAUCE.\r\nIn a large casserole, bring to boil the syrup, brown sugar, cream and butter and constantly stir.\r\nReduce heat and and gently cook 2 minutes or till sauce has reduced a little bit.\r\nPour sauce gently over cake.\r\nBake at 325°f (160°c) about 35 minutes or till cake is light brown and when toothpick inserted comes out clean.",
+    "ingredients": [
+      { "position": 1, "name": "Butter", "measurement": "½ cup" },
+      { "position": 2, "name": "Sugar", "measurement": "1 cup" },
+      { "position": 3, "name": "Eggs", "measurement": "2" },
+      { "position": 4, "name": "Vanilla Extract", "measurement": "1 tsp" },
+      { "position": 5, "name": "Flour", "measurement": "2 cups" },
+      { "position": 6, "name": "Baking Powder", "measurement": "1 tsp" },
+      { "position": 7, "name": "Milk", "measurement": "1 1/4 cup" },
+      { "position": 8, "name": "Maple Syrup", "measurement": "1 1/2 cup" },
+      { "position": 9, "name": "Brown Sugar", "measurement": "1 1/2 cup" },
+      { "position": 10, "name": "Single Cream", "measurement": "1 1/2 cup" },
+      { "position": 11, "name": "Butter", "measurement": "1/3 cup" }
+    ]
+  }
+}

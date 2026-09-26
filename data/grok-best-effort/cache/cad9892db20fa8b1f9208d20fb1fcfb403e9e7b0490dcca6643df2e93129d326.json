@@ -1,0 +1,155 @@
+{
+  "inputHash": "cad9892db20fa8b1f9208d20fb1fcfb403e9e7b0490dcca6643df2e93129d326",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:08.113Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1.2,
+        "fatG": 0.3,
+        "carbsG": 7,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 93,
+      "proteinG": 3.6,
+      "fatG": 0.9,
+      "carbsG": 21,
+      "fiberG": 7.5,
+      "assumptions": "2 large Romano peppers ≈ 300g total edible weight after deseeding; typical sweet pepper nutrition used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 17,
+        "fatG": 23.5,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2256,
+      "proteinG": 136,
+      "fatG": 188,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard raw lamb mince (≈20-25% fat); values reflect typical UK-style lamb mince before cooking.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 65,
+        "proteinG": 2.5,
+        "fatG": 1,
+        "carbsG": 12,
+        "fiberG": 3
+      },
+      "caloriesKcal": 29.25,
+      "proteinG": 1.125,
+      "fatG": 0.45,
+      "carbsG": 5.4,
+      "fiberG": 1.35,
+      "assumptions": "3 tbsp Turkish red pepper paste (biber salçası) ≈ 45g; nutrition based on typical concentrated mild pepper paste.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 12,
+        "fatG": 13,
+        "carbsG": 40,
+        "fiberG": 20
+      },
+      "caloriesKcal": 22.56,
+      "proteinG": 0.96,
+      "fatG": 1.04,
+      "carbsG": 3.2,
+      "fiberG": 1.6,
+      "assumptions": "1 tbsp pul biber (Aleppo pepper flakes) ≈ 8g; typical dried chili flake nutrition applied.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 397.8,
+      "proteinG": 0,
+      "fatG": 45,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbsp sunflower oil ≈ 45g total; standard vegetable oil values used for brushing and mixing.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53262",
+    "name": "Adana kebab",
+    "cuisine": "Turkish",
+    "instructions": "step 1\r\nFinely chop the peppers in a food processor, then tip them in a sieve and press into the sieve so that the peppers release all of their juices. Tip into a bowl along with the mince, red pepper paste, pul biber, 1½ tsp flaky sea salt, and 2 tbsp of the oil. Mix together, kneading well for at least 2-3 mins. If you need to, wet your hands with cold water to prevent the mixture from sticking. The mixture should be sticky when ready. Cover and chill for at least 2 hrs, or up to 12 hrs.\r\n\r\nstep 2\r\nWhen ready to cook, heat the grill to high or an oven to 220C/200C fan/gas 6. Divide the mixture into 12 equal portions, around 85g each. If you’d like to skewer them, divide into 8 equal portions and roll into balls. Using wet hands, thread the balls onto the end of the skewers, massaging the mixture down the skewers in between the palms of your hands, until evenly distributed. Ensure that the mixture is fully wrapped tightly around the skewers without any exposed metal. Alternatively, lay them on a large baking tray lined with parchment paper if cooking in the oven, or foil if cooking under the grill. Shape into 20cm-long köfte. Wet your fingers with a little cold water and make indents all along the köfte for the traditional shape.\r\n\r\nstep 3\r\nGently brush each köfte with the remaining 1 tbsp oil and cook under the grill, on the top shelf for 10-12 mins, turning regularly, or cook in the oven for 16-18 mins, until crispy on the outside and juicy in the middle",
+    "ingredients": [
+      { "position": 1, "name": "Romano Pepper", "measurement": "2 large" },
+      { "position": 2, "name": "Lamb Mince", "measurement": "800g" },
+      {
+        "position": 3,
+        "name": "Red Pepper Paste",
+        "measurement": "3  tablespoons"
+      },
+      { "position": 4, "name": "Pul Biber", "measurement": "1 tablespoon" },
+      {
+        "position": 5,
+        "name": "Sunflower Oil",
+        "measurement": "3  tablespoons"
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "inputHash": "a6bf7c11b33615716304193c927a041a8bff309c6a5bad3255380a35b8122304",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:30:34.042Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17.5,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 770,
+      "proteinG": 20,
+      "fatG": 1,
+      "carbsG": 175,
+      "fiberG": 22,
+      "assumptions": "5 large potatoes estimated at 200g each; raw peeled weight used as base before frying",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0.1,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 265.2,
+      "proteinG": 0.03,
+      "fatG": 30,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs olive oil for frying potatoes (initial amount specified); typical density ~15g per tbs",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.7,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 24,
+      "proteinG": 1.08,
+      "fatG": 0.24,
+      "carbsG": 4.44,
+      "fiberG": 1.44,
+      "assumptions": "1 medium-large green pepper; raw edible portion after deseeding and peeling (grilled/roasted state accounted for in typical nutrient profile)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 200,
+      "proteinG": 5.5,
+      "fatG": 0.5,
+      "carbsG": 46.5,
+      "fiberG": 8.5,
+      "assumptions": "5 medium onions estimated at ~100g each; raw peeled weight before frying",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 7,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 10,
+        "fatG": 5,
+        "carbsG": 50,
+        "fiberG": 15
+      },
+      "caloriesKcal": 21,
+      "proteinG": 0.7,
+      "fatG": 0.35,
+      "carbsG": 3.5,
+      "fiberG": 1.05,
+      "assumptions": "1 tbs Ras el hanout spice blend; typical average for North African spice mixes (plausible recipe amount; nutrients are approximate for mixed spices)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 26,
+        "proteinG": 1,
+        "fatG": 0.1,
+        "carbsG": 6.5,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 130,
+      "proteinG": 5,
+      "fatG": 0.5,
+      "carbsG": 32.5,
+      "fiberG": 7.5,
+      "assumptions": "Exactly 500g pumpkin as listed; raw peeled/cubed weight before frying (edible portion)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1200,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1716,
+      "proteinG": 151.2,
+      "fatG": 114,
+      "carbsG": 8.4,
+      "fiberG": 0,
+      "assumptions": "24 large eggs (assuming 'Skinned' is a typo for shelled/whole eggs); ~50g edible per egg; used throughout the dish",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of salt estimated at 2g for the entire recipe; negligible macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of pepper estimated at 1g for the entire recipe; negligible macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52971",
+    "name": "Kafteji",
+    "cuisine": "Tunisian",
+    "instructions": "Peel potatoes and cut into 5cm cubes.\r\nPour 1-2 cm of olive oil into a large pan and heat up very hot. Fry potatoes until golden brown for 20 minutes, turning from time to time. Place on kitchen paper to drain.\r\nCut the peppers in half and remove seeds. Rub a little olive oil on them and place the cut side down on a baking tray. Place them under the grill. Grill until the skin is dark and bubbly. While the peppers are still hot, put them into a plastic sandwich bag and seal it. Take them out after 15 minutes and remove skins.\r\nIn the meantime, heat more olive oil another pan. Peel the onions and cut into thin rings. Fry for 15 minutes until golden brown, turning them often. Add the Ras el hanout at the end.\r\nCut the pumpkin into 5cm cubes and fry in the same pan you used for the potatoes for 10-15 minutes until it is soft and slightly browned. Place on kitchen paper.\r\nPour the remaining olive oil out of the pan and put all the cooked vegetables into the pan and mix. Whisk eggs and pour them over the vegetables. Put the lid on the pan so that the eggs cook. Put the contents of the pan onto a large chopping board, add salt and pepper and chopped and mix everything with a big knife.",
+    "ingredients": [
+      { "position": 1, "name": "Potatoes", "measurement": "5 Large" },
+      { "position": 2, "name": "Olive Oil", "measurement": "2 tbs" },
+      { "position": 3, "name": "Green Pepper", "measurement": "1" },
+      { "position": 4, "name": "Onions", "measurement": "5" },
+      { "position": 5, "name": "Ras el hanout", "measurement": "1 tbs" },
+      { "position": 6, "name": "Pumpkin", "measurement": "500g" },
+      { "position": 7, "name": "Eggs", "measurement": "24 Skinned" },
+      { "position": 8, "name": "Salt", "measurement": "Pinch" },
+      { "position": 9, "name": "Pepper", "measurement": "Pinch" }
+    ]
+  }
+}

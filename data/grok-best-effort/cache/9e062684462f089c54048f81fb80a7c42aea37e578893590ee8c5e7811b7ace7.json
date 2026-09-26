@@ -1,0 +1,95 @@
+{
+  "inputHash": "9e062684462f089c54048f81fb80a7c42aea37e578893590ee8c5e7811b7ace7",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:49.089Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 590,
+        "proteinG": 25,
+        "fatG": 50,
+        "carbsG": 20,
+        "fiberG": 8
+      },
+      "caloriesKcal": 1475,
+      "proteinG": 62.5,
+      "fatG": 125,
+      "carbsG": 50,
+      "fiberG": 20,
+      "assumptions": "Standard creamy peanut butter; 1 cup ≈ 250 g; values for unsweetened natural style common in recipes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 387,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "Granulated white sugar; 1/2 cup ≈ 100 g; essentially pure sucrose.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.5,
+      "proteinG": 6.5,
+      "fatG": 5,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "Large whole egg; 1 large ≈ 50 g edible portion (without shell).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52958",
+    "name": "Peanut Butter Cookies",
+    "cuisine": "American",
+    "instructions": "Preheat oven to 350ºF (180ºC).\r\nIn a large bowl, mix together the peanut butter, sugar, and egg.\r\nScoop out a spoonful of dough and roll it into a ball. Place the cookie balls onto a nonstick baking sheet.\r\nFor extra decoration and to make them cook more evenly, flatten the cookie balls by pressing a fork down on top of them, then press it down again at a 90º angle to make a criss-cross pattern.\r\nBake for 8-10 minutes or until the bottom of the cookies are golden brown.\r\nRemove from baking sheet and cool.\r\nEnjoy!",
+    "ingredients": [
+      { "position": 1, "name": "Peanut Butter", "measurement": "1 cup" },
+      { "position": 2, "name": "Sugar", "measurement": "1/2 cup" },
+      { "position": 3, "name": "Egg", "measurement": "1" }
+    ]
+  }
+}

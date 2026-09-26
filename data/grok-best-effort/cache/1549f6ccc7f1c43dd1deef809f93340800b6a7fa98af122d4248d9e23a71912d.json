@@ -1,0 +1,427 @@
+{
+  "inputHash": "1549f6ccc7f1c43dd1deef809f93340800b6a7fa98af122d4248d9e23a71912d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:59.127Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard olive oil; 2 tbsp = 27g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 32.8,
+      "proteinG": 0.72,
+      "fatG": 0.16,
+      "carbsG": 7.68,
+      "fiberG": 2.24,
+      "assumptions": "2 small carrots (about 80g total); typical peeled and chunked weight for recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 16,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 3,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 9.6,
+      "proteinG": 0.42,
+      "fatG": 0.12,
+      "carbsG": 1.8,
+      "fiberG": 0.96,
+      "assumptions": "2 small celery stalks (about 60g total); typical trimmed weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion (about 110g); typical finely diced cooking onion weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 18,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 26.82,
+      "proteinG": 1.1520000000000001,
+      "fatG": 0.09,
+      "carbsG": 5.958000000000001,
+      "fiberG": 0.37800000000000006,
+      "assumptions": "6 medium garlic cloves (about 18g total); typical sliced cloves weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 340,
+      "per100g": {
+        "caloriesKcal": 353,
+        "proteinG": 25.8,
+        "fatG": 1.1,
+        "carbsG": 63.4,
+        "fiberG": 10.7
+      },
+      "caloriesKcal": 1200.2,
+      "proteinG": 87.72,
+      "fatG": 3.7400000000000007,
+      "carbsG": 215.56,
+      "fiberG": 36.379999999999995,
+      "assumptions": "12 oz (340g) dry brown lentils as listed; raw/dry state before cooking in instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 bay leaves; negligible edible weight and nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 960,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 cups water; used for simmering lentils (fully absorbed or discarded in final moist lentils, nutrition zero).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of salt; negligible weight and nutrition (standard table salt).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 21,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2.1,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.1,
+      "fiberG": 0,
+      "assumptions": "2 tsp (10ml) apple cider vinegar; standard density ~1g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of pepper; negligible weight and nutrition (standard black pepper).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 250,
+      "proteinG": 10,
+      "fatG": 2,
+      "carbsG": 60,
+      "fiberG": 30,
+      "assumptions": "2 large eggplants (about 500g each raw/edible flesh and skin; typical roasted weight before char/discard).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 rosemary sprigs (used in roasting then discarded); negligible edible weight and nutrition in final dish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 34,
+      "per100g": {
+        "caloriesKcal": 673,
+        "proteinG": 13.7,
+        "fatG": 68.4,
+        "carbsG": 13.1,
+        "fiberG": 6.7
+      },
+      "caloriesKcal": 228.82,
+      "proteinG": 4.6579999999999995,
+      "fatG": 23.256000000000004,
+      "carbsG": 4.454,
+      "fiberG": 2.278,
+      "assumptions": "1/4 cup pine nuts; standard ~34g for dry measure, toasted in recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.8,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 2.88,
+      "proteinG": 0.24,
+      "fatG": 0.064,
+      "carbsG": 0.504,
+      "fiberG": 0.264,
+      "assumptions": "2 tbsp chopped parsley; typical fresh herb weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52816",
+    "name": "Roasted Eggplant With Tahini, Pine Nuts, and Lentils",
+    "cuisine": "American",
+    "instructions": "For the Lentils: Adjust oven rack to center position and preheat oven to 450°F to prepare for roasting eggplant. Meanwhile, heat 2 tablespoons olive oil in a medium saucepan over medium heat until shimmering. Add carrots, celery, and onion and cook, stirring, until softened but not browned, about 4 minutes. Add garlic and cook, stirring, until fragrant, about 30 seconds. Add lentils, bay leaves, stock or water, and a pinch of salt. Bring to a simmer, cover with the lid partially ajar, and cook until lentils are tender, about 30 minutes. (Top up with water if lentils are at any point not fully submerged.) Remove lid, stir in vinegar, and reduce until lentils are moist but not soupy. Season to taste with salt and pepper, cover, and keep warm until ready to serve.\r\n\r\n2.\r\nFor the Eggplant: While lentils cook, cut each eggplant in half. Score flesh with the tip of a paring knife in a cross-hatch pattern at 1-inch intervals. Transfer to a foil-lined rimmed baking sheet, cut side up, and brush each eggplant half with 1 tablespoon oil, letting each brushstroke be fully absorbed before brushing with more. Season with salt and pepper. Place a rosemary sprig on top of each one. Transfer to oven and roast until completely tender and well charred, 25 to 35 minutes. Remove from oven and discard rosemary.\r\n\r\n3.\r\nTo Serve: Heat 2 tablespoons olive oil and pine nuts in a medium skillet set over medium heat. Cook, tossing nuts frequently, until golden brown and aromatic, about 4 minutes. Transfer to a bowl to halt cooking. Stir half of parsley and rosemary into lentils and transfer to a serving platter. Arrange eggplant halves on top. Spread a few tablespoons of tahini sauce over each eggplant half and sprinkle with pine nuts. Sprinkle with remaining parsley and rosemary, drizzle with additional olive oil, and serve.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "2 tablespoons" },
+      {
+        "position": 2,
+        "name": "Carrots",
+        "measurement": "2 small cut into chunks"
+      },
+      { "position": 3, "name": "Celery", "measurement": "2 small stalks" },
+      {
+        "position": 4,
+        "name": "Onion",
+        "measurement": "1 medium finely diced"
+      },
+      {
+        "position": 5,
+        "name": "Garlic",
+        "measurement": "6 medium cloves sliced"
+      },
+      {
+        "position": 6,
+        "name": "Brown Lentils",
+        "measurement": "12 ounces (340g)"
+      },
+      { "position": 7, "name": "Bay Leaves", "measurement": "2" },
+      { "position": 8, "name": "Water", "measurement": "4 cups" },
+      { "position": 9, "name": "Salt", "measurement": "Pinch" },
+      {
+        "position": 10,
+        "name": "Apple Cider Vinegar",
+        "measurement": "2 teaspoons (10ml)"
+      },
+      { "position": 11, "name": "Pepper", "measurement": "Pinch" },
+      { "position": 12, "name": "Egg Plants", "measurement": "2 large" },
+      { "position": 13, "name": "Rosemary", "measurement": "4 sprigs" },
+      { "position": 14, "name": "Pine nuts", "measurement": "1/4 cup" },
+      { "position": 15, "name": "Parsley", "measurement": "2 tablespoons" }
+    ]
+  }
+}

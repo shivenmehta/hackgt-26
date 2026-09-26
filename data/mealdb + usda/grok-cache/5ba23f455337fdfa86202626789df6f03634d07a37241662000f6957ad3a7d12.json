@@ -1,0 +1,63 @@
+{
+  "inputHash": "5ba23f455337fdfa86202626789df6f03634d07a37241662000f6957ad3a7d12",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:30.388Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": null,
+      "caloriesPer100g": 106,
+      "assumptions": "Known value copied. No total edible grams supplied for the 2 chicken breasts (raw, boneless, skinless assumed from context and given cal density); recipe is for 2 servings but no weight or size given."
+    },
+    {
+      "position": 3,
+      "grams": null,
+      "caloriesPer100g": 83.4,
+      "assumptions": "Known value copied. No total edible grams supplied for the 5 potatoes (raw assumed from context and given cal density); typical medium potato ~150-170g but total not estimable without size info."
+    },
+    {
+      "position": 5,
+      "grams": null,
+      "caloriesPer100g": 6,
+      "assumptions": "Known value copied. Measurement '1' is ambiguous (likely 1 unit of concentrate or 1 tsp); no reasonable total grams without package or volume clarification."
+    },
+    {
+      "position": 6,
+      "grams": 180,
+      "caloriesPer100g": null,
+      "assumptions": "1.5 cups shredded mozzarella; standard density ~120g per cup for shredded low-moisture mozzarella, so 180g total for the full recipe (2 servings). Cal density left null as not supplied."
+    },
+    {
+      "position": 8,
+      "grams": 28,
+      "caloriesPer100g": 717,
+      "assumptions": "Butter listed as null measurement but instructions specify 2 TBSP for 2 servings; 2 TBSP butter = 28g. Known cal density copied."
+    },
+    {
+      "position": 9,
+      "grams": 4,
+      "caloriesPer100g": 385,
+      "assumptions": "Sugar listed as null measurement but instructions specify 1 tsp for 2 servings; 1 tsp granulated sugar ≈ 4g. Known cal density copied."
+    },
+    {
+      "position": 10,
+      "grams": 30,
+      "caloriesPer100g": 884,
+      "assumptions": "Vegetable oil listed as null measurement but instructions call for multiple 'drizzles' (carrots, onion, chicken); conservative total estimate of ~2 TBSP / 30g for entire recipe. Known cal density copied."
+    },
+    {
+      "position": 11,
+      "grams": 5,
+      "caloriesPer100g": 0,
+      "assumptions": "Salt to taste / multiple uses; modest total estimate of 5g for the full recipe. Known cal density copied."
+    },
+    {
+      "position": 12,
+      "grams": 2,
+      "caloriesPer100g": 251,
+      "assumptions": "Pepper to taste / multiple uses; modest total estimate of 2g for the full recipe. Known cal density copied."
+    }
+  ]
+}

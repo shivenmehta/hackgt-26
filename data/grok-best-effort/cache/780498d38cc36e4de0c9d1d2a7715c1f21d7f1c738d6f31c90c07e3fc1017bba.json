@@ -1,0 +1,307 @@
+{
+  "inputHash": "780498d38cc36e4de0c9d1d2a7715c1f21d7f1c738d6f31c90c07e3fc1017bba",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:31:59.534Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 13.5,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 119.34,
+      "proteinG": 0,
+      "fatG": 13.5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp olive oil is 13.5 g; standard density for olive oil.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1.3,
+        "fatG": 0.1,
+        "carbsG": 5.8,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 125,
+      "proteinG": 6.5,
+      "fatG": 0.5,
+      "carbsG": 29,
+      "fiberG": 12.5,
+      "assumptions": "1/2 medium head of cabbage estimated at 500 g raw edible portion; typical size used in recipes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 4.6,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 24,
+      "proteinG": 1.08,
+      "fatG": 0.24,
+      "carbsG": 5.52,
+      "fiberG": 2.04,
+      "assumptions": "1 chopped green bell pepper estimated at 120 g; standard medium pepper weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 chopped onion estimated at 110 g; standard medium onion weight, raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 cloves garlic estimated at 6 g total; typical small clove size.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 340,
+      "per100g": {
+        "caloriesKcal": 251,
+        "proteinG": 14,
+        "fatG": 19,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 853.4,
+      "proteinG": 47.6,
+      "fatG": 64.6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "12 oz can of corned beef estimated at 340 g drained/usable; standard canned corned beef nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 43.2,
+      "proteinG": 2.16,
+      "fatG": 0.48,
+      "carbsG": 9.36,
+      "fiberG": 2.88,
+      "assumptions": "2 chopped plum (Roma) tomatoes estimated at 240 g total; standard medium tomato size, raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 101,
+        "proteinG": 5.6,
+        "fatG": 1.7,
+        "carbsG": 24.5,
+        "fiberG": 14
+      },
+      "caloriesKcal": 8.08,
+      "proteinG": 0.44799999999999995,
+      "fatG": 0.136,
+      "carbsG": 1.96,
+      "fiberG": 1.12,
+      "assumptions": "2 sprigs fresh thyme estimated at 8 g total leaves and tender stems; typical herb sprig weight in cooking.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 102,
+        "proteinG": 1,
+        "fatG": 0.1,
+        "carbsG": 24.8,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 15.3,
+      "proteinG": 0.15,
+      "fatG": 0.015,
+      "carbsG": 3.72,
+      "fiberG": 0.045,
+      "assumptions": "1 tbsp ketchup estimated at 15 g; standard tablespoon weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Salt to taste estimated at 2 g (about 1/3 tsp); negligible calories/macros but included for completeness.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pepper to taste estimated at 1 g (about 1/4 tsp ground black pepper); negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53350",
+    "name": "Corned Beef and Cabbage – Jamaican Style",
+    "cuisine": "Jamaican",
+    "instructions": "Heat olive oil in a skillet or Dutch pot over medium-high heat. Add onion and green pepper and sauté for about 3-5 minutes.\r\nAdd garlic and stir for about 1 minute.\r\nAdd shredded cabbage and stir. Cook for about about 3-5 minutes, stirring often until softened.\r\nAdd corned beef, Roma tomatoes, and thyme and stir. Add ketchup and scotch bonnet pepper sauce and stir. Reduce heat and cook on medium for about 3-5 minutes, until the corned beef is heated through. Remove from heat.\r\nServe with white rice, bread, or on its own.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "1 tablespoon" },
+      { "position": 2, "name": "Cabbage", "measurement": "1/2" },
+      { "position": 3, "name": "Green Pepper", "measurement": "1 chopped" },
+      { "position": 4, "name": "Onion", "measurement": "1 chopped" },
+      { "position": 5, "name": "Garlic", "measurement": "2 cloves minced" },
+      { "position": 6, "name": "Corned Beef", "measurement": "12 ounces" },
+      { "position": 7, "name": "Plum Tomatoes", "measurement": "2 chopped" },
+      { "position": 8, "name": "Thyme", "measurement": "2 sprigs" },
+      {
+        "position": 9,
+        "name": "Tomato Ketchup",
+        "measurement": "1 tablespoon"
+      },
+      { "position": 10, "name": "Salt", "measurement": "To taste" },
+      { "position": 11, "name": "Pepper", "measurement": "To taste" }
+    ]
+  }
+}

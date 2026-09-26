@@ -1,0 +1,39 @@
+{
+  "inputHash": "3ca7cd6bbc060ede35866dc7978b57054722da5fab0e959999d25f2f1925d465",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:54.206Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp vegetable oil = 28 g; pure oil, zero carbs"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "400 g raw beef strips (lean sirloin-type cut assumed); meat has zero carbs"
+    },
+    {
+      "position": 3,
+      "carbsG": 1.9,
+      "fiberG": 0.3,
+      "assumptions": "1 medium red chilli ≈ 20 g whole (edible portion); standard USDA red chili values"
+    },
+    {
+      "position": 4,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "2 tbsp oyster sauce ≈ 36 g; typical commercial sauce (carbs from corn starch/sugar)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.6,
+      "fiberG": 0.4,
+      "assumptions": "handful fresh basil leaves ≈ 15 g; standard fresh basil values"
+    }
+  ]
+}

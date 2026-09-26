@@ -1,0 +1,251 @@
+{
+  "inputHash": "a51b8cb8298a341c3b5df81200e83a67aafe960440aaa55d45199cdf91744787",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:31:21.900Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 21,
+        "fatG": 6.3,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1430,
+      "proteinG": 210,
+      "fatG": 63,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 pork tenderloins estimated at ~500g each edible raw weight; typical pork tenderloin nutrition used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 2.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 164,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "carbsG": 5.2,
+      "fiberG": 0,
+      "assumptions": "200ml white wine assumed to weigh ~200g; typical dry white wine values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14.1,
+        "fatG": 12.9,
+        "carbsG": 53.99,
+        "fiberG": 34.9
+      },
+      "caloriesKcal": 8.46,
+      "proteinG": 0.423,
+      "fatG": 0.387,
+      "carbsG": 1.6197,
+      "fiberG": 1.047,
+      "assumptions": "1/2 tsp paprika estimated at 3g; typical smoked or sweet paprika values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 58,
+      "proteinG": 2.2,
+      "fatG": 0.6,
+      "carbsG": 18.6,
+      "fiberG": 5.6,
+      "assumptions": "2 whole lemons estimated at 200g total edible portion (pulp/juice/zest); typical lemon nutrition used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 24,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 0.4,
+        "fatG": 0,
+        "carbsG": 7.4,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 5.28,
+      "proteinG": 0.09600000000000002,
+      "fatG": 0,
+      "carbsG": 1.7760000000000002,
+      "fiberG": 0.072,
+      "assumptions": "Juice of 1/2 lemon estimated at ~24g (typical half-lemon yield); lemon juice nutrition used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 132.6,
+      "proteinG": 0,
+      "fatG": 15,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Dash of olive oil for rubbing estimated at 15g (1 tbsp plausible amount for 5 pork pieces); typical olive oil values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 680,
+        "proteinG": 1,
+        "fatG": 75,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 408,
+      "proteinG": 0.6,
+      "fatG": 45,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "Mayonnaise to serve estimated at 60g total (12g per portion for 5 servings); typical full-fat mayonnaise values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 770,
+      "proteinG": 20,
+      "fatG": 1,
+      "carbsG": 170,
+      "fiberG": 22,
+      "assumptions": "1 kg potatoes used as raw weight before peeling/cutting (edible portion ~90-100%); typical raw potato nutrition used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 353.6,
+      "proteinG": 0,
+      "fatG": 40,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Vegetable oil for frying estimated at 40g absorbed across all chips (typical 4% absorption for double-fried chips from 1kg potatoes); typical vegetable oil values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53044",
+    "name": "Portuguese barbecued pork (Febras assadas)",
+    "cuisine": "Portuguese",
+    "instructions": "STEP 1\r\n\r\nCut the tenderloins into 5 equal-size pieces leaving the tail ends a little longer. Take a clear plastic bag and slip one of the pieces in. Bash it into an escalope the size of a side-plate with a rolling pin and repeat with the remaining pieces.\r\n\r\nSTEP 2\r\n\r\nPut the wine, paprika, some salt and pepper and the juice of ½ a lemon in a bowl and add the pork. Leave to marinate for 20-30 minutes, while you get your barbecue to the stage where the coals are glowing but there are no flames.\r\n\r\nSTEP 3\r\n\r\nTo make the chips, fill a basin with cool water and cut the potatoes into 3cm-thick chips. Soak them in the water for 5 minutes and then change the water. Leave for 5 more minutes. Drain and then pat dry on a towel or with kitchen paper.\r\n\r\nSTEP 4\r\n\r\nHeat the oil in a deep fryer or a deep heavy-based pan with a lid to 130C and lower the chips into the oil (in batches). Blanch for 8-10 minutes. Remove from the oil and drain well. Place on a tray to cool. Reheat the oil to 180C (make sure it’s hot or your chips will be soggy) and lower the basket of chips into the oil (again, do this in batches). Leave to cook for 2 minutes and then give them a little shake. Cook for another minute or so until they are well coloured and crisp to the touch. Drain well for a few minutes, tip into a bowl and sprinkle with sea salt.\r\n\r\nSTEP 5\r\n\r\nThe pork will cook quickly so do it in 2 batches. Take the pieces out of the marinade, rub them with oil, and drop them onto the barbecue (you could also use a chargrill). Cook for 1 minute on each side – they may flare up as you do so. This should really be enough time as they will keep on cooking. Take them off the barbecue and pile onto a plate. Repeat with the remaining batch.\r\n\r\nSTEP 6\r\n\r\nServe by piling a plate with chips, drop the pork on top of each pile and pouring the juices from the plate over so the chips take up the flavours. Top with a spoon of mayonnaise and a wedge of lemon.",
+    "ingredients": [
+      { "position": 1, "name": "Pork", "measurement": "2" },
+      { "position": 2, "name": "White Wine", "measurement": "200ml" },
+      { "position": 3, "name": "Paprika", "measurement": "1/2 tsp" },
+      { "position": 4, "name": "Lemon", "measurement": "2" },
+      { "position": 5, "name": "Lemon Juice", "measurement": "1/2" },
+      { "position": 6, "name": "Olive Oil", "measurement": "Dash" },
+      { "position": 7, "name": "Mayonnaise", "measurement": "To serve" },
+      { "position": 8, "name": "Potatoes", "measurement": "1 kg" },
+      { "position": 9, "name": "Vegetable Oil", "measurement": "For frying" }
+    ]
+  }
+}

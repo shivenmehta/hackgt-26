@@ -1,0 +1,333 @@
+{
+  "inputHash": "569ceb9daccee9b6c89df7db3fa2533e147a8f8387178fc8bba294f84dc7e5f7",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:30:52.801Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 180,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 8,
+        "fatG": 1,
+        "carbsG": 77,
+        "fiberG": 2
+      },
+      "caloriesKcal": 630,
+      "proteinG": 14.4,
+      "fatG": 1.8,
+      "carbsG": 138.6,
+      "fiberG": 3.6,
+      "assumptions": "Standard dry rice stick noodles (sen yai/ho fun style); 180 g dry weight as given, typical values for uncooked wide rice noodles.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 36,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 6,
+        "fatG": 0,
+        "carbsG": 6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 21.6,
+      "proteinG": 2.16,
+      "fatG": 0,
+      "carbsG": 2.16,
+      "fiberG": 0,
+      "assumptions": "Dark soy sauce; 2 tbsp = 30-36 g, typical commercial values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 36,
+      "per100g": {
+        "caloriesKcal": 70,
+        "proteinG": 4,
+        "fatG": 1,
+        "carbsG": 10,
+        "fiberG": 0
+      },
+      "caloriesKcal": 25.2,
+      "proteinG": 1.44,
+      "fatG": 0.36,
+      "carbsG": 3.6,
+      "fiberG": 0,
+      "assumptions": "Oyster sauce; 2 tbsp = 30-36 g, typical commercial values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 8,
+        "fatG": 0,
+        "carbsG": 6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.8,
+      "fatG": 0,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "Regular soy sauce; 2 tsp = ~10 g, typical values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 5,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.05,
+      "fiberG": 0,
+      "assumptions": "White vinegar (distilled); 2 tsp = ~10 g, typical values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 30.96,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "White granulated sugar; 2 tsp = ~8 g, typical values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Plain water; 2 tbsp = 30 g, typical values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Peanut oil for stir-frying; 2 tbsp = 28 g, typical values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.98,
+      "fiberG": 0.12,
+      "assumptions": "Fresh garlic cloves; 2 average cloves ≈ 6 g total, typical values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 231,
+      "proteinG": 43.4,
+      "fatG": 5.04,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Boneless skinless chicken (thigh or breast); 1 cup diced ≈ 140 g, typical raw weight used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.5,
+      "proteinG": 6.3,
+      "fatG": 4.75,
+      "carbsG": 0.35,
+      "fiberG": 0,
+      "assumptions": "Large whole egg; 1 egg ≈ 50 g edible portion, typical values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 260,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 2.5,
+        "fatG": 0.3,
+        "carbsG": 4,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 65,
+      "proteinG": 6.5,
+      "fatG": 0.78,
+      "carbsG": 10.4,
+      "fiberG": 6.5,
+      "assumptions": "Chinese broccoli (gai lan); 4 cups chopped stems and leaves ≈ 260 g fresh edible weight, typical values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52774",
+    "name": "Pad See Ew",
+    "cuisine": "Thai",
+    "instructions": "Mix Sauce in small bowl.\r\nMince garlic into wok with oil. Place over high heat, when hot, add chicken and Chinese broccoli stems, cook until chicken is light golden.\r\nPush to the side of the wok, crack egg in and scramble. Don't worry if it sticks to the bottom of the wok - it will char and which adds authentic flavour.\r\nAdd noodles, Chinese broccoli leaves and sauce. Gently mix together until the noodles are stained dark and leaves are wilted. Serve immediately!",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "rice stick noodles",
+        "measurement": "6oz/180g"
+      },
+      { "position": 2, "name": "dark soy sauce", "measurement": "2 tbsp" },
+      { "position": 3, "name": "oyster sauce", "measurement": "2 tbsp" },
+      { "position": 4, "name": "soy sauce", "measurement": "2 tsp" },
+      { "position": 5, "name": "white vinegar", "measurement": "2 tsp" },
+      { "position": 6, "name": "sugar", "measurement": "2 tsp" },
+      { "position": 7, "name": "water", "measurement": "2 tbsp" },
+      { "position": 8, "name": "peanut oil", "measurement": "2 tbsp" },
+      { "position": 9, "name": "garlic", "measurement": "2 cloves" },
+      { "position": 10, "name": "Chicken", "measurement": "1 cup" },
+      { "position": 11, "name": "Egg", "measurement": "1" },
+      { "position": 12, "name": "Chinese broccoli", "measurement": "4 cups" }
+    ]
+  }
+}

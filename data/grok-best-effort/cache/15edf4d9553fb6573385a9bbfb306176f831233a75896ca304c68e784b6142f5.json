@@ -1,0 +1,537 @@
+{
+  "inputHash": "15edf4d9553fb6573385a9bbfb306176f831233a75896ca304c68e784b6142f5",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:34:48.229Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 180,
+        "proteinG": 2,
+        "fatG": 18,
+        "carbsG": 3.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 720,
+      "proteinG": 8,
+      "fatG": 72,
+      "carbsG": 14,
+      "fiberG": 0,
+      "assumptions": "Canned full-fat coconut milk; using entire 400 ml can as listed, density ~1 g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 120,
+        "proteinG": 3,
+        "fatG": 6,
+        "carbsG": 8,
+        "fiberG": 3
+      },
+      "caloriesKcal": 36,
+      "proteinG": 0.9,
+      "fatG": 1.8,
+      "carbsG": 2.4,
+      "fiberG": 0.9,
+      "assumptions": "Homemade panang paste per step 1; ~30 g (1-2 tbsp) used in recipe, estimated from typical Thai curry paste density and ingredients.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 330,
+      "proteinG": 62,
+      "fatG": 7.2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw boneless skinless chicken breast as listed; entire 200 g used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 2,
+        "fatG": 0.2,
+        "carbsG": 7,
+        "fiberG": 3
+      },
+      "caloriesKcal": 31,
+      "proteinG": 2,
+      "fatG": 0.2,
+      "carbsG": 7,
+      "fiberG": 3,
+      "assumptions": "Raw trimmed green/French beans as listed; entire 100 g used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 36,
+      "per100g": {
+        "caloriesKcal": 35,
+        "proteinG": 4,
+        "fatG": 0,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 12.6,
+      "proteinG": 1.44,
+      "fatG": 0,
+      "carbsG": 0.72,
+      "fiberG": 0,
+      "assumptions": "Typical fish sauce; 2-3 tbsp averaged to 36 g (density ~1.2 g/ml), sodium-heavy but low macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 18,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 68.4,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 17.64,
+      "fiberG": 0,
+      "assumptions": "Brown sugar; 1-2 tbsp averaged to 18 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 whole makrut lime leaves; negligible edible weight and nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 3,
+        "fatG": 0.5,
+        "carbsG": 3,
+        "fiberG": 2
+      },
+      "caloriesKcal": 3.45,
+      "proteinG": 0.45,
+      "fatG": 0.075,
+      "carbsG": 0.45,
+      "fiberG": 0.3,
+      "assumptions": "Thai/holy basil leaves; handful estimated at 15 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 130,
+        "proteinG": 2.7,
+        "fatG": 0.3,
+        "carbsG": 28,
+        "fiberG": 0.6
+      },
+      "caloriesKcal": 260,
+      "proteinG": 5.4,
+      "fatG": 0.6,
+      "carbsG": 56,
+      "fiberG": 1.2,
+      "assumptions": "Cooked jasmine rice to serve; assumed 200 g boiled (typical single-serve portion from ~70 g dry) as 'boiled' is vague.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.6,
+      "fatG": 0.15,
+      "carbsG": 2.7,
+      "fiberG": 0.45,
+      "assumptions": "Fresh red chilli for garnish/sauce; 6 chillies estimated at 30 g total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 318,
+        "proteinG": 12,
+        "fatG": 14,
+        "carbsG": 55,
+        "fiberG": 25
+      },
+      "caloriesKcal": 38.16,
+      "proteinG": 1.44,
+      "fatG": 1.68,
+      "carbsG": 6.6,
+      "fiberG": 3,
+      "assumptions": "Dried red chillies for paste; 4 chillies estimated at 12 g total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 150,
+        "proteinG": 15,
+        "fatG": 8,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.75,
+      "fatG": 0.4,
+      "carbsG": 0.25,
+      "fiberG": 0,
+      "assumptions": "Shrimp paste for curry paste; 1 tsp = 5 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.2,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 17.88,
+      "proteinG": 0.7680000000000001,
+      "fatG": 0.024000000000000004,
+      "carbsG": 3.96,
+      "fiberG": 0.24,
+      "assumptions": "Garlic cloves for paste; 4 cloves chopped ~12 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 18,
+        "fiberG": 3
+      },
+      "caloriesKcal": 4.8,
+      "proteinG": 0.12,
+      "fatG": 0.03,
+      "carbsG": 1.08,
+      "fiberG": 0.18,
+      "assumptions": "Galangal for paste; 1 tbsp ~6 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 75,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 17,
+        "fiberG": 7
+      },
+      "caloriesKcal": 4.5,
+      "proteinG": 0.12,
+      "fatG": 0.03,
+      "carbsG": 1.02,
+      "fiberG": 0.42,
+      "assumptions": "Lemongrass for paste; 1 tbsp ~6 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.5,
+        "fatG": 0.2,
+        "carbsG": 10,
+        "fiberG": 3
+      },
+      "caloriesKcal": 1.2,
+      "proteinG": 0.02,
+      "fatG": 0.008,
+      "carbsG": 0.4,
+      "fiberG": 0.12,
+      "assumptions": "Lime zest of 2 limes for paste; ~4 g total zest.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 525,
+        "proteinG": 6,
+        "fatG": 48,
+        "carbsG": 25,
+        "fiberG": 10
+      },
+      "caloriesKcal": 10.5,
+      "proteinG": 0.12,
+      "fatG": 0.96,
+      "carbsG": 0.5,
+      "fiberG": 0.2,
+      "assumptions": "Ground nutmeg for paste; 1 tsp ~2 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 298,
+        "proteinG": 12,
+        "fatG": 17,
+        "carbsG": 55,
+        "fiberG": 35
+      },
+      "caloriesKcal": 5.96,
+      "proteinG": 0.24,
+      "fatG": 0.34,
+      "carbsG": 1.1,
+      "fiberG": 0.7,
+      "assumptions": "Ground coriander for paste; 1 tsp ~2 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 19,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 22,
+        "carbsG": 44,
+        "fiberG": 11
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.36,
+      "fatG": 0.44,
+      "carbsG": 0.88,
+      "fiberG": 0.22,
+      "assumptions": "Ground cumin for paste; 1 tsp ~2 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 20,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 567,
+        "proteinG": 26,
+        "fatG": 49,
+        "carbsG": 16,
+        "fiberG": 8
+      },
+      "caloriesKcal": 113.4,
+      "proteinG": 5.2,
+      "fatG": 9.8,
+      "carbsG": 3.2,
+      "fiberG": 1.6,
+      "assumptions": "Peanuts for paste; 2 tbsp ~20 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53192",
+    "name": "Panang chicken curry (kaeng panang gai)",
+    "cuisine": "Thai",
+    "instructions": "step 1\r\nFirst, make the curry paste. Use a pestle and mortar to pound together the dried and fresh chillies, shrimp paste, garlic, galangal, lemongrass, lime zest, white pepper, coriander, cumin, nutmeg and peanuts, plus 1 tsp salt. You should have a rough paste. Alternatively, add all the ingredients to a food processor along with 2-3 tbsp of coconut milk and pulse until you have a paste. Store in a lidded jar in the fridge. Will keep for up to two weeks.\r\n\r\nstep 2\r\nAdd 2-3 tbsp of the thick part of the coconut milk into a saucepan over a medium-high heat. When the coconut milk starts bubbling, add 1-2 tbsp of the curry paste and stir well for about 1 min, until fragrant.\r\n\r\nstep 3\r\nStir in the chicken and let it cook for about 3-4 mins until beginning to brown all over. Follow with the French beans and stir well.\r\n\r\nstep 4\r\nSeason with the fish sauce and sugar, then add the rest of coconut milk. Mix well, add half the makrut lime leaves and simmer for 3-5 mins until the chicken is cooked through. Taste and add more sugar or fish sauce if necessary – it should be salty and nutty, and the sweetness should come through. Add the Thai basil leaves, give it a quick mix and take off the heat. Serve with steamed jasmine rice, garnished with the sliced chilli and the rest of the makrut lime leaves.",
+    "ingredients": [
+      { "position": 1, "name": "Coconut Milk", "measurement": "400ml" },
+      { "position": 2, "name": "Panang Curry Paste", "measurement": "1-2tbsp" },
+      { "position": 3, "name": "Chicken Breast", "measurement": "200g" },
+      { "position": 4, "name": "Green Beans", "measurement": "100g" },
+      { "position": 5, "name": "Fish Sauce", "measurement": "2-3 tbsp" },
+      { "position": 6, "name": "Brown Sugar", "measurement": "1-2tbsp" },
+      { "position": 7, "name": "makrut lime leaves", "measurement": "2" },
+      { "position": 8, "name": "Basil Leaves", "measurement": "Handful" },
+      { "position": 9, "name": "Jasmine Rice", "measurement": "Boiled" },
+      { "position": 10, "name": "Red Chilli", "measurement": "6" },
+      { "position": 11, "name": "Dried Red Chillies", "measurement": "4" },
+      { "position": 12, "name": "Shrimp Paste", "measurement": "1 teaspoon" },
+      { "position": 13, "name": "Garlic", "measurement": "4 Cloves Chopped" },
+      { "position": 14, "name": "Galangal", "measurement": "1 tblsp" },
+      { "position": 15, "name": "Lemongrass", "measurement": "1 tblsp" },
+      { "position": 16, "name": "Lime", "measurement": "Zest of 2" },
+      { "position": 17, "name": "Ground Nutmeg", "measurement": "1 teaspoon" },
+      { "position": 18, "name": "Ground Coriander", "measurement": "1 tsp" },
+      { "position": 19, "name": "Ground Cumin", "measurement": "1 teaspoon" },
+      { "position": 20, "name": "Peanuts", "measurement": "2 tblsp" }
+    ]
+  }
+}

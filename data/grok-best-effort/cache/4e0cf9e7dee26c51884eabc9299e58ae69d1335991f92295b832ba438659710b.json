@@ -1,0 +1,393 @@
+{
+  "inputHash": "4e0cf9e7dee26c51884eabc9299e58ae69d1335991f92295b832ba438659710b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:33.599Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 68,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 601.12,
+      "proteinG": 0,
+      "fatG": 68,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "5 tbsp olive oil at 13.6 g per tbsp; 100% fat used in cooking and drizzling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium chopped onion ≈ 110 g raw weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 61,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 25.01,
+      "proteinG": 0.5489999999999999,
+      "fatG": 0.12200000000000001,
+      "carbsG": 5.856,
+      "fiberG": 1.7079999999999997,
+      "assumptions": "1 medium chopped carrot ≈ 61 g raw weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 16,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 3,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 6.4,
+      "proteinG": 0.28,
+      "fatG": 0.08,
+      "carbsG": 1.2,
+      "fiberG": 0.64,
+      "assumptions": "1 medium celery stalk chopped ≈ 40 g raw weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.5760000000000001,
+      "fatG": 0.045,
+      "carbsG": 2.9790000000000005,
+      "fiberG": 0.18900000000000003,
+      "assumptions": "1 tbsp minced garlic ≈ 9 g raw weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 520,
+      "per100g": {
+        "caloriesKcal": 140,
+        "proteinG": 9,
+        "fatG": 0.5,
+        "carbsG": 23,
+        "fiberG": 6
+      },
+      "caloriesKcal": 728,
+      "proteinG": 46.8,
+      "fatG": 2.6,
+      "carbsG": 119.6,
+      "fiberG": 31.2,
+      "assumptions": "2 cups cooked or drained canned cannellini beans (≈ 520 g total edible portion).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.6,
+        "fatG": 0.2,
+        "carbsG": 7.2,
+        "fiberG": 2
+      },
+      "caloriesKcal": 128,
+      "proteinG": 6.4,
+      "fatG": 0.8,
+      "carbsG": 28.8,
+      "fiberG": 8,
+      "assumptions": "1 × 400 g can whole peeled tomatoes with juice (standard size, entire contents used).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 960,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 cups water = 960 g (density 1 g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 3.3,
+        "fatG": 3.5,
+        "carbsG": 21,
+        "fiberG": 14
+      },
+      "caloriesKcal": 7.15,
+      "proteinG": 0.165,
+      "fatG": 0.175,
+      "carbsG": 1.05,
+      "fiberG": 0.7,
+      "assumptions": "1 fresh rosemary sprig ≈ 5 g (plausible small sprig; mostly discarded after cooking).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 101,
+        "proteinG": 5.6,
+        "fatG": 1.7,
+        "carbsG": 15,
+        "fiberG": 14
+      },
+      "caloriesKcal": 5.05,
+      "proteinG": 0.28,
+      "fatG": 0.085,
+      "carbsG": 0.75,
+      "fiberG": 0.7,
+      "assumptions": "1 fresh thyme sprig ≈ 5 g (plausible small sprig; mostly discarded after cooking).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 49,
+        "proteinG": 4.3,
+        "fatG": 0.9,
+        "carbsG": 9,
+        "fiberG": 3.6
+      },
+      "caloriesKcal": 222.46,
+      "proteinG": 19.522,
+      "fatG": 4.086,
+      "carbsG": 40.86,
+      "fiberG": 16.344,
+      "assumptions": "1 lb (454 g) raw chopped kale (edible portion).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 9,
+        "fatG": 3.5,
+        "carbsG": 46,
+        "fiberG": 7
+      },
+      "caloriesKcal": 500,
+      "proteinG": 18,
+      "fatG": 7,
+      "carbsG": 92,
+      "fiberG": 14,
+      "assumptions": "4 thick slices wholegrain bread ≈ 50 g per slice (typical thick cut).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 1.2,
+        "fatG": 0.1,
+        "carbsG": 9.7,
+        "fiberG": 1.8
+      },
+      "caloriesKcal": 46.2,
+      "proteinG": 1.32,
+      "fatG": 0.11,
+      "carbsG": 10.67,
+      "fiberG": 1.98,
+      "assumptions": "1 medium red onion thinly sliced ≈ 110 g raw weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 392,
+        "proteinG": 35,
+        "fatG": 26,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 196,
+      "proteinG": 17.5,
+      "fatG": 13,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "½ cup (≈ 50 g) freshly grated Parmesan cheese.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52811",
+    "name": "Ribollita",
+    "cuisine": "Italian",
+    "instructions": "Put 2 tablespoons of the oil in a large pot over medium heat. When it’s hot, add onion, carrot, celery and garlic; sprinkle with salt and pepper and cook, stirring occasionally, until vegetables are soft, 5 to 10 minutes.\r\nHeat the oven to 500 degrees. Drain the beans; if they’re canned, rinse them as well. Add them to the pot along with tomatoes and their juices and stock, rosemary and thyme. Bring to a boil, then reduce heat so the soup bubbles steadily; cover and cook, stirring once or twice to break up the tomatoes, until the flavors meld, 15 to 20 minutes.\r\nFish out and discard rosemary and thyme stems, if you like, and stir in kale. Taste and adjust seasoning. Lay bread slices on top of the stew so they cover the top and overlap as little as possible. Scatter red onion slices over the top, drizzle with the remaining 3 tablespoons oil and sprinkle with Parmesan.\r\nPut the pot in the oven and bake until the bread, onions and cheese are browned and crisp, 10 to 15 minutes. (If your pot fits under the broiler, you can also brown the top there.) Divide the soup and bread among 4 bowls and serve.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "5 tablespoons" },
+      { "position": 2, "name": "Onion", "measurement": "1 chopped" },
+      { "position": 3, "name": "Carrots", "measurement": "1 chopped" },
+      { "position": 4, "name": "Celery", "measurement": "1 stalk chopped" },
+      { "position": 5, "name": "Garlic", "measurement": "1 tablespoon minced" },
+      { "position": 6, "name": "Cannellini Beans", "measurement": "2 cups" },
+      { "position": 7, "name": "Canned tomatoes", "measurement": "1" },
+      { "position": 8, "name": "Water", "measurement": "4 cups" },
+      { "position": 9, "name": "Rosemary", "measurement": "1 fresh sprig" },
+      { "position": 10, "name": "Thyme", "measurement": "1 fresh sprig" },
+      { "position": 11, "name": "Kale", "measurement": "1 pound chopped" },
+      {
+        "position": 12,
+        "name": "Wholegrain Bread",
+        "measurement": "4 thick slices"
+      },
+      {
+        "position": 13,
+        "name": "Red Onions",
+        "measurement": "1 thinly sliced"
+      },
+      {
+        "position": 14,
+        "name": "Parmesan",
+        "measurement": "½ cup freshly grated"
+      }
+    ]
+  }
+}

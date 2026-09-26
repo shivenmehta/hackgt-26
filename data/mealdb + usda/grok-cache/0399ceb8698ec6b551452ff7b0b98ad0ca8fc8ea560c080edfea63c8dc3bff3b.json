@@ -1,0 +1,51 @@
+{
+  "inputHash": "0399ceb8698ec6b551452ff7b0b98ad0ca8fc8ea560c080edfea63c8dc3bff3b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:03.808Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 680,
+      "caloriesPer100g": 106,
+      "assumptions": "1.5 lb chicken breast assumed as 680g edible raw boneless skinless portion (standard conversion: 1 lb = 453.6g)."
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "caloriesPer100g": 381,
+      "assumptions": "2 tbs cornstarch (common 'starch' in Chinese recipes) at ~8g per tbs; standard calorie density for dry cornstarch."
+    },
+    {
+      "position": 7,
+      "grams": 3,
+      "caloriesPer100g": 0,
+      "assumptions": "1/2 tsp onion salt; modest volume-to-mass for seasoning (~6g/tsp), treated as negligible calories like table salt."
+    },
+    {
+      "position": 14,
+      "grams": 15,
+      "caloriesPer100g": 3,
+      "assumptions": "1 tbs rice vinegar; standard ~15g per tablespoon with very low calorie density."
+    },
+    {
+      "position": 16,
+      "grams": 9,
+      "caloriesPer100g": 100,
+      "assumptions": "1/2 tbs gochujang (fermented chili paste); ~18g per tbs estimated, typical calorie density for this ingredient."
+    },
+    {
+      "position": 17,
+      "grams": 15,
+      "caloriesPer100g": 381,
+      "assumptions": "2 tbs cornstarch (common 'starch' in Chinese recipes) at ~8g per tbs; standard calorie density for dry cornstarch."
+    },
+    {
+      "position": 19,
+      "grams": 30,
+      "caloriesPer100g": 32,
+      "assumptions": "2 chopped spring onions (scallions); realistic ~15g per medium onion, using supplied calorie density."
+    }
+  ]
+}

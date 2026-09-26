@@ -1,0 +1,511 @@
+{
+  "inputHash": "390dc05993b7039db02ca0d04af48d29657673bc193a8d100c143653c8ab6f1b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:30:59.139Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1500,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2475,
+      "proteinG": 465,
+      "fatG": 54,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw chicken joints with skin and bone; standard broiler values for whole bird edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 179.25,
+      "proteinG": 0.225,
+      "fatG": 20.25,
+      "carbsG": 0.025,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 81,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 716.04,
+      "proteinG": 0,
+      "fatG": 81,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "6 tbsp olive oil (14 g per tbsp standard measure); entire amount used for browning and frying.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 120,
+      "proteinG": 3.3,
+      "fatG": 0.3,
+      "carbsG": 27.9,
+      "fiberG": 5.1,
+      "assumptions": "2 medium-large red onions, sliced; typical edible weight after peeling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 186,
+      "proteinG": 6,
+      "fatG": 1.8,
+      "carbsG": 36,
+      "fiberG": 12.6,
+      "assumptions": "3 large red bell peppers; typical whole trimmed edible weight after deseeding.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 130,
+      "per100g": {
+        "caloriesKcal": 455,
+        "proteinG": 24,
+        "fatG": 38,
+        "carbsG": 3.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 591.5,
+      "proteinG": 31.2,
+      "fatG": 49.4,
+      "carbsG": 4.55,
+      "fiberG": 0,
+      "assumptions": "Firm chorizo sausage, typical cured Spanish-style values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 258,
+        "proteinG": 12,
+        "fatG": 14,
+        "carbsG": 23,
+        "fiberG": 6
+      },
+      "caloriesKcal": 206.4,
+      "proteinG": 9.6,
+      "fatG": 11.2,
+      "carbsG": 18.4,
+      "fiberG": 4.8,
+      "assumptions": "8 typical oil-packed sun-dried tomato halves, drained weight estimate from standard jar portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 18,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 26.82,
+      "proteinG": 1.1520000000000001,
+      "fatG": 0.09,
+      "carbsG": 5.958000000000001,
+      "fiberG": 0.37800000000000006,
+      "assumptions": "6 medium garlic cloves, sliced; standard peeled weight ~3 g each.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 353,
+        "proteinG": 6.7,
+        "fatG": 0.7,
+        "carbsG": 78,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 1059,
+      "proteinG": 20.1,
+      "fatG": 2.1,
+      "carbsG": 234,
+      "fiberG": 3.6,
+      "assumptions": "Uncooked white basmati rice, dry weight as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 1.8,
+        "fatG": 0.5,
+        "carbsG": 19,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 12.3,
+      "proteinG": 0.27,
+      "fatG": 0.075,
+      "carbsG": 2.85,
+      "fiberG": 0.225,
+      "assumptions": "'Drizzle' of tomato puree estimated as 1 tbsp (15 g) based on typical recipe use for coating rice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14,
+        "fatG": 13,
+        "carbsG": 54,
+        "fiberG": 35
+      },
+      "caloriesKcal": 2.82,
+      "proteinG": 0.14,
+      "fatG": 0.13,
+      "carbsG": 0.54,
+      "fiberG": 0.35,
+      "assumptions": "½ tsp smoked or sweet paprika; standard teaspoon weight ~1 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 whole dried bay leaves; negligible edible weight and nutrition when used as flavoring.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 101,
+        "proteinG": 5.6,
+        "fatG": 1.7,
+        "carbsG": 24.5,
+        "fiberG": 14
+      },
+      "caloriesKcal": 10.1,
+      "proteinG": 0.56,
+      "fatG": 0.17,
+      "carbsG": 2.45,
+      "fiberG": 1.4,
+      "assumptions": "Handful of fresh thyme sprigs; typical small bunch weight used as herb, mostly leaves.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 350,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.3,
+        "carbsG": 0.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 24.5,
+      "proteinG": 3.15,
+      "fatG": 1.05,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "Prepared chicken stock; standard low-sodium values per ml (density ~1 g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 180,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 2.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 147.6,
+      "proteinG": 0.18,
+      "fatG": 0,
+      "carbsG": 4.68,
+      "fiberG": 0,
+      "assumptions": "Dry white wine; standard values, weight given directly.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 58,
+      "proteinG": 2.2,
+      "fatG": 0.6,
+      "carbsG": 18.6,
+      "fiberG": 5.6,
+      "assumptions": "2 medium lemons cut into wedges; typical whole edible weight including peel.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 115,
+        "proteinG": 0.8,
+        "fatG": 11,
+        "carbsG": 6.3,
+        "fiberG": 3.2
+      },
+      "caloriesKcal": 115,
+      "proteinG": 0.8,
+      "fatG": 11,
+      "carbsG": 6.3,
+      "fiberG": 3.2,
+      "assumptions": "Pitted or whole black olives, drained; typical cured values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Salt 'to serve'; estimated small total amount used in recipe and at table, nutrition negligible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 19,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pepper 'to serve'; estimated small total amount used in recipe and at table, nutrition negligible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52934",
+    "name": "Chicken Basquaise",
+    "cuisine": "French",
+    "instructions": "Preheat the oven to 180°C/Gas mark 4. Have the chicken joints ready to cook. Heat the butter and 3 tbsp olive oil in a flameproof casserole or large frying pan. Brown the chicken pieces in batches on both sides, seasoning them with salt and pepper as you go. Don't crowd the pan - fry the chicken in small batches, removing the pieces to kitchen paper as they are done.\r\n\r\nAdd a little more olive oil to the casserole and fry the onions over a medium heat for 10 minutes, stirring frequently, until softened but not browned. Add the rest of the oil, then the peppers and cook for another 5 minutes.\r\n\r\nAdd the chorizo, sun-dried tomatoes and garlic and cook for 2-3 minutes. Add the rice, stirring to ensure it is well coated in the oil. Stir in the tomato paste, paprika, bay leaves and chopped thyme. Pour in the stock and wine. When the liquid starts to bubble, turn the heat down to a gentle simmer. Press the rice down into the liquid if it isn't already submerged and place the chicken on top. Add the lemon wedges and olives around the chicken.\r\n\r\nCover and cook in the oven for 50 minutes. The rice should be cooked but still have some bite, and the chicken should have juices that run clear when pierced in the thickest part with a knife. If not, cook for another 5 minutes and check again.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken", "measurement": "1.5kg" },
+      { "position": 2, "name": "Butter", "measurement": "25g" },
+      { "position": 3, "name": "Olive Oil", "measurement": "6 tblsp" },
+      { "position": 4, "name": "Red Onions", "measurement": "2 sliced" },
+      { "position": 5, "name": "Red Pepper", "measurement": "3 Large" },
+      { "position": 6, "name": "Chorizo", "measurement": "130g" },
+      { "position": 7, "name": "Sun-Dried Tomatoes", "measurement": "8" },
+      { "position": 8, "name": "Garlic", "measurement": "6 cloves sliced" },
+      { "position": 9, "name": "Basmati Rice", "measurement": "300g" },
+      { "position": 10, "name": "Tomato Puree", "measurement": "drizzle" },
+      { "position": 11, "name": "Paprika", "measurement": "½ tsp" },
+      { "position": 12, "name": "Bay Leaves", "measurement": "4" },
+      { "position": 13, "name": "Thyme", "measurement": "Handful" },
+      { "position": 14, "name": "Chicken Stock", "measurement": "350ml" },
+      { "position": 15, "name": "Dry White Wine", "measurement": "180g" },
+      { "position": 16, "name": "Lemons", "measurement": "2" },
+      { "position": 17, "name": "Black Olives", "measurement": "100g" },
+      { "position": 18, "name": "Salt", "measurement": "to serve" },
+      { "position": 19, "name": "Pepper", "measurement": "to serve" }
+    ]
+  }
+}

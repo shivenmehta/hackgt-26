@@ -1,0 +1,511 @@
+{
+  "inputHash": "87414996a54ee8290f6a113a97aaaccbb82f3712e4058c358d21f43454b44dd7",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:48.722Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs olive oil estimated at 27g using standard tablespoon density of ~13.5g per tbs for oil; fully used in frying.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 179.25,
+      "proteinG": 0.225,
+      "fatG": 20.25,
+      "carbsG": 0.025,
+      "fiberG": 0,
+      "assumptions": "Butter given as 25g; standard butter nutrition applied directly.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 750,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 26,
+        "fatG": 15,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1875,
+      "proteinG": 195,
+      "fatG": 112.5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "750g beef stewing/chuck (raw weight) used in casserole; typical British stewing beef values for raw edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 16,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 58.24,
+      "proteinG": 1.6,
+      "fatG": 0.16,
+      "carbsG": 12.16,
+      "fiberG": 0.48,
+      "assumptions": "2 tblsp plain flour estimated at ~16g (8g per level tbsp); standard white wheat flour values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.98,
+      "fiberG": 0.126,
+      "assumptions": "2 cloves garlic minced estimated at 6g total; standard raw garlic nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 70,
+      "proteinG": 1.9250000000000003,
+      "fatG": 0.175,
+      "carbsG": 16.275000000000002,
+      "fiberG": 2.975,
+      "assumptions": "175g onions (raw weight); typical yellow onion values, peeled and chopped as per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 16,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 3,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 24,
+      "proteinG": 1.05,
+      "fatG": 0.3,
+      "carbsG": 4.5,
+      "fiberG": 2.4,
+      "assumptions": "150g celery (raw weight); standard raw celery nutrition, trimmed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 10,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 61.5,
+      "proteinG": 1.35,
+      "fatG": 0.3,
+      "carbsG": 15,
+      "fiberG": 4.2,
+      "assumptions": "150g carrots (raw weight); standard raw carrot values, peeled and chopped.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 180,
+      "per100g": {
+        "caloriesKcal": 61,
+        "proteinG": 1.6,
+        "fatG": 0.3,
+        "carbsG": 14,
+        "fiberG": 1.8
+      },
+      "caloriesKcal": 109.8,
+      "proteinG": 2.88,
+      "fatG": 0.54,
+      "carbsG": 25.2,
+      "fiberG": 3.24,
+      "assumptions": "2 chopped leeks estimated at 180g total (90g per medium leek); raw edible portion after trimming.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 8,
+        "fiberG": 2.4
+      },
+      "caloriesKcal": 72,
+      "proteinG": 2,
+      "fatG": 0.6,
+      "carbsG": 16,
+      "fiberG": 4.8,
+      "assumptions": "200g swede/rutabaga (raw weight); standard raw swede nutrition, peeled and chopped.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 2.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123,
+      "proteinG": 0.15,
+      "fatG": 0,
+      "carbsG": 3.9,
+      "fiberG": 0,
+      "assumptions": "150ml red wine (density ~1g/ml so 150g); typical dry red wine values, alcohol contributes to calories.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 0.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 35,
+      "proteinG": 4.5,
+      "fatG": 1,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "500g beef stock interpreted as prepared liquid stock (500ml ~500g); low-calorie stock values typical for British beef stock.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 bay leaves estimated at ~1g total; negligible nutrition contribution, treated as 0 per100g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 276,
+        "proteinG": 16,
+        "fatG": 7,
+        "carbsG": 45,
+        "fiberG": 37
+      },
+      "caloriesKcal": 24.84,
+      "proteinG": 1.44,
+      "fatG": 0.63,
+      "carbsG": 4.05,
+      "fiberG": 3.33,
+      "assumptions": "3 tbs dried thyme estimated at 9g (3g per tbsp for dried herb); typical dried thyme values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 1,
+        "carbsG": 6,
+        "fiberG": 3.4
+      },
+      "caloriesKcal": 4.32,
+      "proteinG": 0.36,
+      "fatG": 0.12,
+      "carbsG": 0.72,
+      "fiberG": 0.408,
+      "assumptions": "3 tblsp chopped parsley estimated at 12g (4g per tbsp chopped fresh); standard fresh parsley nutrition, added to taste at end.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 455,
+      "proteinG": 12.5,
+      "fatG": 1.25,
+      "carbsG": 95,
+      "fiberG": 3.75,
+      "assumptions": "125g plain flour for dumplings; standard white wheat flour values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 28,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 2.12,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1.12,
+      "fiberG": 0.008,
+      "assumptions": "1 tsp baking powder estimated at 4g; typical values for baking powder.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 854,
+        "proteinG": 1.5,
+        "fatG": 94,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 512.4,
+      "proteinG": 0.9,
+      "fatG": 56.4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "60g suet (beef suet); standard shredded suet nutrition for British dumplings.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 19,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Splash of water for dumpling dough estimated at 60g (plausible amount to form thick dough from 125g flour + 60g suet); water adds 0 nutrients.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52873",
+    "name": "Beef Dumpling Stew",
+    "cuisine": "British",
+    "instructions": "Preheat the oven to 180C/350F/Gas 4.\r\n\r\nFor the beef stew, heat the oil and butter in an ovenproof casserole and fry the beef until browned on all sides.\r\n\r\nSprinkle over the flour and cook for a further 2-3 minutes.\r\n\r\nAdd the garlic and all the vegetables and fry for 1-2 minutes.\r\n\r\nStir in the wine, stock and herbs, then add the Worcestershire sauce and balsamic vinegar, to taste. Season with salt and freshly ground black pepper.\r\n\r\nCover with a lid, transfer to the oven and cook for about two hours, or until the meat is tender.\r\n\r\nFor the dumplings, sift the flour, baking powder and salt into a bowl.\r\nAdd the suet and enough water to form a thick dough.\r\n\r\nWith floured hands, roll spoonfuls of the dough into small balls.\r\n\r\nAfter two hours, remove the lid from the stew and place the balls on top of the stew. Cover, return to the oven and cook for a further 20 minutes, or until the dumplings have swollen and are tender. (If you prefer your dumplings with a golden top, leave the lid off when returning to the oven.)\r\n\r\nTo serve, place a spoonful of mashed potato onto each of four serving plates and top with the stew and dumplings. Sprinkle with chopped parsley.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "2 tbs" },
+      { "position": 2, "name": "Butter", "measurement": "25g" },
+      { "position": 3, "name": "Beef", "measurement": "750g" },
+      { "position": 4, "name": "Plain Flour", "measurement": "2 tblsp" },
+      { "position": 5, "name": "Garlic", "measurement": "2 cloves minced" },
+      { "position": 6, "name": "Onions", "measurement": "175g" },
+      { "position": 7, "name": "Celery", "measurement": "150g" },
+      { "position": 8, "name": "Carrots", "measurement": "150g" },
+      { "position": 9, "name": "Leek", "measurement": "2 chopped" },
+      { "position": 10, "name": "Swede", "measurement": "200g" },
+      { "position": 11, "name": "Red Wine", "measurement": "150ml" },
+      { "position": 12, "name": "Beef Stock", "measurement": "500g" },
+      { "position": 13, "name": "Bay Leaf", "measurement": "2" },
+      { "position": 14, "name": "Thyme", "measurement": "3 tbs" },
+      { "position": 15, "name": "Parsley", "measurement": "3 tblsp chopped" },
+      { "position": 16, "name": "Plain Flour", "measurement": "125g" },
+      { "position": 17, "name": "Baking Powder", "measurement": "1 tsp" },
+      { "position": 18, "name": "Suet", "measurement": "60g" },
+      { "position": 19, "name": "Water", "measurement": "Splash" }
+    ]
+  }
+}

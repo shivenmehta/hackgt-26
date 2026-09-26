@@ -1,0 +1,79 @@
+{
+  "inputHash": "9d23f0019a4737bad20cb2ebcc0d5e58541370f47dd1f2d0f775ccb595dc205d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:18:05.112Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 120,
+      "proteinG": 7,
+      "fatG": 1.5,
+      "assumptions": "1 bunch kale ≈ 250 g edible raw leaves and soft stems after trimming tough branches; standard bunch weight used"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 90,
+      "proteinG": 6,
+      "fatG": 7,
+      "assumptions": "2 strips bacon ≈ 50 g raw; standard American-style bacon"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 15,
+      "proteinG": 0.5,
+      "fatG": 0,
+      "assumptions": "3 cloves garlic chopped ≈ 9 g raw"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 45,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "1 medium onion ≈ 110 g raw, peeled"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 5,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1/2 tsp paprika ≈ 1 g; negligible contribution"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 2,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 sprig thyme ≈ 1 g fresh; negligible contribution"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 20,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "1 medium tomato ≈ 120 g raw"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 30,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "1 red pepper (bell) ≈ 120 g raw, cored; assuming mild red bell not hot scotch bonnet"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 420,
+      "proteinG": 5,
+      "fatG": 1,
+      "assumptions": "4 medium bananas/plantains ≈ 500 g raw edible flesh (≈ 125 g each after peeling); using plantain values as per instructions"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 40,
+      "proteinG": 0,
+      "fatG": 4.5,
+      "assumptions": "splash vegetable oil for frying plantains ≈ 5 g actually absorbed/used (modest estimate; spray and pan redistribution)"
+    }
+  ]
+}

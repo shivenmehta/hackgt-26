@@ -1,0 +1,51 @@
+{
+  "inputHash": "349db0f6cb9989954a93b51002268011d001048915c42e7c14df8e2d426f7e7c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:34.237Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 16,
+      "fiberG": 12,
+      "assumptions": "800g frozen mulukhiyah (jute mallow leaves); ~2g carbs, 1.5g fiber per 100g based on typical leafy green vegetable data"
+    },
+    {
+      "position": 2,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (~110g) chopped; ~9g carbs/100g raw onion"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "300g boneless beef; zero carbohydrates"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp table salt (~6g); zero carbohydrates"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 L water; zero carbohydrates"
+    },
+    {
+      "position": 6,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 garlic clove (~3g); ~30g carbs/100g raw garlic"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 cup (112g) olive oil; zero carbohydrates"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "inputHash": "88b6a9b1c53ffb6d29b1858732195d808621e1c480ab08690682e1d27236a71f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:09.722Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 2.4,
+      "fiberG": 0,
+      "assumptions": "4 large whole eggs (approx 200g total, edible portion); standard values ~0.6g carbs per egg"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs white wine vinegar (30ml); negligible carbs"
+    },
+    {
+      "position": 3,
+      "carbsG": 52,
+      "fiberG": 3.6,
+      "assumptions": "2 standard English muffins (approx 120g total); ~26g carbs and 1.8g fiber per muffin"
+    },
+    {
+      "position": 4,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Butter 'to serve' - quantity not specified, cannot estimate"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 slices smoked salmon (approx 200g total); no carbs"
+    },
+    {
+      "position": 6,
+      "carbsG": 1.3,
+      "fiberG": 0.1,
+      "assumptions": "2 tsp lemon juice (10ml); ~1.3g carbs per 10ml"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp white wine vinegar (10ml); negligible carbs"
+    },
+    {
+      "position": 8,
+      "carbsG": 2.7,
+      "fiberG": 0,
+      "assumptions": "3 egg yolks only (approx 51g total); ~0.9g carbs per yolk"
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "125g unsalted butter; no carbs"
+    }
+  ]
+}

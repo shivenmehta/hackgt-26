@@ -1,0 +1,303 @@
+{
+  "inputHash": "917a26854a9e1933a7debacba034162f431f906ee8ea8ce143a1005dd7446fd1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:31.474Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "150 ml water weighs 150 g; all nutrients zero",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 15.48,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "1 tsp sugar ≈ 4 g; typical granulated sugar values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 325,
+        "proteinG": 41,
+        "fatG": 8,
+        "carbsG": 41,
+        "fiberG": 27
+      },
+      "caloriesKcal": 48.75,
+      "proteinG": 6.15,
+      "fatG": 1.2,
+      "carbsG": 6.15,
+      "fiberG": 4.05,
+      "assumptions": "15 g fresh baker's yeast; typical compressed yeast values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 225,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 819,
+      "proteinG": 22.5,
+      "fatG": 2.25,
+      "carbsG": 171,
+      "fiberG": 6.75,
+      "assumptions": "225 g plain white wheat flour; standard all-purpose flour values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1.5 tsp table salt ≈ 9 g; all nutrients zero",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 88.4,
+      "proteinG": 0,
+      "fatG": 10,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "'Drizzle' of olive oil in dough assumed as 10 g (≈ 2 tsp); typical extra-virgin olive oil values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 38,
+        "proteinG": 2,
+        "fatG": 0.3,
+        "carbsG": 7,
+        "fiberG": 2
+      },
+      "caloriesKcal": 30.4,
+      "proteinG": 1.6,
+      "fatG": 0.24,
+      "carbsG": 5.6,
+      "fiberG": 1.6,
+      "assumptions": "80 g tomato passata; typical strained tomato values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 70,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 18,
+        "fatG": 19,
+        "carbsG": 2.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 175,
+      "proteinG": 12.6,
+      "fatG": 13.3,
+      "carbsG": 1.75,
+      "fiberG": 0,
+      "assumptions": "70 g fresh mozzarella cheese; typical drained values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 11,
+        "fatG": 4,
+        "carbsG": 69,
+        "fiberG": 43
+      },
+      "caloriesKcal": 2.65,
+      "proteinG": 0.11,
+      "fatG": 0.04,
+      "carbsG": 0.69,
+      "fiberG": 0.43,
+      "assumptions": "'Peeled and Sliced' for oregano interpreted as 1 g dried oregano leaves (common pizza amount); typical dried herb values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 3,
+        "fatG": 0.6,
+        "carbsG": 2.7,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 1.15,
+      "proteinG": 0.15,
+      "fatG": 0.03,
+      "carbsG": 0.135,
+      "fiberG": 0.08,
+      "assumptions": "'Leaves' for basil interpreted as 5 g fresh basil leaves (typical pizza garnish amount); typical fresh herb values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of black pepper ≈ 1 g; all nutrients zero",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53014",
+    "name": "Pizza Express Margherita",
+    "cuisine": "Italian",
+    "instructions": "1 Preheat the oven to 230°C.\r\n\r\n2 Add the sugar and crumble the fresh yeast into warm water.\r\n\r\n3 Allow the mixture to stand for 10 – 15 minutes in a warm place (we find a windowsill on a sunny day works best) until froth develops on the surface.\r\n\r\n4 Sift the flour and salt into a large mixing bowl, make a well in the middle and pour in the yeast mixture and olive oil.\r\n\r\n5 Lightly flour your hands, and slowly mix the ingredients together until they bind.\r\n\r\n6 Generously dust your surface with flour.\r\n\r\n7 Throw down the dough and begin kneading for 10 minutes until smooth, silky and soft.\r\n\r\n8 Place in a lightly oiled, non-stick baking tray (we use a round one, but any shape will do!)\r\n\r\n9 Spread the passata on top making sure you go to the edge.\r\n\r\n10 Evenly place the mozzarella (or other cheese) on top, season with the oregano and black pepper, then drizzle with a little olive oil.\r\n\r\n11 Cook in the oven for 10 – 12 minutes until the cheese slightly colours.\r\n\r\n12 When ready, place the basil leaf on top and tuck in!",
+    "ingredients": [
+      { "position": 1, "name": "Water", "measurement": "150ml" },
+      { "position": 2, "name": "Sugar", "measurement": "1 tsp" },
+      { "position": 3, "name": "Yeast", "measurement": "15g" },
+      { "position": 4, "name": "Plain Flour", "measurement": "225g" },
+      { "position": 5, "name": "Salt", "measurement": "1 1/2 tsp" },
+      { "position": 6, "name": "Olive Oil", "measurement": "Drizzle" },
+      { "position": 7, "name": "Passata", "measurement": "80g" },
+      { "position": 8, "name": "Mozzarella", "measurement": "70g" },
+      { "position": 9, "name": "Oregano", "measurement": "Peeled and Sliced" },
+      { "position": 10, "name": "Basil", "measurement": "Leaves" },
+      { "position": 11, "name": "Black Pepper", "measurement": "Pinch" }
+    ]
+  }
+}

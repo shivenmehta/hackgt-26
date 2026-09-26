@@ -1,0 +1,39 @@
+{
+  "inputHash": "5eaf03aa060a0c366e828cfaf4ee3c066928fd6af2e60ee1254e13e961e5e9a3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:10.447Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 250,
+      "caloriesPer100g": null,
+      "assumptions": "Direct from measurement; calories unknown so left null as no reasonable density estimate possible without further data."
+    },
+    {
+      "position": 4,
+      "grams": 250,
+      "caloriesPer100g": 31.4,
+      "assumptions": "0.25 of a typical medium cabbage head (~1 kg whole, edible portion); using supplied calorie density for raw cabbage."
+    },
+    {
+      "position": 5,
+      "grams": 100,
+      "caloriesPer100g": 44.1,
+      "assumptions": "10 typical shiitake mushrooms average ~10 g each when fresh; using supplied calorie density."
+    },
+    {
+      "position": 6,
+      "grams": 60,
+      "caloriesPer100g": 32,
+      "assumptions": "4 typical spring onions (scallions) at ~15 g each edible portion; using supplied calorie density."
+    },
+    {
+      "position": 7,
+      "grams": 60,
+      "caloriesPer100g": null,
+      "assumptions": "4 tbsp mirin (1 tbsp ≈ 15 ml/g for this liquid); calories unknown so left null as no reasonable density estimate possible without further data."
+    }
+  ]
+}

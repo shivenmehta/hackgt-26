@@ -1,0 +1,75 @@
+{
+  "inputHash": "0af72e1b8bff9402cccd1e1e1f1e1dd3c1e2bc9aac39c13c839d5f3e566b8834",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:06.207Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 30,
+      "fiberG": 7.5,
+      "assumptions": "750g raw edible pumpkin flesh; ~4g carbs, 1g fiber per 100g (USDA values for raw pumpkin)"
+    },
+    {
+      "position": 2,
+      "carbsG": 140,
+      "fiberG": 6,
+      "assumptions": "350g ready-made shortcrust pastry (typical commercial values ~40g carbs, ~1.7g fiber per 100g)"
+    },
+    {
+      "position": 3,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Plain flour for dusting; quantity too small/omitted to estimate reliably"
+    },
+    {
+      "position": 4,
+      "carbsG": 140,
+      "fiberG": 0,
+      "assumptions": "140g caster sugar (100g carbs per 100g, all sugars)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "½ tsp salt; no carbohydrates"
+    },
+    {
+      "position": 6,
+      "carbsG": 1.5,
+      "fiberG": 1,
+      "assumptions": "½ tsp (~1g) ground nutmeg; ~50g carbs, 30g fiber per 100g but very small quantity"
+    },
+    {
+      "position": 7,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "1 tsp (~2.5g) ground cinnamon; ~80g carbs (mostly fiber) per 100g"
+    },
+    {
+      "position": 8,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 large eggs (~50g each, beaten); ~0.7g carbs per 100g, negligible fiber"
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "25g butter; no carbohydrates"
+    },
+    {
+      "position": 10,
+      "carbsG": 9,
+      "fiberG": 0,
+      "assumptions": "175g whole milk (~5.1g carbs per 100g, negligible fiber)"
+    },
+    {
+      "position": 11,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "1 tbsp (~8g) icing sugar (100g carbs per 100g, all sugars)"
+    }
+  ]
+}

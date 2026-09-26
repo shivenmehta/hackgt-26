@@ -1,0 +1,203 @@
+{
+  "inputHash": "90d74bf56b03f804bd2d45bf80689893db80b85af9c8180eb694a400f92a5d9e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:11.807Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 225,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17.5,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 173.25,
+      "proteinG": 4.5,
+      "fatG": 0.225,
+      "carbsG": 39.375,
+      "fiberG": 4.95,
+      "assumptions": "Raw potato flesh only; standard white potato values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1.2,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 3.1
+      },
+      "caloriesKcal": 62,
+      "proteinG": 2.4,
+      "fatG": 0.4,
+      "carbsG": 14.6,
+      "fiberG": 6.2,
+      "assumptions": "1 small fennel bulb ~200g edible trimmed weight (excluding tough outer stalks and core); raw fennel bulb values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "1 medium garlic clove ≈3g peeled and chopped; standard raw garlic values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 77,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 32.34,
+      "proteinG": 2.6180000000000003,
+      "fatG": 0.77,
+      "carbsG": 3.85,
+      "fiberG": 0,
+      "assumptions": "75ml semi-skimmed milk (density ≈1.03g/ml); standard cow's milk values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 97,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2.1,
+        "fatG": 36.5,
+        "carbsG": 2.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 329.8,
+      "proteinG": 2.0370000000000004,
+      "fatG": 35.405,
+      "carbsG": 2.7159999999999997,
+      "fiberG": 0,
+      "assumptions": "100ml double (heavy) cream (density ≈0.97g/ml); standard UK double cream values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 35.85,
+      "proteinG": 0.045,
+      "fatG": 4.05,
+      "carbsG": 0.005,
+      "fiberG": 0,
+      "assumptions": "Small amount of butter used to grease two ramekins; standard unsalted butter values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 392,
+        "proteinG": 35,
+        "fatG": 26,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 58.8,
+      "proteinG": 5.25,
+      "fatG": 3.9,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "Grated Parmesan scattered on top of both ramekins (≈15g total); standard hard Parmesan values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52919",
+    "name": "Fennel Dauphinoise",
+    "cuisine": "French",
+    "instructions": "Heat oven to 180C/160C fan/gas 4. Put potatoes, fennel, and garlic in a medium non-stick pan. Pour in milk and double cream, season well and simmer gently, covered, for 10 mins, stirring halfway through, until potatoes are just tender.\r\nDivide the mixture between 2 small (about 150ml) buttered ramekins and scatter with Parmesan. Bake for 40 mins until the potatoes are golden and tender when pierced with a knife. Snip the reserved fennel fronds over before serving.",
+    "ingredients": [
+      { "position": 1, "name": "Potatoes", "measurement": "225g" },
+      { "position": 2, "name": "Fennel", "measurement": "1 small" },
+      {
+        "position": 3,
+        "name": "Garlic",
+        "measurement": "1 clove finely chopped"
+      },
+      { "position": 4, "name": "Milk", "measurement": "75 ml" },
+      { "position": 5, "name": "Double Cream", "measurement": "100ml" },
+      { "position": 6, "name": "Butter", "measurement": "For Greasing" },
+      { "position": 7, "name": "Parmesan Cheese", "measurement": "to serve" }
+    ]
+  }
+}

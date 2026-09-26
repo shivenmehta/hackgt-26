@@ -1,0 +1,255 @@
+{
+  "inputHash": "3794e9b6e14c579288a6889a3fb65c09099f4cd55c5847f8addc7d25215e0dad",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:35.700Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp rapeseed oil estimated at 28g total using standard tablespoon conversion (14g per tbsp); typical vegetable oil values used as proxy for rapeseed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion finely chopped estimated at 110g edible portion (raw weight).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 16,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 3,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 6.4,
+      "proteinG": 0.28,
+      "fatG": 0.08,
+      "carbsG": 1.2,
+      "fiberG": 0.64,
+      "assumptions": "1 celery stalk estimated at 40g edible raw weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 90,
+      "per100g": {
+        "caloriesKcal": 61,
+        "proteinG": 1.6,
+        "fatG": 0.3,
+        "carbsG": 14,
+        "fiberG": 1.8
+      },
+      "caloriesKcal": 54.9,
+      "proteinG": 1.44,
+      "fatG": 0.27,
+      "carbsG": 12.6,
+      "fiberG": 1.62,
+      "assumptions": "1 leek sliced estimated at 90g edible raw portion (white and light green parts).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17.5,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 115.5,
+      "proteinG": 3,
+      "fatG": 0.15,
+      "carbsG": 26.25,
+      "fiberG": 3.3,
+      "assumptions": "1 medium potato estimated at 150g raw peeled weight; values for raw potato.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 107.55,
+      "proteinG": 0.135,
+      "fatG": 12.15,
+      "carbsG": 0.015,
+      "fiberG": 0,
+      "assumptions": "1 knob of butter estimated at 15g (common recipe amount for 'knob'); standard butter nutrition used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 5,
+        "proteinG": 0.2,
+        "fatG": 0.1,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 50,
+      "proteinG": 2,
+      "fatG": 1,
+      "carbsG": 5,
+      "fiberG": 0,
+      "assumptions": "1 litre hot vegetable stock estimated at 1000g total weight; typical low-calorie commercial stock values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 34,
+        "proteinG": 2.8,
+        "fatG": 0.4,
+        "carbsG": 6.6,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 136,
+      "proteinG": 11.2,
+      "fatG": 1.6,
+      "carbsG": 26.4,
+      "fiberG": 10.4,
+      "assumptions": "1 head broccoli chopped estimated at 400g total edible raw weight (florets + stalks); standard raw broccoli values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 23.7,
+        "fatG": 31.7,
+        "carbsG": 2.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 525,
+      "proteinG": 33.18,
+      "fatG": 44.38,
+      "carbsG": 3.22,
+      "fiberG": 0,
+      "assumptions": "Stilton cheese given directly as 140g; typical blue cheese values used (fiber rounded to 0).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52842",
+    "name": "Broccoli & Stilton soup",
+    "cuisine": "British",
+    "instructions": "Heat the rapeseed oil in a large saucepan and then add the onions. Cook on a medium heat until soft. Add a splash of water if the onions start to catch.\r\n\r\nAdd the celery, leek, potato and a knob of butter. Stir until melted, then cover with a lid. Allow to sweat for 5 minutes. Remove the lid.\r\n\r\nPour in the stock and add any chunky bits of broccoli stalk. Cook for 10 – 15 minutes until all the vegetables are soft.\r\n\r\nAdd the rest of the broccoli and cook for a further 5 minutes. Carefully transfer to a blender and blitz until smooth. Stir in the stilton, allowing a few lumps to remain. Season with black pepper and serve.",
+    "ingredients": [
+      { "position": 1, "name": "Rapeseed Oil", "measurement": "2 tblsp" },
+      { "position": 2, "name": "Onion", "measurement": "1 finely chopped" },
+      { "position": 3, "name": "Celery", "measurement": "1" },
+      { "position": 4, "name": "Leek", "measurement": "1 sliced" },
+      { "position": 5, "name": "Potatoes", "measurement": "1 medium" },
+      { "position": 6, "name": "Butter", "measurement": "1 knob" },
+      {
+        "position": 7,
+        "name": "Vegetable Stock",
+        "measurement": "1 litre hot"
+      },
+      { "position": 8, "name": "Broccoli", "measurement": "1 Head chopped" },
+      { "position": 9, "name": "Stilton Cheese", "measurement": "140g" }
+    ]
+  }
+}

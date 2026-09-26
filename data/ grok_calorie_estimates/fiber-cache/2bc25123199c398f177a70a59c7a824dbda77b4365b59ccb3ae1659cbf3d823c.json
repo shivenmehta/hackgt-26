@@ -1,0 +1,111 @@
+{
+  "inputHash": "2bc25123199c398f177a70a59c7a824dbda77b4365b59ccb3ae1659cbf3d823c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:03:59.207Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 cup = 240 ml; standard unsalted beef broth values (carbs mainly from trace glycogen)."
+    },
+    {
+      "position": 2,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tbsp = 15 ml; typical soy sauce values (minor carbs from wheat/sugar)."
+    },
+    {
+      "position": 3,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tbsp = 15 ml; Shaoxing wine values (minor residual sugars)."
+    },
+    {
+      "position": 4,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 tbsp = 15 ml; standard oyster sauce values (from sugar/cornstarch)."
+    },
+    {
+      "position": 5,
+      "carbsG": 1,
+      "fiberG": 0.5,
+      "assumptions": "1/2 tsp ground white pepper; negligible but ~1g carbs from spice."
+    },
+    {
+      "position": 6,
+      "carbsG": 7,
+      "fiberG": 0,
+      "assumptions": "1 tbsp = 8 g cornstarch; ~7g carbs from starch."
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp water; zero carbs."
+    },
+    {
+      "position": 8,
+      "carbsG": 7,
+      "fiberG": 0,
+      "assumptions": "1 tbsp = 8 g cornstarch; ~7g carbs from starch."
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp water; zero carbs."
+    },
+    {
+      "position": 10,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "8 large eggs (~50 g each, whole, raw); ~0.5g carbs per egg."
+    },
+    {
+      "position": 11,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp kosher salt; zero carbs."
+    },
+    {
+      "position": 12,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp granulated sugar; ~1g carbs."
+    },
+    {
+      "position": 13,
+      "carbsG": 1,
+      "fiberG": 0.5,
+      "assumptions": "1 spring onion (~15 g, chopped); standard scallion values."
+    },
+    {
+      "position": 14,
+      "carbsG": 5,
+      "fiberG": 2,
+      "assumptions": "1 cup = 100 g fresh mung bean sprouts; typical raw values."
+    },
+    {
+      "position": 15,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "20 medium shrimp (~150 g total peeled, raw); zero carbs."
+    },
+    {
+      "position": 16,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 cups oil (but only absorbed amount used per prior estimate); pure oil has zero carbs."
+    },
+    {
+      "position": 17,
+      "carbsG": 140,
+      "fiberG": 2,
+      "assumptions": "2 cups uncooked jasmine rice (~400 g dry); standard white rice values (~35g carbs/100g)."
+    }
+  ]
+}

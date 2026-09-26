@@ -1,0 +1,285 @@
+{
+  "inputHash": "7c37e02552a9e0550583b903f8ce4e88f7fb0641ca2b39ff64efc25f72c03842",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:34:55.624Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 595,
+        "proteinG": 17,
+        "fatG": 54,
+        "carbsG": 21,
+        "fiberG": 10
+      },
+      "caloriesKcal": 297.5,
+      "proteinG": 8.5,
+      "fatG": 27,
+      "carbsG": 10.5,
+      "fiberG": 5,
+      "assumptions": "Standard tahini nutrition for roasted sesame paste; full 50g line used as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 58,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 16.82,
+      "proteinG": 0.638,
+      "fatG": 0.174,
+      "carbsG": 5.394000000000001,
+      "fiberG": 1.6239999999999997,
+      "assumptions": "Medium lemon (approx 58g whole fruit with peel); zest and juice of 1 uses entire edible portion including some peel for zest.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons olive oil = 27g (standard 13.5g per tbsp); full amount used for frying.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium red onion (approx 110g) chopped; typical whole onion weight for 1 chopped unit.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "1 average garlic clove (3g) peeled and crushed; standard small clove weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 119,
+      "per100g": {
+        "caloriesKcal": 27,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 6.3,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 32.13,
+      "proteinG": 1.19,
+      "fatG": 0.23800000000000002,
+      "carbsG": 7.496999999999999,
+      "fiberG": 1.0710000000000002,
+      "assumptions": "1 medium yellow bell pepper (119g) thinly sliced; typical edible weight without stem/seeds.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 62,
+      "proteinG": 3.6,
+      "fatG": 0.4,
+      "carbsG": 14,
+      "fiberG": 5.4,
+      "assumptions": "Green beans as listed 200g; standard raw trimmed values, assuming trimmed but full weight used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 124,
+      "per100g": {
+        "caloriesKcal": 17,
+        "proteinG": 1.2,
+        "fatG": 0.3,
+        "carbsG": 3.1,
+        "fiberG": 1
+      },
+      "caloriesKcal": 21.08,
+      "proteinG": 1.4879999999999998,
+      "fatG": 0.37199999999999994,
+      "carbsG": 3.8440000000000003,
+      "fiberG": 1.24,
+      "assumptions": "1 medium courgette/zucchini (124g) sliced; typical whole edible weight for 1 unit.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 49,
+        "proteinG": 4.3,
+        "fatG": 0.9,
+        "carbsG": 8.8,
+        "fiberG": 3.6
+      },
+      "caloriesKcal": 49,
+      "proteinG": 4.3,
+      "fatG": 0.9,
+      "carbsG": 8.8,
+      "fiberG": 3.6,
+      "assumptions": "Kale as listed 100g shredded; standard raw values for curly kale.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 116,
+        "proteinG": 9,
+        "fatG": 0.4,
+        "carbsG": 20,
+        "fiberG": 8
+      },
+      "caloriesKcal": 290,
+      "proteinG": 22.5,
+      "fatG": 1,
+      "carbsG": 50,
+      "fiberG": 20,
+      "assumptions": "250g pack pre-cooked lentils (typical vacuum pack weight); values for cooked lentils, assuming drained ready-to-eat product common in such recipes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52869",
+    "name": "Tahini Lentils",
+    "cuisine": "Moroccan",
+    "instructions": "In a jug, mix the tahini with the zest and juice of the lemon and 50ml of cold water to make a runny dressing. Season to taste, then set aside.\r\nHeat the oil in a wok or large frying pan over a medium-high heat. Add the red onion, along with a pinch of salt, and fry for 2 mins until starting to soften and colour. Add the garlic, pepper, green beans and courgette and fry for 5 min, stirring frequently.\r\nTip in the kale, lentils and the tahini dressing. Keep the pan on the heat for a couple of mins, stirring everything together until the kale is wilted and it’s all coated in the creamy dressing.",
+    "ingredients": [
+      { "position": 1, "name": "Tahini", "measurement": "50g" },
+      { "position": 2, "name": "Lemon", "measurement": "zest and juice of 1" },
+      { "position": 3, "name": "Olive Oil", "measurement": "2 tblsp" },
+      { "position": 4, "name": "Red Onions", "measurement": "1 chopped" },
+      {
+        "position": 5,
+        "name": "Garlic",
+        "measurement": "1 clove peeled crushed"
+      },
+      {
+        "position": 6,
+        "name": "Yellow Pepper",
+        "measurement": "1 thinly sliced"
+      },
+      { "position": 7, "name": "Green Beans", "measurement": "200g" },
+      { "position": 8, "name": "Courgettes", "measurement": "1 sliced" },
+      { "position": 9, "name": "Kale", "measurement": "100g shredded" },
+      { "position": 10, "name": "Lentils", "measurement": "250g pack" }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "inputHash": "74812e41463cb7c1b563ddece4cb75021ca627d5d93653c5f46ad438b5fdd8bf",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:31:48.907Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 650,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 500.5,
+      "proteinG": 13,
+      "fatG": 0.65,
+      "carbsG": 110.5,
+      "fiberG": 14.300000000000002,
+      "assumptions": "Boiled potatoes, drained; typical waxy potato values used for new/small potatoes",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 12,
+        "fatG": 15,
+        "carbsG": 35,
+        "fiberG": 15
+      },
+      "caloriesKcal": 9,
+      "proteinG": 0.36,
+      "fatG": 0.45,
+      "carbsG": 1.05,
+      "fiberG": 0.45,
+      "assumptions": "Typical harissa spice blend (chili-based); ~3 g per teaspoon; high fiber from dried peppers and spices",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0.1,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 79.56,
+      "proteinG": 0.009000000000000001,
+      "fatG": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Extra virgin olive oil; ~4.5 g per teaspoon",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.4,
+        "fatG": 0.2,
+        "carbsG": 9.3,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 7.25,
+      "proteinG": 0.1,
+      "fatG": 0.05,
+      "carbsG": 2.325,
+      "fiberG": 0.7,
+      "assumptions": "Juice only from half a medium lemon (~25 g juice); no zest or pulp included",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 19.2,
+      "proteinG": 1.08,
+      "fatG": 0.12,
+      "carbsG": 4.38,
+      "fiberG": 1.56,
+      "assumptions": "4 medium spring onions, trimmed and sliced; ~15 g each",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 2.6,
+        "fatG": 0.7,
+        "carbsG": 3.7,
+        "fiberG": 2.4
+      },
+      "caloriesKcal": 37.5,
+      "proteinG": 3.9,
+      "fatG": 1.05,
+      "carbsG": 5.55,
+      "fiberG": 3.6,
+      "assumptions": "Fresh arugula/rocket leaves, raw weight as given",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 264,
+        "proteinG": 14,
+        "fatG": 21.3,
+        "carbsG": 4.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 211.2,
+      "proteinG": 11.2,
+      "fatG": 17.04,
+      "carbsG": 3.28,
+      "fiberG": 0,
+      "assumptions": "Crumbled feta cheese, typical full-fat sheep/goat milk variety",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 44,
+        "proteinG": 3.3,
+        "fatG": 0.7,
+        "carbsG": 6.7,
+        "fiberG": 4.2
+      },
+      "caloriesKcal": 8.8,
+      "proteinG": 0.66,
+      "fatG": 0.14,
+      "carbsG": 1.34,
+      "fiberG": 0.84,
+      "assumptions": "Fresh mint leaves, chopped; 20 g total as implied by '20 chopped'",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 18,
+      "per100g": {
+        "caloriesKcal": 673,
+        "proteinG": 14,
+        "fatG": 68,
+        "carbsG": 13,
+        "fiberG": 4
+      },
+      "caloriesKcal": 121.14,
+      "proteinG": 2.52,
+      "fatG": 12.24,
+      "carbsG": 2.34,
+      "fiberG": 0.72,
+      "assumptions": "Toasted pine nuts; 2 level tablespoons ≈ 18 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of table salt; negligible contribution rounded to 1 g for calculation",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of ground black pepper; negligible contribution rounded to 1 g for calculation",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52797",
+    "name": "Spicy North African Potato Salad",
+    "cuisine": "Moroccan",
+    "instructions": "Cook potatoes - place potatoes in a pot of cold water, and bring to the boil. Boil 20 minutes, or until potatoes are tender. You know they are cooked when you can stick a knife in them and the knife goes straight through.\r\nCombine harissa spice, olive oil, salt and pepper and lemon juice in a small bowl and whisk until combined.\r\nOnce potatoes are cooked, drain water and roughly chop potatoes in half.\r\nAdd harissa mix and spring onions/green onions to potatoes and stir.\r\nIn a large salad bowl, lay out arugula/rocket.\r\nTop with potato mix and toss.\r\nAdd fetta, mint and sprinkle over pine nuts.\r\nAdjust salt and pepper to taste.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Small Potatoes",
+        "measurement": "650g/1lb 8 oz"
+      },
+      { "position": 2, "name": "Harissa Spice", "measurement": "1 tsp" },
+      { "position": 3, "name": "olive oil", "measurement": "2 tsp" },
+      { "position": 4, "name": "Lemon", "measurement": "juice of half" },
+      { "position": 5, "name": "Spring onions", "measurement": "4" },
+      { "position": 6, "name": "Rocket", "measurement": "150g/6oz" },
+      { "position": 7, "name": "Feta", "measurement": "80g/3oz" },
+      { "position": 8, "name": "Mint", "measurement": "20 chopped" },
+      { "position": 9, "name": "Pine nuts", "measurement": "2 tablespoons" },
+      { "position": 10, "name": "Salt", "measurement": "Pinch" },
+      { "position": 11, "name": "Pepper", "measurement": "Pinch" }
+    ]
+  }
+}

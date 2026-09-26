@@ -1,0 +1,51 @@
+{
+  "inputHash": "66c7c85d40de32059e8b4541206a58f439e56c7253b0ad02d47c9d7630047600",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:17.257Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 7.7,
+      "fiberG": 0,
+      "assumptions": "227g clotted cream (full-fat; ~3.4g carbs/100g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0.2,
+      "fiberG": 0,
+      "assumptions": "25g butter (standard; ~0.6g carbs/100g, rounded)"
+    },
+    {
+      "position": 3,
+      "carbsG": 2.3,
+      "fiberG": 0.2,
+      "assumptions": "1 tsp (≈3g) corn flour/cornstarch (≈76.9g carbs/100g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "100g Parmesan cheese (≈4g carbs/100g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.7,
+      "fiberG": 0.3,
+      "assumptions": "Nutmeg grated to taste (small pinch ≈0.7g; ≈100g carbs/100g with high fiber content)"
+    },
+    {
+      "position": 6,
+      "carbsG": 177.5,
+      "fiberG": 7.5,
+      "assumptions": "250g dry fettuccine pasta (≈71g carbs/100g, ≈3g fiber/100g)"
+    },
+    {
+      "position": 7,
+      "carbsG": 1.4,
+      "fiberG": 0.7,
+      "assumptions": "Parsley chopped to taste (small handful ≈7g; ≈20g carbs/100g with ≈10g fiber/100g)"
+    }
+  ]
+}

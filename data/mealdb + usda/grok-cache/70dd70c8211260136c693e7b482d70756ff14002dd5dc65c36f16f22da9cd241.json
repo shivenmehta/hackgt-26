@@ -1,0 +1,69 @@
+{
+  "inputHash": "70dd70c8211260136c693e7b482d70756ff14002dd5dc65c36f16f22da9cd241",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:53.075Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 907,
+      "caloriesPer100g": 92,
+      "assumptions": "2 lb (907 g) whole red snapper; ~92 kcal/100g for raw edible portion of similar snapper (accounting for ~40-50% edible yield after bones/head; recipe fries whole fish)."
+    },
+    {
+      "position": 5,
+      "grams": 4,
+      "caloriesPer100g": 101,
+      "assumptions": "2 sprigs fresh thyme ~2 g each (standard modest weight for small herb sprig)."
+    },
+    {
+      "position": 6,
+      "grams": 0.5,
+      "caloriesPer100g": 313,
+      "assumptions": "1 dried bay leaf ~0.5 g standard weight."
+    },
+    {
+      "position": 7,
+      "grams": 60,
+      "caloriesPer100g": 31.3,
+      "assumptions": "0.5 medium red bell pepper ~60 g edible portion (half of ~120 g typical pepper)."
+    },
+    {
+      "position": 8,
+      "grams": 60,
+      "caloriesPer100g": 30.8,
+      "assumptions": "0.5 medium yellow bell pepper ~60 g edible portion (half of ~120 g typical pepper)."
+    },
+    {
+      "position": 10,
+      "grams": 60,
+      "caloriesPer100g": 48,
+      "assumptions": "1 medium carrot chopped ~60 g (standard edible weight after peeling)."
+    },
+    {
+      "position": 14,
+      "grams": 5,
+      "caloriesPer100g": 40,
+      "assumptions": "1 scotch bonnet chili ~5 g (typical small pepper weight); ~40 kcal/100g estimated from similar hot peppers as no direct value given."
+    },
+    {
+      "position": 15,
+      "grams": 65,
+      "caloriesPer100g": 30,
+      "assumptions": "1 medium lime ~65 g whole weight (edible juice/zest portion used for rubbing; matches given density)."
+    },
+    {
+      "position": 16,
+      "grams": 180,
+      "caloriesPer100g": 12,
+      "assumptions": "3/4 cup malt vinegar = 180 ml (~180 g as density ~1 g/ml); ~12 kcal/100g typical for vinegar (low cal, similar to given null)."
+    },
+    {
+      "position": 17,
+      "grams": 0.3,
+      "caloriesPer100g": 251,
+      "assumptions": "Pinch of pepper ~0.3 g standard modest amount for seasoning."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "inputHash": "4caf2ee13b216d3c677685bae39f0357468eb416e538ac48bb91c723c8b208ec",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:08.887Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 85,
+      "caloriesPer100g": null,
+      "assumptions": "Standard single-serve instant ramen noodle packet is typically 85 g dry weight (common for brands like Nissin or Maruchan); this is the edible dry mass before boiling."
+    },
+    {
+      "position": 6,
+      "grams": 6,
+      "caloriesPer100g": 32,
+      "assumptions": "1 tablespoon chopped spring onions (scallions) weighs ~6 g based on typical density of sliced greens; knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 8,
+      "grams": 3,
+      "caloriesPer100g": 251,
+      "assumptions": "1/2 tablespoon ground black pepper weighs ~3 g (pepper is very light and dense); knownCaloriesPer100g copied exactly."
+    }
+  ]
+}

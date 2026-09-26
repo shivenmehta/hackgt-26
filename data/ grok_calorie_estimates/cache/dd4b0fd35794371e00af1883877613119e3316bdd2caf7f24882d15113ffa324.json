@@ -1,0 +1,51 @@
+{
+  "inputHash": "dd4b0fd35794371e00af1883877613119e3316bdd2caf7f24882d15113ffa324",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:20:25.363Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 105,
+      "proteinG": 4.5,
+      "fatG": 1.5,
+      "assumptions": "3 medium-large beef tomatoes ≈ 600 g total edible flesh; standard values for raw red tomatoes"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 17,
+      "proteinG": 0.4,
+      "fatG": 0.1,
+      "assumptions": "½ medium red onion ≈ 55 g raw edible portion"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 5,
+      "proteinG": 0.2,
+      "fatG": 0.1,
+      "assumptions": "small handful fresh thyme sprigs ≈ 5 g; modest quantity for seasoning/to taste"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 5,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tbsp sherry vinegar ≈ 15 g; negligible macros"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 240,
+      "proteinG": 0,
+      "fatG": 27,
+      "assumptions": "2 tbsp extra-virgin olive oil ≈ 27 g; all oil is used in the dish (dressing + pan drizzle)"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 400,
+      "proteinG": 20,
+      "fatG": 35,
+      "assumptions": "100 g chorizo (standard cured Spanish-style); all fat rendered into pan is accounted in the 2 tbsp olive oil line, so only meat macros here"
+    }
+  ]
+}

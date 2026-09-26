@@ -1,0 +1,355 @@
+{
+  "inputHash": "d9f557b1b34f2a90a8b2db8731bd4c363d017d6fb1f7b995c81de68676eee8c5",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:02.620Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 537.75,
+      "proteinG": 0.675,
+      "fatG": 60.75,
+      "carbsG": 0.075,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; used in leek cooking step.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 61,
+        "proteinG": 1.5,
+        "fatG": 0.3,
+        "carbsG": 14,
+        "fiberG": 1.8
+      },
+      "caloriesKcal": 610,
+      "proteinG": 15,
+      "fatG": 3,
+      "carbsG": 140,
+      "fiberG": 18,
+      "assumptions": "Raw leeks; entire 1kg measurement as listed, trimmed but including typical edible white/green portions before cooking down.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; ½ tsp ≈ 3g, negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2.3,
+        "fatG": 35,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1020,
+      "proteinG": 6.9,
+      "fatG": 105,
+      "carbsG": 9,
+      "fiberG": 0,
+      "assumptions": "Full-fat crème fraîche; 300ml ≈ 300g assuming density near 1 g/ml, typical values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.5,
+      "proteinG": 6.3,
+      "fatG": 4.75,
+      "carbsG": 0.35,
+      "fiberG": 0,
+      "assumptions": "Large whole egg; 1 egg ≈ 50g edible portion without shell.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 51,
+      "per100g": {
+        "caloriesKcal": 317,
+        "proteinG": 15.9,
+        "fatG": 26.5,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 161.67,
+      "proteinG": 8.109,
+      "fatG": 13.515,
+      "carbsG": 1.8359999999999999,
+      "fiberG": 0,
+      "assumptions": "3 large egg yolks; ≈17g each for total 51g, standard values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 525,
+        "proteinG": 6,
+        "fatG": 36.6,
+        "carbsG": 49.3,
+        "fiberG": 20.7
+      },
+      "caloriesKcal": 5.25,
+      "proteinG": 0.06,
+      "fatG": 0.366,
+      "carbsG": 0.493,
+      "fiberG": 0.207,
+      "assumptions": "Ground nutmeg; ¼ tsp ≈ 0.6-1g rounded to 1g, typical spice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 225,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 819,
+      "proteinG": 22.5,
+      "fatG": 2.25,
+      "carbsG": 171,
+      "fiberG": 6.075,
+      "assumptions": "Standard plain white wheat flour; full 225g as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; ½ tsp ≈ 3g, negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 430.2,
+      "proteinG": 0.54,
+      "fatG": 48.6,
+      "carbsG": 0.06,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; used in pastry.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 900,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 540,
+      "proteinG": 0,
+      "fatG": 60,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard lard (pork fat); full 60g as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 403,
+        "proteinG": 25,
+        "fatG": 33.8,
+        "carbsG": 1.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 201.5,
+      "proteinG": 12.5,
+      "fatG": 16.9,
+      "carbsG": 0.65,
+      "fiberG": 0,
+      "assumptions": "Mature cheddar cheese; full 50g as listed, grated.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Cold water; 2 tbs ≈ 30ml ≈ 30g, negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52906",
+    "name": "Flamiche",
+    "cuisine": "French",
+    "instructions": "For the pastry, sift the flour and salt into the bowl of a food processor, add the butter and lard, then whizz together briefly until the mixture looks like fine breadcrumbs. Tip the mixture into a bowl, then stir in the cheese and enough of the water for the mixture to come together. Tip out onto a lightly floured surface and knead briefly until smooth. Roll out thinly and line a 23cm x 4cm loose-?bottomed fluted flan tin. Prick the base with a fork. Chill for 20 minutes.\r\n02.Melt the 75g butter in a saucepan over a low heat, then add the leeks and the salt. Cover and cook for ?10 minutes until soft. Uncover the pan, increase the heat and cook ?for 2 minutes, stirring occasionally, until the liquid has evaporated. Spoon onto a plate and leave to cool.\r\n03.Preheat the oven to 200°C/fan180°C/gas 6. Line the pastry case with baking paper and baking beans or rice and blind bake for 15-20 minutes until the edges are biscuit-coloured. Remove the paper and beans/rice and return the case to the oven for 7-10 minutes until the base is crisp and lightly golden. Remove and set aside. Reduce the oven temperature to 190°C/fan170°C/gas 5.\r\n04.Put the crème fraîche into a bowl with the whole egg, egg yolks and nutmeg. Lightly beat together, then season. Stir in the leeks. Spoon ?the mixture into the tart case and bake for 35-40 minutes until set ?and lightly golden. Remove from ?the oven and leave for 10 minutes. Take out of the tin and serve.",
+    "ingredients": [
+      { "position": 1, "name": "Butter", "measurement": "75g" },
+      { "position": 2, "name": "Leek", "measurement": "1kg" },
+      { "position": 3, "name": "Salt", "measurement": "½ tsp" },
+      { "position": 4, "name": "Creme Fraiche", "measurement": "300ml" },
+      { "position": 5, "name": "Egg", "measurement": "1" },
+      { "position": 6, "name": "Egg Yolks", "measurement": "3" },
+      { "position": 7, "name": "Nutmeg", "measurement": "¼ teaspoon" },
+      { "position": 8, "name": "Plain Flour", "measurement": "225g" },
+      { "position": 9, "name": "Salt", "measurement": "½ tsp" },
+      { "position": 10, "name": "Butter", "measurement": "60g" },
+      { "position": 11, "name": "Lard", "measurement": "60g" },
+      { "position": 12, "name": "Cheddar Cheese", "measurement": "50g" },
+      { "position": 13, "name": "Water", "measurement": "2 tbs" }
+    ]
+  }
+}

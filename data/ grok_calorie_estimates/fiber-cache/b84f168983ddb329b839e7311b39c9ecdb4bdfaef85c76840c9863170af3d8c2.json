@@ -1,0 +1,63 @@
+{
+  "inputHash": "b84f168983ddb329b839e7311b39c9ecdb4bdfaef85c76840c9863170af3d8c2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:55.366Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbs olive oil = 14 g; pure fat, no carbs"
+    },
+    {
+      "position": 2,
+      "carbsG": 22,
+      "fiberG": 4,
+      "assumptions": "2 medium red onions chopped ≈ 220 g total edible portion; standard onion carb values"
+    },
+    {
+      "position": 3,
+      "carbsG": 4,
+      "fiberG": 1,
+      "assumptions": "1 red chilli finely chopped ≈ 20 g edible portion; standard fresh chilli values"
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 garlic clove ≈ 3 g; standard garlic values"
+    },
+    {
+      "position": 5,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "chopped coriander stalks (small bunch portion used here) ≈ 5 g; standard coriander values"
+    },
+    {
+      "position": 6,
+      "carbsG": 32,
+      "fiberG": 8,
+      "assumptions": "800 g canned cherry tomatoes (whole can contents, drained weight not subtracted as sauce uses liquid); standard canned tomato values"
+    },
+    {
+      "position": 7,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tbs caster sugar ≈ 12 g; pure sugar"
+    },
+    {
+      "position": 8,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "4 large eggs, raw, whole (edible portion only); standard egg values"
+    },
+    {
+      "position": 9,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "feta sprinkling ≈ 20 g crumbled on top; standard feta values"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "inputHash": "cbad6ee356dc5886643c7ad28b6f4ac8b8b3c10d6b4fadb0bf356cf437e73368",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:30:26.560Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 185,
+      "per100g": {
+        "caloriesKcal": 365,
+        "proteinG": 7.1,
+        "fatG": 0.7,
+        "carbsG": 80,
+        "fiberG": 1.1
+      },
+      "caloriesKcal": 675.25,
+      "proteinG": 13.135,
+      "fatG": 1.295,
+      "carbsG": 148,
+      "fiberG": 2.035,
+      "assumptions": "Standard uncooked white rice; 185 g is typical for 2 servings yielding ~2 cups cooked (rice is rinsed but weight is for dry)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "Medium white onion, raw weight; typical size for 1 onion in recipes",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 30,
+      "proteinG": 0.7,
+      "fatG": 0.2,
+      "carbsG": 10.5,
+      "fiberG": 2.8,
+      "assumptions": "Whole medium lime including zest and juice; average edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.5760000000000001,
+      "fatG": 0.045,
+      "carbsG": 2.9790000000000005,
+      "fiberG": 0.18900000000000003,
+      "assumptions": "3 average garlic cloves, peeled; ~3 g each",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 0.7,
+        "fatG": 0.1,
+        "carbsG": 3.6,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 45,
+      "proteinG": 2.1,
+      "fatG": 0.3,
+      "carbsG": 10.8,
+      "fiberG": 1.5,
+      "assumptions": "1 medium cucumber, raw and unpeeled; typical whole weight used in recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 34.85,
+      "proteinG": 0.765,
+      "fatG": 0.17,
+      "carbsG": 8.16,
+      "fiberG": 2.38,
+      "assumptions": "3 oz (85 g) fresh carrots, raw and peeled; grated portion used directly",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 17,
+        "fatG": 20,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1135,
+      "proteinG": 77.18,
+      "fatG": 90.8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb (454 g) raw 80/20 ground beef; fully cooked in recipe but nutrients based on raw weight as standard",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 8.1,
+        "fatG": 0.4,
+        "carbsG": 3.3,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 31.8,
+      "proteinG": 4.86,
+      "fatG": 0.24,
+      "carbsG": 1.98,
+      "fiberG": 0.3,
+      "assumptions": "2 oz (60 g) regular soy sauce; typical sodium-rich liquid used as-is",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52997",
+    "name": "Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber",
+    "cuisine": "Vietnamese",
+    "instructions": "Add'l ingredients: mayonnaise, siracha\r\n\r\n1\r\n\r\nPlace rice in a fine-mesh sieve and rinse until water runs clear. Add to a small pot with 1 cup water (2 cups for 4 servings) and a pinch of salt. Bring to a boil, then cover and reduce heat to low. Cook until rice is tender, 15 minutes. Keep covered off heat for at least 10 minutes or until ready to serve.\r\n\r\n2\r\n\r\nMeanwhile, wash and dry all produce. Peel and finely chop garlic. Zest and quarter lime (for 4 servings, zest 1 lime and quarter both). Trim and halve cucumber lengthwise; thinly slice crosswise into half-moons. Halve, peel, and medium dice onion. Trim, peel, and grate carrot.\r\n\r\n3\r\n\r\nIn a medium bowl, combine cucumber, juice from half the lime, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. In a small bowl, combine mayonnaise, a pinch of garlic, a squeeze of lime juice, and as much sriracha as you’d like. Season with salt and pepper.\r\n\r\n4\r\n\r\nHeat a drizzle of oil in a large pan over medium-high heat. Add onion and cook, stirring, until softened, 4-5 minutes. Add beef, remaining garlic, and 2 tsp sugar (4 tsp for 4 servings). Cook, breaking up meat into pieces, until beef is browned and cooked through, 4-5 minutes. Stir in soy sauce. Turn off heat; taste and season with salt and pepper.\r\n\r\n5\r\n\r\nFluff rice with a fork; stir in lime zest and 1 TBSP butter. Divide rice between bowls. Arrange beef, grated carrot, and pickled cucumber on top. Top with a squeeze of lime juice. Drizzle with sriracha mayo.",
+    "ingredients": [
+      { "position": 1, "name": "Rice", "measurement": "White" },
+      { "position": 2, "name": "Onion", "measurement": "1" },
+      { "position": 3, "name": "Lime", "measurement": "1" },
+      { "position": 4, "name": "Garlic Clove", "measurement": "3" },
+      { "position": 5, "name": "Cucumber", "measurement": "1" },
+      { "position": 6, "name": "Carrots", "measurement": "3 oz" },
+      { "position": 7, "name": "Ground Beef", "measurement": "1 lb" },
+      { "position": 8, "name": "Soy Sauce", "measurement": "2 oz" }
+    ]
+  }
+}

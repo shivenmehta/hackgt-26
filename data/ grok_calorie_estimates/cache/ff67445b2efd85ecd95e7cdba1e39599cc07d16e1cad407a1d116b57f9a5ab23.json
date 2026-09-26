@@ -1,0 +1,79 @@
+{
+  "inputHash": "ff67445b2efd85ecd95e7cdba1e39599cc07d16e1cad407a1d116b57f9a5ab23",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:18:16.893Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 480,
+      "proteinG": 6,
+      "fatG": 21,
+      "assumptions": "100g digestive biscuits as given; standard values ~480 kcal/100g"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 490,
+      "proteinG": 18,
+      "fatG": 42,
+      "assumptions": "85g whole almonds as given; ~576 kcal/100g"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 610,
+      "proteinG": 1,
+      "fatG": 69,
+      "assumptions": "85g butter as given; ~717 kcal/100g"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 165,
+      "proteinG": 14,
+      "fatG": 9,
+      "assumptions": "250ml Greek yogurt (~260g at density ~1.04 g/ml); full-fat strained style ~63 kcal/100g"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 2475,
+      "proteinG": 30,
+      "fatG": 255,
+      "assumptions": "750g mascarpone as given; standard ~330 kcal/100g"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 155,
+      "proteinG": 13,
+      "fatG": 11,
+      "assumptions": "2 large eggs (~100g edible portion without shell); ~155 kcal total"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 6,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "zest of 1 lemon (~6g); negligible macros ~1 kcal/g"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 10,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "zest of 1 orange (~10g); negligible macros ~1 kcal/g"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 1230,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "250ml honey (~350g at density ~1.4 g/ml); ~350 kcal/100g"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "'fruit mix to serve' is vague/optional and lacks any quantity; cannot estimate reasonably"
+    }
+  ]
+}

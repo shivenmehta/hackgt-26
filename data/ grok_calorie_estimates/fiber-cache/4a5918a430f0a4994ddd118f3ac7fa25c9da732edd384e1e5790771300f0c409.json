@@ -1,0 +1,39 @@
+{
+  "inputHash": "4a5918a430f0a4994ddd118f3ac7fa25c9da732edd384e1e5790771300f0c409",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:24.551Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 71.3,
+      "fiberG": 3.2,
+      "assumptions": "150g white bread (crust removed or soft bread as typical for ajo blanco); values for white bread."
+    },
+    {
+      "position": 2,
+      "carbsG": 21.6,
+      "fiberG": 11.6,
+      "assumptions": "200g blanched or raw almonds (whole, as typical)."
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "50ml extra virgin olive oil (density ~0.91 g/ml)."
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 medium garlic clove (~3g)."
+    },
+    {
+      "position": 5,
+      "carbsG": 0.4,
+      "fiberG": 0,
+      "assumptions": "1.5 tbsp (22ml) red wine vinegar."
+    }
+  ]
+}

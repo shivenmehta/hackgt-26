@@ -1,0 +1,513 @@
+{
+  "inputHash": "8583a0f6d214650a97154a1b245b1e5175e4b5d87d1bcb0cdc22d00b81644dbd",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:29:54.801Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 2400,
+      "per100g": {
+        "caloriesKcal": 120,
+        "proteinG": 20,
+        "fatG": 4,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2880,
+      "proteinG": 480,
+      "fatG": 96,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 meaty veal shanks estimated at 600g each including bone; typical osso buco cut with marrow; raw edible portion basis used for nutrition; values averaged from veal shank/seam cuts.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 218.4,
+      "proteinG": 6,
+      "fatG": 0.6,
+      "carbsG": 45.6,
+      "fiberG": 1.8,
+      "assumptions": "½ cup all-purpose flour; standard density ~120g per cup; used only for dredging with most shaken off, but full quantity used per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons olive oil; standard 13.5g per tablespoon; used for browning and assumed fully incorporated into recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 43,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 1,
+        "fatG": 81,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 308.31,
+      "proteinG": 0.43,
+      "fatG": 34.83,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons butter total (1 for browning + 2 later); standard 14.2g per tablespoon; fully used in dish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 9,
+        "fiberG": 2
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.1,
+      "fatG": 0,
+      "carbsG": 9.9,
+      "fiberG": 2.2,
+      "assumptions": "1 medium onion chopped to ½-inch; typical medium onion ~110g edible portion after peeling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 10,
+        "fiberG": 3
+      },
+      "caloriesKcal": 24.6,
+      "proteinG": 0.6,
+      "fatG": 0,
+      "carbsG": 6,
+      "fiberG": 1.8,
+      "assumptions": "1 medium carrot chopped to ½-inch; typical peeled carrot ~60g edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 16,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 3,
+        "fiberG": 1
+      },
+      "caloriesKcal": 6.4,
+      "proteinG": 0.4,
+      "fatG": 0,
+      "carbsG": 1.2,
+      "fiberG": 0.4,
+      "assumptions": "1 celery stalk chopped to ½-inch; typical trimmed stalk ~40g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 230,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 71.3,
+      "proteinG": 2.3,
+      "fatG": 0,
+      "carbsG": 13.8,
+      "fiberG": 6.9,
+      "assumptions": "1 fennel bulb chopped to ½-inch; average medium bulb trimmed weight ~230g edible after removing stalks/fronds.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6,
+        "fatG": 0,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.54,
+      "fatG": 0,
+      "carbsG": 2.97,
+      "fiberG": 0.18,
+      "assumptions": "3 cloves garlic; average 3g per clove.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 26,
+        "fiberG": 14
+      },
+      "caloriesKcal": 3.88,
+      "proteinG": 0.08,
+      "fatG": 0,
+      "carbsG": 1.04,
+      "fiberG": 0.56,
+      "assumptions": "2 strips orange zest; estimated at ~4g total peel only (no pith); typical values for orange peel.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 271,
+        "proteinG": 13,
+        "fatG": 7,
+        "carbsG": 52,
+        "fiberG": 34
+      },
+      "caloriesKcal": 5.42,
+      "proteinG": 0.26,
+      "fatG": 0.14,
+      "carbsG": 1.04,
+      "fiberG": 0.68,
+      "assumptions": "1.5 teaspoons dried marjoram; standard 1g per teaspoon density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 bay leaf; typical whole leaf ~0.5-1g; negligible nutrition, zeroed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 196.8,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 7.2,
+      "fiberG": 0,
+      "assumptions": "1 cup dry white wine; standard 240g per cup; alcohol calories retained as typical for braising estimates.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 8.4,
+      "proteinG": 1.2,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "½ cup chicken stock; ~240g per full cup; typical low-sodium broth values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 7,
+        "fiberG": 2
+      },
+      "caloriesKcal": 76.8,
+      "proteinG": 4.8,
+      "fatG": 0,
+      "carbsG": 16.8,
+      "fiberG": 4.8,
+      "assumptions": "1 cup chopped canned tomatoes with juice; standard drained/chopped weight estimate ~240g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 1,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 2.88,
+      "proteinG": 0.24,
+      "fatG": 0.08,
+      "carbsG": 0.48,
+      "fiberG": 0.24,
+      "assumptions": "2 tablespoons chopped fresh parsley; ~4g per tablespoon.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6,
+        "fatG": 0,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.18,
+      "fatG": 0,
+      "carbsG": 0.99,
+      "fiberG": 0.06,
+      "assumptions": "1 teaspoon minced garlic; ~3g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 26,
+        "fiberG": 14
+      },
+      "caloriesKcal": 1.94,
+      "proteinG": 0.04,
+      "fatG": 0,
+      "carbsG": 0.52,
+      "fiberG": 0.28,
+      "assumptions": "1 teaspoon grated lemon zest; estimated ~2g peel only.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52810",
+    "name": "Osso Buco alla Milanese",
+    "cuisine": "Italian",
+    "instructions": "Heat the oven to 300 degrees.\r\nDredging the shanks: pour the flour into a shallow dish (a pie plate works nicely). Season the veal shanks on all sides with salt and pepper. One at a time, roll the shanks around in the flour coat, and shake and pat the shank to remove any excuses flour. Discard the remaining flour.\r\nBrowning the shanks: put the oil and 1 tablespoon of the butter in a wide Dutch oven or heavy braising pot (6 to 7 quart) and heat over medium-high heat. When the butter has melted and the oil is shimmering, lower the shanks into the pot, flat side down; if the shanks won’t fit without touching one another, do this in batches. Brown the shanks, turning once with tongs, until both flat sides are well caramelized, about 5 minutes per side. If the butter-oil mixture starts to burn, lower the heat just a bit. Transfer the shanks to a large platter or tray and set aside.\r\nThe aromatics: pour off and discard the fat from the pot. Wipe out any burnt bits with a damp paper towel, being careful not to remove any delicious little caramelized bits. Ad the remaining 2 tablespoons butter to the pot and melt it over medium heat. When the butter has stopped foaming, add the onion, carrot, celery, and fennel. Season with salt and pepper, stir, and cook the vegetables until they begin to soften but do not brown, about 6 minutes. Stir in the garlic, orange zest, marjoram, and bay leaf, and stew for another minute or two.\r\nThe braising liquid: add the wine, increase the heat to high, and bring to a boil. Boil, stirring occasionally, to reduce the wine by about half, 5 minutes. Add the stock and tomatoes, with their juice, and boil again to reduce the liquid to about 1 cup total, about 10 minutes.\r\nThe braise: Place the shanks in the pot so that they are sitting with the exposed bone facing up, and pour over any juices that accumulated as they sat. Cover with parchment paper, pressing down so the parchment nearly touches the veal and the edges hang over the sides of the pot by about an inch. Cover tightly with the lid, and slide into the lower part of the oven to braise at a gentle simmer. Check the pot after the first 15 minutes, and if the liquid is simmering too aggressively, lower the oven heat by 10 or 15 degrees. Continue braising, turning the shanks and spooning some pan juices over the top after the first 40 minutes, until the meat is completely tender and pulling away from the bone, about 2 hours.\r\nThe gremolata: While the shanks are braising, stir together the garlic, parsley, and lemon zest in a small bowl. Cover with plastic wrap and set aside in a cool place (or the refrigerator, if your kitchen is very warm.)\r\nThe finish: When the veal is fork-tender and falling away from the bone, remove the lid and sprinkle over half of the gremolata. Return the veal to the oven, uncovered, for another 15 minutes to caramelize it some.\r\nUsing a slotted spatula or spoon, carefully lift the shanks from the braising liquid, doing your best to keep them intact. The shanks will be very tender and threatening to fall into pieces, and the marrow will be wobbly inside the bones, so this can be a bit tricky. But if they do break apart, don’t worry, the flavor won’t suffer at all. Arrange the shanks on a serving platter or other large plate, without stacking, and cover with foil to keep warm.\r\nFinishing the sauce: Set the braising pot on top of the stove and evaluate the sauce: if there is a visible layer of fat floating on the surface, use a large spoon to skim it off and discard it. Taste the sauce for concentration of flavor. If it tastes a bit weak or flat, bring it to a boil over high heat, and boil to reduce the volume and intensify the flavor for 5 to 10 minutes. Taste again for salt and pepper. If the sauce wants more zip, stir in a teaspoon or two of the remaining gremolata.\r\nPortioning the veal shanks: if the shanks are reasonably sized, serve one per person. If the shanks are gargantuan or you’re dealing with modest appetites, pull apart the larger shanks, separating them at their natural seams, and serve smaller amounts. Be sure to give the marrow bones to whomever prizes them most.\r\nServing: Arrange the veal shanks on warm dinner plates accompanied by the risotto, if serving. Just before carrying the plates to the table, sprinkle on the remaining gremolata and then spoon over a generous amount of sauce – the contact with the hot liquid will aromatize the gremolata and perk up everyone’s appetite with the whiff of garlic and lemon.",
+    "ingredients": [
+      { "position": 1, "name": "Veal", "measurement": "4 meaty shanks" },
+      { "position": 2, "name": "Flour", "measurement": "½ cup" },
+      { "position": 3, "name": "Olive Oil", "measurement": "2 tablespoons" },
+      { "position": 4, "name": "Butter", "measurement": "3 tablespoons" },
+      {
+        "position": 5,
+        "name": "Onion",
+        "measurement": "1 medium chopped into ½-inch pieces"
+      },
+      {
+        "position": 6,
+        "name": "Carrots",
+        "measurement": "1 chopped into ½-inch pieces"
+      },
+      {
+        "position": 7,
+        "name": "Celery",
+        "measurement": "1 chopped into ½-inch pieces"
+      },
+      {
+        "position": 8,
+        "name": "Fennel",
+        "measurement": "1 bulb chopped into ½-inch pieces"
+      },
+      { "position": 9, "name": "Garlic", "measurement": "3 cloves" },
+      { "position": 10, "name": "Orange Zest", "measurement": "2 strips" },
+      { "position": 11, "name": "Marjoram", "measurement": "1 ½ teaspoons" },
+      { "position": 12, "name": "Bay Leaf", "measurement": "1" },
+      { "position": 13, "name": "Dry White Wine", "measurement": "1 cup" },
+      { "position": 14, "name": "Chicken Stock", "measurement": "½ cup" },
+      {
+        "position": 15,
+        "name": "Tomatoes",
+        "measurement": "1 cup chopped with juice"
+      },
+      {
+        "position": 16,
+        "name": "Parsley",
+        "measurement": "2 tablespoons chopped"
+      },
+      { "position": 17, "name": "Garlic", "measurement": "1 teaspoon minced" },
+      {
+        "position": 18,
+        "name": "Lemon Zest",
+        "measurement": "1 teaspoon grated"
+      }
+    ]
+  }
+}

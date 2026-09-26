@@ -1,0 +1,75 @@
+{
+  "inputHash": "19cbae95f7cae412c9f0554ab9858e859740bade94109084c4b31a27fc76cc7c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:33.004Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "50g butter (all used in recipe)"
+    },
+    {
+      "position": 2,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (~110g) finely chopped, raw weight"
+    },
+    {
+      "position": 3,
+      "carbsG": 118,
+      "fiberG": 4,
+      "assumptions": "150g uncooked arborio-style rice (standard risotto rice)"
+    },
+    {
+      "position": 4,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "125ml dry white wine"
+    },
+    {
+      "position": 5,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "1 litre vegetable stock (standard bouillon-based, modest calories)"
+    },
+    {
+      "position": 6,
+      "carbsG": 7,
+      "fiberG": 2,
+      "assumptions": "juice + zest of 1 medium lemon"
+    },
+    {
+      "position": 7,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "240g raw king prawns (edible portion, peeled)"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "150g raw salmon fillet (edible portion, grilled with no added fat)"
+    },
+    {
+      "position": 9,
+      "carbsG": 4,
+      "fiberG": 2,
+      "assumptions": "100g blanched asparagus tips"
+    },
+    {
+      "position": 10,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "ground black pepper to taste (negligible quantity)"
+    },
+    {
+      "position": 11,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "50g Parmesan cheese (shavings, all used)"
+    }
+  ]
+}

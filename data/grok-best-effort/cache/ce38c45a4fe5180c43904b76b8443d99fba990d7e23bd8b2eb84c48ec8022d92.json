@@ -1,0 +1,329 @@
+{
+  "inputHash": "ce38c45a4fe5180c43904b76b8443d99fba990d7e23bd8b2eb84c48ec8022d92",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:08.443Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 371,
+        "proteinG": 13,
+        "fatG": 1.5,
+        "carbsG": 75,
+        "fiberG": 3.2
+      },
+      "caloriesKcal": 1855,
+      "proteinG": 65,
+      "fatG": 7.5,
+      "carbsG": 375,
+      "fiberG": 16,
+      "assumptions": "Dry elbow macaroni, uncooked as added directly to pan per instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 480,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.3,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 33.6,
+      "proteinG": 4.32,
+      "fatG": 1.44,
+      "carbsG": 2.4,
+      "fiberG": 0,
+      "assumptions": "Standard chicken broth/stock; 2 US cups = 480 ml, density ~1 g/ml",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2.1,
+        "fatG": 36.1,
+        "carbsG": 2.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 408,
+      "proteinG": 2.52,
+      "fatG": 43.32,
+      "carbsG": 3.36,
+      "fiberG": 0,
+      "assumptions": "Heavy cream (whipping cream); 1/2 US cup = 120 ml, density ~1 g/ml",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 5,
+        "fatG": 5,
+        "carbsG": 60,
+        "fiberG": 10
+      },
+      "caloriesKcal": 90,
+      "proteinG": 1.5,
+      "fatG": 1.5,
+      "carbsG": 18,
+      "fiberG": 3,
+      "assumptions": "Typical commercial fajita seasoning packet ~28-35g; assumed 30g total, mostly spices with some starch",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1 tsp = ~6g, zero calories/macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 742.5,
+      "proteinG": 139.5,
+      "fatG": 16.2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw boneless skinless chicken breast, diced; '3 diced' assumed 3 medium breasts totaling 450g edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Olive oil; 2 US tbsp = 27g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 70,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 28,
+      "proteinG": 0.77,
+      "fatG": 0.07,
+      "carbsG": 6.51,
+      "fiberG": 1.19,
+      "assumptions": "Small onion, finely diced; typical small onion ~70g edible after peeling",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 74.4,
+      "proteinG": 2.4,
+      "fatG": 0.72,
+      "carbsG": 14.4,
+      "fiberG": 5.04,
+      "assumptions": "2 medium red bell peppers, finely diced; ~120g each edible after deseeding",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 cloves garlic, minced; typical clove ~3g each, total 6g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 113,
+      "per100g": {
+        "caloriesKcal": 403,
+        "proteinG": 23,
+        "fatG": 33,
+        "carbsG": 3.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 455.39,
+      "proteinG": 25.99,
+      "fatG": 37.29,
+      "carbsG": 3.842,
+      "fiberG": 0,
+      "assumptions": "Shredded cheddar cheese; 1 US cup = ~113g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.7,
+        "carbsG": 6.3,
+        "fiberG": 3.7
+      },
+      "caloriesKcal": 3.6,
+      "proteinG": 0.3,
+      "fatG": 0.07,
+      "carbsG": 0.63,
+      "fiberG": 0.37,
+      "assumptions": "Fresh parsley for garnish; 'garnish chopped' assumed 10g typical sprinkled amount for whole recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52818",
+    "name": "Chicken Fajita Mac and Cheese",
+    "cuisine": "American",
+    "instructions": "Fry your onion, peppers and garlic in olive oil until nicely translucent. Make a well in your veg and add your chicken. Add your seasoning and salt. Allow to colour slightly.\r\nAdd your cream, stock and macaroni.\r\nCook on low for 20 minutes. Add your cheeses, stir to combine.\r\nTop with roasted peppers and parsley.",
+    "ingredients": [
+      { "position": 1, "name": "macaroni", "measurement": "500g" },
+      { "position": 2, "name": "chicken stock", "measurement": "2 cups" },
+      { "position": 3, "name": "heavy cream", "measurement": "1/2 cup" },
+      { "position": 4, "name": "fajita seasoning", "measurement": "1 packet" },
+      { "position": 5, "name": "salt", "measurement": "1 tsp" },
+      { "position": 6, "name": "chicken breast", "measurement": "3 diced" },
+      { "position": 7, "name": "olive oil", "measurement": "2 tbsp" },
+      { "position": 8, "name": "onion", "measurement": "1 small finely diced" },
+      { "position": 9, "name": "red pepper", "measurement": "2 finely diced" },
+      { "position": 10, "name": "garlic", "measurement": "2 cloves minced" },
+      { "position": 11, "name": "cheddar cheese", "measurement": "1 cup" },
+      { "position": 12, "name": "parsley", "measurement": "garnish chopped" }
+    ]
+  }
+}

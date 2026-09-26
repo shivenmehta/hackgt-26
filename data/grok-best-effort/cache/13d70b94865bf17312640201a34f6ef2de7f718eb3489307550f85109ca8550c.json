@@ -1,0 +1,181 @@
+{
+  "inputHash": "13d70b94865bf17312640201a34f6ef2de7f718eb3489307550f85109ca8550c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:56.615Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.3,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 81,
+      "proteinG": 4.05,
+      "fatG": 1.35,
+      "carbsG": 17.55,
+      "fiberG": 5.4,
+      "assumptions": "Medium-large beefsteak tomatoes, ~150g each; raw edible flesh only",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 55,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 1.2,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 23.1,
+      "proteinG": 0.66,
+      "fatG": 0.055,
+      "carbsG": 5.115,
+      "fiberG": 0.935,
+      "assumptions": "Half a medium red onion, ~110g total; raw",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 101,
+        "proteinG": 5.6,
+        "fatG": 1.7,
+        "carbsG": 14.9,
+        "fiberG": 13.8
+      },
+      "caloriesKcal": 5.05,
+      "proteinG": 0.28,
+      "fatG": 0.085,
+      "carbsG": 0.745,
+      "fiberG": 0.69,
+      "assumptions": "A few sprigs of fresh thyme leaves stripped (~5g usable leaves); typical fresh herb estimate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 14,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 0.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2.1,
+      "proteinG": 0.015,
+      "fatG": 0,
+      "carbsG": 0.09,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon sherry vinegar, standard 15 ml volume",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0.1,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 265.2,
+      "proteinG": 0.03,
+      "fatG": 30,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons extra virgin olive oil, 15 ml each; full fat value for oil",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 455,
+        "proteinG": 24.1,
+        "fatG": 38.3,
+        "carbsG": 1.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 455,
+      "proteinG": 24.1,
+      "fatG": 38.3,
+      "carbsG": 1.9,
+      "fiberG": 0,
+      "assumptions": "100g chorizo sausage as given; typical cured Spanish-style values; pan-fried with fat rendered but total ingredient weight retained",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53185",
+    "name": "Chorizo & tomato salad",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nPut the tomatoes in a bowl with the onion and thyme. Season, then drizzle with the vinegar and oil. Let the flavours mingle while you cook the chorizo.\r\n\r\nstep 2\r\nIn a hot, dry pan, fry the chorizo slices until browned on both sides. Serve the tomatoes with the fried chorizo, drizzled with a little oil from the pan.",
+    "ingredients": [
+      { "position": 1, "name": "Beef tomatoes", "measurement": "3" },
+      { "position": 2, "name": "Red Onions", "measurement": "1/2" },
+      { "position": 3, "name": "Thyme", "measurement": "Sprigs of fresh" },
+      {
+        "position": 4,
+        "name": "Sherry vinegar",
+        "measurement": "1 tablespoon"
+      },
+      {
+        "position": 5,
+        "name": "Extra Virgin Olive Oil",
+        "measurement": "2 tblsp"
+      },
+      { "position": 6, "name": "Chorizo", "measurement": "100g" }
+    ]
+  }
+}

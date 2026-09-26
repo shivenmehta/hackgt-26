@@ -1,0 +1,27 @@
+{
+  "inputHash": "fd709562ab28283bd25fa90f61b21c39455824d49ecf40d40c3ffb0cc70c03be",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:48.675Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 5,
+      "grams": 45,
+      "caloriesPer100g": 40,
+      "assumptions": "One medium red chilli weighs ~45g whole (edible portion after trimming stem is similar); matches supplied knownCaloriesPer100g for fresh chilli."
+    },
+    {
+      "position": 7,
+      "grams": 425,
+      "caloriesPer100g": 180,
+      "assumptions": "Pilchards in tomato sauce (canned, including sauce) typically ~180 kcal/100g; entire 425g can used as-is per recipe (edible, no draining)."
+    },
+    {
+      "position": 9,
+      "grams": 20,
+      "caloriesPer100g": 403,
+      "assumptions": "Shaved Parmesan is a modest garnish for 4 servings (~5g per person); matches supplied knownCaloriesPer100g for hard Parmesan."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "inputHash": "96941380a8eea67ba945f2e7e2f1def29b2e9ecd16355db6af0dd5d9a662c019",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:32.236Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1100,
+      "caloriesPer100g": 119,
+      "assumptions": "A whole chicken is typically 2.5-3 lbs (1130-1360g) with bones/skin; used average 1100g edible yield after trimming, matching supplied 119 cal/100g for raw chicken with skin."
+    },
+    {
+      "position": 2,
+      "grams": 100,
+      "caloriesPer100g": 884,
+      "assumptions": "2 quarts (1893 ml) frying oil; only a fraction adheres/absorbs into chicken (realistic ~5% of total oil mass for deep-frying estimate)."
+    },
+    {
+      "position": 8,
+      "grams": 11,
+      "caloriesPer100g": 200,
+      "assumptions": "2 tsp onion salt ~11g (density ~5.5g/tsp); typical mixed seasoning calories, modest amount as flavoring."
+    },
+    {
+      "position": 10,
+      "grams": 2,
+      "caloriesPer100g": 251,
+      "assumptions": "1 tsp black pepper ~2g (density ~2g/tsp); copied supplied knownCaloriesPer100g exactly."
+    },
+    {
+      "position": 11,
+      "grams": 3,
+      "caloriesPer100g": 150,
+      "assumptions": "1/2 tsp celery salt ~3g (density ~6g/tsp); typical mixed seasoning calories, modest amount as flavoring."
+    }
+  ]
+}

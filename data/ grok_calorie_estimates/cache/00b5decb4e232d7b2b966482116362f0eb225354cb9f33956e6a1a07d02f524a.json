@@ -1,0 +1,44 @@
+{
+  "inputHash": "00b5decb4e232d7b2b966482116362f0eb225354cb9f33956e6a1a07d02f524a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:20:23.826Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 240,
+      "proteinG": 0,
+      "fatG": 28,
+      "assumptions": "2 tbsp vegetable oil = 28 g; all oil is used in the stir-fry"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 760,
+      "proteinG": 88,
+      "fatG": 40,
+      "assumptions": "400 g raw beef strips (lean sirloin-type cut assumed); edible portion only"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 6,
+      "proteinG": 0.3,
+      "fatG": 0.1,
+      "assumptions": "1 medium red chilli (about 20 g whole, sliced); edible portion only"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 35,
+      "proteinG": 1.5,
+      "fatG": 0.5,
+      "assumptions": "2 tbsp oyster sauce ≈ 36 g; typical commercial sauce values"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 5,
+      "proteinG": 0.5,
+      "fatG": 0.1,
+      "assumptions": "handful fresh basil leaves ≈ 15 g"
+    }
+  ]
+}

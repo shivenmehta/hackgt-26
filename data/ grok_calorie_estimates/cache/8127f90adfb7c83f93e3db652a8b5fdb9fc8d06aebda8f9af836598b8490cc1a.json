@@ -1,0 +1,72 @@
+{
+  "inputHash": "8127f90adfb7c83f93e3db652a8b5fdb9fc8d06aebda8f9af836598b8490cc1a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:16:26.540Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 120,
+      "proteinG": 1.5,
+      "fatG": 12,
+      "assumptions": "1/4 cup sour cream ≈ 60g (standard density for regular sour cream)"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 8,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "assumptions": "2 tbs chopped onion ≈ 20g (raw, standard volume-to-weight conversion)"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 5,
+      "proteinG": 0.2,
+      "fatG": 0.1,
+      "assumptions": "1/2 tbs dried oregano ≈ 3g (modest volume-to-weight for dried herb)"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1/4 tsp salt ≈ 1.5g (standard; contributes negligible macros)"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 640,
+      "proteinG": 21,
+      "fatG": 8,
+      "assumptions": "8 slices white bread ≈ 200g total (standard slice ≈ 25g)"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 440,
+      "proteinG": 29,
+      "fatG": 34,
+      "assumptions": "8 slices bacon ≈ 240g total (standard slice ≈ 30g raw weight; cooked in skillet but fat contribution retained as typical for recipe)"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 30,
+      "proteinG": 1.5,
+      "fatG": 0.3,
+      "assumptions": "8 slices tomato ≈ 160g total (standard slice ≈ 20g, raw, edible portion)"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 280,
+      "proteinG": 21,
+      "fatG": 21,
+      "assumptions": "4 slices mozzarella ≈ 112g total (standard slice ≈ 28g, whole milk variety)"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 260,
+      "proteinG": 0.3,
+      "fatG": 29,
+      "assumptions": "2.5 tbs butter ≈ 35g total (used for toasting; all fat retained as no draining occurs)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "inputHash": "a21406bcc7933c3749ada58bbb49854d80138925bb89ffca254bb56dec447102",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:07.277Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 36,
+      "fiberG": 18,
+      "assumptions": "2 large aubergines ≈ 900 g total raw edible flesh; standard raw aubergine values (4 g carbs, 2 g fiber per 100 g)."
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp olive oil = 28 g; pure oil has zero carbohydrates."
+    },
+    {
+      "position": 3,
+      "carbsG": 10,
+      "fiberG": 0,
+      "assumptions": "250 g full-fat Greek yogurt; standard values ≈ 4 g carbs per 100 g (mostly lactose)."
+    },
+    {
+      "position": 4,
+      "carbsG": 9,
+      "fiberG": 4,
+      "assumptions": "3 tbsp tahini paste ≈ 48 g; typical tahini values ≈ 18-21 g carbs per 100 g with fiber."
+    },
+    {
+      "position": 5,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 small crushed garlic clove ≈ 3 g; standard garlic carbs."
+    },
+    {
+      "position": 6,
+      "carbsG": 5,
+      "fiberG": 0,
+      "assumptions": "Juice of 1 medium lemon ≈ 45 g; standard lemon juice carbs (mostly sugars)."
+    },
+    {
+      "position": 7,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "Handful fresh coriander ≈ 15 g; standard fresh herb values."
+    },
+    {
+      "position": 8,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "Handful fresh parsley ≈ 15 g; standard fresh herb values."
+    },
+    {
+      "position": 9,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "Handful fresh mint ≈ 15 g; standard fresh herb values."
+    }
+  ]
+}

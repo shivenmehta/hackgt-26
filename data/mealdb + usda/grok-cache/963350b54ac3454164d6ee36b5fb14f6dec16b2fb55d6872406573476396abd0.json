@@ -1,0 +1,39 @@
+{
+  "inputHash": "963350b54ac3454164d6ee36b5fb14f6dec16b2fb55d6872406573476396abd0",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:03.424Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 50,
+      "caloriesPer100g": null,
+      "assumptions": "Known measurement of 50g copied directly; calories not supplied so left null as no reasonable estimate without specific type (e.g., cornstarch vs cornmeal)."
+    },
+    {
+      "position": 4,
+      "grams": null,
+      "caloriesPer100g": 884,
+      "assumptions": "Known caloriesPer100g copied exactly. Grams left null because 'for frying' provides no quantity, tempura absorbs only a modest unspecified amount of oil (not the full pan), and no reasonable single edible mass can be estimated from recipe text without inventing values."
+    },
+    {
+      "position": 5,
+      "grams": 250,
+      "caloriesPer100g": null,
+      "assumptions": "250ml soda water assumed to weigh 250g (standard density for carbonated water near 1g/ml); calories left null as it is essentially zero but not supplied so not estimated."
+    },
+    {
+      "position": 8,
+      "grams": 30,
+      "caloriesPer100g": 30,
+      "assumptions": "Juice of 2 limes estimated at ~30g total edible yield (average 15g juice per lime after squeezing, standard for medium limes); known caloriesPer100g copied exactly."
+    },
+    {
+      "position": 9,
+      "grams": 5,
+      "caloriesPer100g": null,
+      "assumptions": "1 chopped birds-eye chilli estimated at ~5g (typical small chilli weight, fully edible after chopping); calories left null as not supplied and no specific value to estimate from."
+    }
+  ]
+}

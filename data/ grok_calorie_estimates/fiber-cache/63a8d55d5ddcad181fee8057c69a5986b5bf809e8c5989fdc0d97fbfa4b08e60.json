@@ -1,0 +1,87 @@
+{
+  "inputHash": "63a8d55d5ddcad181fee8057c69a5986b5bf809e8c5989fdc0d97fbfa4b08e60",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:20.351Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 108,
+      "fiberG": 4,
+      "assumptions": "125g dry rice noodles (standard; ~86g carbs/100g dry)."
+    },
+    {
+      "position": 2,
+      "carbsG": 10,
+      "fiberG": 1,
+      "assumptions": "Juice of 3 limes ≈ 90-100 ml (≈10g carbs from natural sugars)."
+    },
+    {
+      "position": 3,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "1/2 tsp cayenne pepper ≈ 1g (all carbs are fiber)."
+    },
+    {
+      "position": 4,
+      "carbsG": 9,
+      "fiberG": 0,
+      "assumptions": "2 tsp muscovado sugar ≈ 10g (nearly all carbs)."
+    },
+    {
+      "position": 5,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "2 tbsp fish sauce ≈ 30 ml (minor carbs from fermentation)."
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp vegetable oil (pure fat, no carbs)."
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "200g raw tiger prawns (pure protein/fat, no carbs)."
+    },
+    {
+      "position": 8,
+      "carbsG": 6,
+      "fiberG": 2,
+      "assumptions": "4 spring onions ≈ 80-100g total (≈6g carbs/100g)."
+    },
+    {
+      "position": 9,
+      "carbsG": 7,
+      "fiberG": 3,
+      "assumptions": "140g fresh bean sprouts (≈5g carbs/100g)."
+    },
+    {
+      "position": 10,
+      "carbsG": 5,
+      "fiberG": 3,
+      "assumptions": "25g roasted peanuts (≈18-20g carbs/100g)."
+    },
+    {
+      "position": 11,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "Handful fresh coriander ≈ 10-15g (mostly fiber)."
+    },
+    {
+      "position": 12,
+      "carbsG": 8,
+      "fiberG": 4,
+      "assumptions": "2 whole limes for wedges (≈4g carbs each including peel)."
+    },
+    {
+      "position": 13,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Sweet chilli sauce 'to serve' - quantity not specified, cannot estimate."
+    }
+  ]
+}

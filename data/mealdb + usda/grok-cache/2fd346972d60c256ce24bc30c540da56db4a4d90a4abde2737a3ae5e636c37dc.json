@@ -1,0 +1,51 @@
+{
+  "inputHash": "2fd346972d60c256ce24bc30c540da56db4a4d90a4abde2737a3ae5e636c37dc",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:56.288Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 200,
+      "caloriesPer100g": 116,
+      "assumptions": "1 cup dry lentils (standard volume-to-weight for uncooked lentils; recipe boils them from dry state, so using dry weight for edible mass and standard dry calorie density)."
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "caloriesPer100g": 48,
+      "assumptions": "1 medium carrot ≈110g raw (edible portion after peeling; calorie density supplied)."
+    },
+    {
+      "position": 4,
+      "grams": 150,
+      "caloriesPer100g": 19,
+      "assumptions": "1 small zucchini ≈150g raw (edible portion; calorie density supplied)."
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "caloriesPer100g": 23,
+      "assumptions": "Sprinkling of fresh coriander ≈5g (modest amount for seasoning; calorie density supplied)."
+    },
+    {
+      "position": 7,
+      "grams": 100,
+      "caloriesPer100g": 350,
+      "assumptions": "10 standard dry lasagne sheets ≈100g total (typical dry pasta weight; standard dry pasta calorie density as preparation state before boiling)."
+    },
+    {
+      "position": 8,
+      "grams": 35,
+      "caloriesPer100g": 700,
+      "assumptions": "Supplied 35g; typical vegan butter calorie density."
+    },
+    {
+      "position": 10,
+      "grams": 300,
+      "caloriesPer100g": 38.5,
+      "assumptions": "300ml soya milk ≈300g (density ≈1g/ml); calorie density supplied."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "inputHash": "8fa41706e9f1752722d6eca9cfc407bb887ed04d600ef1cdc12fd184f5b00342",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:52.985Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 5,
+      "caloriesPer100g": 0,
+      "assumptions": "Modest estimate for 'as required' salt in pasta recipe; standard small pinch to 1 tsp total, using 5g as realistic amount. Calories fixed at 0 per provided known value."
+    },
+    {
+      "position": 5,
+      "grams": 50,
+      "caloriesPer100g": 387,
+      "assumptions": "Grams copied from supplied measurement (50g) and recipe context (50g pecorino). CaloriesPer100g estimated from typical hard sheep cheese values (~387 kcal/100g); matches similar cheeses like Parmesan."
+    },
+    {
+      "position": 6,
+      "grams": 3,
+      "caloriesPer100g": 251,
+      "assumptions": "Modest estimate for 'as required' black pepper; realistic total of ~1-2 tsp ground pepper used in dish. Grams and caloriesPer100g copied exactly from supplied known values."
+    }
+  ]
+}

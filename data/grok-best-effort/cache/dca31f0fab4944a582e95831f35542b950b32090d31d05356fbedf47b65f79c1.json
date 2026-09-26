@@ -1,0 +1,367 @@
+{
+  "inputHash": "dca31f0fab4944a582e95831f35542b950b32090d31d05356fbedf47b65f79c1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:32:01.285Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 360,
+        "proteinG": 8,
+        "fatG": 1.5,
+        "carbsG": 80,
+        "fiberG": 2
+      },
+      "caloriesKcal": 450,
+      "proteinG": 10,
+      "fatG": 1.875,
+      "carbsG": 100,
+      "fiberG": 2.5,
+      "assumptions": "Dry rice noodles; standard dry weight as listed, typical Asian vermicelli-style.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 2.8,
+        "fatG": 0.2,
+        "carbsG": 7.5,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 84,
+      "proteinG": 5.6,
+      "fatG": 0.4,
+      "carbsG": 15,
+      "fiberG": 5.2,
+      "assumptions": "Raw sugar snap peas; full 200g edible weight as listed, typical fresh values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 88.4,
+      "proteinG": 0,
+      "fatG": 10,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp sesame oil ≈ 10g; pure oil, standard density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 19.2,
+      "proteinG": 1.08,
+      "fatG": 0.12,
+      "carbsG": 4.38,
+      "fiberG": 1.56,
+      "assumptions": "4 medium spring onions sliced ≈ 60g total edible portion; typical bunch size and values for raw green onions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 5.75,
+      "proteinG": 0.55,
+      "fatG": 0.125,
+      "carbsG": 0.925,
+      "fiberG": 0.7,
+      "assumptions": "Handful fresh coriander (cilantro) ≈ 25g; typical recipe handful, raw leaves and stems.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 170,
+        "proteinG": 22,
+        "fatG": 8,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 255,
+      "proteinG": 33,
+      "fatG": 12,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Hot smoked flaked salmon; 150g edible weight as listed, typical hot-smoked values (skinless).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 390,
+        "proteinG": 10,
+        "fatG": 3.5,
+        "carbsG": 75,
+        "fiberG": 3
+      },
+      "caloriesKcal": 156,
+      "proteinG": 4,
+      "fatG": 1.4,
+      "carbsG": 30,
+      "fiberG": 1.2,
+      "assumptions": "Pretzels to serve; assumed 1 medium soft pretzel or equivalent roll ≈ 40g per serving for one person, typical values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 6,
+        "fatG": 0.5,
+        "carbsG": 6,
+        "fiberG": 1
+      },
+      "caloriesKcal": 27,
+      "proteinG": 2.7,
+      "fatG": 0.225,
+      "carbsG": 2.7,
+      "fiberG": 0.45,
+      "assumptions": "3 tablespoons soy sauce ≈ 45g (15g per tbsp); standard sodium-reduced or regular, typical values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 304,
+        "proteinG": 0.3,
+        "fatG": 0,
+        "carbsG": 82,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 60.8,
+      "proteinG": 0.06,
+      "fatG": 0,
+      "carbsG": 16.4,
+      "fiberG": 0.04,
+      "assumptions": "1 tablespoon clear honey ≈ 20g; standard density and typical honey values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.4,
+        "fatG": 0.2,
+        "carbsG": 9.3,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 4.35,
+      "proteinG": 0.06,
+      "fatG": 0.03,
+      "carbsG": 1.395,
+      "fiberG": 0.045,
+      "assumptions": "1 tablespoon lemon juice ≈ 15g; fresh squeezed, typical values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon ground nut (peanut) oil ≈ 14g; standard oil density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 7.45,
+      "proteinG": 0.32,
+      "fatG": 0.025,
+      "carbsG": 1.65,
+      "fiberG": 0.105,
+      "assumptions": "1 clove garlic finely chopped ≈ 5g; typical medium clove, raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.8,
+        "fatG": 0.8,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.27,
+      "fatG": 0.12,
+      "carbsG": 2.7,
+      "fiberG": 0.3,
+      "assumptions": "Knob of ginger ≈ 15g; typical small peeled piece used in dressings, raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53245",
+    "name": "Noodle bowl salad",
+    "cuisine": "Vietnamese",
+    "instructions": "step 1\r\nDrop the noodles into a large bowl, then pour over enough boiling water to cover. Tip in the sliced sugar snaps and leave for 4 minutes. Drain in a colander, put under cold running water to cool off, then drain again. Tip into a bowl and toss in the sesame oil.\r\n\r\nstep 2\r\nMix the dressing ingredients. Pile spring onions, coriander and salmon onto the noodles, pour over the dressing and toss everything together. Serve with a pretzel or bread roll.",
+    "ingredients": [
+      { "position": 1, "name": "Rice Noodles", "measurement": "125g" },
+      { "position": 2, "name": "Sugar Snap Peas", "measurement": "200g" },
+      { "position": 3, "name": "Sesame Seed Oil", "measurement": "2 tsp" },
+      { "position": 4, "name": "Spring Onions", "measurement": "4 sliced" },
+      { "position": 5, "name": "Coriander", "measurement": "Handful" },
+      {
+        "position": 6,
+        "name": "Hot Smoked Flaked Salmon",
+        "measurement": "150g"
+      },
+      { "position": 7, "name": "Pretzels", "measurement": "To serve" },
+      { "position": 8, "name": "Soy Sauce", "measurement": "3  tablespoons" },
+      { "position": 9, "name": "Clear Honey", "measurement": "1 tablespoon" },
+      { "position": 10, "name": "Lemon Juice", "measurement": "1 tablespoon" },
+      {
+        "position": 11,
+        "name": "Ground Nut Oil",
+        "measurement": "1 tablespoon"
+      },
+      {
+        "position": 12,
+        "name": "Garlic",
+        "measurement": "1 clove finely chopped"
+      },
+      { "position": 13, "name": "Ginger", "measurement": "Knob" }
+    ]
+  }
+}

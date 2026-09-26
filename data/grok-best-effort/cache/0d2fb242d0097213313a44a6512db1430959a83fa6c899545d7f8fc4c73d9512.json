@@ -1,0 +1,207 @@
+{
+  "inputHash": "0d2fb242d0097213313a44a6512db1430959a83fa6c899545d7f8fc4c73d9512",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:21.488Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 900,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 21,
+        "fatG": 2,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 873,
+      "proteinG": 189,
+      "fatG": 18,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "6 medium sea bass fillets, ~150 g each raw edible portion (skin-on); typical white fish values used",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 42,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 371.28,
+      "proteinG": 0,
+      "fatG": 42,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Total 3 tbsp sunflower oil (1 tbsp for pan + 2 tbsp for aromatics); standard vegetable oil density ~14 g/tbsp",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 24,
+      "proteinG": 0.6,
+      "fatG": 0.21,
+      "carbsG": 5.4,
+      "fiberG": 0.6,
+      "assumptions": "Large knob of fresh ginger (~30 g peeled weight); typical raw ginger values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.5760000000000001,
+      "fatG": 0.045,
+      "carbsG": 2.97,
+      "fiberG": 0.18900000000000003,
+      "assumptions": "3 medium garlic cloves thinly sliced, ~9 g total edible weight; standard raw garlic values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 90,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.4,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 36,
+      "proteinG": 1.8,
+      "fatG": 0.36,
+      "carbsG": 8.1,
+      "fiberG": 1.35,
+      "assumptions": "3 large red chillies shredded, ~30 g each including seeds; typical raw red chili values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 32,
+      "proteinG": 1.8,
+      "fatG": 0.2,
+      "carbsG": 7.3,
+      "fiberG": 2.6,
+      "assumptions": "1 bunch spring onions shredded, ~100 g trimmed edible weight; standard raw scallion values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.5,
+        "fatG": 0.1,
+        "carbsG": 5.2,
+        "fiberG": 0.8
+      },
+      "caloriesKcal": 7.95,
+      "proteinG": 0.825,
+      "fatG": 0.015,
+      "carbsG": 0.78,
+      "fiberG": 0.12,
+      "assumptions": "1 tbsp regular soy sauce (~15 g); typical values for Chinese-style soy sauce",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53247",
+    "name": "Sea bass with sizzled ginger, chilli & spring onions",
+    "cuisine": "Vietnamese",
+    "instructions": "step 1\r\nSeason 6 sea bass fillets with salt and pepper, then slash the skin 3 times.\r\n\r\nstep 2\r\nHeat a heavy-based frying pan and add 1 tbsp sunflower oil.\r\n\r\nstep 3\r\nOnce hot, fry the sea bass fillets, skin-side down, for 5 mins or until the skin is very crisp and golden. The fish will be almost cooked through.\r\n\r\nstep 4\r\nTurn over, cook for another 30 seconds - 1 minute, then transfer to a serving plate and keep warm. You’ll need to fry the sea bass fillets in 2 batches.\r\n\r\nstep 5\r\nHeat 2 tbsp sunflower oil, then fry the large knob of peeled ginger, cut into matchsticks, 3 thinly sliced garlic cloves and 3 thinly shredded red chillies for about 2 mins until golden.\r\n\r\nstep 6\r\nTake off the heat and toss in the bunch of shredded spring onions. Splash the fish with 1 tbsp soy sauce and spoon over the contents of the pan.",
+    "ingredients": [
+      { "position": 1, "name": "Sea Bass Fillets", "measurement": "6" },
+      {
+        "position": 2,
+        "name": "Sunflower Oil",
+        "measurement": "3  tablespoons"
+      },
+      { "position": 3, "name": "Ginger", "measurement": "Knob" },
+      {
+        "position": 4,
+        "name": "Garlic Clove",
+        "measurement": "3 sliced thinly"
+      },
+      { "position": 5, "name": "Red Chilli", "measurement": "3 Large" },
+      { "position": 6, "name": "Spring Onions", "measurement": "Bunch" },
+      { "position": 7, "name": "Soy Sauce", "measurement": "1 tablespoon" }
+    ]
+  }
+}

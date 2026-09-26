@@ -1,0 +1,251 @@
+{
+  "inputHash": "a38ac990d230f84d243e493d8e2f964d44bebcd6de3f161d47d7adfe17ae440c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:59.978Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 750,
+      "per100g": {
+        "caloriesKcal": 110,
+        "proteinG": 7.6,
+        "fatG": 0.7,
+        "carbsG": 19.7,
+        "fiberG": 5.4
+      },
+      "caloriesKcal": 825,
+      "proteinG": 57,
+      "fatG": 5.25,
+      "carbsG": 147.75,
+      "fiberG": 40.50000000000001,
+      "assumptions": "3 cups dry fava/broad beans (standard dried measure ≈250 g per cup); assumes dry weight as recipe starts with soaking overnight, typical for tamiya/falafel; edible portion after soaking and skinning is close to original dry weight for nutrition scaling",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 90,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.2,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 28.8,
+      "proteinG": 1.62,
+      "fatG": 0.18,
+      "carbsG": 6.48,
+      "fiberG": 2.34,
+      "assumptions": "6 spring onions/scallions, average 15 g each trimmed; typical bunch size and recipe context for Egyptian tamiya",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 17.88,
+      "proteinG": 0.7680000000000001,
+      "fatG": 0.06,
+      "carbsG": 3.9720000000000004,
+      "fiberG": 0.252,
+      "assumptions": "4 garlic cloves, average 3 g each peeled; standard household measure",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.7,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 5.4,
+      "proteinG": 0.45,
+      "fatG": 0.105,
+      "carbsG": 0.945,
+      "fiberG": 0.495,
+      "assumptions": "1/4 cup chopped fresh parsley (cilantro in instructions but listed as parsley; assumes flat-leaf parsley); standard volume-to-weight conversion ≈15 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 17.8,
+        "fatG": 22.3,
+        "carbsG": 44.3,
+        "fiberG": 10.9
+      },
+      "caloriesKcal": 15,
+      "proteinG": 0.7120000000000001,
+      "fatG": 0.892,
+      "carbsG": 1.7719999999999998,
+      "fiberG": 0.436,
+      "assumptions": "2 tsp ground cumin; standard teaspoon is ≈2 g each, total 4 g; typical spice density",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 27.7,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 2.12,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1.1079999999999999,
+      "fiberG": 0.008,
+      "assumptions": "1 tsp baking powder; standard teaspoon ≈4 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 318,
+        "proteinG": 12,
+        "fatG": 17.3,
+        "carbsG": 57.4,
+        "fiberG": 27.1
+      },
+      "caloriesKcal": 3.18,
+      "proteinG": 0.12,
+      "fatG": 0.17300000000000001,
+      "carbsG": 0.574,
+      "fiberG": 0.271,
+      "assumptions": "1/2 tsp cayenne pepper; standard 0.5 tsp ≈1 g; typical ground spice density",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 36.4,
+      "proteinG": 1.03,
+      "fatG": 0.1,
+      "carbsG": 7.63,
+      "fiberG": 0.27,
+      "assumptions": "Sprinkling of flour for coating (assumed 10 g total across all patties as light dusting; plausible for 20-30 small 1-inch balls in recipe); standard all-purpose flour",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 530.4,
+      "proteinG": 0,
+      "fatG": 60,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Vegetable oil as required for frying (assumed 60 g / ≈4 tbsp total absorbed across all batches for deep-frying at 1.5+ inches; typical absorption rate 10-15% for falafel-style patties, adjusted for full recipe yield)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53026",
+    "name": "Tamiya",
+    "cuisine": "Egyptian",
+    "instructions": "oak the beans in water to cover overnight.Drain. If skinless beans are unavailable, rub to loosen the skins, then discard the skins. Pat the beans dry with a towel.\r\nGrind the beans in a food mill or meat grinder.If neither appliance is available, process them in a food processor but only until the beans form a paste. (If blended too smoothly, the batter tends to fall apart during cooking.) Add the scallions, garlic, cilantro, cumin, baking powder, cayenne, salt, pepper, and coriander, if using.  Refrigerate for at least 30 minutes.\r\nShape the bean mixture into 1-inch balls.Flatten slightly and coat with flour.\r\nHeat at least 1½-inches of oil over medium heat to 365 degrees.\r\nFry the patties in batches, turning once, until golden brown on all sides, about 5 minutes.Remove with a wire mesh skimmer or slotted spoon. Serve as part of a meze or in pita bread with tomato-cucumber salad and tahina sauce.",
+    "ingredients": [
+      { "position": 1, "name": "Broad Beans", "measurement": "3 cups" },
+      { "position": 2, "name": "Spring Onions", "measurement": "6" },
+      { "position": 3, "name": "Garlic Clove", "measurement": "4" },
+      { "position": 4, "name": "Parsley", "measurement": "1/4 cup" },
+      { "position": 5, "name": "Cumin", "measurement": "2 tsp" },
+      { "position": 6, "name": "Baking Powder", "measurement": "1 tsp" },
+      { "position": 7, "name": "Cayenne Pepper", "measurement": "1/2 tsp" },
+      { "position": 8, "name": "Flour", "measurement": "Spinkling" },
+      { "position": 9, "name": "Vegetable Oil", "measurement": "As required" }
+    ]
+  }
+}

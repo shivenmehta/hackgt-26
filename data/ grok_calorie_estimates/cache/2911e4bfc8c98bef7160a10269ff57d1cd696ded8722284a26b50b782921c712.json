@@ -1,0 +1,51 @@
+{
+  "inputHash": "2911e4bfc8c98bef7160a10269ff57d1cd696ded8722284a26b50b782921c712",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:21:15.016Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 60,
+      "proteinG": 0.5,
+      "fatG": 0.2,
+      "assumptions": "2 tbsp sweet chilli sauce ≈ 30 ml / 40 g; typical values for commercial Thai-style sweet chilli sauce"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 9,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "assumptions": "zest of 1 medium orange ≈ 6 g; negligible macros except minor carbs"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 28,
+      "proteinG": 0.4,
+      "fatG": 0.1,
+      "assumptions": "2 tbsp orange juice ≈ 30 ml from the same orange; typical juice values"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 4,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "assumptions": "1 medium garlic clove crushed ≈ 3 g"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 35,
+      "proteinG": 0.8,
+      "fatG": 2.2,
+      "assumptions": "1 tbsp Thai red curry paste ≈ 15 g; typical commercial paste values"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 1056,
+      "proteinG": 125,
+      "fatG": 56,
+      "assumptions": "8 raw chicken drumsticks with skin and bone ≈ 1100 g total (≈ 137 g each); standard raw values used, skin-on as typical for drumsticks; all 8 contribute to the whole recipe"
+    }
+  ]
+}

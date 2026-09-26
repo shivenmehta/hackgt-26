@@ -1,0 +1,39 @@
+{
+  "inputHash": "64f71cfa57bc867d97e0c17d2fce8b79e37b6e1aab097769ac90b73d46140474",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:05.002Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 30,
+      "caloriesPer100g": 134,
+      "assumptions": "2 tbs sake ≈ 30 ml; density near 1 g/ml. Known value copied."
+    },
+    {
+      "position": 4,
+      "grams": 16,
+      "caloriesPer100g": 364,
+      "assumptions": "2 tbs corn flour (cornstarch) ≈ 16 g (standard 8 g per tablespoon). Calories from standard cornstarch value."
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "caloriesPer100g": null,
+      "assumptions": "1 tsp rice vinegar ≈ 5 g. No reliable calorie density for this low-calorie vinegar in the context; returning null."
+    },
+    {
+      "position": 10,
+      "grams": 60,
+      "caloriesPer100g": 32,
+      "assumptions": "4 chopped spring onions (scallions) ≈ 60 g total (≈15 g per medium onion). Known value copied."
+    },
+    {
+      "position": 12,
+      "grams": 220,
+      "caloriesPer100g": 97,
+      "assumptions": "Canned water chestnuts supplied as 220 g; using typical drained canned water chestnut calorie density."
+    }
+  ]
+}

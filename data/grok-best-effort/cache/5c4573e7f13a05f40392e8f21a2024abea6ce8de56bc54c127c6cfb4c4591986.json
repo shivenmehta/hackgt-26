@@ -1,0 +1,385 @@
+{
+  "inputHash": "5c4573e7f13a05f40392e8f21a2024abea6ce8de56bc54c127c6cfb4c4591986",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:25.419Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 453.6,
+      "per100g": {
+        "caloriesKcal": 177,
+        "proteinG": 24,
+        "fatG": 8,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 802.872,
+      "proteinG": 108.86400000000002,
+      "fatG": 36.288000000000004,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb boneless skinless chicken thighs, raw weight; standard USDA-like values for boneless skinless chicken thighs.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp table salt used in total across recipe (part for chicken, part for vegetables); negligible nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 42,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 371.28,
+      "proteinG": 0,
+      "fatG": 42,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons canola oil total used for cooking chicken, eggs, and vegetables; standard vegetable oil values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 214.5,
+      "proteinG": 19.5,
+      "fatG": 15,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "3 large whole eggs (approx 50g each without shell); standard large egg nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 9,
+        "fiberG": 2
+      },
+      "caloriesKcal": 40,
+      "proteinG": 1,
+      "fatG": 0,
+      "carbsG": 9,
+      "fiberG": 2,
+      "assumptions": "2/3 cup diced onion, approx 100g; standard white onion values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.36,
+      "fatG": 0.03,
+      "carbsG": 1.98,
+      "fiberG": 0.12,
+      "assumptions": "2 cloves garlic minced, approx 6g; standard raw garlic values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 335,
+        "proteinG": 9,
+        "fatG": 13,
+        "carbsG": 72,
+        "fiberG": 13
+      },
+      "caloriesKcal": 13.4,
+      "proteinG": 0.36,
+      "fatG": 0.52,
+      "carbsG": 2.88,
+      "fiberG": 0.52,
+      "assumptions": "2 tsp ground ginger; standard dried ground ginger values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 10,
+        "fiberG": 3
+      },
+      "caloriesKcal": 45.1,
+      "proteinG": 1.1,
+      "fatG": 0,
+      "carbsG": 11,
+      "fiberG": 3.3,
+      "assumptions": "1 large carrot diced, approx 110g raw edible portion; standard carrot values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 81,
+        "proteinG": 5,
+        "fatG": 0.4,
+        "carbsG": 14,
+        "fiberG": 5
+      },
+      "caloriesKcal": 81,
+      "proteinG": 5,
+      "fatG": 0.4,
+      "carbsG": 14,
+      "fiberG": 5,
+      "assumptions": "2/3 cup frozen green peas, approx 100g; standard cooked/frozen pea values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 130,
+        "proteinG": 2.7,
+        "fatG": 0.3,
+        "carbsG": 28,
+        "fiberG": 0.4
+      },
+      "caloriesKcal": 1040,
+      "proteinG": 21.6,
+      "fatG": 2.4,
+      "carbsG": 224,
+      "fiberG": 3.2,
+      "assumptions": "4 cups cooked jasmine rice (leftover/day-old as per instructions); approx 200g per cup cooked; standard cooked white rice values adjusted for jasmine.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 7,
+        "fiberG": 3
+      },
+      "caloriesKcal": 9.6,
+      "proteinG": 0.6,
+      "fatG": 0,
+      "carbsG": 2.1,
+      "fiberG": 0.9,
+      "assumptions": "2 scallions sliced (white + green parts), approx 30g total; standard raw scallion values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 10,
+        "fatG": 14,
+        "carbsG": 60,
+        "fiberG": 0
+      },
+      "caloriesKcal": 3,
+      "proteinG": 0.1,
+      "fatG": 0.14,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp Chinese five-spice powder; typical commercial blend values (cinnamon, clove, etc.).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 38,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 6,
+        "fatG": 0,
+        "carbsG": 6,
+        "fiberG": 1
+      },
+      "caloriesKcal": 22.8,
+      "proteinG": 2.28,
+      "fatG": 0,
+      "carbsG": 2.28,
+      "fiberG": 0.38,
+      "assumptions": "2.5 tbsp regular soy sauce; standard sodium-reduced not assumed, typical values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 44.2,
+      "proteinG": 0,
+      "fatG": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp toasted sesame oil; standard sesame oil values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53367",
+    "name": "Chicken Fried Rice",
+    "cuisine": "Chinese",
+    "instructions": "Fried rice is best made with leftover rice that's at least a day old. Otherwise it becomes gummy in the skillet.\r\nIf you don’t have any leftover rice from the night before, cook a batch of rice and spread it on a large baking sheet or several large plates. Let the rice dry out for about 1 to 2 hours before using it for fried rice.\r\n\r\nRice sticks to the pan very easily, so make sure to use a wok or pan that doesn’t have a sticky surface. I usually cook stir-fries in my seasoned carbon steel wok, but cast iron or nonstick pans work well, too. You might need to add a little more oil if things aren’t releasing easily.\r\n\r\nPrepare the chicken:\r\nChop the chicken into small 1/4-inch to 1/2-inch cubes. Sprinkle 1/2 teaspoon of salt over the chicken and mix to combine. Set the chicken aside for about 10 minutes (I usually use this time to chop all the vegetables).\r\n\r\nScramble the egg:\r\nHeat a wok or large sauté pan over medium-high heat. Swirl in a tablespoon of oil and add the whisked eggs. Use a spatula to quickly scramble the eggs, breaking the curds into smaller pieces as they come together. Transfer the eggs to a plate.\r\n\r\nCook the chicken:\r\nAdd another tablespoon of oil in the wok or pan. Add the chicken and cook for 4 to 5 minutes, stirring occasionally. Turn off the heat and transfer the cooked chicken to a plate.\r\n\r\nUsing your spatula, scrape off any chicken bits that are still stuck to the wok so they don't burn during the next step. You can also use paper towels to wipe down your wok or pan.\r\n\r\nCook the vegetables:\r\nSwirl 1 tablespoon of oil into the wok over medium-high heat. Add the diced onions and cook them for 1 minute, until they start to soften. Mix in the minced garlic and ginger and cook until fragrant, about 30 seconds. Add the diced carrots and cook for 2 minutes, stirring frequently. Add 1/2 teaspoon salt and the peas, and stir to incorporate.\r\n\r\nCook the rice:\r\nAdd the rice to the wok or pan on top of the vegetables and stir to combine. Using the back of your spatula, smash any large chunks of rice to break them apart. Add the white and green parts of the sliced scallions (save the dark green parts) and five-spice powder. Stir to incorporate. If the rice starts to stick to the pan, stir in a little more oil.\r\n\r\nDrizzle the soy sauce and sesame oil over the rice and stir to incorporate. Stir in the cooked chicken, scrambled eggs, and the dark parts of the scallions. Stir briefly to bring it together, and cook for another 1 to 2 minutes.\r\n\r\nServe:\r\nTaste, and add more soy sauce if necessary. Serve immediately.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken Thighs", "measurement": "1 lb" },
+      { "position": 2, "name": "Salt", "measurement": "1 tsp" },
+      { "position": 3, "name": "Canola Oil", "measurement": "3  tablespoons" },
+      { "position": 4, "name": "Egg", "measurement": "3 Large" },
+      { "position": 5, "name": "Onion", "measurement": "2/3 Cup" },
+      { "position": 6, "name": "Garlic", "measurement": "2 cloves minced" },
+      { "position": 7, "name": "Ground Ginger", "measurement": "2 tsp" },
+      { "position": 8, "name": "Carrots", "measurement": "1 large" },
+      { "position": 9, "name": "Peas", "measurement": "2/3 Cup" },
+      { "position": 10, "name": "Jasmine Rice", "measurement": "4 cups" },
+      { "position": 11, "name": "Scallions", "measurement": "2 sliced" },
+      {
+        "position": 12,
+        "name": "Chinese five spice powder",
+        "measurement": "1/2 tsp"
+      },
+      { "position": 13, "name": "Soy Sauce", "measurement": "2.5 tbsp" },
+      { "position": 14, "name": "Sesame Seed Oil", "measurement": "1 tsp" }
+    ]
+  }
+}

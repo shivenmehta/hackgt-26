@@ -1,0 +1,45 @@
+{
+  "inputHash": "ba186b4bb344c10851b01a4da87870559fd4ce31436339364f55bd193de6a64f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:02.271Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 14,
+      "caloriesPer100g": null,
+      "assumptions": "1 tablespoon Shaoxing wine weighs ~14g (standard liquid density for wine/sauce)."
+    },
+    {
+      "position": 5,
+      "grams": 1,
+      "caloriesPer100g": 251,
+      "assumptions": "1/2 tsp ground pepper weighs ~1g (standard density for ground spices)."
+    },
+    {
+      "position": 11,
+      "grams": 3,
+      "caloriesPer100g": 0,
+      "assumptions": "1/2 tsp kosher salt weighs ~3g (standard density for kosher salt)."
+    },
+    {
+      "position": 13,
+      "grams": 15,
+      "caloriesPer100g": 32,
+      "assumptions": "1 spring onion (scallion) is estimated at 15g edible portion (typical whole trimmed weight)."
+    },
+    {
+      "position": 15,
+      "grams": 100,
+      "caloriesPer100g": 71.4,
+      "assumptions": "20 medium shrimp (peeled, deveined, raw) total ~100g edible portion (5g each is realistic for small-medium shrimp)."
+    },
+    {
+      "position": 17,
+      "grams": 360,
+      "caloriesPer100g": 359,
+      "assumptions": "2 cups uncooked jasmine rice weighs ~360g (standard 180g per cup dry rice)."
+    }
+  ]
+}

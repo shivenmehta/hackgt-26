@@ -1,0 +1,63 @@
+{
+  "inputHash": "d7210a748fc1eda40a8ba4ca018d6330525bf1800ff9c520844bb1b39cdaf83e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:36.574Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbsp olive oil = 42 g total; pure oil has no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (110 g), chopped; standard onion carb values"
+    },
+    {
+      "position": 3,
+      "carbsG": 2,
+      "fiberG": 0.1,
+      "assumptions": "2 garlic cloves (6 g), minced; standard garlic carb values"
+    },
+    {
+      "position": 4,
+      "carbsG": 6,
+      "fiberG": 2,
+      "assumptions": "1 medium carrot (61 g), chopped; standard carrot carb values"
+    },
+    {
+      "position": 5,
+      "carbsG": 300,
+      "fiberG": 150,
+      "assumptions": "2 1/4 cups dry French lentils (approx 450 g); standard dry lentil carb/fiber values (all used)"
+    },
+    {
+      "position": 6,
+      "carbsG": 1,
+      "fiberG": 0.6,
+      "assumptions": "1 tsp dried thyme (1 g); standard dried herb carb values"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 bay leaves; negligible carbohydrates"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp table salt (18 g); no carbohydrates"
+    },
+    {
+      "position": 9,
+      "carbsG": 4,
+      "fiberG": 2,
+      "assumptions": "2 celery sticks (80 g), chopped; standard celery carb values"
+    }
+  ]
+}

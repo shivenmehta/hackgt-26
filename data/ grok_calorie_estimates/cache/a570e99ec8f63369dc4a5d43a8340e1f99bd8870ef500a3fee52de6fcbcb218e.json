@@ -1,0 +1,86 @@
+{
+  "inputHash": "a570e99ec8f63369dc4a5d43a8340e1f99bd8870ef500a3fee52de6fcbcb218e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:18:47.116Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 119,
+      "proteinG": 0,
+      "fatG": 13.5,
+      "assumptions": "1 tbsp olive oil = 13.5 g; all oil is used in cooking"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 130,
+      "proteinG": 6.5,
+      "fatG": 0.7,
+      "assumptions": "1/2 medium cabbage ≈ 500 g raw edible portion; assumes green cabbage"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 24,
+      "proteinG": 1,
+      "fatG": 0.2,
+      "assumptions": "1 medium green bell pepper ≈ 120 g chopped"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 44,
+      "proteinG": 1.2,
+      "fatG": 0.2,
+      "assumptions": "1 medium onion ≈ 110 g chopped"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 9,
+      "proteinG": 0.4,
+      "fatG": 0,
+      "assumptions": "2 cloves garlic ≈ 6 g minced"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 345,
+      "proteinG": 38,
+      "fatG": 20,
+      "assumptions": "12 oz canned corned beef (340 g); typical values for canned cooked corned beef, drained weight used"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 28,
+      "proteinG": 1.4,
+      "fatG": 0.3,
+      "assumptions": "2 medium plum (Roma) tomatoes ≈ 150 g chopped"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 3,
+      "proteinG": 0.1,
+      "fatG": 0.1,
+      "assumptions": "2 sprigs fresh thyme ≈ 4 g; modest quantity for seasoning"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 15,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tbsp tomato ketchup ≈ 15 g"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "salt to taste; negligible contribution, cannot be quantified"
+    },
+    {
+      "position": 11,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "pepper to taste; negligible contribution, cannot be quantified"
+    }
+  ]
+}

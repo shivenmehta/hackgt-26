@@ -1,0 +1,199 @@
+{
+  "inputHash": "7c342d2f48b865d12e31919808713854018fdff38adaa8542bfa6534326d4a80",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:40.015Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.3,
+        "carbsG": 17,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 385,
+      "proteinG": 10,
+      "fatG": 1.5,
+      "carbsG": 85,
+      "fiberG": 11,
+      "assumptions": "Raw baby new potatoes, skin on; typical values for new potatoes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 286,
+      "proteinG": 25.2,
+      "fatG": 19,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "4 large whole eggs (approx 50g each edible portion); standard large chicken eggs.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 225,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 69.75,
+      "proteinG": 4.05,
+      "fatG": 0.45,
+      "carbsG": 15.75,
+      "fiberG": 6.075,
+      "assumptions": "Raw trimmed green beans; typical fresh green bean values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 225,
+      "per100g": {
+        "caloriesKcal": 455,
+        "proteinG": 24,
+        "fatG": 38,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1023.75,
+      "proteinG": 54,
+      "fatG": 85.5,
+      "carbsG": 4.5,
+      "fiberG": 0,
+      "assumptions": "Cured Spanish chorizo sausage, typical cured pork values; fully edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "1 medium garlic clove, sliced; approx 3g edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 14,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 4.2,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.21,
+      "fiberG": 0,
+      "assumptions": "2 tbsp sherry vinegar; typical vinegar values, approx 15g per tbsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.8,
+        "carbsG": 6,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 2.88,
+      "proteinG": 0.24,
+      "fatG": 0.064,
+      "carbsG": 0.48,
+      "fiberG": 0.264,
+      "assumptions": "2 tbsp chopped fresh parsley; approx 4g per tbsp, typical fresh herb values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53157",
+    "name": "Chorizo & soft-boiled egg salad",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nCook the potatoes in a large pan of boiling salted water for 12 mins, adding the eggs after 6 mins, and the beans for the final 2 mins. Drain everything and cool the eggs under cold running water.\r\n\r\nstep 2\r\nMeanwhile fry chorizo slices for 1-2 mins, until beginning to crisp. Remove from the pan with a slotted spoon and set aside, leaving the oil from the chorizo in the pan. Add the garlic to the pan and cook gently for 1 min.\r\n\r\nstep 3\r\nRemove the pan from the heat, stir in the vinegar and parsley, then toss with the potatoes, beans, chorizo and seasoning. Shell the eggs, cut into quarters and add to the salad.",
+    "ingredients": [
+      { "position": 1, "name": "Baby New Potatoes", "measurement": "500g" },
+      { "position": 2, "name": "Egg", "measurement": "4" },
+      { "position": 3, "name": "Green Beans", "measurement": "225g" },
+      { "position": 4, "name": "Chorizo", "measurement": "225g" },
+      { "position": 5, "name": "Garlic Clove", "measurement": "1 sliced" },
+      { "position": 6, "name": "Sherry vinegar", "measurement": "2 tbsp" },
+      { "position": 7, "name": "Parsley", "measurement": "2 tbsp chopped" }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "inputHash": "183af42b8abf59bd2f9c756c63dbab01fa5bb07a150a46ece788a730f3bd01df",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:34:48.211Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 342,
+        "proteinG": 12.1,
+        "fatG": 1.3,
+        "carbsG": 75.9,
+        "fiberG": 18.3
+      },
+      "caloriesKcal": 85.5,
+      "proteinG": 3.025,
+      "fatG": 0.325,
+      "carbsG": 18.975,
+      "fiberG": 4.575,
+      "assumptions": "Standard dry bulgur wheat; entire 25g line used in recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 16.6,
+        "fatG": 23.4,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1410,
+      "proteinG": 83,
+      "fatG": 117,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw ground lamb mince, typical 20% fat; entire 500g line used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 17.8,
+        "fatG": 22.3,
+        "carbsG": 44.2,
+        "fiberG": 10.9
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.35600000000000004,
+      "fatG": 0.446,
+      "carbsG": 0.884,
+      "fiberG": 0.218,
+      "assumptions": "Ground cumin; 1 tsp ≈ 2g, typical dried spice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 298,
+        "proteinG": 12.4,
+        "fatG": 17.8,
+        "carbsG": 55,
+        "fiberG": 29.1
+      },
+      "caloriesKcal": 5.96,
+      "proteinG": 0.248,
+      "fatG": 0.35600000000000004,
+      "carbsG": 1.1,
+      "fiberG": 0.5820000000000001,
+      "assumptions": "Ground coriander; 1 tsp ≈ 2g, typical dried spice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14.1,
+        "fatG": 13,
+        "carbsG": 53.9,
+        "fiberG": 34.9
+      },
+      "caloriesKcal": 5.64,
+      "proteinG": 0.282,
+      "fatG": 0.26,
+      "carbsG": 1.078,
+      "fiberG": 0.698,
+      "assumptions": "Paprika; 1 tsp ≈ 2g, typical dried spice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "Raw garlic clove, finely chopped; 1 average clove ≈ 3g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 132.6,
+      "proteinG": 0,
+      "fatG": 15,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Olive oil for frying; estimated 15 ml (≈1 tbsp total absorbed/used for 4 burgers).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9.4,
+        "fatG": 4.2,
+        "carbsG": 49,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 636,
+      "proteinG": 22.56,
+      "fatG": 10.08,
+      "carbsG": 117.6,
+      "fiberG": 6,
+      "assumptions": "4 standard hamburger buns; ≈60g each, typical white bun values, entire line for 4 burgers.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 0.7,
+        "fatG": 0.1,
+        "carbsG": 3.6,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 22.5,
+      "proteinG": 1.05,
+      "fatG": 0.15,
+      "carbsG": 5.4,
+      "fiberG": 0.75,
+      "assumptions": "Grated cucumber for tzatziki; estimated ½ large cucumber ≈150g edible portion after grating.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 9.4,
+        "fatG": 5,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 194,
+      "proteinG": 18.8,
+      "fatG": 10,
+      "carbsG": 7.2,
+      "fiberG": 0,
+      "assumptions": "Plain Greek yogurt; entire 200g line used in tzatziki.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 44,
+        "proteinG": 3.3,
+        "fatG": 0.7,
+        "carbsG": 6.5,
+        "fiberG": 4.1
+      },
+      "caloriesKcal": 4.4,
+      "proteinG": 0.33,
+      "fatG": 0.07,
+      "carbsG": 0.65,
+      "fiberG": 0.41,
+      "assumptions": "Fresh mint leaves; 2 tbsp chopped ≈10g, used in tzatziki and garnish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53010",
+    "name": "Lamb Tzatziki Burgers",
+    "cuisine": "Greek",
+    "instructions": "Tip the bulghar into a pan, cover with water and boil for 10 mins. Drain really well in a sieve, pressing out any excess water.\r\n\r\nTo make the tzatziki, squeeze and discard the juice from the cucumber, then mix into the yogurt with the chopped mint and a little salt.\r\n\r\nWork the bulghar into the lamb with the spices, garlic (if using) and seasoning, then shape into 4 burgers. Brush with a little oil and fry or barbecue for about 5 mins each side until cooked all the way through. Serve in the buns (toasted if you like) with the tzatziki, tomatoes, onion and a few mint leaves.",
+    "ingredients": [
+      { "position": 1, "name": "Bulgur Wheat", "measurement": "25g" },
+      { "position": 2, "name": "Lamb Mince", "measurement": "500g" },
+      { "position": 3, "name": "Cumin", "measurement": "1 tsp" },
+      { "position": 4, "name": "Coriander", "measurement": "1 tsp" },
+      { "position": 5, "name": "Paprika", "measurement": "1 tsp" },
+      {
+        "position": 6,
+        "name": "Garlic",
+        "measurement": "1 clove finely chopped"
+      },
+      { "position": 7, "name": "Olive Oil", "measurement": "For frying" },
+      { "position": 8, "name": "Bun", "measurement": "4" },
+      { "position": 9, "name": "Cucumber", "measurement": "Grated" },
+      { "position": 10, "name": "Greek Yogurt", "measurement": "200g" },
+      { "position": 11, "name": "Mint", "measurement": "2 tbs" }
+    ]
+  }
+}

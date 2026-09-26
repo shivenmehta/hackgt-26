@@ -1,0 +1,337 @@
+{
+  "inputHash": "4af064813a2f61bbc78f10923e2ce275510e9793171aae884fee47feefad8f59",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:23:25.526Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 8,
+        "fatG": 15,
+        "carbsG": 55,
+        "fiberG": 15
+      },
+      "caloriesKcal": 45,
+      "proteinG": 1.2,
+      "fatG": 2.25,
+      "carbsG": 8.25,
+      "fiberG": 2.25,
+      "assumptions": "Typical Cajun seasoning blend; 1 tbsp ≈ 7.5 g, so 2 tbsp = 15 g total. Nutrients based on average commercial Cajun spice mix with salt, paprika, onion, garlic, herbs.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 318,
+        "proteinG": 8,
+        "fatG": 17,
+        "carbsG": 57,
+        "fiberG": 27
+      },
+      "caloriesKcal": 6.36,
+      "proteinG": 0.16,
+      "fatG": 0.34,
+      "carbsG": 1.14,
+      "fiberG": 0.54,
+      "assumptions": "Ground cayenne pepper; 1 tsp ≈ 1.8-2 g. High-fiber spice with typical pepper nutrition values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 110,
+        "proteinG": 23,
+        "fatG": 2,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 660,
+      "proteinG": 138,
+      "fatG": 12,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 typical white fish fillets (e.g. cod, tilapia or pollock); ≈150 g each raw edible portion. Low-fat, high-protein white fish values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 44.2,
+      "proteinG": 0,
+      "fatG": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp vegetable oil for frying; standard cooking oil density ≈0.92 g/ml so ≈4.6 g rounded to 5 g. Pure fat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 320,
+      "per100g": {
+        "caloriesKcal": 290,
+        "proteinG": 8,
+        "fatG": 7,
+        "carbsG": 50,
+        "fiberG": 3
+      },
+      "caloriesKcal": 928,
+      "proteinG": 25.6,
+      "fatG": 22.4,
+      "carbsG": 160,
+      "fiberG": 9.6,
+      "assumptions": "8 standard 6-inch flour tortillas; ≈40 g each based on common package sizes (total 320 g). Typical soft flour tortilla nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 160,
+        "proteinG": 2,
+        "fatG": 15,
+        "carbsG": 9,
+        "fiberG": 7
+      },
+      "caloriesKcal": 240,
+      "proteinG": 3,
+      "fatG": 22.5,
+      "carbsG": 13.5,
+      "fiberG": 10.5,
+      "assumptions": "1 medium avocado (flesh only, sliced); typical edible portion ≈136-170 g. Rounded to 150 g using standard avocado values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 17,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 3,
+        "fiberG": 2
+      },
+      "caloriesKcal": 17,
+      "proteinG": 2,
+      "fatG": 0,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "2 heads little gem lettuce, shredded; typical total edible weight ≈90-120 g. Low-calorie leafy green values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 7,
+        "fiberG": 3
+      },
+      "caloriesKcal": 19.2,
+      "proteinG": 1.2,
+      "fatG": 0,
+      "carbsG": 4.2,
+      "fiberG": 1.8,
+      "assumptions": "4 medium spring onions (green onions), shredded; ≈15 g each trimmed, total 60 g. Standard spring onion nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 35,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 8,
+        "fiberG": 2
+      },
+      "caloriesKcal": 105,
+      "proteinG": 3,
+      "fatG": 0,
+      "carbsG": 24,
+      "fiberG": 6,
+      "assumptions": "1 x 300 ml jar/bottle of prepared tomato salsa; density ≈1 g/ml so 300 g. Typical mild salsa nutrition (low-fat, tomato-based).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 190,
+        "proteinG": 3,
+        "fatG": 18,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 380,
+      "proteinG": 6,
+      "fatG": 36,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "1 standard 200 ml pot of sour cream; density ≈1 g/ml so 200 g. Typical full-fat sour cream values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 9,
+        "fiberG": 3
+      },
+      "caloriesKcal": 29,
+      "proteinG": 1,
+      "fatG": 0,
+      "carbsG": 9,
+      "fiberG": 3,
+      "assumptions": "Juice and some zest from 1 medium lemon; typical whole lemon ≈100-120 g, using edible/juiced portion values for dressing.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6,
+        "fatG": 0,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 7.45,
+      "proteinG": 0.3,
+      "fatG": 0,
+      "carbsG": 1.65,
+      "fiberG": 0.1,
+      "assumptions": "1 clove garlic, finely chopped; typical clove ≈3-6 g, using 5 g average. Standard raw garlic nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52819",
+    "name": "Cajun spiced fish tacos",
+    "cuisine": "Mexican",
+    "instructions": "Cooking in a cajun spice and cayenne pepper marinade makes this fish super succulent and flavoursome. Top with a zesty dressing and serve in a tortilla for a quick, fuss-free main that's delightfully summery.\r\n\r\nOn a large plate, mix the cajun spice and cayenne pepper with a little seasoning and use to coat the fish all over.\r\n\r\nHeat a little oil in a frying pan, add in the fish and cook over a medium heat until golden. Reduce the heat and continue frying until the fish is cooked through, about 10 minutes. Cook in batches if you don’t have enough room in the pan.\r\n\r\nMeanwhile, prepare the dressing by combining all the ingredients with a little seasoning.\r\nSoften the tortillas by heating in the microwave for 5-10 seconds. Pile high with the avocado, lettuce and spring onion, add a spoonful of salsa, top with large flakes of fish and drizzle over the dressing.",
+    "ingredients": [
+      { "position": 1, "name": "cajun", "measurement": "2 tbsp" },
+      { "position": 2, "name": "cayenne pepper", "measurement": "1 tsp" },
+      { "position": 3, "name": "white fish", "measurement": "4 fillets" },
+      { "position": 4, "name": "vegetable oil", "measurement": "1 tsp" },
+      { "position": 5, "name": "flour tortilla", "measurement": "8" },
+      { "position": 6, "name": "avocado", "measurement": "1 sliced" },
+      {
+        "position": 7,
+        "name": "little gem lettuce",
+        "measurement": "2 shredded"
+      },
+      { "position": 8, "name": "Spring Onions", "measurement": "4 shredded" },
+      { "position": 9, "name": "salsa", "measurement": "1 x 300ml" },
+      { "position": 10, "name": "sour cream", "measurement": "1 pot" },
+      { "position": 11, "name": "lemon", "measurement": "1" },
+      {
+        "position": 12,
+        "name": "garlic",
+        "measurement": "1 clove finely chopped"
+      }
+    ]
+  }
+}

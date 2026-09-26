@@ -1,0 +1,277 @@
+{
+  "inputHash": "eb358ccbd3338eae0bbddda5aadf8d2557c8056984088bf2fd9c250133332cd5",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:07.444Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 86,
+        "proteinG": 1.6,
+        "fatG": 0.1,
+        "carbsG": 20.1,
+        "fiberG": 3
+      },
+      "caloriesKcal": 258,
+      "proteinG": 4.8,
+      "fatG": 0.3,
+      "carbsG": 60.3,
+      "fiberG": 9,
+      "assumptions": "2 medium sweet potatoes (about 150g each, raw, with skin); typical for 'dice into 1/2-inch pieces' in a 2-serving sheet-pan recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 182,
+      "per100g": {
+        "caloriesKcal": 52,
+        "proteinG": 0.3,
+        "fatG": 0.2,
+        "carbsG": 13.8,
+        "fiberG": 2.4
+      },
+      "caloriesKcal": 94.64,
+      "proteinG": 0.546,
+      "fatG": 0.364,
+      "carbsG": 25.116,
+      "fiberG": 4.368,
+      "assumptions": "1 medium apple (raw, with skin, cored); standard size for 'halve and core, thinly slice into half-moons'",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 cloves garlic (peeled, raw, finely chopped); ~3g per clove",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 58,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 16.82,
+      "proteinG": 0.638,
+      "fatG": 0.174,
+      "carbsG": 5.394000000000001,
+      "fiberG": 1.6239999999999997,
+      "assumptions": "1 small-to-medium lemon (raw); used for quarters and squeezes, ~58g average edible portion after minor rind loss",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 340,
+      "per100g": {
+        "caloriesKcal": 211,
+        "proteinG": 20.4,
+        "fatG": 13.9,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 717.4,
+      "proteinG": 69.35999999999999,
+      "fatG": 47.26,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 boneless pork chops (raw, ~170g each); standard size for pan-searing in a 2-serving skillet recipe, lean cut like loin",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 196,
+      "per100g": {
+        "caloriesKcal": 17,
+        "proteinG": 1.2,
+        "fatG": 0.3,
+        "carbsG": 3.1,
+        "fiberG": 1
+      },
+      "caloriesKcal": 33.32,
+      "proteinG": 2.352,
+      "fatG": 0.588,
+      "carbsG": 6.0760000000000005,
+      "fiberG": 1.96,
+      "assumptions": "1 medium zucchini (raw, trimmed and sliced into half-moons); typical ~196g whole for roasting in 2-serving recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 1.5,
+        "fatG": 0.5,
+        "carbsG": 1.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0.75,
+      "proteinG": 0.075,
+      "fatG": 0.025,
+      "carbsG": 0.075,
+      "fiberG": 0,
+      "assumptions": "1 chicken stock concentrate (e.g. bouillon cube/packet equivalent for 1 cup liquid); ~5g dry weight typical, used to make ~1/2 cup broth in sauce",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp vegetable oil (for tossing veggies + pan-searing pork); combined total estimated from 'drizzle of oil' uses",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 23.22,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "1 1/2 tsp granulated sugar; ~4.2g per tsp, rounded for recipe total",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81.1,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 200.76,
+      "proteinG": 0.252,
+      "fatG": 22.708,
+      "carbsG": 0.028000000000000004,
+      "fiberG": 0,
+      "assumptions": "2 tbsp butter (total used: 1 tbsp to melt + 1 tbsp stirred in at end); ~14g per tbsp, for 2-serving recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52994",
+    "name": "Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini",
+    "cuisine": "American",
+    "instructions": "Serves 2\r\n\r\n\r\n1. \r\n\r\nAdjust racks to top and middle positions and preheat oven to 450 degrees. Wash and dry all produce. Dice sweet potatoes into 1/2-inch pieces. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast on top rack for 12 minutes (we'll roast the zucchini then). \r\n\r\n\r\n2. \r\n\r\nMeanwhile, halve and core apple; thinly slice into half-moons. Peel and finely chop garlic. Quarter lemon. Trim and halve zucchini lengthwise; cut crosswise into 1/2-inch-thick half-moons. Toss on a second baking sheet with a drizzle of oil and a pinch of salt and pepper. Set aside. \r\n\r\n\r\n3. \r\n\r\nPat pork dry with paper towels and season all over with salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add pork and cook until browned and cooked through, 4-5 minutes per side. Turn off heat; transfer to a plate. \r\n\r\n\r\n4. \r\n\r\nOnce sweet potatoes have roasted 12 minutes, transfer baking sheet with zucchini to middle rack and continue roasting until both veggies are browned and softened, 12-15 minutes more. \r\n\r\n\r\n5. \r\n\r\nMeanwhile, melt 1 TBSP butter (2 TBSP for 4 servings) in pan used for pork over medium-high heat. Add apple and season with salt and pepper. Cook, scraping up any browned bits from bottom of pan, until apple is slightly softened, 2-3 minutes. Add garlic; cook until fragrant, 30 seconds. Add 1/z cup water (3/4 cup for 4), stock concentrate, and 11/2 tsp sugar (3 tsp for 4). Cook, stirring, until sauce has thickened and apple is very tender, 3-5 minutes. Season with salt and pepper. \r\n\r\n\r\n6. \r\n\r\nRemove pan with apple from heat; stir in 1 TBSP butter (2 TBSP for 4 servings) and a squeeze of lemon juice. Divide pork, zucchini, and sweet potatoes between plates. Top pork with glazed apple sauce. Top zucchini with a squeeze of lemon juice.",
+    "ingredients": [
+      { "position": 1, "name": "Potatoes", "measurement": "2" },
+      { "position": 2, "name": "Apples", "measurement": "1" },
+      { "position": 3, "name": "Garlic", "measurement": "2 cloves" },
+      { "position": 4, "name": "Lemon", "measurement": "1" },
+      { "position": 5, "name": "Pork", "measurement": "2" },
+      { "position": 6, "name": "Zucchini", "measurement": "1" },
+      { "position": 7, "name": "Chicken Stock", "measurement": "1" },
+      { "position": 8, "name": "Vegetable Oil", "measurement": "1 tbsp" },
+      { "position": 9, "name": "Sugar", "measurement": "1 1/2 tsp" },
+      { "position": 10, "name": "Butter", "measurement": "2 tbsp" }
+    ]
+  }
+}

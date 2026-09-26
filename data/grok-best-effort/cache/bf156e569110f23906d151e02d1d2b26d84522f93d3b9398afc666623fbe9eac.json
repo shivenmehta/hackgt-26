@@ -1,0 +1,229 @@
+{
+  "inputHash": "bf156e569110f23906d151e02d1d2b26d84522f93d3b9398afc666623fbe9eac",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:25:07.414Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 227,
+      "per100g": {
+        "caloriesKcal": 44,
+        "proteinG": 2.6,
+        "fatG": 0.4,
+        "carbsG": 8.3,
+        "fiberG": 3.8
+      },
+      "caloriesKcal": 99.88,
+      "proteinG": 5.902,
+      "fatG": 0.9080000000000001,
+      "carbsG": 18.841,
+      "fiberG": 8.626,
+      "assumptions": "Standard raw Chinese long beans (yardlong beans); 1/2 lb = 227 g edible portion, typical values for raw green beans adjusted for this variety.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Peanut oil; 1 tablespoon = 14 g, pure fat oil values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 318,
+        "proteinG": 10.6,
+        "fatG": 14.3,
+        "carbsG": 56.7,
+        "fiberG": 24
+      },
+      "caloriesKcal": 38.16,
+      "proteinG": 1.2719999999999998,
+      "fatG": 1.7160000000000002,
+      "carbsG": 6.804000000000001,
+      "fiberG": 2.88,
+      "assumptions": "Dried chillies; 6 typical small dried red chillies ≈ 12 g total edible weight (including seeds), standard dried chili pepper nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 12,
+        "fatG": 15,
+        "carbsG": 60,
+        "fiberG": 25
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.24,
+      "fatG": 0.3,
+      "carbsG": 1.2,
+      "fiberG": 0.5,
+      "assumptions": "Sichuan peppercorns; 1 tsp whole ≈ 2 g, typical values for dried Sichuan pepper.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 1.5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1/4 tsp ≈ 1.5 g, sodium chloride contributes zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 7.74,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "Granulated sugar; 1/2 tsp ≈ 2 g, pure sucrose values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Sesame seed oil; 1 tablespoon = 14 g, pure fat oil values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 6,
+        "fatG": 0.1,
+        "carbsG": 5.5,
+        "fiberG": 0.8
+      },
+      "caloriesKcal": 9,
+      "proteinG": 0.9,
+      "fatG": 0.015,
+      "carbsG": 0.825,
+      "fiberG": 0.12,
+      "assumptions": "Soy sauce; 'splash' assumed as 1 tablespoon (15 g) for stir-fry seasoning, typical light soy sauce values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53371",
+    "name": "Sichuan Style Stir-Fried Chinese Long Beans",
+    "cuisine": "Chinese",
+    "instructions": "Chinese long beans can be found in both green and purple varieties. Both have similar flavors and textures, and either kind can be used for this recipe.\r\nIf you don't have a wok, use a sturdy, large sauté pan that has at least a two-inch lip.",
+    "ingredients": [
+      { "position": 1, "name": "Chinese Long Beans", "measurement": "1/2 lb" },
+      { "position": 2, "name": "Peanut Oil", "measurement": "1 tablespoon" },
+      { "position": 3, "name": "Dried Chillies", "measurement": "6" },
+      { "position": 4, "name": "Sichuan Pepper", "measurement": "1 tsp" },
+      { "position": 5, "name": "Salt", "measurement": "1/4 tsp" },
+      { "position": 6, "name": "Sugar", "measurement": "1/2 tsp" },
+      {
+        "position": 7,
+        "name": "Sesame Seed Oil",
+        "measurement": "1 tablespoon"
+      },
+      { "position": 8, "name": "Soy Sauce", "measurement": "Splash" }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "inputHash": "05c3b951610587e512baea3eeeb43f1376dfea8ed1d4bd7cd7d25e6f5b1f4133",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:19.245Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 280,
+      "per100g": {
+        "caloriesKcal": 371,
+        "proteinG": 13,
+        "fatG": 1.5,
+        "carbsG": 71,
+        "fiberG": 3.5
+      },
+      "caloriesKcal": 1038.8,
+      "proteinG": 36.4,
+      "fatG": 4.2,
+      "carbsG": 198.8,
+      "fiberG": 9.8,
+      "assumptions": "Standard dry durum wheat linguine; values are for uncooked weight as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 2.6,
+        "fatG": 0.2,
+        "carbsG": 7.5,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 84,
+      "proteinG": 5.2,
+      "fatG": 0.4,
+      "carbsG": 15,
+      "fiberG": 5.2,
+      "assumptions": "Raw sugar snap peas; typical package size matches listed 200 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons olive oil (standard 13.5 g per tbsp).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.98,
+      "fiberG": 0.126,
+      "assumptions": "2 average garlic cloves chopped (≈3 g each).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.38,
+      "fatG": 0.08,
+      "carbsG": 1.8,
+      "fiberG": 0.3,
+      "assumptions": "1 large fresh red chili (≈20 g whole, edible portion).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 360,
+      "per100g": {
+        "caloriesKcal": 85,
+        "proteinG": 18,
+        "fatG": 1,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 306,
+      "proteinG": 64.8,
+      "fatG": 3.6,
+      "carbsG": 1.8,
+      "fiberG": 0,
+      "assumptions": "24 medium-large skinned raw king prawns (≈15 g each edible weight).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.8,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 27,
+      "proteinG": 1.2,
+      "fatG": 0.3,
+      "carbsG": 5.85,
+      "fiberG": 1.8,
+      "assumptions": "12 average cherry tomatoes (≈12–13 g each).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.3,
+        "fatG": 0.6,
+        "carbsG": 2.7,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 3.45,
+      "proteinG": 0.345,
+      "fatG": 0.09,
+      "carbsG": 0.405,
+      "fiberG": 0.24,
+      "assumptions": "Handful of fresh basil leaves (typical 10–20 g; used 15 g).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 1.4,
+        "fatG": 0.2,
+        "carbsG": 2.9,
+        "fiberG": 1.3
+      },
+      "caloriesKcal": 15,
+      "proteinG": 1.4,
+      "fatG": 0.2,
+      "carbsG": 2.9,
+      "fiberG": 1.3,
+      "assumptions": "Mixed salad leaves / lettuce for serving (plausible side portion).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 3.2,
+        "carbsG": 49,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 159,
+      "proteinG": 5.4,
+      "fatG": 1.92,
+      "carbsG": 29.4,
+      "fiberG": 1.62,
+      "assumptions": "Warm crusty bread 'to serve' (plausible 2 thin slices / 60 g total).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 130,
+        "proteinG": 7,
+        "fatG": 9,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 39,
+      "proteinG": 2.1,
+      "fatG": 2.7,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons fromage frais (standard 15 g per tbsp).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.14,
+      "fatG": 0.04,
+      "carbsG": 2.1,
+      "fiberG": 0.56,
+      "assumptions": "Grated zest of 2 limes (edible zest only ≈10 g each).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 30.96,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "2 teaspoons caster sugar (standard 4 g per tsp).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52839",
+    "name": "Chilli prawn linguine",
+    "cuisine": "Italian",
+    "instructions": "Mix the dressing ingredients in a small bowl and season with salt and pepper. Set aside.\r\n\r\nCook the pasta according to the packet instructions. Add the sugar snap peas for the last minute or so of cooking time.\r\n\r\nMeanwhile, heat the oil in a wok or large frying pan, toss in the garlic and chilli and cook over a fairly gentle heat for about 30 seconds without letting the garlic brown. Tip in the prawns and cook over a high heat, stirring frequently, for about 3 minutes until they turn pink.\r\n\r\nAdd the tomatoes and cook, stirring occasionally, for 3 minutes until they just start to soften. Drain the pasta and sugar snaps well, then toss into the prawn mixture. Tear in the basil leaves, stir, and season with salt and pepper.\r\n\r\nServe with salad leaves drizzled with the lime dressing, and warm crusty bread.",
+    "ingredients": [
+      { "position": 1, "name": "Linguine Pasta", "measurement": "280g" },
+      { "position": 2, "name": "Sugar Snap Peas", "measurement": "200g" },
+      { "position": 3, "name": "Olive Oil", "measurement": "2 tblsp" },
+      {
+        "position": 4,
+        "name": "Garlic Clove",
+        "measurement": "2 cloves chopped"
+      },
+      { "position": 5, "name": "Red Chilli", "measurement": "1 large" },
+      { "position": 6, "name": "King Prawns", "measurement": "24 Skinned" },
+      { "position": 7, "name": "Cherry Tomatoes", "measurement": "12" },
+      { "position": 8, "name": "Basil Leaves", "measurement": "Handful" },
+      { "position": 9, "name": "Lettuce", "measurement": "Leaves" },
+      { "position": 10, "name": "Bread", "measurement": "to serve" },
+      { "position": 11, "name": "Fromage Frais", "measurement": "2 tbsp" },
+      { "position": 12, "name": "Lime", "measurement": "Grated Zest of 2" },
+      { "position": 13, "name": "Caster Sugar", "measurement": "2 tsp" }
+    ]
+  }
+}

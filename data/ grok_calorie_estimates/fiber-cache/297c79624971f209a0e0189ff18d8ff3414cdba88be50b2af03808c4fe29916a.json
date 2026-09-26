@@ -1,0 +1,81 @@
+{
+  "inputHash": "297c79624971f209a0e0189ff18d8ff3414cdba88be50b2af03808c4fe29916a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:03:20.995Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 770,
+      "fiberG": 11,
+      "assumptions": "1 kg dry basmati rice; standard ~77 g carbs and ~1.1 g fiber per 100 g"
+    },
+    {
+      "position": 2,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "5 cups (~1.2 L) beef stock; typical low-fat broth values scaled to full quantity"
+    },
+    {
+      "position": 3,
+      "carbsG": 21,
+      "fiberG": 4,
+      "assumptions": "2 medium onions (~220 g total raw); standard onion nutrition applied to edible portion"
+    },
+    {
+      "position": 4,
+      "carbsG": 5,
+      "fiberG": 0.3,
+      "assumptions": "5 chopped garlic cloves (~15 g total); standard garlic values"
+    },
+    {
+      "position": 5,
+      "carbsG": 2,
+      "fiberG": 0.4,
+      "assumptions": "2 green chillies (~20 g total); typical fresh chilli nutrition"
+    },
+    {
+      "position": 6,
+      "carbsG": 4,
+      "fiberG": 1.2,
+      "assumptions": "1 small tomato (~80 g raw); standard tomato nutrition"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2.5 tsp salt; no carbohydrates"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbsp neutral oil (~42 g); pure fat with no carbs"
+    },
+    {
+      "position": 9,
+      "carbsG": 2,
+      "fiberG": 0.7,
+      "assumptions": "1.5 tsp turmeric powder; scaled from typical 1 tbsp (9.5 g) values of ~4.4 g carbs and 1.4 g fiber"
+    },
+    {
+      "position": 10,
+      "carbsG": 1,
+      "fiberG": 0.5,
+      "assumptions": "0.5 tsp ground cardamom; typical spice nutrition scaled to small quantity"
+    },
+    {
+      "position": 11,
+      "carbsG": 1,
+      "fiberG": 0.6,
+      "assumptions": "0.5 tsp ground cloves; typical spice nutrition scaled to small quantity"
+    },
+    {
+      "position": 12,
+      "carbsG": 1,
+      "fiberG": 0.5,
+      "assumptions": "0.5 tsp crushed bay leaf; typical spice nutrition scaled to small quantity"
+    }
+  ]
+}

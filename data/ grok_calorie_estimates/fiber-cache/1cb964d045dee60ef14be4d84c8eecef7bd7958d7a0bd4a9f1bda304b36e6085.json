@@ -1,0 +1,75 @@
+{
+  "inputHash": "1cb964d045dee60ef14be4d84c8eecef7bd7958d7a0bd4a9f1bda304b36e6085",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:44.018Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 17,
+      "fiberG": 4.1,
+      "assumptions": "25g dry bulgur wheat (standard dry values; boiled/drained per instructions does not change total carb content)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "500g raw lamb mince (no carbohydrates)"
+    },
+    {
+      "position": 3,
+      "carbsG": 1.7,
+      "fiberG": 0.4,
+      "assumptions": "1 tsp (2g) ground cumin"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.2,
+      "fiberG": 0.9,
+      "assumptions": "1 tsp (2g) ground coriander"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.3,
+      "fiberG": 0.8,
+      "assumptions": "1 tsp (2.3g) paprika"
+    },
+    {
+      "position": 6,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 medium garlic clove (~3g)"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Olive oil for frying (1 tbsp absorbed estimate; pure fat, no carbs)"
+    },
+    {
+      "position": 8,
+      "carbsG": 104,
+      "fiberG": 4,
+      "assumptions": "4 standard 50g white burger buns (typical refined white bun values)"
+    },
+    {
+      "position": 9,
+      "carbsG": 3.6,
+      "fiberG": 0.5,
+      "assumptions": "100g grated cucumber (modest whole cucumber; juice discarded per instructions)"
+    },
+    {
+      "position": 10,
+      "carbsG": 7,
+      "fiberG": 0,
+      "assumptions": "200g plain Greek yogurt (full-fat style; negligible fiber)"
+    },
+    {
+      "position": 11,
+      "carbsG": 0.8,
+      "fiberG": 0.5,
+      "assumptions": "2 tbsp (~6g) chopped fresh mint leaves"
+    }
+  ]
+}

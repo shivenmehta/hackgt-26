@@ -1,0 +1,63 @@
+{
+  "inputHash": "84f7c9e7ec1d3d4f51b53a76cad6844c0b66622297288cbe0b60d8ba5ef7be6c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:32.502Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 112.2,
+      "fiberG": 11.9,
+      "assumptions": "2.5 cups chopped pitted dates ≈ 425 g (170 g/cup); standard date nutrition used"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 cup water = 240 ml, contributes 0 macros"
+    },
+    {
+      "position": 3,
+      "carbsG": 0.4,
+      "fiberG": 0,
+      "assumptions": "1.5 tsp vanilla extract (assumed typo in measurement, not 1.5 cups); ≈ 7.5 ml"
+    },
+    {
+      "position": 4,
+      "carbsG": 108,
+      "fiberG": 16,
+      "assumptions": "2 cups rolled oats ≈ 160 g (80 g/cup); standard rolled oats nutrition used"
+    },
+    {
+      "position": 5,
+      "carbsG": 95,
+      "fiberG": 3.4,
+      "assumptions": "1 cup all-purpose flour ≈ 125 g; standard AP flour nutrition used"
+    },
+    {
+      "position": 6,
+      "carbsG": 216,
+      "fiberG": 0,
+      "assumptions": "1 cup packed brown sugar ≈ 200 g; standard brown sugar nutrition used"
+    },
+    {
+      "position": 7,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp baking powder ≈ 2.5 g"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp salt ≈ 1.5 g, 0 macros"
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 cup unsalted butter = 227 g, 0 carbs"
+    }
+  ]
+}

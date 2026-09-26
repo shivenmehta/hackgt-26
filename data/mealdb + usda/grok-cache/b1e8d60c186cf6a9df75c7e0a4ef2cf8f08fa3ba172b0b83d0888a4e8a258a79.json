@@ -1,0 +1,39 @@
+{
+  "inputHash": "b1e8d60c186cf6a9df75c7e0a4ef2cf8f08fa3ba172b0b83d0888a4e8a258a79",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:44.158Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 15,
+      "caloriesPer100g": 250,
+      "assumptions": "1 tbsp green curry paste is typically 15g; ~250 kcal/100g is realistic for a commercial Thai green curry paste (high in oil/herbs/spices)."
+    },
+    {
+      "position": 3,
+      "grams": 220,
+      "caloriesPer100g": 35,
+      "assumptions": "Measurement already supplied in grams; assumed mixed stir-fry veg (peppers, beansprouts, carrots etc.) at ~35 kcal/100g typical for raw/fresh prepared state before cooking."
+    },
+    {
+      "position": 7,
+      "grams": 250,
+      "caloriesPer100g": 140,
+      "assumptions": "Measurement already supplied in grams; assumed pre-cooked or straight-to-wok udon noodles at ~140 kcal/100g (typical value for this style of soft/wet udon)."
+    },
+    {
+      "position": 10,
+      "grams": 20,
+      "caloriesPer100g": 40,
+      "assumptions": "One medium red chilli sliced is ~20g edible portion; knownCaloriesPer100g copied exactly (typical for fresh chilli)."
+    },
+    {
+      "position": 11,
+      "grams": 15,
+      "caloriesPer100g": 32,
+      "assumptions": "One spring onion sliced is ~15g edible portion; knownCaloriesPer100g copied exactly (typical for fresh spring onion)."
+    }
+  ]
+}

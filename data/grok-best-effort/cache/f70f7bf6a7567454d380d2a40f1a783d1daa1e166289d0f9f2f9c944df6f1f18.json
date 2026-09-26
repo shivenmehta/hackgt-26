@@ -1,0 +1,307 @@
+{
+  "inputHash": "f70f7bf6a7567454d380d2a40f1a783d1daa1e166289d0f9f2f9c944df6f1f18",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:57.186Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 44.2,
+      "proteinG": 0,
+      "fatG": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard vegetable oil; 1 tsp = 4.5-5g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 4,
+        "fatG": 15,
+        "carbsG": 12,
+        "fiberG": 3
+      },
+      "caloriesKcal": 37.5,
+      "proteinG": 0.6,
+      "fatG": 2.25,
+      "carbsG": 1.8,
+      "fiberG": 0.45,
+      "assumptions": "Typical Thai green curry paste nutrition; 1 tbsp ≈ 15g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 35,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 6,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 77,
+      "proteinG": 4.4,
+      "fatG": 1.1,
+      "carbsG": 13.2,
+      "fiberG": 5.5,
+      "assumptions": "Mixed stir-fry vegetables (broccoli, peppers, carrots, etc.); given as 220g, used directly.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 85,
+        "proteinG": 18,
+        "fatG": 1,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 127.5,
+      "proteinG": 27,
+      "fatG": 1.5,
+      "carbsG": 0.75,
+      "fiberG": 0,
+      "assumptions": "Raw king prawns, peeled; given as 150g, used directly (edible portion).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 145,
+      "per100g": {
+        "caloriesKcal": 190,
+        "proteinG": 2,
+        "fatG": 19,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 275.5,
+      "proteinG": 2.9,
+      "fatG": 27.55,
+      "carbsG": 4.35,
+      "fiberG": 0,
+      "assumptions": "Canned full-fat coconut milk; 150ml ≈ 145g (density ≈0.97g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 225,
+      "per100g": {
+        "caloriesKcal": 10,
+        "proteinG": 0.5,
+        "fatG": 0,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 22.5,
+      "proteinG": 1.125,
+      "fatG": 0,
+      "carbsG": 2.25,
+      "fiberG": 0,
+      "assumptions": "Vegetable stock/broth from concentrate or cube; 225ml ≈ 225g, low-calorie.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 140,
+        "proteinG": 5,
+        "fatG": 1,
+        "carbsG": 27,
+        "fiberG": 2
+      },
+      "caloriesKcal": 350,
+      "proteinG": 12.5,
+      "fatG": 2.5,
+      "carbsG": 67.5,
+      "fiberG": 5,
+      "assumptions": "Pre-cooked udon noodles (typical vacuum-packed); given as 250g, used directly.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 4,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 2.3,
+      "proteinG": 0.2,
+      "fatG": 0.05,
+      "carbsG": 0.4,
+      "fiberG": 0.25,
+      "assumptions": "Fresh coriander (cilantro) leaves; given as 10g, used directly.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 3,
+        "fatG": 0.5,
+        "carbsG": 3,
+        "fiberG": 2
+      },
+      "caloriesKcal": 2.3,
+      "proteinG": 0.3,
+      "fatG": 0.05,
+      "carbsG": 0.3,
+      "fiberG": 0.2,
+      "assumptions": "Fresh basil leaves; given as 10g, used directly.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.4,
+      "fatG": 0.1,
+      "carbsG": 1.8,
+      "fiberG": 0.3,
+      "assumptions": "1 medium red chilli, sliced (edible portion ≈20g including seeds).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 7,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 4.8,
+      "proteinG": 0.15,
+      "fatG": 0,
+      "carbsG": 1.05,
+      "fiberG": 0.375,
+      "assumptions": "1 spring onion, sliced (edible portion ≈15g).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53195",
+    "name": "Thai curry noodle soup",
+    "cuisine": "Thai",
+    "instructions": "step 1\r\nHeat the oil in a saucepan over a medium heat and cook the curry paste for 1 min before adding the stir-fry veg and prawns. Cook for 3 mins until the prawns are mostly pink, then add the coconut milk, veg stock and noodles.\r\n\r\nstep 2\r\nBring to the boil, then reduce the heat to a simmer and cook for 5 mins until the noodles are cooked through and the veg is tender but still has a bite. Divide between two bowls and sprinkle over the herbs, chilli and spring onion.",
+    "ingredients": [
+      { "position": 1, "name": "Vegetable Oil", "measurement": "1 teaspoon" },
+      {
+        "position": 2,
+        "name": "Thai Green Curry Paste",
+        "measurement": "1 tbsp"
+      },
+      { "position": 3, "name": "Stir-fry Vegetables", "measurement": "220g" },
+      { "position": 4, "name": "Raw King Prawns", "measurement": "150g" },
+      { "position": 5, "name": "Coconut Milk", "measurement": "150ml" },
+      { "position": 6, "name": "Vegetable Stock", "measurement": "225ml" },
+      { "position": 7, "name": "Udon Noodles", "measurement": "250g" },
+      { "position": 8, "name": "Coriander", "measurement": "10g" },
+      { "position": 9, "name": "Basil", "measurement": "10g" },
+      { "position": 10, "name": "Red Chilli", "measurement": "1 sliced" },
+      { "position": 11, "name": "Spring Onions", "measurement": "1 sliced" }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "inputHash": "de4fff52a0962ace1846247a3cae913149a34538ef794bb50ecb93798cffe491",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:18:54.262Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 1020,
+      "proteinG": 18,
+      "fatG": 2,
+      "assumptions": "300ml sushi rice ≈ 240g uncooked short-grain rice (standard density ~0.8 g/ml); values for uncooked as the base for the whole recipe before any added ingredients."
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 140,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "100ml rice wine (mirin-style) ≈ 136g; typical values for sweetened Japanese rice wine used in sushi seasoning."
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 100,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "2 tbs caster sugar ≈ 25g; standard granulated sugar nutritional values."
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 270,
+      "proteinG": 1,
+      "fatG": 30,
+      "assumptions": "3 tbs mayonnaise ≈ 45g; typical full-fat Japanese/kewpie-style mayo (higher fat than standard)."
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 20,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tbs rice wine (mirin) ≈ 18g; modest quantity for seasoning/dressing element."
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 15,
+      "proteinG": 2,
+      "fatG": 0,
+      "assumptions": "1 tbs soy sauce ≈ 15g; standard fermented soy sauce values."
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 45,
+      "proteinG": 2,
+      "fatG": 0,
+      "assumptions": "1 medium cucumber ≈ 300g whole, edible portion after peeling/seeding for sushi ≈ 200g; modest whole-recipe contribution."
+    }
+  ]
+}

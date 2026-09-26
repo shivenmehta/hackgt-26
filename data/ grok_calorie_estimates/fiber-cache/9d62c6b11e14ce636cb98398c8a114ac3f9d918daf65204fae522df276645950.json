@@ -1,0 +1,81 @@
+{
+  "inputHash": "9d62c6b11e14ce636cb98398c8a114ac3f9d918daf65204fae522df276645950",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:16.612Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 5,
+      "fiberG": 0,
+      "assumptions": "2 tsp cornstarch ≈ 10 g (from prior); nearly all weight is carbohydrate"
+    },
+    {
+      "position": 2,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tbsp dry sherry ≈ 15 ml (from prior); residual sugars only"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp kosher salt ≈ 3 g (from prior); no carbohydrates"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb raw shrimp (edible portion) ≈ 450 g (from prior); pure protein/fat, zero carbs"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp peanut oil (from prior); pure fat, zero carbs"
+    },
+    {
+      "position": 6,
+      "carbsG": 4,
+      "fiberG": 1,
+      "assumptions": "1 tbsp ground ginger ≈ 6 g (from prior); typical dried ginger values"
+    },
+    {
+      "position": 7,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "3 garlic cloves chopped ≈ 9 g (from prior); standard garlic composition"
+    },
+    {
+      "position": 8,
+      "carbsG": 13,
+      "fiberG": 4,
+      "assumptions": "1/2 lb snow peas ≈ 225 g raw (from prior); whole edible pods"
+    },
+    {
+      "position": 9,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 tsp soy sauce ≈ 10 g (from prior); typical low-carb soy values"
+    },
+    {
+      "position": 10,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1/4 cup chicken stock ≈ 60 ml (from prior); low-carb broth estimate"
+    },
+    {
+      "position": 11,
+      "carbsG": 3,
+      "fiberG": 1,
+      "assumptions": "4 scallions ≈ 60 g (from prior); standard scallion values"
+    },
+    {
+      "position": 12,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp sesame seed oil (from prior); pure fat, zero carbs"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "inputHash": "712bdff8febd322a429123a8cf02ff725ffadc1869fe105ffea39ebd8bf50360",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:53.894Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 5,
+      "grams": 61,
+      "caloriesPer100g": 48,
+      "assumptions": "1 medium carrot is approximately 61g edible portion (standard weight for a 6-7 inch peeled carrot)."
+    },
+    {
+      "position": 6,
+      "grams": 45,
+      "caloriesPer100g": 32,
+      "assumptions": "3 chopped scallions (green onions) total ~45g edible portion (about 15g per medium scallion)."
+    },
+    {
+      "position": 7,
+      "grams": 210,
+      "caloriesPer100g": 31.4,
+      "assumptions": "3 cups shredded cabbage weighs ~210g (standard density ~70g per cup for shredded raw cabbage)."
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "caloriesPer100g": null,
+      "assumptions": "1 tablespoon rice vinegar is ~15g by volume; caloriesPer100g left null as known value is null and vinegar is very low calorie (~20 kcal/100g typically)."
+    },
+    {
+      "position": 11,
+      "grams": 10,
+      "caloriesPer100g": 884,
+      "assumptions": "Modest brushing/spraying oil for a batch of 12 egg rolls estimated at 10g total (light application, not deep fry)."
+    },
+    {
+      "position": 12,
+      "grams": null,
+      "caloriesPer100g": 245,
+      "assumptions": "'To serve' is not a quantified recipe ingredient amount; grams left null as no reasonable estimate possible without assuming unstated serving size."
+    },
+    {
+      "position": 13,
+      "grams": null,
+      "caloriesPer100g": 184,
+      "assumptions": "'To serve' is not a quantified recipe ingredient amount; grams left null as no reasonable estimate possible without assuming unstated serving size."
+    },
+    {
+      "position": 14,
+      "grams": null,
+      "caloriesPer100g": 53,
+      "assumptions": "'To serve' is not a quantified recipe ingredient amount; grams left null as no reasonable estimate possible without assuming unstated serving size."
+    }
+  ]
+}

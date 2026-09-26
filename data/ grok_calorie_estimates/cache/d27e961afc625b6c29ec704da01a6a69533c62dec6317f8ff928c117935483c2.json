@@ -1,0 +1,44 @@
+{
+  "inputHash": "d27e961afc625b6c29ec704da01a6a69533c62dec6317f8ff928c117935483c2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:20:17.621Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "Water contributes negligible calories, protein, or fat."
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1/2 tbsp table salt contributes negligible calories, protein, or fat."
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 910,
+      "proteinG": 26,
+      "fatG": 2.5,
+      "assumptions": "2 cups (250g) all-purpose flour, uncooked; standard values ~364 kcal, 10.4g protein, 1g fat per cup."
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tsp table salt contributes negligible calories, protein, or fat."
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1/2 cup (120ml) water contributes negligible calories, protein, or fat."
+    }
+  ]
+}

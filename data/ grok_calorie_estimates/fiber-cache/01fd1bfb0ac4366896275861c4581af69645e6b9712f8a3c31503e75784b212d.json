@@ -1,0 +1,39 @@
+{
+  "inputHash": "01fd1bfb0ac4366896275861c4581af69645e6b9712f8a3c31503e75784b212d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:18.889Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 20.2,
+      "fiberG": 3.7,
+      "assumptions": "2 medium onions ~220g total raw weight; standard onion carb/fiber values"
+    },
+    {
+      "position": 2,
+      "carbsG": 0.6,
+      "fiberG": 0.4,
+      "assumptions": "2-3 fresh thyme sprigs ~5g total; typical fresh thyme carb/fiber per gram"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs = 30ml olive oil; pure fat, zero carbs"
+    },
+    {
+      "position": 4,
+      "carbsG": 270,
+      "fiberG": 33.8,
+      "assumptions": "1.5kg raw potatoes; standard potato carb/fiber values scaled to full raw weight"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.7,
+      "fiberG": 0,
+      "assumptions": "425g light vegetable stock; minimal carbs from vegetables, ~0.4g/100g"
+    }
+  ]
+}

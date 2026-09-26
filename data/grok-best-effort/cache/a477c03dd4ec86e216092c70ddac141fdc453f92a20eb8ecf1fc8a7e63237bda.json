@@ -1,0 +1,229 @@
+{
+  "inputHash": "a477c03dd4ec86e216092c70ddac141fdc453f92a20eb8ecf1fc8a7e63237bda",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:08.790Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 54,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 477.36,
+      "proteinG": 0,
+      "fatG": 54,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard extra virgin olive oil; 1 tbsp = 13.5 g, so 4 tbsp = 54 g total for the recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 900,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 225,
+      "proteinG": 9,
+      "fatG": 1.8,
+      "carbsG": 54,
+      "fiberG": 27,
+      "assumptions": "6 small eggplants total ~900 g edible portion (assuming ~150 g each after trimming minimal stem); cooked in skillet with some water to prevent burning.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 12,
+        "fatG": 10,
+        "carbsG": 40,
+        "fiberG": 15
+      },
+      "caloriesKcal": 24,
+      "proteinG": 0.96,
+      "fatG": 0.8,
+      "carbsG": 3.2,
+      "fiberG": 1.2,
+      "assumptions": "Harissa spice blend (dry); ½ tbsp estimated at ~8 g based on typical density of ground spice mixes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 164,
+        "proteinG": 9,
+        "fatG": 3,
+        "carbsG": 27,
+        "fiberG": 8
+      },
+      "caloriesKcal": 393.6,
+      "proteinG": 21.6,
+      "fatG": 7.2,
+      "carbsG": 64.8,
+      "fiberG": 19.2,
+      "assumptions": "Standard 15-oz can chickpeas, drained weight ~240 g (typical drained yield from 425 g can including liquid).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 4,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 54,
+      "proteinG": 3,
+      "fatG": 0.6,
+      "carbsG": 12,
+      "fiberG": 4.5,
+      "assumptions": "2 cups halved cherry tomatoes ~300 g; assumes typical medium cherry tomatoes halved for the recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 345,
+      "per100g": {
+        "caloriesKcal": 73,
+        "proteinG": 10,
+        "fatG": 0,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 251.85,
+      "proteinG": 34.5,
+      "fatG": 0,
+      "carbsG": 17.25,
+      "fiberG": 0,
+      "assumptions": "Plain nonfat Greek yogurt; 1.5 cups = 345 g (density ~230 g per cup).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 22,
+        "carbsG": 44,
+        "fiberG": 11
+      },
+      "caloriesKcal": 22.5,
+      "proteinG": 1.08,
+      "fatG": 1.32,
+      "carbsG": 2.64,
+      "fiberG": 0.66,
+      "assumptions": "Ground cumin; 1 tbsp ≈ 6 g based on typical spice density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 1,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 10.8,
+      "proteinG": 0.9,
+      "fatG": 0.3,
+      "carbsG": 1.8,
+      "fiberG": 0.9,
+      "assumptions": "Fresh flat-leaf parsley leaves; ½ cup chopped ≈ 30 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52817",
+    "name": "Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt",
+    "cuisine": "American",
+    "instructions": "Heat the oil in a 12-inch skillet over high heat until shimmering. Add the eggplants and lower the heat to medium. Season with salt and pepper as you rotate the eggplants, browning them on all sides. Continue to cook, turning regularly, until a fork inserted into the eggplant meets no resistance (you may have to stand them up on their fat end to finish cooking the thickest parts), about 20 minutes, lowering the heat and sprinkling water into the pan as necessary if the eggplants threaten to burn or smoke excessively.\r\n\r\n2.\r\nMix the harissa, chickpeas and tomatoes together, then add to the eggplants. Cook until the tomatoes have blistered and broken down, about 5 minutes more. Season with salt and pepper and add water as necessary to thin to a saucy consistency. Meanwhile, combine the yogurt and cumin in a serving bowl. Season with salt and pepper.\r\n\r\n3.\r\nTop the eggplant mixture with the parsley, drizzle with more extra virgin olive oil, and serve with the yogurt on the side.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "4 tablespoons" },
+      { "position": 2, "name": "Egg Plants", "measurement": "6 small" },
+      { "position": 3, "name": "Harissa Spice", "measurement": "½ tablespoon" },
+      { "position": 4, "name": "Chickpeas", "measurement": "1 can" },
+      {
+        "position": 5,
+        "name": "Cherry Tomatoes",
+        "measurement": "2 cups halved"
+      },
+      { "position": 6, "name": "Greek yogurt", "measurement": "1 1/2 cups" },
+      { "position": 7, "name": "Ground cumin", "measurement": "1 tablespoon" },
+      { "position": 8, "name": "Parsley", "measurement": "½ cup" }
+    ]
+  }
+}

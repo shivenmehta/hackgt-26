@@ -1,0 +1,33 @@
+{
+  "inputHash": "da91257972d3fd254cdb01567c259a7208e7db8f3a907b4783eb9a8458ba2b26",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:01.440Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 400,
+      "caloriesPer100g": 250,
+      "assumptions": "8 large pork sausages at ~50g each (raw weight); typical British banger density ~250 kcal/100g."
+    },
+    {
+      "position": 2,
+      "grams": 500,
+      "caloriesPer100g": 34.2,
+      "assumptions": "Standard 500g jar of tomato pasta sauce; using supplied knownCaloriesPer100g exactly."
+    },
+    {
+      "position": 4,
+      "grams": 20,
+      "caloriesPer100g": 290,
+      "assumptions": "1 tablespoon black treacle weighs ~20g; typical calorie density for treacle/molasses."
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "caloriesPer100g": 100,
+      "assumptions": "1 teaspoon English mustard weighs ~5g; typical calorie density for prepared mustard."
+    }
+  ]
+}

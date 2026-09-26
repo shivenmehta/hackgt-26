@@ -1,0 +1,329 @@
+{
+  "inputHash": "c2f5f664f33567b344fdc8481b0c1087c6034c5ad09b15517196679e616a07ba",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:25:01.706Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 91,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 38.1,
+      "proteinG": 0.03,
+      "fatG": 0.01,
+      "carbsG": 9.1,
+      "fiberG": 0.09,
+      "assumptions": "2 tsp cornstarch is approximately 10g based on standard density of 5g per teaspoon.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 129,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 3.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 19.35,
+      "proteinG": 0.015,
+      "fatG": 0,
+      "carbsG": 0.495,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon dry sherry is approximately 15g; typical for cooking sherry with low alcohol after evaporation consideration.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp kosher salt is approximately 3g; salt contributes negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 85,
+        "proteinG": 20.4,
+        "fatG": 0.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 385.9,
+      "proteinG": 92.61599999999999,
+      "fatG": 2.7239999999999998,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb raw shrimp (edible portion after peeling assumed in recipe context); typical values for raw shrimp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons peanut oil is approximately 28g based on standard 14g per tablespoon.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 335,
+        "proteinG": 9,
+        "fatG": 13,
+        "carbsG": 71,
+        "fiberG": 13
+      },
+      "caloriesKcal": 20.1,
+      "proteinG": 0.54,
+      "fatG": 0.78,
+      "carbsG": 4.26,
+      "fiberG": 0.78,
+      "assumptions": "1 tablespoon ground ginger is approximately 6g; uses typical ground ginger values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.5760000000000001,
+      "fatG": 0.045,
+      "carbsG": 2.9790000000000005,
+      "fiberG": 0.18900000000000003,
+      "assumptions": "3 cloves chopped garlic is approximately 9g; typical medium clove size of 3g each.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 227,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 2.8,
+        "fatG": 0.2,
+        "carbsG": 7.6,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 95.34,
+      "proteinG": 6.355999999999999,
+      "fatG": 0.45400000000000007,
+      "carbsG": 17.252,
+      "fiberG": 5.902,
+      "assumptions": "1/2 lb snow peas is 227g; typical raw snow pea nutrition applied directly as recipe uses fresh.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.2,
+        "fatG": 0.1,
+        "carbsG": 4.9,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 5.3,
+      "proteinG": 0.52,
+      "fatG": 0.01,
+      "carbsG": 0.49,
+      "fiberG": 0.07,
+      "assumptions": "2 tsp soy sauce is approximately 10g based on standard density of 5g per teaspoon; typical low-sodium values adjusted to average.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 4.2,
+      "proteinG": 0.54,
+      "fatG": 0.12,
+      "carbsG": 0.3,
+      "fiberG": 0,
+      "assumptions": "1/4 cup chicken stock is approximately 60g; typical homemade or low-sodium stock values with low calories.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 1.3
+      },
+      "caloriesKcal": 19.2,
+      "proteinG": 1.08,
+      "fatG": 0.12,
+      "carbsG": 4.38,
+      "fiberG": 0.78,
+      "assumptions": "4 scallions is approximately 60g (15g per medium scallion); typical raw values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 88.4,
+      "proteinG": 0,
+      "fatG": 10,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp sesame oil is approximately 10g based on standard 5g per teaspoon.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53375",
+    "name": "Shrimp With Snow Peas",
+    "cuisine": "Chinese",
+    "instructions": "You can also use sugar snap peas for this recipe. Save prep time by prepping the peas, ginger, and garlic while the shrimp is marinating.\r\n\r\nMarinate the shrimp:\r\nMix all marinade ingredients in a large bowl, then add the shrimp. Toss to coat. Let sit for 15 to 20 minutes while you prep the peas, ginger, and garlic.\r\n\r\nStir-fry the ginger and garlic:\r\nHeat a wok or large sauté pan over high heat for 1 minute. Add the peanut oil and let it get hot, about 30 seconds. Add the ginger and garlic and toss to combine. Stir-fry for about 30 seconds.\r\n\r\nAdd the shrimp, snow peas, soy sauce, stock:\r\nAdd the shrimp and all the marinade to the pan (scrape out all the marinade with a rubber spatula). Add the snow peas, soy sauce and chicken stock. Stir-fry until the shrimp turns pink, about 2 minutes.\r\n\r\nAdd the scallions and finish with sesame oil:\r\nAdd the scallions and stir-fry 1 more minute. Turn off the heat and add the sesame oil. Toss to combine once more and serve with steamed rice.",
+    "ingredients": [
+      { "position": 1, "name": "Cornstarch", "measurement": "2 tsp" },
+      { "position": 2, "name": "Dry sherry", "measurement": "1 tablespoon" },
+      { "position": 3, "name": "Kosher Salt", "measurement": "1/2 tsp" },
+      { "position": 4, "name": "Shrimp", "measurement": "1 lb" },
+      { "position": 5, "name": "Peanut Oil", "measurement": "2 tablespoons" },
+      { "position": 6, "name": "Ground Ginger", "measurement": "1 tablespoon" },
+      { "position": 7, "name": "Garlic", "measurement": "3 cloves Chopped" },
+      { "position": 8, "name": "Snow Peas", "measurement": "1/2 lb" },
+      { "position": 9, "name": "Soy Sauce", "measurement": "2 tsp" },
+      { "position": 10, "name": "Chicken Stock", "measurement": "1/4 cup" },
+      { "position": 11, "name": "Scallions", "measurement": "4" },
+      { "position": 12, "name": "Sesame Seed Oil", "measurement": "2 tsp" }
+    ]
+  }
+}

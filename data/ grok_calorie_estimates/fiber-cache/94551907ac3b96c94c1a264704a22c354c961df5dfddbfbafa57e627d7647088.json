@@ -1,0 +1,93 @@
+{
+  "inputHash": "94551907ac3b96c94c1a264704a22c354c961df5dfddbfbafa57e627d7647088",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:54.209Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "140g unsalted butter - pure fat, no carbs"
+    },
+    {
+      "position": 2,
+      "carbsG": 249,
+      "fiberG": 0,
+      "assumptions": "300g clear honey (~83g carbs/100g)"
+    },
+    {
+      "position": 3,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "100g brown sugar - 100% carbs"
+    },
+    {
+      "position": 4,
+      "carbsG": 285,
+      "fiberG": 9,
+      "assumptions": "375g self-raising flour (~76g carbs/100g, ~2.4g fiber/100g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 4,
+      "fiberG": 1.6,
+      "assumptions": "3 tsp ground ginger (~7g total); ~57g carbs/100g, ~23g fiber/100g"
+    },
+    {
+      "position": 6,
+      "carbsG": 2,
+      "fiberG": 1.3,
+      "assumptions": "1 tsp ground cinnamon (~2.5g); ~80g carbs/100g, ~53g fiber/100g"
+    },
+    {
+      "position": 7,
+      "carbsG": 1,
+      "fiberG": 0.7,
+      "assumptions": "0.5 tsp ground cloves (~1.5g); ~66g carbs/100g, ~45g fiber/100g"
+    },
+    {
+      "position": 8,
+      "carbsG": 0.5,
+      "fiberG": 0.2,
+      "assumptions": "0.25 tsp ground nutmeg (~0.75g); ~65g carbs/100g, ~25g fiber/100g"
+    },
+    {
+      "position": 9,
+      "carbsG": 0.5,
+      "fiberG": 0.4,
+      "assumptions": "0.25 tsp ground pepper (~0.75g); ~66g carbs/100g, ~50g fiber/100g"
+    },
+    {
+      "position": 10,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "3 large eggs (~150g total) - minimal carbs"
+    },
+    {
+      "position": 11,
+      "carbsG": 104,
+      "fiberG": 2,
+      "assumptions": "200g plum jam (~52g carbs/100g, ~1g fiber/100g)"
+    },
+    {
+      "position": 12,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "225ml double cream (~1g carbs/100ml, negligible fiber)"
+    },
+    {
+      "position": 13,
+      "carbsG": 42,
+      "fiberG": 10,
+      "assumptions": "140g dark chocolate (70% cocoa, ~30g carbs/100g, ~7g fiber/100g)"
+    },
+    {
+      "position": 14,
+      "carbsG": 39,
+      "fiberG": 0,
+      "assumptions": "3 tbsp clear honey (~63g total); ~62g carbs/100g"
+    }
+  ]
+}

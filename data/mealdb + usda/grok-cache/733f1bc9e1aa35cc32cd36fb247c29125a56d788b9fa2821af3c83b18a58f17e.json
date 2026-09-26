@@ -1,0 +1,57 @@
+{
+  "inputHash": "733f1bc9e1aa35cc32cd36fb247c29125a56d788b9fa2821af3c83b18a58f17e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:52.063Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 92,
+      "caloriesPer100g": 29,
+      "assumptions": "2 lemons yield ~92g juice total (standard ~46g per lemon); matches supplied knownCaloriesPer100g for lemon juice."
+    },
+    {
+      "position": 4,
+      "grams": 1600,
+      "caloriesPer100g": 144,
+      "assumptions": "16 skinless, boneless chicken thighs at ~100g each (standard edible portion for boneless thighs); matches supplied knownCaloriesPer100g for raw skinless chicken thigh."
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "caloriesPer100g": 884,
+      "assumptions": "Modest brushing amount estimated at ~15g total oil for 16 pieces; matches supplied knownCaloriesPer100g for vegetable oil."
+    },
+    {
+      "position": 6,
+      "grams": 300,
+      "caloriesPer100g": 93.7,
+      "assumptions": "300ml Greek yogurt ≈ 300g (density ~1g/ml); matches supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 7,
+      "grams": 30,
+      "caloriesPer100g": 80,
+      "assumptions": "'Large piece' of ginger ≈ 30g (typical large root segment for marinade); matches supplied knownCaloriesPer100g for raw ginger."
+    },
+    {
+      "position": 8,
+      "grams": 12,
+      "caloriesPer100g": 143,
+      "assumptions": "4 garlic cloves ≈ 12g total (average 3g per clove); matches supplied knownCaloriesPer100g for raw garlic."
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "caloriesPer100g": null,
+      "assumptions": "¾ tsp garam masala ≈ 2g; knownCaloriesPer100g is null so left null (no reasonable density to estimate without data)."
+    },
+    {
+      "position": 10,
+      "grams": 2,
+      "caloriesPer100g": 375,
+      "assumptions": "¾ tsp ground cumin ≈ 2g; matches supplied knownCaloriesPer100g."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "inputHash": "f34e93b3985dbdef51ce6281bb3cc757caee0a7e4e229f606d92ee2dd1910d37",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:07.208Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 17,
+      "fiberG": 2,
+      "assumptions": "1 small potato assumed as 100g raw, peeled, boiled and drained; standard values for boiled potato without skin"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp olive oil = 5ml / ~4.5g; pure oil has zero carbs/fiber"
+    },
+    {
+      "position": 3,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "50g chorizo sausage as-is (typical cured Spanish-style values)"
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "3 medium-large eggs (~50g each edible portion); standard large egg nutrition"
+    },
+    {
+      "position": 5,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "'Chopped parsley' quantity not stated; too small/unspecified to estimate reliably"
+    },
+    {
+      "position": 6,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "25g cheddar cheese as-is; standard values for mature cheddar"
+    }
+  ]
+}

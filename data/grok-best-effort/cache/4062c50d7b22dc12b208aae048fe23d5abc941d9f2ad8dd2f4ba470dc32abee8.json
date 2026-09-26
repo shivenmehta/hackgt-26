@@ -1,0 +1,363 @@
+{
+  "inputHash": "4062c50d7b22dc12b208aae048fe23d5abc941d9f2ad8dd2f4ba470dc32abee8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:23.494Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 180,
+      "per100g": {
+        "caloriesKcal": 480,
+        "proteinG": 5,
+        "fatG": 11,
+        "carbsG": 82,
+        "fiberG": 3
+      },
+      "caloriesKcal": 864,
+      "proteinG": 9,
+      "fatG": 19.8,
+      "carbsG": 147.6,
+      "fiberG": 5.4,
+      "assumptions": "Standard graham cracker crumbs; ~120g per cup, typical nutrition for sweetened crumbs.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.1,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 609.45,
+      "proteinG": 0.085,
+      "fatG": 68.85,
+      "carbsG": 0.085,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter, melted; standard density ~14g per tablespoon, 6 tbsp = 84-85g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 387,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "Granulated white sugar; 1/2 cup = 100g exactly by standard measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 1.3,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 1.2,
+        "carbsG": 81,
+        "fiberG": 53
+      },
+      "caloriesKcal": 3.2110000000000003,
+      "proteinG": 0.052000000000000005,
+      "fatG": 0.015600000000000001,
+      "carbsG": 1.053,
+      "fiberG": 0.6890000000000001,
+      "assumptions": "Ground cinnamon; 1/2 tsp ≈ 1.3g, typical spice nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 610,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 256.2,
+      "proteinG": 20.74,
+      "fatG": 6.1,
+      "carbsG": 30.5,
+      "fiberG": 0,
+      "assumptions": "Whole milk; 2.5 cups = 610g (standard 244g per cup).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 387,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "Granulated white sugar for filling; 1/2 cup = 100g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 32,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0,
+        "carbsG": 91,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 121.92,
+      "proteinG": 0.096,
+      "fatG": 0,
+      "carbsG": 29.12,
+      "fiberG": 0.28800000000000003,
+      "assumptions": "Cornstarch; 1/4 cup = 32g by standard measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 51,
+      "per100g": {
+        "caloriesKcal": 317,
+        "proteinG": 16,
+        "fatG": 27,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 161.67,
+      "proteinG": 8.16,
+      "fatG": 13.77,
+      "carbsG": 1.8359999999999999,
+      "fiberG": 0,
+      "assumptions": "Large egg yolks; 3 yolks ≈ 51g (17g each).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 4.2,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 12,
+        "fiberG": 0
+      },
+      "caloriesKcal": 12.096000000000002,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.504,
+      "fiberG": 0,
+      "assumptions": "Pure vanilla extract; 1 tsp ≈ 4.2g, alcohol-based.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 1.5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1/4 tsp ≈ 1.5g, negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 99,
+      "per100g": {
+        "caloriesKcal": 52,
+        "proteinG": 11,
+        "fatG": 0.2,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 51.48,
+      "proteinG": 10.89,
+      "fatG": 0.198,
+      "carbsG": 0.693,
+      "fiberG": 0,
+      "assumptions": "Egg whites from large eggs; 3 whites ≈ 99g (33g each).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 193.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 50,
+      "fiberG": 0,
+      "assumptions": "Granulated white sugar for meringue; 1/4 cup = 50g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 0.8,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Cream of tartar; 1/4 tsp ≈ 0.8g, negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53341",
+    "name": "Flapper Pie",
+    "cuisine": "Canadian",
+    "instructions": "Preheat the oven to 350˚F.\r\nMix all the crust ingredients (graham cracker crumbs, melted butter, granulated sugar and ground cinnamon) in a medium bowl. Set aside about 2 Tbsp (30 mL) for later and press the mixture into a 9-inch deep-dish pie plate in the bottom and up the sides. Bake crust for 10 minutes, it will only brown slightly.\r\nCombine the vanilla custard filling ingredients (milk, granulated sugar, cornstarch, egg yolks, vanilla extract and salt together) and cook on medium heat, stirring constantly, until it bubbles and thickens to the texture of pudding. Set aside to cool while you make the meringue topping.\r\nIn the bowl of a stand mixer fitted with the beater attachment or in a large bowl using an electric mixer beat the meringue ingredients (egg whites, granulated sugar, cream of tartar) together until it holds stiff and glossy peaks.\r\nTo assemble the pie, pour the filling into the crust and top with a thick layer of the meringue, making little spikes that will brown on top. Sprinkle the reserved crumb over the top and place it into the preheated oven.\r\nBake until the meringue browns, around 10 minutes, making sure to watch it carefully.\r\nChill in the fridge and eat within a few hours of baking. This pie is best eaten the same day as the meringue will soften and liquify.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Graham Cracker Crumbs",
+        "measurement": "1 1/2 cups"
+      },
+      {
+        "position": 2,
+        "name": "Melted Butter",
+        "measurement": "6 tablespoons"
+      },
+      { "position": 3, "name": "Sugar", "measurement": "1/2 cup" },
+      { "position": 4, "name": "Ground Cinnamon", "measurement": "1/2 tsp" },
+      { "position": 5, "name": "Milk", "measurement": "2 1/2 cups" },
+      { "position": 6, "name": "Sugar", "measurement": "1/2 cup" },
+      { "position": 7, "name": "Cornstarch", "measurement": "1/4 cup" },
+      { "position": 8, "name": "Egg Yolks", "measurement": "3" },
+      { "position": 9, "name": "Vanilla Extract", "measurement": "1 tsp" },
+      { "position": 10, "name": "Salt", "measurement": "1/4 tsp" },
+      { "position": 11, "name": "Egg White", "measurement": "3" },
+      { "position": 12, "name": "Sugar", "measurement": "1/4 cup" },
+      { "position": 13, "name": "Cream Of Tartar", "measurement": "1/4 tsp" }
+    ]
+  }
+}

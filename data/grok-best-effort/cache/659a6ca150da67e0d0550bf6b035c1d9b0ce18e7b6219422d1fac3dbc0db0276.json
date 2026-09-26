@@ -1,0 +1,203 @@
+{
+  "inputHash": "659a6ca150da67e0d0550bf6b035c1d9b0ce18e7b6219422d1fac3dbc0db0276",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:04.604Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 320,
+      "per100g": {
+        "caloriesKcal": 420,
+        "proteinG": 6,
+        "fatG": 29,
+        "carbsG": 36,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 1344,
+      "proteinG": 19.2,
+      "fatG": 92.8,
+      "carbsG": 115.2,
+      "fiberG": 4.8,
+      "assumptions": "Standard all-butter puff pastry; values for uncooked sheet as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 52,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 197.6,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 50.96,
+      "fiberG": 0,
+      "assumptions": "Dark brown soft sugar; 1 tbsp ≈ 13 g, total 4 tbsp used across recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 52,
+        "proteinG": 0.3,
+        "fatG": 0.2,
+        "carbsG": 14,
+        "fiberG": 2.4
+      },
+      "caloriesKcal": 234,
+      "proteinG": 1.35,
+      "fatG": 0.9,
+      "carbsG": 63,
+      "fiberG": 10.8,
+      "assumptions": "Medium Braeburn apples; average whole edible weight after peel/core ≈ 150 g each, total for 3 apples.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 260,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 65,
+        "fiberG": 0
+      },
+      "caloriesKcal": 208,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 52,
+      "fiberG": 0,
+      "assumptions": "Red wine jelly made earlier in recipe; 1 tbsp ≈ 20 g, using 4 tbsp total for glazing.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 98,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2.5,
+        "fatG": 35,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 333.2,
+      "proteinG": 2.45,
+      "fatG": 34.3,
+      "carbsG": 2.94,
+      "fiberG": 0,
+      "assumptions": "Full-fat crème fraîche; 100 ml ≈ 98 g density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 97,
+        "fiberG": 0
+      },
+      "caloriesKcal": 30.96,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 7.76,
+      "fiberG": 0,
+      "assumptions": "Powdered icing sugar; 1 tbsp ≈ 8 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 311,
+        "proteinG": 11,
+        "fatG": 7,
+        "carbsG": 68,
+        "fiberG": 28
+      },
+      "caloriesKcal": 18.66,
+      "proteinG": 0.66,
+      "fatG": 0.42,
+      "carbsG": 4.08,
+      "fiberG": 1.68,
+      "assumptions": "Ground cardamom pods/seeds; 3 pods yield ≈ 2 g seeds but scaled to typical 6 g total measurable amount for sifting into crème.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52910",
+    "name": "Chinon Apple Tarts",
+    "cuisine": "French",
+    "instructions": "To make the red wine jelly, put the red wine, jam sugar, star anise, clove, cinnamon stick, allspice, split vanilla pod and seeds in a medium saucepan. Stir together, then heat gently to dissolve the sugar. Turn up the heat and boil for 20 mins until reduced and syrupy. Strain into a small, sterilised jam jar and leave to cool completely. Will keep in the fridge for up to 1 month.\r\n\r\nTake the pastry out of the fridge and leave at room temperature for 10 mins, then unroll. Heat the grill to high and heat the oven to 180C/160C fan/gas 4. Cut out 2 x 13cm circles of pastry, using a plate as a guide, and place on a non-stick baking sheet. Sprinkle each circle with 1 tbsp sugar and grill for 5 mins to caramelise, watching carefully so that the sugar doesn’t burn. Remove from the grill. Can be done a few hours ahead, and left, covered, out of the fridge.\r\n\r\nPeel, quarter and core the apples, cut into 2mm-thin slices and arrange on top of the pastry. Sprinkle over the remaining sugar and pop in the oven for 20-25 mins until the pastry is cooked through and golden, and the apples are softened. Remove and allow to cool slightly. Warm 3 tbsp of the red wine jelly in a small pan over a low heat with 1 tsp water to make it a little more runny, then brush over the top of the tarts.\r\n\r\nTip the crème fraîche into a bowl, sift over the icing sugar and cardamom, and mix together. Carefully lift the warm tarts onto serving plates and serve with the cardamom crème fraîche.",
+    "ingredients": [
+      { "position": 1, "name": "Puff Pastry", "measurement": "320g" },
+      {
+        "position": 2,
+        "name": "Dark Brown Soft Sugar",
+        "measurement": "4 tbs"
+      },
+      { "position": 3, "name": "Braeburn Apples", "measurement": "3" },
+      { "position": 4, "name": "Red Wine Jelly", "measurement": "4 tbs" },
+      { "position": 5, "name": "Creme Fraiche", "measurement": "100ml" },
+      { "position": 6, "name": "Icing Sugar", "measurement": "1 tbs" },
+      { "position": 7, "name": "Cardamom", "measurement": "3" }
+    ]
+  }
+}

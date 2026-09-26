@@ -1,0 +1,277 @@
+{
+  "inputHash": "5cc619dbfce09698ef975ab60845684a08e2e24cbf754d1d3bf5912be9f19052",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:35:19.796Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 910,
+      "proteinG": 25.75,
+      "fatG": 2.5,
+      "carbsG": 190.75,
+      "fiberG": 6.75,
+      "assumptions": "Standard all-purpose flour; 1 cup ≈ 125 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 418,
+      "proteinG": 0.11,
+      "fatG": 0,
+      "carbsG": 107.8,
+      "fiberG": 0,
+      "assumptions": "Packed brown sugar; 1/2 cup ≈ 110 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 27.7,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 5.3,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 2.77,
+      "fiberG": 0.02,
+      "assumptions": "Double-acting baking powder; 2 tsp ≈ 10 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 335,
+        "proteinG": 9,
+        "fatG": 4.2,
+        "carbsG": 71.6,
+        "fiberG": 14.1
+      },
+      "caloriesKcal": 6.7,
+      "proteinG": 0.18,
+      "fatG": 0.084,
+      "carbsG": 1.432,
+      "fiberG": 0.282,
+      "assumptions": "Ground ginger; 1 tsp ≈ 2 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 263,
+        "proteinG": 4.6,
+        "fatG": 8.7,
+        "carbsG": 55.3,
+        "fiberG": 21.6
+      },
+      "caloriesKcal": 5.26,
+      "proteinG": 0.092,
+      "fatG": 0.174,
+      "carbsG": 1.1059999999999999,
+      "fiberG": 0.43200000000000005,
+      "assumptions": "Ground allspice; 1 tsp ≈ 2 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 2.6,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 1.2,
+        "carbsG": 80.6,
+        "fiberG": 53.1
+      },
+      "caloriesKcal": 6.422000000000001,
+      "proteinG": 0.10400000000000001,
+      "fatG": 0.031200000000000002,
+      "carbsG": 2.0956,
+      "fiberG": 1.3806,
+      "assumptions": "Ground cinnamon; 1 tsp ≈ 2.6 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 145,
+      "per100g": {
+        "caloriesKcal": 299,
+        "proteinG": 3.1,
+        "fatG": 0.5,
+        "carbsG": 79.2,
+        "fiberG": 3.7
+      },
+      "caloriesKcal": 433.55,
+      "proteinG": 4.495,
+      "fatG": 0.725,
+      "carbsG": 114.84,
+      "fiberG": 5.365,
+      "assumptions": "Seedless raisins; 1 cup ≈ 145 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81.1,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 537.75,
+      "proteinG": 0.675,
+      "fatG": 60.825,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter melted; 1/3 cup ≈ 75 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 160,
+      "per100g": {
+        "caloriesKcal": 290,
+        "proteinG": 0,
+        "fatG": 0.1,
+        "carbsG": 74.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 464,
+      "proteinG": 0,
+      "fatG": 0.16,
+      "carbsG": 119.52,
+      "fiberG": 0,
+      "assumptions": "Unsulphured molasses; 1/2 cup ≈ 160 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Tap water; 1 tablespoon ≈ 15 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53342",
+    "name": "Figgy Duff",
+    "cuisine": "Canadian",
+    "instructions": "In a medium bowl, whisk together flour, brown sugar, baking powder, and spices.\r\nAdd raisins and stir well, making sure to coat the raisins in the flour mixture.\r\nAdd melted butter, molasses and water and mix with a wooden spoon. Form a ball with the spoon or your hands and put the dough ball in a cotton pudding bag. Tie the bag, leaving at least 1 inch of room to allow the pudding to expand while cooking.\r\nBoil pudding for 1.5 hours. (In NL, this is typically done in the pot along with Jiggs Dinner, but it can be done independently.)\r\nWhen the duff is firm, remove it from the boiling water and let it cool slightly before removing it from the pudding bag.\r\nSlice pudding like a cake and serve with the warm sauce of your choice: rum butter sauce, warmed molasses or Molasses Coady sauce (1 cup (250 mL) molasses, 1/4 cup (60 mL) butter, 1/4 cup (60 mL) water) is common in Newfoundland.",
+    "ingredients": [
+      { "position": 1, "name": "All purpose flour", "measurement": "2 cups" },
+      { "position": 2, "name": "Brown Sugar", "measurement": "1/2 cup" },
+      { "position": 3, "name": "Baking Powder", "measurement": "2 tsp" },
+      { "position": 4, "name": "Ginger", "measurement": "1 tsp" },
+      { "position": 5, "name": "Allspice", "measurement": "1 tsp" },
+      { "position": 6, "name": "Cinnamon", "measurement": "1 tsp" },
+      { "position": 7, "name": "Raisins", "measurement": "1 cup" },
+      { "position": 8, "name": "Melted Butter", "measurement": "1/3 cup" },
+      { "position": 9, "name": "Molasses", "measurement": "1/2 cup" },
+      { "position": 10, "name": "Water", "measurement": "1 tablespoon" }
+    ]
+  }
+}

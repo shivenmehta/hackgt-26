@@ -1,0 +1,30 @@
+{
+  "inputHash": "b48d9637789d559abd8bd749842ab9da249b5c85a58415abffa45830654d6106",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:14:58.979Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 160,
+      "proteinG": 6,
+      "fatG": 2,
+      "assumptions": "2 standard medium slices white bread (~50 g total); values for plain white bread."
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 140,
+      "proteinG": 12,
+      "fatG": 10,
+      "assumptions": "2 large whole eggs (~100 g total, raw/edible portion)."
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "0.5 tsp table salt (~3 g); negligible calories/macros."
+    }
+  ]
+}

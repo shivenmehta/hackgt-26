@@ -1,0 +1,105 @@
+{
+  "inputHash": "29f60c0ea99b801ce6706c908bb3cd44f10d6f6f74b2d2b74979b5d74a36deaf",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:03:22.817Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1.2 kg raw chicken with skin and bone (plain meat has no carbs)"
+    },
+    {
+      "position": 2,
+      "carbsG": 55,
+      "fiberG": 10,
+      "assumptions": "5 medium onions ≈ 750 g total raw weight, thinly sliced"
+    },
+    {
+      "position": 3,
+      "carbsG": 13,
+      "fiberG": 4,
+      "assumptions": "2 medium tomatoes ≈ 250 g total raw weight, finely chopped"
+    },
+    {
+      "position": 4,
+      "carbsG": 8,
+      "fiberG": 1,
+      "assumptions": "8 garlic cloves ≈ 24 g total, chopped"
+    },
+    {
+      "position": 5,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "1 tbsp ginger paste ≈ 15 g"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "¼ cup (60 ml) vegetable oil (pure fat)"
+    },
+    {
+      "position": 7,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "2 tsp (4 g) whole cumin seeds"
+    },
+    {
+      "position": 8,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "3 tsp (6 g) whole coriander seeds"
+    },
+    {
+      "position": 9,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "1 tsp (2 g) turmeric powder"
+    },
+    {
+      "position": 10,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "1 tsp (3 g) chilli powder"
+    },
+    {
+      "position": 11,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "2 green chillies ≈ 20 g total"
+    },
+    {
+      "position": 12,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 cup (245 g) plain yogurt, full-fat"
+    },
+    {
+      "position": 13,
+      "carbsG": 7,
+      "fiberG": 0,
+      "assumptions": "¾ cup (180 ml) heavy cream"
+    },
+    {
+      "position": 14,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "3 tsp (3 g) dried fenugreek leaves (kasuri methi)"
+    },
+    {
+      "position": 15,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tsp (2 g) garam masala"
+    },
+    {
+      "position": 16,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Salt to taste cannot be reasonably quantified for carbohydrates/fiber"
+    }
+  ]
+}

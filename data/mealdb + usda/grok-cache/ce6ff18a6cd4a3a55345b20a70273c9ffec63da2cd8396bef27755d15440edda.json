@@ -1,0 +1,51 @@
+{
+  "inputHash": "ce6ff18a6cd4a3a55345b20a70273c9ffec63da2cd8396bef27755d15440edda",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:52.211Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 6,
+      "grams": 150,
+      "caloriesPer100g": 148,
+      "assumptions": "Standard medium egg without shell is ~50g each; 3 eggs total 150g edible portion. Value matches supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 8,
+      "grams": 1.25,
+      "caloriesPer100g": 400,
+      "assumptions": "1/4 tsp almond extract weighs ~1.25g (standard density ~5g/tsp for extracts). Calories estimated from typical pure almond extract values."
+    },
+    {
+      "position": 14,
+      "grams": 150,
+      "caloriesPer100g": 148,
+      "assumptions": "Standard medium egg without shell is ~50g each; 3 eggs total 150g edible portion. Value matches supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 16,
+      "grams": 1.25,
+      "caloriesPer100g": 400,
+      "assumptions": "1/4 tsp almond extract weighs ~1.25g (standard density ~5g/tsp for extracts). Calories estimated from typical pure almond extract values."
+    },
+    {
+      "position": 17,
+      "grams": 2.5,
+      "caloriesPer100g": 0,
+      "assumptions": "1/2 tsp food colouring weighs ~2.5g (standard density ~5g/tsp for liquids). Negligible calories as it is primarily water/dye."
+    },
+    {
+      "position": 19,
+      "grams": 1000,
+      "caloriesPer100g": 450,
+      "assumptions": "Measurement is exactly 1kg as supplied; this is the full block used for covering (recipe uses two blocks but lists 1kg total here). Calories estimated from typical marzipan (almond paste/sugar mix)."
+    },
+    {
+      "position": 20,
+      "grams": 10,
+      "caloriesPer100g": 389,
+      "assumptions": "Dusting for rolling surface; modest estimate of 10g actually adheres/used. Value matches supplied knownCaloriesPer100g (pure icing sugar)."
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "inputHash": "f617d4eb6b426d460af604879065d9b20737f032cdee4e367c9b3c0e6cbd2a47",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:57.610Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17.5,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 349.58,
+      "proteinG": 9.08,
+      "fatG": 0.45400000000000007,
+      "carbsG": 79.45,
+      "fiberG": 9.988000000000001,
+      "assumptions": "New potatoes, raw, unpeeled weight; typical values for small red or white new potatoes",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 186.14,
+      "proteinG": 4.086,
+      "fatG": 0.9080000000000001,
+      "carbsG": 43.583999999999996,
+      "fiberG": 12.711999999999998,
+      "assumptions": "Carrots, raw, peeled weight; standard value for fresh carrots",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.1,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 38.75,
+      "proteinG": 2.25,
+      "fatG": 0.25,
+      "carbsG": 8.875,
+      "fiberG": 3.375,
+      "assumptions": "Green beans, raw, trimmed; 1 cup chopped/sliced is approximately 125g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 67,
+      "per100g": {
+        "caloriesKcal": 81,
+        "proteinG": 5.4,
+        "fatG": 0.4,
+        "carbsG": 14.5,
+        "fiberG": 5.1
+      },
+      "caloriesKcal": 54.27,
+      "proteinG": 3.6180000000000003,
+      "fatG": 0.268,
+      "carbsG": 9.715,
+      "fiberG": 3.417,
+      "assumptions": "Green peas, fresh or frozen; 1/2 cup is approximately 67g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 43,
+        "proteinG": 3.5,
+        "fatG": 1.1,
+        "carbsG": 7,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 1.29,
+      "proteinG": 0.105,
+      "fatG": 0.033,
+      "carbsG": 0.21,
+      "fiberG": 0.063,
+      "assumptions": "Fresh dill weed; 1 tablespoon chopped is approximately 3g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 3.3,
+        "fatG": 0.7,
+        "carbsG": 4.4,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 0.9,
+      "proteinG": 0.09899999999999999,
+      "fatG": 0.020999999999999998,
+      "carbsG": 0.132,
+      "fiberG": 0.075,
+      "assumptions": "Fresh chives; 1 tablespoon chopped is approximately 3g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 732,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 307.44,
+      "proteinG": 24.887999999999998,
+      "fatG": 7.32,
+      "carbsG": 36.6,
+      "fiberG": 0,
+      "assumptions": "Whole milk; 3 US cups = 732g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 119,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2,
+        "fatG": 36.7,
+        "carbsG": 2.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 404.6,
+      "proteinG": 2.38,
+      "fatG": 43.673,
+      "carbsG": 3.4509999999999996,
+      "fiberG": 0,
+      "assumptions": "Heavy cream (36-40% fat); 1/2 US cup = 119g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 114,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81.1,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 817.38,
+      "proteinG": 1.026,
+      "fatG": 92.454,
+      "carbsG": 0.114,
+      "fiberG": 0,
+      "assumptions": "Butter; 1/2 US cup (1 stick) = 114g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1/2 tsp ≈ 3g, contributes negligible macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 0.6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Ground black pepper; 1/4 tsp ≈ 0.6g, contributes negligible macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53340",
+    "name": "Hodge Podge",
+    "cuisine": "Canadian",
+    "instructions": "First, cook your vegetables. Bring a large pot of salted water to boil. Par-cook carrots and potatoes for five minutes until carrots and potatoes are fork tender, then blanch the peas and beans for about a minute in the same pot. Strain vegetables and set aside.\r\nIn a heavy-bottomed pot or Dutch oven, melt butter over medium heat, add vegetables, and cook to warm through.\r\nAdd milk and cream and bring the soup to a boil. Turn the heat down to low and season with salt and pepper.\r\nAdd dill and chives and let simmer for at least 10 minutes. Serve warm.",
+    "ingredients": [
+      { "position": 1, "name": "New Potatoes", "measurement": "1 lb" },
+      { "position": 2, "name": "Carrots", "measurement": "1 lb" },
+      { "position": 3, "name": "Green Beans", "measurement": "1 cup" },
+      { "position": 4, "name": "Peas", "measurement": "1/2 cup" },
+      { "position": 5, "name": "Dill", "measurement": "1 tablespoon" },
+      { "position": 6, "name": "Chives", "measurement": "1 tablespoon" },
+      { "position": 7, "name": "Milk", "measurement": "3 Cups" },
+      { "position": 8, "name": "Heavy Cream", "measurement": "1/2 cup" },
+      { "position": 9, "name": "Butter", "measurement": "1/2 cup" },
+      { "position": 10, "name": "Salt", "measurement": "1/2 tsp" },
+      { "position": 11, "name": "Black Pepper", "measurement": "1/4 tsp" }
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "inputHash": "c71e2c480fc10777e61aabe7f7dc54f1ca813f967288f11bef6c9ff96511e407",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:29:56.125Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 567,
+        "proteinG": 25.8,
+        "fatG": 49.2,
+        "carbsG": 16.1,
+        "fiberG": 8.5
+      },
+      "caloriesKcal": 481.95,
+      "proteinG": 21.93,
+      "fatG": 41.82,
+      "carbsG": 13.685000000000002,
+      "fiberG": 7.225,
+      "assumptions": "Roasted peanuts, values for dry roasted unsalted peanuts",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 330,
+        "proteinG": 3.6,
+        "fatG": 35,
+        "carbsG": 3.3,
+        "fiberG": 1.1
+      },
+      "caloriesKcal": 1320,
+      "proteinG": 14.4,
+      "fatG": 140,
+      "carbsG": 13.2,
+      "fiberG": 4.4,
+      "assumptions": "Full-fat canned coconut cream; entire 400ml can used as per recipe (density ≈1 g/ml)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 200,
+        "proteinG": 4,
+        "fatG": 12,
+        "carbsG": 15,
+        "fiberG": 6
+      },
+      "caloriesKcal": 120,
+      "proteinG": 2.4,
+      "fatG": 7.2,
+      "carbsG": 9,
+      "fiberG": 3.6,
+      "assumptions": "Typical Thai massaman curry paste; 4 tbsp estimated at 15 g each (common commercial paste density)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 26,
+        "fatG": 17,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1500,
+      "proteinG": 156,
+      "fatG": 102,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw stewing beef (chuck/shoulder cut), typical values for uncooked beef suitable for slow braising",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 18,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 346.5,
+      "proteinG": 9,
+      "fatG": 0.45,
+      "carbsG": 81,
+      "fiberG": 9.9,
+      "assumptions": "Raw waxy potatoes, peeled weight assumed as typical for curry use",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "Medium onion (≈110 g) cut into thin wedges, raw values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 kaffir lime leaves; negligible edible weight and nutrition contribution when used as aromatic and removed before eating",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 standard cinnamon stick used as aromatic; negligible edible weight and nutrition contribution when removed before serving",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 239,
+        "proteinG": 2.3,
+        "fatG": 0.7,
+        "carbsG": 62,
+        "fiberG": 5.8
+      },
+      "caloriesKcal": 35.85,
+      "proteinG": 0.345,
+      "fatG": 0.105,
+      "carbsG": 9.3,
+      "fiberG": 0.87,
+      "assumptions": "Concentrated tamarind paste; 1 tbsp ≈15 g, typical values for culinary tamarind concentrate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 45.6,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 11.76,
+      "fiberG": 0,
+      "assumptions": "Palm or soft light brown sugar; 1 tbsp ≈12 g, typical values for granulated brown sugar",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 35,
+        "proteinG": 4.8,
+        "fatG": 0,
+        "carbsG": 1.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 5.25,
+      "proteinG": 0.72,
+      "fatG": 0,
+      "carbsG": 0.27,
+      "fiberG": 0,
+      "assumptions": "Asian fish sauce; 1 tbsp ≈15 g, typical values for nuoc mam or similar",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 9.5,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.285,
+      "fatG": 0.06,
+      "carbsG": 1.425,
+      "fiberG": 0.225,
+      "assumptions": "1 medium red chilli (≈15 g), deseeded and sliced; values for raw red chilli pepper",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 130,
+        "proteinG": 2.7,
+        "fatG": 0.3,
+        "carbsG": 28,
+        "fiberG": 0.6
+      },
+      "caloriesKcal": 390,
+      "proteinG": 8.1,
+      "fatG": 0.9,
+      "carbsG": 84,
+      "fiberG": 1.8,
+      "assumptions": "Jasmine rice 'to serve'; plausible recipe context assumption of 75 g uncooked rice per person for 4 servings (≈300 g total uncooked), standard dry rice values used as rice is cooked separately",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52827",
+    "name": "Massaman Beef curry",
+    "cuisine": "Thai",
+    "instructions": "Heat oven to 200C/180C fan/gas 6, then roast the peanuts on a baking tray for 5 mins until golden brown. When cool enough to handle, roughly chop. Reduce oven to 180C/160C fan/gas 4.\r\nHeat 2 tbsp coconut cream in a large casserole dish with a lid. Add the curry paste and fry for 1 min, then stir in the beef and fry until well coated and sealed. Stir in the rest of the coconut with half a can of water, the potatoes, onion, lime leaves, cinnamon, tamarind, sugar, fish sauce and most of the peanuts. Bring to a simmer, then cover and cook for 2 hrs in the oven until the beef is tender.\r\nSprinkle with sliced chilli and the remaining peanuts, then serve straight from the dish with jasmine rice.",
+    "ingredients": [
+      { "position": 1, "name": "Peanuts", "measurement": "85g" },
+      { "position": 2, "name": "Coconut cream", "measurement": "400ml can" },
+      {
+        "position": 3,
+        "name": "Massaman curry paste",
+        "measurement": "4 tbsp"
+      },
+      {
+        "position": 4,
+        "name": "Beef",
+        "measurement": "600g stewing cut into strips"
+      },
+      { "position": 5, "name": "Potatoes", "measurement": "450g waxy" },
+      { "position": 6, "name": "Onion", "measurement": "1 cut thin wedges" },
+      { "position": 7, "name": "Lime", "measurement": "4 leaves" },
+      { "position": 8, "name": "Cinnamon stick", "measurement": "1" },
+      { "position": 9, "name": "Tamarind paste", "measurement": "1 tbsp" },
+      {
+        "position": 10,
+        "name": "Brown sugar",
+        "measurement": "1 tbsp palm or soft light"
+      },
+      { "position": 11, "name": "Fish Sauce", "measurement": "1 tbsp" },
+      {
+        "position": 12,
+        "name": "chilli",
+        "measurement": "1 red deseeded and finely sliced, to serve"
+      },
+      { "position": 13, "name": "Jasmine Rice", "measurement": "to serve" }
+    ]
+  }
+}

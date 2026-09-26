@@ -1,0 +1,51 @@
+{
+  "inputHash": "8ec9a6eccb833bd9826f1f9a3d394667f0c80bc61cbf072202cc40d6d67c12a8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:36.687Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 20,
+      "fiberG": 5.2,
+      "assumptions": "400g tinned tomatoes (using full can values; ~5g carbs/100g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 4.4,
+      "fiberG": 0,
+      "assumptions": "110g chorizo (standard cured Spanish style, ~4g carbs/100g)"
+    },
+    {
+      "position": 3,
+      "carbsG": 6.3,
+      "fiberG": 3.5,
+      "assumptions": "140g raw Savoy cabbage, edible portion only (~4.5g carbs/100g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 0.3,
+      "fiberG": 0.2,
+      "assumptions": "small sprinkling of chilli flakes (~0.5g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 38,
+      "fiberG": 12,
+      "assumptions": "400g can chickpeas, drained weight ~240g; values for drained chickpeas (~16g carbs/100g)"
+    },
+    {
+      "position": 6,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "1 chicken stock cube (10g)"
+    },
+    {
+      "position": 7,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "crusty bread to serve - quantity not specified, cannot estimate"
+    }
+  ]
+}

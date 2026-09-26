@@ -1,0 +1,303 @@
+{
+  "inputHash": "0653439f5cb653e5b2da134a6f6a6f202ec4be46f067f4ec3c83ece259e35388",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:55.152Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 750,
+      "per100g": {
+        "caloriesKcal": 26,
+        "proteinG": 1,
+        "fatG": 0.1,
+        "carbsG": 6.5,
+        "fiberG": 1.1
+      },
+      "caloriesKcal": 195,
+      "proteinG": 7.5,
+      "fatG": 0.75,
+      "carbsG": 48.75,
+      "fiberG": 8.250000000000002,
+      "assumptions": "Fresh raw pumpkin flesh; values reflect typical edible portion after peeling/seeding; boiled then sieved as per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 350,
+      "per100g": {
+        "caloriesKcal": 450,
+        "proteinG": 6,
+        "fatG": 25,
+        "carbsG": 48,
+        "fiberG": 2
+      },
+      "caloriesKcal": 1575,
+      "proteinG": 21,
+      "fatG": 87.5,
+      "carbsG": 168,
+      "fiberG": 7,
+      "assumptions": "Standard unbaked shortcrust pastry dough; typical UK-style values used for entire 350g quantity lining the 22cm tin.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 36.4,
+      "proteinG": 1,
+      "fatG": 0.1,
+      "carbsG": 7.6,
+      "fiberG": 0.3,
+      "assumptions": "Plain white flour for light dusting of surface and rolling pin; plausible small amount estimated from typical pastry handling (not zero as dusting is present).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 541.8,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 140,
+      "fiberG": 0,
+      "assumptions": "Standard caster sugar; entire measured quantity used in filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; ½ tsp ≈ 3g; negligible macros as pure sodium chloride.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 1.2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Ground nutmeg; ½ tsp ≈ 1.2g; negligible macros for small spice quantity.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 2.6,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 8,
+        "fatG": 13,
+        "carbsG": 50,
+        "fiberG": 33
+      },
+      "caloriesKcal": 6.5,
+      "proteinG": 0.20800000000000002,
+      "fatG": 0.338,
+      "carbsG": 1.3,
+      "fiberG": 0.858,
+      "assumptions": "Ground cinnamon; full 1 tsp split across filling and topping; values reflect typical ground spice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 157.3,
+      "proteinG": 14.3,
+      "fatG": 11,
+      "carbsG": 1.1,
+      "fiberG": 0,
+      "assumptions": "2 large beaten eggs; total edible weight ≈ 110g (shells excluded); standard large egg nutrition scaled.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 179.25,
+      "proteinG": 0.225,
+      "fatG": 20.25,
+      "carbsG": 0.025,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter, melted; entire measured quantity used in filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 73.5,
+      "proteinG": 5.95,
+      "fatG": 1.75,
+      "carbsG": 8.75,
+      "fiberG": 0,
+      "assumptions": "Whole cow's milk; entire measured quantity incorporated into filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 30.96,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "Icing (powdered) sugar for dusting; 1 tbsp ≈ 8g; entire quantity used in final step.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52857",
+    "name": "Pumpkin Pie",
+    "cuisine": "American",
+    "instructions": "Place the pumpkin in a large saucepan, cover with water and bring to the boil. Cover with a lid and simmer for 15 mins or until tender. Drain pumpkin; let cool.\r\nHeat oven to 180C/160C fan/gas 4. Roll out the pastry on a lightly floured surface and use it to line a 22cm loose-bottomed tart tin. Chill for 15 mins. Line the pastry with baking parchment and baking beans, then bake for 15 mins. Remove the beans and paper, and cook for a further 10 mins until the base is pale golden and biscuity. Remove from the oven and allow to cool slightly.\r\nIncrease oven to 220C/200C fan/gas 7. Push the cooled pumpkin through a sieve into a large bowl. In a separate bowl, combine the sugar, salt, nutmeg and half the cinnamon. Mix in the beaten eggs, melted butter and milk, then add to the pumpkin purée and stir to combine. Pour into the tart shell and cook for 10 mins, then reduce the temperature to 180C/160C fan/gas 4. Continue to bake for 35-40 mins until the filling has just set.\r\nLeave to cool, then remove the pie from the tin. Mix the remaining cinnamon with the icing sugar and dust over the pie. Serve chilled.",
+    "ingredients": [
+      { "position": 1, "name": "Pumpkin", "measurement": "750g" },
+      { "position": 2, "name": "Shortcrust Pastry", "measurement": "350g" },
+      { "position": 3, "name": "Plain Flour", "measurement": "Dusting" },
+      { "position": 4, "name": "Caster Sugar", "measurement": "140g" },
+      { "position": 5, "name": "Salt", "measurement": "½ tsp" },
+      { "position": 6, "name": "Nutmeg", "measurement": "½ tsp" },
+      { "position": 7, "name": "Cinnamon", "measurement": "1 tsp" },
+      { "position": 8, "name": "Eggs", "measurement": "2 Beaten" },
+      { "position": 9, "name": "Butter", "measurement": "25g" },
+      { "position": 10, "name": "Milk", "measurement": "175g" },
+      { "position": 11, "name": "Icing Sugar", "measurement": "1 tblsp" }
+    ]
+  }
+}

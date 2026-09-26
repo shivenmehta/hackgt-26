@@ -1,0 +1,93 @@
+{
+  "inputHash": "320657f34a3ba5ff7a7cee1ad213744f855f1c49d3beb7fa85db902037d4c589",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:01.801Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 81.15,
+      "fiberG": 2.55,
+      "assumptions": "85g dry cornflour (corn starch); standard nutritional values for dry corn starch (95.4g carbs, 3g fiber per 100g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 63.05,
+      "fiberG": 2.72,
+      "assumptions": "85g dry plain white wheat flour; standard nutritional values for white wheat flour (74.2g carbs, 3.2g fiber per 100g)"
+    },
+    {
+      "position": 3,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "2 tsp (approx 4g) ground black pepper; standard values for black pepper (approx 50g carbs/100g with high fiber)"
+    },
+    {
+      "position": 4,
+      "carbsG": 3,
+      "fiberG": 1.5,
+      "assumptions": "2 tsp (approx 6g) Szechuan peppercorns, ground; standard values for Szechuan pepper (approx 50g carbs/100g with high fiber)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "sunflower oil for deep frying; pure fat with no carbohydrates"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "400g raw squid (edible portion); pure protein/fat with no carbohydrates"
+    },
+    {
+      "position": 7,
+      "carbsG": 1.2,
+      "fiberG": 0.6,
+      "assumptions": "spring onions, modest handful (approx 20g sliced); standard values for raw spring onions (6g carbs, 3g fiber per 100g)"
+    },
+    {
+      "position": 8,
+      "carbsG": 2.2,
+      "fiberG": 0.6,
+      "assumptions": "1 green chilli, modest (approx 20g sliced); standard values for raw green chilli (11g carbs, 3g fiber per 100g)"
+    },
+    {
+      "position": 9,
+      "carbsG": 4.5,
+      "fiberG": 1.4,
+      "assumptions": "1 red chilli (approx 45g chopped); standard values for raw red chilli (10g carbs, 3g fiber per 100g)"
+    },
+    {
+      "position": 10,
+      "carbsG": 4.5,
+      "fiberG": 0.75,
+      "assumptions": "1/2 cucumber (approx 150g); standard values for raw cucumber with skin (3g carbs, 0.5g fiber per 100g)"
+    },
+    {
+      "position": 11,
+      "carbsG": 10.34,
+      "fiberG": 1.87,
+      "assumptions": "1 red onion (approx 110g chopped); standard values for raw red onion (9.4g carbs, 1.7g fiber per 100g)"
+    },
+    {
+      "position": 12,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "100ml rice vinegar; standard values for rice vinegar (negligible carbs)"
+    },
+    {
+      "position": 13,
+      "carbsG": 12.5,
+      "fiberG": 0,
+      "assumptions": "1 tbsp (12.5g) caster sugar; standard values for white sugar (100g carbs per 100g)"
+    },
+    {
+      "position": 14,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "2 tsp (approx 10ml) fish sauce; standard values for fish sauce (negligible carbs)"
+    }
+  ]
+}

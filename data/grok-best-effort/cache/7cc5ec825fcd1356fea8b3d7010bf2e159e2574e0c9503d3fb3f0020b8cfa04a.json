@@ -1,0 +1,359 @@
+{
+  "inputHash": "7cc5ec825fcd1356fea8b3d7010bf2e159e2574e0c9503d3fb3f0020b8cfa04a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:25:03.731Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 680,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 170,
+      "proteinG": 6.8,
+      "fatG": 1.36,
+      "carbsG": 40.8,
+      "fiberG": 20.4,
+      "assumptions": "1.5 lb = 680g raw Asian/Japanese eggplant (edible portion); typical nutrition for raw eggplant adjusted for long thin variety.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp peanut oil = 28g; standard cooking oil density and full fat content.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.1,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 4.2,
+      "proteinG": 0.54,
+      "fatG": 0.06,
+      "carbsG": 0.3,
+      "fiberG": 0,
+      "assumptions": "1/4 cup chicken stock ≈ 60g; typical low-sodium broth values, mostly water with minimal macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 30.96,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "2 tsp granulated sugar = 8g; pure carbohydrate.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5,
+        "fatG": 0.1,
+        "carbsG": 5,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 1.59,
+      "proteinG": 0.15,
+      "fatG": 0.0030000000000000005,
+      "carbsG": 0.15,
+      "fiberG": 0.020999999999999998,
+      "assumptions": "1/2 tsp soy sauce ≈ 3g; standard fermented soy sauce nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 24,
+      "per100g": {
+        "caloriesKcal": 100,
+        "proteinG": 4,
+        "fatG": 5,
+        "carbsG": 10,
+        "fiberG": 3
+      },
+      "caloriesKcal": 24,
+      "proteinG": 0.96,
+      "fatG": 1.2,
+      "carbsG": 2.4,
+      "fiberG": 0.72,
+      "assumptions": "1.5 tbsp chili bean paste (doubanjiang) ≈ 24g; typical values for fermented chili-soybean paste, estimated from similar condiments.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 1,
+        "fatG": 1,
+        "carbsG": 4,
+        "fiberG": 2
+      },
+      "caloriesKcal": 0.8,
+      "proteinG": 0.04,
+      "fatG": 0.04,
+      "carbsG": 0.16,
+      "fiberG": 0.08,
+      "assumptions": "2 tsp ground Sichuan peppercorns ≈ 4g; low-calorie spice with typical pepper nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 3.2,
+      "proteinG": 0.08,
+      "fatG": 0.02,
+      "carbsG": 0.72,
+      "fiberG": 0.08,
+      "assumptions": "2 tsp minced fresh ginger ≈ 4g; standard raw ginger root values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 22.35,
+      "proteinG": 0.96,
+      "fatG": 0.075,
+      "carbsG": 4.95,
+      "fiberG": 0.3,
+      "assumptions": "5 cloves garlic ≈ 15g; typical raw garlic nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0,
+        "carbsG": 91,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 11.43,
+      "proteinG": 0.009,
+      "fatG": 0,
+      "carbsG": 2.73,
+      "fiberG": 0.027000000000000003,
+      "assumptions": "1 tsp cornstarch ≈ 3g; nearly pure carbohydrate starch.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 21,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2.1,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.1,
+      "fiberG": 0,
+      "assumptions": "2 tsp apple cider vinegar ≈ 10g; typical vinegar nutrition, mostly water with trace carbs.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 19.2,
+      "proteinG": 1.08,
+      "fatG": 0.12,
+      "carbsG": 4.38,
+      "fiberG": 1.56,
+      "assumptions": "4 chopped scallions ≈ 60g (about 4 medium); raw green onion values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 2.3,
+      "proteinG": 0.22,
+      "fatG": 0.05,
+      "carbsG": 0.37,
+      "fiberG": 0.28,
+      "assumptions": "Cilantro garnish estimated at 10g (small handful); typical raw cilantro leaves nutrition for a plated garnish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53374",
+    "name": "Sichuan Eggplant",
+    "cuisine": "Chinese",
+    "instructions": "This recipe calls for asian eggplants, or Japanese eggplants. They are long and thin compared to a European or globe eggplant, and much more tender and delicate. If you can't find them you can substitute globe eggplant, but the dish is really best with the asian eggplant.\r\n\r\n*A lot of grocery stores have Asian ingredient aisles now. You should be able to find chili-bean paste, a mixture of preserved chilies mixed with mashed soybeans, there or at any Asian market. (Do not confuse with black bean paste or chili-garlic paste.)\r\n\r\n**Sichuan peppercorns are available at some stores and online for quite cheap. They aren't spicy like other peppers but rather have a citrusy flavor and induce a tingly, numbing sensation like a carbonated drink.\r\n\r\nPrep eggplant, chili sauce, cornstarch slurry, vinegar and scallions:\r\nBegin your mise en place. Quarter the eggplant lengthwise and chop into large batons and set aside.\r\n\r\nIn a small bowl, mix together the chicken stock, sugar, and soy sauce and set it aside.\r\n\r\nIn a second bowl, mix together the chili bean paste, garlic, ginger, and sichuan peppercorns and set it aside.\r\n\r\nIn a third bowl, mix together the cornstarch with a tablespoon of water and set it aside.\r\n\r\nLastly, in a fourth bowl, mix together the scallions and vinegar and set it aside.\r\n\r\nSauté eggplant:\r\nPlace the oil in a wok or large sauté pan over medium-high heat until the oil is almost smoking. Add the eggplant and sauté, allowing it to sit for a few seconds each time you move it to allow it to brown and blister. If the eggplant absorbs all the oil and some pieces don't get any then add a little more oil.\r\n\r\nAdd the chili bean paste, garlic, ginger, and sichuan peppercorns and sauté:\r\nuntil fragrant, about 30 seconds.\r\n\r\nAdd the chicken stock mixture:\r\nturn the heat to medium-low and simmer for 90 seconds.\r\n\r\nAdd the cornstarch mixture:\r\nand stir together until the sauce thickens a bit.\r\n\r\nAdd the scallions and vinegar:\r\nand cook for 15 seconds to diffuse their harsh flavors a bit.\r\n\r\nGarnish with cilantro and serve.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Egg Plants",
+        "measurement": "1.5 pounds sliced"
+      },
+      { "position": 2, "name": "Peanut Oil", "measurement": "2 tablespoons" },
+      { "position": 3, "name": "Chicken Stock", "measurement": "1/4 cup" },
+      { "position": 4, "name": "Sugar", "measurement": "2 tsp" },
+      { "position": 5, "name": "Soy Sauce", "measurement": "1/2 tsp" },
+      { "position": 6, "name": "Chilli Bean Paste", "measurement": "1 ½ tbsp" },
+      { "position": 7, "name": "Sichuan Pepper", "measurement": "2 tsp" },
+      { "position": 8, "name": "Ginger", "measurement": "2 tsp" },
+      { "position": 9, "name": "Garlic", "measurement": "5 cloves" },
+      { "position": 10, "name": "Cornstarch", "measurement": "1 tsp" },
+      { "position": 11, "name": "Apple Cider Vinegar", "measurement": "2 tsp" },
+      { "position": 12, "name": "Scallions", "measurement": "4 Chopped" },
+      { "position": 13, "name": "Cilantro", "measurement": "Garnish" }
+    ]
+  }
+}

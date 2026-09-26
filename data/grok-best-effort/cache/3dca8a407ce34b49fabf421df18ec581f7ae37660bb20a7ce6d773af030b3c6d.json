@@ -1,0 +1,467 @@
+{
+  "inputHash": "3dca8a407ce34b49fabf421df18ec581f7ae37660bb20a7ce6d773af030b3c6d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:37.114Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1134,
+      "per100g": {
+        "caloriesKcal": 190,
+        "proteinG": 18,
+        "fatG": 13,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2154.6,
+      "proteinG": 204.12,
+      "fatG": 147.42,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 whole chicken estimated at 2.5 lb (1134g) raw edible yield including bone and skin, typical for frying recipe; raw values used as base before frying.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 884,
+      "proteinG": 0,
+      "fatG": 100,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 quarts neutral frying oil; estimated 100g absorbed by the chicken during frying (typical uptake for deep-fried battered chicken), remainder not consumed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 33,
+      "per100g": {
+        "caloriesKcal": 52,
+        "proteinG": 11,
+        "fatG": 0.2,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 17.16,
+      "proteinG": 3.63,
+      "fatG": 0.066,
+      "carbsG": 0.23099999999999998,
+      "fiberG": 0,
+      "assumptions": "1 large egg white, standard weight ~33g; values reflect raw egg white.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 188,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 684.32,
+      "proteinG": 18.8,
+      "fatG": 1.88,
+      "carbsG": 142.88,
+      "fiberG": 5.64,
+      "assumptions": "1 1/2 cups all-purpose flour; standard density ~125g per cup, total 187.5g rounded.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 13,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 49.4,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 12.74,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon brown sugar, standard 12.5g rounded to 13g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon table salt, standard 15g; contributes negligible calories/macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 7,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14,
+        "fatG": 13,
+        "carbsG": 54,
+        "fiberG": 35
+      },
+      "caloriesKcal": 19.74,
+      "proteinG": 0.98,
+      "fatG": 0.91,
+      "carbsG": 3.78,
+      "fiberG": 2.45,
+      "assumptions": "1 tablespoon paprika, standard 6.8g rounded to 7g; typical spice nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 teaspoons onion salt; ~6g total, treated as salt-based with negligible calories/macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 12,
+        "fatG": 14,
+        "carbsG": 54,
+        "fiberG": 35
+      },
+      "caloriesKcal": 8.46,
+      "proteinG": 0.36,
+      "fatG": 0.42,
+      "carbsG": 1.62,
+      "fiberG": 1.05,
+      "assumptions": "1 teaspoon chili powder, standard 2.7g rounded to 3g; typical spice nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 255,
+        "proteinG": 10,
+        "fatG": 3,
+        "carbsG": 64,
+        "fiberG": 26
+      },
+      "caloriesKcal": 5.1,
+      "proteinG": 0.2,
+      "fatG": 0.06,
+      "carbsG": 1.28,
+      "fiberG": 0.52,
+      "assumptions": "1 teaspoon ground black pepper, standard 2.3g rounded to 2g; typical spice nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 teaspoon celery salt; ~1.5g, treated as salt-based with negligible calories/macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 315,
+        "proteinG": 11,
+        "fatG": 13,
+        "carbsG": 61,
+        "fiberG": 37
+      },
+      "caloriesKcal": 3.15,
+      "proteinG": 0.11,
+      "fatG": 0.13,
+      "carbsG": 0.61,
+      "fiberG": 0.37,
+      "assumptions": "1/2 teaspoon dried sage; ~0.7g rounded, typical spice nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 331,
+        "proteinG": 17,
+        "fatG": 1,
+        "carbsG": 72,
+        "fiberG": 9
+      },
+      "caloriesKcal": 3.31,
+      "proteinG": 0.17,
+      "fatG": 0.01,
+      "carbsG": 0.72,
+      "fiberG": 0.09,
+      "assumptions": "1/2 teaspoon garlic powder; ~1.6g rounded, typical spice nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 263,
+        "proteinG": 6,
+        "fatG": 9,
+        "carbsG": 50,
+        "fiberG": 21
+      },
+      "caloriesKcal": 2.63,
+      "proteinG": 0.06,
+      "fatG": 0.09,
+      "carbsG": 0.5,
+      "fiberG": 0.21,
+      "assumptions": "1/2 teaspoon ground allspice; ~1.3g rounded, typical spice nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 4,
+        "carbsG": 69,
+        "fiberG": 43
+      },
+      "caloriesKcal": 2.65,
+      "proteinG": 0.09,
+      "fatG": 0.04,
+      "carbsG": 0.69,
+      "fiberG": 0.43,
+      "assumptions": "1/2 teaspoon dried oregano; ~1g rounded, typical spice nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 233,
+        "proteinG": 23,
+        "fatG": 4,
+        "carbsG": 48,
+        "fiberG": 37
+      },
+      "caloriesKcal": 2.33,
+      "proteinG": 0.23,
+      "fatG": 0.04,
+      "carbsG": 0.48,
+      "fiberG": 0.37,
+      "assumptions": "1/2 teaspoon dried basil; ~0.7g rounded, typical spice nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 271,
+        "proteinG": 13,
+        "fatG": 7,
+        "carbsG": 64,
+        "fiberG": 37
+      },
+      "caloriesKcal": 2.71,
+      "proteinG": 0.13,
+      "fatG": 0.07,
+      "carbsG": 0.64,
+      "fiberG": 0.37,
+      "assumptions": "1/2 teaspoon dried marjoram; ~0.7g rounded, typical spice nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52813",
+    "name": "Kentucky Fried Chicken",
+    "cuisine": "American",
+    "instructions": "Preheat fryer to 350°F. Thoroughly mix together all the spice mix ingredients.\r\nCombine spice mix with flour, brown sugar and salt.\r\nDip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken. Repeat with all the chicken pieces.\r\nLet chicken pieces rest for 5 minutes so crust has a chance to dry a bit.\r\nFry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F.\r\nLet chicken drain on a few paper towels when it comes out of the fryer. Serve hot.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken", "measurement": "1 whole" },
+      {
+        "position": 2,
+        "name": "Oil",
+        "measurement": "2 quarts neutral frying"
+      },
+      { "position": 3, "name": "Egg White", "measurement": "1" },
+      { "position": 4, "name": "Flour", "measurement": "1 1/2 cups" },
+      { "position": 5, "name": "Brown Sugar", "measurement": "1 tablespoon" },
+      { "position": 6, "name": "Salt", "measurement": "1 tablespoon" },
+      { "position": 7, "name": "paprika", "measurement": "1 tablespoon" },
+      { "position": 8, "name": "onion salt", "measurement": "2 teaspoons" },
+      { "position": 9, "name": "chili powder", "measurement": "1 teaspoon" },
+      { "position": 10, "name": "black pepper", "measurement": "1 teaspoon" },
+      { "position": 11, "name": "celery salt", "measurement": "1/2 teaspoon" },
+      { "position": 12, "name": "sage", "measurement": "1/2 teaspoon" },
+      {
+        "position": 13,
+        "name": "garlic powder",
+        "measurement": "1/2 teaspoon"
+      },
+      { "position": 14, "name": "allspice", "measurement": "1/2 teaspoon" },
+      { "position": 15, "name": "oregano", "measurement": "1/2 teaspoon" },
+      { "position": 16, "name": "basil", "measurement": "1/2 teaspoon" },
+      { "position": 17, "name": "marjoram", "measurement": "1/2 teaspoon" }
+    ]
+  }
+}

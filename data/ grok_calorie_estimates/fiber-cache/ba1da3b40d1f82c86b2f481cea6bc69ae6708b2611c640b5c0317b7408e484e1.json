@@ -1,0 +1,45 @@
+{
+  "inputHash": "ba1da3b40d1f82c86b2f481cea6bc69ae6708b2611c640b5c0317b7408e484e1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:54.342Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 236,
+      "fiberG": 60,
+      "assumptions": "2 cups = 400 g dry fava/broad beans (consistent with prior estimate); standard dry fava bean nutrition used for entire uncooked quantity"
+    },
+    {
+      "position": 2,
+      "carbsG": 2.7,
+      "fiberG": 1.3,
+      "assumptions": "1/3 cup chopped fresh parsley ≈ 20 g (consistent with prior estimate); values for raw parsley"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Dash of olive oil estimated at 1 tsp (≈ 5 g) total (consistent with prior estimate); pure oil has no carbohydrates"
+    },
+    {
+      "position": 4,
+      "carbsG": 27,
+      "fiberG": 8,
+      "assumptions": "3 whole lemons (juice + some pulp) with total edible portion ≈ 180 g (consistent with prior estimate); values for raw lemon"
+    },
+    {
+      "position": 5,
+      "carbsG": 4,
+      "fiberG": 0.3,
+      "assumptions": "4 garlic cloves ≈ 12 g total (consistent with prior estimate); values for raw garlic"
+    },
+    {
+      "position": 6,
+      "carbsG": 1.7,
+      "fiberG": 0.4,
+      "assumptions": "Sprinkling of ground cumin estimated at 1 tsp (≈ 2 g) total (consistent with prior estimate); values for ground cumin"
+    }
+  ]
+}

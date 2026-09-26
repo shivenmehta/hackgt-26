@@ -1,0 +1,81 @@
+{
+  "inputHash": "085a28d04311485af00dad983d221e047254c4bafb756cd2e8f0e985b41e8ba0",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:48.950Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp vegetable oil (28g); pure fat with no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 10.1,
+      "fiberG": 1.9,
+      "assumptions": "1 medium red onion (~110g), sliced and fully used"
+    },
+    {
+      "position": 3,
+      "carbsG": 1.8,
+      "fiberG": 0.1,
+      "assumptions": "2 garlic cloves (~6g total), sliced and fully used"
+    },
+    {
+      "position": 4,
+      "carbsG": 2.9,
+      "fiberG": 0.5,
+      "assumptions": "1 medium red chilli (~20g), sliced and fully used"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "250g raw king prawns (edible portion), fully used; zero carbs"
+    },
+    {
+      "position": 6,
+      "carbsG": 107.8,
+      "fiberG": 6.4,
+      "assumptions": "140g uncooked dry brown rice, fully used (standard values: ~77g carbs and ~4.6g fiber per 100g dry)"
+    },
+    {
+      "position": 7,
+      "carbsG": 11.9,
+      "fiberG": 4.1,
+      "assumptions": "75g frozen peas, fully used"
+    },
+    {
+      "position": 8,
+      "carbsG": 1.5,
+      "fiberG": 0.2,
+      "assumptions": "1 tbsp soy sauce (~15g), fully used"
+    },
+    {
+      "position": 9,
+      "carbsG": 0.9,
+      "fiberG": 0,
+      "assumptions": "1 tbsp fish sauce (~15g), fully used"
+    },
+    {
+      "position": 10,
+      "carbsG": 1.3,
+      "fiberG": 0.8,
+      "assumptions": "1 bunch fresh coriander (~20g usable leaves), fully used including garnish"
+    },
+    {
+      "position": 11,
+      "carbsG": 1.6,
+      "fiberG": 0,
+      "assumptions": "4 large eggs (~200g total without shells), fully used; negligible carbs"
+    },
+    {
+      "position": 12,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Hot sauce to serve: quantity not specified (to taste); cannot reasonably estimate total contribution"
+    }
+  ]
+}

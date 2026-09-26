@@ -1,0 +1,21 @@
+{
+  "inputHash": "be31786f20da5bfb3d7047a7cb5e81718694fa75d78c4f2a33fb2cb61c216d9d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:08.871Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 6,
+      "grams": 30,
+      "caloriesPer100g": 380,
+      "assumptions": "Directly using the supplied 30g measurement for demerara sugar; typical calorie density for demerara sugar is ~380 kcal/100g as it is nearly pure sucrose."
+    },
+    {
+      "position": 9,
+      "grams": null,
+      "caloriesPer100g": null,
+      "assumptions": "'to serve' gives no quantity or serving size; no reasonable way to estimate a specific edible mass for the entire ingredient line without inventing a serving count or amount, which is disallowed."
+    }
+  ]
+}

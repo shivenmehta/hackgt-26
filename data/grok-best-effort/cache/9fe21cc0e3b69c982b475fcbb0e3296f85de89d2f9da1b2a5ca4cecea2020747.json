@@ -1,0 +1,185 @@
+{
+  "inputHash": "9fe21cc0e3b69c982b475fcbb0e3296f85de89d2f9da1b2a5ca4cecea2020747",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:17.077Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 120,
+        "proteinG": 0.6,
+        "fatG": 0.2,
+        "carbsG": 28,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 36,
+      "proteinG": 0.18,
+      "fatG": 0.06,
+      "carbsG": 8.4,
+      "fiberG": 0.15,
+      "assumptions": "Standard sweet chilli sauce; 1 tbsp ≈ 15g, typical bottled product.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 47,
+        "proteinG": 0.9,
+        "fatG": 0.1,
+        "carbsG": 12,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 2.82,
+      "proteinG": 0.054000000000000006,
+      "fatG": 0.006000000000000001,
+      "carbsG": 0.72,
+      "fiberG": 0.15,
+      "assumptions": "Zest from 1 medium orange; ≈6g edible zest only.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 47,
+        "proteinG": 0.9,
+        "fatG": 0.1,
+        "carbsG": 12,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 14.1,
+      "proteinG": 0.27,
+      "fatG": 0.03,
+      "carbsG": 3.6,
+      "fiberG": 0.75,
+      "assumptions": "2 tbsp orange juice from a medium orange; ≈30g, typical juiced weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.1,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.0030000000000000005,
+      "carbsG": 0.99,
+      "fiberG": 0.063,
+      "assumptions": "1 medium peeled crushed garlic clove; ≈3g edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 120,
+        "proteinG": 2.5,
+        "fatG": 6,
+        "carbsG": 12,
+        "fiberG": 3
+      },
+      "caloriesKcal": 18,
+      "proteinG": 0.375,
+      "fatG": 0.9,
+      "carbsG": 1.8,
+      "fiberG": 0.45,
+      "assumptions": "1 tbsp Thai red curry paste; typical commercial jarred product, ≈15g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 155,
+        "proteinG": 19,
+        "fatG": 8.5,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1240,
+      "proteinG": 152,
+      "fatG": 68,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 raw chicken drumsticks with skin and bone; ≈100g each edible raw weight based on typical supermarket size and recipe context (roasted with marinade).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53212",
+    "name": "Thai drumsticks",
+    "cuisine": "Thai",
+    "instructions": "step 1\r\nHeat oven to 200C/180C fan/gas 6 and line a baking tray with foil. Mix the chilli sauce with the orange zest and juice, garlic, curry paste and ¼ tsp salt. Add the chicken and coat really well.\r\n\r\nstep 2\r\nArrange the drumsticks on the foil, spaced apart. Coat the chicken with any marinade left in the bowl, then roast for 35-40 mins until tender. Wrap in foil or pack into a food container.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "sweet chilli sauce",
+        "measurement": "2 tablespoons"
+      },
+      { "position": 2, "name": "Orange", "measurement": "Zest of 1" },
+      { "position": 3, "name": "Orange", "measurement": "2 tblsp" },
+      {
+        "position": 4,
+        "name": "Garlic",
+        "measurement": "1 clove peeled crushed"
+      },
+      {
+        "position": 5,
+        "name": "Thai Red Curry Paste",
+        "measurement": "1 tblsp"
+      },
+      { "position": 6, "name": "Chicken drumsticks", "measurement": "8" }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "inputHash": "9212e3878f60221a09bbb708803db393cf2f1000fc1822038db79820d8767da3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:03:11.623Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 9,
+      "fiberG": 2,
+      "assumptions": "2 tbsp cajun seasoning ≈ 15 g; typical commercial blend values"
+    },
+    {
+      "position": 2,
+      "carbsG": 1.3,
+      "fiberG": 0.7,
+      "assumptions": "1 tsp cayenne pepper ≈ 2 g"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 white fish fillets (e.g. cod/haddock) ≈ 600 g raw edible portion"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp vegetable oil for frying; all absorbed"
+    },
+    {
+      "position": 5,
+      "carbsG": 200,
+      "fiberG": 12,
+      "assumptions": "8 medium 6-inch flour tortillas, ≈ 240 g total"
+    },
+    {
+      "position": 6,
+      "carbsG": 12,
+      "fiberG": 9,
+      "assumptions": "1 medium avocado (200 g) sliced, flesh only"
+    },
+    {
+      "position": 7,
+      "carbsG": 8,
+      "fiberG": 4,
+      "assumptions": "2 little gem lettuces shredded ≈ 200 g edible portion"
+    },
+    {
+      "position": 8,
+      "carbsG": 8,
+      "fiberG": 2.5,
+      "assumptions": "4 spring onions shredded ≈ 60 g"
+    },
+    {
+      "position": 9,
+      "carbsG": 30,
+      "fiberG": 6,
+      "assumptions": "1 × 300 ml jar mild tomato salsa; typical commercial values for entire jar"
+    },
+    {
+      "position": 10,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "1 standard 200-250 ml pot sour cream; entire pot used"
+    },
+    {
+      "position": 11,
+      "carbsG": 6,
+      "fiberG": 2,
+      "assumptions": "juice + zest of 1 medium lemon for dressing"
+    },
+    {
+      "position": 12,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 clove garlic (≈ 3 g) finely chopped for dressing"
+    }
+  ]
+}

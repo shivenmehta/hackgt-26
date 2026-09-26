@@ -102,3 +102,42 @@ rebuilds offline; `npm run test:meals` checks catalog integrity and filters.
 Use `src/lib/meals/catalog.ts` from Node/server code. Original MealDB categories
 are not reliable dietary guarantees; positive diet filters require explicit
 ingredient-screened flags. Nutrition, pricing, and servings remain unknown.
+
+## Combined recipe nutrition
+
+- Read `data/combined/README.md` before changing ingredient matching or conversions.
+- `npm run meals:nutrition` rebuilds the separate local catalog offline;
+  `npm run test:nutrition` verifies conversions, missing-value handling, and preservation.
+- Preserve original MealDB/USDA data. Keep unresolved nutrients null and label
+  100 g fallback quantities. Totals are whole-recipe, not per-serving.
+- USDA proxy IDs and input hashes must remain traceable; do not overwrite sourced
+  nutrition or claim partial sums are complete totals.
+- The user-authorized Grok calorie pass is documented in `data/combined/GROK.md`.
+  `npm run meals:grok` generates/resumes estimates with a server-only `XAI_API_KEY`
+  or `GROK_API_KEY`; `--dry-run` makes no calls and `--offline` uses only cache.
+  `npm run test:grok` verifies targeting, validation, source preservation, and totals.
+  Keep Grok values explicitly labeled in `nutrition.grokCalories`; protein/fat
+  and original USDA calculations remain unchanged.
+
+- `npm run meals:summary` exports compact JSON and a readable Markdown nutrition
+  table from the Grok catalog. Regenerate after changing nutrition data; no API calls.
+
+- `npm run meals:grok:full` estimates whole-recipe calories/protein/fat for every
+  original MealDB recipe, using only recipe text. Output: `data/grok/meals.json`;
+  cache: `data/grok/cache`. Supports `--dry-run`, `--limit N`, and `--offline`.
+  `npm run test:grok:full` validates this independent estimator.
+- Compact summaries intentionally omit `usdaEstimatedSubtotal`; its blanket
+  100 g placeholders are unsuitable for comparing meal nutrition. Historical
+  detailed USDA artifacts retain provenance and have not been overwritten.
+
+- Grok data now lives in `data/ grok_calorie_estimates/` (leading space in folder name).
+  `npm run meals:grok:fiber` adds total carbohydrates (`carbsG`, including fiber)
+  and dietary fiber (`fiberG`) using earlier ingredient assumptions; existing
+  calories/protein/fat are preserved. Supports dry-run, limit and offline flags.
+  `npm run test:grok:fiber` checks validation and aggregation. Cache is `fiber-cache/`.
+
+- `npm run meals:grok:best-effort` creates the separate `data/grok-best-effort/meals.json`
+  from MealDB-only inputs (no USDA). Grok estimates numeric calories/protein/fat/
+  total carbs/fiber for every ingredient; quantity assumptions are recorded in cache.
+  Supports dry-run, limit and offline flags; `npm run test:grok:best-effort` validates it.
+  Successful totals must be complete; request failures remain pending, never zero.

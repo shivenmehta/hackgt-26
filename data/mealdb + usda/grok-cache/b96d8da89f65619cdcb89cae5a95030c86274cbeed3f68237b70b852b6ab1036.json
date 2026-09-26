@@ -1,0 +1,45 @@
+{
+  "inputHash": "b96d8da89f65619cdcb89cae5a95030c86274cbeed3f68237b70b852b6ab1036",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:33.473Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 4536,
+      "caloriesPer100g": 157,
+      "assumptions": "Standard whole packer brisket is ~10 lb (4536 g) edible trimmed meat; 1 brisket interpreted as typical uncured size for Montreal smoked meat recipes. Known cal/100g copied exactly."
+    },
+    {
+      "position": 3,
+      "grams": 19,
+      "caloriesPer100g": 251,
+      "assumptions": "3 tbs ground black pepper ≈ 19 g (standard density ~6.3 g/tbsp). Known cal/100g copied exactly."
+    },
+    {
+      "position": 8,
+      "grams": 19,
+      "caloriesPer100g": 251,
+      "assumptions": "3 tbs ground black pepper ≈ 19 g (standard density ~6.3 g/tbsp). Known cal/100g copied exactly."
+    },
+    {
+      "position": 12,
+      "grams": 7,
+      "caloriesPer100g": 38,
+      "assumptions": "1 tbs onion powder ≈ 7 g (standard density). Known cal/100g copied exactly."
+    },
+    {
+      "position": 14,
+      "grams": 5,
+      "caloriesPer100g": 66,
+      "assumptions": "1 tsp prepared English mustard ≈ 5 g; typical prepared mustard ~66 kcal/100 g (model estimate, not USDA)."
+    },
+    {
+      "position": 15,
+      "grams": 15,
+      "caloriesPer100g": 0,
+      "assumptions": "1 tbs celery salt ≈ 15 g; salt-based seasoning provides negligible calories (0 kcal/100 g)."
+    }
+  ]
+}

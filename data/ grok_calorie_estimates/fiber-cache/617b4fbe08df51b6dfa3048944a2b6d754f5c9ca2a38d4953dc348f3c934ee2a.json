@@ -1,0 +1,57 @@
+{
+  "inputHash": "617b4fbe08df51b6dfa3048944a2b6d754f5c9ca2a38d4953dc348f3c934ee2a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:29.627Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "150g butter (pure fat; no carbs)"
+    },
+    {
+      "position": 2,
+      "carbsG": 130,
+      "fiberG": 4.4,
+      "assumptions": "175g plain white flour (standard UK values ~74.3g carbs/100g, ~2.5g fiber/100g)"
+    },
+    {
+      "position": 3,
+      "carbsG": 125,
+      "fiberG": 0,
+      "assumptions": "125g caster sugar (100% sucrose carbs)"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "3 large eggs (~150g total edible; ~0.8g carbs/egg)"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.6,
+      "fiberG": 0,
+      "assumptions": "1 tsp (~4g) baking powder (standard ~40g carbs/100g)"
+    },
+    {
+      "position": 6,
+      "carbsG": 2.4,
+      "fiberG": 1.7,
+      "assumptions": "2 tsp (~6g) cocoa powder (standard ~40g carbs/100g with high fiber)"
+    },
+    {
+      "position": 7,
+      "carbsG": 2.3,
+      "fiberG": 0,
+      "assumptions": "3 tbsp (~45g) milk (standard whole milk ~4.8g carbs/100g)"
+    },
+    {
+      "position": 8,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "1 tbsp (~8g) icing sugar (nearly 100% sucrose carbs)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "inputHash": "5146c9dade98141a3427b62022b37730f188ed2c290fd3f512caf1d23c2c7117",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:17:37.470Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 356,
+      "proteinG": 12.2,
+      "fatG": 4.1,
+      "assumptions": "150g white bread (crust removed or soft bread as typical for ajo blanco); values for white bread."
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 1154,
+      "proteinG": 42,
+      "fatG": 99,
+      "assumptions": "200g blanched or raw almonds (whole, as typical)."
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 442,
+      "proteinG": 0,
+      "fatG": 49.5,
+      "assumptions": "50ml extra virgin olive oil (density ~0.91 g/ml)."
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 4,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "assumptions": "1 medium garlic clove (~3g)."
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 5,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1.5 tbsp (22ml) red wine vinegar."
+    }
+  ]
+}

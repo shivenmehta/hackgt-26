@@ -1,0 +1,45 @@
+{
+  "inputHash": "19487e7076b1ab1efd89db2b04d8e61ebf14a664a11a8fdbc3c519418d31bb18",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:35.659Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 370,
+      "fiberG": 12,
+      "assumptions": "500 g strong white bread flour (~74 g carbs, 2.4 g fiber per 100 g; total includes starch and fiber)"
+    },
+    {
+      "position": 2,
+      "carbsG": 70,
+      "fiberG": 0,
+      "assumptions": "70 g caster sugar (100% carbohydrate, 0 fiber)"
+    },
+    {
+      "position": 3,
+      "carbsG": 4,
+      "fiberG": 2.6,
+      "assumptions": "10 g active dried yeast (~38 g carbs, 26 g fiber per 100 g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 large beaten eggs (~0.7 g carbs total, negligible fiber; based on ~50-55 g edible portion each)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "70 ml sunflower oil (pure fat, 0 carbs/fiber)"
+    },
+    {
+      "position": 6,
+      "carbsG": 1.3,
+      "fiberG": 1,
+      "assumptions": "1 tablespoon poppy seeds (~9 g; ~14.5 g carbs, 11 g fiber per 100 g)"
+    }
+  ]
+}

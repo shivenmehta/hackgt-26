@@ -1,0 +1,39 @@
+{
+  "inputHash": "260df16c045e095dd207d7cde708ad0512647ac89d7e91f59c0521c15bed6386",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:41.280Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 390,
+      "caloriesPer100g": 26.1,
+      "assumptions": "6 small eggplants total ~390g edible flesh (typical small Italian/Japanese eggplant ~65g each after trimming minimal stem/end; recipe cooks whole, forking to tenderness, so using raw edible weight here)."
+    },
+    {
+      "position": 3,
+      "grams": 7.5,
+      "caloriesPer100g": null,
+      "assumptions": "½ tbsp harissa paste/spice blend ~7.5g (standard density for thick spice paste; calories left null as known value not supplied and harissa density varies widely)."
+    },
+    {
+      "position": 4,
+      "grams": 240,
+      "caloriesPer100g": 137,
+      "assumptions": "1 standard can chickpeas = 15 oz / 425g total; ~240g drained edible beans (standard drained yield ~56% of can weight; matches supplied 137 kcal/100g for drained chickpeas)."
+    },
+    {
+      "position": 6,
+      "grams": 345,
+      "caloriesPer100g": 93.7,
+      "assumptions": "1.5 cups Greek yogurt; 1 cup = ~230g so 1.5 cups = 345g (standard weight for thick Greek yogurt)."
+    },
+    {
+      "position": 7,
+      "grams": 6,
+      "caloriesPer100g": 375,
+      "assumptions": "1 tbsp ground cumin ≈ 6g (standard spice density)."
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "inputHash": "e19b64342357e8f3e85ad021cd8cc49875024e5d5ffdac2aca1bbfd8859fdb46",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:29.877Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1188,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 297,
+      "proteinG": 11.88,
+      "fatG": 2.3760000000000003,
+      "carbsG": 71.28,
+      "fiberG": 35.64,
+      "assumptions": "6 medium eggplants (about 200g each raw, edible portion after peeling and discarding skin ~198g each); typical size for grilling recipes",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 197,
+        "proteinG": 2.1,
+        "fatG": 21,
+        "carbsG": 3.3,
+        "fiberG": 1.3
+      },
+      "caloriesKcal": 788,
+      "proteinG": 8.4,
+      "fatG": 84,
+      "carbsG": 13.2,
+      "fiberG": 5.2,
+      "assumptions": "1 standard 400ml/13.5oz can of full-fat coconut milk; entire contents used",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 0.4,
+        "fatG": 0.2,
+        "carbsG": 7.4,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 3.3,
+      "proteinG": 0.06,
+      "fatG": 0.03,
+      "carbsG": 1.11,
+      "fiberG": 0.045,
+      "assumptions": "1 tablespoon bottled or fresh lemon juice (15ml by volume); 'lemon powder' in instructions interpreted as lemon juice per listed ingredient",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 teaspoon table salt; negligible calories and macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 12,
+        "fatG": 13,
+        "carbsG": 52,
+        "fiberG": 28
+      },
+      "caloriesKcal": 5.64,
+      "proteinG": 0.24,
+      "fatG": 0.26,
+      "carbsG": 1.04,
+      "fiberG": 0.56,
+      "assumptions": "'To taste' red pepper flakes assumed as 2g (about 1 tsp) typical addition for a recipe of this size; common household amount for heat",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.2,
+        "fatG": 0.2,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 24,
+      "proteinG": 0.72,
+      "fatG": 0.12,
+      "carbsG": 5.58,
+      "fiberG": 1.02,
+      "assumptions": "4 sticks green onions/scallions (about 15g each raw, whole edible portion); common size in Filipino recipes, consistent with 'green onions' and 'sticks'",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53074",
+    "name": "Grilled eggplant with coconut milk",
+    "cuisine": "Filipino",
+    "instructions": ".  Prepare the eggplants for grilling by pricking them all over with a fork.  This is so it won’t burst during the grilling process as the natural water in it heats up.\r\n2.  Grill the eggplants, turning them over frequently to ensure even cooking.  Grill until the skins are dark brown, even black and the eggplant is soft when you touch it.\r\n3.  Soak the grilled eggplant in a bowl of water to cool it down.  Peel the skin off the eggplant.  Place the whole eggplants in a shallow dish (my mom actually cuts the eggplant into small, bite-sized pieces).\r\n 4.  In a small mixing bowl, mix together the coconut milk or cream, lemon powder, salt and hot pepper.  Mix until the lemon powder and salt dissolve.  Taste, then adjust the amount of lemon powder, salt and hot pepper to your liking.  Pour the mixture over the eggplant.  Sprinkle the green onions over the eggplant and coconut milk.  Stir gently to combine.",
+    "ingredients": [
+      { "position": 1, "name": "Egg Plants", "measurement": "6" },
+      { "position": 2, "name": "Coconut Milk", "measurement": "1 can" },
+      { "position": 3, "name": "Lemon Juice", "measurement": "1 tbs" },
+      { "position": 4, "name": "Salt", "measurement": "1 tsp" },
+      { "position": 5, "name": "Red Pepper Flakes", "measurement": "To taste" },
+      { "position": 6, "name": "Onions", "measurement": "4 Sticks" }
+    ]
+  }
+}

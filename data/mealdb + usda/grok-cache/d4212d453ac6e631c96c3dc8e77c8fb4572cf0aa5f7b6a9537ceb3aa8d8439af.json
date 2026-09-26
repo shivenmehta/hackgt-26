@@ -1,0 +1,27 @@
+{
+  "inputHash": "d4212d453ac6e631c96c3dc8e77c8fb4572cf0aa5f7b6a9537ceb3aa8d8439af",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:33.285Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 7,
+      "grams": 66.7,
+      "caloriesPer100g": 884,
+      "assumptions": "1/3 cup vegetable shortening (such as Crisco) weighs ~67 g based on standard density of solid shortening; calories match typical vegetable shortening."
+    },
+    {
+      "position": 8,
+      "grams": 0.25,
+      "caloriesPer100g": 358,
+      "assumptions": "'5 drops' of flour is interpreted as a very small negligible amount (~0.25 g, similar to a few drops of liquid by volume); calorie density copied from supplied known value. This appears to be a possible transcription error in the input recipe as flour is listed earlier in instructions."
+    },
+    {
+      "position": 9,
+      "grams": null,
+      "caloriesPer100g": 884,
+      "assumptions": "'Sprinkling' of canola oil for a deep fryer is indeterminate without knowing fryer volume, batch size, or absorbed amount per donut (recipe fries multiple donuts); no reasonable single-line total edible grams can be estimated, so grams set to null. Calorie density copied from supplied known value."
+    }
+  ]
+}

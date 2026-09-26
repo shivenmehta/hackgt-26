@@ -1,0 +1,277 @@
+{
+  "inputHash": "4bba23580f811b230e4e37f047579aebf37f2be0c5d2c312cb1dd371e63b69a9",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:30:27.813Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 49,
+        "proteinG": 4.3,
+        "fatG": 0.9,
+        "carbsG": 8.8,
+        "fiberG": 3.6
+      },
+      "caloriesKcal": 122.5,
+      "proteinG": 10.75,
+      "fatG": 2.25,
+      "carbsG": 22,
+      "fiberG": 9,
+      "assumptions": "1 bunch curly kale trimmed of tough stems, raw edible leaves and soft stems; typical bunch weight after prep ~250g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 541,
+        "proteinG": 37,
+        "fatG": 42,
+        "carbsG": 1.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 324.6,
+      "proteinG": 22.2,
+      "fatG": 25.2,
+      "carbsG": 0.78,
+      "fiberG": 0,
+      "assumptions": "2 strips of pork bacon, pan-fried until crispy; ~30g per strip raw weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.5760000000000001,
+      "fatG": 0.045,
+      "carbsG": 2.9790000000000005,
+      "fiberG": 0.18900000000000003,
+      "assumptions": "3 cloves garlic, chopped; ~3g per clove",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion, sliced; typical medium onion ~110g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 1.2,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14.1,
+        "fatG": 13,
+        "carbsG": 53.99,
+        "fiberG": 34.9
+      },
+      "caloriesKcal": 3.384,
+      "proteinG": 0.1692,
+      "fatG": 0.156,
+      "carbsG": 0.64788,
+      "fiberG": 0.41879999999999995,
+      "assumptions": "1/2 tsp smoked paprika; ~1.2g per 1/2 tsp",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 101,
+        "proteinG": 5.6,
+        "fatG": 2.7,
+        "carbsG": 24.5,
+        "fiberG": 13.7
+      },
+      "caloriesKcal": 2.02,
+      "proteinG": 0.11199999999999999,
+      "fatG": 0.054000000000000006,
+      "carbsG": 0.49,
+      "fiberG": 0.27399999999999997,
+      "assumptions": "1 sprig fresh thyme; typical sprig ~2g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 123,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 22.14,
+      "proteinG": 1.107,
+      "fatG": 0.24600000000000002,
+      "carbsG": 4.797,
+      "fiberG": 1.476,
+      "assumptions": "1 medium tomato, diced; typical medium tomato ~123g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 9.5,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 48,
+      "proteinG": 2.28,
+      "fatG": 0.48,
+      "carbsG": 11.4,
+      "fiberG": 1.8,
+      "assumptions": "1 scotch bonnet or similar hot red pepper, minced; typical whole hot pepper ~120g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 480,
+      "per100g": {
+        "caloriesKcal": 122,
+        "proteinG": 1.3,
+        "fatG": 0.3,
+        "carbsG": 31.9,
+        "fiberG": 2.3
+      },
+      "caloriesKcal": 585.6,
+      "proteinG": 6.24,
+      "fatG": 1.44,
+      "carbsG": 153.12,
+      "fiberG": 11.04,
+      "assumptions": "4 medium-ripe plantains (listed as banana but recipe context is plantain), peeled and sliced; ~120g each edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 132.6,
+      "proteinG": 0,
+      "fatG": 15,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "splash of vegetable oil for frying plantains and sautéing; plausible total usage ~15ml/13g assuming multiple sprays and light pan coating",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52939",
+    "name": "Callaloo Jamaican Style",
+    "cuisine": "Jamaican",
+    "instructions": "Cut leaves and soft stems from the kale branches, them soak in a bowl of cold water for about 5-10 minutes or until finish with prep.\r\nProceed to slicing the onions, mincing the garlic and dicing the tomatoes. Set aside\r\nRemove kale from water cut in chunks.\r\nPlace bacon on saucepan and cook until crispy. Then add onions, garlic, thyme, stir for about a minute or more\r\nAdd tomatoes; scotch bonnet pepper, smoked paprika. Sauté for about 2-3 more minutes.\r\nFinally add vegetable, salt, mix well, and steamed for about 6-8 minutes or until leaves are tender. Add a tiny bit of water as needed. Adjust seasonings and turn off the heat.\r\nUsing a sharp knife cut both ends off the plantain. This will make it easy to grab the skin of the plantains. Slit a shallow line down the long seam of the plantain; peel only as deep as the peel. Remove plantain peel by pulling it back.\r\nSlice the plantain into medium size lengthwise slices and set aside.\r\nCoat a large frying pan with cooking oil spray. Spray the tops of the plantains with a generous layer of oil spray and sprinkle with salt, freshly ground pepper.\r\nLet the plantains \"fry\" on medium heat, shaking the frying pan to redistribute them every few minutes.\r\nAs the plantains brown, continue to add more cooking oil spray, salt and pepper (if needed) until they have reached the desired color and texture.\r\nRemove and serve with kale",
+    "ingredients": [
+      { "position": 1, "name": "Kale", "measurement": "1  bunch" },
+      { "position": 2, "name": "Bacon", "measurement": "2 strips" },
+      { "position": 3, "name": "Garlic", "measurement": "3 cloves Chopped" },
+      { "position": 4, "name": "Onion", "measurement": "1 medium" },
+      { "position": 5, "name": "Paprika", "measurement": "1/2 tsp" },
+      { "position": 6, "name": "Thyme", "measurement": "1 Sprig" },
+      { "position": 7, "name": "Tomato", "measurement": "1" },
+      { "position": 8, "name": "Red Pepper", "measurement": "1" },
+      { "position": 9, "name": "Banana", "measurement": "4" },
+      { "position": 10, "name": "Vegetable Oil", "measurement": "Splash" }
+    ]
+  }
+}

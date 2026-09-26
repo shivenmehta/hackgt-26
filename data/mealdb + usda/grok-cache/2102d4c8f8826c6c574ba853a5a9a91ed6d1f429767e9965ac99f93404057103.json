@@ -1,0 +1,51 @@
+{
+  "inputHash": "2102d4c8f8826c6c574ba853a5a9a91ed6d1f429767e9965ac99f93404057103",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:28.528Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 720,
+      "caloriesPer100g": 71.4,
+      "assumptions": "24 raw king prawns at ~30g each (edible peeled/deveined portion)."
+    },
+    {
+      "position": 3,
+      "grams": 80,
+      "caloriesPer100g": 38,
+      "assumptions": "1 small onion estimated at 80g."
+    },
+    {
+      "position": 4,
+      "grams": 0.5,
+      "caloriesPer100g": 313,
+      "assumptions": "1 bay leaf is ~0.5g; modest seasoning amount."
+    },
+    {
+      "position": 5,
+      "grams": 0.2,
+      "caloriesPer100g": 310,
+      "assumptions": "1 pinch saffron estimated at 0.2g; modest seasoning amount."
+    },
+    {
+      "position": 8,
+      "grams": 200,
+      "caloriesPer100g": 82,
+      "assumptions": "200ml white wine has density ~1g/ml."
+    },
+    {
+      "position": 9,
+      "grams": 650,
+      "caloriesPer100g": null,
+      "assumptions": "650ml seafood stock assumed ~1g/ml density but no standard calorie value for this variable homemade-style stock; cannot estimate reliably without specific ingredients."
+    },
+    {
+      "position": 10,
+      "grams": 360,
+      "caloriesPer100g": 92,
+      "assumptions": "3 medium squid at ~120g each (edible cleaned portions)."
+    }
+  ]
+}

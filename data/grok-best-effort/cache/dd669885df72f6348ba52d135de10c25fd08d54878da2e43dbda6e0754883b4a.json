@@ -1,0 +1,225 @@
+{
+  "inputHash": "dd669885df72f6348ba52d135de10c25fd08d54878da2e43dbda6e0754883b4a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:22.244Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 35,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 6,
+        "fatG": 34,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 119,
+      "proteinG": 2.1,
+      "fatG": 11.9,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "1 1/4 oz (35g) full-fat cream cheese block; standard values for brick-style cream cheese",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 967.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 250,
+      "fiberG": 0,
+      "assumptions": "1 1/4 cups granulated white sugar; standard 200g per cup density",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 13,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.65,
+      "fiberG": 0,
+      "assumptions": "1 tsp vanilla extract; typical small volume for flavoring entire batch",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 36.4,
+      "proteinG": 1,
+      "fatG": 0.1,
+      "carbsG": 7.6,
+      "fiberG": 0.3,
+      "assumptions": "Light dusting of all-purpose flour on surface; small plausible amount for rolling out pastry without adding much to final product",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 980,
+      "per100g": {
+        "caloriesKcal": 400,
+        "proteinG": 5,
+        "fatG": 28,
+        "carbsG": 35,
+        "fiberG": 1
+      },
+      "caloriesKcal": 3920,
+      "proteinG": 49,
+      "fatG": 274.4,
+      "carbsG": 343,
+      "fiberG": 9.8,
+      "assumptions": "2 standard 490g sheets of frozen puff pastry (e.g., Pepperidge Farm size), thawed and used fully",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 8,
+        "fiberG": 2
+      },
+      "caloriesKcal": 48,
+      "proteinG": 1.5,
+      "fatG": 0,
+      "carbsG": 12,
+      "fiberG": 3,
+      "assumptions": "Fresh strawberries, sliced or whole for topping; estimated total used across all 18 pastries based on 1-2 berries each",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 52,
+        "proteinG": 1,
+        "fatG": 1,
+        "carbsG": 12,
+        "fiberG": 7
+      },
+      "caloriesKcal": 52,
+      "proteinG": 1,
+      "fatG": 1,
+      "carbsG": 12,
+      "fiberG": 7,
+      "assumptions": "Fresh raspberries for topping; estimated total used across all pastries based on 1-2 berries per square",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 43,
+        "proteinG": 1,
+        "fatG": 1,
+        "carbsG": 10,
+        "fiberG": 5
+      },
+      "caloriesKcal": 43,
+      "proteinG": 1,
+      "fatG": 1,
+      "carbsG": 10,
+      "fiberG": 5,
+      "assumptions": "Fresh blackberries for topping; estimated total used across all pastries based on 1 berry per square",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52957",
+    "name": "Fruit and Cream Cheese Breakfast Pastries",
+    "cuisine": "American",
+    "instructions": "Preheat oven to 400ºF (200ºC), and prepare two cookie sheets with parchment paper. In a bowl, mix cream cheese, sugar, and vanilla until fully combined. Lightly flour the surface and roll out puff pastry on top to flatten. Cut each sheet of puff pastry into 9 equal squares. On the top right and bottom left of the pastry, cut an L shape approximately ½ inch (1 cm) from the edge.\r\nNOTE: This L shape should reach all the way down and across the square, however both L shapes should not meet at the ends. Your pastry should look like a picture frame with two corners still intact.\r\nTake the upper right corner and fold down towards the inner bottom corner. You will now have a diamond shape.\r\nPlace 1 to 2 teaspoons of the cream cheese filling in the middle, then place berries on top.\r\nRepeat with the remaining pastry squares and place them onto the parchment covered baking sheet.\r\nBake for 15-20 minutes or until pastry is golden brown and puffed.\r\nEnjoy!",
+    "ingredients": [
+      { "position": 1, "name": "Cream Cheese", "measurement": "1 1/4 oz" },
+      { "position": 2, "name": "Sugar", "measurement": "1 1/4 cup" },
+      { "position": 3, "name": "Vanilla Extract", "measurement": "1 teaspoon" },
+      { "position": 4, "name": "Flour", "measurement": null },
+      { "position": 5, "name": "Puff Pastry", "measurement": "2" },
+      { "position": 6, "name": "Strawberries", "measurement": null },
+      { "position": 7, "name": "Raspberries", "measurement": null },
+      { "position": 8, "name": "Blackberries", "measurement": null }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "inputHash": "a00a24db4aa1bce206ae20f2d1c429fd4a972701c0862ab03930a9aae37e83cc",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:06.592Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 4,
+      "grams": 3.1,
+      "caloriesPer100g": 364,
+      "assumptions": "1 tsp cornflour weighs ~3.1g; standard calorie density for cornstarch/cornflour."
+    },
+    {
+      "position": 8,
+      "grams": 60,
+      "caloriesPer100g": 40,
+      "assumptions": "3 large fresh red chillies ~20g each (common size for fresh chillies in stir-fry recipes); typical low-calorie density for fresh chilli peppers."
+    },
+    {
+      "position": 11,
+      "grams": 225,
+      "caloriesPer100g": 50,
+      "assumptions": "450g can of water chestnuts; standard drained/edible weight is ~half the can weight (~225g); typical calorie density for canned water chestnuts."
+    },
+    {
+      "position": 12,
+      "grams": 6,
+      "caloriesPer100g": 80,
+      "assumptions": "'to taste' fresh ginger estimated at one small 6g knob (realistic modest amount for seasoning a stir-fry); supplied knownCaloriesPer100g copied exactly."
+    }
+  ]
+}

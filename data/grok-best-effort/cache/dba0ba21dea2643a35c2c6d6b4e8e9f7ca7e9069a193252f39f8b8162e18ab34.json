@@ -1,0 +1,375 @@
+{
+  "inputHash": "dba0ba21dea2643a35c2c6d6b4e8e9f7ca7e9069a193252f39f8b8162e18ab34",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:31:35.184Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 8,
+        "fatG": 1,
+        "carbsG": 78,
+        "fiberG": 2
+      },
+      "caloriesKcal": 437.5,
+      "proteinG": 10,
+      "fatG": 1.25,
+      "carbsG": 97.5,
+      "fiberG": 2.5,
+      "assumptions": "Dry rice noodles; standard dry weight before soaking as per recipe step 1.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 135,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 40.5,
+      "proteinG": 0.945,
+      "fatG": 0.27,
+      "carbsG": 14.175,
+      "fiberG": 3.78,
+      "assumptions": "Juice of 3 average limes (45 ml each); lime juice values used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 318,
+        "proteinG": 12,
+        "fatG": 17,
+        "carbsG": 57,
+        "fiberG": 27
+      },
+      "caloriesKcal": 3.18,
+      "proteinG": 0.12,
+      "fatG": 0.17,
+      "carbsG": 0.57,
+      "fiberG": 0.27,
+      "assumptions": "1/2 tsp ground cayenne pepper; typical ground spice density ~2 g/tsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 38,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 10,
+      "fiberG": 0,
+      "assumptions": "2 tsp muscovado sugar; typical brown sugar density ~4-5 g/tsp, rounded to 10 g total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 35,
+        "proteinG": 5,
+        "fatG": 0,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 10.5,
+      "proteinG": 1.5,
+      "fatG": 0,
+      "carbsG": 0.9,
+      "fiberG": 0,
+      "assumptions": "2 tbsp fish sauce; typical density ~15 g/tbsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp vegetable oil; typical density ~14 g/tbsp, neutral oil used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 106,
+        "proteinG": 20,
+        "fatG": 2,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 212,
+      "proteinG": 40,
+      "fatG": 4,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "200 g raw tiger prawns (edible portion after any shelling implied by recipe).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 2,
+        "fatG": 0.2,
+        "carbsG": 7,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 19.2,
+      "proteinG": 1.2,
+      "fatG": 0.12,
+      "carbsG": 4.2,
+      "fiberG": 1.5,
+      "assumptions": "4 spring onions finely sliced; average 15 g each.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 3,
+        "fatG": 0.2,
+        "carbsG": 6,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 42,
+      "proteinG": 4.2,
+      "fatG": 0.28,
+      "carbsG": 8.4,
+      "fiberG": 3.5,
+      "assumptions": "140 g fresh bean sprouts; typical mung bean sprouts.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 567,
+        "proteinG": 26,
+        "fatG": 49,
+        "carbsG": 16,
+        "fiberG": 9
+      },
+      "caloriesKcal": 141.75,
+      "proteinG": 6.5,
+      "fatG": 12.25,
+      "carbsG": 4,
+      "fiberG": 2.25,
+      "assumptions": "25 g roasted peanuts; standard values for unsalted dry-roasted peanuts.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 4.6,
+      "proteinG": 0.44,
+      "fatG": 0.1,
+      "carbsG": 0.74,
+      "fiberG": 0.56,
+      "assumptions": "Handful of fresh coriander leaves; plausible recipe amount ~20 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 135,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 40.5,
+      "proteinG": 0.945,
+      "fatG": 0.27,
+      "carbsG": 14.175,
+      "fiberG": 3.78,
+      "assumptions": "2 whole limes for wedges; values for edible lime flesh/juice equivalent, not rind.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 0.5,
+        "fatG": 0,
+        "carbsG": 15,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 18,
+      "proteinG": 0.15,
+      "fatG": 0,
+      "carbsG": 4.5,
+      "fiberG": 0.15,
+      "assumptions": "Sweet chilli sauce to serve; plausible small serving amount for the dish (not cooked in).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53191",
+    "name": "Pad Thai",
+    "cuisine": "Thai",
+    "instructions": "step 1\r\nPut the noodles in a large heatproof bowl, pour boiling water over them and leave for 4 minutes, then drain and refresh under cold running water.\r\n\r\nstep 2\r\nPut the lime juice, cayenne, sugar and fish sauce in a bowl and mix well. Have all the other ingredients ready by the cooker.\r\n\r\nstep 3\r\nHeat the oil and fry the prawns until warmed through. Add the spring onions and noodles and toss around. Tip in the lime juice mixture, then stir in the beansprouts and half the peanuts and coriander. Cook for 1 minute until everything is heated through.\r\n\r\nstep 4\r\nPile into a large dish, scatter with the rest of the peanuts and coriander, and serve with lime wedges and sweet chilli sauce.",
+    "ingredients": [
+      { "position": 1, "name": "Rice Noodles", "measurement": "125g" },
+      { "position": 2, "name": "Lime", "measurement": "Juice of 3" },
+      {
+        "position": 3,
+        "name": "Cayenne Pepper",
+        "measurement": "1/2 teaspoon"
+      },
+      {
+        "position": 4,
+        "name": "Muscovado Sugar",
+        "measurement": "2 teaspoons"
+      },
+      { "position": 5, "name": "Fish Sauce", "measurement": "2 tablespoons" },
+      {
+        "position": 6,
+        "name": "Vegetable Oil",
+        "measurement": "2 tablespoons"
+      },
+      { "position": 7, "name": "Tiger Prawns", "measurement": "200g" },
+      {
+        "position": 8,
+        "name": "Spring Onions",
+        "measurement": "4 finely sliced"
+      },
+      { "position": 9, "name": "Bean Sprouts", "measurement": "140g" },
+      { "position": 10, "name": "Peanuts", "measurement": "25g" },
+      { "position": 11, "name": "Coriander", "measurement": "Handful" },
+      { "position": 12, "name": "Lime", "measurement": "2" },
+      {
+        "position": 13,
+        "name": "sweet chilli sauce",
+        "measurement": "To serve"
+      }
+    ]
+  }
+}

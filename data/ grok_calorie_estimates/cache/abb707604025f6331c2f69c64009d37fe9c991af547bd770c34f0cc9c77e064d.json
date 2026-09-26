@@ -1,0 +1,93 @@
+{
+  "inputHash": "abb707604025f6331c2f69c64009d37fe9c991af547bd770c34f0cc9c77e064d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:15:18.875Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 24,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "2 lemons yield ~120 ml juice total; juice only contributes ~12 kcal/100 ml, negligible protein/fat"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 20,
+      "proteinG": 1,
+      "fatG": 1,
+      "assumptions": "4 tsp paprika ≈ 8 g; typical values ~250 kcal/100 g"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 60,
+      "proteinG": 2,
+      "fatG": 0,
+      "assumptions": "2 medium red onions ≈ 220 g finely chopped; ~27 kcal/100 g"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 1920,
+      "proteinG": 240,
+      "fatG": 104,
+      "assumptions": "16 skinless boneless chicken thighs (standard size ≈ 80 g each raw, total 1.28 kg); values for raw skinless thigh meat"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 60,
+      "proteinG": 0,
+      "fatG": 7,
+      "assumptions": "'For brushing' on 16 pieces before grilling; modest estimate of 1 tbsp (14 g) vegetable oil actually used and absorbed"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 285,
+      "proteinG": 27,
+      "fatG": 15,
+      "assumptions": "300 ml full-fat Greek yogurt ≈ 300 g; typical ~95 kcal/100 g with ~9 g protein and 5 g fat per 100 g"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 15,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "large piece ginger ≈ 30 g peeled and grated; ~50 kcal/100 g"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 18,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "4 garlic cloves ≈ 12 g total; ~150 kcal/100 g"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 5,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "¾ tsp garam masala ≈ 2 g; negligible per typical spice values"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 6,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "¾ tsp ground cumin ≈ 2 g; negligible per typical spice values"
+    },
+    {
+      "position": 11,
+      "caloriesKcal": 3,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "½ tsp chilli powder ≈ 1.5 g; negligible per typical spice values"
+    },
+    {
+      "position": 12,
+      "caloriesKcal": 2,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "¼ tsp turmeric ≈ 1 g; negligible per typical spice values"
+    }
+  ]
+}

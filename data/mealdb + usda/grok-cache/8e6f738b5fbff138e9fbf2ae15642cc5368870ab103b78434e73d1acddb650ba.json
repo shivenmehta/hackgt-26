@@ -1,0 +1,27 @@
+{
+  "inputHash": "8e6f738b5fbff138e9fbf2ae15642cc5368870ab103b78434e73d1acddb650ba",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:00.715Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 260,
+      "caloriesPer100g": 30,
+      "assumptions": "2 large Romano peppers estimated at 130g each (edible flesh after deseeding; typical weight for large pointed peppers is 100-150g)."
+    },
+    {
+      "position": 3,
+      "grams": 45,
+      "caloriesPer100g": 80,
+      "assumptions": "3 tablespoons red pepper paste (biber salcasi) at ~15g per tablespoon, typical for thick pastes; modest calorie density based on concentrated roasted peppers."
+    },
+    {
+      "position": 4,
+      "grams": 6,
+      "caloriesPer100g": 280,
+      "assumptions": "1 tablespoon pul biber (Turkish chili flakes) at ~6g per tablespoon; calorie density typical for dried spice flakes."
+    }
+  ]
+}

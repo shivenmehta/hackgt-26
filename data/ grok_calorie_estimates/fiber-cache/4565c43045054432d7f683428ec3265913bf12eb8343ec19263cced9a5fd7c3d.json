@@ -1,0 +1,87 @@
+{
+  "inputHash": "4565c43045054432d7f683428ec3265913bf12eb8343ec19263cced9a5fd7c3d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:23.693Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Quantity of sunflower oil for frying cannot be reasonably estimated; absorbed amount unknown."
+    },
+    {
+      "position": 2,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Quantity of ice cream to serve is unspecified; cannot estimate without a defined amount."
+    },
+    {
+      "position": 3,
+      "carbsG": 120,
+      "fiberG": 0,
+      "assumptions": "120g muscovado sugar (all used in sauce and coating); sugar is 100% carbohydrate."
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "60g butter (used in sauce); pure fat, zero carbs."
+    },
+    {
+      "position": 5,
+      "carbsG": 5,
+      "fiberG": 0,
+      "assumptions": "250ml double cream (~250g, used in sauce); ~2g carbs/100ml standard value."
+    },
+    {
+      "position": 6,
+      "carbsG": 22,
+      "fiberG": 12,
+      "assumptions": "100g dark chocolate (70% cocoa, used in sauce); typical values for 70% dark."
+    },
+    {
+      "position": 7,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "100g golden caster sugar (used in coating); sugar is 100% carbohydrate."
+    },
+    {
+      "position": 8,
+      "carbsG": 3,
+      "fiberG": 2.5,
+      "assumptions": "2 tsp (~5g) cinnamon (used in coating); standard spice values."
+    },
+    {
+      "position": 9,
+      "carbsG": 152,
+      "fiberG": 6,
+      "assumptions": "200g plain flour (all used in churro batter); ~76g carbs/100g, ~3g fiber/100g."
+    },
+    {
+      "position": 10,
+      "carbsG": 29,
+      "fiberG": 17,
+      "assumptions": "50g cocoa powder (used in churro batter); ~58g carbs/100g with high fiber."
+    },
+    {
+      "position": 11,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 tsp (~4g) baking powder (used in churro batter); low-carb leavener."
+    },
+    {
+      "position": 12,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tsp (~5g) vanilla extract (used in churro batter); negligible carbs."
+    },
+    {
+      "position": 13,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "50g melted butter (used in churro batter); pure fat, zero carbs."
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "inputHash": "6141e530897aa1a0b503c9fb468512a62f709884d028664c0197ab729a87d964",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:08.717Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1200,
+      "per100g": {
+        "caloriesKcal": 205,
+        "proteinG": 18.5,
+        "fatG": 13.9,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2460,
+      "proteinG": 222,
+      "fatG": 166.8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 whole mackerel estimated at 300 g each including head/bones/skin; typical edible portion considered in raw state for nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 54,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 12,
+        "fatG": 13,
+        "carbsG": 55,
+        "fiberG": 22
+      },
+      "caloriesKcal": 152.28,
+      "proteinG": 6.48,
+      "fatG": 7.02,
+      "carbsG": 29.7,
+      "fiberG": 11.88,
+      "assumptions": "18 dried Kashmiri red chilies; average 3 g per dried chili based on typical small dried chili size",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.8,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.18,
+      "fatG": 0.07,
+      "carbsG": 1.8,
+      "fiberG": 0.2,
+      "assumptions": "1 inch fresh ginger root, peeled weight estimate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 24,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 35.76,
+      "proteinG": 1.5360000000000003,
+      "fatG": 0.12,
+      "carbsG": 7.92,
+      "fiberG": 0.504,
+      "assumptions": "8 average garlic cloves, total peeled weight estimate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 255,
+        "proteinG": 10.4,
+        "fatG": 3.3,
+        "carbsG": 64,
+        "fiberG": 25
+      },
+      "caloriesKcal": 10.2,
+      "proteinG": 0.41600000000000004,
+      "fatG": 0.132,
+      "carbsG": 2.56,
+      "fiberG": 1,
+      "assumptions": "1.5 tsp whole black peppercorns; 1 tsp ≈ 2.7 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 17.8,
+        "fatG": 22.3,
+        "carbsG": 44,
+        "fiberG": 10.5
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.35600000000000004,
+      "fatG": 0.446,
+      "carbsG": 0.88,
+      "fiberG": 0.21,
+      "assumptions": "1 tsp whole cumin seeds; 1 tsp ≈ 2 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 312,
+        "proteinG": 9.7,
+        "fatG": 3.3,
+        "carbsG": 67,
+        "fiberG": 21
+      },
+      "caloriesKcal": 3.12,
+      "proteinG": 0.09699999999999999,
+      "fatG": 0.033,
+      "carbsG": 0.67,
+      "fiberG": 0.21,
+      "assumptions": "½ tsp turmeric powder; 1 tsp ≈ 2 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 1.2,
+        "carbsG": 81,
+        "fiberG": 53
+      },
+      "caloriesKcal": 7.41,
+      "proteinG": 0.12,
+      "fatG": 0.036,
+      "carbsG": 2.43,
+      "fiberG": 1.59,
+      "assumptions": "1 small cinnamon stick (assumed 3 g as optional spice per recipe note); typical household measure",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 274,
+        "proteinG": 6,
+        "fatG": 13,
+        "carbsG": 52,
+        "fiberG": 32
+      },
+      "caloriesKcal": 5.48,
+      "proteinG": 0.12,
+      "fatG": 0.26,
+      "carbsG": 1.04,
+      "fiberG": 0.64,
+      "assumptions": "4 whole cloves; average 0.5 g each",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 311,
+        "proteinG": 11,
+        "fatG": 7,
+        "carbsG": 68,
+        "fiberG": 28
+      },
+      "caloriesKcal": 3.11,
+      "proteinG": 0.11,
+      "fatG": 0.07,
+      "carbsG": 0.68,
+      "fiberG": 0.28,
+      "assumptions": "2 whole cardamom pods; average 0.5 g each",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 13,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 50.31,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 13,
+      "fiberG": 0,
+      "assumptions": "1 tbsp granulated sugar; 1 tbsp ≈ 12.5 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 239,
+        "proteinG": 2.6,
+        "fatG": 0.6,
+        "carbsG": 62,
+        "fiberG": 5.1
+      },
+      "caloriesKcal": 71.7,
+      "proteinG": 0.78,
+      "fatG": 0.18,
+      "carbsG": 18.6,
+      "fiberG": 1.53,
+      "assumptions": "2 marble-sized tamarind pulp balls; total 30 g plausible estimate for pulp used in marinade",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 38,
+      "per100g": {
+        "caloriesKcal": 21,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 7.98,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.342,
+      "fiberG": 0,
+      "assumptions": "2.5 tbsp vinegar (white or coconut); 1 tbsp ≈ 15 g, negligible macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 530.4,
+      "proteinG": 0,
+      "fatG": 60,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Oil for shallow frying; plausible 60 ml/54 g total absorbed/used for 4 fish based on typical recipe pan-fry amount",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52809",
+    "name": "Recheado Masala Fish",
+    "cuisine": "Indian",
+    "instructions": "Soak all the spices, ginger, garlic, tamarind pulp and kashmiri chilies except oil in vinegar.\r\nAdd sugar and salt.\r\nAlso add turmeric powder.\r\nCombine all nicely and marinate for 35-40 mins.\r\nGrind the mixture until soft and smooth. Add more vinegar if required but ensure the paste has to be thick so add vinegar accordingly. If the masala paste is thin then it would not stick to the fish.\r\nRinse the fish slit from the center and give some incision from the top. You could see the fish below for clarity.\r\nNow stuff the paste into the center and into the incision. Coat the entire fish with this paste. Marinate the fish for 30 mins.\r\nPlace oil in a shallow pan, once oil is quite hot shallow fry the stuffed mackerels.\r\nFry until golden brown from both sides\r\nServe the recheado mackerels hot with salad, lime wedges, rice and curry.\r\nNotes\r\n1. Ensure the masala paste is thick else the result won't be good.\r\n2. If you aren't able to find kashmiri chilies then use bedgi chilies or kashmiri red chili powder.\r\n3. You could use white vinegar or coconut vinegar.\r\n4. Any left over paste could be stored in the fridge for future use.\r\n5. Cinnamon could be avoided as it's a strong spice used generally for meat or chicken.",
+    "ingredients": [
+      { "position": 1, "name": "Mackerel", "measurement": "4" },
+      { "position": 2, "name": "Red Chilli", "measurement": "18 dried" },
+      { "position": 3, "name": "Ginger", "measurement": "1 inch" },
+      { "position": 4, "name": "Garlic", "measurement": "8 cloves" },
+      { "position": 5, "name": "Pepper", "measurement": "1.5 tsp" },
+      { "position": 6, "name": "Cumin", "measurement": "1 tsp" },
+      { "position": 7, "name": "Turmeric", "measurement": "½ tsp" },
+      { "position": 8, "name": "Cinnamon stick", "measurement": null },
+      { "position": 9, "name": "Cloves", "measurement": "4" },
+      { "position": 10, "name": "Cardamom", "measurement": "2" },
+      { "position": 11, "name": "Sugar", "measurement": "1 tbsp" },
+      {
+        "position": 12,
+        "name": "Tamarind ball",
+        "measurement": "2 marble sized"
+      },
+      { "position": 13, "name": "Vinegar", "measurement": "2.5 tbsp" },
+      { "position": 14, "name": "Oil", "measurement": "for frying" }
+    ]
+  }
+}

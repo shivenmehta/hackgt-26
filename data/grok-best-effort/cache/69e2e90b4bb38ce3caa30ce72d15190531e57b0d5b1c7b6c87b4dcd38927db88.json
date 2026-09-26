@@ -1,0 +1,393 @@
+{
+  "inputHash": "69e2e90b4bb38ce3caa30ce72d15190531e57b0d5b1c7b6c87b4dcd38927db88",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:13.071Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 85,
+        "proteinG": 18,
+        "fatG": 1,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 385.9,
+      "proteinG": 81.72,
+      "fatG": 4.54,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb raw jumbo shrimp, peeled and deveined (edible portion).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 10,
+        "fatG": 12,
+        "carbsG": 40,
+        "fiberG": 20
+      },
+      "caloriesKcal": 60,
+      "proteinG": 2,
+      "fatG": 2.4,
+      "carbsG": 8,
+      "fiberG": 4,
+      "assumptions": "2.5 tbsp Jamaican curry powder; typical spice blend density ~8g per tbsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 8,
+        "fatG": 5,
+        "carbsG": 50,
+        "fiberG": 5
+      },
+      "caloriesKcal": 12.5,
+      "proteinG": 0.4,
+      "fatG": 0.25,
+      "carbsG": 2.5,
+      "fiberG": 0.25,
+      "assumptions": "1 tsp all-purpose seasoning; typical savory spice blend density ~5g per tsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp olive oil; standard 14g per tbsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 9,
+        "fiberG": 2
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.1,
+      "fatG": 0,
+      "carbsG": 9.9,
+      "fiberG": 2.2,
+      "assumptions": "1 medium yellow onion, sliced (~110g).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 6,
+        "fiberG": 2
+      },
+      "caloriesKcal": 37.2,
+      "proteinG": 1.2,
+      "fatG": 0,
+      "carbsG": 7.2,
+      "fiberG": 2.4,
+      "assumptions": "1 medium red bell pepper, sliced (~120g).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 4,
+        "fiberG": 2
+      },
+      "caloriesKcal": 24,
+      "proteinG": 1.2,
+      "fatG": 0,
+      "carbsG": 4.8,
+      "fiberG": 2.4,
+      "assumptions": "1 medium green bell pepper, sliced (~120g).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 1,
+        "carbsG": 9,
+        "fiberG": 3
+      },
+      "caloriesKcal": 4,
+      "proteinG": 0.2,
+      "fatG": 0.1,
+      "carbsG": 0.9,
+      "fiberG": 0.3,
+      "assumptions": "1 scotch bonnet pepper, sliced (small, ~10g); typical for heat level in Jamaican recipes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6,
+        "fatG": 1,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.54,
+      "fatG": 0.09,
+      "carbsG": 2.97,
+      "fiberG": 0.18,
+      "assumptions": "3 cloves garlic, chopped (~9g total).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 380,
+      "per100g": {
+        "caloriesKcal": 197,
+        "proteinG": 2,
+        "fatG": 21,
+        "carbsG": 6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 748.6,
+      "proteinG": 7.6,
+      "fatG": 79.8,
+      "carbsG": 22.8,
+      "fiberG": 0,
+      "assumptions": "380g unsweetened coconut milk as given; standard canned value.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 100,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 25,
+        "fiberG": 0
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1/2 tbsp tomato ketchup (~8g); standard density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 100,
+        "proteinG": 6,
+        "fatG": 2,
+        "carbsG": 20,
+        "fiberG": 14
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.48,
+      "fatG": 0.16,
+      "carbsG": 1.6,
+      "fiberG": 1.12,
+      "assumptions": "4 sprigs fresh thyme (~8g total); typical household sprig weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Salt to taste; estimated 2g typical usage for the dish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pepper to taste; estimated 1g typical usage for the dish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53362",
+    "name": "Jamaican Curry Shrimp Recipe",
+    "cuisine": "Jamaican",
+    "instructions": "Season shrimp with 1 Tablespoon of curry powder and all-purpose seasoning and set aside for about 10 minutes while you prepare the other ingredients like chopping your onions, peppers, and garlic.\r\nHeat 2 Tablespoons of olive oil in a large skillet over medium heat. Add sliced yellow onion, red bell pepper, green bell pepper, scotch bonnet pepper, if using, and chopped garlic and stir for 5 minutes, until peppers are slightly softened.\r\nAdd 1.5 Tablespoons of curry powder to the skillet and stir for an additional minute.\r\nThen add coconut milk, seasoned shrimp, ketchup, and thyme, making sure the shrimp is covered in the sauce.\r\nAllow the sauce to come to a simmer and continue to cook over medium heat, stirring occasionally and flipping the shrimp halfway, until the shrimp is fully cooked on both sides. This should take about 5-6 minutes. Salt and pepper to taste.",
+    "ingredients": [
+      { "position": 1, "name": "Jumbo Shrimp", "measurement": "1 lb" },
+      {
+        "position": 2,
+        "name": "Jamaican Curry Powder",
+        "measurement": "2.5 tbsp"
+      },
+      {
+        "position": 3,
+        "name": "All-purpose Seasoning",
+        "measurement": "1 tsp"
+      },
+      { "position": 4, "name": "Olive Oil", "measurement": "2 tablespoons" },
+      { "position": 5, "name": "Onion", "measurement": "1 sliced" },
+      { "position": 6, "name": "Red Pepper", "measurement": "1 sliced" },
+      { "position": 7, "name": "Green Pepper", "measurement": "1 sliced" },
+      { "position": 8, "name": "Scotch Bonnet", "measurement": "1 sliced" },
+      { "position": 9, "name": "Garlic", "measurement": "3 cloves Chopped" },
+      {
+        "position": 10,
+        "name": "Unsweetened Coconut Milk",
+        "measurement": "380g"
+      },
+      { "position": 11, "name": "Tomato Ketchup", "measurement": "1/2 tbs" },
+      { "position": 12, "name": "Thyme", "measurement": "4 sprigs" },
+      { "position": 13, "name": "Salt", "measurement": "To taste" },
+      { "position": 14, "name": "Pepper", "measurement": "To taste" }
+    ]
+  }
+}

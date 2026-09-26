@@ -1,0 +1,367 @@
+{
+  "inputHash": "6e630e7c9cc49f0445b46f4b190667cbb55635ce6f7358919e0342058651f0ca",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:36.225Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 81,
+      "proteinG": 4.05,
+      "fatG": 0.9,
+      "carbsG": 17.55,
+      "fiberG": 5.4,
+      "assumptions": "3 large tomatoes ≈ 450g total; typical medium-large tomato is 150g; raw, edible portion only",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2
+      },
+      "caloriesKcal": 37.2,
+      "proteinG": 1.2,
+      "fatG": 0.36,
+      "carbsG": 7.2,
+      "fiberG": 2.4,
+      "assumptions": "1 medium Romano (sweet red) pepper ≈ 120g; raw, edible portion after deseeding",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.4,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.4,
+      "fatG": 0.08,
+      "carbsG": 1.8,
+      "fiberG": 0.3,
+      "assumptions": "1 medium green chilli ≈ 20g; raw, edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 70,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 28,
+      "proteinG": 0.77,
+      "fatG": 0.07,
+      "carbsG": 6.51,
+      "fiberG": 1.19,
+      "assumptions": "1 small onion ≈ 70g; raw, edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 cloves garlic ≈ 6g total; raw, minced",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.7,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 9,
+      "proteinG": 0.75,
+      "fatG": 0.175,
+      "carbsG": 1.575,
+      "fiberG": 0.825,
+      "assumptions": "Exactly 25g fresh parsley as listed; raw, edible leaves and stems",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 50,
+        "proteinG": 2,
+        "fatG": 1,
+        "carbsG": 10,
+        "fiberG": 3
+      },
+      "caloriesKcal": 15,
+      "proteinG": 0.6,
+      "fatG": 0.3,
+      "carbsG": 3,
+      "fiberG": 0.9,
+      "assumptions": "2 tablespoons Turkish red pepper paste (biber salcasi) ≈ 30g; typical density and commercial product values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 4.3,
+        "fatG": 0.5,
+        "carbsG": 18.9,
+        "fiberG": 4.1
+      },
+      "caloriesKcal": 12.3,
+      "proteinG": 0.645,
+      "fatG": 0.075,
+      "carbsG": 2.835,
+      "fiberG": 0.6149999999999999,
+      "assumptions": "1 tablespoon tomato puree/paste ≈ 15g; standard commercial value",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 240,
+        "proteinG": 0.4,
+        "fatG": 0.1,
+        "carbsG": 59,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 72,
+      "proteinG": 0.12,
+      "fatG": 0.03,
+      "carbsG": 17.7,
+      "fiberG": 0.06,
+      "assumptions": "2 tablespoons pomegranate molasses ≈ 30g; typical commercial product, high-sugar syrup",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 12,
+        "fatG": 13,
+        "carbsG": 44,
+        "fiberG": 32
+      },
+      "caloriesKcal": 16.92,
+      "proteinG": 0.72,
+      "fatG": 0.78,
+      "carbsG": 2.64,
+      "fiberG": 1.92,
+      "assumptions": "1 tablespoon pul biber (Aleppo pepper flakes) ≈ 6g; standard spice density",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp sumac ≈ 4g; typical spice values yield negligible macros per small quantity",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 285,
+        "proteinG": 14,
+        "fatG": 5,
+        "carbsG": 55,
+        "fiberG": 30
+      },
+      "caloriesKcal": 8.55,
+      "proteinG": 0.42,
+      "fatG": 0.15,
+      "carbsG": 1.65,
+      "fiberG": 0.9,
+      "assumptions": "1 tablespoon dried mint ≈ 3g; standard dried herb density",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 55,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 486.2,
+      "proteinG": 0,
+      "fatG": 55,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "60 ml extra virgin olive oil ≈ 55g (density 0.91 g/ml); entire amount used in recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53254",
+    "name": "Ezme",
+    "cuisine": "Turkish",
+    "instructions": "step 1\r\nPut the tomatoes and all of the peppers in a food processor and blitz until finely chopped. Tip out into a sieve, set over a bowl and leave to strain. Add the onions, garlic and parsley to the food processor and blitz until finely chopped, then set aside.\r\n\r\nstep 2\r\nAdd red pepper paste, tomato purée, pomegranate molasses, pul biber, sumac, dried mint and most of the extra virgin olive oil to a serving bowl and whisk well so everything comes together as a sauce. Tip in the blitzed onion mixture and the strained pepper mixture along with 1 tsp flaky sea salt . Stir well, then drizzle with the remaining extra virgin olive oil to serve.",
+    "ingredients": [
+      { "position": 1, "name": "Tomato", "measurement": "3 Large" },
+      { "position": 2, "name": "Romano Pepper", "measurement": "1 medium" },
+      { "position": 3, "name": "Green Chilli", "measurement": "1 medium" },
+      { "position": 4, "name": "Onion", "measurement": "1 small" },
+      { "position": 5, "name": "Garlic", "measurement": "2 cloves minced" },
+      { "position": 6, "name": "Parsley", "measurement": "25g" },
+      {
+        "position": 7,
+        "name": "Red Pepper Paste",
+        "measurement": "2 tablespoons"
+      },
+      { "position": 8, "name": "Tomato Puree", "measurement": "1 tablespoon" },
+      {
+        "position": 9,
+        "name": "Pomegranate Molasses",
+        "measurement": "2 tablespoons"
+      },
+      { "position": 10, "name": "Pul Biber", "measurement": "1 tablespoon" },
+      { "position": 11, "name": "Sumac", "measurement": "2 tsp" },
+      { "position": 12, "name": "Dried Mint", "measurement": "1 tablespoon" },
+      {
+        "position": 13,
+        "name": "Extra Virgin Olive Oil",
+        "measurement": "60 ml"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "inputHash": "2c566913b7a80b5bcab29700ed69390f8aa73774575d606f6b1d0a6888dddddf",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:38.974Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 180,
+      "caloriesPer100g": 71.4,
+      "assumptions": "6 large prawns; each ~30g raw edible weight including tail (standard for large prawns ~20-40g each)."
+    },
+    {
+      "position": 3,
+      "grams": 149,
+      "caloriesPer100g": 82,
+      "assumptions": "150ml dry white wine; density ~0.993 g/ml, rounded to 149g."
+    },
+    {
+      "position": 5,
+      "grams": 150,
+      "caloriesPer100g": 26.9,
+      "assumptions": "1 small fennel bulb finely diced; typical small bulb ~150g edible after trimming."
+    },
+    {
+      "position": 6,
+      "grams": 70,
+      "caloriesPer100g": 38,
+      "assumptions": "1 small onion finely diced; typical small onion ~70g."
+    },
+    {
+      "position": 8,
+      "grams": 200,
+      "caloriesPer100g": 83.4,
+      "assumptions": "1 large potato; typical large potato ~200g peeled."
+    },
+    {
+      "position": 9,
+      "grams": 130,
+      "caloriesPer100g": 47,
+      "assumptions": "1 medium orange; typical whole orange ~130g (zest only used, but full fruit weight for density)."
+    },
+    {
+      "position": 10,
+      "grams": null,
+      "caloriesPer100g": null,
+      "assumptions": "1 star anise; very light (~0.5-1g), modest seasoning amount, no reliable calorie density for recipe use - left null."
+    },
+    {
+      "position": 11,
+      "grams": null,
+      "caloriesPer100g": 313,
+      "assumptions": "1 bay leaf; very light (~0.2g), modest seasoning amount - no realistic grams estimate, using supplied calorie value."
+    },
+    {
+      "position": 12,
+      "grams": null,
+      "caloriesPer100g": null,
+      "assumptions": "1.5 tsp harissa spice; ~4-5g total, but modest seasoning amount with no reliable calorie density - left null."
+    },
+    {
+      "position": 15,
+      "grams": 150,
+      "caloriesPer100g": 86,
+      "assumptions": "Handful of mussels; typical handful ~8-12 mussels ~150g in shells (edible portion lower but using whole as per recipe state)."
+    },
+    {
+      "position": 16,
+      "grams": 200,
+      "caloriesPer100g": null,
+      "assumptions": "White fish given as 200g; knownGrams field absent so left null for grams, using supplied knownCaloriesPer100g as null per instructions."
+    },
+    {
+      "position": 17,
+      "grams": null,
+      "caloriesPer100g": 101,
+      "assumptions": "2 sprigs thyme; very light (~2-4g total), modest seasoning amount - no realistic grams estimate, using supplied calorie value."
+    },
+    {
+      "position": 18,
+      "grams": null,
+      "caloriesPer100g": 266,
+      "assumptions": "Bread 'to serve'; unspecified quantity, no reasonable estimate possible - left grams null."
+    }
+  ]
+}

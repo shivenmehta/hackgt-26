@@ -1,0 +1,79 @@
+{
+  "inputHash": "6c0aa8dfa09de3b882b1bcbd8f1b2220b04d040d41c9cf532500a803aebaf9de",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:21:06.479Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 200,
+      "proteinG": 11,
+      "fatG": 17,
+      "assumptions": "50g cured chorizo sausage, fried; standard values for Spanish-style chorizo"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 45,
+      "proteinG": 1.2,
+      "fatG": 0.2,
+      "assumptions": "1 medium onion (~110g), chopped; standard raw onion values"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 4,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "assumptions": "1 typical garlic clove (~3g), minced; standard raw garlic values"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 10,
+      "proteinG": 0.8,
+      "fatG": 0.2,
+      "assumptions": "~20g usable chopped parsley leaves from a bunch (stalks mostly discarded); standard fresh parsley values"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 10,
+      "proteinG": 0.5,
+      "fatG": 0.5,
+      "assumptions": "200ml vegetable stock from concentrate or cube; typical low-calorie stock values"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 90,
+      "proteinG": 4,
+      "fatG": 0.5,
+      "assumptions": "400g can of chopped/plum tomatoes (whole can including juice); standard canned tomato values"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 170,
+      "proteinG": 11,
+      "fatG": 1,
+      "assumptions": "400g can of butter beans, drained weight ~240-260g; standard drained canned bean values"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 5,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tsp (~5g) sherry vinegar; negligible calories"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 140,
+      "proteinG": 24,
+      "fatG": 2,
+      "assumptions": "600g live clams in shell, edible portion after steaming/opening (~150-180g meat); standard raw clam meat values, shells discarded"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Crusty bread to serve - quantity not specified, cannot estimate totals"
+    }
+  ]
+}

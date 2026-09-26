@@ -1,0 +1,45 @@
+{
+  "inputHash": "434dfe80b9179332863269b7e9c0ae5852381fd202cb8ea69a4b53872c05f2b3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:49.571Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 198,
+      "fiberG": 18,
+      "assumptions": "2 cups semi-sweet chocolate chips ≈ 340 g (standard density 170 g/cup); using typical semi-sweet values of 58 g carbs and 5.3 g fiber per 100 g"
+    },
+    {
+      "position": 2,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 tbs heavy cream ≈ 30 ml / 30 g; typical values ≈ 3.3 g carbs per 100 g, negligible fiber"
+    },
+    {
+      "position": 3,
+      "carbsG": 212,
+      "fiberG": 0,
+      "assumptions": "1 × 14-oz can sweetened condensed milk ≈ 397 g (full can used across positions 3 and 6; values shown here are full-can totals for this line, not split); typical values ≈ 53.4 g carbs per 100 g, negligible fiber"
+    },
+    {
+      "position": 4,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 tsp vanilla extract ≈ 4 g; typical values ≈ 12.7 g carbs per 100 g, negligible fiber"
+    },
+    {
+      "position": 5,
+      "carbsG": 128,
+      "fiberG": 0,
+      "assumptions": "1⅓ cups white chocolate chips ≈ 220 g (standard density ≈ 165 g/cup); typical values ≈ 58 g carbs per 100 g, negligible fiber"
+    },
+    {
+      "position": 6,
+      "carbsG": 68,
+      "fiberG": 0,
+      "assumptions": "1½ cups miniature marshmallows ≈ 75 g (standard density ≈ 50 g/cup); typical values ≈ 90 g carbs per 100 g, negligible fiber"
+    }
+  ]
+}

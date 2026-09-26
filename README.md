@@ -122,3 +122,15 @@ rebuilds offline; `npm run test:meals` checks catalog integrity and filters.
 Use `src/lib/meals/catalog.ts` from Node/server code. Original MealDB categories
 are not reliable dietary guarantees; positive diet filters require explicit
 ingredient-screened flags. Nutrition, pricing, and servings remain unknown.
+
+## Precalculated recipe nutrition
+
+The separate [combined catalog](data/combined/README.md) adds USDA-based
+whole-recipe calories, protein, and fat to all 300 recipes, with partial coverage
+and explicit 100 g quantity placeholders where needed. The base MealDB catalog
+keeps its original null nutrition fields. Rebuild with `npm run meals:nutrition`
+and verify with `npm run test:nutrition`.
+
+Optional [Grok calorie enrichment](data/combined/GROK.md) fills calorie/quantity
+gaps in the 190 partial recipes, retaining original USDA values. Run
+`npm run meals:grok -- --dry-run` to preview or `npm run meals:grok` to resume.

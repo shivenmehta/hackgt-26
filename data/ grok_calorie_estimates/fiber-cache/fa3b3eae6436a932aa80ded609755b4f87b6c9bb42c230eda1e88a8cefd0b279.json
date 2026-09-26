@@ -1,0 +1,99 @@
+{
+  "inputHash": "fa3b3eae6436a932aa80ded609755b4f87b6c9bb42c230eda1e88a8cefd0b279",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:11.929Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 kg boneless skinless chicken thighs, raw weight; zero carbs/fiber"
+    },
+    {
+      "position": 2,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "1 tbs ground coriander; standard 1 tbsp = ~6 g, ~3 g carbs mostly fiber"
+    },
+    {
+      "position": 3,
+      "carbsG": 3,
+      "fiberG": 1,
+      "assumptions": "1 tbs ground cumin; standard 1 tbsp = ~6 g, ~3 g carbs with ~1 g fiber"
+    },
+    {
+      "position": 4,
+      "carbsG": 4,
+      "fiberG": 2,
+      "assumptions": "1 tbs ground cardamom; standard 1 tbsp = ~7 g, ~4 g carbs with ~2 g fiber"
+    },
+    {
+      "position": 5,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "1 tsp cayenne pepper; standard 1 tsp = ~2 g, ~1 g carbs mostly fiber"
+    },
+    {
+      "position": 6,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "2 tsp paprika; standard 2 tsp = ~4 g, ~2 g carbs with ~1 g fiber"
+    },
+    {
+      "position": 7,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "2 tbs lemon juice; standard 2 tbsp = ~30 ml, ~3 g carbs (sugars), negligible fiber"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbs olive oil; pure fat, zero carbs/fiber"
+    },
+    {
+      "position": 9,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "1 cup (240 ml) plain Greek yogurt; standard non-fat/low-fat, ~8 g carbs (lactose), fiber negligible"
+    },
+    {
+      "position": 10,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 garlic clove (~3 g); ~1 g carbs, negligible fiber"
+    },
+    {
+      "position": 11,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tsp ground cumin; standard 1 tsp = ~2 g, ~1 g carbs, negligible fiber"
+    },
+    {
+      "position": 12,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "Splash of lemon juice (~1 tsp = 5 ml); ~0.5-1 g carbs, negligible fiber"
+    },
+    {
+      "position": 13,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "Sliced lettuce for 6 servings (~150 g total); ~2 g carbs/100 g with most as fiber"
+    },
+    {
+      "position": 14,
+      "carbsG": 8,
+      "fiberG": 2,
+      "assumptions": "Sliced tomato for 6 servings (~200 g total); ~4 g carbs/100 g with ~1 g fiber/100 g"
+    },
+    {
+      "position": 15,
+      "carbsG": 150,
+      "fiberG": 18,
+      "assumptions": "6 standard pita breads (~60 g each, 25 g carbs + 3 g fiber per pita)"
+    }
+  ]
+}

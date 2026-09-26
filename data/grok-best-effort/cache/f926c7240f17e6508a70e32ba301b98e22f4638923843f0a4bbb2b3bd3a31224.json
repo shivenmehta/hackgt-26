@@ -1,0 +1,355 @@
+{
+  "inputHash": "f926c7240f17e6508a70e32ba301b98e22f4638923843f0a4bbb2b3bd3a31224",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:24.995Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 20,
+        "fatG": 18,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1250,
+      "proteinG": 100,
+      "fatG": 90,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw lamb mince, typical 20% fat content; values for uncooked weight as added to casserole.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 average garlic cloves minced; standard raw garlic nutrient profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion (approx 110g), peeled and chopped; raw onion values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.9,
+        "fatG": 0.4,
+        "carbsG": 3.6,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 69,
+      "proteinG": 8.7,
+      "fatG": 1.2,
+      "carbsG": 10.8,
+      "fiberG": 6.6,
+      "assumptions": "Fresh spinach leaves as added; raw spinach nutrient density before wilting.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 4.2,
+        "fatG": 0.5,
+        "carbsG": 18.9,
+        "fiberG": 4.1
+      },
+      "caloriesKcal": 36.9,
+      "proteinG": 1.89,
+      "fatG": 0.225,
+      "carbsG": 8.504999999999999,
+      "fiberG": 1.8449999999999998,
+      "assumptions": "3 tablespoons tomato puree/paste (approx 15g per tbsp); concentrated tomato values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 17.8,
+        "fatG": 22.3,
+        "carbsG": 43.9,
+        "fiberG": 10.5
+      },
+      "caloriesKcal": 22.5,
+      "proteinG": 1.068,
+      "fatG": 1.338,
+      "carbsG": 2.634,
+      "fiberG": 0.63,
+      "assumptions": "1 tablespoon ground cumin; standard dry spice nutrition per teaspoon scaled.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.3,
+        "carbsG": 0.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 70,
+      "proteinG": 9,
+      "fatG": 3,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "1 litre chicken stock; low-calorie broth values assuming standard commercial or homemade without added fat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 50,
+        "proteinG": 2.5,
+        "fatG": 2.5,
+        "carbsG": 7.5,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 4.5,
+      "proteinG": 0.225,
+      "fatG": 0.225,
+      "carbsG": 0.675,
+      "fiberG": 0.225,
+      "assumptions": "3 teaspoons harissa spice blend (approx 3g per tsp); typical North African chili-garlic-spice mix values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 246,
+      "per100g": {
+        "caloriesKcal": 138,
+        "proteinG": 8.9,
+        "fatG": 2.6,
+        "carbsG": 22.5,
+        "fiberG": 6.2
+      },
+      "caloriesKcal": 339.48,
+      "proteinG": 21.894000000000002,
+      "fatG": 6.396,
+      "carbsG": 55.35,
+      "fiberG": 15.252,
+      "assumptions": "400g can chickpeas, drained weight approx 246g after discarding liquid; standard drained canned values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.4,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 8.7,
+      "proteinG": 0.12,
+      "fatG": 0.09,
+      "carbsG": 2.79,
+      "fiberG": 0.09,
+      "assumptions": "Juice from 1/2 average lemon (approx 30g); raw lemon juice nutrient profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 371,
+        "proteinG": 13.2,
+        "fatG": 1.5,
+        "carbsG": 74.7,
+        "fiberG": 3.2
+      },
+      "caloriesKcal": 556.5,
+      "proteinG": 19.8,
+      "fatG": 2.25,
+      "carbsG": 112.05,
+      "fiberG": 4.8,
+      "assumptions": "Dry macaroni pasta as added before boiling; uncooked durum wheat values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of salt; negligible contribution to total weight and macros, estimated at 1g for calculation.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of pepper; negligible contribution to total weight and macros, estimated at 1g for calculation.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52972",
+    "name": "Tunisian Lamb Soup",
+    "cuisine": "Tunisian",
+    "instructions": "Add the lamb to a casserole and cook over high heat. When browned, remove from the heat and set aside.\r\nKeep a tablespoon of fat in the casserole and discard the rest. Reduce to medium heat then add the garlic, onion and spinach and cook until the onion is translucent and the spinach wilted or about 5 minutes.\r\nReturn the lamb to the casserole with the onion-spinach mixture, add the tomato puree, cumin, harissa, chicken, chickpeas, lemon juice, salt and pepper in the pan. Simmer over low heat for about 20 minutes.\r\nAdd the pasta and cook for 15 minutes or until pasta is cooked.",
+    "ingredients": [
+      { "position": 1, "name": "Lamb Mince", "measurement": "500g" },
+      { "position": 2, "name": "Garlic", "measurement": "2 cloves minced" },
+      { "position": 3, "name": "Onion", "measurement": "1" },
+      { "position": 4, "name": "Spinach", "measurement": "300g" },
+      { "position": 5, "name": "Tomato Puree", "measurement": "3 tbs" },
+      { "position": 6, "name": "Cumin", "measurement": "1 tbs" },
+      { "position": 7, "name": "Chicken Stock", "measurement": "1 Litre" },
+      { "position": 8, "name": "Harissa Spice", "measurement": "3 tsp" },
+      { "position": 9, "name": "Chickpeas", "measurement": "400g" },
+      { "position": 10, "name": "Lemon Juice", "measurement": "1/2" },
+      { "position": 11, "name": "Macaroni", "measurement": "150g" },
+      { "position": 12, "name": "Salt", "measurement": "Pinch" },
+      { "position": 13, "name": "Pepper", "measurement": "Pinch" }
+    ]
+  }
+}

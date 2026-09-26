@@ -1,0 +1,33 @@
+{
+  "inputHash": "210338f0b30995e2ada666f0ce87e5dd6b994198348633c8427bf1e3128b5676",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:06.998Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 227,
+      "caloriesPer100g": null,
+      "assumptions": "Using supplied knownGrams exactly as given for the 227g clotted cream line; caloriesPer100g left null because no value was supplied in targets and the instruction is to estimate only null fields while copying supplied known values exactly."
+    },
+    {
+      "position": 3,
+      "grams": 3,
+      "caloriesPer100g": null,
+      "assumptions": "1 tsp corn flour (cornstarch) is realistically ~3 g based on standard density of ~0.5 g/ml for 5 ml teaspoon; caloriesPer100g left null because no value was supplied in targets."
+    },
+    {
+      "position": 5,
+      "grams": 2,
+      "caloriesPer100g": 525,
+      "assumptions": "'Grated' nutmeg is a modest 'to taste' amount; realistically ~1-2 g for a small grating (a whole nutmeg is ~5-7 g total); using supplied knownCaloriesPer100g exactly and modest realistic weight for seasoning."
+    },
+    {
+      "position": 7,
+      "grams": 5,
+      "caloriesPer100g": 36,
+      "assumptions": "'Chopped' parsley for sprinkling to finish is a modest garnish amount realistically ~4-6 g (a small handful); using supplied knownCaloriesPer100g exactly and modest realistic weight for seasoning/herb garnish."
+    }
+  ]
+}

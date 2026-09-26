@@ -1,0 +1,57 @@
+{
+  "inputHash": "c659269de33b2ee416593b39a281130c030dd7bf7b77a01fd0e2b9ac2f7f6683",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:37.025Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 2,
+      "caloriesPer100g": 282,
+      "assumptions": "Pinch of paprika estimated at 2g, a typical modest amount for a seasoning in a recipe for 4 servings."
+    },
+    {
+      "position": 4,
+      "grams": 200,
+      "caloriesPer100g": 22,
+      "assumptions": "2 small tomatoes cut into chunks; each small tomato ~100g edible portion, total 200g."
+    },
+    {
+      "position": 7,
+      "grams": 200,
+      "caloriesPer100g": 223,
+      "assumptions": "1 whole avocado; average edible flesh weight ~200g after skin and pit removed."
+    },
+    {
+      "position": 8,
+      "grams": 40,
+      "caloriesPer100g": 30,
+      "assumptions": "Juice of 1 lime; average lime yields ~40g juice."
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "caloriesPer100g": 30,
+      "assumptions": "'Chopped' lime interpreted as zest or small amount of chopped lime flesh; modest 15g estimate for flavoring."
+    },
+    {
+      "position": 11,
+      "grams": 10,
+      "caloriesPer100g": null,
+      "assumptions": "2 tsp harissa spice estimated at 10g (5g per tsp for a dense spice blend); caloriesPer100g left null as no reliable value for this specific prepared spice mix."
+    },
+    {
+      "position": 12,
+      "grams": 200,
+      "caloriesPer100g": 218,
+      "assumptions": "4 corn tortillas; average small corn tortilla ~50g each, total 200g."
+    },
+    {
+      "position": 13,
+      "grams": 10,
+      "caloriesPer100g": 23,
+      "assumptions": "Coriander 'to serve' estimated at 10g total fresh leaves, a modest handful for the recipe."
+    }
+  ]
+}

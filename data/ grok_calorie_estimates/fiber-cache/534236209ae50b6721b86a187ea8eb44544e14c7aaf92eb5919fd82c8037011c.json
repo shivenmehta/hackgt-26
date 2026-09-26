@@ -1,0 +1,93 @@
+{
+  "inputHash": "534236209ae50b6721b86a187ea8eb44544e14c7aaf92eb5919fd82c8037011c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:24.536Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 500,
+      "fiberG": 0,
+      "assumptions": "500g granulated sugar; 100% carbohydrate, 0 fiber"
+    },
+    {
+      "position": 2,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "lemon juice to taste; quantity too vague and negligible to estimate reliably"
+    },
+    {
+      "position": 3,
+      "carbsG": 41,
+      "fiberG": 20,
+      "assumptions": "300g raw walnuts, edible portion only; using standard USDA values scaled to full 300g"
+    },
+    {
+      "position": 4,
+      "carbsG": 28,
+      "fiberG": 19,
+      "assumptions": "200g raw pecan nuts, edible portion only; using standard USDA values scaled to full 200g"
+    },
+    {
+      "position": 5,
+      "carbsG": 22,
+      "fiberG": 12,
+      "assumptions": "100g raw almonds, edible portion only; using standard USDA values scaled to full 100g"
+    },
+    {
+      "position": 6,
+      "carbsG": 9,
+      "fiberG": 6,
+      "assumptions": "2 tbsp (≈14g) ground cinnamon; using standard values scaled to full quantity"
+    },
+    {
+      "position": 7,
+      "carbsG": 4,
+      "fiberG": 3,
+      "assumptions": "1 tbsp (≈7g) ground cardamom; using standard values scaled to full quantity"
+    },
+    {
+      "position": 8,
+      "carbsG": 27,
+      "fiberG": 0,
+      "assumptions": "500g whole-milk ricotta cheese; using standard values scaled to full 500g"
+    },
+    {
+      "position": 9,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "zest of 1 lemon (≈6g); using standard values scaled to full quantity"
+    },
+    {
+      "position": 10,
+      "carbsG": 4,
+      "fiberG": 1,
+      "assumptions": "zest of 1 orange (≈12g); using standard values scaled to full quantity"
+    },
+    {
+      "position": 11,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "1 tbsp (≈15g) vanilla bean paste; using standard values scaled to full quantity"
+    },
+    {
+      "position": 12,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "250g unsalted butter; 0 carbohydrate"
+    },
+    {
+      "position": 13,
+      "carbsG": 310,
+      "fiberG": 11,
+      "assumptions": "500g filo pastry sheets, as-packaged weight; using standard commercial filo values scaled to full 500g"
+    },
+    {
+      "position": 14,
+      "carbsG": 17,
+      "fiberG": 12,
+      "assumptions": "100g ground pistachios (raw kernels), edible portion only; using standard USDA values scaled to full 100g"
+    }
+  ]
+}

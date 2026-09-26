@@ -1,0 +1,63 @@
+{
+  "inputHash": "a2d4af8ccb2c99d4025d61c9f6d6b9a7e82ddf8f72a24f228aafa130b160473c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:16.667Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 pork tenderloins (approx 1.2kg total raw); plain meat has zero carbs/fiber"
+    },
+    {
+      "position": 2,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "200ml dry white wine (standard ~4g carbs/100ml from residual sugars)"
+    },
+    {
+      "position": 3,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "1/2 tsp paprika (~1.5g; typical values scaled)"
+    },
+    {
+      "position": 4,
+      "carbsG": 18,
+      "fiberG": 6,
+      "assumptions": "2 whole average lemons (~240g total; standard whole lemon values scaled)"
+    },
+    {
+      "position": 5,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "Juice of 1/2 lemon (~15ml; standard lemon juice values)"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Dash olive oil (~5ml); pure oil has zero carbs/fiber"
+    },
+    {
+      "position": 7,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Mayonnaise to serve: quantity unspecified, cannot estimate total carbs/fiber"
+    },
+    {
+      "position": 8,
+      "carbsG": 170,
+      "fiberG": 20,
+      "assumptions": "1kg raw potatoes (standard raw potato values ~17g carbs/2g fiber per 100g, scaled to full 1kg; assumes edible portion after prep still ~1kg for estimate)"
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Vegetable oil for frying (~40g absorbed); pure oil has zero carbs/fiber"
+    }
+  ]
+}

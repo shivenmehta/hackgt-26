@@ -1,0 +1,381 @@
+{
+  "inputHash": "ead743a08e3384fcb32b72f302e626594a1aca06d290991ac4b2a38f4f2f3808",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:03.472Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 20,
+        "fatG": 20,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1000,
+      "proteinG": 80,
+      "fatG": 80,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard 80/20 ground beef, raw weight as given; nutrients reflect typical raw minced beef values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 265.2,
+      "proteinG": 0,
+      "fatG": 30,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons olive oil (≈30g total); used for frying the patties, full amount included as per typical recipe absorption and pan coating.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 280,
+        "proteinG": 9,
+        "fatG": 4,
+        "carbsG": 50,
+        "fiberG": 3
+      },
+      "caloriesKcal": 840,
+      "proteinG": 27,
+      "fatG": 12,
+      "carbsG": 150,
+      "fiberG": 9,
+      "assumptions": "2 standard sesame seed hamburger buns (≈150g each including seeds); total weight for all three layers per assembled burger set.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 9,
+        "fiberG": 2
+      },
+      "caloriesKcal": 32,
+      "proteinG": 0.8,
+      "fatG": 0,
+      "carbsG": 7.2,
+      "fiberG": 1.6,
+      "assumptions": "1 medium onion, fully chopped as used throughout assembly; typical recipe quantity for garnish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 14,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 3,
+        "fiberG": 2
+      },
+      "caloriesKcal": 14,
+      "proteinG": 1,
+      "fatG": 0,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "1/4 head of iceberg lettuce, shredded; ≈100g edible portion after trimming.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 25,
+        "fatG": 30,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 140,
+      "proteinG": 10,
+      "fatG": 12,
+      "carbsG": 0.4,
+      "fiberG": 0,
+      "assumptions": "2 slices American cheese (≈20g each); typical processed burger cheese.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 4,
+        "fiberG": 1
+      },
+      "caloriesKcal": 10.8,
+      "proteinG": 0.6,
+      "fatG": 0,
+      "carbsG": 2.4,
+      "fiberG": 0.6,
+      "assumptions": "2 large dill pickles, sliced; ≈60g total drained weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 680,
+        "proteinG": 1,
+        "fatG": 75,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1632,
+      "proteinG": 2.4,
+      "fatG": 180,
+      "carbsG": 7.2,
+      "fiberG": 0,
+      "assumptions": "1 cup mayonnaise (≈240g); full amount for Big Mac sauce recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.1,
+      "fiberG": 0,
+      "assumptions": "2 teaspoons white wine vinegar (≈10g); included in sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of pepper (≈2g total for sauce); negligible impact, treated as zero nutrients.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 3,
+        "fatG": 4,
+        "carbsG": 2,
+        "fiberG": 1
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.3,
+      "fatG": 0.4,
+      "carbsG": 0.2,
+      "fiberG": 0.1,
+      "assumptions": "2 teaspoons prepared yellow mustard (≈10g); included in sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1.5 teaspoons onion salt (≈9g); primarily salt with dehydrated onion, treated as zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1.5 teaspoons garlic powder (≈5g); typical spice weight, treated as zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "0.5 teaspoon paprika (≈3g); typical spice weight, treated as zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53013",
+    "name": "Big Mac",
+    "cuisine": "American",
+    "instructions": "For the Big Mac sauce, combine all the ingredients in a bowl, season with salt and chill until ready to use.\r\n2. To make the patties, season the mince with salt and pepper and form into 4 balls using about 1/3 cup mince each. Place each onto a square of baking paper and flatten to form into four x 15cm circles. Heat oil in a large frypan over high heat. In 2 batches, cook beef patties for 1-2 minutes each side until lightly charred and cooked through. Remove from heat and keep warm. Repeat with remaining two patties.\r\n3. Carefully slice each burger bun into three acrossways, then lightly toast.\r\n4. To assemble the burgers, spread a little Big Mac sauce over the bottom base. Top with some chopped onion, shredded lettuce, slice of cheese, beef patty and some pickle slices. Top with the middle bun layer, and spread with more Big Mac sauce, onion, lettuce, pickles, beef patty and then finish with more sauce. Top with burger lid to serve.\r\n5. After waiting half an hour for your food to settle, go for a jog.",
+    "ingredients": [
+      { "position": 1, "name": "Minced Beef", "measurement": "400g" },
+      { "position": 2, "name": "Olive Oil", "measurement": "2 tbs" },
+      { "position": 3, "name": "Sesame Seed Burger Buns", "measurement": "2" },
+      { "position": 4, "name": "Onion", "measurement": "Chopped" },
+      { "position": 5, "name": "Iceberg Lettuce", "measurement": "1/4" },
+      { "position": 6, "name": "Cheese", "measurement": "2 sliced" },
+      { "position": 7, "name": "Dill Pickles", "measurement": "2 large" },
+      { "position": 8, "name": "Mayonnaise", "measurement": "1 cup" },
+      { "position": 9, "name": "White Wine Vinegar", "measurement": "2 tsp" },
+      { "position": 10, "name": "Pepper", "measurement": "Pinch" },
+      { "position": 11, "name": "Mustard", "measurement": "2 tsp" },
+      { "position": 12, "name": "Onion Salt", "measurement": "1 1/2 tsp" },
+      { "position": 13, "name": "Garlic Powder", "measurement": "1 1/2 tsp" },
+      { "position": 14, "name": "Paprika", "measurement": "1/2 tsp" }
+    ]
+  }
+}

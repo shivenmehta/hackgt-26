@@ -1,0 +1,21 @@
+{
+  "inputHash": "56a1a9c15c4ba94b7b5371944eb6379c6d388cdf070af2700ba07d4b16e00930",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:41.828Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 350,
+      "caloriesPer100g": null,
+      "assumptions": "2.5 cups pitted dates estimated at ~140 g per cup based on typical chopped/pitted date density; this is the full measured ingredient amount before cooking."
+    },
+    {
+      "position": 4,
+      "grams": 160,
+      "caloriesPer100g": 382,
+      "assumptions": "2 cups rolled oats at standard 80 g per cup; using supplied knownCaloriesPer100g exactly. This is the dry input state."
+    }
+  ]
+}

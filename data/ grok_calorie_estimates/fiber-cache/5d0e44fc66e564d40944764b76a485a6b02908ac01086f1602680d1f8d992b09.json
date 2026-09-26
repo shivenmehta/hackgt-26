@@ -1,0 +1,63 @@
+{
+  "inputHash": "5d0e44fc66e564d40944764b76a485a6b02908ac01086f1602680d1f8d992b09",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:49.054Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 115.5,
+      "fiberG": 4.4,
+      "assumptions": "175 g digestive biscuits (standard UK digestive ~66 g carbs/100 g, 2.5 g fiber/100 g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "75 g butter (no carbohydrates)"
+    },
+    {
+      "position": 3,
+      "carbsG": 22,
+      "fiberG": 4,
+      "assumptions": "200 g Bramley apples, peeled and sliced (raw edible portion ~11 g carbs/100 g, 2 g fiber/100 g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "75 g salted butter (no carbohydrates)"
+    },
+    {
+      "position": 5,
+      "carbsG": 75,
+      "fiberG": 0,
+      "assumptions": "75 g caster sugar (100 g carbs/100 g, no fiber)"
+    },
+    {
+      "position": 6,
+      "carbsG": 0.8,
+      "fiberG": 0,
+      "assumptions": "2 large free-range eggs, beaten (~0.4 g carbs per egg, negligible fiber; assumes standard large eggs ~50 g each without shell)"
+    },
+    {
+      "position": 7,
+      "carbsG": 7.5,
+      "fiberG": 4.5,
+      "assumptions": "75 g ground almonds (~10 g carbs/100 g, 6 g fiber/100 g)"
+    },
+    {
+      "position": 8,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tsp almond extract (~5 g; ~20 g carbs/100 g, negligible fiber; contribution small but not zero)"
+    },
+    {
+      "position": 9,
+      "carbsG": 5.5,
+      "fiberG": 3.5,
+      "assumptions": "50 g flaked almonds (~11 g carbs/100 g, 7 g fiber/100 g)"
+    }
+  ]
+}

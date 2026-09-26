@@ -1,0 +1,87 @@
+{
+  "inputHash": "c0f30e3b11811efe34b8f11795e32d871625f165e0d0ba928a52a59d8323802b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:22.775Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 1.4,
+      "fiberG": 0.2,
+      "assumptions": "1 tbsp chopped ginger ≈ 6 g (from prior); standard values for raw ginger"
+    },
+    {
+      "position": 2,
+      "carbsG": 1.3,
+      "fiberG": 0.1,
+      "assumptions": "2 chopped garlic cloves ≈ 6 g total (from prior); standard values for raw garlic"
+    },
+    {
+      "position": 3,
+      "carbsG": 4.2,
+      "fiberG": 2.1,
+      "assumptions": "3 lemongrass stalks, trimmed and chopped ≈ 30 g total edible portion (from prior); standard values for raw lemongrass"
+    },
+    {
+      "position": 4,
+      "carbsG": 0.4,
+      "fiberG": 0.3,
+      "assumptions": "2 tbsp chopped coriander leaves ≈ 5 g (from prior); standard values for raw coriander"
+    },
+    {
+      "position": 5,
+      "carbsG": 3.9,
+      "fiberG": 0.6,
+      "assumptions": "2 sliced red chillies ≈ 30 g total (from prior); standard values for raw red chili"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp vegetable oil (all used in cooking) (from prior); pure oil has zero carbs/fiber"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "250 g raw beef (stewing cut, trimmed) (from prior); plain meat has zero carbs/fiber"
+    },
+    {
+      "position": 8,
+      "carbsG": 3,
+      "fiberG": 0.3,
+      "assumptions": "2 tbsp soy sauce ≈ 30 ml (from prior); typical fermented soy sauce values"
+    },
+    {
+      "position": 9,
+      "carbsG": 1.2,
+      "fiberG": 0.6,
+      "assumptions": "1 tsp five-spice powder ≈ 2 g (from prior); standard values for five-spice blend"
+    },
+    {
+      "position": 10,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "1 tsp brown sugar ≈ 4 g (from prior); standard values for brown sugar"
+    },
+    {
+      "position": 11,
+      "carbsG": 2.4,
+      "fiberG": 0,
+      "assumptions": "400 ml beef stock (typical canned or prepared, low-moderate fat) (from prior); typical stock values"
+    },
+    {
+      "position": 12,
+      "carbsG": 82,
+      "fiberG": 3.6,
+      "assumptions": "100 g dry rice noodles (prepared per instructions, drained) (from prior); standard dry rice noodle values (USDA approx)"
+    },
+    {
+      "position": 13,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Lime to serve (quantity not specified; contribution omitted) (from prior); unknown quantity prevents estimation"
+    }
+  ]
+}

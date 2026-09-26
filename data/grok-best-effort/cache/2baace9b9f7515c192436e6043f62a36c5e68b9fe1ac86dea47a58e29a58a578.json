@@ -1,0 +1,277 @@
+{
+  "inputHash": "2baace9b9f7515c192436e6043f62a36c5e68b9fe1ac86dea47a58e29a58a578",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:25:14.508Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 21,
+        "fatG": 6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 286,
+      "proteinG": 42,
+      "fatG": 12,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pork tenderloin, raw, lean cuts typical for this Chinese stir-fry recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.5,
+      "proteinG": 6.5,
+      "fatG": 5,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 large whole egg (approx 50g with shell); used partially for egg white in marinade",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Dash of water for starch sauce and wok; estimated 30ml plausible for sauce consistency in recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp table salt; negligible macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 15.48,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "1 tsp granulated white sugar",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 8,
+        "fatG": 0.1,
+        "carbsG": 4,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 5.3,
+      "proteinG": 0.8,
+      "fatG": 0.01,
+      "carbsG": 0.4,
+      "fiberG": 0.05,
+      "assumptions": "Light soy sauce, typical Chinese variety",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 91,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 38.1,
+      "proteinG": 0.03,
+      "fatG": 0.01,
+      "carbsG": 9.1,
+      "fiberG": 0.09,
+      "assumptions": "Cornstarch (typical starch for Chinese marinade and sauce); used across marinade, sauce, and coating steps",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 1.3,
+        "fatG": 0.3,
+        "carbsG": 19,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 24.6,
+      "proteinG": 0.39,
+      "fatG": 0.09,
+      "carbsG": 5.7,
+      "fiberG": 0.75,
+      "assumptions": "Tomato puree/paste, concentrated",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 3,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0.3,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.01,
+      "fiberG": 0,
+      "assumptions": "White vinegar, typical for sweet and sour sauce",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 1.15,
+      "proteinG": 0.11,
+      "fatG": 0.025,
+      "carbsG": 0.185,
+      "fiberG": 0.14,
+      "assumptions": "Fresh coriander leaves for garnish; small dash estimated at 5g edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52949",
+    "name": "Sweet and Sour Pork",
+    "cuisine": "Chinese",
+    "instructions": "Preparation\r\n1. Crack the egg into a bowl. Separate the egg white and yolk.\r\n\r\nSweet and Sour Pork\r\n2. Slice the pork tenderloin into strips.\r\n\r\n3. Prepare the marinade using a pinch of salt, one teaspoon of starch, two teaspoons of light soy sauce, and an egg white.\r\n\r\n4. Marinade the pork strips for about 20 minutes.\r\n\r\n5. Put the remaining starch in a bowl. Add some water and vinegar to make a starchy sauce.\r\n\r\nSweet and Sour Pork\r\nCooking Instructions\r\n1. Pour the cooking oil into a wok and heat to 190°C (375°F). Add the marinated pork strips and fry them until they turn brown. Remove the cooked pork from the wok and place on a plate.\r\n\r\n2. Leave some oil in the wok. Put the tomato sauce and white sugar into the wok, and heat until the oil and sauce are fully combined.\r\n\r\n3. Add some water to the wok and thoroughly heat the sweet and sour sauce before adding the pork strips to it.\r\n\r\n4. Pour in the starchy sauce. Stir-fry all the ingredients until the pork and sauce are thoroughly mixed together.\r\n\r\n5. Serve on a plate and add some coriander for decoration.",
+    "ingredients": [
+      { "position": 1, "name": "Pork", "measurement": "200g" },
+      { "position": 2, "name": "Egg", "measurement": "1" },
+      { "position": 3, "name": "Water", "measurement": "Dash" },
+      { "position": 4, "name": "Salt", "measurement": "1/2 tsp" },
+      { "position": 5, "name": "Sugar", "measurement": "1 tsp" },
+      { "position": 6, "name": "Soy Sauce", "measurement": "10g" },
+      { "position": 7, "name": "Starch", "measurement": "10g" },
+      { "position": 8, "name": "Tomato Puree", "measurement": "30g" },
+      { "position": 9, "name": "Vinegar", "measurement": "10g" },
+      { "position": 10, "name": "Coriander", "measurement": "Dash" }
+    ]
+  }
+}

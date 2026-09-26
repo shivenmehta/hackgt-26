@@ -1,0 +1,63 @@
+{
+  "inputHash": "4a4e51c5703e32dc3308683bf195eee58b3c0d12488933e774c3e12891c61525",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:05.583Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 250,
+      "caloriesPer100g": null,
+      "assumptions": "2 small beef fillets estimated at ~125g each (typical small medallion size for prego rolls; edible portion after trimming)."
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "caloriesPer100g": 36,
+      "assumptions": "'Leaves' indicates a modest amount for marinade; ~5g is realistic for a few parsley stalks/leaves (seasoning level, not a bunch)."
+    },
+    {
+      "position": 6,
+      "grams": 200,
+      "caloriesPer100g": null,
+      "assumptions": "2 ciabatta rolls; standard small sandwich roll ~100g each (edible bread portion)."
+    },
+    {
+      "position": 7,
+      "grams": 40,
+      "caloriesPer100g": 31,
+      "assumptions": "2 handfuls of rocket/arugula; typical handful ~20g, used as sandwich filling."
+    },
+    {
+      "position": 8,
+      "grams": 20,
+      "caloriesPer100g": 23,
+      "assumptions": "Small bunch of basil leaves for sauce; realistic edible leaf mass ~20g."
+    },
+    {
+      "position": 9,
+      "grams": 25,
+      "caloriesPer100g": 36,
+      "assumptions": "Small bunch of parsley for sauce; realistic edible leaf mass ~25g."
+    },
+    {
+      "position": 10,
+      "grams": 45,
+      "caloriesPer100g": 29,
+      "assumptions": "1 whole jalapeño pepper; average edible mass after stem removal ~45g."
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "caloriesPer100g": 32,
+      "assumptions": "2 chopped spring onions/scallions; average edible portion per onion ~15g."
+    },
+    {
+      "position": 13,
+      "grams": 3,
+      "caloriesPer100g": 143,
+      "assumptions": "1/2 garlic clove; typical clove ~6g so half is ~3g."
+    }
+  ]
+}

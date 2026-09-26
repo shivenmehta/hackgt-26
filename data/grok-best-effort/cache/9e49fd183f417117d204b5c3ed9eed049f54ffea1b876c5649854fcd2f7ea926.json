@@ -1,0 +1,173 @@
+{
+  "inputHash": "9e49fd183f417117d204b5c3ed9eed049f54ffea1b876c5649854fcd2f7ea926",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:27.359Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 553,
+        "proteinG": 18.2,
+        "fatG": 43.9,
+        "carbsG": 30.2,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 1382.5,
+      "proteinG": 45.5,
+      "fatG": 109.75,
+      "carbsG": 75.5,
+      "fiberG": 8.25,
+      "assumptions": "Raw cashew nuts, as listed; standard USDA-like values for whole cashews.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 387,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "Standard powdered white sugar (icing sugar); nearly 100% carbohydrate.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 34,
+      "per100g": {
+        "caloriesKcal": 317,
+        "proteinG": 15.9,
+        "fatG": 26.5,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 107.78,
+      "proteinG": 5.406000000000001,
+      "fatG": 9.01,
+      "carbsG": 1.224,
+      "fiberG": 0,
+      "assumptions": "2 large egg yolks ≈ 34 g total; typical values for raw egg yolk.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons orange blossom water ≈ 30 g; treated as water with negligible macros (aromatic, zero-calorie).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 193.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 50,
+      "fiberG": 0,
+      "assumptions": "Extra icing sugar for glazing/rolling; plausible 50 g used based on typical cookie recipes (not listed as exact quantity).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 579,
+        "proteinG": 21.2,
+        "fatG": 49.9,
+        "carbsG": 21.6,
+        "fiberG": 12.5
+      },
+      "caloriesKcal": 579,
+      "proteinG": 21.2,
+      "fatG": 49.9,
+      "carbsG": 21.6,
+      "fiberG": 12.5,
+      "assumptions": "Whole almonds, as listed; standard values for raw almonds with skin.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52976",
+    "name": "Cashew Ghoriba Biscuits",
+    "cuisine": "Tunisian",
+    "instructions": "Preheat the oven at 180 C / Gas 4. Line a baking tray with greaseproof paper.\r\nIn a bowl, mix the cashews and icing sugar. Add the egg yolks and orange blossom water and mix to a smooth homogeneous paste.\r\nTake lumps of the cashew paste and shape into small balls. Roll the balls in icing sugar and transfer to the baking tray. Push an almond in the centre of each ghribia.\r\nBake until the biscuits are lightly golden, about 20 minutes. Keep an eye on them, they burn quickly.",
+    "ingredients": [
+      { "position": 1, "name": "Cashew Nuts", "measurement": "250g" },
+      { "position": 2, "name": "Icing Sugar", "measurement": "100g" },
+      { "position": 3, "name": "Egg Yolks", "measurement": "2" },
+      { "position": 4, "name": "Orange Blossom Water", "measurement": "2 tbs" },
+      { "position": 5, "name": "Icing Sugar", "measurement": "To Glaze" },
+      { "position": 6, "name": "Almonds", "measurement": "100g" }
+    ]
+  }
+}

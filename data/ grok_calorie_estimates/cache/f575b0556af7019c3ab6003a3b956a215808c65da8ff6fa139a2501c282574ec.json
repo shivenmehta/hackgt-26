@@ -1,0 +1,51 @@
+{
+  "inputHash": "f575b0556af7019c3ab6003a3b956a215808c65da8ff6fa139a2501c282574ec",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:20:22.022Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Handful of sea salt (≈15-20g); nutritional contribution negligible as most is brushed off before cooking"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "4 bay leaves; nutritional contribution negligible"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 18,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "4 cloves garlic (≈12g total); raw weight used"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Handful of fresh thyme (≈10-15g); nutritional contribution negligible"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 1380,
+      "proteinG": 124,
+      "fatG": 98,
+      "assumptions": "4 duck legs (≈1400g total raw with skin/bone); values based on typical whole-leg composition including rendered fat released during cooking"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 70,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "100ml white wine; standard dry white wine values, alcohol mostly evaporates but calories retained"
+    }
+  ]
+}

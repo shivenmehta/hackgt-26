@@ -1,0 +1,51 @@
+{
+  "inputHash": "f0a1d011e858975cdf881c93b842cde0e84a30a5a0044714c0eda02773e455c4",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:40.121Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 4.2,
+      "caloriesPer100g": null,
+      "assumptions": "Standard density for ground spice; 1 tsp harissa powder weighs ~4.2g based on typical spice volume-to-weight conversion."
+    },
+    {
+      "position": 4,
+      "grams": 24,
+      "caloriesPer100g": 29,
+      "assumptions": "Standard half lemon yields ~24g juice; using supplied knownCaloriesPer100g for lemon juice."
+    },
+    {
+      "position": 5,
+      "grams": 60,
+      "caloriesPer100g": 32,
+      "assumptions": "Medium spring onion ~15g each, so 4 total 60g edible portion; using supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 8,
+      "grams": 20,
+      "caloriesPer100g": 44,
+      "assumptions": "Measurement given as 20 (presumed grams) chopped mint leaves; using supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 9,
+      "grams": 16,
+      "caloriesPer100g": 689,
+      "assumptions": "1 tablespoon pine nuts ~8g, so 2 tbsp = 16g; using supplied knownCaloriesPer100g."
+    },
+    {
+      "position": 10,
+      "grams": 0.3,
+      "caloriesPer100g": 0,
+      "assumptions": "Pinch of salt estimated at ~0.3g; using supplied knownCaloriesPer100g of 0."
+    },
+    {
+      "position": 11,
+      "grams": 0.3,
+      "caloriesPer100g": 251,
+      "assumptions": "Pinch of pepper estimated at ~0.3g; using supplied knownCaloriesPer100g."
+    }
+  ]
+}

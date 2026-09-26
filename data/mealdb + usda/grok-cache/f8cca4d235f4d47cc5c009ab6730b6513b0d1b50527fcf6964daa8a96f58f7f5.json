@@ -1,0 +1,27 @@
+{
+  "inputHash": "f8cca4d235f4d47cc5c009ab6730b6513b0d1b50527fcf6964daa8a96f58f7f5",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:21.231Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 45,
+      "caloriesPer100g": 32,
+      "assumptions": "3 medium spring onions sliced thinly average 15g each (edible portion after trimming roots/tops); realistic weight for '3 sliced thinly' in a recipe serving 2."
+    },
+    {
+      "position": 3,
+      "grams": 50,
+      "caloriesPer100g": 81,
+      "assumptions": "Measurement given as 50g; petit pois (young peas) are ~81 kcal/100g whether fresh or frozen, in raw/pre-cooked state as added to the noodle mix."
+    },
+    {
+      "position": 4,
+      "grams": 85,
+      "caloriesPer100g": 40,
+      "assumptions": "Measurement given as 85g; assumes fresh red or green chillies (whole or prepared) at standard ~40 kcal/100g raw, as listed in the ingredients despite not appearing in the provided instructions."
+    }
+  ]
+}

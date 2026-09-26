@@ -1,0 +1,255 @@
+{
+  "inputHash": "1a80926ffd9c9a9078d63ddfb3d252dd594f7286281fdef17d953dccd780a1fe",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:46.239Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 429,
+        "proteinG": 2.5,
+        "fatG": 46,
+        "carbsG": 3.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 429,
+      "proteinG": 2.5,
+      "fatG": 46,
+      "carbsG": 3.5,
+      "fiberG": 0,
+      "assumptions": "Standard full-fat mascarpone cheese values; entire 100g used as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 9,
+        "fatG": 5,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 48.5,
+      "proteinG": 4.5,
+      "fatG": 2.5,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "Plain full-fat Greek yogurt; entire 50g used as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 97,
+        "fiberG": 0
+      },
+      "caloriesKcal": 96.75,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 24.25,
+      "fiberG": 0,
+      "assumptions": "Standard powdered icing sugar; entire 25g used as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons orange blossom water estimated at 30g total; negligible macros, treated as water/flavoring.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 2.5,
+        "fatG": 0,
+        "carbsG": 92,
+        "fiberG": 0
+      },
+      "caloriesKcal": 95,
+      "proteinG": 0.625,
+      "fatG": 0,
+      "carbsG": 23,
+      "fiberG": 0,
+      "assumptions": "1 standard small meringue nest estimated at 25g (typical single nest weight); high-sugar baked meringue.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 270,
+      "per100g": {
+        "caloriesKcal": 48,
+        "proteinG": 0.5,
+        "fatG": 0.2,
+        "carbsG": 11.5,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 129.6,
+      "proteinG": 1.35,
+      "fatG": 0.54,
+      "carbsG": 31.05,
+      "fiberG": 4.05,
+      "assumptions": "3 medium fresh apricots estimated at 90g each (edible portion with stone removed); raw state per recipe folding step.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 1,
+        "fatG": 3,
+        "carbsG": 78,
+        "fiberG": 2
+      },
+      "caloriesKcal": 136,
+      "proteinG": 0.4,
+      "fatG": 1.2,
+      "carbsG": 31.2,
+      "fiberG": 0.8,
+      "assumptions": "2 standard pieces rose-flavored Turkish delight estimated at 20g each (typical bite-size); high-sugar confectionery.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 579,
+        "proteinG": 21,
+        "fatG": 50,
+        "carbsG": 22,
+        "fiberG": 12
+      },
+      "caloriesKcal": 144.75,
+      "proteinG": 5.25,
+      "fatG": 12.5,
+      "carbsG": 5.5,
+      "fiberG": 3,
+      "assumptions": "Toasted or flaked almonds as listed; entire 25g used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 35,
+        "proteinG": 3,
+        "fatG": 0.5,
+        "carbsG": 6,
+        "fiberG": 4
+      },
+      "caloriesKcal": 2.8,
+      "proteinG": 0.24,
+      "fatG": 0.04,
+      "carbsG": 0.48,
+      "fiberG": 0.32,
+      "assumptions": "4 fresh mint leaves estimated at ~2g each (total 8g); used as decoration and folded in, negligible but included for completeness.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53276",
+    "name": "Apricot & Turkish delight mess",
+    "cuisine": "Turkish",
+    "instructions": "step 1\r\nPlace the mascarpone, yogurt, sugar and orange flower water into a large bowl and whisk until thickened. Fold the remaining ingredients through, then divide the mix between 2 dessert glasses or bowls and decorate with extra mint, if you like.",
+    "ingredients": [
+      { "position": 1, "name": "Mascarpone", "measurement": "100g" },
+      { "position": 2, "name": "Greek Yogurt", "measurement": "50g" },
+      { "position": 3, "name": "Icing Sugar", "measurement": "25g" },
+      {
+        "position": 4,
+        "name": "Orange Blossom Water",
+        "measurement": "2 tablespoons"
+      },
+      { "position": 5, "name": "Meringue Nests", "measurement": "1" },
+      { "position": 6, "name": "Apricot", "measurement": "3" },
+      { "position": 7, "name": "Turkish Delight", "measurement": "2 pieces" },
+      { "position": 8, "name": "Almonds", "measurement": "25g" },
+      { "position": 9, "name": "Mint", "measurement": "4" }
+    ]
+  }
+}

@@ -1,0 +1,1006 @@
+{
+  "schemaVersion": 1,
+  "mealCount": 300,
+  "ingredientLines": 3266,
+  "matchedLines": 2939,
+  "quantitiesConverted": 1836,
+  "assumed100gLines": 1100,
+  "statusCounts": {
+    "calculated-estimate": 12,
+    "assumed-quantities": 98,
+    "partial": 190
+  },
+  "unresolvedIngredients": [
+    {
+      "ingredient": "rice vinegar",
+      "occurrences": 10,
+      "mealIds": [
+        "53373",
+        "53365",
+        "52951",
+        "52945",
+        "53378",
+        "53073",
+        "53227",
+        "53233",
+        "53229",
+        "53249"
+      ]
+    },
+    {
+      "ingredient": "corn flour",
+      "occurrences": 9,
+      "mealIds": [
+        "52945",
+        "52946",
+        "52862",
+        "52835",
+        "53046",
+        "53230",
+        "52878",
+        "53233",
+        "53148"
+      ]
+    },
+    {
+      "ingredient": "garam masala",
+      "occurrences": 7,
+      "mealIds": ["52795", "52785", "52868", "52865", "52806", "53047", "52820"]
+    },
+    {
+      "ingredient": "harissa spice",
+      "occurrences": 7,
+      "mealIds": ["52870", "52817", "52850", "52797", "52973", "52972", "52918"]
+    },
+    {
+      "ingredient": "digestive biscuits",
+      "occurrences": 5,
+      "mealIds": ["52859", "52833", "52768", "53007", "52924"]
+    },
+    {
+      "ingredient": "scotch bonnet",
+      "occurrences": 5,
+      "mealIds": ["53361", "52944", "53345", "53354", "53362"]
+    },
+    {
+      "ingredient": "starch",
+      "occurrences": 5,
+      "mealIds": ["52952", "52951", "52949", "52950"]
+    },
+    {
+      "ingredient": "almond extract",
+      "occurrences": 4,
+      "mealIds": ["52768", "52767", "52894"]
+    },
+    {
+      "ingredient": "creme fraiche",
+      "occurrences": 4,
+      "mealIds": ["52844", "52780", "52910", "52906"]
+    },
+    {
+      "ingredient": "lamb",
+      "occurrences": 4,
+      "mealIds": ["52805", "52808", "52974", "53008"]
+    },
+    {
+      "ingredient": "mascarpone",
+      "occurrences": 4,
+      "mealIds": ["52849", "53276", "53007", "53293"]
+    },
+    {
+      "ingredient": "mozzarella",
+      "occurrences": 4,
+      "mealIds": ["52996", "52987", "53014", "52849"]
+    },
+    {
+      "ingredient": "sherry vinegar",
+      "occurrences": 4,
+      "mealIds": ["53166", "53157", "53185", "53154"]
+    },
+    {
+      "ingredient": "sweet chilli sauce",
+      "occurrences": 4,
+      "mealIds": ["53239", "53191", "53206", "53212"]
+    },
+    {
+      "ingredient": "thai red curry paste",
+      "occurrences": 4,
+      "mealIds": ["53204", "53234", "53208", "53212"]
+    },
+    {
+      "ingredient": "all-purpose seasoning",
+      "occurrences": 3,
+      "mealIds": ["53345", "53354", "53362"]
+    },
+    {
+      "ingredient": "birds-eye chillies",
+      "occurrences": 3,
+      "mealIds": ["53193", "53238", "53230"]
+    },
+    {
+      "ingredient": "celery salt",
+      "occurrences": 3,
+      "mealIds": ["53016", "52813", "52927"]
+    },
+    {
+      "ingredient": "cheese",
+      "occurrences": 3,
+      "mealIds": ["53085", "53013", "52779"]
+    },
+    {
+      "ingredient": "chicken stock cube",
+      "occurrences": 3,
+      "mealIds": ["52838", "53031", "52920"]
+    },
+    {
+      "ingredient": "chilli",
+      "occurrences": 3,
+      "mealIds": ["52946", "52827", "53248"]
+    },
+    {
+      "ingredient": "english mustard",
+      "occurrences": 3,
+      "mealIds": ["52848", "52803", "52927"]
+    },
+    {
+      "ingredient": "lemon zest",
+      "occurrences": 3,
+      "mealIds": ["52810", "53046", "53148"]
+    },
+    {
+      "ingredient": "mirin",
+      "occurrences": 3,
+      "mealIds": ["53033", "53034", "52871"]
+    },
+    {
+      "ingredient": "noodles",
+      "occurrences": 3,
+      "mealIds": ["52952", "53383", "53031"]
+    },
+    {
+      "ingredient": "onion salt",
+      "occurrences": 3,
+      "mealIds": ["52951", "53013", "52813"]
+    },
+    {
+      "ingredient": "shortcrust pastry",
+      "occurrences": 3,
+      "mealIds": ["52857", "52923", "53343"]
+    },
+    {
+      "ingredient": "sichuan pepper",
+      "occurrences": 3,
+      "mealIds": ["52947", "53374", "53371"]
+    },
+    {
+      "ingredient": "single cream",
+      "occurrences": 3,
+      "mealIds": ["52923", "52905", "52932"]
+    },
+    {
+      "ingredient": "water chestnut",
+      "occurrences": 3,
+      "mealIds": ["52945", "52946", "53200"]
+    },
+    {
+      "ingredient": "baguette",
+      "occurrences": 2,
+      "mealIds": ["53045", "53249"]
+    },
+    {
+      "ingredient": "beef fillet",
+      "occurrences": 2,
+      "mealIds": ["53042", "52803"]
+    },
+    {
+      "ingredient": "broad beans",
+      "occurrences": 2,
+      "mealIds": ["53025", "53026"]
+    },
+    {
+      "ingredient": "coco sugar",
+      "occurrences": 2,
+      "mealIds": ["52794", "53295"]
+    },
+    {
+      "ingredient": "crusty bread",
+      "occurrences": 2,
+      "mealIds": ["53168", "53154"]
+    },
+    {
+      "ingredient": "dried mint",
+      "occurrences": 2,
+      "mealIds": ["53256", "53254"]
+    },
+    {
+      "ingredient": "duck legs",
+      "occurrences": 2,
+      "mealIds": ["52838", "52907"]
+    },
+    {
+      "ingredient": "filo pastry",
+      "occurrences": 2,
+      "mealIds": ["53279", "52975"]
+    },
+    {
+      "ingredient": "golden syrup",
+      "occurrences": 2,
+      "mealIds": ["52861", "53153"]
+    },
+    {
+      "ingredient": "ice cream",
+      "occurrences": 2,
+      "mealIds": ["52893", "53170"]
+    },
+    {
+      "ingredient": "jamaican curry powder",
+      "occurrences": 2,
+      "mealIds": ["53354", "53362"]
+    },
+    {
+      "ingredient": "lasagne sheets",
+      "occurrences": 2,
+      "mealIds": ["52844", "52775"]
+    },
+    {
+      "ingredient": "miniature marshmallows",
+      "occurrences": 2,
+      "mealIds": ["52787", "52786"]
+    },
+    {
+      "ingredient": "mozzarella balls",
+      "occurrences": 2,
+      "mealIds": ["52844", "52777"]
+    },
+    {
+      "ingredient": "orange blossom water",
+      "occurrences": 2,
+      "mealIds": ["52976", "53276"]
+    },
+    {
+      "ingredient": "orange zest",
+      "occurrences": 2,
+      "mealIds": ["52810", "53148"]
+    },
+    {
+      "ingredient": "pecorino",
+      "occurrences": 2,
+      "mealIds": ["52783", "52982"]
+    },
+    {
+      "ingredient": "pickle juice",
+      "occurrences": 2,
+      "mealIds": ["53016", "53033"]
+    },
+    {
+      "ingredient": "potato starch",
+      "occurrences": 2,
+      "mealIds": ["52831", "53295"]
+    },
+    {
+      "ingredient": "pul biber",
+      "occurrences": 2,
+      "mealIds": ["53262", "53254"]
+    },
+    {
+      "ingredient": "red pepper paste",
+      "occurrences": 2,
+      "mealIds": ["53262", "53254"]
+    },
+    { "ingredient": "rice wine", "occurrences": 2, "mealIds": ["53065"] },
+    {
+      "ingredient": "romano pepper",
+      "occurrences": 2,
+      "mealIds": ["53262", "53254"]
+    },
+    {
+      "ingredient": "sesame seed burger buns",
+      "occurrences": 2,
+      "mealIds": ["53013", "53016"]
+    },
+    {
+      "ingredient": "shredded mexican cheese",
+      "occurrences": 2,
+      "mealIds": ["52830", "53067"]
+    },
+    {
+      "ingredient": "star anise",
+      "occurrences": 2,
+      "mealIds": ["53238", "52918"]
+    },
+    {
+      "ingredient": "stir-fry vegetables",
+      "occurrences": 2,
+      "mealIds": ["52772", "53195"]
+    },
+    {
+      "ingredient": "sugar snap peas",
+      "occurrences": 2,
+      "mealIds": ["52839", "53245"]
+    },
+    { "ingredient": "tuna", "occurrences": 2, "mealIds": ["52777", "52975"] },
+    {
+      "ingredient": "udon noodles",
+      "occurrences": 2,
+      "mealIds": ["52871", "53195"]
+    },
+    {
+      "ingredient": "white fish",
+      "occurrences": 2,
+      "mealIds": ["52819", "52918"]
+    },
+    { "ingredient": "almond essence", "occurrences": 1, "mealIds": ["53298"] },
+    { "ingredient": "ancho chillies", "occurrences": 1, "mealIds": ["52826"] },
+    { "ingredient": "anchovy fillet", "occurrences": 1, "mealIds": ["52783"] },
+    { "ingredient": "bacon lardon", "occurrences": 1, "mealIds": ["53156"] },
+    { "ingredient": "barbeque sauce", "occurrences": 1, "mealIds": ["52995"] },
+    {
+      "ingredient": "beef stock concentrate",
+      "occurrences": 1,
+      "mealIds": ["53071"]
+    },
+    { "ingredient": "beef tomatoes", "occurrences": 1, "mealIds": ["53185"] },
+    { "ingredient": "biryani masala", "occurrences": 1, "mealIds": ["52805"] },
+    { "ingredient": "black pudding", "occurrences": 1, "mealIds": ["53156"] },
+    { "ingredient": "black treacle", "occurrences": 1, "mealIds": ["52848"] },
+    { "ingredient": "borlotti beans", "occurrences": 1, "mealIds": ["52826"] },
+    { "ingredient": "bouquet garni", "occurrences": 1, "mealIds": ["52904"] },
+    { "ingredient": "bramley apples", "occurrences": 1, "mealIds": ["52768"] },
+    { "ingredient": "brandy", "occurrences": 1, "mealIds": ["52832"] },
+    { "ingredient": "bun", "occurrences": 1, "mealIds": ["53010"] },
+    { "ingredient": "buns", "occurrences": 1, "mealIds": ["53085"] },
+    { "ingredient": "cajun", "occurrences": 1, "mealIds": ["52819"] },
+    { "ingredient": "callaloo", "occurrences": 1, "mealIds": ["53361"] },
+    { "ingredient": "caramel sauce", "occurrences": 1, "mealIds": ["52833"] },
+    {
+      "ingredient": "chicken bouillon powder",
+      "occurrences": 1,
+      "mealIds": ["53372"]
+    },
+    {
+      "ingredient": "chilli bean paste",
+      "occurrences": 1,
+      "mealIds": ["53374"]
+    },
+    {
+      "ingredient": "chinese five spice powder",
+      "occurrences": 1,
+      "mealIds": ["53367"]
+    },
+    {
+      "ingredient": "chinese long beans",
+      "occurrences": 1,
+      "mealIds": ["53371"]
+    },
+    {
+      "ingredient": "chinese sesame sauce",
+      "occurrences": 1,
+      "mealIds": ["53369"]
+    },
+    { "ingredient": "ciabatta", "occurrences": 1, "mealIds": ["53042"] },
+    { "ingredient": "clotted cream", "occurrences": 1, "mealIds": ["52835"] },
+    { "ingredient": "coconut flakes", "occurrences": 1, "mealIds": ["53580"] },
+    {
+      "ingredient": "colby jack cheese",
+      "occurrences": 1,
+      "mealIds": ["52829"]
+    },
+    { "ingredient": "cooked chestnut", "occurrences": 1, "mealIds": ["53305"] },
+    { "ingredient": "cranberry", "occurrences": 1, "mealIds": ["53305"] },
+    { "ingredient": "creamed corn", "occurrences": 1, "mealIds": ["52930"] },
+    { "ingredient": "custard", "occurrences": 1, "mealIds": ["52924"] },
+    { "ingredient": "custard powder", "occurrences": 1, "mealIds": ["52924"] },
+    {
+      "ingredient": "dark chocolate chips",
+      "occurrences": 1,
+      "mealIds": ["52856"]
+    },
+    { "ingredient": "dark rum", "occurrences": 1, "mealIds": ["52961"] },
+    { "ingredient": "dark soy sauce", "occurrences": 1, "mealIds": ["52774"] },
+    { "ingredient": "demerara sugar", "occurrences": 1, "mealIds": ["52893"] },
+    { "ingredient": "doubanjiang", "occurrences": 1, "mealIds": ["52947"] },
+    { "ingredient": "dried chillies", "occurrences": 1, "mealIds": ["53371"] },
+    { "ingredient": "dried fruit", "occurrences": 1, "mealIds": ["53580"] },
+    {
+      "ingredient": "dried leaves of summer savoury",
+      "occurrences": 1,
+      "mealIds": ["53343"]
+    },
+    {
+      "ingredient": "dried red chillies",
+      "occurrences": 1,
+      "mealIds": ["53192"]
+    },
+    { "ingredient": "dried shrimp", "occurrences": 1, "mealIds": ["53377"] },
+    {
+      "ingredient": "dried white beans",
+      "occurrences": 1,
+      "mealIds": ["53156"]
+    },
+    {
+      "ingredient": "dried white navy beans",
+      "occurrences": 1,
+      "mealIds": ["53336"]
+    },
+    {
+      "ingredient": "fajita seasoning",
+      "occurrences": 1,
+      "mealIds": ["52818"]
+    },
+    {
+      "ingredient": "fermented black beans",
+      "occurrences": 1,
+      "mealIds": ["52947"]
+    },
+    { "ingredient": "fillet of steak", "occurrences": 1, "mealIds": ["53229"] },
+    {
+      "ingredient": "five spice powder",
+      "occurrences": 1,
+      "mealIds": ["53211"]
+    },
+    { "ingredient": "flax eggs", "occurrences": 1, "mealIds": ["52794"] },
+    { "ingredient": "fromage frais", "occurrences": 1, "mealIds": ["52839"] },
+    { "ingredient": "frozen peas", "occurrences": 1, "mealIds": ["53198"] },
+    { "ingredient": "fruit mix", "occurrences": 1, "mealIds": ["53007"] },
+    { "ingredient": "galangal", "occurrences": 1, "mealIds": ["53192"] },
+    { "ingredient": "gelatine leafs", "occurrences": 1, "mealIds": ["52861"] },
+    { "ingredient": "german sausages", "occurrences": 1, "mealIds": ["53300"] },
+    { "ingredient": "ginger cordial", "occurrences": 1, "mealIds": ["52956"] },
+    {
+      "ingredient": "ginger garlic paste",
+      "occurrences": 1,
+      "mealIds": ["52805"]
+    },
+    { "ingredient": "ginger paste", "occurrences": 1, "mealIds": ["52795"] },
+    { "ingredient": "gochujang", "occurrences": 1, "mealIds": ["52951"] },
+    {
+      "ingredient": "graham cracker crumbs",
+      "occurrences": 1,
+      "mealIds": ["53341"]
+    },
+    {
+      "ingredient": "green red lentils",
+      "occurrences": 1,
+      "mealIds": ["52775"]
+    },
+    { "ingredient": "green salsa", "occurrences": 1, "mealIds": ["52830"] },
+    { "ingredient": "ham", "occurrences": 1, "mealIds": ["53368"] },
+    {
+      "ingredient": "hard taco shells",
+      "occurrences": 1,
+      "mealIds": ["52830"]
+    },
+    {
+      "ingredient": "high heat cooking oil",
+      "occurrences": 1,
+      "mealIds": ["53366"]
+    },
+    {
+      "ingredient": "hot smoked flaked salmon",
+      "occurrences": 1,
+      "mealIds": ["53245"]
+    },
+    {
+      "ingredient": "italian fennel sausages",
+      "occurrences": 1,
+      "mealIds": ["52783"]
+    },
+    {
+      "ingredient": "italian seasoning",
+      "occurrences": 1,
+      "mealIds": ["52771"]
+    },
+    { "ingredient": "juniper berries", "occurrences": 1, "mealIds": ["53300"] },
+    { "ingredient": "khus khus", "occurrences": 1, "mealIds": ["52805"] },
+    {
+      "ingredient": "lemongrass stalks",
+      "occurrences": 1,
+      "mealIds": ["53211"]
+    },
+    {
+      "ingredient": "little gem lettuce",
+      "occurrences": 1,
+      "mealIds": ["52819"]
+    },
+    { "ingredient": "madras paste", "occurrences": 1, "mealIds": ["52808"] },
+    {
+      "ingredient": "makrut lime leaves",
+      "occurrences": 1,
+      "mealIds": ["53192"]
+    },
+    { "ingredient": "malt vinegar", "occurrences": 1, "mealIds": ["52944"] },
+    { "ingredient": "marinated tofu", "occurrences": 1, "mealIds": ["53240"] },
+    { "ingredient": "marzipan", "occurrences": 1, "mealIds": ["52894"] },
+    {
+      "ingredient": "massaman curry paste",
+      "occurrences": 1,
+      "mealIds": ["52827"]
+    },
+    { "ingredient": "meringue nests", "occurrences": 1, "mealIds": ["53276"] },
+    { "ingredient": "mulukhiyah", "occurrences": 1, "mealIds": ["53029"] },
+    { "ingredient": "mustard powder", "occurrences": 1, "mealIds": ["52829"] },
+    { "ingredient": "palm sugar", "occurrences": 1, "mealIds": ["53238"] },
+    {
+      "ingredient": "panang curry paste",
+      "occurrences": 1,
+      "mealIds": ["53192"]
+    },
+    { "ingredient": "paneer", "occurrences": 1, "mealIds": ["52865"] },
+    { "ingredient": "parma ham", "occurrences": 1, "mealIds": ["52803"] },
+    { "ingredient": "peanut cookies", "occurrences": 1, "mealIds": ["52861"] },
+    { "ingredient": "peppercorns", "occurrences": 1, "mealIds": ["53300"] },
+    { "ingredient": "petit pois", "occurrences": 1, "mealIds": ["53248"] },
+    { "ingredient": "pilchards", "occurrences": 1, "mealIds": ["52837"] },
+    {
+      "ingredient": "pineapple chunks",
+      "occurrences": 1,
+      "mealIds": ["53376"]
+    },
+    { "ingredient": "pineapple juice", "occurrences": 1, "mealIds": ["53376"] },
+    {
+      "ingredient": "pink food colouring",
+      "occurrences": 1,
+      "mealIds": ["52894"]
+    },
+    { "ingredient": "pistachio paste", "occurrences": 1, "mealIds": ["53293"] },
+    {
+      "ingredient": "pitted black olives",
+      "occurrences": 1,
+      "mealIds": ["52783"]
+    },
+    { "ingredient": "pitted dates", "occurrences": 1, "mealIds": ["53338"] },
+    { "ingredient": "plain chocolate", "occurrences": 1, "mealIds": ["52776"] },
+    { "ingredient": "plum jam", "occurrences": 1, "mealIds": ["53292"] },
+    {
+      "ingredient": "pomegranate molasses",
+      "occurrences": 1,
+      "mealIds": ["53254"]
+    },
+    { "ingredient": "prosciutto", "occurrences": 1, "mealIds": ["52913"] },
+    { "ingredient": "ras el hanout", "occurrences": 1, "mealIds": ["52971"] },
+    { "ingredient": "raspberry jam", "occurrences": 1, "mealIds": ["52767"] },
+    { "ingredient": "red snapper", "occurrences": 1, "mealIds": ["52944"] },
+    { "ingredient": "red wine jelly", "occurrences": 1, "mealIds": ["52910"] },
+    {
+      "ingredient": "rice paper sheets",
+      "occurrences": 1,
+      "mealIds": ["53227"]
+    },
+    { "ingredient": "sausages", "occurrences": 1, "mealIds": ["52848"] },
+    {
+      "ingredient": "sea bass fillets",
+      "occurrences": 1,
+      "mealIds": ["53247"]
+    },
+    { "ingredient": "seafood stock", "occurrences": 1, "mealIds": ["53147"] },
+    {
+      "ingredient": "seasoned rice vinegar",
+      "occurrences": 1,
+      "mealIds": ["53368"]
+    },
+    { "ingredient": "shaoxing wine", "occurrences": 1, "mealIds": ["53370"] },
+    { "ingredient": "shortening", "occurrences": 1, "mealIds": ["53015"] },
+    { "ingredient": "shrimp paste", "occurrences": 1, "mealIds": ["53192"] },
+    { "ingredient": "soda water", "occurrences": 1, "mealIds": ["53230"] },
+    { "ingredient": "soya bean", "occurrences": 1, "mealIds": ["53240"] },
+    { "ingredient": "squash", "occurrences": 1, "mealIds": ["52796"] },
+    { "ingredient": "stilton cheese", "occurrences": 1, "mealIds": ["52842"] },
+    { "ingredient": "stout", "occurrences": 1, "mealIds": ["52878"] },
+    { "ingredient": "sumac", "occurrences": 1, "mealIds": ["53254"] },
+    {
+      "ingredient": "sweet peppadew peppers",
+      "occurrences": 1,
+      "mealIds": ["53258"]
+    },
+    {
+      "ingredient": "szechuan peppercorns",
+      "occurrences": 1,
+      "mealIds": ["53233"]
+    },
+    { "ingredient": "tamarind ball", "occurrences": 1, "mealIds": ["52809"] },
+    { "ingredient": "tamarind paste", "occurrences": 1, "mealIds": ["52827"] },
+    { "ingredient": "tamarind pulp", "occurrences": 1, "mealIds": ["53360"] },
+    { "ingredient": "tarragon leaves", "occurrences": 1, "mealIds": ["52915"] },
+    {
+      "ingredient": "thai green curry paste",
+      "occurrences": 1,
+      "mealIds": ["53195"]
+    },
+    { "ingredient": "toffee popcorn", "occurrences": 1, "mealIds": ["52833"] },
+    { "ingredient": "toor dal", "occurrences": 1, "mealIds": ["52785"] },
+    { "ingredient": "turkey", "occurrences": 1, "mealIds": ["53249"] },
+    { "ingredient": "turkish delight", "occurrences": 1, "mealIds": ["53276"] },
+    {
+      "ingredient": "unsweetened coconut milk",
+      "occurrences": 1,
+      "mealIds": ["53362"]
+    },
+    {
+      "ingredient": "vanilla bean paste",
+      "occurrences": 1,
+      "mealIds": ["53279"]
+    },
+    { "ingredient": "vegan butter", "occurrences": 1, "mealIds": ["52775"] },
+    {
+      "ingredient": "vegetable stock cube",
+      "occurrences": 1,
+      "mealIds": ["52843"]
+    },
+    {
+      "ingredient": "vinaigrette dressing",
+      "occurrences": 1,
+      "mealIds": ["52830"]
+    },
+    { "ingredient": "vine leaves", "occurrences": 1, "mealIds": ["52782"] },
+    { "ingredient": "white bread mix", "occurrences": 1, "mealIds": ["53242"] },
+    {
+      "ingredient": "white chocolate chips",
+      "occurrences": 1,
+      "mealIds": ["52787"]
+    },
+    { "ingredient": "wonton skin", "occurrences": 1, "mealIds": ["52948"] },
+    {
+      "ingredient": "wood ear mushrooms",
+      "occurrences": 1,
+      "mealIds": ["52954"]
+    },
+    {
+      "ingredient": "yellow split peas",
+      "occurrences": 1,
+      "mealIds": ["53335"]
+    }
+  ],
+  "sourceHashes": {
+    "data/usda/foundation/all-purpose-flour.json": "583132f611c9855cde89260ea9c9c58f940c4c0621989877031036b07f5a49a7",
+    "data/combined/usda-foods/168936.json": "3f37aa845d729fcbaea4332fe595b6292626ab16182e5f371171f66b5a49e298",
+    "data/usda/foundation/sugar-granulated.json": "b46cbadd9c14df3e982c04c774d389a2123d8ef5b5b78de5c6d0026c37aa704e",
+    "data/usda/foundation/butter-unsalted.json": "4981519b065953b6f7aa85d49d76001329f6b647e943fa0aa6e29bed99a6b8c5",
+    "data/combined/usda-foods/173430.json": "ffc04ae9b768137bd22ef4002ee615443e110724b49db403af5ac200c0a585cc",
+    "data/usda/foundation/butter-stick-salted.json": "8d41ae8ae08345ba4b810cfe08479952a6f8d3ddc11e8cf587d84778edf02b8d",
+    "data/combined/usda-foods/173410.json": "45234b2d121348758f9a9d09b91d861d9d13c182e95671b9a33fd80702c7484d",
+    "data/usda/foundation/olive-oil-extra-virgin.json": "2b2d8784d1c95eb5a825ee565a0a16de965e5611db27f1b1906f3fc5f5923006",
+    "data/combined/usda-foods/171413.json": "c2265c26574b0078f903d360661088429f6deec1beca7043951e7fd8575169fe",
+    "data/usda/foundation/canola-oil.json": "25b5604add24448e44e80f12cd54fa65f96dc4e36154e51b5aa09d89cc401b33",
+    "data/combined/usda-foods/172336.json": "b59c5d65602be5e5b8df9915f63dcf3f3bb195462f3c260c1a59e53be38f92f2",
+    "data/usda/foundation/oil-sunflower.json": "3e76391bdb989a378b02715054047e42a47a0f5f19ae539c953341b3c02a3219",
+    "data/combined/usda-foods/171025.json": "7b5dae3794a0a1fa518b1b8312fa1cca8425738878100db4d7a00401ba7585f8",
+    "data/usda/foundation/oil-peanut.json": "1db4a004fafa69a7ac12d1ca9de283bb4db613c6ebced88e2ce8136b84dd78c4",
+    "data/combined/usda-foods/171410.json": "deba9d78fafc5aa1c0e4001211fc1d6b9cdbddcbe2231b6985b453e0606101f7",
+    "data/usda/foundation/oil-coconut.json": "18c9383ca0483c9f51a49f22b63fa5c7b638c202bb1ecd5326a4b8cfc258c427",
+    "data/usda/foundation/oil-corn.json": "571f8d1dee69b6208f50d11f85f6bd5824a62b3fd55652b6d41d0a548dcb0403",
+    "data/combined/usda-foods/171029.json": "4e0723b7bd8f611198285a004299c1a94b124d33d3016da25dfc28d7320f1103",
+    "data/usda/foundation/oil-soybean.json": "e44550a4697c89ad720bb21ecf2387921ae0687e62fabef13958bb153015cc68",
+    "data/combined/usda-foods/171411.json": "68d05ce69225249aa9bd0335868710f347043e25f66a3b7892bc396e4e2c8d6f",
+    "data/usda/foundation/salt-iodized.json": "075a43a0f9c9178673859b29ca6bf2ad597a87f3eff42ccf0ae587250e685730",
+    "data/combined/usda-foods/173468.json": "8cbfc2e5e61f76f713a5fe8cd9e8ec087f0a38560b6bbf43928c49b9a1319e00",
+    "data/usda/foundation/garlic-raw.json": "c14f60761975ff641cd1ed94a0c7c0146e676f19dd08b7b15c6ea73b9c2eaa4b",
+    "data/combined/usda-foods/169230.json": "bd64f70bca6ff93a568bbce47040b333008e5d28b1ff0a71b60a350c4290738e",
+    "data/usda/foundation/yellow-onion-raw.json": "dd4b9581f3eeed54ec4372c13b550bc67a71191a7e9c534b9c4971dc970f0edc",
+    "data/usda/foundation/onions-red-raw.json": "91c856c63014f0a3b203e83131fc0b2b1952afc041680c8841837a6d0003aebe",
+    "data/usda/foundation/onions-white-raw.json": "66dbd885f7bc066529bcb7411358851ecb3b8bb2ecb34ebec2ec27f73a14d62e",
+    "data/usda/foundation/green-onion-scallion-bulb-and-greens-root-removed-raw.json": "2112175529c523a33689eb736c5fdae2262d8826f16fdc017b4c0929a6fb947f",
+    "data/combined/usda-foods/170005.json": "c7ffca42d675317b9666e846813438eea0c3c87dde13da30fa30ffe2af07f6a1",
+    "data/usda/foundation/shallots-bulb-peeled-root-removed-raw.json": "499a2a7b62ef8781ab8827144b094f67ed1fb365528ff92521f5d886942347b5",
+    "data/combined/usda-foods/170499.json": "9081589b4b81cd9386ee3255d4e793440ede916785deb62b56988455fc8a127a",
+    "data/usda/foundation/eggs-whole.json": "976ddd99b93ecd06101fd9d6a7cc5098c2b0349f7127977a7fa118a825a5ddae",
+    "data/usda/foundation/eggs-grade-a-large-egg-yolk.json": "bdabd7371f4bef79ee2eef78b386f9e4e763f23f6a986bba0c7b9d273648678b",
+    "data/usda/foundation/eggs-grade-a-large-egg-white.json": "ecdabddc8c979bd9f505d46fa2d0debbe35f85c2234814bdae2305b88388f6a5",
+    "data/usda/foundation/milk-whole.json": "56bbbc3eaafa908e97a64fe856d36bf30186932279ed3ec013aa6557b9258035",
+    "data/usda/foundation/milk-nonfat-fluid-with-added-vitamin-a-and-vitamin-d-fat-free-or-skim.json": "9d16e31624d7125fa3fdfba51215fbaced85cabbc334b7be5865e56724036176",
+    "data/usda/foundation/sweetened-condensed-milk.json": "cf653b22a1d7105f4f965cbe4cbc616e5d5dbd39720b041e39fa330537137ffc",
+    "data/combined/usda-foods/171275.json": "95c0df54b521a019ea4dc67e35a4c3e39a3c9226a85972c396225feac3472711",
+    "data/usda/foundation/heavy-cream.json": "f9dd730f8e405b596b679f306803f6cc79e8c91469ef34cc4cce39d17a7642a6",
+    "data/combined/usda-foods/170859.json": "b157c44ff63ca46251f0cd691442d39f4ed77f0ad1edb76913b9c7a2c9ed8e71",
+    "data/usda/foundation/sour-cream.json": "8f32e6680494c0f0b36d7f3988e1e07c7c6d50a8d4751c3e84d7624c0c8d0f76",
+    "data/combined/usda-foods/171257.json": "0aaf62e303c6a18c09b19c4d4745bb53e2faeef8a0d802387532fcca2c00612a",
+    "data/usda/foundation/cream-cheese.json": "f72c6331f59e5674c094fa389d58d92d48e08383b08c794d3f3edfac22afcaaf",
+    "data/combined/usda-foods/173418.json": "b29173fb5c87c80736686d1a000005a0467915181c3bff3c0ab03abc28b6a690",
+    "data/usda/foundation/greek-yogurt-plain-whole-milk.json": "33ab2d120136997d6ba488cbba50f5857084bd23d3b86656547c3b08669ea357",
+    "data/usda/foundation/yogurt-plain-whole-milk.json": "69e6824c8a9daf39e92351469347a3e39c6985f997cae37d59f3e37a80e194dc",
+    "data/usda/foundation/buttermilk-low-fat.json": "64fe3e83535d10be8a380cfc73c2c6d9e4e1c22d2d42d6aa370a0b0d79359f59",
+    "data/usda/foundation/cheddar-cheese.json": "f8983bb2614ba051b39bc08deb18a50bb66435d0507a27e00b129859bce483a1",
+    "data/usda/foundation/cheese-monterey-jack-solid.json": "cd5510fef4474002ab98a93642c447f53e069cbb55cadf2c113051e7ab260795",
+    "data/usda/foundation/parmesan-grated.json": "489e1e37eb38a6f0f58e79b7c36b4bc36470f20cd406ea1fea01abf9b4a57c65",
+    "data/combined/usda-foods/171247.json": "fb6ffdb8217ab740f684cc5e1ab2bf4167ac824680f835c0af4fb10ba4db4668",
+    "data/usda/foundation/cheese-ricotta-whole-milk.json": "0171cdea0820bd434c226ec00627dcd236c1fd2f76684e0e21cf9ad0d4fdaf13",
+    "data/usda/foundation/cheese-feta-whole-milk-crumbled.json": "89fcc7d19853e1e8a83ff7d4662f35bb9744a4001b5247c336c1540b81754ce5",
+    "data/usda/foundation/chicken-breast-raw.json": "57bd3f2c9eb934c35d843308a1cc7a76b5420ca60318d73603b798c0c54a095f",
+    "data/usda/foundation/chicken-thigh-raw.json": "342c62d55f10071187cbf2e793ae4ffee4bbda071dbf050066aeb902d5ea7cde",
+    "data/usda/foundation/pork-ground-raw.json": "2cbe0ac37f784910a56a3f45c0b5e7646aaa403fa0d1f6cae84eaaa11d02680d",
+    "data/usda/foundation/ground-beef-90-lean-raw.json": "477be1eaea03b4a0babc4e5f22c682b15f689eb6a2909861f43800363708308a",
+    "data/usda/foundation/beef-top-sirloin-steak-raw.json": "224cadab3d5402dc25776ca5b6aeca5f4eff0469c771b8428ef8e5899a4dddea",
+    "data/usda/foundation/beef-flank-steak-boneless-choice-raw.json": "8517e0ee7eeb47789b96f43ca5e8d99b0e0ecb65c752f061c5069a122d2be1d2",
+    "data/usda/foundation/pork-loin-tenderloin-boneless-raw.json": "311663a3e10655447769e00d3ac9d2d451677739e6f08435483b381f268223d1",
+    "data/usda/foundation/shrimp-raw.json": "65cdb13df83a993c74d62a45230db7d9a51e41af52845d65db7f8e9c04949774",
+    "data/usda/foundation/salmon-atlantic-raw.json": "294c91ad1310a8ff8936305c3a7355ee86858b6c4538d894b9003bd1c87bef44",
+    "data/usda/foundation/carrots-raw.json": "afbc3e1d5e3189eba1640e82b182e45134339d9b85d5ac5ef3698029e4c6542e",
+    "data/usda/foundation/broccoli-raw.json": "367d28f69649a2e05c93aa893be977320a1a54f4446e40d7155f7a2144e30405",
+    "data/usda/foundation/cauliflower-raw.json": "deb35add94edb8315f8898c6b1fd12ba80abed48be2f9417879ed27bec3f1e6d",
+    "data/usda/foundation/celery-raw.json": "06aef3aa0305ae89fa2ee71f6e175add9c479b3f7f54e184aeeda35952b5539a",
+    "data/usda/foundation/green-cabbage-raw.json": "97732271d896bbac39ecfc78ec9cc5eb7d7ec9b06ca2df63e8a9964a6b4e605e",
+    "data/usda/foundation/cabbage-red-raw.json": "e70ccb6bd3f56475fa11e7b1a2647143856b73ca76b66220fe200b47bb94cf56",
+    "data/usda/foundation/cabbage-bok-choy-raw.json": "00c71fa08b5a646514cc611a8f2baa47c44fa528c213a701d3d642063abff8c4",
+    "data/usda/foundation/cabbage-napa-leaf-destemmed-raw.json": "cb55e7bd48f9c9d0647779e8b91633721c662de2973577ad074884c3f5d7d7a1",
+    "data/combined/usda-foods/169979.json": "0f3cf71e78baa73f832081fe366a56ba482b4fc08e6d6bfa96ab89ecd032787e",
+    "data/usda/foundation/eggplant-raw.json": "44270fc88cf4f6358834ad8286590fef7afe95079b6c9c8e72e68448fc40c913",
+    "data/usda/foundation/zucchini-raw.json": "6656252576d72c3a4b5051582f828e0bb8e003ba9c62b6557e9e4afa5eb53314",
+    "data/usda/foundation/butternut-squash-raw.json": "30d909c0e9dc56781a2e04aa858de593dcf124dcfdab51886ae2cb2139719395",
+    "data/usda/foundation/pumpkin-peeled-raw.json": "fde7c6e7700f517b254d3a87b482da401073ae772ad89e1a6e2bd243312717d0",
+    "data/combined/usda-foods/168448.json": "1d1af0192d02dd8305d4b87cf6007be654ae2aae92e265f5f0ad331ff334183e",
+    "data/usda/foundation/russet-potato-peeled-raw.json": "fe91e2c6cd3ba2c688ba63905fde7722743ab13499fd0f25484831ea4a8d427a",
+    "data/usda/foundation/sweet-potato-peeled-raw.json": "91b000c2196f8f3e6d1f1794eadf8e45f505524923ef0334b539801463547b30",
+    "data/usda/foundation/green-beans-raw.json": "ddab29436bb3be3c8e1fd8a461db67f520b2732e29ec6ed848aeca653bf61969",
+    "data/usda/foundation/kale-raw.json": "8841dd3981cf95a1cb91904c269ec15651ced3183d46ea25101851a43e8c3635",
+    "data/usda/foundation/spinach-mature.json": "39a63418b3923612187b1f9d936a0eb1177e56c69d5cd23cc8d78e9b9a340101",
+    "data/usda/foundation/spinach-baby.json": "0c936abe7308b04066b4a8befd8a6f31536c5cb9ccbffc4e444f3b3764ef486e",
+    "data/usda/foundation/red-bell-pepper-raw.json": "a64a2bb8b7ef00d50b24c46806a278a6dee049b1cb61e964b372ceda49bfe16a",
+    "data/usda/foundation/green-bell-pepper-raw.json": "9ea8569d7d118a9352dd22bcce011baa85a6d16e266d69c91e218804889b7409",
+    "data/usda/foundation/peppers-bell-yellow-raw.json": "7ca06ac36aef27b7714f2ecb559bf72b4b198718a1ba33e19462fb5c8ab180fc",
+    "data/usda/foundation/tomato-roma.json": "8acda7ce8dd6d5a8112a45f6f15e1f451444444eccd31b1485e66bf572c89d2e",
+    "data/usda/foundation/tomatoes-grape-raw.json": "56a24a29bd74dcb0ebb457b0f4ff97f9ce55523bc0eae5f9c7d62c185c5ba8b9",
+    "data/usda/foundation/tomatoes-canned-red-ripe-diced.json": "8a4ad427112ef1ae5a2cafb79160d0989f8f5d5da406f659044c436afd6c0f93",
+    "data/usda/foundation/tomatoes-crushed-canned.json": "5baedb3745751e8a3ebb6136dbebbd79b7e449943aaf87a5f04fea4689bef34b",
+    "data/usda/foundation/tomato-paste-unsalted.json": "64a4dbe312d4caf01a88331555cc635c6680fc723fe02b155e2341893e6278e8",
+    "data/usda/foundation/cucumber-with-peel-raw.json": "3098494660943d750d84693af352157c1ec35dda65d2caacc25a9824ae2f0294",
+    "data/usda/foundation/fennel-bulb-raw.json": "ce8ea1208aad04fa40383a721b7941b2fc167f7e5036a43d90f032dbb69ec376",
+    "data/usda/foundation/white-button-mushrooms.json": "792295fa551ca136f059309effbef5c839c7126fe477ee4d80a7fc1c5122e672",
+    "data/usda/foundation/mushrooms-shiitake.json": "7df54506edbbac433e7dd52832a554a754f7dff72d05ad2ff48027432569c044",
+    "data/usda/foundation/leeks-raw.json": "e7902b548aebf689aae6c6d42dbdd686d15a0ff0b81bfa353406b4aa9bb08cdd",
+    "data/combined/usda-foods/169246.json": "0588edf0f9f307a998b816feea9683e18de30f21fc53e888268add1e87a68fb4",
+    "data/usda/foundation/beets-raw.json": "d1f0ade159650ef33c8a1829509a0c7b686a34bb2269c61843a7712c0653c850",
+    "data/usda/foundation/parsnips-raw.json": "86720c726faed049c856f2147753f906a67eb1da765b4ffeaaf6beeb5ab71115",
+    "data/usda/foundation/asparagus-raw.json": "33c885f41a6236718d914bc34ee0c69a2e8b4b5d3435e4ded47867e3cbac8cf1",
+    "data/usda/foundation/lettuce-iceberg-raw.json": "0d1331858019e14fa0753d9a45058c20ae116b3502b4e4e7b164d76254ba1139",
+    "data/usda/foundation/arugula-baby-raw.json": "bdd86259bd89879ac7d6fba540a3d45b54b1a593affc36e0661cf00713952468",
+    "data/usda/foundation/banana-ripe-raw.json": "c3773845be2aaa7da531105eda28d9dcef590d66b6ba1061f245d8bc770c0ccf",
+    "data/usda/foundation/strawberries-raw.json": "1e8997b0e68285b3c6660d107da6688461adb2b299565cb5cde16ea3f6b891b4",
+    "data/usda/foundation/raspberries-raw.json": "0a10aaae649aea25c0e1d280339692411f52951c6381efc76ad7056661653b14",
+    "data/usda/foundation/blueberries-raw.json": "cc70fb5748e88d89c0a5aa8ac63b4c6ba021119e566ba8388e70e2bfd3e87441",
+    "data/usda/foundation/blackberries-raw.json": "cd8157785a5bf7b0a96b076b67c206e1b12bb8a7314a51c0435f431c1c6a06d1",
+    "data/combined/usda-foods/173946.json": "0e650bb1a08bfc105f127cf8a263c8c2a3140be8c9ca1bcc4b5684af3699c81f",
+    "data/usda/foundation/apples-granny-smith-with-skin-raw.json": "0538852271032e3113d68126af85a0c1ffb7cd43a49a8467f4d285fa2ce58669",
+    "data/usda/foundation/apple-gala-with-skin-raw.json": "7e0e77135e987d11979d0809537e392115b5735e13ff8464e8846fc5bf9ba768",
+    "data/usda/foundation/orange-navel-raw.json": "d92505a53939542e26372080e76901e567d76497d8898c75bb949fc1c8343cce",
+    "data/usda/foundation/pineapple-raw.json": "57e5435539da16bd5551c57aa5d91971c6daa967f7dc4f09aef5bf15a501858f",
+    "data/usda/foundation/avocado-hass-raw.json": "36e5191313b1be3a0b88051def77241121091213969d970b7cf565dea06315d7",
+    "data/usda/foundation/peach-yellow-raw.json": "830cceb6b3e6bb43f0d5492e96ab0578d9c19ddbfcac46d5079a6bca9728dde7",
+    "data/usda/foundation/almonds-raw.json": "56929bafb0ced4e274f1632ea5fdb83afe8fa75f01281e7b66fbfe308e4b0c4b",
+    "data/usda/foundation/walnuts-raw.json": "c19b43e49be110d83e0fbdb2d6c959f980a590942ae6b3f1f7c5fa8c4fb22c50",
+    "data/usda/foundation/pecans-raw.json": "a16a2d45a004f7e6d5f21a375ea647f6ad5e3de267eb33db730878c2281b6919",
+    "data/usda/foundation/cashews-raw.json": "86deb54108c38b00c757aeaea7ad84fdbc2aa66791b2c4c1093cbef9db3be6a0",
+    "data/usda/foundation/peanuts-raw.json": "7a99f77677ad0a46f2385881889f546ff66df2de86559e55268413bd963d7839",
+    "data/usda/foundation/pistachios-raw.json": "d2b013279a7ba09f4710f301472388996c1f858e5964bc1196b0cb51d36402e7",
+    "data/usda/foundation/nuts-pine-nuts-raw.json": "46384c5a5e830627d4b0417e6c85bc7658efa95e851e8e74aa395fd32cc24628",
+    "data/usda/foundation/nuts-hazelnuts-or-filberts-raw.json": "2ff97b8fc049380cc76f802b06d0182c79c230e512865844c1636b29ed968650",
+    "data/usda/foundation/peanut-butter-creamy.json": "f934e1e364d247d9f5ba3f54840cf6b8a90dfb569b1f00b7f93063102132b7d5",
+    "data/combined/usda-foods/174266.json": "8419f9385583dde424a8d024c9d5c4959377e08416d66284356fd1d517b0eb9d",
+    "data/combined/usda-foods/174294.json": "1722e63f6251af444413286c09a6a6478170b45043cb9484801f58d9a6108bb8",
+    "data/usda/foundation/sesame-butter.json": "60d6bf177332aa464731efdd97a56616ff5190e20a77c180a8e2ca69bda95a4d",
+    "data/usda/foundation/hummus-commercial.json": "df3b09233d11ceb40e7f3f8b9f69dcf93075235507a4c02fd09f8d7e70775cb8",
+    "data/usda/foundation/raisins-dark-seedless.json": "d94a925bf7fc75cae60de75c4c7fb3b647174d2498a617c2f172f5f7e07d199a",
+    "data/combined/usda-foods/168165.json": "56f153f5844771200f6b23e3f796d075f4292bb28e1012e839526101420bea3d",
+    "data/usda/foundation/raisins-golden-seedless.json": "968cf7c0fe4bcb9d7258a0053d38f26c4af29dfccbfa5e7fe354b24b070cfdbb",
+    "data/combined/usda-foods/168164.json": "5fe6ceee2400259874c56678ea99394017b7df718fd07184a7afe9197620005c",
+    "data/usda/foundation/rolled-oats.json": "c0d4b7743e7623fdf83f956c2d5e935f426dd830f57c10ca79d235d653ddbf16",
+    "data/usda/foundation/white-rice-raw.json": "e1ea5ac6ad1cd65f42cc9f38ba7e2f9063eaa0dde9ec4ddc79366490108bc625",
+    "data/usda/foundation/brown-rice-raw.json": "c9cefe0441268acaba4ef4a490e28c8f79838dd3fc33392cb33df919c79a9827",
+    "data/usda/foundation/whole-wheat-flour.json": "e06a9855da9ed045a04cc02f3fb13c20295fe611f941725926448c92f4864d28",
+    "data/usda/foundation/flour-bread-white-enriched-unbleached.json": "d5cdd00ed5898f98fa81e6088d8c85bf26dd85771be260d180097661307a90f6",
+    "data/usda/foundation/cornmeal-enriched.json": "8005ce40088633288e4272168458c92dd4ee5b5d48ce3bc5a57f5e1af6819a9b",
+    "data/usda/foundation/bread-white-commercial.json": "ba7450ddf76abbb3a7a2f0ad1c431eca49b7f3a3c8305349135a210cfd43ab03",
+    "data/combined/usda-foods/174924.json": "442aa144f2fdbfa30315431c27e546982b91de365f4dfa3d81100915df9789b3",
+    "data/usda/foundation/corn-tortilla.json": "69560de12ccdfee1c0f661551afc760f9560acb29ac18dac9d3bec6df973c08d",
+    "data/combined/usda-foods/175036.json": "5727f8fabb9c444e4a40f6b8048fb37bedc9ab6f86871fe119e1e0afe68e1787",
+    "data/usda/foundation/tortilla-wheat-flour-shelf-stable.json": "8124085d9fec6d64d123a1d7d2f9c18a9b8c2dc243a358e336d1e494e3f255ab",
+    "data/combined/usda-foods/167535.json": "a19888a95846f1ca97f02d2c6ec1274351ef4df72a81bfa547bc4dd30b42d083",
+    "data/usda/foundation/spaghetti-dry.json": "62d32aa82251fc5e3f55217f847b4eb4380c4334840ea1553b87c8657872c7e8",
+    "data/combined/usda-foods/169736.json": "b8bbd3407b7c8f8ebe652e0b26fcce7f8ba50236f1a557afeb09da48b438e927",
+    "data/usda/foundation/bulgur-dry.json": "0fde041747ec31dc12ad5a676665c8d5104cf7b03dde884b9be1b2710bb3a9a3",
+    "data/usda/foundation/lentils-dry.json": "3926fbfb79e6aaed2cd107416f8cf762b7afc5cfe559a69e6f3e53da54a9eaa4",
+    "data/usda/foundation/mayonnaise-regular.json": "1a2c4db043effb93aaf185928bf2a45167b93aa209ffb64b7267a9f5940d290b",
+    "data/combined/usda-foods/171009.json": "ea1b834f30b20d63c6eaf29e66e05824e75a7c29a0ad6ba4c25d5861578e09b7",
+    "data/usda/foundation/mustard-yellow.json": "5f1046132732143a76e20913704a559c41e6c52fbe6d9dff0418189e9739845b",
+    "data/usda/foundation/refried-beans-canned-pinto.json": "5bd4d7c3b3066c172b4e30178f4ec1ad6e13f2db5f0daf94728ae42378330745",
+    "data/combined/usda-foods/172438.json": "ad6cf37a46dfeb45e331e234ecb7d30eccf54b8afcd0dc7fb5347c447d1ba236",
+    "data/usda/foundation/sauce-salsa-ready-to-serve.json": "309080e838214e50791003a31ea017d0c9b1f2137161e7dc63cd2ccd14b805d2",
+    "data/usda/foundation/almond-milk-unsweetened-plain-shelf-stable.json": "0e7cca057bd960596ff5263498e382d6c711b9c4dcbb033761fb948bd640fb03",
+    "data/usda/foundation/soy-milk-unsweetened-plain-shelf-stable.json": "830d78270087b0da94d6819aea044f9aa393102b2935667befbec0fb26b14228",
+    "data/usda/foundation/potatoes-red-without-skin-raw.json": "afbb992ade2c2be6c593e9cfc6b3359f19c4c5c477ade1a5057aaccd2d9ea8e2",
+    "data/usda/foundation/black-beans-canned-drained-rinsed.json": "072c8b5a0eec33daf992e2b13a4d0eab9e7f87cae3050ebb6b56f35cf3b5c400",
+    "data/usda/foundation/kidney-beans-canned-drained-rinsed.json": "d1ed0b3f48ea5bc87ab87ae5bae477ea07538cfdcbf3861b7a7ab8168a090e08",
+    "data/usda/foundation/chickpeas-canned-drained-rinsed.json": "e2a70208b1a095f4a5ef933264ed340386f02c391f0393b131a321b4e421dac3",
+    "data/usda/foundation/beans-cannellini-canned-sodium-added-drained-and-rinsed.json": "93913664f4507033be107d6c26e4a7bba8e0a249632d0ac308c43149585eb0bc",
+    "data/usda/foundation/orange-juice-no-pulp-not-fortified-from-concentrate-refrigerated.json": "cd0b5c7c544ff508d95432caac23a5c1247643d4ea3545bbbb63316993a0e171",
+    "data/usda/foundation/pork-belly-with-skin-raw.json": "c3a11ff3a35947af867a9b5dea075ef619b111e0f330092eecfe02ccb99ae87f",
+    "data/usda/foundation/tomato-sauce-salted.json": "6ce846695214992da1dca270aed0caff6cd692a8a010033113fed0e6a13240cf",
+    "data/usda/foundation/tomato-puree-canned.json": "34d4215ee470cbe3566f61d5e8c85dfc8e89c64300c93d701c66f39bc4770816",
+    "data/usda/foundation/plums-dried-prunes-uncooked.json": "023a200d698c235be6f9ebd25792817b83fe35d2f91292b62dae06611110a5fb",
+    "data/combined/usda-foods/168162.json": "a57820dfd27f91f0f9a44ea2f4475084a3df5411f42c9a57992bcd285715e1da",
+    "data/usda/foundation/sweet-corn-raw.json": "0a7ea5a161f0fdee38a7df2990d0d88a059d9d815776693246bf913e740b05d5",
+    "data/usda/foundation/whole-wheat-bread.json": "fdc30ddaa5e73cb08f60700db7e6d6e5771ea8c62e8a3b90e4d307df7cc0f770",
+    "data/combined/usda-foods/172688.json": "35161358b26d917d76a7d8f581a81d231cbf5539a9a582ea33ecf6d759be7c7a",
+    "data/usda/foundation/rutabaga-peeled-raw.json": "710916647bdcaa5f7fb35a0dcc4eaa33a884145552f918f3826913b92b2b7384",
+    "data/combined/usda-foods/168454.json": "e428ba5afcf424ef7519a36b14f578dda7f6485fef4a87657d94516af18a18e6",
+    "data/usda/foundation/lamb-ground-raw.json": "db0314335298b0ea39859aa03e498f444f48af492570e85c57dc867893578623",
+    "data/combined/usda-foods/175112.json": "943b1e224f8ff68fc725b1999802a0dc720321fa1fdb50e70672a8c4bd9ed367",
+    "data/combined/usda-foods/173190.json": "cbd952476c661da3e63538e1d9b3163062814c482d8fcc29722743de0c91d673",
+    "data/combined/usda-foods/174837.json": "1c137954086a6e5c13e4f51e600301ca4369d834283e1a8b6c653cbb1b986cfd",
+    "data/combined/usda-foods/171315.json": "beedb7d51a317a3217b407f068c0c085321f62e312ee7a36c475e9db38398d0f",
+    "data/combined/usda-foods/173469.json": "27b2ed464f91867eda8c61fa7c15445096777a826a14bcdbe166bd43db8766bd",
+    "data/combined/usda-foods/171697.json": "c6838a0d98f99d697303fa70f3b4333399377e699f01cec34e7e3a3f3474d005",
+    "data/combined/usda-foods/170645.json": "03b2f3ccaa53b0bf9b69968115b6214465998b5f62aa42a8ba8d87ba4306d4ed",
+    "data/combined/usda-foods/168277.json": "0990ec51e77020bcce5ac15e628844141375384dd26b199116fc4d521aef1e29",
+    "data/combined/usda-foods/172241.json": "fee71894435af6658f533c440d07a4c1d844668acd853dadac1afeb4b1be0f81",
+    "data/combined/usda-foods/172232.json": "441a5991e9c0c173220258384bef4284eaf69e932f9292fb6b2af20643856763",
+    "data/combined/usda-foods/170810.json": "5eae17bfd2f31a5fd43d451e8c567a872c8254854a42f48c1add4b1c9bd3d993",
+    "data/combined/usda-foods/168607.json": "3822cb4e9d50de14ab8e7323d585489afe1a6a039f9d4ff702c8dd73dec3903f",
+    "data/combined/usda-foods/173105.json": "3dd8454f5cf40df2f397235e443364fead99db4b79d967e2722c127cd2929bb6",
+    "data/combined/usda-foods/173734.json": "7da30a1db48d32c164c43b837c91ac9d0b9c182e8581ce7690c3a876a73a0ed0",
+    "data/combined/usda-foods/174928.json": "bf3398c01e84a0af31083ffdd36d96f32b58589776a67ba5b7e45eae7fe14359",
+    "data/combined/usda-foods/174078.json": "3692d5e30d1fccad1983813c032286f9fd136e070ed32129ef0fd03540ef21e5",
+    "data/combined/usda-foods/172177.json": "c610cb224c5d9672dc6727bc54c313e6a8c5bc56ba25cda23a5897cee794a4ec",
+    "data/combined/usda-foods/169742.json": "2b6831979f2fb5154fbb8aa4dafcef943f2bb8fd97b96224ea03ed2f41fa1282",
+    "data/combined/usda-foods/2685575.json": "57a03627b7d8f9f80f7401f6aff957ce379e9ff820b0d0ae435b966c467c00c0",
+    "data/combined/usda-foods/174252.json": "cb25c2b38a296a4539b79a1db8a0d7a9b21899fa9a71d0de1bc3e017a37ea496",
+    "data/combined/usda-foods/169593.json": "6cb760e89e33080884f3e7c19cfa2ccc067c8319a68fe7abe2e7e1b3ad5e07a4",
+    "data/combined/usda-foods/167976.json": "44b159180a7ed896a6b16c8faf66b1f7f25aade7f82d2e7d7ca1688774834f5f",
+    "data/combined/usda-foods/2644281.json": "ddf0fe441b74daedacb62d64473aa52b48c3a1eabbc24b2ab8608d27b8f8ee8e",
+    "data/combined/usda-foods/167974.json": "c612242df271488f85204e7151cc965cea29d342929c2c0d8630f1d86ab1799e",
+    "data/combined/usda-foods/170918.json": "8753f6ad3a01fdbdbedd7158f803f5bf0325bd96255c455c27c0786a31e4c8ae",
+    "data/combined/usda-foods/168556.json": "247fca248fe3d94cc408eff9967f9438010f03c631faa7d71c044eb0a680e6eb",
+    "data/combined/usda-foods/170400.json": "67ed04fe1eededaf91bce3e866833ae56f4e4139e63dc27814d2a0551946877a",
+    "data/combined/usda-foods/171052.json": "be75dfafc417656d8679abb86eb31ef34c1fb3e2221d308ff86b6d6106622a00",
+    "data/combined/usda-foods/2727566.json": "bd9911aafc181c77b84606234366bbb3b3aa4ab0d46ed595d867816589ad07a6",
+    "data/combined/usda-foods/172378.json": "b2690acf0a89434d794208690619e0f1c4fe9f352730d7b89922ab23734ac28a",
+    "data/combined/usda-foods/171060.json": "f3c3bb85295fe2a81af6ca5956e5279e4fb6b5531b11d04176d56028697a0328",
+    "data/combined/usda-foods/2727568.json": "963bb62235ecce4807d1b081c19fcd3db07e9ae036fb87c848c0c78311b0fe5a",
+    "data/combined/usda-foods/174288.json": "3320714ab2abd4ee46d4b19c8c6bdc8e74538fbe8c2fb51bda35e0aedcff249a",
+    "data/combined/usda-foods/170932.json": "9e379a3fb6186a48aa1e993f588128bb01052222e56ee25befacab373da023a9",
+    "data/combined/usda-foods/171595.json": "84e1760b89cb1ddf1858e5a1532c3aa64a6d6532fe79351a0ad344a7f3a57042",
+    "data/combined/usda-foods/169404.json": "7beae2627514e04f134d4f44af6b0de871611e6f2ac7f9dc33779c9aacc43865",
+    "data/combined/usda-foods/170390.json": "24b07007b7981368907299141f3b74f505c40024e7c699bf14e8df46e68d04c6",
+    "data/combined/usda-foods/169994.json": "01b6cb90210584cf8f7ba9bb1dd261eabbbd519baec50ec1528c05e000de6dbd",
+    "data/combined/usda-foods/170273.json": "adc3322d2c8ada878cfe318d54ac5facfb4cc12c62f6ecee5ebb5af8b608f80d",
+    "data/combined/usda-foods/170416.json": "b0d24b9a6530560d62ba61a652e4b34c8a733de92b3da136dd259f27a619fc1e",
+    "data/combined/usda-foods/173859.json": "75f6a2ba32133150f29cad9497e157bc6eeecd2993b73b99cbb47e6d34f31697",
+    "data/combined/usda-foods/174214.json": "e30f38c1c9da8eed3407dc8f36f102a8abdc825beaa55370d80f123b55ad5e2f",
+    "data/combined/usda-foods/171321.json": "381082221ecce4a56e5c63d84580292c3cd991e8af77114ddaebe736badcd544",
+    "data/combined/usda-foods/170580.json": "0baf5891f795e9d9193f0d27d46b873a9bd956492989a0b02c92c1a1b9c25f53",
+    "data/combined/usda-foods/171955.json": "fd3806229037c093bb2d3a98c8e9356c00be9f86c9446a67c2a84e01ecc608fb",
+    "data/combined/usda-foods/169070.json": "6a6efdb8f9587c01707975386d66fbbb566a561e339bded85783b7aaa634ce64",
+    "data/combined/usda-foods/169997.json": "e0b2dd5406bbf005362884475879921a0e6047fdd0a7ef499a09bd957efbc601",
+    "data/combined/usda-foods/170199.json": "d3b2876623fd7b9c941a87ac725901185b7fc9d30d60a1f7164b03954d830738",
+    "data/combined/usda-foods/169698.json": "ca9ac8f68d6c37c28f378fe5fea2f094b87032f8eef00f6c0f942e7d24b31aec",
+    "data/combined/usda-foods/169699.json": "b65e32f69e0b6b6993ca13c2df6445eb25a92e0c0795926e5672e84839d1e0c0",
+    "data/combined/usda-foods/175041.json": "c80299e9f0c2bd1936454517cbe25374f6a90eab67c14d7de2f0b384c6de4f33",
+    "data/combined/usda-foods/168585.json": "458bcec4a4f5f2af75c31a9fda3d4991f553f7584c13e2494f599e0515cf683d",
+    "data/combined/usda-foods/324653.json": "ca2b46229b6dc7b16226957d912f23c33fabb2f7607de6a4661bd21059a99803",
+    "data/combined/usda-foods/172233.json": "aef0ea8b8e1b0e53ae367e8db1c5491e6cb7a95e50b4787b87df1ae643e4c785",
+    "data/combined/usda-foods/173941.json": "d5366d04a61598f8f63814efa48eafd473bbe46e821e2bad1d676e8341fc23e3",
+    "data/combined/usda-foods/171823.json": "12ffd56b2386f84d7f9302aff4c15eac22ae15ecc62045432b2c33a40d3f7309",
+    "data/combined/usda-foods/169731.json": "86de8db1727dd9040ada941c4517d335120b41bb0181aae52bde1d58feff08c5",
+    "data/combined/usda-foods/172802.json": "b8f82934bfcf3ee638bbefcdd2195c44922572703786b9661254a60a1ce4e6e9",
+    "data/combined/usda-foods/174074.json": "38562df869ac1e9c8bc60d45f55a0c5eb69fe7325d272f2a20fca5cff3bd4f78",
+    "data/combined/usda-foods/172761.json": "fccb342408ccd99825c501cceaeb6d057b4e9ca54ed80f7ec64a3a862dfa3fba",
+    "data/combined/usda-foods/171323.json": "48f9a0725f2849c6e351bb64a806880d3426fda4091eec193dbd9f5fb587c484",
+    "data/combined/usda-foods/171324.json": "2d520516fd1d376cf5c11e7ebf71d58884f327fe06886536ec42419a20b130d0",
+    "data/combined/usda-foods/172885.json": "b636438f7136b270abf8608f20ec568baa36b78697026e6b0b9f249206edf3f4",
+    "data/combined/usda-foods/171314.json": "5e692d154d4e9beadf5d249cc23d6a23dc08304d319d7513691a872f600c1827",
+    "data/combined/usda-foods/169231.json": "89a9acbcab11af0d9bed94c232e9904a19e4b23f90b530b58b1de5dd69234ce0",
+    "data/combined/usda-foods/175303.json": "00ccf12523b1cd64b5fdc5c39af691f95e810b93eb82a9d602f4a2da2d544b6c",
+    "data/combined/usda-foods/172197.json": "36982ce9ac6ee5d8e53eabb5666e323dfb0870ea2c5f4ddf54e941e24d542a6f",
+    "data/combined/usda-foods/173572.json": "b9311940d60ca796ea76b691b24ab58d680fec95f8967a3d3f6ef8471194107d",
+    "data/combined/usda-foods/171647.json": "572d6bebd6a1b0029819ab4ee704d27537fad9495f45e61709de5a8cb294e47c",
+    "data/combined/usda-foods/332791.json": "bd75d3c8c714acacfc786642fb5a10b818f212fb02e50c8b6e454ac1248dbb78",
+    "data/combined/usda-foods/171242.json": "9d3b27723e103fd4a5e80ed6a3495840b307688f1232f80e99a8edb4d2909c49",
+    "data/combined/usda-foods/333374.json": "ba4079574ce1c002e92dcf1c093775f9de9e942824e5911148268fd1e64232b4",
+    "data/combined/usda-foods/172886.json": "d82b8a5145ac456fac96ab6322a45f596b982382b27afd7f30338101a1cfb2b6",
+    "data/combined/usda-foods/169640.json": "7f7329b19e62adcc24788f6464c6d591bee3882df50faff4219a4ee03246640b",
+    "data/combined/usda-foods/172889.json": "3c70a493d8029a3e21e9f48150e4f161a91677aabd77c9fadce9462f826ca7ee",
+    "data/combined/usda-foods/168576.json": "7624388aa1b2ca6e9df3daae3f285a16c69f62b13877b2e3751fdae74cad3c0e",
+    "data/combined/usda-foods/169641.json": "fcc5eccbfc7006b8449553fb8ab4767dafb28efa94c8d701236864440471064c",
+    "data/combined/usda-foods/169885.json": "2e779ec26f046dbfda6aa66d50d84d0738292c85b261939d8c0ee553b930db6e",
+    "data/combined/usda-foods/173877.json": "bccb469a54711b869641ca3fa75960331571d0537818810417615dbc0038d54d",
+    "data/combined/usda-foods/174315.json": "6728679f051d22a8e10e6da9033fe8c44a8e1ceb903ea7e6842318732b7143c2",
+    "data/combined/usda-foods/172517.json": "f380bd7a915ad5163fdc4c2d0f078d1e5393da36164750c453f2430a0f645b3e",
+    "data/combined/usda-foods/171401.json": "20a2eb3e740b88e16345beb8a83d20ef10a8979280407d841f00bbb9d16cc623",
+    "data/combined/usda-foods/172803.json": "d08d7b36c3f9a53f12ba4161af410c21cc4475469976861cd7160035bd36569f",
+    "data/combined/usda-foods/175040.json": "01af0aa4b058948a5c05928952f250393e099d8a8e2bb5939bc653231fdc34e7",
+    "data/combined/usda-foods/175043.json": "37ec32a6d9a6d36065553be0c0a897d6d1e31fdfca0c88191a92ea1e79298978",
+    "data/combined/usda-foods/167747.json": "f6293df5bf359a6c7b9028d79ca6c6d52c61d4bf97cc3c405598bff014a40dcf",
+    "data/combined/usda-foods/168573.json": "d74b01b863ebc1ccd448b9a858ad923265c8a11d83f32a2092de8d8ba67420c4",
+    "data/combined/usda-foods/167746.json": "cc7dc418a1c83d07b8f451457344f142d070c29bbcec0796f6c63491c78bfaa1",
+    "data/combined/usda-foods/172420.json": "a7c0961b26d0422d0b1191be63d25861718010785a3fb61bfb9db7b0b15aa50d",
+    "data/combined/usda-foods/2346388.json": "32cbfc27b366fea4ff007d7d7f5a4629079dcb7773a4c3a40e0b823082d5dee5",
+    "data/combined/usda-foods/168155.json": "eba56879e4d59793a0adca0295993cdccda123fcfc51c9614985e69e01fbd763",
+    "data/combined/usda-foods/168903.json": "3a9bd8d7eb8cd0aeb2712891cb8668948cfafebb02d2b08dc57cbe88726ffdb2",
+    "data/combined/usda-foods/175119.json": "0b7094fb1162c0d168df87734e6d1733b54bc6b7fb4c92dcac5a668fbe12f602",
+    "data/combined/usda-foods/169661.json": "c80d5a92a4f50d77f10386bf243d058e1d5a66b52f47feecb32cca818501dad1",
+    "data/combined/usda-foods/167587.json": "f9e9ab2d0d54c8cdeb7b18bfd56a8a6c9606bd08a646f2e4dd23252dbfc42389",
+    "data/combined/usda-foods/168820.json": "2581fae2e2ed5f22b848d51c9384e55c3cee21ce0f26eb4cd2ea5112d7432ffe",
+    "data/combined/usda-foods/169957.json": "cb13a309393f715cbe18ca11a715a76de3c91a19d8144a85801202203de9f61b",
+    "data/combined/usda-foods/174216.json": "46f74d812abf46d6499ad81ad9a762c75988d9fcc6459361a3eb329852627f19",
+    "data/combined/usda-foods/326698.json": "74c14423e626891bc5d30a246ffe149bc98aadd0a2b326e746d8e148623b01a0",
+    "data/combined/usda-foods/170929.json": "7393af5486e3b6f8eae8697d57c85ef6b8ef20e6d0651e1e0bbc97c090351a73",
+    "data/combined/usda-foods/171845.json": "3fe866d6995cff1cdcd86af2942af595537704e5fa5dd6149951f4d77e0d90fc",
+    "data/combined/usda-foods/170172.json": "427a09d2d7a1b00de1284e3232988840911edcb1dcf63f43af0ebbf0cef5b042",
+    "data/combined/usda-foods/171016.json": "85d3738cc6c7845659bbf9c89db9a6e2d34092116b40426067578fe84d797b14",
+    "data/combined/usda-foods/169095.json": "0a3f1f22d659cc3bc47c616cb718373acb8ce3cb6240fadf7893c59911cac47e",
+    "data/combined/usda-foods/174529.json": "24b1c200db9f878c39ddf409ddacfff7b79bebb98afbce0096bbe6b630e93595",
+    "data/combined/usda-foods/174219.json": "af633ddf24cd0560566871a5594f3bd6f95abcb868a8d866d16f9546c9421df0",
+    "data/combined/usda-foods/168877.json": "551ac271c470660133a1b98b8455d3977d1ed4bc5f4807ca6c1e03568e9d421b",
+    "data/combined/usda-foods/169586.json": "f1ba4173fc7b5b63a1782bc9be3f50146d15deb9232306cffd5d9608e0c25647",
+    "data/combined/usda-foods/170419.json": "798cd8a1aa6ab4fddd9682b805d1f7377900a6b6971f033ebc821e4b75ccfad7",
+    "data/combined/usda-foods/170497.json": "5302beda22fd3c86201695cf349b0f1940a9f9d605a171f774eaebac65ac98e4",
+    "data/combined/usda-foods/170106.json": "fb8d2e1239e35695922c3bc3631e8218dcd4ab3228f0f3a6abfedff229a65385",
+    "data/combined/usda-foods/174915.json": "50181273b42d1a5762312255000ab7abc637c91e3c76ba2a16b32d46b12f137c",
+    "data/combined/usda-foods/172879.json": "b027a76ebf8d9c32fd26aadad5f6da636bf7f4138da9ec51fbfbe4103267abdc",
+    "data/combined/usda-foods/171330.json": "0d83386bc3d31b4cbfd46fafa6aee0f86d4a861b3d8c8f6f62cbf0ef629aa190",
+    "data/combined/usda-foods/167818.json": "995d4572554328389bfc89b7a569d47fd2674489ecafb1eda97b162a8587f0fe",
+    "data/combined/usda-foods/2727575.json": "bc7e772257c112ac9c639e33860d5c340d331205a1999d417f8ad0909d79afef",
+    "data/combined/usda-foods/169064.json": "8f5d647db5e80ad0b745d16f2b11e8804b6b2b8856c3a7a1ec089e436364b783",
+    "data/combined/usda-foods/167780.json": "62a3862d841e7ae63bc384e302f92135b79562076ff44928e2686bdee90adbe3",
+    "data/combined/usda-foods/172790.json": "0054eb0f9d12ae63791913d8c3c570f3db336569bc1ddeb194ed3369ee6f96a1",
+    "data/combined/usda-foods/168874.json": "2b661339eaa53015e470424d064378768135a8d7ffd7ac14de8bcf61cb05d1e6",
+    "data/combined/usda-foods/172431.json": "a4d808b0df7cfd5746d8972ebe6ceb74295252640160ce1f4b04a1711e4991ba",
+    "data/combined/usda-foods/173473.json": "b3d5c48d8956bd8f5a376bb6a5d4b5200ba2019b84a1638b26232ce738a890f8",
+    "data/combined/usda-foods/170935.json": "58d0958e2a632b5cea9db5f010566c99c2b0f2c64c029cbd2e1c90d41ea21f95",
+    "data/combined/usda-foods/167723.json": "a6e3e5ed422a0332de04e689f7ac2a3cbb4dac436887e8a5a3a2955561c369d9",
+    "data/combined/usda-foods/174190.json": "522c5879fce9f37735d763ccfe135795498aea7156ebf33090d5962c833c7aa9",
+    "data/combined/usda-foods/175139.json": "ca7a6bab42a4fe087e268afd09208051a4d412b96d76e05cc631d25be6d7e100",
+    "data/combined/usda-foods/174531.json": "7e8ff237c8903d277df14353228d20bc8f1c7ba96265d1e84345c468af9cd4d1",
+    "data/combined/usda-foods/171604.json": "c38a77cedc1df86876251643a1be0557327caaf9f81bb322933f9b9796a0f80f",
+    "data/combined/usda-foods/171610.json": "177b529e6f2eedd05070a573f5eb465b888d158f25e380e0d55fa14fe298cb06",
+    "data/combined/usda-foods/169279.json": "e1e12c310d7660cf03aacf149a08d3cef46e63c14e4f3ac3e69deedf8757231a",
+    "data/combined/usda-foods/170388.json": "0fdf47d6734203bc3278683bf405d1dcd350c64ebbab75fe5965b7aef9bcdcc6",
+    "data/combined/usda-foods/170150.json": "a7f4ca16428690a450df20dbfda26d1ba74e50f244e0f52aa4d301641e9eb6bf",
+    "data/combined/usda-foods/172461.json": "cb452d6229700a3eb787c839437ebd966034f384b9f62a0dacd2f1a4cca6d42f",
+    "data/combined/usda-foods/174199.json": "e8500d5766fbf174c6337f9ce5914b9a20419b82b2b825e84b49095917f94bb5",
+    "data/combined/usda-foods/173687.json": "5cb808ed8bd0a7107ea716a10c3b930e16981b071126edd54d032f634bab66a0",
+    "data/combined/usda-foods/171329.json": "aa1b0b02ec20f0eb90c747cf41a2dac796d4bcaf9ab9cfdcb7aca1f2cce55ef8",
+    "data/combined/usda-foods/170010.json": "7d6f3ae93fe822a292c97dfee84e68ce8773cc1157bfd613a9ff80f4b82d85d1",
+    "data/combined/usda-foods/174536.json": "b85ca9af99493927f13d683ca165be3010aac3b850576d53cd62f34b989afd4a",
+    "data/combined/usda-foods/171583.json": "55e18c1d6f5cb632c9b9233d885bedbdbff3abd6d6583eea54e649df31a2736f",
+    "data/combined/usda-foods/174277.json": "6687c71c144c281cb5d6badf193526da84f2b32c79afa6b409246a4f7c8973b7",
+    "data/combined/usda-foods/173475.json": "af9566bc33c74757bd77873dacf2ba795b0c347d7ee16d90819d9667a780560f",
+    "data/combined/usda-foods/170917.json": "b6d50fbaed04787223318ada6891af225b1e0d32cdb570b30e61390a99d33dab",
+    "data/combined/usda-foods/170919.json": "1c82a1b9397a688cbe7b7c463006bcb19c821a8fbc5851ea3bc763eb5f9f60e1",
+    "data/combined/usda-foods/171319.json": "68e65a45ea9b2e34eed621668022adbc8c26f0209cdba13e47394873db963e38",
+    "data/combined/usda-foods/171320.json": "58432655042016ef3d3a5ca8266e911b5c1163956097c8516ccd275a5d3f806a",
+    "data/combined/usda-foods/170922.json": "ac6bd8432308521eca60c67c5e6bb882d91bedad2115ed85910604fcaef3c014",
+    "data/combined/usda-foods/170923.json": "3541cb0b756ab9870f48b4b625b0c6ef03835f4e5b3ea01c8cb76e97a3bb0638",
+    "data/combined/usda-foods/170924.json": "1f2309d3c2fe6e09f966c5e1f8a61285633260a21949ed57f8643317c31e7817",
+    "data/combined/usda-foods/171325.json": "f273e1c62df59336f421a85ee997e0b46da5ed9d2a4679bb9180c0dfed1c3ac9",
+    "data/combined/usda-foods/170926.json": "3a1aad15225bf735f9359828a0af5c8e0e5fc47f608f67abfa5a26c73137d2ca",
+    "data/combined/usda-foods/170928.json": "70b954439d9dc5fb70b8298bc34c4c6bf16d934969450f4310f4eb7959604ddf",
+    "data/combined/usda-foods/171326.json": "e1b95711637134de89784be3abc84572b6bff89e8f77d23125a70ab3c1ab172e",
+    "data/combined/usda-foods/171328.json": "ca40800027d0971f7124ddcdd3ba83929cd1627090f600cd7b6e3b16e2f01050",
+    "data/combined/usda-foods/170931.json": "6b34547f87adaa652fb07add91b574727187a7b686450cda9005a7a5cfd40231",
+    "data/combined/usda-foods/170934.json": "38ac215beb8cf523c695496e4c71f38c787d92a02ea213ef75cf46707f4d153c",
+    "data/combined/usda-foods/172231.json": "b6b9628011d079ad49fbd5f600707a3dce0235998f6f715227cc424e1f0db904",
+    "data/combined/usda-foods/174223.json": "ba9fb45b4f3c033c508327d92e493c87939cf74b4bcd914d6e9f4d7a5087455a",
+    "data/combined/usda-foods/170193.json": "eaa640264321c27a07b90956cca543a12a7b7905bddf6c5f08daf993dbe7d289",
+    "data/combined/usda-foods/168833.json": "1bfb9dfb45baccc81571d900432aa444a271ff7b31c2ff1aba7d58d8adea9b86",
+    "data/combined/usda-foods/169656.json": "4ff67a568db7bbec25c6e3d1bf2443b48f261c41e49711e8f202e3b6d942c1ac",
+    "data/combined/usda-foods/168567.json": "bc5115de3c65b79798bf90616e0022142acddb7a39e2b0a9e6880742fe1da21d",
+    "data/combined/usda-foods/173470.json": "7e768765b3e804cec635b38d7c2a74f480b802c54efb3726617f3383a2400cc0",
+    "data/combined/usda-foods/174291.json": "61ee50d49e934eb3ed8db86030a20e544284d17160e0c421688e65425b3254c7",
+    "data/combined/usda-foods/170459.json": "1fb0a9a7fa9517a0147584b46baa64301ffb3016a730fe046105c1f6d084e2e3",
+    "data/combined/usda-foods/333281.json": "adcb2664b40f2189778b56547e951360b6b3e62aff49099cad56b681d4abf8ba",
+    "data/combined/usda-foods/170465.json": "e5f39f25954b8496b3cc39a36018b8d7412ef77f5ed14aee6fd500d70947aff6",
+    "data/combined/usda-foods/172883.json": "5bd2c26e887e8bcec7e71b49aad4d5510db69afb15ce1ae7ee8d3dae40991c77",
+    "data/combined/usda-foods/173471.json": "eabe41fd7e337dd1f89878fcc4eefdaeb2730635a5a1a16300e5c65d2d1c474f",
+    "data/combined/usda-foods/175290.json": "b66eccd07723f4440b77f89c9f8e7c3f30f45998466ea65d04dc60ef148e0acc",
+    "data/combined/usda-foods/172237.json": "5dc05ed2fab320a56ecfec49b7ca959d5b0850c76ce544e0b30cddbb11e9f58f",
+    "data/combined/usda-foods/172240.json": "b8a1cee377ed3935c5e997bd68802cca9125456e2e09f1297b4aaebc857cbb0a",
+    "data/combined/usda-foods/173647.json": "5a406e05f36816a9f5e14847ba6f1b82e32ae1b132296a68cd6adac10ea6da05",
+    "data/combined/usda-foods/168895.json": "4fe3bf3f499fb439348aa73f180de85acf47f771ff613b5c05655bedb47ead13",
+    "data/mealdb/meals.json": "1727f655c2435b2332452ecdad09a4083ec8e554f7c0690c87244e7c7e5c08ba",
+    "data/usda/foundation-manifest.json": "e9f9b4a106b40a4958639e6ba345b1116ae92513e91437526f94dfb998a2f698",
+    "data/combined/ingredient-matches.json": "c1c67222a51a4a8cb138f9e23cbf2c6f3f748b9afbeb9779bc2ef18d73be2937",
+    "data/combined/external-matches.json": "668655f0d00a924a90726ca0250c466fd5627013a70dc15075b4114b07b24cc2",
+    "data/combined/usda-portions.json": "0cbb6928734db07ab78bcbb1f419ba0f74b100fe33af309519a77f41fa586ac5",
+    "data/combined/portion-proxies.json": "dfb414bc84d2b33279c796a07ed69caa6ad443b0e07b274faa85fd79dca11985",
+    "data/combined/nutrient-proxies.json": "9a526402cad9af4463388709ad6d37876b2e261d39db96f58d33a207d5deda95"
+  }
+}

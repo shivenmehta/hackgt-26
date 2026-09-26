@@ -1,0 +1,329 @@
+{
+  "inputHash": "576ac697d9cdff337aea0c8dedfd205f00901d8ffd8809ac44cb1d37edca5fd4",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:11.104Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 358.5,
+      "proteinG": 0.45,
+      "fatG": 40.5,
+      "carbsG": 0.05,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; all used in recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "Medium onion (approx 110g) finely chopped; typical size for '1 medium' in recipes, raw weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 311,
+        "proteinG": 10.8,
+        "fatG": 6.9,
+        "carbsG": 67.4,
+        "fiberG": 28
+      },
+      "caloriesKcal": 6.22,
+      "proteinG": 0.21600000000000003,
+      "fatG": 0.138,
+      "carbsG": 1.348,
+      "fiberG": 0.56,
+      "assumptions": "3 green cardamom pods (approx 2g total); whole pods used for flavor, typical weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 312,
+        "proteinG": 10,
+        "fatG": 3.3,
+        "carbsG": 67,
+        "fiberG": 22.7
+      },
+      "caloriesKcal": 3.12,
+      "proteinG": 0.1,
+      "fatG": 0.033,
+      "carbsG": 0.67,
+      "fiberG": 0.22699999999999998,
+      "assumptions": "1/4 tsp ground turmeric (approx 1g); standard spice density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 1.2,
+        "carbsG": 81,
+        "fiberG": 53.1
+      },
+      "caloriesKcal": 7.41,
+      "proteinG": 0.12,
+      "fatG": 0.036,
+      "carbsG": 2.43,
+      "fiberG": 1.5930000000000002,
+      "assumptions": "1 small cinnamon stick (approx 3g); typical broken piece weight for cooking.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 313,
+        "proteinG": 7.6,
+        "fatG": 8.4,
+        "carbsG": 75,
+        "fiberG": 26.3
+      },
+      "caloriesKcal": 3.13,
+      "proteinG": 0.076,
+      "fatG": 0.084,
+      "carbsG": 0.75,
+      "fiberG": 0.263,
+      "assumptions": "2 bay leaves (approx 1g total, listed as 'Sprigs of fresh' but context is bay leaves); whole leaves for flavor.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 7.1,
+        "fatG": 0.7,
+        "carbsG": 80,
+        "fiberG": 1.3
+      },
+      "caloriesKcal": 1638,
+      "proteinG": 31.95,
+      "fatG": 3.15,
+      "carbsG": 360,
+      "fiberG": 5.85,
+      "assumptions": "Uncooked dry basmati rice; standard nutritional profile for white basmati.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.3,
+        "carbsG": 0.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 70,
+      "proteinG": 9,
+      "fatG": 3,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "Chicken stock (1 litre assumed as 1000g); typical low-calorie stock values, all liquid used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 750,
+      "per100g": {
+        "caloriesKcal": 120,
+        "proteinG": 22,
+        "fatG": 3.5,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 900,
+      "proteinG": 165,
+      "fatG": 26.25,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Smoked haddock fillet (750g raw); typical values for undyed smoked haddock, edible portion after discarding skin/bones estimated within total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 155,
+        "proteinG": 12.6,
+        "fatG": 10.6,
+        "carbsG": 1.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 232.5,
+      "proteinG": 18.9,
+      "fatG": 15.9,
+      "carbsG": 1.65,
+      "fiberG": 0,
+      "assumptions": "3 large eggs (approx 150g total with shell, but using edible ~50g each without); hard-boiled, standard large egg nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.8,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 5.4,
+      "proteinG": 0.45,
+      "fatG": 0.12,
+      "carbsG": 0.945,
+      "fiberG": 0.495,
+      "assumptions": "3 tbsp chopped fresh parsley (approx 15g); typical volume-to-weight for chopped herb, almost all used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 29,
+      "proteinG": 1.1,
+      "fatG": 0.3,
+      "carbsG": 9.3,
+      "fiberG": 2.8,
+      "assumptions": "1 whole lemon cut into wedges (approx 100g); standard medium lemon weight, used as garnish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52964",
+    "name": "Smoked Haddock Kedgeree",
+    "cuisine": "Indian",
+    "instructions": "Melt 50g butter in a large saucepan (about 20cm across), add 1 finely chopped medium onion and cook gently over a medium heat for 5 minutes, until softened but not browned.\r\n\r\nStir in 3 split cardamom pods, ¼ tsp turmeric, 1 small cinnamon stick and 2 bay leaves, then cook for 1 minute.\r\n\r\nTip in 450g basmati rice and stir until it is all well coated in the spicy butter.\r\n\r\nPour in 1 litre chicken or fish stock, add ½ teaspoon salt and bring to the boil, stir once to release any rice from the bottom of the pan. Cover with a close-fitting lid, reduce the heat to low and leave to cook very gently for 12 minutes.\r\n\r\nMeanwhile, bring some water to the boil in a large shallow pan. Add 750g un-dyed smoked haddock fillet and simmer for 4 minutes, until the fish is just cooked. Lift it out onto a plate and leave until cool enough to handle.\r\n\r\nHard-boil 3 eggs for 8 minutes.\r\n\r\nFlake the fish, discarding any skin and bones. Drain the eggs, cool slightly, then peel and chop. \r\n\r\nUncover the rice and remove the bay leaves, cinnamon stick and cardamom pods if you wish to. Gently fork in the fish and the chopped eggs, cover again and return to the heat for 2-3 minutes, or until the fish has heated through.\r\n\r\nGently stir in almost all the 3 tbsp chopped fresh parsley, and season with a little salt and black pepper to taste. Serve scattered with the remaining parsley and garnished with 1 lemon, cut into wedges.",
+    "ingredients": [
+      { "position": 1, "name": "Butter", "measurement": "50g" },
+      { "position": 2, "name": "Onion", "measurement": "1 chopped" },
+      { "position": 3, "name": "Cardamom", "measurement": "3 Pods" },
+      { "position": 4, "name": "Turmeric", "measurement": "1/4 tsp" },
+      { "position": 5, "name": "Cinnamon Stick", "measurement": "1 small" },
+      { "position": 6, "name": "Bay Leaf", "measurement": "Sprigs of fresh" },
+      { "position": 7, "name": "Basmati Rice", "measurement": "450g" },
+      { "position": 8, "name": "Chicken Stock", "measurement": "1 Litre" },
+      { "position": 9, "name": "Smoked Haddock", "measurement": "750g" },
+      { "position": 10, "name": "Eggs", "measurement": "3" },
+      { "position": 11, "name": "Parsley", "measurement": "3 tblsp chopped" },
+      { "position": 12, "name": "Lemon", "measurement": "1 chopped" }
+    ]
+  }
+}

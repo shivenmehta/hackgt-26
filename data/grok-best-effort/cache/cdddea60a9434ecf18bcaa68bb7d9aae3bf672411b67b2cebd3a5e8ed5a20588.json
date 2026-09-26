@@ -1,0 +1,229 @@
+{
+  "inputHash": "cdddea60a9434ecf18bcaa68bb7d9aae3bf672411b67b2cebd3a5e8ed5a20588",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:41.275Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 187.5,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 682.5,
+      "proteinG": 19.312500000000004,
+      "fatG": 1.875,
+      "carbsG": 143.0625,
+      "fiberG": 5.062500000000001,
+      "assumptions": "Standard all-purpose flour; 1 cup = 125g so 1.5 cups = 187.5g; values for uncooked white flour.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 370,
+        "proteinG": 8.1,
+        "fatG": 2.4,
+        "carbsG": 77.5,
+        "fiberG": 5.3
+      },
+      "caloriesKcal": 296,
+      "proteinG": 6.48,
+      "fatG": 1.92,
+      "carbsG": 62,
+      "fiberG": 4.24,
+      "assumptions": "Standard yellow cornmeal; 1 cup = 160g so 0.5 cup = 80g; values for dry uncooked cornmeal.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 290.25,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 75,
+      "fiberG": 0,
+      "assumptions": "Granulated white sugar; 1 tbsp = 12.5g so 6 tbsp = 75g; values for sucrose.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 28,
+        "fiberG": 0
+      },
+      "caloriesKcal": 4.24,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 2.24,
+      "fiberG": 0,
+      "assumptions": "Baking powder (double-acting); typical 1 tsp ≈ 4g so 2 tsp = 8g; values reflect typical commercial low-sodium baking powder.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 13,
+        "fiberG": 0
+      },
+      "caloriesKcal": 11.52,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.52,
+      "fiberG": 0,
+      "assumptions": "Pure vanilla extract; 1 tsp ≈ 4g; values for typical alcohol-based extract with minimal sugar contribution.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 0.5 tsp ≈ 3g; provides negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 183,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 76.86,
+      "proteinG": 6.2219999999999995,
+      "fatG": 1.83,
+      "carbsG": 9.15,
+      "fiberG": 0,
+      "assumptions": "Whole cow's milk; 1 cup = 244g so 0.75 cup ≈ 183g; values for typical whole milk.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 353.6,
+      "proteinG": 0,
+      "fatG": 40,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Vegetable or canola frying oil; plausible recipe-specific estimate of ~40g total oil absorbed by the 12 dumplings during deep frying (typical 10-20% absorption rate for fried dough, adjusted for batch size and 3-inch oil depth).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53355",
+    "name": "Jamaican Festival (Sweet Dumpling)",
+    "cuisine": "Jamaican",
+    "instructions": "Heat a heavy bottom pot of oil that has at least 3 inches of oil in it or use a deep fryer if you have one. Turn the heat over medium heat until the temperature reaches 350 degrees Fahrenheit.\r\nAdd the all-purpose flour, cornmeal, granulated sugar, baking powder, and salt to a large bowl and stir to combine.\r\nAdd the vanilla extract and milk and stir until the dough comes together. Then use your hands to lightly form the mixture into a ball.\r\nPinch off pieces of dough and roll them into long oval shapes. Make about 12 dumplings.\r\nOnce the oil has reached the temperature of 350 degrees Fahrenheit, fry the dough on all sides, until golden brown. This should take about 4-6 minutes.\r\nRemove dough and drain off any excess grease. Serve and enjoy.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "All purpose flour",
+        "measurement": "1 1/2 cups"
+      },
+      { "position": 2, "name": "Cornmeal", "measurement": "1/2 cup" },
+      { "position": 3, "name": "Sugar", "measurement": "6 tablespoons" },
+      { "position": 4, "name": "Baking Powder", "measurement": "2 tsp" },
+      { "position": 5, "name": "Vanilla Extract", "measurement": "1 tsp" },
+      { "position": 6, "name": "Salt", "measurement": "1/2 tsp" },
+      { "position": 7, "name": "Milk", "measurement": "3/4 cup" },
+      { "position": 8, "name": "Oil", "measurement": "For frying" }
+    ]
+  }
+}

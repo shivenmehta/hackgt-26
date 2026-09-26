@@ -1,0 +1,39 @@
+{
+  "inputHash": "669278a5a7f8cf84f30933c6bed5e33f48484dd3da420cc233e09fd47c357878",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:59.476Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 130,
+      "caloriesPer100g": 48,
+      "assumptions": "Standard medium carrot (about 130g when diced); calorie density matches supplied known value for raw carrot."
+    },
+    {
+      "position": 4,
+      "grams": 50,
+      "caloriesPer100g": 16.7,
+      "assumptions": "Typical medium celery stalk yields ~50g when diced; calorie density matches supplied known value for raw celery."
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "caloriesPer100g": 101,
+      "assumptions": "Modest weight for 3 fresh thyme sprigs (leaves only, ~1g each); calorie density matches supplied known value."
+    },
+    {
+      "position": 6,
+      "grams": 1,
+      "caloriesPer100g": 313,
+      "assumptions": "Typical dried bay leaves weigh ~0.5g each; calorie density matches supplied known value."
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "caloriesPer100g": 20,
+      "assumptions": "2 tablespoons sherry vinegar ≈ 30g (standard liquid density); ~20 kcal/100g is realistic for vinegar (low sugar variety)."
+    }
+  ]
+}

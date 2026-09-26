@@ -1,0 +1,251 @@
+{
+  "inputHash": "3c0bfc869723ad7a0fefd20575f6c2a38cf327806986f655ebb37490ca3b35f8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:38.780Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 193,
+        "proteinG": 2.3,
+        "fatG": 18.7,
+        "carbsG": 4.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 115.8,
+      "proteinG": 1.38,
+      "fatG": 11.22,
+      "carbsG": 2.76,
+      "fiberG": 0,
+      "assumptions": "Standard full-fat sour cream; 1/4 cup = 60g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.22,
+      "fatG": 0.02,
+      "carbsG": 1.86,
+      "fiberG": 0.34,
+      "assumptions": "Chopped raw onion; 2 Tbsp = 20g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 11,
+        "fatG": 7.3,
+        "carbsG": 69.2,
+        "fiberG": 42.5
+      },
+      "caloriesKcal": 7.95,
+      "proteinG": 0.33,
+      "fatG": 0.21899999999999997,
+      "carbsG": 2.076,
+      "fiberG": 1.275,
+      "assumptions": "Dried oregano leaves; 1/2 Tbsp ≈ 3g (small volume spice).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 1.5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1/4 tsp ≈ 1.5g (negligible macros).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9.2,
+        "fatG": 3.2,
+        "carbsG": 49,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 530,
+      "proteinG": 18.4,
+      "fatG": 6.4,
+      "carbsG": 98,
+      "fiberG": 5.4,
+      "assumptions": "Typical white sandwich bread; 8 slices ≈ 200g total (25g/slice).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 541,
+        "proteinG": 37,
+        "fatG": 42,
+        "carbsG": 1.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1298.4,
+      "proteinG": 88.8,
+      "fatG": 100.8,
+      "carbsG": 3.36,
+      "fiberG": 0,
+      "assumptions": "Cooked pork bacon; 8 slices ≈ 240g total (30g/slice after cooking).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 21.6,
+      "proteinG": 1.08,
+      "fatG": 0.24,
+      "carbsG": 4.68,
+      "fiberG": 1.44,
+      "assumptions": "Raw red tomato slices; 8 slices ≈ 120g total (15g/slice).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 112,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 22.2,
+        "fatG": 22.4,
+        "carbsG": 2.2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 336,
+      "proteinG": 24.864,
+      "fatG": 25.087999999999997,
+      "carbsG": 2.4640000000000004,
+      "fiberG": 0,
+      "assumptions": "Low-moisture part-skim mozzarella cheese; 4 slices ≈ 112g total (28g/slice).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 35,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81.1,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 250.95,
+      "proteinG": 0.315,
+      "fatG": 28.385,
+      "carbsG": 0.035,
+      "fiberG": 0,
+      "assumptions": "Butter for toasting; 2.5 Tbsp ≈ 35g (recipe calls for 2 Tbsp plus extra as needed; plausible total used).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52987",
+    "name": "Lasagna Sandwiches",
+    "cuisine": "American",
+    "instructions": "1. In a small bowl, combine the first four ingredients; spread on four slices of bread. Layer with bacon, tomato and cheese; top with remaining bread.\r\n\r\n2. In a large skillet or griddle, melt 2 tablespoons butter. Toast sandwiches until lightly browned on both sides and cheese is melted, adding butter if necessary.\r\n\r\nNutrition Facts\r\n1 sandwich: 445 calories, 24g fat (12g saturated fat), 66mg cholesterol, 1094mg sodium, 35g carbohydrate (3g sugars, 2g fiber), 21g protein.",
+    "ingredients": [
+      { "position": 1, "name": "Sour Cream", "measurement": "1/4 cup" },
+      { "position": 2, "name": "Chopped Onion", "measurement": "2 tbs" },
+      { "position": 3, "name": "Dried Oregano", "measurement": "1/2 tbs" },
+      { "position": 4, "name": "Salt", "measurement": "1/4 tsp" },
+      { "position": 5, "name": "Bread", "measurement": "8 slices" },
+      { "position": 6, "name": "Bacon", "measurement": "8 slices" },
+      { "position": 7, "name": "Tomato", "measurement": "8 slices" },
+      { "position": 8, "name": "Mozzarella", "measurement": "4 slices" },
+      { "position": 9, "name": "Butter", "measurement": "2 1/2 Tbs" }
+    ]
+  }
+}

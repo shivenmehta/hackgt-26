@@ -1,0 +1,27 @@
+{
+  "inputHash": "decc79e46db259473eead88f83d3188f57b97ba55169544d989dbaee0cc7e1e4",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:13.341Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 4,
+      "grams": 2,
+      "caloriesPer100g": 318,
+      "assumptions": "Modest sprinkling of chilli flakes estimated at 2g (typical small pinch to light sprinkle amount; not a full teaspoon)."
+    },
+    {
+      "position": 6,
+      "grams": 6,
+      "caloriesPer100g": 6,
+      "assumptions": "1 stock cube estimated at 6g total mass (standard cube weight); known calories used directly as they match typical per-cube values for dry bouillon."
+    },
+    {
+      "position": 7,
+      "grams": 50,
+      "caloriesPer100g": 265,
+      "assumptions": "Crusty bread 'to serve' estimated at 50g per serving (one modest slice or equivalent portion of a baguette-style loaf; typical calorie density for crusty white bread)."
+    }
+  ]
+}

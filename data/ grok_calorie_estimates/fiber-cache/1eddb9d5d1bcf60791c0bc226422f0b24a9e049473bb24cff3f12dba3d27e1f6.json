@@ -1,0 +1,33 @@
+{
+  "inputHash": "1eddb9d5d1bcf60791c0bc226422f0b24a9e049473bb24cff3f12dba3d27e1f6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:38.581Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 243,
+      "fiberG": 3,
+      "assumptions": "300g uncooked sushi rice; uses standard values of ~81g carbs and ~1g fiber per 100g uncooked short-grain Japanese rice."
+    },
+    {
+      "position": 2,
+      "carbsG": 9,
+      "fiberG": 0,
+      "assumptions": "1 tbs (15ml) mirin; typical sweet rice wine with ~60g carbs per 100ml and negligible fiber."
+    },
+    {
+      "position": 3,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Garnish quantity unspecified and variable; cannot reasonably estimate total contribution without assumed amount."
+    },
+    {
+      "position": 4,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Garnish quantity unspecified and variable; cannot reasonably estimate total contribution without assumed amount."
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "inputHash": "21678ad21dea89973dffea6ce0f6042b130abc2395454a942bab30a193d8c66e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:16.808Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon olive oil; standard density and typical cooking oil values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 17,
+        "fatG": 20,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1135,
+      "proteinG": 77.18,
+      "fatG": 90.8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb raw ground pork; typical 70/30 or similar ground pork nutrition for raw weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.4,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.012000000000000002,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "1 peeled crushed garlic clove; average medium clove weight ~3g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.8,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 4.8,
+      "proteinG": 0.10800000000000001,
+      "fatG": 0.041999999999999996,
+      "carbsG": 1.08,
+      "fiberG": 0.12,
+      "assumptions": "1 tablespoon minced or grated ginger; typical density ~6g per tablespoon.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 61,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 25.01,
+      "proteinG": 0.5489999999999999,
+      "fatG": 0.12200000000000001,
+      "carbsG": 5.856,
+      "fiberG": 1.7079999999999997,
+      "assumptions": "1 medium carrot; average peeled weight ~61g, raw values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 3.2
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0.81,
+      "fatG": 0.09,
+      "carbsG": 3.285,
+      "fiberG": 1.44,
+      "assumptions": "3 chopped scallions; average total weight ~45g for 3 medium scallions, raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 255,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1.3,
+        "fatG": 0.1,
+        "carbsG": 5.8,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 63.75,
+      "proteinG": 3.315,
+      "fatG": 0.255,
+      "carbsG": 14.79,
+      "fiberG": 6.375,
+      "assumptions": "3 cups shredded cabbage; typical raw weight ~85g per cup, total 255g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.3,
+        "fatG": 0.1,
+        "carbsG": 4.9,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 7.95,
+      "proteinG": 0.795,
+      "fatG": 0.015,
+      "carbsG": 0.735,
+      "fiberG": 0.105,
+      "assumptions": "1 tablespoon soy sauce; standard sodium-reduced or regular values, ~15g per tablespoon.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 3,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0.45,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.045,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon rice vinegar; typical values, ~15g per tablespoon.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 336,
+      "per100g": {
+        "caloriesKcal": 320,
+        "proteinG": 9,
+        "fatG": 1.5,
+        "carbsG": 65,
+        "fiberG": 2
+      },
+      "caloriesKcal": 1075.2,
+      "proteinG": 30.24,
+      "fatG": 5.04,
+      "carbsG": 218.4,
+      "fiberG": 6.72,
+      "assumptions": "12 egg roll wrappers; typical ~28g each for standard square wrappers, total 336g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 132.6,
+      "proteinG": 0,
+      "fatG": 15,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Oil for brushing; plausible light brushing total ~1 tablespoon across all rolls for air fryer.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 200,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 50,
+        "fiberG": 0
+      },
+      "caloriesKcal": 60,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 15,
+      "fiberG": 0,
+      "assumptions": "Duck sauce to serve; estimated total ~2 tablespoons for the recipe yield.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 180,
+        "proteinG": 0.5,
+        "fatG": 0,
+        "carbsG": 45,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 54,
+      "proteinG": 0.15,
+      "fatG": 0,
+      "carbsG": 13.5,
+      "fiberG": 0.15,
+      "assumptions": "Plum sauce to serve; estimated total ~2 tablespoons for the recipe yield.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.3,
+        "fatG": 0.1,
+        "carbsG": 4.9,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 7.95,
+      "proteinG": 0.795,
+      "fatG": 0.015,
+      "carbsG": 0.735,
+      "fiberG": 0.105,
+      "assumptions": "Soy sauce to serve; estimated total ~1 tablespoon for the recipe yield.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53373",
+    "name": "Air Fryer Egg Rolls",
+    "cuisine": "Chinese",
+    "instructions": "Alternative Pan Fry Method: If you don’t have access to an air fryer, you can make these egg rolls using a traditional pan fry method. Add enough oil to a medium skillet with high walls so the oil is about 1/2 inch up the side of the skillet. Heat oil on medium high heat until it reaches 350°F. Add egg rolls and fry for 3 to 4 minutes, flip, and fry for another 3 to 4 minutes until golden brown. Remove and let them drain and cool on a few paper towels.\r\n\r\nCook the filling:\r\nIn a large skillet over medium heat, add the olive oil along with the ground pork or chicken. Break apart the meat with a spatula or wooden spoon as it cooks. Cook until the meat is cooked through, 6 to 8 minutes.\r\n\r\nAdd garlic, ginger, carrot, scallions, and cabbage. Continue to cook until cabbage wilts down and is soft, another 3 to 4 minutes, stirring regularly. Season the filling with soy sauce and rice wine vinegar, and take off the heat to cool. (This filling can be made in advance.)\r\n\r\nAssemble the egg rolls:\r\nPlace a single egg roll wrapper on a dry surface with one point of the square facing you (like a diamond). Place about 1/4 cup of the egg roll filling mixture in the middle of the wrapper.\r\n\r\nDip your fingers in water and run around the edges of the wrapper. Then fold the edges of the wrapper over the center and start rolling the egg roll away from you to form a tight cylinder. Place on a plate and repeat until you are out of filling. You should get at least a dozen egg rolls.\r\n\r\nAir fry the egg rolls:\r\nPlace the egg rolls in the basket of your air fryer. Spray or brush them lightly with oil. Add as many as you can without stacking the egg rolls, making sure they don’t touch. Air needs to circulate around them. Brush the egg rolls lightly with oil.\r\n\r\nPlace the basket in the air fryer and turn the air fryer to 350°F. Cook for 6 to 7 minutes, then flip the egg rolls, spray or brush with oil a second time on the bottom side, and cook for another 4 to 5 minutes.\r\n\r\nFinished egg rolls should be golden brown and crispy! Serve immediately.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "1 tablespoon" },
+      { "position": 2, "name": "Ground Pork", "measurement": "1 lb" },
+      {
+        "position": 3,
+        "name": "Garlic",
+        "measurement": "1 clove peeled crushed"
+      },
+      { "position": 4, "name": "Ginger", "measurement": "1 tablespoon" },
+      { "position": 5, "name": "Carrots", "measurement": "1 medium" },
+      { "position": 6, "name": "Scallions", "measurement": "3 chopped" },
+      { "position": 7, "name": "Cabbage", "measurement": "3 Cups" },
+      { "position": 8, "name": "Soy Sauce", "measurement": "1 tablespoon" },
+      { "position": 9, "name": "Rice Vinegar", "measurement": "1 tablespoon" },
+      { "position": 10, "name": "Egg Roll Wrappers", "measurement": "12" },
+      { "position": 11, "name": "Oil", "measurement": "For brushing" },
+      { "position": 12, "name": "Duck Sauce", "measurement": "To serve" },
+      { "position": 13, "name": "Plum Sauce", "measurement": "To serve" },
+      { "position": 14, "name": "Soy Sauce", "measurement": "To serve" }
+    ]
+  }
+}

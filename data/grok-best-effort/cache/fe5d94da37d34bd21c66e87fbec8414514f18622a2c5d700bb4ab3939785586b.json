@@ -1,0 +1,121 @@
+{
+  "inputHash": "fe5d94da37d34bd21c66e87fbec8414514f18622a2c5d700bb4ab3939785586b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:16.439Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 476,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2,
+        "fatG": 37,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1618.4,
+      "proteinG": 9.52,
+      "fatG": 176.12,
+      "carbsG": 14.28,
+      "fiberG": 0,
+      "assumptions": "Standard heavy whipping cream; 1 cup = 238 g; used full fat values for whipped state.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 35,
+      "per100g": {
+        "caloriesKcal": 320,
+        "proteinG": 7.5,
+        "fatG": 8.7,
+        "carbsG": 54,
+        "fiberG": 0
+      },
+      "caloriesKcal": 112,
+      "proteinG": 2.625,
+      "fatG": 3.045,
+      "carbsG": 18.9,
+      "fiberG": 0,
+      "assumptions": "Sweetened condensed milk; 1 1/4 oz (weight) assumed as 35 g; typical sweetened condensed milk nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 12.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0.005,
+      "fatG": 0,
+      "carbsG": 0.635,
+      "fiberG": 0,
+      "assumptions": "Pure vanilla extract; 1 tsp ≈ 5 g; alcohol and sugar content reflected in carbs/calories.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 9.5,
+        "fatG": 1.5,
+        "carbsG": 83,
+        "fiberG": 7.5
+      },
+      "caloriesKcal": 456,
+      "proteinG": 11.4,
+      "fatG": 1.8,
+      "carbsG": 99.6,
+      "fiberG": 9,
+      "assumptions": "Grape-Nuts cereal; 1 cup ≈ 120 g based on typical density; values for standard Post Grape-Nuts.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53346",
+    "name": "Grape Nut Ice Cream",
+    "cuisine": "Jamaican",
+    "instructions": "In a large bowl, use an electric mixer to whip the cold heavy cream until stiff peaks form. Gently fold in the sweetened condensed milk and vanilla extract until well combined.\r\nFold in the cereal and stir until evenly distributed throughout the mixture.\r\nPour the mixture into a freezer-safe container (such as a loaf pan). Lay plastic wrap on top of the ice cream to avoid freezer burn. Cover the container and freeze for at least 6 hours or until solid.\r\nOnce frozen, let the ice cream sit at room temperature for a few minutes to soften slightly before scooping and serving.",
+    "ingredients": [
+      { "position": 1, "name": "Heavy Cream", "measurement": "2 cups" },
+      { "position": 2, "name": "Condensed Milk", "measurement": "1 1/4 oz" },
+      { "position": 3, "name": "Vanilla Extract", "measurement": "1 tsp" },
+      { "position": 4, "name": "Grape Nut Cereal", "measurement": "1 cup" }
+    ]
+  }
+}

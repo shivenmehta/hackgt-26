@@ -1,0 +1,303 @@
+{
+  "inputHash": "9fc8337ffaa3718c31d2a920c46b080df1386b2b975aa00f0b844c07b8a265aa",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:25:33.775Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 2041,
+      "per100g": {
+        "caloriesKcal": 201,
+        "proteinG": 26,
+        "fatG": 10,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 4102.41,
+      "proteinG": 530.66,
+      "fatG": 204.1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4.5 lb average of 4-5 lb range; raw, edible portion only (USDA choice grade brisket, ~25% fat trim assumed based on recipe scoring instructions)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Dash interpreted as ~1 tsp table salt for entire recipe; negligible contribution but included per instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 330,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 132,
+      "proteinG": 3.630000000000001,
+      "fatG": 0.33,
+      "carbsG": 30.690000000000005,
+      "fiberG": 5.61,
+      "assumptions": "3 medium-large yellow onions; peeled and chopped per sauté instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 22.35,
+      "proteinG": 0.96,
+      "fatG": 0.075,
+      "carbsG": 4.965,
+      "fiberG": 0.315,
+      "assumptions": "5 medium cloves, peeled and minced per instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 101,
+        "proteinG": 5.6,
+        "fatG": 2.7,
+        "carbsG": 24.5,
+        "fiberG": 14
+      },
+      "caloriesKcal": 3.03,
+      "proteinG": 0.16799999999999998,
+      "fatG": 0.08100000000000002,
+      "carbsG": 0.735,
+      "fiberG": 0.42,
+      "assumptions": "1 fresh sprig (~3 g leaves + stem); tied with others per instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 131,
+        "proteinG": 3.3,
+        "fatG": 5.9,
+        "carbsG": 20.7,
+        "fiberG": 14.1
+      },
+      "caloriesKcal": 3.93,
+      "proteinG": 0.09899999999999999,
+      "fatG": 0.17700000000000002,
+      "carbsG": 0.621,
+      "fiberG": 0.423,
+      "assumptions": "1 fresh sprig (~3 g leaves + stem); tied with others per instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 whole dried bay leaves; tied with herbs and later discarded per instructions (nutrients negligible)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 480,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 33.6,
+      "proteinG": 4.8,
+      "fatG": 0.96,
+      "carbsG": 2.4,
+      "fiberG": 0,
+      "assumptions": "2 cups low-sodium beef broth/stock; used as braising liquid per instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 366,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 150.06,
+      "proteinG": 3.2940000000000005,
+      "fatG": 0.732,
+      "carbsG": 35.135999999999996,
+      "fiberG": 10.248,
+      "assumptions": "3 large carrots (~122 g each); peeled, added whole or large pieces per instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 66,
+        "proteinG": 3.7,
+        "fatG": 4,
+        "carbsG": 5.8,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 9.9,
+      "proteinG": 0.555,
+      "fatG": 0.6,
+      "carbsG": 0.87,
+      "fiberG": 0.495,
+      "assumptions": "1 Tbsp prepared yellow mustard; optional sauce step, included as listed",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 462,
+      "proteinG": 12,
+      "fatG": 0.6,
+      "carbsG": 102,
+      "fiberG": 13.2,
+      "assumptions": "4 medium russet potatoes (~150 g each), peeled and prepared as mashed side per serving suggestion; quantity estimated from typical pot-roast accompaniments",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52812",
+    "name": "Beef Brisket Pot Roast",
+    "cuisine": "American",
+    "instructions": "1 Prepare the brisket for cooking: On one side of the brisket there should be a layer of fat, which you want. If there are any large chunks of fat, cut them off and discard them. Large pieces of fat will not be able to render out completely.\r\nUsing a sharp knife, score the fat in parallel lines, about 3/4-inch apart. Slice through the fat, not the beef. Repeat in the opposite direction to make a cross-hatch pattern.\r\nSalt the brisket well and let it sit at room temperature for 30 minutes.\r\n \r\n2 Sear the brisket: You'll need an oven-proof, thick-bottomed pot with a cover, or Dutch oven, that is just wide enough to hold the brisket roast with a little room for the onions.\r\nPat the brisket dry and place it, fatty side down, into the pot and place it on medium high heat. Cook for 5-8 minutes, lightly sizzling, until the fat side is nicely browned. (If the roast seems to be cooking too fast, turn the heat down to medium. You want a steady sizzle, not a raging sear.)\r\nTurn the brisket over and cook for a few minutes more to brown the other side.\r\n\r\n3 Sauté the onions and garlic: When the brisket has browned, remove it from the pot and set aside. There should be a couple tablespoons of fat rendered in the pot, if not, add some olive oil.\r\nAdd the chopped onions and increase the heat to high. Sprinkle a little salt on the onions. Sauté, stirring often, until the onions are lightly browned, 5-8 minutes. Stir in the garlic and cook 1-2 more minutes.\r\n \r\n4 Return brisket to pot, add herbs, stock, bring to simmer, cover, cook in oven: Preheat the oven to 300°F. Use kitchen twine to tie together the bay leaves, rosemary and thyme.\r\nMove the onions and garlic to the sides of the pot and nestle the brisket inside. Add the beef stock and the tied-up herbs. Bring the stock to a boil on the stovetop.\r\nCover the pot, place the pot in the 300°F oven and cook for 3 hours. Carefully flip the brisket every hour so it cooks evenly.\r\n \r\n5 Add carrots, continue to cook: After 3 hours, add the carrots. Cover the pot and cook for 1 hour more, or until the carrots are cooked through and the brisket is falling-apart tender.\r\n6 Remove brisket to cutting board, tent with foil: When the brisket is falling-apart tender, take the pot out of the oven and remove the brisket to a cutting board. Cover it with foil. Pull out and discard the herbs.\r\n7 Make sauce (optional): At this point you have two options. You can serve as is, or you can make a sauce with the drippings and some of the onions. If you serve as is, skip this step.\r\nTo make a sauce, remove the carrots and half of the onions, set aside and cover them with foil. Pour the ingredients that are remaining into the pot into a blender, and purée until smooth. If you want, add 1 tablespoon of mustard to the mix. Put into a small pot and keep warm.\r\n8 Slice the meat across the grain: Notice the lines of the muscle fibers of the roast. This is the \"grain\" of the meat. Slice the meat perpendicular to these lines, or across the grain (cutting this way further tenderizes the meat), in 1/4-inch to 1/2-inch slices.\r\nServe with the onions, carrots and gravy. Serve with mashed, roasted or boiled potatoes, egg noodles or polenta.",
+    "ingredients": [
+      { "position": 1, "name": "Beef Brisket", "measurement": "4-5 pound" },
+      { "position": 2, "name": "Salt", "measurement": "Dash" },
+      { "position": 3, "name": "Onion", "measurement": "3" },
+      { "position": 4, "name": "Garlic", "measurement": "5 cloves" },
+      { "position": 5, "name": "Thyme", "measurement": "1 Sprig" },
+      { "position": 6, "name": "Rosemary", "measurement": "1 sprig" },
+      { "position": 7, "name": "Bay Leaves", "measurement": "4" },
+      { "position": 8, "name": "beef stock", "measurement": "2 cups" },
+      { "position": 9, "name": "Carrots", "measurement": "3 Large" },
+      { "position": 10, "name": "Mustard", "measurement": "1 Tbsp" },
+      { "position": 11, "name": "Potatoes", "measurement": "4 Mashed" }
+    ]
+  }
+}

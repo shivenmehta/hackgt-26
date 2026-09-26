@@ -1,0 +1,537 @@
+{
+  "inputHash": "5aaf89273ff133fb684f1f308d0f4d6869194e0f649bd3a5311ed6357b9ac7e2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:04.685Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1254.75,
+      "proteinG": 1.05,
+      "fatG": 141.75,
+      "carbsG": 0.175,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; full 175g used in first almond sponge layer.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 677.25,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 175,
+      "fiberG": 0,
+      "assumptions": "Caster sugar is 100% sucrose; full 175g used in first almond sponge layer.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 509.6,
+      "proteinG": 14,
+      "fatG": 1.4,
+      "carbsG": 106.4,
+      "fiberG": 3.5,
+      "assumptions": "Self-raising flour; full 140g used in first almond sponge layer.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 579,
+        "proteinG": 21,
+        "fatG": 50,
+        "carbsG": 22,
+        "fiberG": 12
+      },
+      "caloriesKcal": 289.5,
+      "proteinG": 10.5,
+      "fatG": 25,
+      "carbsG": 11,
+      "fiberG": 6,
+      "assumptions": "Ground almonds; full 50g used in first almond sponge layer.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 28,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1.59,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.84,
+      "fiberG": 0,
+      "assumptions": "½ tsp baking powder ≈ 3g; negligible impact but included for completeness in first sponge.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 214.5,
+      "proteinG": 19.5,
+      "fatG": 14.25,
+      "carbsG": 1.05,
+      "fiberG": 0,
+      "assumptions": "3 medium eggs ≈ 50g each (edible portion without shell); used in first almond sponge.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 13,
+        "fiberG": 0
+      },
+      "caloriesKcal": 8.64,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.39,
+      "fiberG": 0,
+      "assumptions": "½ tsp vanilla extract ≈ 3g; used in first almond sponge.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 1.5,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 13,
+        "fiberG": 0
+      },
+      "caloriesKcal": 4.32,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.195,
+      "fiberG": 0,
+      "assumptions": "¼ tsp almond extract ≈ 1.5g; used in first almond sponge.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1254.75,
+      "proteinG": 1.05,
+      "fatG": 141.75,
+      "carbsG": 0.175,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; full 175g used in second pink sponge layer.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 677.25,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 175,
+      "fiberG": 0,
+      "assumptions": "Caster sugar is 100% sucrose; full 175g used in second pink sponge layer.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 509.6,
+      "proteinG": 14,
+      "fatG": 1.4,
+      "carbsG": 106.4,
+      "fiberG": 3.5,
+      "assumptions": "Self-raising flour; full 140g used in second pink sponge layer.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 579,
+        "proteinG": 21,
+        "fatG": 50,
+        "carbsG": 22,
+        "fiberG": 12
+      },
+      "caloriesKcal": 289.5,
+      "proteinG": 10.5,
+      "fatG": 25,
+      "carbsG": 11,
+      "fiberG": 6,
+      "assumptions": "Ground almonds; full 50g used in second pink sponge layer.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 28,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1.59,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.84,
+      "fiberG": 0,
+      "assumptions": "½ tsp baking powder ≈ 3g; negligible impact but included for completeness in second sponge.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 214.5,
+      "proteinG": 19.5,
+      "fatG": 14.25,
+      "carbsG": 1.05,
+      "fiberG": 0,
+      "assumptions": "3 medium eggs ≈ 50g each (edible portion without shell); used in second pink sponge.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 13,
+        "fiberG": 0
+      },
+      "caloriesKcal": 8.64,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.39,
+      "fiberG": 0,
+      "assumptions": "½ tsp vanilla extract ≈ 3g; used in second pink sponge.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 1.5,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 13,
+        "fiberG": 0
+      },
+      "caloriesKcal": 4.32,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.195,
+      "fiberG": 0,
+      "assumptions": "¼ tsp almond extract ≈ 1.5g; used in second pink sponge (even though instructions note omission of almond extract for pink, the listed ingredient is included at same quantity).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "½ tsp pink food colouring ≈ 3g; assumed gel/paste type with zero macro contribution.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 240,
+        "proteinG": 0.5,
+        "fatG": 0,
+        "carbsG": 60,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 480,
+      "proteinG": 1,
+      "fatG": 0,
+      "carbsG": 120,
+      "fiberG": 3,
+      "assumptions": "Apricot jam (listed as 'Apricot' 200g); full amount heated and used for assembly, typical jam values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 19,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 430,
+        "proteinG": 6,
+        "fatG": 14,
+        "carbsG": 70,
+        "fiberG": 3
+      },
+      "caloriesKcal": 4300,
+      "proteinG": 60,
+      "fatG": 140,
+      "carbsG": 700,
+      "fiberG": 30,
+      "assumptions": "Marzipan 1kg block; full amount rolled and used to cover both cakes (recipe yields two Battenbergs).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 20,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 38.7,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 10,
+      "fiberG": 0,
+      "assumptions": "Icing sugar for dusting marzipan rolling surface; estimated 10g actually adheres/used in final product.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52894",
+    "name": "Battenberg Cake",
+    "cuisine": "British",
+    "instructions": "Heat oven to 180C/160C fan/gas 4 and line the base and sides of a 20cm square tin with baking parchment (the easiest way is to cross 2 x 20cm-long strips over the base). To make the almond sponge, put the butter, sugar, flour, ground almonds, baking powder, eggs, vanilla and almond extract in a large bowl. Beat with an electric whisk until the mix comes together smoothly. Scrape into the tin, spreading to the corners, and bake for 25-30 mins – when you poke in a skewer, it should come out clean. Cool in the tin for 10 mins, then transfer to a wire rack to finish cooling while you make the second sponge.\r\nFor the pink sponge, line the tin as above. Mix all the ingredients together as above, but don’t add the almond extract. Fold in some pink food colouring. Then scrape it all into the tin and bake as before. Cool.\r\nTo assemble, heat the jam in a small pan until runny, then sieve. Barely trim two opposite edges from the almond sponge, then well trim a third edge. Roughly measure the height of the sponge, then cutting from the well-trimmed edge, use a ruler to help you cut 4 slices each the same width as the sponge height. Discard or nibble leftover sponge. Repeat with pink cake.\r\nTake 2 x almond slices and 2 x pink slices and trim so they are all the same length. Roll out one marzipan block on a surface lightly dusted with icing sugar to just over 20cm wide, then keep rolling lengthways until the marzipan is roughly 0.5cm thick. Brush with apricot jam, then lay a pink and an almond slice side by side at one end of the marzipan, brushing jam in between to stick sponges, and leaving 4cm clear marzipan at the end. Brush more jam on top of the sponges, then sandwich remaining 2 slices on top, alternating colours to give a checkerboard effect. Trim the marzipan to the length of the cakes.\r\nCarefully lift up the marzipan and smooth over the cake with your hands, but leave a small marzipan fold along the bottom edge before you stick it to the first side. Trim opposite side to match size of fold, then crimp edges using fingers and thumb (or, more simply, press with prongs of fork). If you like, mark the 10 slices using the prongs of a fork.\r\nAssemble second Battenberg and keep in an airtight box or well wrapped in cling film for up to 3 days. Can be frozen for up to a month.",
+    "ingredients": [
+      { "position": 1, "name": "Butter", "measurement": "175g" },
+      { "position": 2, "name": "Caster Sugar", "measurement": "175g" },
+      { "position": 3, "name": "Self-raising Flour", "measurement": "140g" },
+      { "position": 4, "name": "Almonds", "measurement": "50g" },
+      { "position": 5, "name": "Baking Powder", "measurement": "½ tsp" },
+      { "position": 6, "name": "Eggs", "measurement": "3 Medium" },
+      { "position": 7, "name": "Vanilla Extract", "measurement": "½ tsp" },
+      { "position": 8, "name": "Almond Extract", "measurement": "¼ teaspoon" },
+      { "position": 9, "name": "Butter", "measurement": "175g" },
+      { "position": 10, "name": "Caster Sugar", "measurement": "175g" },
+      { "position": 11, "name": "Self-raising Flour", "measurement": "140g" },
+      { "position": 12, "name": "Almonds", "measurement": "50g" },
+      { "position": 13, "name": "Baking Powder", "measurement": "½ tsp" },
+      { "position": 14, "name": "Eggs", "measurement": "3 Medium" },
+      { "position": 15, "name": "Vanilla Extract", "measurement": "½ tsp" },
+      { "position": 16, "name": "Almond Extract", "measurement": "¼ teaspoon" },
+      { "position": 17, "name": "Pink Food Colouring", "measurement": "½ tsp" },
+      { "position": 18, "name": "Apricot", "measurement": "200g" },
+      { "position": 19, "name": "Marzipan", "measurement": "1kg" },
+      { "position": 20, "name": "Icing Sugar", "measurement": "Dusting" }
+    ]
+  }
+}

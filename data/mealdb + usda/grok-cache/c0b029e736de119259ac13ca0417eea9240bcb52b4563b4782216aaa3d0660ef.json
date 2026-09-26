@@ -1,0 +1,21 @@
+{
+  "inputHash": "c0b029e736de119259ac13ca0417eea9240bcb52b4563b4782216aaa3d0660ef",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:41.913Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 800,
+      "caloriesPer100g": null,
+      "assumptions": "Directly supplied in the ingredient line as 800g; using as the edible mass for frozen mulukhiyah (no conversion needed)."
+    },
+    {
+      "position": 6,
+      "grams": 3,
+      "caloriesPer100g": 143,
+      "assumptions": "Standard garlic clove is ~3g (edible portion after peeling); copied knownCaloriesPer100g exactly as supplied."
+    }
+  ]
+}

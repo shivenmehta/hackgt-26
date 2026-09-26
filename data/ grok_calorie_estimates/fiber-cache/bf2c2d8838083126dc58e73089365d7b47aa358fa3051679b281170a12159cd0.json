@@ -1,0 +1,63 @@
+{
+  "inputHash": "bf2c2d8838083126dc58e73089365d7b47aa358fa3051679b281170a12159cd0",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:41.173Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp rapeseed oil = 28 g; pure oil, zero carbs"
+    },
+    {
+      "position": 2,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion finely chopped ≈ 110 g (standard onion carb values)"
+    },
+    {
+      "position": 3,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "1 celery stalk ≈ 40 g"
+    },
+    {
+      "position": 4,
+      "carbsG": 7,
+      "fiberG": 2,
+      "assumptions": "1 medium leek sliced ≈ 125 g edible portion"
+    },
+    {
+      "position": 5,
+      "carbsG": 26,
+      "fiberG": 3,
+      "assumptions": "1 medium potato (skin on, chopped) ≈ 150 g"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 knob butter ≈ 5 g; pure fat"
+    },
+    {
+      "position": 7,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "1 litre hot vegetable stock (typical commercial) ≈ 1000 g; modest carbs from vegetables/bouillon"
+    },
+    {
+      "position": 8,
+      "carbsG": 24,
+      "fiberG": 11,
+      "assumptions": "1 head broccoli chopped ≈ 400 g raw edible portion (stalks and florets)"
+    },
+    {
+      "position": 9,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "140 g stilton cheese; negligible carbs"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "inputHash": "63396f32d23509c9cf14c41528e2b8de981d55772495bba616267420dd1b1282",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:30.663Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "50g cured chorizo sausage, fried; standard Spanish-style chorizo values"
+    },
+    {
+      "position": 2,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (~110g), chopped; standard raw onion values"
+    },
+    {
+      "position": 3,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 typical garlic clove (~3g), minced; standard raw garlic values"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.5,
+      "fiberG": 1,
+      "assumptions": "~20g usable chopped parsley leaves from a bunch (stalks mostly discarded); standard fresh parsley values"
+    },
+    {
+      "position": 5,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "200ml vegetable stock from concentrate or cube; typical low-calorie stock values"
+    },
+    {
+      "position": 6,
+      "carbsG": 16,
+      "fiberG": 4,
+      "assumptions": "400g can of chopped/plum tomatoes (whole can including juice); standard canned tomato values"
+    },
+    {
+      "position": 7,
+      "carbsG": 32,
+      "fiberG": 12,
+      "assumptions": "400g can of butter beans, drained weight ~240-260g; standard drained canned bean values"
+    },
+    {
+      "position": 8,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 tsp (~5g) sherry vinegar; negligible carbs"
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "600g live clams in shell, edible portion after steaming/opening (~150-180g meat); standard raw clam meat values, shells discarded"
+    },
+    {
+      "position": 10,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Crusty bread to serve - quantity not specified, cannot estimate totals"
+    }
+  ]
+}

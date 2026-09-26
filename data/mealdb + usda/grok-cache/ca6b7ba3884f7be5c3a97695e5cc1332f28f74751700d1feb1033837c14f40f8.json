@@ -1,0 +1,45 @@
+{
+  "inputHash": "ca6b7ba3884f7be5c3a97695e5cc1332f28f74751700d1feb1033837c14f40f8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:11.277Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 750,
+      "caloriesPer100g": 340,
+      "assumptions": "Broad beans (fava beans) here are dry weight; 1 cup dry fava beans weighs ~250 g, so 3 cups = 750 g. Standard dry fava bean calorie density used as the recipe starts with soaking dried beans."
+    },
+    {
+      "position": 2,
+      "grams": 90,
+      "caloriesPer100g": 32,
+      "assumptions": "6 spring onions (scallions) average 15 g each after trimming; supplied knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 3,
+      "grams": 12,
+      "caloriesPer100g": 143,
+      "assumptions": "4 garlic cloves average 3 g each (small-medium); supplied knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 5,
+      "grams": 4,
+      "caloriesPer100g": 375,
+      "assumptions": "2 tsp cumin seeds/powder ≈ 4 g; supplied knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 8,
+      "grams": 10,
+      "caloriesPer100g": 358,
+      "assumptions": "'Sprinkling' for coating is a modest 10 g total flour across all patties; supplied knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 9,
+      "grams": null,
+      "caloriesPer100g": 884,
+      "assumptions": "Oil is 'as required' for deep frying (at least 1½ inches in a pan); absorption is typically 10-20 g per patty but total absorbed amount cannot be reliably estimated from the recipe text without batch size or post-fry data, so grams left null. Supplied knownCaloriesPer100g copied exactly."
+    }
+  ]
+}

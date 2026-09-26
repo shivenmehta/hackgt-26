@@ -1,0 +1,63 @@
+{
+  "inputHash": "cd4728b6bad6b7d7d0de1db74127f684832774d50978f699609d2379039cceb3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:40.940Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 250,
+      "caloriesPer100g": null,
+      "assumptions": "Using the supplied measurement of 250g directly as the edible portion for the fillet steak (raw weight before cooking)."
+    },
+    {
+      "position": 4,
+      "grams": 122,
+      "caloriesPer100g": 48,
+      "assumptions": "Medium carrot is typically ~61 g each when peeled and trimmed; 2 carrots = 122 g total edible portion."
+    },
+    {
+      "position": 5,
+      "grams": 454,
+      "caloriesPer100g": 13,
+      "assumptions": "A typical Chinese/napa cabbage head weighs ~900-1000 g; half is therefore ~450-500 g edible trimmed weight; used 454 g (1 lb equivalent)."
+    },
+    {
+      "position": 6,
+      "grams": 60,
+      "caloriesPer100g": 32,
+      "assumptions": "One medium spring onion (finely sliced) weighs ~15 g after trimming; 4 onions = 60 g total edible portion."
+    },
+    {
+      "position": 7,
+      "grams": 15,
+      "caloriesPer100g": 23,
+      "assumptions": "A small handful of fresh coriander leaves is realistically 10-20 g; used 15 g as a modest average edible amount."
+    },
+    {
+      "position": 8,
+      "grams": 15,
+      "caloriesPer100g": 40,
+      "assumptions": "One medium red chilli (sliced, seeds in) weighs ~15 g after trimming stem."
+    },
+    {
+      "position": 9,
+      "grams": 30,
+      "caloriesPer100g": 30,
+      "assumptions": "Juice of one average lime yields ~30 g (≈ 2 tbsp) of edible juice."
+    },
+    {
+      "position": 11,
+      "grams": 5,
+      "caloriesPer100g": null,
+      "assumptions": "1 tsp rice vinegar weighs ~5 g; caloriesPer100g left null as no known value supplied and it is a very low-calorie seasoning."
+    },
+    {
+      "position": 12,
+      "grams": 3,
+      "caloriesPer100g": 143,
+      "assumptions": "One average garlic clove (chopped) weighs ~3 g after peeling."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "inputHash": "edac4d6a0b9b0d0c36db49e74eac7025dc57004f1e1002c40e785af21e2cd186",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:15:40.929Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 60,
+      "proteinG": 11,
+      "fatG": 0.5,
+      "assumptions": "2 tbsp dried shrimp ≈ 20 g (small size, typical density); values based on common dehydrated shrimp nutrition."
+    },
+    {
+      "position": 2,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Boiling water contributes zero calories, protein or fat."
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 120,
+      "proteinG": 9,
+      "fatG": 2,
+      "assumptions": "1 medium napa cabbage head ≈ 800 g edible portion after core removal; raw values used as final dish is lightly cooked."
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 240,
+      "proteinG": 0,
+      "fatG": 28,
+      "assumptions": "2 tbsp peanut oil = 28 g; all oil is retained and consumed (no draining)."
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 15,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "4 scallions ≈ 60 g chopped; standard green onion values."
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 5,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tbsp minced ginger ≈ 6 g; negligible macros."
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 10,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "1 tbsp regular soy sauce ≈ 15 g."
+    },
+    {
+      "position": 8,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "1 tbsp water contributes zero calories, protein or fat."
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 15,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "2 tsp cornstarch ≈ 10 g; calories from carbohydrate only."
+    },
+    {
+      "position": 10,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "1 tsp kosher salt contributes zero calories, protein or fat."
+    },
+    {
+      "position": 11,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "1/2 tsp ground pepper contributes negligible calories, protein or fat."
+    }
+  ]
+}

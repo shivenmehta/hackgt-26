@@ -1,0 +1,225 @@
+{
+  "inputHash": "a7868bc80df73333cc1a7bb79931ddf92ade2cb280be5ea919492e31fd7a08b8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:50.702Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 89,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 23,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 267,
+      "proteinG": 3.3,
+      "fatG": 0.9,
+      "carbsG": 69,
+      "fiberG": 7.8,
+      "assumptions": "3 medium bananas ≈ 300g edible peeled weight; standard raw banana values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 13,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.65,
+      "fiberG": 0,
+      "assumptions": "1 tsp vanilla extract ≈ 5g; typical values for pure vanilla extract",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 1.2,
+        "carbsG": 81,
+        "fiberG": 53
+      },
+      "caloriesKcal": 2.47,
+      "proteinG": 0.04,
+      "fatG": 0.012,
+      "carbsG": 0.81,
+      "fiberG": 0.53,
+      "assumptions": "½ tsp ground cinnamon ≈ 1g; standard ground cinnamon values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 0.5,
+      "per100g": {
+        "caloriesKcal": 525,
+        "proteinG": 6,
+        "fatG": 36,
+        "carbsG": 49,
+        "fiberG": 20
+      },
+      "caloriesKcal": 2.625,
+      "proteinG": 0.03,
+      "fatG": 0.18,
+      "carbsG": 0.245,
+      "fiberG": 0.1,
+      "assumptions": "¼ tsp ground nutmeg ≈ 0.5g; standard ground nutmeg values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 38,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 144.4,
+      "proteinG": 0.038000000000000006,
+      "fatG": 0,
+      "carbsG": 37.24,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons packed brown sugar ≈ 38g; standard brown sugar values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 0.3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of salt ≈ 0.3g; negligible macros, treated as 0",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 455,
+      "proteinG": 12.5,
+      "fatG": 1.25,
+      "carbsG": 95,
+      "fiberG": 3.375,
+      "assumptions": "1 cup all-purpose flour ≈ 125g; standard AP flour values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 221,
+      "proteinG": 0,
+      "fatG": 25,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Oil for frying (10-inch skillet, shallow fry) estimated at 25g absorbed/retained across batch; typical neutral frying oil values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53351",
+    "name": "Jamaican Banana Fritters",
+    "cuisine": "Jamaican",
+    "instructions": "Mash bananas with fork in bowl.\r\nAdd brown sugar, vanilla, extract, cinnamon, nutmeg and a pinch of salt. Sift in flour and stir with spoon until fully combined.\r\nAdd oil to a 10 inch skillet over medium-high heat. Once oil is hot, drop banana fritter batter in oil by the spoonful. Once one side is golden and bubbles appear on the top, flip fritter and cook until the other side is browned as well.\r\nRemove fritters and drain on paper towels. Enjoy",
+    "ingredients": [
+      { "position": 1, "name": "Banana", "measurement": "3 Medium" },
+      { "position": 2, "name": "Vanilla Extract", "measurement": "1 tsp" },
+      { "position": 3, "name": "Cinnamon", "measurement": "1/2 tsp" },
+      { "position": 4, "name": "Nutmeg", "measurement": "1/4 tsp" },
+      { "position": 5, "name": "Brown Sugar", "measurement": "3  tablespoons" },
+      { "position": 6, "name": "Salt", "measurement": "Pinch" },
+      { "position": 7, "name": "All purpose flour", "measurement": "1 cup" },
+      { "position": 8, "name": "Oil", "measurement": "For frying" }
+    ]
+  }
+}

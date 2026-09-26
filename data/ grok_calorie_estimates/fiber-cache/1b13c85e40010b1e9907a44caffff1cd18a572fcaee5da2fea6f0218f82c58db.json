@@ -1,0 +1,93 @@
+{
+  "inputHash": "1b13c85e40010b1e9907a44caffff1cd18a572fcaee5da2fea6f0218f82c58db",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:34.756Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "400g raw minced beef; pure meat has no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs olive oil; pure oil has no carbohydrates"
+    },
+    {
+      "position": 3,
+      "carbsG": 56,
+      "fiberG": 4,
+      "assumptions": "2 standard sesame seed burger buns (~70g each); typical values ~28g carb / 2g fiber per bun"
+    },
+    {
+      "position": 4,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (~110g) chopped; standard onion carb content"
+    },
+    {
+      "position": 5,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "1/4 head iceberg lettuce (~75g) shredded; standard lettuce values"
+    },
+    {
+      "position": 6,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 slices American-style cheese (~20g each); negligible carbs"
+    },
+    {
+      "position": 7,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "2 large dill pickles (~50g each drained); standard pickle values"
+    },
+    {
+      "position": 8,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "1 cup mayonnaise (full 220g); typical full-fat mayo has ~3-4g carb per 100g"
+    },
+    {
+      "position": 9,
+      "carbsG": 0.2,
+      "fiberG": 0,
+      "assumptions": "2 tsp white wine vinegar (~10g); trace carbs only"
+    },
+    {
+      "position": 10,
+      "carbsG": 0.3,
+      "fiberG": 0,
+      "assumptions": "Pinch of pepper (~0.5g); trace carbs only"
+    },
+    {
+      "position": 11,
+      "carbsG": 1,
+      "fiberG": 0.5,
+      "assumptions": "2 tsp mustard (~10g); typical prepared mustard values"
+    },
+    {
+      "position": 12,
+      "carbsG": 2,
+      "fiberG": 0.5,
+      "assumptions": "1.5 tsp onion salt (~9g); primarily salt but includes some dehydrated onion carbs"
+    },
+    {
+      "position": 13,
+      "carbsG": 3,
+      "fiberG": 0.5,
+      "assumptions": "1.5 tsp garlic powder (~4.5g); standard garlic powder carb content"
+    },
+    {
+      "position": 14,
+      "carbsG": 1,
+      "fiberG": 0.5,
+      "assumptions": "0.5 tsp paprika (~1.5g); standard paprika carb content"
+    }
+  ]
+}

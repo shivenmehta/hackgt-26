@@ -1,0 +1,259 @@
+{
+  "inputHash": "b8fef3abcb584834d592a7feb762f566a3141b97bac169c30f855794ed4e3f1a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:18.263Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 200,
+      "proteinG": 8,
+      "fatG": 1.6,
+      "carbsG": 48,
+      "fiberG": 24,
+      "assumptions": "2 large aubergines ≈800g total raw weight; edible flesh only (skin is included in weight but not subtracted as it is eaten).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0.1,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0.028000000000000004,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp olive oil; standard 14 g per tbsp, used for brushing and griddling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 9,
+        "fatG": 5,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 242.5,
+      "proteinG": 22.5,
+      "fatG": 12.5,
+      "carbsG": 10,
+      "fiberG": 0,
+      "assumptions": "250 g Greek yogurt as given; typical full-fat strained variety.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 595,
+        "proteinG": 17,
+        "fatG": 54,
+        "carbsG": 21,
+        "fiberG": 10
+      },
+      "caloriesKcal": 267.75,
+      "proteinG": 7.65,
+      "fatG": 24.3,
+      "carbsG": 9.45,
+      "fiberG": 4.5,
+      "assumptions": "3 tbsp tahini paste; ≈15 g per tbsp, standard sesame paste.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 7.45,
+      "proteinG": 0.32,
+      "fatG": 0.025,
+      "carbsG": 1.65,
+      "fiberG": 0.105,
+      "assumptions": "1 clove garlic crushed ≈5 g; typical peeled weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.4,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 8.7,
+      "proteinG": 0.12,
+      "fatG": 0.09,
+      "carbsG": 2.79,
+      "fiberG": 0.09,
+      "assumptions": "Juice of 1 lemon ≈30 g (≈2 tbsp); typical yield from a medium lemon, only the juice is used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.1,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 3.45,
+      "proteinG": 0.315,
+      "fatG": 0.075,
+      "carbsG": 0.555,
+      "fiberG": 0.42,
+      "assumptions": "Handful fresh coriander ≈15 g; typical loose bunch handful for mixing and scattering.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.8,
+        "carbsG": 6,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 5.4,
+      "proteinG": 0.45,
+      "fatG": 0.12,
+      "carbsG": 0.9,
+      "fiberG": 0.495,
+      "assumptions": "Handful fresh parsley ≈15 g; typical loose bunch handful for mixing and scattering.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 49,
+        "proteinG": 3.3,
+        "fatG": 0.7,
+        "carbsG": 8,
+        "fiberG": 6.8
+      },
+      "caloriesKcal": 7.35,
+      "proteinG": 0.495,
+      "fatG": 0.105,
+      "carbsG": 1.2,
+      "fiberG": 1.02,
+      "assumptions": "Handful fresh mint ≈15 g; typical loose bunch handful for mixing and scattering.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53274",
+    "name": "Griddled aubergines with sesame dressing",
+    "cuisine": "Turkish",
+    "instructions": "step 1\r\nBrush each aubergine slice with some oil, then season. Heat a griddle pan or barbecue. When hot, griddle the aubergine slices for 2-3 mins on each side until golden brown and tender.\r\n\r\nstep 2\r\nMix the yogurt with the tahini, garlic, lemon juice and herbs, then season. Top the aubergines with the dressing and scatter over extra herb leaves.",
+    "ingredients": [
+      { "position": 1, "name": "Aubergine", "measurement": "2 large" },
+      { "position": 2, "name": "Olive Oil", "measurement": "2 tablespoons" },
+      { "position": 3, "name": "Greek Yogurt", "measurement": "250g" },
+      {
+        "position": 4,
+        "name": "Tahini Paste",
+        "measurement": "3  tablespoons"
+      },
+      {
+        "position": 5,
+        "name": "Garlic",
+        "measurement": "1 clove peeled crushed"
+      },
+      { "position": 6, "name": "Lemon", "measurement": "Juice of 1" },
+      { "position": 7, "name": "Coriander", "measurement": "Handful" },
+      { "position": 8, "name": "Parsley", "measurement": "Handful" },
+      { "position": 9, "name": "Mint", "measurement": "Handful" }
+    ]
+  }
+}

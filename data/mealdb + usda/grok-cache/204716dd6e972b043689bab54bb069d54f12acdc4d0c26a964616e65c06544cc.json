@@ -1,0 +1,39 @@
+{
+  "inputHash": "204716dd6e972b043689bab54bb069d54f12acdc4d0c26a964616e65c06544cc",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:14.420Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 5,
+      "caloriesPer100g": 0,
+      "assumptions": "1 tsp table salt weighs ~5g (kosher is similar by volume); 0 kcal as supplied."
+    },
+    {
+      "position": 5,
+      "grams": 284,
+      "caloriesPer100g": 50,
+      "assumptions": "10 oz can of pineapple chunks in juice; standard drained weight ~284g, ~50 kcal/100g for the chunks in their typical canned state."
+    },
+    {
+      "position": 6,
+      "grams": 60,
+      "caloriesPer100g": 53,
+      "assumptions": "1/4 cup (60 ml) pineapple juice ~60 g; ~53 kcal/100g typical for unsweetened canned juice."
+    },
+    {
+      "position": 11,
+      "grams": 119,
+      "caloriesPer100g": 31.3,
+      "assumptions": "1 medium red bell pepper chopped ~119 g edible portion; known 31.3 kcal/100g copied exactly."
+    },
+    {
+      "position": 12,
+      "grams": 119,
+      "caloriesPer100g": 30.8,
+      "assumptions": "1 medium yellow bell pepper chopped ~119 g edible portion; known 30.8 kcal/100g copied exactly."
+    }
+  ]
+}

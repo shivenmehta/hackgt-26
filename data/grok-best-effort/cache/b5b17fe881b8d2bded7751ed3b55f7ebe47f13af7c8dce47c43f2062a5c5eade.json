@@ -1,0 +1,225 @@
+{
+  "inputHash": "b5b17fe881b8d2bded7751ed3b55f7ebe47f13af7c8dce47c43f2062a5c5eade",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:32.559Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 480,
+        "proteinG": 6,
+        "fatG": 21,
+        "carbsG": 67,
+        "fiberG": 3
+      },
+      "caloriesKcal": 1440,
+      "proteinG": 18,
+      "fatG": 63,
+      "carbsG": 201,
+      "fiberG": 9,
+      "assumptions": "Standard digestive biscuits (sweet wheat cookies); values based on typical UK digestive biscuit nutrition for the full 300g package.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 720,
+        "proteinG": 1,
+        "fatG": 80,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1080,
+      "proteinG": 1.5,
+      "fatG": 120,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "Salted or unsalted butter; full 150g used as melted butter for crust, typical values for pure butter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 8,
+        "fatG": 9,
+        "carbsG": 55,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1360,
+      "proteinG": 32,
+      "fatG": 36,
+      "carbsG": 220,
+      "fiberG": 0,
+      "assumptions": "Sweetened condensed milk (full-fat, ~397g can rounded to 400g); standard values for the entire can contents poured into filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 51,
+      "per100g": {
+        "caloriesKcal": 317,
+        "proteinG": 16,
+        "fatG": 27,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 161.67,
+      "proteinG": 8.16,
+      "fatG": 13.77,
+      "carbsG": 2.04,
+      "fiberG": 0,
+      "assumptions": "3 large egg yolks only (each ~17g); standard raw egg yolk nutrition applied to edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 280,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 11,
+        "fiberG": 3
+      },
+      "caloriesKcal": 84,
+      "proteinG": 2.8,
+      "fatG": 0,
+      "carbsG": 30.8,
+      "fiberG": 8.4,
+      "assumptions": "4 medium limes (~70g each with peel); entire fruit weight including zest and juice used in filling, typical lime nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2,
+        "fatG": 36,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1020,
+      "proteinG": 6,
+      "fatG": 108,
+      "carbsG": 9,
+      "fiberG": 0,
+      "assumptions": "Heavy/double cream (48% fat); full 300ml (~300g density-adjusted) for topping.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 97,
+        "fiberG": 0
+      },
+      "caloriesKcal": 46.44,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 11.64,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon icing/powdered sugar (~12g); standard granulated sugar-like values for the small amount whipped with cream.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 11,
+        "fiberG": 3
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "carbsG": 2.2,
+      "fiberG": 0.6,
+      "assumptions": "Extra lime zest 'to serve' (equivalent to zest from ~0.5-1 lime or 20g); small plausible amount for garnish based on recipe context.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52859",
+    "name": "Key Lime Pie",
+    "cuisine": "American",
+    "instructions": "Heat the oven to 160C/fan 140C/gas 3. Whizz the biscuits to crumbs in a food processor (or put in a strong plastic bag and bash with a rolling pin). Mix with the melted butter and press into the base and up the sides of a 22cm loose-based tart tin. Bake in the oven for 10 minutes. Remove and cool.\r\nPut the egg yolks in a large bowl and whisk for a minute with electric beaters. Add the condensed milk and whisk for 3 minutes then add the zest and juice and whisk again for 3 minutes. Pour the filling into the cooled base then put back in the oven for 15 minutes. Cool then chill for at least 3 hours or overnight if you like.\r\nWhen you are ready to serve, carefully remove the pie from the tin and put on a serving plate. To decorate, softly whip together the cream and icing sugar. Dollop or pipe the cream onto the top of the pie and finish with extra lime zest.",
+    "ingredients": [
+      { "position": 1, "name": "Digestive Biscuits", "measurement": "300g" },
+      { "position": 2, "name": "Butter", "measurement": "150g" },
+      { "position": 3, "name": "Condensed Milk", "measurement": "400g" },
+      { "position": 4, "name": "Egg Yolks", "measurement": "3" },
+      { "position": 5, "name": "Lime", "measurement": "4" },
+      { "position": 6, "name": "Double Cream", "measurement": "300ml" },
+      { "position": 7, "name": "Icing Sugar", "measurement": "1 tbls" },
+      { "position": 8, "name": "Lime", "measurement": "to serve" }
+    ]
+  }
+}

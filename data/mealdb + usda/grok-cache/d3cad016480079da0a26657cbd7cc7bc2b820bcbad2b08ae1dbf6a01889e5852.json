@@ -1,0 +1,27 @@
+{
+  "inputHash": "d3cad016480079da0a26657cbd7cc7bc2b820bcbad2b08ae1dbf6a01889e5852",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:41.790Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 100,
+      "caloriesPer100g": 380,
+      "assumptions": "1/2 cup coconut sugar weighs ~100g (standard density for granulated sugars ~200g per cup); ~380 kcal/100g is realistic for coconut sugar."
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "caloriesPer100g": 50,
+      "assumptions": "2 flax eggs = 2 tbsp ground flax (14g) + 6 tbsp water (90g) but only the flax contributes meaningful calories; total edible mass ~30g at ~50 kcal/100g for the prepared mixture."
+    },
+    {
+      "position": 6,
+      "grams": 120,
+      "caloriesPer100g": 14.6,
+      "assumptions": "1/2 cup almond milk = 120 ml/g (standard volume to weight for almond milk); knownCaloriesPer100g copied exactly."
+    }
+  ]
+}

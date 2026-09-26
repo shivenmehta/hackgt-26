@@ -1,0 +1,303 @@
+{
+  "inputHash": "0cf7bc3a659c1b9ea820883be0bff6d0bcfdc450db47035b885ac062e62434ee",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:36.665Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp vegetable oil is 14g; 100% fat assumed for typical neutral oil.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 225,
+      "per100g": {
+        "caloriesKcal": 34,
+        "proteinG": 2.8,
+        "fatG": 0.4,
+        "carbsG": 6.6,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 76.5,
+      "proteinG": 6.3,
+      "fatG": 0.9,
+      "carbsG": 14.85,
+      "fiberG": 5.85,
+      "assumptions": "1 medium head of broccoli estimated at 225g edible raw weight based on typical recipe usage.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 17.88,
+      "proteinG": 0.7680000000000001,
+      "fatG": 0.06,
+      "carbsG": 3.9720000000000004,
+      "fiberG": 0.252,
+      "assumptions": "4 cloves garlic total ~12g; standard raw garlic nutrient profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 8.8,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.57,
+      "fatG": 0.12,
+      "carbsG": 2.64,
+      "fiberG": 0.45,
+      "assumptions": "1 medium red chilli ~30g whole (edible portion after slicing).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 32,
+      "proteinG": 1.8,
+      "fatG": 0.2,
+      "carbsG": 7.3,
+      "fiberG": 2.6,
+      "assumptions": "1 bunch spring onions estimated at 100g edible raw weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 147,
+        "proteinG": 13,
+        "fatG": 7,
+        "carbsG": 8.4,
+        "fiberG": 5
+      },
+      "caloriesKcal": 205.8,
+      "proteinG": 18.2,
+      "fatG": 9.8,
+      "carbsG": 11.76,
+      "fiberG": 7,
+      "assumptions": "Soya beans (edamame) given as 140g; typical values for cooked/frozen.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 170,
+      "per100g": {
+        "caloriesKcal": 13,
+        "proteinG": 1.5,
+        "fatG": 0.2,
+        "carbsG": 2.2,
+        "fiberG": 1
+      },
+      "caloriesKcal": 22.1,
+      "proteinG": 2.55,
+      "fatG": 0.34,
+      "carbsG": 3.7400000000000007,
+      "fiberG": 1.7,
+      "assumptions": "2 heads pak choi estimated at 170g total edible raw weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 145,
+        "proteinG": 17,
+        "fatG": 8.5,
+        "carbsG": 3.5,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 435,
+      "proteinG": 51,
+      "fatG": 25.5,
+      "carbsG": 10.5,
+      "fiberG": 4.5,
+      "assumptions": "Marinated tofu given as 300g; typical values for firm marinated tofu.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 23,
+      "per100g": {
+        "caloriesKcal": 220,
+        "proteinG": 3,
+        "fatG": 3.5,
+        "carbsG": 44,
+        "fiberG": 2
+      },
+      "caloriesKcal": 50.6,
+      "proteinG": 0.69,
+      "fatG": 0.805,
+      "carbsG": 10.12,
+      "fiberG": 0.46,
+      "assumptions": "1.5 tbsp hoisin sauce ~23g; standard commercial hoisin values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 6,
+        "fatG": 0.1,
+        "carbsG": 6,
+        "fiberG": 0.8
+      },
+      "caloriesKcal": 9,
+      "proteinG": 0.9,
+      "fatG": 0.015,
+      "carbsG": 0.9,
+      "fiberG": 0.12,
+      "assumptions": "1 tbsp soy sauce ~15g; typical reduced-sodium profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 553,
+        "proteinG": 18,
+        "fatG": 44,
+        "carbsG": 30,
+        "fiberG": 3.5
+      },
+      "caloriesKcal": 138.25,
+      "proteinG": 4.5,
+      "fatG": 11,
+      "carbsG": 7.5,
+      "fiberG": 0.875,
+      "assumptions": "Cashew nuts given as 25g; standard roasted/salted profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53240",
+    "name": "Tofu, greens & cashew stir-fry",
+    "cuisine": "Vietnamese",
+    "instructions": "step 1\r\nHeat the oil in a non-stick wok. Add the broccoli, then fry on a high heat for 5 mins or until just tender, adding a little water if it begins to catch. Add the garlic and chilli, fry for 1 min, then toss through the spring onions, soya beans, pak choi and tofu. Stir-fry for 2-3 mins. Add the hoisin, soy and nuts to warm through.",
+    "ingredients": [
+      { "position": 1, "name": "Vegetable Oil", "measurement": "1 tablespoon" },
+      { "position": 2, "name": "Broccoli", "measurement": "1 head" },
+      { "position": 3, "name": "Garlic Clove", "measurement": "4 sliced" },
+      { "position": 4, "name": "Red Chilli", "measurement": "1 sliced" },
+      { "position": 5, "name": "Spring Onions", "measurement": "1  bunch" },
+      { "position": 6, "name": "Soya Bean", "measurement": "140g" },
+      { "position": 7, "name": "Pak Choi", "measurement": "2 heads" },
+      { "position": 8, "name": "Marinated Tofu", "measurement": "300g" },
+      { "position": 9, "name": "Hoisin Sauce", "measurement": "1 ½ tbsp" },
+      { "position": 10, "name": "Soy Sauce", "measurement": "1 tablespoon" },
+      { "position": 11, "name": "Cashew Nuts", "measurement": "25g" }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "inputHash": "c0562be10f625643ec04c3efcba46369b126587206ea58627a0554e3aeefee7a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:30.506Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 medium skinless chicken breasts (approx 200 g each raw, edible portion); plain meat has zero carbs/fiber"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp neutral cooking oil; pure oil has zero carbs/fiber"
+    },
+    {
+      "position": 3,
+      "carbsG": 12,
+      "fiberG": 1.2,
+      "assumptions": "4 tbsp hot/chilli sauce (standard commercial type); based on typical values ~3g carbs per tbsp"
+    },
+    {
+      "position": 4,
+      "carbsG": 2.7,
+      "fiberG": 0.1,
+      "assumptions": "juice of ½ lemon (approx 30 ml); typical lemon juice carb content"
+    },
+    {
+      "position": 5,
+      "carbsG": 52,
+      "fiberG": 4,
+      "assumptions": "2 medium burger buns (approx 70 g each); standard white burger bun values"
+    },
+    {
+      "position": 6,
+      "carbsG": 7.5,
+      "fiberG": 0,
+      "assumptions": "250 g halloumi cheese (the 'Cheese' listed; pan- or air-fried); typical halloumi carb content ~3 g per 100 g"
+    },
+    {
+      "position": 7,
+      "carbsG": 21,
+      "fiberG": 9,
+      "assumptions": "¼ small white cabbage, finely shredded (approx 150 g edible portion); typical cabbage values"
+    },
+    {
+      "position": 8,
+      "carbsG": 1.6,
+      "fiberG": 0,
+      "assumptions": "2 tbsp mayonnaise; standard full-fat mayo values"
+    },
+    {
+      "position": 9,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "4 tbsp sour cream; typical full-fat sour cream values"
+    },
+    {
+      "position": 10,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "4 lettuce leaves (approx 40 g total); typical lettuce values"
+    },
+    {
+      "position": 11,
+      "carbsG": 14,
+      "fiberG": 5,
+      "assumptions": "2 medium red peppers, sliced (approx 160 g total edible portion); typical red bell pepper values"
+    }
+  ]
+}

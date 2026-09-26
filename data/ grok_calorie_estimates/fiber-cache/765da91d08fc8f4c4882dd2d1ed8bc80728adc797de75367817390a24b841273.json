@@ -1,0 +1,57 @@
+{
+  "inputHash": "765da91d08fc8f4c4882dd2d1ed8bc80728adc797de75367817390a24b841273",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:18.826Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 13.2,
+      "fiberG": 6.4,
+      "assumptions": "1/2 lb (227 g) raw trimmed Chinese long beans, edible portion only; using green bean equivalents (5.8 g carbs, 2.8 g fiber per 100 g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp (14 g) peanut oil used for stir-frying"
+    },
+    {
+      "position": 3,
+      "carbsG": 3.7,
+      "fiberG": 1.6,
+      "assumptions": "6 whole dried chillies (about 12 g total), typical small red variety; using generic dried red chili values (31 g carbs, 13 g fiber per 100 g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.2,
+      "fiberG": 0.6,
+      "assumptions": "1 tsp (2 g) Sichuan peppercorns, whole; using generic pepper/spice values (35 g carbs, 20 g fiber per 100 g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp table salt, negligible contribution"
+    },
+    {
+      "position": 6,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp (2 g) granulated sugar"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp (14 g) sesame oil, added as finishing oil"
+    },
+    {
+      "position": 8,
+      "carbsG": 0.4,
+      "fiberG": 0,
+      "assumptions": "splash of soy sauce interpreted as 1 tsp (5 g) regular soy sauce"
+    }
+  ]
+}

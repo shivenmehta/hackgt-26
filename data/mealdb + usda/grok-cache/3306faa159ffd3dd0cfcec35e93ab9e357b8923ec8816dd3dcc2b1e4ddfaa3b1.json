@@ -1,0 +1,27 @@
+{
+  "inputHash": "3306faa159ffd3dd0cfcec35e93ab9e357b8923ec8816dd3dcc2b1e4ddfaa3b1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:01.947Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 180,
+      "caloriesPer100g": 480,
+      "assumptions": "1.5 cups graham cracker crumbs ≈ 180 g based on standard 120 g per cup density for crumbs; calories estimated from typical graham cracker nutrition (≈480 kcal/100 g) as no known value supplied."
+    },
+    {
+      "position": 2,
+      "grams": 85,
+      "caloriesPer100g": 717,
+      "assumptions": "6 Tbsp melted butter = 85 g (standard 14.2 g per Tbsp); copied supplied knownCaloriesPer100g exactly."
+    },
+    {
+      "position": 4,
+      "grams": 1.3,
+      "caloriesPer100g": 247,
+      "assumptions": "1/2 tsp ground cinnamon ≈ 1.3 g (standard 2.6 g per tsp); copied supplied knownCaloriesPer100g exactly."
+    }
+  ]
+}

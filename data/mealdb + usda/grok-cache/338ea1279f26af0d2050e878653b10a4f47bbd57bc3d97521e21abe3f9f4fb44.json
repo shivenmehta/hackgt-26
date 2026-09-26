@@ -1,0 +1,21 @@
+{
+  "inputHash": "338ea1279f26af0d2050e878653b10a4f47bbd57bc3d97521e21abe3f9f4fb44",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:36.582Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 6,
+      "grams": 60,
+      "caloriesPer100g": 266,
+      "assumptions": "Standard slice of white bread is ~30 g; 2 chopped slices used as a test cube for oil temperature totals ~60 g edible portion. Known caloriesPer100g copied exactly."
+    },
+    {
+      "position": 10,
+      "grams": 63,
+      "caloriesPer100g": 330,
+      "assumptions": "1 tbsp golden syrup ≈ 21 g (based on typical syrup density of ~1.4 g/ml and 15 ml tbsp); 3 tbsp = 63 g. CaloriesPer100g is a realistic estimate for golden syrup in its recipe-ready state (similar to light corn syrup)."
+    }
+  ]
+}

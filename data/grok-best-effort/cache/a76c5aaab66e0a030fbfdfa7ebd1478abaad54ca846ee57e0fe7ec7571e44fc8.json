@@ -1,0 +1,355 @@
+{
+  "inputHash": "a76c5aaab66e0a030fbfdfa7ebd1478abaad54ca846ee57e0fe7ec7571e44fc8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:46.303Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 230,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 69,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Sake is ~15% ABV rice wine; 2 tbs = 30 ml, density ~1 g/ml, negligible macros per typical dry sake values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 6,
+        "fatG": 0,
+        "carbsG": 6,
+        "fiberG": 1
+      },
+      "caloriesKcal": 18,
+      "proteinG": 1.8,
+      "fatG": 0,
+      "carbsG": 1.8,
+      "fiberG": 0.3,
+      "assumptions": "Regular soy sauce; 2 tbs = 30 ml, density ~1.1 g/ml rounded to 30 g, typical sodium-rich profile with minor carbs from wheat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Toasted sesame oil; 2 tbs = 27 g (standard oil weight), pure fat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 91,
+        "fiberG": 1
+      },
+      "caloriesKcal": 57.15,
+      "proteinG": 0.045,
+      "fatG": 0.015,
+      "carbsG": 13.65,
+      "fiberG": 0.15,
+      "assumptions": "Cornstarch (corn flour); 2 tbs = ~15 g by volume weight, almost pure carbohydrate.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Plain water; 2 tbs = 30 ml = 30 g, zero calories and macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 825,
+      "proteinG": 155,
+      "fatG": 18,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw boneless skinless chicken breast/thigh mix typical for stir-fry; full 500 g edible weight used as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 314,
+        "proteinG": 12,
+        "fatG": 13,
+        "carbsG": 58,
+        "fiberG": 35
+      },
+      "caloriesKcal": 25.12,
+      "proteinG": 0.96,
+      "fatG": 1.04,
+      "carbsG": 4.64,
+      "fiberG": 2.8,
+      "assumptions": "Chili powder (ground dried chilies); 1 tbs = ~8 g, high-fiber spicy seasoning.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.05,
+      "fiberG": 0,
+      "assumptions": "Rice vinegar; 1 tsp = 5 g, very low calorie acidic liquid.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 45.6,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 11.76,
+      "fiberG": 0,
+      "assumptions": "Brown sugar; 1 tbs = 12 g packed, nearly pure sucrose.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 19.2,
+      "proteinG": 1.08,
+      "fatG": 0.12,
+      "carbsG": 4.38,
+      "fiberG": 1.56,
+      "assumptions": "4 medium spring onions (scallions), chopped; each ~15 g trimmed edible portion, total 60 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 18,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 26.82,
+      "proteinG": 1.1520000000000001,
+      "fatG": 0.09,
+      "carbsG": 5.94,
+      "fiberG": 0.37800000000000006,
+      "assumptions": "6 average garlic cloves, peeled; ~3 g each, total 18 g, typical bulb values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 2.3,
+        "fatG": 0.1,
+        "carbsG": 24,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 213.4,
+      "proteinG": 5.06,
+      "fatG": 0.22,
+      "carbsG": 52.8,
+      "fiberG": 7.26,
+      "assumptions": "Canned water chestnuts, drained weight as listed (220 g can net); starchy, crisp vegetable.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 567,
+        "proteinG": 26,
+        "fatG": 49,
+        "carbsG": 16,
+        "fiberG": 8.5
+      },
+      "caloriesKcal": 567,
+      "proteinG": 26,
+      "fatG": 49,
+      "carbsG": 16,
+      "fiberG": 8.5,
+      "assumptions": "Dry roasted peanuts, unsalted; full 100 g edible weight as listed, typical nut profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52945",
+    "name": "Kung Pao Chicken",
+    "cuisine": "Chinese",
+    "instructions": "Combine the sake or rice wine, soy sauce, sesame oil and cornflour dissolved in water. Divide mixture in half.\r\nIn a glass dish or bowl, combine half of the sake mixture with the chicken pieces and toss to coat. Cover dish and place in refrigerator for about 30 minutes.\r\nIn a medium frying pan, combine remaining sake mixture, chillies, vinegar and sugar. Mix together and add spring onion, garlic, water chestnuts and peanuts. Heat sauce slowly over medium heat until aromatic.\r\nMeanwhile, remove chicken from marinade and sauté in a large frying pan until juices run clear. When sauce is aromatic, add sautéed chicken and let simmer together until sauce thickens.",
+    "ingredients": [
+      { "position": 1, "name": "Sake", "measurement": "2 tbs" },
+      { "position": 2, "name": "Soy Sauce", "measurement": "2 tbs" },
+      { "position": 3, "name": "Sesame Seed Oil", "measurement": "2 tbs" },
+      { "position": 4, "name": "Corn Flour", "measurement": "2 tbs" },
+      { "position": 5, "name": "Water", "measurement": "2 tbs" },
+      { "position": 6, "name": "Chicken", "measurement": "500g" },
+      { "position": 7, "name": "Chilli Powder", "measurement": "1 tbs" },
+      { "position": 8, "name": "Rice Vinegar", "measurement": "1 tsp" },
+      { "position": 9, "name": "Brown Sugar", "measurement": "1 tbs" },
+      { "position": 10, "name": "Spring Onions", "measurement": "4 Chopped" },
+      { "position": 11, "name": "Garlic Clove", "measurement": "6 cloves" },
+      { "position": 12, "name": "Water Chestnut", "measurement": "220g" },
+      { "position": 13, "name": "Peanuts", "measurement": "100g" }
+    ]
+  }
+}

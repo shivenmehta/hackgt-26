@@ -1,0 +1,207 @@
+{
+  "inputHash": "f2fc9eddf5d559d798662e084e4ad5389a37ac8a7b59f82c4f321d404ca7ee11",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:34.533Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 660,
+      "proteinG": 124,
+      "fatG": 14.4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 typical skinless chicken breasts, ~200g each, raw edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 150,
+        "proteinG": 3,
+        "fatG": 8,
+        "carbsG": 12,
+        "fiberG": 3
+      },
+      "caloriesKcal": 45,
+      "proteinG": 0.9,
+      "fatG": 2.4,
+      "carbsG": 3.6,
+      "fiberG": 0.9,
+      "assumptions": "2 tablespoons Thai red curry paste, typical commercial brand density and nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 200,
+        "proteinG": 2,
+        "fatG": 21,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 60,
+      "proteinG": 0.6,
+      "fatG": 6.3,
+      "carbsG": 0.9,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons full-fat coconut milk, typical canned variety",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2
+      },
+      "caloriesKcal": 37.2,
+      "proteinG": 1.2,
+      "fatG": 0.36,
+      "carbsG": 7.2,
+      "fiberG": 2.4,
+      "assumptions": "1 medium red bell pepper, chopped, edible raw weight ~120g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 17,
+        "proteinG": 1.2,
+        "fatG": 0.3,
+        "carbsG": 3.1,
+        "fiberG": 1
+      },
+      "caloriesKcal": 20.4,
+      "proteinG": 1.44,
+      "fatG": 0.36,
+      "carbsG": 3.72,
+      "fiberG": 1.2,
+      "assumptions": "1 medium courgette/zucchini, chopped, edible raw weight ~120g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium red onion, cut into thin wedges, edible raw weight ~110g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 18,
+      "proteinG": 0.42,
+      "fatG": 0.12,
+      "carbsG": 6.3,
+      "fiberG": 1.68,
+      "assumptions": "1 whole lime to serve (juice from one lime), typical whole fruit weight ~60g edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53204",
+    "name": "Red curry chicken kebabs",
+    "cuisine": "Thai",
+    "instructions": "step 1\r\nFire up the barbecue or heat a griddle pan to high. Tip chicken, curry paste and coconut milk into a bowl, then mix well until the chicken is evenly coated. Thread vegetables and chicken onto skewers. Cook the skewers on the barbecue or griddle for 5-8 mins, turning every so often, until the chicken is cooked through and charred. Serve with herby rice, salad and a lime half to squeeze over.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken Breasts", "measurement": "2" },
+      {
+        "position": 2,
+        "name": "Thai Red Curry Paste",
+        "measurement": "2 tblsp"
+      },
+      { "position": 3, "name": "Coconut Milk", "measurement": "2 tblsp" },
+      { "position": 4, "name": "Red Pepper", "measurement": "1 chopped" },
+      { "position": 5, "name": "Courgettes", "measurement": "1 chopped" },
+      {
+        "position": 6,
+        "name": "Red Onions",
+        "measurement": "1 cut thin wedges"
+      },
+      { "position": 7, "name": "Lime", "measurement": "To serve" }
+    ]
+  }
+}

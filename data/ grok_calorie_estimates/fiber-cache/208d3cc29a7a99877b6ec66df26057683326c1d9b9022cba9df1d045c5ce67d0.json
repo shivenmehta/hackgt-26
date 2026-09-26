@@ -1,0 +1,51 @@
+{
+  "inputHash": "208d3cc29a7a99877b6ec66df26057683326c1d9b9022cba9df1d045c5ce67d0",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:18.125Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 average skinless chicken breasts ≈ 400 g raw edible portion; plain poultry has zero carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 8,
+      "fiberG": 2,
+      "assumptions": "2 tbsp Thai red curry paste ≈ 40 g (typical commercial paste); typical values ~20 g carb / 100 g"
+    },
+    {
+      "position": 3,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "2 tbsp full-fat coconut milk ≈ 30 g; typical values ~2 g carb / 100 g"
+    },
+    {
+      "position": 4,
+      "carbsG": 7.4,
+      "fiberG": 2.5,
+      "assumptions": "1 medium red bell pepper chopped ≈ 120 g edible portion; typical values ~6.2 g carb / 100 g"
+    },
+    {
+      "position": 5,
+      "carbsG": 6.6,
+      "fiberG": 2,
+      "assumptions": "1 medium courgette/zucchini chopped ≈ 200 g edible portion; typical values ~3.3 g carb / 100 g"
+    },
+    {
+      "position": 6,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium red onion in thin wedges ≈ 110 g edible portion; typical values ~9 g carb / 100 g"
+    },
+    {
+      "position": 7,
+      "carbsG": 7,
+      "fiberG": 2,
+      "assumptions": "Lime to serve (1 lime, ~100 g with peel) contributes ~7 g total carbs including fiber to whole recipe"
+    }
+  ]
+}

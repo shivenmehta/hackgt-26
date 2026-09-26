@@ -1,0 +1,39 @@
+{
+  "inputHash": "3f295e5e70f0de84d71f404f43678e87d4e8e68817094b066ed0669e1a411b67",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:18.759Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 7.3,
+      "fiberG": 0,
+      "assumptions": "16 oz (454 g) packaged silken tofu, drained weight used as-is; typical values for soft/silken tofu"
+    },
+    {
+      "position": 2,
+      "carbsG": 3.6,
+      "fiberG": 0.5,
+      "assumptions": "3 tbsp (45 ml) regular soy sauce; sodium-rich but low calorie"
+    },
+    {
+      "position": 3,
+      "carbsG": 6,
+      "fiberG": 3,
+      "assumptions": "2 tbsp (30 ml) Chinese sesame paste/sauce (tahini-like, not sweetened); ~70 kcal and 6 g fat per tbsp"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.1,
+      "fiberG": 0.4,
+      "assumptions": "1 medium scallion (~15 g), sliced; green onion, edible portion only"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.1,
+      "fiberG": 0.6,
+      "assumptions": "2 tsp (6 g) whole sesame seeds, toasted or raw"
+    }
+  ]
+}

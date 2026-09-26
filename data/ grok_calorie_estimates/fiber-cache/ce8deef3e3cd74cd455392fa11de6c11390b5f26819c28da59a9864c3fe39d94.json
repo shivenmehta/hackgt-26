@@ -1,0 +1,57 @@
+{
+  "inputHash": "ce8deef3e3cd74cd455392fa11de6c11390b5f26819c28da59a9864c3fe39d94",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:01.847Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Plain water contributes 0g carbohydrates and 0g fiber."
+    },
+    {
+      "position": 2,
+      "carbsG": 11,
+      "fiberG": 0,
+      "assumptions": "380g full-fat canned coconut milk (standard ~3g carbs/100g, negligible fiber)."
+    },
+    {
+      "position": 3,
+      "carbsG": 103,
+      "fiberG": 10,
+      "assumptions": "1 cup (approx. 130g) fine yellow cornmeal (standard ~79g carbs/100g including ~8g fiber/100g)."
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1.5 tsp (7.5ml) vanilla extract (negligible carbs from alcohol-based extract)."
+    },
+    {
+      "position": 5,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "1/2 tsp ground cinnamon (modest seasoning amount, ~2g total)."
+    },
+    {
+      "position": 6,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "1/2 tsp ground nutmeg (modest seasoning amount, ~2g total)."
+    },
+    {
+      "position": 7,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp ground allspice (modest seasoning amount, ~1g total)."
+    },
+    {
+      "position": 8,
+      "carbsG": 56,
+      "fiberG": 0,
+      "assumptions": "1/2 cup (approx. 150g) sweetened condensed milk (standard ~37g carbs/100g, negligible fiber)."
+    }
+  ]
+}

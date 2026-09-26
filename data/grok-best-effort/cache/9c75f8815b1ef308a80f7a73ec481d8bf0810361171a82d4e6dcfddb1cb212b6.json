@@ -1,0 +1,259 @@
+{
+  "inputHash": "9c75f8815b1ef308a80f7a73ec481d8bf0810361171a82d4e6dcfddb1cb212b6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:02.165Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 20,
+        "fatG": 8.5,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 742.5,
+      "proteinG": 90,
+      "fatG": 38.25,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Boneless chicken thighs with skin, raw weight as specified; typical values for skin-on dark meat chicken.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 4.8,
+      "proteinG": 0.12,
+      "fatG": 0.041999999999999996,
+      "carbsG": 1.08,
+      "fiberG": 0.12,
+      "assumptions": "Grated fresh ginger root; 1 tablespoon ≈ 6 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.99,
+      "fiberG": 0.063,
+      "assumptions": "Minced fresh garlic clove; 1 average clove ≈ 3 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 6,
+        "fatG": 0.1,
+        "carbsG": 6,
+        "fiberG": 0.8
+      },
+      "caloriesKcal": 18,
+      "proteinG": 1.8,
+      "fatG": 0.03,
+      "carbsG": 1.8,
+      "fiberG": 0.24,
+      "assumptions": "Regular Japanese or all-purpose soy sauce; 2 tablespoons ≈ 30 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 134,
+        "proteinG": 0.3,
+        "fatG": 0,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 20.1,
+      "proteinG": 0.045,
+      "fatG": 0,
+      "carbsG": 0.75,
+      "fiberG": 0,
+      "assumptions": "Japanese cooking sake (rice wine); 1 tablespoon ≈ 15 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 30.96,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "White granulated sugar; 2 teaspoons ≈ 8 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 357,
+        "proteinG": 0.2,
+        "fatG": 0.1,
+        "carbsG": 83,
+        "fiberG": 2
+      },
+      "caloriesKcal": 160.65,
+      "proteinG": 0.09,
+      "fatG": 0.045,
+      "carbsG": 37.35,
+      "fiberG": 0.9,
+      "assumptions": "Potato starch (katakuriko); 1/3 cup ≈ 45 g, used as coating (not all may adhere but full amount estimated).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 663,
+      "proteinG": 0,
+      "fatG": 75,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Neutral vegetable oil for deep frying; 1/3 cup added to pot but only a fraction absorbed (≈10-15% uptake assumed for total recipe estimate, using full listed quantity for conservative total).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 14.5,
+      "proteinG": 0.55,
+      "fatG": 0.15,
+      "carbsG": 4.65,
+      "fiberG": 1.4,
+      "assumptions": "Fresh lemon wedges for serving; 1/3 cup juice + peel equivalent ≈ 50 g total edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52831",
+    "name": "Chicken Karaage",
+    "cuisine": "Japanese",
+    "instructions": "Add the ginger, garlic, soy sauce, sake and sugar to a bowl and whisk to combine. Add the chicken, then stir to coat evenly. Cover and refrigerate for at least 1 hour.\r\n\r\nAdd 1 inch of vegetable oil to a heavy bottomed pot and heat until the oil reaches 360 degrees F. Line a wire rack with 2 sheets of paper towels and get your tongs out. Put the potato starch in a bowl\r\n\r\nAdd a handful of chicken to the potato starch and toss to coat each piece evenly.\r\n\r\nFry the karaage in batches until the exterior is a medium brown and the chicken is cooked through. Transfer the fried chicken to the paper towel lined rack. If you want the karaage to stay crispy longer, you can fry the chicken a second time, until it's a darker color after it's cooled off once. Serve with lemon wedges.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Chicken",
+        "measurement": "450 grams Boneless skin"
+      },
+      { "position": 2, "name": "Ginger", "measurement": "1 tablespoon" },
+      { "position": 3, "name": "Garlic", "measurement": "1 clove" },
+      { "position": 4, "name": "Soy sauce", "measurement": "2 tablespoons" },
+      { "position": 5, "name": "Sake", "measurement": "1 tablespoon" },
+      {
+        "position": 6,
+        "name": "Granulated sugar",
+        "measurement": "2 teaspoon"
+      },
+      { "position": 7, "name": "Potato starch", "measurement": "1/3 cup" },
+      { "position": 8, "name": "Vegetable oil", "measurement": "1/3 cup" },
+      { "position": 9, "name": "Lemon", "measurement": "1/3 cup" }
+    ]
+  }
+}

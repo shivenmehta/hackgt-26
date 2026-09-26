@@ -1,0 +1,177 @@
+{
+  "inputHash": "fa3e5fb6f3fbdfd39c7ea58ccddcd4713cae66bb6781110a83f6a41f0c50a1cb",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:33:14.589Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 12,
+        "fatG": 1.5,
+        "carbsG": 73,
+        "fiberG": 3
+      },
+      "caloriesKcal": 1820,
+      "proteinG": 60,
+      "fatG": 7.5,
+      "carbsG": 365,
+      "fiberG": 15,
+      "assumptions": "Standard nutritional profile for strong white bread flour; assumes dry weight as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 70,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 270.9,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 70,
+      "fiberG": 0,
+      "assumptions": "Standard caster sugar (sucrose); 100% carbohydrate by weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 325,
+        "proteinG": 40,
+        "fatG": 8,
+        "carbsG": 20,
+        "fiberG": 13
+      },
+      "caloriesKcal": 32.5,
+      "proteinG": 4,
+      "fatG": 0.8,
+      "carbsG": 2,
+      "fiberG": 1.3,
+      "assumptions": "Typical active dry yeast packet values; small quantity typical for bread recipes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143,
+      "proteinG": 13,
+      "fatG": 10,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "Two large eggs (approx 50g each, whole beaten); standard large egg nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 64,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 565.76,
+      "proteinG": 0,
+      "fatG": 64,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Sunflower oil density approx 0.92 g/ml; 70ml converted to weight, pure fat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 533,
+        "proteinG": 18,
+        "fatG": 42,
+        "carbsG": 29,
+        "fiberG": 15
+      },
+      "caloriesKcal": 47.97,
+      "proteinG": 1.62,
+      "fatG": 3.78,
+      "carbsG": 2.61,
+      "fiberG": 1.35,
+      "assumptions": "1 tablespoon poppy seeds (approx 9g); standard seed nutrition for topping.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53310",
+    "name": "Challah",
+    "cuisine": "Polish",
+    "instructions": "step 1\r\nCombine the yeast, a pinch of the sugar and a couple tablespoons of lukewarm water in a small bowl. Stir to dissolve the yeast, then leave for 10 mins until foamy.\r\n\r\nstep 2\r\nMeanwhile, combine the flour, the remaining sugar and 2 tsp fine salt in a large bowl. Make a well in the centre, then add half the beaten egg, the yeast mixture and the oil. Pour in 200ml lukewarm water (it should feel slightly warm to the touch) and stir with a spoon, then mix using one hand, keeping the other clean while you bring the dough together. If there are a lot of very dry bits, gradually add a little water to just bring it together – you don't want it to get too wet and sticky. The dough should be moist, but not soggy.\r\n\r\nstep 3\r\nOnce the dough has come together, turn it out onto a lightly floured surface. Knead using both hands for 10 mins until smooth and a bit springy. If it gets very sticky, add a very small amount of flour – as little as possible. A dough scraper is useful if the dough is sticking to the work surface. Stretch the sides of the dough down and pull together to form a ball. Lightly oil a bowl, then lightly roll the dough ball around the bowl so it's coated in the oil. Cover with a clean tea towel and leave in a warm place for 1 hr, or until dough has doubled in size.\r\n\r\nstep 4\r\nLine a baking sheet with baking parchment. Turn the dough out onto a clean work surface and divide into three equal pieces, weighing for accuracy, if you like. Roll each piece into a long sausage shape about 25cm long, tapering them slightly at both ends. Lay the pieces out in front of you, parallel to one another with a couple centimetres between each. Bring the sausages together at the top end, then plait them down the length, tucking in the ends when you reach the bottom. Carefully transfer the loaf to the prepared baking sheet and loosely cover with a clean tea towel. Leave to rise until puffy and billowy, about 40 mins.\r\n\r\nstep 5\r\nMeanwhile, heat the oven to 200C/180C fan/gas 6. Gently brush the rest of the beaten egg all over the challah, getting it into all the crevices, and sprinkle with the poppy or sesame seeds, if using. Bake on a middle shelf of the oven for 25-30 mins, until the loaf is golden brown underneath and sounds hollow when tapped. Check after about 15 mins – if the top of the loaf has started to get too dark, cover it with foil. Leave to cool on a wire rack, then serve.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Strong white bread flour",
+        "measurement": "500g"
+      },
+      { "position": 2, "name": "Caster Sugar", "measurement": "70g" },
+      { "position": 3, "name": "Yeast", "measurement": "10g" },
+      { "position": 4, "name": "Egg", "measurement": "2 Beaten" },
+      { "position": 5, "name": "Sunflower Oil", "measurement": "70 ml" },
+      { "position": 6, "name": "Poppy Seeds", "measurement": "1 tablespoon" }
+    ]
+  }
+}

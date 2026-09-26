@@ -1,0 +1,86 @@
+{
+  "inputHash": "61e6f3a8c679471442089f276892c1f9203b64a511b9ff82cc79e2e719ea0bdc",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:21:02.683Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 40,
+      "proteinG": 0,
+      "fatG": 4.5,
+      "assumptions": "1 tsp vegetable oil ≈ 4.5 g; uses all oil for frying"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 45,
+      "proteinG": 1,
+      "fatG": 2.5,
+      "assumptions": "1 tbsp Thai green curry paste ≈ 15 g; typical commercial paste values"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 70,
+      "proteinG": 3,
+      "fatG": 0.5,
+      "assumptions": "220 g mixed stir-fry vegetables (e.g. peppers, carrots, beansprouts); average raw mixed veg nutrition"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 150,
+      "proteinG": 30,
+      "fatG": 2,
+      "assumptions": "150 g raw king prawns, peeled; standard raw prawn values, cooked in recipe but nutrition from raw weight"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 240,
+      "proteinG": 2,
+      "fatG": 25,
+      "assumptions": "150 ml full-fat coconut milk; ≈ 1.6 g/ml density, standard canned values"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 10,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "225 ml vegetable stock; typical low-calorie stock values"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 325,
+      "proteinG": 12,
+      "fatG": 2,
+      "assumptions": "250 g cooked udon noodles (standard pre-cooked weight); typical boiled udon nutrition"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 3,
+      "proteinG": 0.3,
+      "fatG": 0.1,
+      "assumptions": "10 g fresh coriander leaves; standard herb values"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 2,
+      "proteinG": 0.2,
+      "fatG": 0.1,
+      "assumptions": "10 g fresh basil leaves; standard herb values"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 6,
+      "proteinG": 0.3,
+      "fatG": 0.1,
+      "assumptions": "1 medium red chilli (≈ 20 g with seeds), sliced; standard raw chilli values"
+    },
+    {
+      "position": 11,
+      "caloriesKcal": 5,
+      "proteinG": 0.3,
+      "fatG": 0,
+      "assumptions": "1 spring onion (≈ 15 g), sliced; standard raw spring onion values"
+    }
+  ]
+}

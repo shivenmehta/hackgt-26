@@ -1,0 +1,225 @@
+{
+  "inputHash": "bd75edba247ad82946a286ddd86fb5cba424546215a471136347660bc856000a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:31:34.676Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 453.6,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 26,
+        "fatG": 15,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1134,
+      "proteinG": 117.936,
+      "fatG": 68.04,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard raw beef sirloin or similar cut for bistek; 1 lb converted to grams; values for typical lean-to-moderately fatty beef used in Filipino recipes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 6,
+        "fatG": 0.5,
+        "carbsG": 6,
+        "fiberG": 1
+      },
+      "caloriesKcal": 45,
+      "proteinG": 4.5,
+      "fatG": 0.375,
+      "carbsG": 4.5,
+      "fiberG": 0.75,
+      "assumptions": "Regular soy sauce; 5 tbsp ≈ 75 g based on typical density of ~15 g per tbsp; common values for sodium-rich Asian-style soy sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 58,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 16.82,
+      "proteinG": 0.638,
+      "fatG": 0.174,
+      "carbsG": 5.394000000000001,
+      "fiberG": 1.6239999999999997,
+      "assumptions": "Juice and some pulp from 1 medium lemon (edible portion after squeezing; ~58 g juice/pulp yield); standard lemon nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.5760000000000001,
+      "fatG": 0.045,
+      "carbsG": 2.9790000000000005,
+      "fiberG": 0.18900000000000003,
+      "assumptions": "3 average garlic cloves ≈ 9 g total; raw garlic values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 120,
+      "proteinG": 3.3,
+      "fatG": 0.3,
+      "carbsG": 27.9,
+      "fiberG": 5.1,
+      "assumptions": "3 medium onions total (≈100 g each raw, peeled/edible portion); split between frying and sautéing per instructions; standard yellow onion nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 54,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 477.36,
+      "proteinG": 0,
+      "fatG": 54,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Olive oil; 4 tbsp ≈ 54 g (standard 13.5 g per tbsp); pure oil values, including for any 'as needed' frying.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 237,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 cup water = 237 g; plain water contributes zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 0.3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 pinch table salt ≈ 0.3 g; negligible contribution to macros, treated as zero.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53069",
+    "name": "Bistek",
+    "cuisine": "Filipino",
+    "instructions": "0.\tMarinate beef in soy sauce, lemon (or calamansi), and ground black pepper for at least 1 hour. Note: marinate overnight for best result\r\n1.\tHeat the cooking oil in a pan then pan-fry half of the onions until the texture becomes soft. Set aside\r\n2.\tDrain the marinade from the beef. Set it aside. Pan-fry the beef on the same pan where the onions were fried for 1 minute per side. Remove from the pan. Set aside\r\n3.\tAdd more oil if needed. Saute garlic and remaining raw onions until onion softens.\r\n4.\tPour the remaining marinade and water. Bring to a boil.\r\n5.\tAdd beef. Cover the pan and simmer until the meat is tender. Note: Add water as needed.\r\n6.\tSeason with ground black pepper and salt as needed. Top with pan-fried onions.\r\n7.\tTransfer to a serving plate. Serve hot. Share and Enjoy!",
+    "ingredients": [
+      { "position": 1, "name": "Beef", "measurement": "1 lb" },
+      { "position": 2, "name": "Soy Sauce", "measurement": "5 tablespoons" },
+      { "position": 3, "name": "Lemon", "measurement": "1" },
+      { "position": 4, "name": "Garlic", "measurement": "3 cloves" },
+      { "position": 5, "name": "Onion", "measurement": "3 parts" },
+      { "position": 6, "name": "Olive Oil", "measurement": "4 tbs" },
+      { "position": 7, "name": "Water", "measurement": "1 cup" },
+      { "position": 8, "name": "Salt", "measurement": "1 pinch" }
+    ]
+  }
+}

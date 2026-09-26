@@ -1,0 +1,303 @@
+{
+  "inputHash": "e06a7359c4e1fc39019e33034ca58b6f924c231f48a416f368d6ea5d133f256c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:56.142Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 546,
+      "proteinG": 15,
+      "fatG": 1.5,
+      "carbsG": 114,
+      "fiberG": 4.5,
+      "assumptions": "Standard plain wheat flour, dry weight as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 400,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 200,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 50,
+      "fiberG": 0,
+      "assumptions": "Cocoa powder (unsweetened, typical for baking); name listed as Coco Sugar is interpreted as cocoa based on Polish cake context and instructions to sift with flour.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 572,
+      "proteinG": 52,
+      "fatG": 40,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "8 large whole eggs (approx 50g edible portion each including shell adjustment); used in sponge batter per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 774,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 200,
+      "fiberG": 0,
+      "assumptions": "Standard caster sugar, fully used in sponge.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 52,
+        "proteinG": 11,
+        "fatG": 0,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 91,
+      "proteinG": 19.25,
+      "fatG": 0,
+      "carbsG": 1.75,
+      "fiberG": 0,
+      "assumptions": "5 large egg whites (approx 35g each); used for meringue per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 774,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 200,
+      "fiberG": 0,
+      "assumptions": "Standard caster sugar, fully used in meringue.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 654,
+        "proteinG": 15,
+        "fatG": 65,
+        "carbsG": 14,
+        "fiberG": 7
+      },
+      "caloriesKcal": 1635,
+      "proteinG": 37.5,
+      "fatG": 162.5,
+      "carbsG": 35,
+      "fiberG": 17.5,
+      "assumptions": "Shelled walnuts; 250g listed is total, majority chopped and folded into meringue with some reserved for sprinkling and decoration per instructions; edible kernel weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 29.12,
+      "proteinG": 0.8,
+      "fatG": 0.08,
+      "carbsG": 6.08,
+      "fiberG": 0.24,
+      "assumptions": "1 level tablespoon plain flour (approx 8g); folded into meringue per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 83,
+        "fiberG": 1
+      },
+      "caloriesKcal": 34,
+      "proteinG": 0.1,
+      "fatG": 0,
+      "carbsG": 8.3,
+      "fiberG": 0.1,
+      "assumptions": "1 level tablespoon potato starch (approx 10g); folded into meringue per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2,
+        "fatG": 37,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 340,
+      "proteinG": 2,
+      "fatG": 37,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "Double (heavy) cream, fully used to make glaze per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 536,
+        "proteinG": 5,
+        "fatG": 33,
+        "carbsG": 57,
+        "fiberG": 7
+      },
+      "caloriesKcal": 536,
+      "proteinG": 5,
+      "fatG": 33,
+      "carbsG": 57,
+      "fiberG": 7,
+      "assumptions": "Dark chocolate chips (typical semi-sweet baking type), melted into cream for glaze per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53295",
+    "name": "Polish chocolate & walnut cake",
+    "cuisine": "Polish",
+    "instructions": "Heat the oven to 170C/150C fan/gas 3½. Line a 30 x 22cm shallow baking tin with baking parchment. Sift the flour and mix it with cocoa, then set aside. Beat the egg whites until stiff, then add the sugar to them in small batches. Add the egg yolks, one by one, whisking constantly. Tip in the flour mixture and gently fold everything together with a spatula. Pour the prepared batter into the lined tin and bake for 35 mins. Cool for 5 mins, remove from the tin and re-line the tin with baking parchment.\r\n\r\nstep 2\r\nTo make the meringue, whisk the whites until stiff, then gradually whisk in the sugar, one tablespoon at a time. When you have a stiff and shiny meringue, fold in the finely chopped walnuts, flour and startch. Spread the mixture into the re-lined tin and cook for 40 mins on the same heat. Remove from the oven and leave to cool.\r\n\r\nstep 3\r\nFor the chocolate glaze, heat the cream over low heat, then remove from the heat, pour the chopped chocolate into it and mix it until it melts and becomes shiny.\r\n\r\nstep 4\r\nCut the cooled chocolate sponge cake and meringue into two layers. Put the nut meringue on top of the bottom layer of sponge and sprinkle on some of the reserved walnuts. Add another layer of meringue and then the upper layer of chocolate sponge cake and cover the top with chocolate glaze. Decorate with walnuts. Put the finished cake in the fridge for 1-2 hrs before serving.",
+    "ingredients": [
+      { "position": 1, "name": "Plain Flour", "measurement": "150g" },
+      { "position": 2, "name": "Coco Sugar", "measurement": "50g" },
+      { "position": 3, "name": "Egg", "measurement": "8" },
+      { "position": 4, "name": "Caster Sugar", "measurement": "200g" },
+      { "position": 5, "name": "Egg White", "measurement": "5" },
+      { "position": 6, "name": "Caster Sugar", "measurement": "200g" },
+      { "position": 7, "name": "Walnuts", "measurement": "250g" },
+      { "position": 8, "name": "Plain Flour", "measurement": "1 tablespoon" },
+      { "position": 9, "name": "Potato Starch", "measurement": "1 tablespoon" },
+      { "position": 10, "name": "Double Cream", "measurement": "100g" },
+      { "position": 11, "name": "Chocolate Chips", "measurement": "100g" }
+    ]
+  }
+}

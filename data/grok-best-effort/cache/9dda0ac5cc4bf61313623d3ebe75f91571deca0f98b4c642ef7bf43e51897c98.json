@@ -1,0 +1,329 @@
+{
+  "inputHash": "9dda0ac5cc4bf61313623d3ebe75f91571deca0f98b4c642ef7bf43e51897c98",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:49.822Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp vegetable oil (14g per tbsp); used for stir-frying and frying eggs across the whole recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 1.2,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 46.2,
+      "proteinG": 1.32,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium red onion, sliced; typical edible weight ~110g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 typical garlic cloves, sliced; ~3g per clove peeled",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 9.1,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 18,
+      "proteinG": 0.855,
+      "fatG": 0.18,
+      "carbsG": 4.095,
+      "fiberG": 0.675,
+      "assumptions": "1 medium red chilli, sliced; typical whole weight ~45g edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 106,
+        "proteinG": 20.4,
+        "fatG": 1.7,
+        "carbsG": 0.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 265,
+      "proteinG": 51,
+      "fatG": 4.25,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "250g raw king prawns as given; peeled and edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 370,
+        "proteinG": 7.9,
+        "fatG": 2.9,
+        "carbsG": 77.2,
+        "fiberG": 3.5
+      },
+      "caloriesKcal": 518,
+      "proteinG": 11.06,
+      "fatG": 4.06,
+      "carbsG": 108.08,
+      "fiberG": 4.9,
+      "assumptions": "140g uncooked brown rice as given; dry weight before cooking",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 81,
+        "proteinG": 5.4,
+        "fatG": 0.4,
+        "carbsG": 14.4,
+        "fiberG": 5.1
+      },
+      "caloriesKcal": 60.75,
+      "proteinG": 4.05,
+      "fatG": 0.3,
+      "carbsG": 10.8,
+      "fiberG": 3.825,
+      "assumptions": "75g frozen peas as given; typical weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.5,
+        "fatG": 0.1,
+        "carbsG": 4.9,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 7.95,
+      "proteinG": 0.825,
+      "fatG": 0.015,
+      "carbsG": 0.735,
+      "fiberG": 0.105,
+      "assumptions": "1 tbsp soy sauce; typical 15g per tablespoon",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 35,
+        "proteinG": 4.8,
+        "fatG": 0,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 5.25,
+      "proteinG": 0.72,
+      "fatG": 0,
+      "carbsG": 0.54,
+      "fiberG": 0,
+      "assumptions": "1 tbsp fish sauce; typical 15g per tablespoon",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 5.75,
+      "proteinG": 0.55,
+      "fatG": 0.125,
+      "carbsG": 0.925,
+      "fiberG": 0.7,
+      "assumptions": "1 bunch fresh coriander (~25g typical bunch, leaves and stems, chopped and divided between recipe and garnish)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 286,
+      "proteinG": 25.2,
+      "fatG": 19,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "4 large eggs (~50g each edible portion without shell); fried in remaining oil",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 0.6,
+        "fatG": 0.1,
+        "carbsG": 4.7,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 4,
+      "proteinG": 0.12,
+      "fatG": 0.02,
+      "carbsG": 0.94,
+      "fiberG": 0.14,
+      "assumptions": "Hot sauce to serve; estimated 5g per person across 4 servings (small drizzle each), typical chili-based sauce",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53198",
+    "name": "Thai fried rice with prawns & peas",
+    "cuisine": "Thai",
+    "instructions": "step 1\r\nHeat 1 tbsp of the oil in a wok, add the onion, garlic and chilli, and cook for 2-3 mins until golden. Add the prawns and cook for 1 min. Tip in the rice and peas, and keep tossing until very hot. Add the soy and fish sauce, then stir through the chopped coriander. Keep warm while you fry the eggs.\r\n\r\nstep 2\r\nHeat the remaining oil in a frying pan and fry the eggs with some seasoning. Divide the fried rice mix between 4 bowls and top each with a fried egg. Serve scattered with coriander, with chilli sauce, if you like.",
+    "ingredients": [
+      { "position": 1, "name": "Vegetable Oil", "measurement": "2 tbsp" },
+      { "position": 2, "name": "Red Onions", "measurement": "1 sliced" },
+      { "position": 3, "name": "Garlic Clove", "measurement": "2 sliced" },
+      { "position": 4, "name": "Red Chilli", "measurement": "1 sliced" },
+      { "position": 5, "name": "Raw King Prawns", "measurement": "250g" },
+      { "position": 6, "name": "Brown Rice", "measurement": "140g" },
+      { "position": 7, "name": "Frozen Peas", "measurement": "75g" },
+      { "position": 8, "name": "Soy Sauce", "measurement": "1 tablespoon" },
+      { "position": 9, "name": "Fish Sauce", "measurement": "1 tablespoon" },
+      { "position": 10, "name": "Coriander", "measurement": "Bunch" },
+      { "position": 11, "name": "Egg", "measurement": "4 large" },
+      { "position": 12, "name": "Hotsauce", "measurement": "To serve" }
+    ]
+  }
+}

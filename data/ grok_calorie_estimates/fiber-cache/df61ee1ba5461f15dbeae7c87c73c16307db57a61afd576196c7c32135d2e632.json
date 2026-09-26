@@ -1,0 +1,57 @@
+{
+  "inputHash": "df61ee1ba5461f15dbeae7c87c73c16307db57a61afd576196c7c32135d2e632",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:51.795Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 135,
+      "fiberG": 5.6,
+      "assumptions": "375g ready-to-use shortcrust pastry; typical values ~36g carbs (incl. ~1.5g fiber) per 100g"
+    },
+    {
+      "position": 2,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 large eggs (~100g total edible portion); ~0.7-1g carbs total, negligible fiber"
+    },
+    {
+      "position": 3,
+      "carbsG": 175,
+      "fiberG": 0,
+      "assumptions": "175g muscovado sugar; 100g carbs per 100g, 0 fiber"
+    },
+    {
+      "position": 4,
+      "carbsG": 79,
+      "fiberG": 3.7,
+      "assumptions": "100g raisins; ~79g carbs (incl. 3.7g fiber) per 100g"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 tsp (5ml) vanilla extract; ~0.5g carbs, 0 fiber"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "50g butter; 0 carbs, 0 fiber"
+    },
+    {
+      "position": 7,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "4 tsp (20ml) single cream; ~4-5g carbs per 100ml so ~1g total, 0 fiber"
+    },
+    {
+      "position": 8,
+      "carbsG": 6.7,
+      "fiberG": 3.3,
+      "assumptions": "50g walnuts; ~13.4g carbs (incl. 6.7g fiber) per 100g"
+    }
+  ]
+}

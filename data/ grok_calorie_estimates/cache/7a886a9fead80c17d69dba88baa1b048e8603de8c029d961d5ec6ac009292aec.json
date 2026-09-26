@@ -1,0 +1,65 @@
+{
+  "inputHash": "7a886a9fead80c17d69dba88baa1b048e8603de8c029d961d5ec6ac009292aec",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:20:28.515Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "Water contributes 0 kcal, 0g protein, 0g fat."
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 745,
+      "proteinG": 8,
+      "fatG": 80,
+      "assumptions": "380g full-fat canned coconut milk (standard ~197 kcal/100g)."
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 440,
+      "proteinG": 10,
+      "fatG": 4.5,
+      "assumptions": "1 cup (approx. 130g) fine yellow cornmeal, dry weight."
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 18,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1.5 tsp (7.5ml) vanilla extract, alcohol-based."
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 3,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1/2 tsp ground cinnamon (modest seasoning amount)."
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 6,
+      "proteinG": 0,
+      "fatG": 0.5,
+      "assumptions": "1/2 tsp ground nutmeg (modest seasoning amount)."
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 2,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1/4 tsp ground allspice (modest seasoning amount)."
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 330,
+      "proteinG": 8,
+      "fatG": 9,
+      "assumptions": "1/2 cup (approx. 150g) sweetened condensed milk."
+    }
+  ]
+}

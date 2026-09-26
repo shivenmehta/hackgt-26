@@ -1,0 +1,277 @@
+{
+  "inputHash": "fbd6dc96bff002aca5a942883044bba402b1cf5206eee39c952aa3c20614393f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:32.312Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 616,
+      "proteinG": 16,
+      "fatG": 0.8,
+      "carbsG": 136,
+      "fiberG": 17.6,
+      "assumptions": "Raw potato weight as given; standard white potato values, peeled or unpeeled similar for gratin.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 120,
+      "proteinG": 3.3,
+      "fatG": 0.3,
+      "carbsG": 27.9,
+      "fiberG": 5.1,
+      "assumptions": "3 medium onions estimated at 100g each; raw onion values, cooked in stock/oil but base nutrients used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons olive oil = 27g standard volume-to-weight conversion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.3,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 7,
+      "proteinG": 0.9,
+      "fatG": 0.3,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "100ml chicken stock approximated as 100g; typical low-fat stock values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 2.8,
+        "fatG": 25,
+        "carbsG": 3.2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 500,
+      "proteinG": 5.6,
+      "fatG": 50,
+      "carbsG": 6.4,
+      "fiberG": 0,
+      "assumptions": "1 standard pot creme fraiche estimated at 200g full-fat (recipe notes preference for full fat); typical values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 431,
+        "proteinG": 38,
+        "fatG": 29,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 129.3,
+      "proteinG": 11.4,
+      "fatG": 8.7,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "Parmesan 'topping' estimated at 30g for 4 servings; standard grated Parmesan.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 990,
+      "proteinG": 186,
+      "fatG": 21.6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 chicken breasts estimated at 150g each raw; skinless boneless typical values, grilled or pan-fried.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 541,
+        "proteinG": 37,
+        "fatG": 42,
+        "carbsG": 1.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 649.2,
+      "proteinG": 44.4,
+      "fatG": 50.4,
+      "carbsG": 1.68,
+      "fiberG": 0,
+      "assumptions": "4 rashers bacon estimated at 30g each; streaky or back bacon average, cooked and drained.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.9,
+        "fatG": 0.4,
+        "carbsG": 3.6,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 23,
+      "proteinG": 2.9,
+      "fatG": 0.4,
+      "carbsG": 3.6,
+      "fiberG": 2.2,
+      "assumptions": "Spinach 'topping' or side estimated at 100g total for 4 servings; fresh spinach values, wilted.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 81,
+        "proteinG": 5.4,
+        "fatG": 0.4,
+        "carbsG": 14.5,
+        "fiberG": 5.7
+      },
+      "caloriesKcal": 162,
+      "proteinG": 10.8,
+      "fatG": 0.8,
+      "carbsG": 29,
+      "fiberG": 11.4,
+      "assumptions": "Peas 'topping' or side estimated at 200g total (50g per serving); frozen or fresh green peas, cooked.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52780",
+    "name": "Potato Gratin with Chicken",
+    "cuisine": "Italian",
+    "instructions": "15 minute potato gratin with chicken and bacon greens: a gratin always seems more effort and more indulgent than ordinary boiled or roasts, but it doesn't have to take 45mins, it's nice for a change and you can control the calorie content by going with full fat to low fat creme fraiche. (It's always tastes better full fat though obviously!) to serve 4: use 800g of potatoes, finely slice and boil in a pan for about 5-8 mins till firmish, not soft. Finely slice 3 onions and place in an oven dish with 2 tblsp of olive oil and 100ml of chicken stock. Cook till the onions are soft then drain the potatoes and pour onto the onions. Season and spoon over cream or creme fraiche till all is covered but not swimming. Grate Parmesan over the top then finish under the grill till nicely golden. serve with chicken and bacon, peas and spinach.",
+    "ingredients": [
+      { "position": 1, "name": "Potatoes", "measurement": "800g" },
+      { "position": 2, "name": "Onions", "measurement": "3" },
+      { "position": 3, "name": "Olive Oil", "measurement": "2 tblsp" },
+      { "position": 4, "name": "Chicken Stock", "measurement": "100ml" },
+      { "position": 5, "name": "Creme Fraiche", "measurement": "1 pot" },
+      { "position": 6, "name": "Parmesan", "measurement": "Topping" },
+      { "position": 7, "name": "Chicken Breasts", "measurement": "4" },
+      { "position": 8, "name": "Bacon", "measurement": "4" },
+      { "position": 9, "name": "Spinach", "measurement": "Topping" },
+      { "position": 10, "name": "Peas", "measurement": "Topping" }
+    ]
+  }
+}

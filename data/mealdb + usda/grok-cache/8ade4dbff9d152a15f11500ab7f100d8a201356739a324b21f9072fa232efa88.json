@@ -1,0 +1,45 @@
+{
+  "inputHash": "8ade4dbff9d152a15f11500ab7f100d8a201356739a324b21f9072fa232efa88",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:56.146Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 0.3,
+      "caloriesPer100g": 0,
+      "assumptions": "Standard pinch of salt is ~0.3g; knownCaloriesPer100g copied exactly as 0."
+    },
+    {
+      "position": 3,
+      "grams": 0.3,
+      "caloriesPer100g": 251,
+      "assumptions": "Standard pinch of pepper is ~0.3g; knownCaloriesPer100g copied exactly as 251 (likely white pepper)."
+    },
+    {
+      "position": 6,
+      "grams": 24,
+      "caloriesPer100g": 381,
+      "assumptions": "3 tbs cornstarch weighs ~24g (8g per tbsp); caloriesPer100g is standard for cornstarch as no known value supplied."
+    },
+    {
+      "position": 8,
+      "grams": 113,
+      "caloriesPer100g": 351,
+      "assumptions": "1/4 lb = 113.4g (dry weight before boiling per recipe step); caloriesPer100g is typical for dry wheat lo mein noodles as no known value supplied."
+    },
+    {
+      "position": 9,
+      "grams": 80,
+      "caloriesPer100g": 38,
+      "assumptions": "1/2 cup chopped onion ≈80g; knownCaloriesPer100g copied exactly as 38."
+    },
+    {
+      "position": 13,
+      "grams": 70,
+      "caloriesPer100g": 31.2,
+      "assumptions": "1 cup sliced mushrooms ≈70g (fresh); knownCaloriesPer100g copied exactly as 31.2."
+    }
+  ]
+}

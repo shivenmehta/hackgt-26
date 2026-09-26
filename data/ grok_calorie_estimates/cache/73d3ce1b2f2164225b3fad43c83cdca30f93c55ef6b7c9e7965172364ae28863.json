@@ -1,0 +1,44 @@
+{
+  "inputHash": "73d3ce1b2f2164225b3fad43c83cdca30f93c55ef6b7c9e7965172364ae28863",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:21:30.722Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 910,
+      "proteinG": 26,
+      "fatG": 2.5,
+      "assumptions": "2 cups AP flour = 250 g; standard values for uncooked white flour"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 5,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "2 tsp baking powder ≈ 10 g; negligible macros"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tsp table salt ≈ 6 g; zero calories/macros"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 110,
+      "proteinG": 6,
+      "fatG": 4,
+      "assumptions": "3/4 cup whole milk ≈ 180 ml / 184 g; standard whole milk values"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 480,
+      "proteinG": 0,
+      "fatG": 54,
+      "assumptions": "1.5 cups vegetable oil for frying; ≈120 ml / 108 g actually absorbed by the 10 dumplings (modest estimate based on typical deep-fry absorption after draining; remainder of oil not consumed)"
+    }
+  ]
+}

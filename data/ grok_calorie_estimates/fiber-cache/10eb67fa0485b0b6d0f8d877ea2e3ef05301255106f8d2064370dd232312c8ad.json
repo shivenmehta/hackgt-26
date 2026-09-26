@@ -1,0 +1,57 @@
+{
+  "inputHash": "10eb67fa0485b0b6d0f8d877ea2e3ef05301255106f8d2064370dd232312c8ad",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:06:11.466Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 24,
+      "fiberG": 0,
+      "assumptions": "500g standard whole-milk ricotta (≈24g carbs from lactose)"
+    },
+    {
+      "position": 2,
+      "carbsG": 2.4,
+      "fiberG": 0,
+      "assumptions": "4 large eggs (≈200g total edible weight, whole eggs used; ≈0.6g per egg)"
+    },
+    {
+      "position": 3,
+      "carbsG": 20,
+      "fiberG": 0.7,
+      "assumptions": "3 tbs plain flour (≈27g, standard wheat flour values)"
+    },
+    {
+      "position": 4,
+      "carbsG": 250,
+      "fiberG": 0,
+      "assumptions": "250g granulated sugar (full quantity, all carbohydrate)"
+    },
+    {
+      "position": 5,
+      "carbsG": 2,
+      "fiberG": 1.3,
+      "assumptions": "1 tsp ground cinnamon (≈2.5g)"
+    },
+    {
+      "position": 6,
+      "carbsG": 3,
+      "fiberG": 1,
+      "assumptions": "grated zest from 2 medium lemons (≈10g total, only outer peel)"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "5 tbs dark rum (≈75ml / 65g; negligible carbs)"
+    },
+    {
+      "position": 8,
+      "carbsG": 10,
+      "fiberG": 0,
+      "assumptions": "sprinkling of icing sugar (estimated 10g total dusted on whole cake)"
+    }
+  ]
+}

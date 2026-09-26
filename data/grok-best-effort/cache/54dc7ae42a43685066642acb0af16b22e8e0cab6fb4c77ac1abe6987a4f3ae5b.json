@@ -1,0 +1,303 @@
+{
+  "inputHash": "54dc7ae42a43685066642acb0af16b22e8e0cab6fb4c77ac1abe6987a4f3ae5b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:25:23.898Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 660,
+      "proteinG": 124,
+      "fatG": 14.4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Typical raw boneless skinless chicken breast; 200g per breast is a standard medium-large size used in burger recipes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp of neutral cooking oil (e.g. vegetable or sunflower) as specified for frying the chicken.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 0.5,
+        "fatG": 0.3,
+        "carbsG": 14,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 36,
+      "proteinG": 0.3,
+      "fatG": 0.18,
+      "carbsG": 8.4,
+      "fiberG": 0.3,
+      "assumptions": "4 tbsp hot/chilli sauce (e.g. typical sriracha-style or similar burger sauce); ~15g per tbsp based on common bottle nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.4,
+        "fatG": 0.3,
+        "carbsG": 9,
+        "fiberG": 0.4
+      },
+      "caloriesKcal": 8.7,
+      "proteinG": 0.12,
+      "fatG": 0.09,
+      "carbsG": 2.7,
+      "fiberG": 0.12,
+      "assumptions": "Juice from half a medium lemon (~30g juice); standard yield and nutrition for fresh lemon juice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 280,
+        "proteinG": 9,
+        "fatG": 4,
+        "carbsG": 50,
+        "fiberG": 3
+      },
+      "caloriesKcal": 420,
+      "proteinG": 13.5,
+      "fatG": 6,
+      "carbsG": 75,
+      "fiberG": 4.5,
+      "assumptions": "2 typical burger buns (brioche or similar); ~75g each including both top and bottom halves.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 320,
+        "proteinG": 20,
+        "fatG": 25,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 800,
+      "proteinG": 50,
+      "fatG": 62.5,
+      "carbsG": 5,
+      "fiberG": 0,
+      "assumptions": "250g halloumi cheese as listed; standard block size and typical Cypriot-style nutrition values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1.3,
+        "fatG": 0.2,
+        "carbsG": 5.8,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 62.5,
+      "proteinG": 3.25,
+      "fatG": 0.5,
+      "carbsG": 14.5,
+      "fiberG": 6.25,
+      "assumptions": "Quarter of a medium white cabbage (~250g edible portion after removing core); typical for coleslaw-style prep.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 680,
+        "proteinG": 1,
+        "fatG": 75,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 204,
+      "proteinG": 0.3,
+      "fatG": 22.5,
+      "carbsG": 0.3,
+      "fiberG": 0,
+      "assumptions": "2 tbsp mayonnaise; ~15g per tbsp using standard full-fat mayo nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 200,
+        "proteinG": 2.5,
+        "fatG": 20,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 120,
+      "proteinG": 1.5,
+      "fatG": 12,
+      "carbsG": 1.8,
+      "fiberG": 0,
+      "assumptions": "4 tbsp sour cream; ~15g per tbsp using typical full-fat sour cream values (listed separately from mayo in ingredients).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 1.4,
+        "fatG": 0.2,
+        "carbsG": 2.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.56,
+      "fatG": 0.08,
+      "carbsG": 1.16,
+      "fiberG": 0.48,
+      "assumptions": "4 leaves of lettuce/rocket (assumed as the 'Lettuce' listed, matching 'rocket' in instructions); ~10g per average large leaf, fresh edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 160,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1,
+        "fatG": 0.3,
+        "carbsG": 6,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 49.6,
+      "proteinG": 1.6,
+      "fatG": 0.48,
+      "carbsG": 9.6,
+      "fiberG": 3.36,
+      "assumptions": "2 medium red peppers (~80g each after deseeding); typical fresh sweet pepper nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53085",
+    "name": "15-minute chicken & halloumi burgers",
+    "cuisine": "American",
+    "instructions": "STEP 1\r\n\r\nPut the chicken breasts between two pieces of baking parchment and use a rolling pin to gently bash them until they are approximately 1cm thick. Cut each chicken breast into two even pieces.\r\n\r\nSTEP 2\r\n\r\nIf you're using a frying pan, heat two frying pans over medium-high heat, with one of them containing oil. Fry the chicken in the oiled pan for 3-4 mins on each side until they are cooked through. Season the chicken, reduce the heat, drizzle in the chilli sauce and half of the lemon juice, and cook for an additional 1-2 mins until the sauce is reduced. Remove the chicken from the heat.\r\n\r\nSTEP 3\r\n\r\nIf you're using an air-fryer, preheat it to 180C for 4 mins. Add the chicken to the air-fryer and cook for 12 mins. Drizzle over the chilli sauce and half the lemon juice and cook for an additional 1-2 mins until the chicken is cooked through and the sauce is reduced. Remove the chicken and keep it warm.\r\nSTEP 4\r\n\r\nWhile the chicken is cooking, toast the buns in the dry frying pan for 30 seconds. Transfer them to a plate. If you're using an air fryer, put the buns in the air fryer for 1-2 mins until they are warm. Increase the air fryer temperature to 200C. Add the halloumi to the air fryer basket and cook for 10 mins, turning halfway through, until it's golden. Toss the cabbage with the mayo and the remaining lemon juice.\r\n\r\nSTEP 5\r\n\r\nSpoon the hummus (or dip of your choice) into the toasted buns, then top with the rocket, chilli chicken, halloumi, and peppers. Drizzle with a little more chilli sauce, spoon over the cabbage, season with black pepper, and top with the bun lids. Serve with any extra cabbage on the side or a green salad.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken Breasts", "measurement": "2" },
+      { "position": 2, "name": "Oil", "measurement": "1 tbsp" },
+      { "position": 3, "name": "Hotsauce", "measurement": "4 tbsp" },
+      { "position": 4, "name": "Lemon Juice", "measurement": "½" },
+      { "position": 5, "name": "Buns", "measurement": "2" },
+      { "position": 6, "name": "Cheese", "measurement": "250g" },
+      { "position": 7, "name": "Cabbage", "measurement": "¼" },
+      { "position": 8, "name": "Mayonnaise", "measurement": "2 tbsp" },
+      { "position": 9, "name": "Sour Cream", "measurement": "4 tbsp" },
+      { "position": 10, "name": "Lettuce", "measurement": "4 leaves" },
+      { "position": 11, "name": "Red Pepper", "measurement": "2" }
+    ]
+  }
+}

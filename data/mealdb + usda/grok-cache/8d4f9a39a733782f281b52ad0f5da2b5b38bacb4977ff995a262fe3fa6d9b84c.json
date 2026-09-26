@@ -1,0 +1,51 @@
+{
+  "inputHash": "8d4f9a39a733782f281b52ad0f5da2b5b38bacb4977ff995a262fe3fa6d9b84c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:39.220Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 15,
+      "caloriesPer100g": 22,
+      "assumptions": "Modest 'to taste' amount for lemon juice in 1150g total syrup; ~1-2 tbsp realistic for a large batch syrup."
+    },
+    {
+      "position": 6,
+      "grams": 13,
+      "caloriesPer100g": 247,
+      "assumptions": "Standard weight for 2 tbsp ground cinnamon is ~13g (6.5g per tbsp)."
+    },
+    {
+      "position": 7,
+      "grams": 6,
+      "caloriesPer100g": 311,
+      "assumptions": "Standard weight for 1 tbsp ground cardamom is ~6g."
+    },
+    {
+      "position": 9,
+      "grams": 6,
+      "caloriesPer100g": 29,
+      "assumptions": "Zest from 1 average lemon weighs ~6g."
+    },
+    {
+      "position": 10,
+      "grams": 8,
+      "caloriesPer100g": 47,
+      "assumptions": "Zest from 1 average orange weighs ~8-10g; using 8g here."
+    },
+    {
+      "position": 11,
+      "grams": 13,
+      "caloriesPer100g": 288,
+      "assumptions": "Standard weight for 1 tbsp vanilla bean paste ~13g; calories estimated from similar vanilla extracts/pastes (~288 kcal/100g)."
+    },
+    {
+      "position": 13,
+      "grams": 500,
+      "caloriesPer100g": 299,
+      "assumptions": "Supplied measurement is 500g total filo; using standard filo pastry calorie density of ~299 kcal/100g (raw, as used in recipe)."
+    }
+  ]
+}

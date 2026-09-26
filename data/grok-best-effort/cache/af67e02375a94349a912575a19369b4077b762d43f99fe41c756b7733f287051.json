@@ -1,0 +1,307 @@
+{
+  "inputHash": "af67e02375a94349a912575a19369b4077b762d43f99fe41c756b7733f287051",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:13.311Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 660,
+      "proteinG": 124,
+      "fatG": 14.4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 large boneless skinless chicken breasts ≈400g total; raw weight used as ground in processor before frying",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 7.45,
+      "proteinG": 0.32,
+      "fatG": 0.025,
+      "carbsG": 1.655,
+      "fiberG": 0.105,
+      "assumptions": "1 typical garlic clove, peeled",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.8,
+        "fatG": 0.8,
+        "carbsG": 17.8,
+        "fiberG": 2
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.18,
+      "fatG": 0.08,
+      "carbsG": 1.78,
+      "fiberG": 0.2,
+      "assumptions": "1 small knob of fresh ginger, peeled",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion, chopped, ≈110g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 3.45,
+      "proteinG": 0.33,
+      "fatG": 0.075,
+      "carbsG": 0.555,
+      "fiberG": 0.42,
+      "assumptions": "4 tablespoons fresh coriander leaves, ≈15g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.4,
+        "carbsG": 9.5,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.4,
+      "fatG": 0.08,
+      "carbsG": 1.9,
+      "fiberG": 0.3,
+      "assumptions": "1 medium green chilli, chopped, ≈20g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons olive oil for frying (≈14g per tbsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 200,
+        "proteinG": 1,
+        "fatG": 0.5,
+        "carbsG": 50,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 120,
+      "proteinG": 0.6,
+      "fatG": 0.3,
+      "carbsG": 30,
+      "fiberG": 0.3,
+      "assumptions": "Sweet chilli sauce to serve; assumed 2 tbsp (30ml) per cake for 6 cakes, total 60g as typical serving amount for the dish",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 30,
+      "proteinG": 0.7,
+      "fatG": 0.2,
+      "carbsG": 10.5,
+      "fiberG": 2.8,
+      "assumptions": "Lime to serve; assumed 1 whole lime cut into wedges (≈100g with peel, edible portion considered)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.9,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.4
+      },
+      "caloriesKcal": 9.6,
+      "proteinG": 0.57,
+      "fatG": 0.06,
+      "carbsG": 2.19,
+      "fiberG": 0.72,
+      "assumptions": "Chopped spring onions to serve; assumed 3-4 stalks, ≈30g total garnish amount",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.4,
+        "carbsG": 9.5,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.3,
+      "fatG": 0.06,
+      "carbsG": 1.425,
+      "fiberG": 0.225,
+      "assumptions": "Chopped red chilli to serve; assumed 1 small red chilli, ≈15g total garnish amount",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53206",
+    "name": "Thai chicken cakes with sweet chilli sauce",
+    "cuisine": "Thai",
+    "instructions": "step 1\r\nToss the chicken, garlic, ginger, onion, coriander and chilli into a food processor and season well. Blitz until the chicken is finely ground and everything is well mixed. Use your hands to shape six small cakes.\r\n\r\nstep 2\r\nHeat the oil in a frying pan, then fry the cakes over a medium heat for about 6-8 mins, turning once. Serve hot, with sweet chilli sauce, lime wedges, coriander, shredded spring onion and red chilli.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken Breast", "measurement": "2 large" },
+      { "position": 2, "name": "Garlic", "measurement": "1 clove" },
+      { "position": 3, "name": "Ginger", "measurement": "1 small" },
+      { "position": 4, "name": "Onion", "measurement": "1 chopped" },
+      { "position": 5, "name": "Coriander", "measurement": "4 tbs" },
+      { "position": 6, "name": "Green Chilli", "measurement": "1 chopped" },
+      { "position": 7, "name": "Olive Oil", "measurement": "2 tblsp" },
+      {
+        "position": 8,
+        "name": "sweet chilli sauce",
+        "measurement": "To serve"
+      },
+      { "position": 9, "name": "Lime", "measurement": "To serve" },
+      { "position": 10, "name": "Spring Onions", "measurement": "Chopped" },
+      { "position": 11, "name": "Red Chilli", "measurement": "Chopped" }
+    ]
+  }
+}

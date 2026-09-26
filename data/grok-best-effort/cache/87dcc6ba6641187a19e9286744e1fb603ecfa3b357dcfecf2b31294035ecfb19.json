@@ -1,0 +1,397 @@
+{
+  "inputHash": "87dcc6ba6641187a19e9286744e1fb603ecfa3b357dcfecf2b31294035ecfb19",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:23:34.535Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1320,
+      "proteinG": 248,
+      "fatG": 28.8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4-6 chicken breasts averaged to 5 medium boneless skinless breasts at ~160g each; raw weight used as entire line input before cooking and shredding",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 350,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 0.5,
+        "fatG": 26,
+        "carbsG": 6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 875,
+      "proteinG": 1.75,
+      "fatG": 91,
+      "carbsG": 21,
+      "fiberG": 0,
+      "assumptions": "Full bottle of typical creamy vinaigrette salad dressing (e.g. ranch-style) assumed at standard 12 oz / 355 ml bottle with ~350 g edible contents; recipe uses entire bottle over chicken",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 17,
+        "carbsG": 44,
+        "fiberG": 11
+      },
+      "caloriesKcal": 30,
+      "proteinG": 1.44,
+      "fatG": 1.36,
+      "carbsG": 3.52,
+      "fiberG": 0.88,
+      "assumptions": "1.5 tablespoons ground cumin; standard density ~5.3 g per tbsp",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 14,
+        "fatG": 12,
+        "carbsG": 54,
+        "fiberG": 37
+      },
+      "caloriesKcal": 15,
+      "proteinG": 0.84,
+      "fatG": 0.72,
+      "carbsG": 3.24,
+      "fiberG": 2.22,
+      "assumptions": "1 tablespoon smoked paprika; standard density ~6 g per tbsp",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.99,
+      "fiberG": 0.063,
+      "assumptions": "1 teaspoon minced or granulated garlic; ~3 g per tsp",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 90,
+        "proteinG": 5,
+        "fatG": 2,
+        "carbsG": 15,
+        "fiberG": 5
+      },
+      "caloriesKcal": 225,
+      "proteinG": 12.5,
+      "fatG": 5,
+      "carbsG": 37.5,
+      "fiberG": 12.5,
+      "assumptions": "1 standard 16 oz / 454 g can refried beans, using full drained edible contents ~250 g after typical liquid",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 180,
+      "per100g": {
+        "caloriesKcal": 480,
+        "proteinG": 8,
+        "fatG": 22,
+        "carbsG": 64,
+        "fiberG": 4
+      },
+      "caloriesKcal": 864,
+      "proteinG": 14.4,
+      "fatG": 39.6,
+      "carbsG": 115.2,
+      "fiberG": 7.2,
+      "assumptions": "12 standard hard corn taco shells at ~15 g each; entire package used as recipe calls for 12+",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 400,
+        "proteinG": 24,
+        "fatG": 32,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 880,
+      "proteinG": 52.8,
+      "fatG": 70.4,
+      "carbsG": 8.8,
+      "fiberG": 0,
+      "assumptions": "2 cups pre-shredded Mexican cheese blend; standard 8 oz / 226 g bag approximated to 220 g usable",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 27,
+      "proteinG": 1.35,
+      "fatG": 0.3,
+      "carbsG": 5.85,
+      "fiberG": 1.8,
+      "assumptions": "Grape tomatoes halved for topping ~12-15 tomatoes or 1.5 cups; plausible recipe amount ~150 g edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.2,
+        "fatG": 0.4,
+        "carbsG": 6.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 8.7,
+      "proteinG": 0.36,
+      "fatG": 0.12,
+      "carbsG": 1.98,
+      "fiberG": 0.84,
+      "assumptions": "1-2 seeded sliced jalapenos for topping; estimated total edible 30 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 160,
+        "proteinG": 2,
+        "fatG": 15,
+        "carbsG": 9,
+        "fiberG": 7
+      },
+      "caloriesKcal": 240,
+      "proteinG": 3,
+      "fatG": 22.5,
+      "carbsG": 13.5,
+      "fiberG": 10.5,
+      "assumptions": "1 large avocado peeled and sliced for guacamole base; typical edible flesh ~150 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 45,
+        "proteinG": 1.5,
+        "fatG": 0.5,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 13.5,
+      "proteinG": 0.45,
+      "fatG": 0.15,
+      "carbsG": 2.7,
+      "fiberG": 0.45,
+      "assumptions": "2 tablespoons green salsa / salsa verde; standard density ~15 g per tbsp",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 193,
+        "proteinG": 2.1,
+        "fatG": 18.7,
+        "carbsG": 4.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 86.85,
+      "proteinG": 0.945,
+      "fatG": 8.415,
+      "carbsG": 2.07,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons full-fat sour cream; standard density ~15 g per tbsp",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 6.3,
+      "proteinG": 0.51,
+      "fatG": 0.15,
+      "carbsG": 0.75,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon milk (2% assumed); standard density ~15 g per tbsp",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52830",
+    "name": "Crock Pot Chicken Baked Tacos",
+    "cuisine": "Mexican",
+    "instructions": "Put the uncooked chicken breasts in the crock pot. Pour the full bottle of salad dressing over the chicken. Sprinkle the rest of the ingredients over the top and mix them in a bit with a spoon.\r\nCover your crock pot with the lid and cook on high for 4 hours.\r\nRemove all the chicken breasts from the crock pot and let cool.\r\nShred the chicken breasts and move to a glass bowl.\r\nPour most of the liquid over the shredded chicken.\r\nFOR THE TACOS:\r\nMake the guacamole sauce by mixing the avocado and green salsa together. Pour the guacamole mixture through a strainer until smooth and transfer to a squeeze bottle. Cut the tip off the lid of the squeeze bottle to make the opening more wide if needed.\r\nMake the sour cream sauce by mixing the sour cream and milk together until you get a more liquid sour cream sauce. Transfer to a squeeze bottle.\r\nIn a 9x 13 glass baking dish, fill all 12+ tacos with a layer of refried beans, cooked chicken and shredded cheese.\r\nBake at 450 for 10-15 minutes just until the cheese is melted and bubbling.\r\nOut of the oven top all the tacos with the sliced grape tomaotes, jalapeno and cilantro.\r\nFinish with a drizzle of guacamole and sour cream.\r\nEnjoy!",
+    "ingredients": [
+      { "position": 1, "name": "Chicken Breasts", "measurement": "4 - 6" },
+      {
+        "position": 2,
+        "name": "Vinaigrette Dressing",
+        "measurement": "1 bottle"
+      },
+      { "position": 3, "name": "Cumin", "measurement": "1½ tablespoon" },
+      {
+        "position": 4,
+        "name": "Smoked Paprika",
+        "measurement": "1 tablespoon"
+      },
+      { "position": 5, "name": "Garlic", "measurement": "1 teaspoon" },
+      { "position": 6, "name": "Refried Beans", "measurement": "1 can" },
+      { "position": 7, "name": "Hard Taco Shells", "measurement": "12" },
+      {
+        "position": 8,
+        "name": "Shredded Mexican Cheese",
+        "measurement": "2 cups"
+      },
+      { "position": 9, "name": "Grape Tomatoes", "measurement": "Halved" },
+      {
+        "position": 10,
+        "name": "Jalapeno",
+        "measurement": "Sliced and Seeded"
+      },
+      { "position": 11, "name": "Avocado", "measurement": "Peeled and Sliced" },
+      { "position": 12, "name": "Green Salsa", "measurement": "2 tablespoons" },
+      { "position": 13, "name": "Sour Cream", "measurement": "3 tablespoons" },
+      { "position": 14, "name": "Milk", "measurement": "1 tablespoon" }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "inputHash": "63ba7ea2829770ac647a465aeab13730c41fb94cade6fcb0608c35c2dd48b1b4",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:51.204Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 5,
+      "grams": 200,
+      "caloriesPer100g": null,
+      "assumptions": "Standard 200g pot of creme fraiche (full fat assumed for typical recipe use; recipe mentions controlling calories with low fat but defaults to full fat for taste)."
+    },
+    {
+      "position": 6,
+      "grams": 30,
+      "caloriesPer100g": 403,
+      "assumptions": "Modest topping amount of grated Parmesan for 4 servings (about 7-8g per person); realistic for 'grate over the top' without excess."
+    },
+    {
+      "position": 7,
+      "grams": 600,
+      "caloriesPer100g": 106,
+      "assumptions": "Standard 150g per chicken breast (skinless, raw/edible portion); common size for 4 breasts in a meal serving 4."
+    },
+    {
+      "position": 8,
+      "grams": 100,
+      "caloriesPer100g": 393,
+      "assumptions": "Standard 25g per bacon rasher/streaky slice (raw weight); modest amount for 4 rashers to accompany the chicken."
+    },
+    {
+      "position": 9,
+      "grams": 200,
+      "caloriesPer100g": 27.6,
+      "assumptions": "Modest 'topping' or side amount of fresh spinach for 4 servings (about 50g per person); realistic edible portion for greens with the meal."
+    },
+    {
+      "position": 10,
+      "grams": 200,
+      "caloriesPer100g": 81,
+      "assumptions": "Modest 'topping' or side amount of peas for 4 servings (about 50g per person, drained if from frozen); typical edible portion to accompany the gratin and chicken."
+    }
+  ]
+}

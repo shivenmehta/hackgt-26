@@ -1,0 +1,65 @@
+{
+  "inputHash": "e6c5ae75735c1f30e55b743c63710e530eb55accd7763de6d38e49e153c6ff1c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:18:20.574Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 121,
+      "proteinG": 4.8,
+      "fatG": 1,
+      "assumptions": "1 medium aubergine ~350g edible portion, raw weight; ~35kcal/100g, 1.4g protein/100g, 0.3g fat/100g"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 360,
+      "proteinG": 0,
+      "fatG": 41,
+      "assumptions": "3 tbsp olive oil = 45ml total; all oil used in recipe (brushing + remaining in tomato mix); 8kcal/ml, 9g fat per tbsp"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 526,
+      "proteinG": 17.6,
+      "fatG": 2.8,
+      "assumptions": "140g dry couscous; standard dry values ~375kcal/100g, 12.6g protein/100g, 2g fat/100g"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 10,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "225g vegetable stock (prepared from concentrate or cube); low-calorie ~4-5kcal/100g, ~0.4g protein/100g"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 54,
+      "proteinG": 1.4,
+      "fatG": 0.6,
+      "assumptions": "200g cherry tomatoes, raw; ~27kcal/100g, 0.7g protein/100g, 0.3g fat/100g"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 7,
+      "proteinG": 0.4,
+      "fatG": 0.2,
+      "assumptions": "handful fresh mint ~10-15g; ~40-50kcal/100g, modest protein/fat contribution"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 364,
+      "proteinG": 21,
+      "fatG": 30,
+      "assumptions": "100g goat cheese (soft or semi-soft); ~364kcal/100g, 21g protein/100g, 30g fat/100g"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 8,
+      "proteinG": 0.1,
+      "fatG": 0,
+      "assumptions": "juice of 1/2 lemon ~25-30g; ~25kcal/100g, negligible protein and fat"
+    }
+  ]
+}

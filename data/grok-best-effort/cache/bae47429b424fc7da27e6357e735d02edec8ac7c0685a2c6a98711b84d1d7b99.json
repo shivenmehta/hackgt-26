@@ -1,0 +1,329 @@
+{
+  "inputHash": "bae47429b424fc7da27e6357e735d02edec8ac7c0685a2c6a98711b84d1d7b99",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:02.878Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 480,
+        "proteinG": 6,
+        "fatG": 20,
+        "carbsG": 70,
+        "fiberG": 3
+      },
+      "caloriesKcal": 1200,
+      "proteinG": 15,
+      "fatG": 50,
+      "carbsG": 175,
+      "fiberG": 7.5,
+      "assumptions": "Standard digestive biscuits; values reflect typical UK digestive biscuit nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 9,
+        "fatG": 4,
+        "carbsG": 75,
+        "fiberG": 3
+      },
+      "caloriesKcal": 285,
+      "proteinG": 6.75,
+      "fatG": 3,
+      "carbsG": 56.25,
+      "fiberG": 2.25,
+      "assumptions": "Standard salted pretzels; typical values for hard pretzels.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 135,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.5,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 967.95,
+      "proteinG": 0.675,
+      "fatG": 109.35,
+      "carbsG": 0.135,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; standard butter nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 6,
+        "fatG": 24,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1125,
+      "proteinG": 27,
+      "fatG": 108,
+      "carbsG": 18,
+      "fiberG": 0,
+      "assumptions": "Full-fat cream cheese (e.g. Philadelphia style); typical values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 12,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "1 tsp vanilla extract ≈ 5 g; alcohol-based extract nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 97,
+        "fiberG": 0
+      },
+      "caloriesKcal": 387,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 97,
+      "fiberG": 0,
+      "assumptions": "Standard powdered icing sugar; almost pure sucrose.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 1,
+        "fatG": 8,
+        "carbsG": 60,
+        "fiberG": 0
+      },
+      "caloriesKcal": 525,
+      "proteinG": 1.5,
+      "fatG": 12,
+      "carbsG": 90,
+      "fiberG": 0,
+      "assumptions": "Typical thick caramel sauce or dulce de leche style; assumed similar to the 'Caramel Sauce' later in recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp sea salt flakes ≈ 5 g; pure salt contributes zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2,
+        "fatG": 36,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1020,
+      "proteinG": 6,
+      "fatG": 108,
+      "carbsG": 9,
+      "fiberG": 0,
+      "assumptions": "Heavy/double cream; standard UK double cream values (≈48% fat).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 1,
+        "fatG": 8,
+        "carbsG": 60,
+        "fiberG": 0
+      },
+      "caloriesKcal": 105,
+      "proteinG": 0.3,
+      "fatG": 2.4,
+      "carbsG": 18,
+      "fiberG": 0,
+      "assumptions": "'Drizzle' of caramel sauce assumed as 30 g plausible topping amount; same nutritional profile as the 150 g caramel above.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 480,
+        "proteinG": 6,
+        "fatG": 18,
+        "carbsG": 65,
+        "fiberG": 2
+      },
+      "caloriesKcal": 240,
+      "proteinG": 3,
+      "fatG": 9,
+      "carbsG": 32.5,
+      "fiberG": 1,
+      "assumptions": "'Toffee popcorn' topping assumed as 50 g plausible decorative amount; typical toffee-coated popcorn values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 9,
+        "fatG": 4,
+        "carbsG": 75,
+        "fiberG": 3
+      },
+      "caloriesKcal": 114,
+      "proteinG": 2.7,
+      "fatG": 1.2,
+      "carbsG": 22.5,
+      "fiberG": 0.9,
+      "assumptions": "'Pretzels' topping assumed as 30 g plausible decorative amount; same values as the 75 g pretzels above.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52833",
+    "name": "Salted Caramel Cheescake",
+    "cuisine": "American",
+    "instructions": "1) Blitz the biscuits and the pretzels in a food processor and mix the biscuits with the melted butter. Spread on the bottom of an 8″/20cm Deep Springform Tin and press down firmly. Leave to set in the fridge whilst you make the rest!\r\n\r\n2) Using an electric mixer, I use my KitchenAid with the whisk attachment, whisk together the cream cheese, vanilla, and icing sugar until smooth and then add the caramel and whisk again until smooth and lump free – this could take a couple of minutes, I whisk it at half speed so not too quick or slow!\r\n\r\n3) Pour in the double cream & Salt flakes and continue to whisk for a couple of minutes until its very thick and mousse like (I mix it on a medium speed, level 6/10) – Now this could take up to 5 minutes depending on your mixer, but you seriously have to stick at it – it will hold itself completely when finished mixing (like a meringue does!) If you don’t mix it enough it will not set well enough, but don’t get impatient and whisk it really quick because that’ll make it split! Spread over the biscuit base and leave to set in the fridge overnight.\r\n\r\n4) Remove the Cheesecake from the tin carefully and decorate the cheesecake – I drizzled over some of the spare caramel, and then some Toffee Popcorn and more Pretzels!",
+    "ingredients": [
+      { "position": 1, "name": "Digestive Biscuits", "measurement": "250g" },
+      { "position": 2, "name": "Pretzels", "measurement": "75g" },
+      { "position": 3, "name": "Butter", "measurement": "135g" },
+      { "position": 4, "name": "Cream Cheese", "measurement": "450g" },
+      { "position": 5, "name": "Vanilla Extract", "measurement": "1tsp" },
+      { "position": 6, "name": "Icing Sugar", "measurement": "100g" },
+      { "position": 7, "name": "Caramel", "measurement": "150g" },
+      { "position": 8, "name": "Sea Salt", "measurement": "1tsp" },
+      { "position": 9, "name": "Double Cream", "measurement": "300ml" },
+      { "position": 10, "name": "Caramel Sauce", "measurement": "drizzle" },
+      { "position": 11, "name": "Toffee Popcorn", "measurement": "Top" },
+      { "position": 12, "name": "Pretzels", "measurement": "Top" }
+    ]
+  }
+}

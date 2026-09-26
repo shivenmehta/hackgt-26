@@ -1,0 +1,27 @@
+{
+  "inputHash": "dda80d08e25b2b0ba56589c151a6bfa88dac560db8079a9df6d44f6b536e39f2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:13.771Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 15,
+      "caloriesPer100g": 0,
+      "assumptions": "Dash of water for starch sauce estimated at 15g (1 tbsp); realistic modest amount for mixing 10g starch without excess liquid in the recipe context."
+    },
+    {
+      "position": 7,
+      "grams": 10,
+      "caloriesPer100g": 365,
+      "assumptions": "Starch (cornstarch) at supplied 10g measurement; standard calorie density for dry cornstarch used in Chinese cooking sauces."
+    },
+    {
+      "position": 10,
+      "grams": 5,
+      "caloriesPer100g": 23,
+      "assumptions": "Dash of coriander (cilantro) for garnish estimated at 5g (a few sprigs); matches supplied calorie density for fresh herb."
+    }
+  ]
+}

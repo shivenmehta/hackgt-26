@@ -1,0 +1,57 @@
+{
+  "inputHash": "bfc151f80e10ef72b3c872faa9787b2d0fe190d2ac403f3f39c719e18487413b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:44.503Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 136,
+      "fiberG": 5,
+      "assumptions": "1.5 US cups all-purpose flour = 180 g; standard values ~76 g carbs and ~3 g fiber per 100 g"
+    },
+    {
+      "position": 2,
+      "carbsG": 63,
+      "fiberG": 4,
+      "assumptions": "0.5 US cup yellow cornmeal = 80 g; standard values ~79 g carbs and ~5 g fiber per 100 g"
+    },
+    {
+      "position": 3,
+      "carbsG": 75,
+      "fiberG": 0,
+      "assumptions": "6 US tablespoons granulated sugar = 75 g; 100% carbohydrate"
+    },
+    {
+      "position": 4,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "2 tsp baking powder ≈ 8 g; typical ~25 g carbs per 100 g"
+    },
+    {
+      "position": 5,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tsp vanilla extract ≈ 4 g; typical ~13 g carbs per 100 g"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp table salt ≈ 3 g; zero carbohydrates"
+    },
+    {
+      "position": 7,
+      "carbsG": 9,
+      "fiberG": 0,
+      "assumptions": "3/4 US cup whole milk = 183 g; standard values ~5 g carbs per 100 g"
+    },
+    {
+      "position": 8,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Oil for frying: quantity absorbed not stated and cannot be reliably estimated without specific absorption data; entire frying oil volume not consumed by recipe; value cannot be estimated from given data"
+    }
+  ]
+}

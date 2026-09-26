@@ -1,0 +1,459 @@
+{
+  "inputHash": "047ad726c72c7911cb6b593e73bda3c7982cf926b52d3d22457cefd1e140859c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:30:44.021Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1500,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 20,
+        "fatG": 8.5,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2475,
+      "proteinG": 300,
+      "fatG": 127.5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw whole chicken with skin and bone; typical values for a 1.5 kg bird including skin as the recipe roasts it whole.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.8,
+        "fatG": 0.4,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 48,
+      "proteinG": 2.16,
+      "fatG": 0.48,
+      "carbsG": 10.8,
+      "fiberG": 1.8,
+      "assumptions": "3 medium red chillies (about 40 g each) chopped; raw edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 average garlic cloves (3 g each), raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.8,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 1.6,
+      "proteinG": 0.036000000000000004,
+      "fatG": 0.013999999999999999,
+      "carbsG": 0.36,
+      "fiberG": 0.04,
+      "assumptions": "1 tsp grated fresh ginger root, raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 11,
+        "fatG": 7.5,
+        "carbsG": 69,
+        "fiberG": 42.5
+      },
+      "caloriesKcal": 2.65,
+      "proteinG": 0.11,
+      "fatG": 0.075,
+      "carbsG": 0.69,
+      "fiberG": 0.425,
+      "assumptions": "1 tsp dried oregano leaves.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 279,
+        "proteinG": 21.8,
+        "fatG": 17.4,
+        "carbsG": 49.9,
+        "fiberG": 29.1
+      },
+      "caloriesKcal": 2.79,
+      "proteinG": 0.218,
+      "fatG": 0.174,
+      "carbsG": 0.499,
+      "fiberG": 0.29100000000000004,
+      "assumptions": "1 tsp ground coriander seed (spice).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14.1,
+        "fatG": 12.9,
+        "carbsG": 53.9,
+        "fiberG": 34.9
+      },
+      "caloriesKcal": 5.64,
+      "proteinG": 0.282,
+      "fatG": 0.258,
+      "carbsG": 1.078,
+      "fiberG": 0.698,
+      "assumptions": "1 tsp smoked or sweet paprika powder.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 19,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 5.7,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.12,
+      "fiberG": 0,
+      "assumptions": "2 tbs red wine vinegar (15 ml per tbs).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs neutral oil for the marinade (14 g per tbs); olive or vegetable oil.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium red onion (110 g), raw and sliced; entire edible portion used in slaw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 122,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 50.02,
+      "proteinG": 1.0979999999999999,
+      "fatG": 0.24400000000000002,
+      "carbsG": 11.712,
+      "fiberG": 3.4159999999999995,
+      "assumptions": "2 medium carrots (61 g each), raw; peeled and grated for slaw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 82,
+      "per100g": {
+        "caloriesKcal": 43,
+        "proteinG": 1.6,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 35.26,
+      "proteinG": 1.3120000000000003,
+      "fatG": 0.16400000000000003,
+      "carbsG": 7.871999999999999,
+      "fiberG": 2.296,
+      "assumptions": "1 medium beetroot (82 g), raw; peeled and grated for slaw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1.3,
+        "fatG": 0.1,
+        "carbsG": 5.8,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 30,
+      "proteinG": 1.56,
+      "fatG": 0.12,
+      "carbsG": 6.96,
+      "fiberG": 3,
+      "assumptions": "4 large outer leaves of white cabbage (30 g each), raw and shredded for slaw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 680,
+        "proteinG": 0.9,
+        "fatG": 75,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 204,
+      "proteinG": 0.27,
+      "fatG": 22.5,
+      "carbsG": 0.3,
+      "fiberG": 0,
+      "assumptions": "2 tbs mayonnaise (15 g per tbs); full-fat standard variety.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 9,
+        "fatG": 5,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 29.1,
+      "proteinG": 2.7,
+      "fatG": 1.5,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "2 tbs plain Greek yogurt (15 g per tbs); full-fat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 19,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 5.7,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.12,
+      "fiberG": 0,
+      "assumptions": "2 tbs red wine vinegar for the slaw dressing (15 ml per tbs).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 22,
+        "carbsG": 44,
+        "fiberG": 11
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.36,
+      "fatG": 0.44,
+      "carbsG": 0.88,
+      "fiberG": 0.22,
+      "assumptions": "1 tsp whole cumin seeds.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53039",
+    "name": "Piri-piri chicken and slaw",
+    "cuisine": "Portuguese",
+    "instructions": "STEP 1\r\n\r\nWhizz together all of the marinade ingredients in a small food processor. Rub the marinade onto the chicken and leave for 1 hour at room temperature.\r\n\r\nSTEP 2\r\n\r\nHeat the oven to 190C/fan 170C/gas 5. Put the chicken in a roasting tray and cook for 1 hour 20 minutes. Rest under loose foil for 20 minutes. While the chicken is resting, mix together the slaw ingredients and season. Serve the chicken with slaw, fries and condiments.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken", "measurement": "1.5kg" },
+      { "position": 2, "name": "Red Chilli", "measurement": "3 chopped" },
+      { "position": 3, "name": "Garlic", "measurement": "2 cloves" },
+      { "position": 4, "name": "Ginger", "measurement": "1 tsp" },
+      { "position": 5, "name": "Dried Oregano", "measurement": "1 tsp" },
+      { "position": 6, "name": "Coriander", "measurement": "1 tsp" },
+      { "position": 7, "name": "Paprika", "measurement": "1 tsp" },
+      { "position": 8, "name": "Red Wine Vinegar", "measurement": "2 tbs" },
+      { "position": 9, "name": "Oil", "measurement": "2 tbs" },
+      { "position": 10, "name": "Red Onions", "measurement": "1 sliced" },
+      { "position": 11, "name": "Carrots", "measurement": "2" },
+      { "position": 12, "name": "Beetroot", "measurement": "1" },
+      { "position": 13, "name": "Cabbage", "measurement": "4 leaves" },
+      { "position": 14, "name": "Mayonnaise", "measurement": "2 tbs" },
+      { "position": 15, "name": "Greek Yogurt", "measurement": "2 tbs" },
+      { "position": 16, "name": "Red Wine Vinegar", "measurement": "2 tbs" },
+      { "position": 17, "name": "Cumin Seeds", "measurement": "1 tsp" }
+    ]
+  }
+}

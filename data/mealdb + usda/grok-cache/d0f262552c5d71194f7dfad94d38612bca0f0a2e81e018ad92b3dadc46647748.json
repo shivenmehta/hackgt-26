@@ -1,0 +1,63 @@
+{
+  "inputHash": "d0f262552c5d71194f7dfad94d38612bca0f0a2e81e018ad92b3dadc46647748",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:20.920Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 450,
+      "caloriesPer100g": 22,
+      "assumptions": "Large tomato ~150g each; using known cal density for raw tomato."
+    },
+    {
+      "position": 2,
+      "grams": 120,
+      "caloriesPer100g": 31,
+      "assumptions": "Medium Romano pepper typical edible weight ~120g; cal density similar to red bell pepper."
+    },
+    {
+      "position": 3,
+      "grams": 20,
+      "caloriesPer100g": 40,
+      "assumptions": "Medium green chilli ~20g; using supplied known cal density."
+    },
+    {
+      "position": 4,
+      "grams": 70,
+      "caloriesPer100g": 38,
+      "assumptions": "Small onion ~70g; using supplied known cal density for raw onion."
+    },
+    {
+      "position": 7,
+      "grams": 30,
+      "caloriesPer100g": 50,
+      "assumptions": "2 tbsp Turkish red pepper paste (biber salcasi) ~15g per tbsp; typical density ~50 kcal/100g for concentrated paste."
+    },
+    {
+      "position": 9,
+      "grams": 40,
+      "caloriesPer100g": 240,
+      "assumptions": "2 tbsp pomegranate molasses ~20g per tbsp; typical density ~240 kcal/100g for this concentrated syrup."
+    },
+    {
+      "position": 10,
+      "grams": 6,
+      "caloriesPer100g": null,
+      "assumptions": "1 tbsp pul biber (Turkish chili flakes) ~6g; modest weight for dry spice, no reliable cal estimate available without specific data."
+    },
+    {
+      "position": 11,
+      "grams": 4,
+      "caloriesPer100g": null,
+      "assumptions": "2 tsp sumac ~4g; modest weight for dry spice, no reliable cal estimate available without specific data."
+    },
+    {
+      "position": 12,
+      "grams": 6,
+      "caloriesPer100g": null,
+      "assumptions": "1 tbsp dried mint ~3-6g; modest weight for dry herb, no reliable cal estimate available without specific data."
+    }
+  ]
+}

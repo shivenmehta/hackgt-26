@@ -1,0 +1,69 @@
+{
+  "inputHash": "2a641d77038e57b7872cb3a99c3a01c91499a10917512b51cdddc7e063ad2e6e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:28.666Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 130.2,
+      "fiberG": 4.7,
+      "assumptions": "175g plain white flour (standard ~74.4g carbs/100g, 2.7g fiber/100g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "75g chilled butter (standard values: negligible carbs and fiber)"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2-3 tbsp cold water (standard values: no carbohydrates or fiber)"
+    },
+    {
+      "position": 4,
+      "carbsG": 13,
+      "fiberG": 0.3,
+      "assumptions": "1 tbsp (~20g) raspberry jam (standard ~65g carbs/100g, 1.5g fiber/100g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "125g butter (standard values: negligible carbs and fiber)"
+    },
+    {
+      "position": 6,
+      "carbsG": 125,
+      "fiberG": 0,
+      "assumptions": "125g caster sugar (standard ~100g carbs/100g, 0 fiber)"
+    },
+    {
+      "position": 7,
+      "carbsG": 9.4,
+      "fiberG": 6.3,
+      "assumptions": "125g ground almonds (standard ~7.5g carbs/100g, 5g fiber/100g; net carbs lower due to high fat/protein)"
+    },
+    {
+      "position": 8,
+      "carbsG": 0.4,
+      "fiberG": 0,
+      "assumptions": "1 large free-range egg (~50g edible portion, standard ~0.7g carbs/100g, negligible fiber)"
+    },
+    {
+      "position": 9,
+      "carbsG": 0.2,
+      "fiberG": 0,
+      "assumptions": "½ tsp (~2g) almond extract (standard ~10g carbs/100g, negligible fiber; small quantity)"
+    },
+    {
+      "position": 10,
+      "carbsG": 5.7,
+      "fiberG": 3,
+      "assumptions": "50g flaked almonds (standard ~11.4g carbs/100g, 6g fiber/100g)"
+    }
+  ]
+}

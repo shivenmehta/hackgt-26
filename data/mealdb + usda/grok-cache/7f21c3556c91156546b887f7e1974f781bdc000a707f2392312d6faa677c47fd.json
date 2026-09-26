@@ -1,0 +1,39 @@
+{
+  "inputHash": "7f21c3556c91156546b887f7e1974f781bdc000a707f2392312d6faa677c47fd",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:35.558Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 600,
+      "caloriesPer100g": 106,
+      "assumptions": "4 standard 150g chicken breasts (edible portion after pounding; typical boneless skinless breast is 150-200g each)."
+    },
+    {
+      "position": 8,
+      "grams": 15,
+      "caloriesPer100g": 143,
+      "assumptions": "5 average garlic cloves at ~3g each (chopped, raw)."
+    },
+    {
+      "position": 9,
+      "grams": 160,
+      "caloriesPer100g": 48,
+      "assumptions": "2 medium carrots (~80g each, raw, sliced; standard weight used)."
+    },
+    {
+      "position": 15,
+      "grams": 0.5,
+      "caloriesPer100g": 313,
+      "assumptions": "1 dried bay leaf weighs ~0.5g (standard spice weight; modest amount as seasoning)."
+    },
+    {
+      "position": 16,
+      "grams": 2,
+      "caloriesPer100g": null,
+      "assumptions": "1 teaspoon garam masala weighs ~2g (standard spice density); caloriesPer100g left null as no known value supplied and instruction is to estimate only null fields with realistic weights but not invent caloric data."
+    }
+  ]
+}

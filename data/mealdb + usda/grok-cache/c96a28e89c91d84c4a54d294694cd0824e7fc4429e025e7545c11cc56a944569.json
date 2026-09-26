@@ -1,0 +1,51 @@
+{
+  "inputHash": "c96a28e89c91d84c4a54d294694cd0824e7fc4429e025e7545c11cc56a944569",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:38.457Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 22.5,
+      "caloriesPer100g": null,
+      "assumptions": "1.5 tbsp Thai red curry paste estimated at 15 g per tbsp (standard density for thick pastes); full line is 22.5 g edible. No known cal value supplied so left null."
+    },
+    {
+      "position": 7,
+      "grams": 120,
+      "caloriesPer100g": 48,
+      "assumptions": "Medium carrot ≈ 60 g each (edible peeled weight); 2 carrots total 120 g. Known cal per 100 g copied exactly."
+    },
+    {
+      "position": 8,
+      "grams": 350,
+      "caloriesPer100g": 16,
+      "assumptions": "Half a Chinese leaf (Napa cabbage) head ≈ 350 g edible trimmed weight based on average whole head of 700 g. Known cal per 100 g copied exactly."
+    },
+    {
+      "position": 10,
+      "grams": 90,
+      "caloriesPer100g": 27,
+      "assumptions": "Average cherry tomato ≈ 15 g each; 6 tomatoes total 90 g edible. Known cal per 100 g copied exactly."
+    },
+    {
+      "position": 11,
+      "grams": 30,
+      "caloriesPer100g": 30,
+      "assumptions": "Juice of 1 lime ≈ 30 g (standard yield). Known cal per 100 g copied exactly."
+    },
+    {
+      "position": 12,
+      "grams": 45,
+      "caloriesPer100g": 32,
+      "assumptions": "3 medium spring onions ≈ 15 g each edible portion; total 45 g. Known cal per 100 g copied exactly."
+    },
+    {
+      "position": 13,
+      "grams": 10,
+      "caloriesPer100g": 23,
+      "assumptions": "Handful of fresh coriander ≈ 10 g (modest amount for garnish). Known cal per 100 g copied exactly."
+    }
+  ]
+}

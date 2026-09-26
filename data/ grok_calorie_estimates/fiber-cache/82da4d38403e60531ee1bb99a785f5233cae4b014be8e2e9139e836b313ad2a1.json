@@ -1,0 +1,81 @@
+{
+  "inputHash": "82da4d38403e60531ee1bb99a785f5233cae4b014be8e2e9139e836b313ad2a1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:14.891Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "600g raw haddock, poached and flaked; zero carbs"
+    },
+    {
+      "position": 2,
+      "carbsG": 51,
+      "fiberG": 6,
+      "assumptions": "300g peeled/boiled potatoes, mashed; standard white potato values"
+    },
+    {
+      "position": 3,
+      "carbsG": 4,
+      "fiberG": 0.6,
+      "assumptions": "1 medium green chilli (~20g), chopped"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.4,
+      "fiberG": 1,
+      "assumptions": "3 tbs fresh coriander leaves (~15g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.2,
+      "fiberG": 0.2,
+      "assumptions": "1 tsp cumin seeds (~2g)"
+    },
+    {
+      "position": 6,
+      "carbsG": 0.7,
+      "fiberG": 0.3,
+      "assumptions": "1/2 tsp ground black pepper (~1g)"
+    },
+    {
+      "position": 7,
+      "carbsG": 2.7,
+      "fiberG": 0.2,
+      "assumptions": "3 cloves garlic (~9g), crushed"
+    },
+    {
+      "position": 8,
+      "carbsG": 2,
+      "fiberG": 0.2,
+      "assumptions": "2 thumb-sized pieces fresh ginger (~10g), grated"
+    },
+    {
+      "position": 9,
+      "carbsG": 17,
+      "fiberG": 0.6,
+      "assumptions": "2 tbs rice flour (~20g); assumed rice flour from recipe context"
+    },
+    {
+      "position": 10,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "3 large eggs (~150g total); 2 for coating, 1 in mix"
+    },
+    {
+      "position": 11,
+      "carbsG": 55,
+      "fiberG": 3.5,
+      "assumptions": "75g dry breadcrumbs"
+    },
+    {
+      "position": 12,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "~20ml vegetable oil actually absorbed during shallow frying of all 15 pieces (1cm oil in pan; not total oil added)"
+    }
+  ]
+}

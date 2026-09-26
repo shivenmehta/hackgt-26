@@ -1,0 +1,2720 @@
+[
+  {
+    "slug": "all-purpose-flour",
+    "fdcId": 789951,
+    "description": "Flour, wheat, all-purpose, enriched, unbleached",
+    "fetchedAt": "2026-09-26T17:39:56.694Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/789951/nutrients",
+    "foodPortions": [
+      {
+        "id": 312606,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "sugar-granulated",
+    "fdcId": 746784,
+    "description": "Sugars, granulated",
+    "fetchedAt": "2026-09-26T17:39:56.698Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/746784/nutrients",
+    "foodPortions": [
+      {
+        "id": 187533,
+        "dataPoints": 19,
+        "gramWeight": 4,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "minDateAcquired": "4/8/2006",
+        "measureUnit": {
+          "id": 1002,
+          "name": "teaspoon",
+          "abbreviation": "tsp"
+        },
+        "minYearAcquired": 2006
+      },
+      {
+        "id": 187534,
+        "dataPoints": 14,
+        "gramWeight": 188,
+        "sequenceNumber": 2,
+        "amount": 1,
+        "minDateAcquired": "4/8/2006",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2006
+      },
+      {
+        "id": 312748,
+        "dataPoints": 0,
+        "gramWeight": 8,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "butter-unsalted",
+    "fdcId": 789828,
+    "description": "Butter, stick, unsalted",
+    "fetchedAt": "2026-09-26T17:39:57.466Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/789828/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "butter-stick-salted",
+    "fdcId": 790508,
+    "description": "Butter, stick, salted",
+    "fetchedAt": "2026-09-26T17:40:02.163Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/790508/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "olive-oil-extra-virgin",
+    "fdcId": 748608,
+    "description": "Oil, olive, extra virgin",
+    "fetchedAt": "2026-09-26T17:40:02.170Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/748608/nutrients",
+    "foodPortions": [
+      {
+        "id": 192355,
+        "dataPoints": 6,
+        "gramWeight": 90.7,
+        "sequenceNumber": 1,
+        "amount": 100,
+        "modifier": "",
+        "minDateAcquired": "6/20/2019",
+        "measureUnit": {
+          "id": 1004,
+          "name": "milliliter",
+          "abbreviation": "ml"
+        },
+        "minYearAcquired": 2019
+      }
+    ]
+  },
+  {
+    "slug": "canola-oil",
+    "fdcId": 748278,
+    "description": "Oil, canola",
+    "fetchedAt": "2026-09-26T17:40:03.286Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/748278/nutrients",
+    "foodPortions": [
+      {
+        "id": 192340,
+        "dataPoints": 3,
+        "gramWeight": 90.9,
+        "sequenceNumber": 1,
+        "amount": 100,
+        "modifier": "",
+        "minDateAcquired": "6/20/2019",
+        "measureUnit": {
+          "id": 1004,
+          "name": "milliliter",
+          "abbreviation": "ml"
+        },
+        "minYearAcquired": 2019
+      }
+    ]
+  },
+  {
+    "slug": "oil-sunflower",
+    "fdcId": 1750349,
+    "description": "Oil, sunflower",
+    "fetchedAt": "2026-09-26T17:40:06.035Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/1750349/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "oil-peanut",
+    "fdcId": 1750348,
+    "description": "Oil, peanut",
+    "fetchedAt": "2026-09-26T17:40:08.782Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/1750348/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "oil-coconut",
+    "fdcId": 330458,
+    "description": "Oil, coconut",
+    "fetchedAt": "2026-09-26T17:40:09.426Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/330458/nutrients",
+    "foodPortions": [
+      {
+        "id": 119748,
+        "dataPoints": 10,
+        "gramWeight": 11.6,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "liquid oil",
+        "minDateAcquired": "2/8/2014",
+        "measureUnit": {
+          "id": 1001,
+          "name": "tablespoon",
+          "abbreviation": "tbsp"
+        },
+        "minYearAcquired": 2014
+      }
+    ]
+  },
+  {
+    "slug": "oil-corn",
+    "fdcId": 748323,
+    "description": "Oil, corn",
+    "fetchedAt": "2026-09-26T17:40:10.489Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/748323/nutrients",
+    "foodPortions": [
+      {
+        "id": 192344,
+        "dataPoints": 3,
+        "gramWeight": 91.3,
+        "sequenceNumber": 1,
+        "amount": 100,
+        "modifier": "",
+        "minDateAcquired": "6/20/2019",
+        "measureUnit": {
+          "id": 1004,
+          "name": "milliliter",
+          "abbreviation": "ml"
+        },
+        "minYearAcquired": 2019
+      }
+    ]
+  },
+  {
+    "slug": "oil-soybean",
+    "fdcId": 748366,
+    "description": "Oil, soybean",
+    "fetchedAt": "2026-09-26T17:40:11.553Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/748366/nutrients",
+    "foodPortions": [
+      {
+        "id": 192348,
+        "dataPoints": 3,
+        "gramWeight": 91.3,
+        "sequenceNumber": 1,
+        "amount": 100,
+        "modifier": "",
+        "minDateAcquired": "6/20/2019",
+        "measureUnit": {
+          "id": 1004,
+          "name": "milliliter",
+          "abbreviation": "ml"
+        },
+        "minYearAcquired": 2019
+      }
+    ]
+  },
+  {
+    "slug": "salt-iodized",
+    "fdcId": 746775,
+    "description": "Salt, table, iodized",
+    "fetchedAt": "2026-09-26T17:40:12.792Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/746775/nutrients",
+    "foodPortions": [
+      {
+        "id": 187521,
+        "dataPoints": 24,
+        "gramWeight": 6.1,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "",
+        "minDateAcquired": "4/7/2018",
+        "measureUnit": {
+          "id": 1002,
+          "name": "teaspoon",
+          "abbreviation": "tsp"
+        },
+        "minYearAcquired": 2018
+      }
+    ]
+  },
+  {
+    "slug": "garlic-raw",
+    "fdcId": 1104647,
+    "description": "Garlic, raw",
+    "fetchedAt": "2026-09-26T17:40:12.794Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/1104647/nutrients",
+    "foodPortions": [
+      {
+        "id": 312811,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "yellow-onion-raw",
+    "fdcId": 790646,
+    "description": "Onions, yellow, raw",
+    "fetchedAt": "2026-09-26T17:40:12.795Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/790646/nutrients",
+    "foodPortions": [
+      {
+        "id": 234698,
+        "dataPoints": 44,
+        "gramWeight": 143,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "Edible",
+        "minDateAcquired": "11/26/2019",
+        "measureUnit": {
+          "id": 1120,
+          "name": "Onion",
+          "abbreviation": "Onion"
+        },
+        "minYearAcquired": 2019
+      },
+      {
+        "id": 312814,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "onions-red-raw",
+    "fdcId": 790577,
+    "description": "Onions, red, raw",
+    "fetchedAt": "2026-09-26T17:40:13.700Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/790577/nutrients",
+    "foodPortions": [
+      {
+        "id": 234609,
+        "dataPoints": 30,
+        "gramWeight": 197,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "Edible",
+        "minDateAcquired": "11/26/2019",
+        "measureUnit": {
+          "id": 1120,
+          "name": "Onion",
+          "abbreviation": "Onion"
+        },
+        "minYearAcquired": 2019
+      },
+      {
+        "id": 312813,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "onions-white-raw",
+    "fdcId": 1104962,
+    "description": "Onions, white, raw",
+    "fetchedAt": "2026-09-26T17:40:14.717Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/1104962/nutrients",
+    "foodPortions": [
+      {
+        "id": 312812,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "green-onion-scallion-bulb-and-greens-root-removed-raw",
+    "fdcId": 2727585,
+    "description": "Green onion, (scallion), bulb and greens, root removed, raw",
+    "fetchedAt": "2026-09-26T17:40:15.693Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2727585/nutrients",
+    "foodPortions": [
+      {
+        "id": 312751,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "shallots-bulb-peeled-root-removed-raw",
+    "fdcId": 2727586,
+    "description": "Shallots, bulb, peeled, root removed, raw",
+    "fetchedAt": "2026-09-26T17:40:16.685Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2727586/nutrients",
+    "foodPortions": [
+      {
+        "id": 312753,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "eggs-whole",
+    "fdcId": 748967,
+    "description": "Eggs, Grade A, Large, egg whole",
+    "fetchedAt": "2026-09-26T17:40:16.692Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/748967/nutrients",
+    "foodPortions": [
+      {
+        "id": 193781,
+        "dataPoints": 526,
+        "gramWeight": 50.3,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "whole without shell",
+        "minDateAcquired": "5/14/2019",
+        "measureUnit": {
+          "id": 1099,
+          "name": "egg",
+          "abbreviation": "egg"
+        },
+        "minYearAcquired": 2019
+      },
+      {
+        "id": 312625,
+        "dataPoints": 0,
+        "gramWeight": 50,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "eggs-grade-a-large-egg-yolk",
+    "fdcId": 748236,
+    "description": "Eggs, Grade A, Large, egg yolk",
+    "fetchedAt": "2026-09-26T17:40:20.251Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/748236/nutrients",
+    "foodPortions": [
+      {
+        "id": 192336,
+        "dataPoints": 531,
+        "gramWeight": 17,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "yolk",
+        "minDateAcquired": "5/14/2019",
+        "measureUnit": {
+          "id": 1099,
+          "name": "egg",
+          "abbreviation": "egg"
+        },
+        "minYearAcquired": 2019
+      }
+    ]
+  },
+  {
+    "slug": "eggs-grade-a-large-egg-white",
+    "fdcId": 747997,
+    "description": "Eggs, Grade A, Large, egg white",
+    "fetchedAt": "2026-09-26T17:40:22.394Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/747997/nutrients",
+    "foodPortions": [
+      {
+        "id": 190538,
+        "dataPoints": 576,
+        "gramWeight": 34,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "white",
+        "minDateAcquired": "5/14/2019",
+        "measureUnit": {
+          "id": 1099,
+          "name": "egg",
+          "abbreviation": "egg"
+        },
+        "minYearAcquired": 2019
+      },
+      {
+        "id": 312624,
+        "dataPoints": 0,
+        "gramWeight": 50,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "milk-whole",
+    "fdcId": 746782,
+    "description": "Milk, whole, 3.25% milkfat, with added vitamin D",
+    "fetchedAt": "2026-09-26T17:40:22.406Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/746782/nutrients",
+    "foodPortions": [
+      {
+        "id": 187530,
+        "dataPoints": 3,
+        "gramWeight": 249,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "",
+        "minDateAcquired": "4/7/2018",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2018
+      }
+    ]
+  },
+  {
+    "slug": "milk-nonfat-fluid-with-added-vitamin-a-and-vitamin-d-fat-free-or-skim",
+    "fdcId": 746776,
+    "description": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
+    "fetchedAt": "2026-09-26T17:40:32.453Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/746776/nutrients",
+    "foodPortions": [
+      {
+        "id": 187522,
+        "dataPoints": 3,
+        "gramWeight": 246,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "",
+        "minDateAcquired": "4/16/2018",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2018
+      }
+    ]
+  },
+  {
+    "slug": "sweetened-condensed-milk",
+    "fdcId": 2758990,
+    "description": "Sweetened condensed milk",
+    "fetchedAt": "2026-09-26T17:40:34.615Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2758990/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "heavy-cream",
+    "fdcId": 2346386,
+    "description": "Cream, heavy",
+    "fetchedAt": "2026-09-26T17:40:35.186Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346386/nutrients",
+    "foodPortions": [
+      {
+        "id": 312617,
+        "dataPoints": 0,
+        "gramWeight": 15,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "sour-cream",
+    "fdcId": 2346387,
+    "description": "Cream, sour, full fat",
+    "fetchedAt": "2026-09-26T17:40:36.578Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346387/nutrients",
+    "foodPortions": [
+      {
+        "id": 312619,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cream-cheese",
+    "fdcId": 2346385,
+    "description": "Cream cheese, full fat, block",
+    "fetchedAt": "2026-09-26T17:40:38.074Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346385/nutrients",
+    "foodPortions": [
+      {
+        "id": 312618,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "greek-yogurt-plain-whole-milk",
+    "fdcId": 2259794,
+    "description": "Yogurt, Greek, plain, whole milk",
+    "fetchedAt": "2026-09-26T17:40:39.651Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2259794/nutrients",
+    "foodPortions": [
+      {
+        "id": 312623,
+        "dataPoints": 0,
+        "gramWeight": 170,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "yogurt-plain-whole-milk",
+    "fdcId": 2259793,
+    "description": "Yogurt, plain, whole milk",
+    "fetchedAt": "2026-09-26T17:40:41.233Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2259793/nutrients",
+    "foodPortions": [
+      {
+        "id": 312622,
+        "dataPoints": 0,
+        "gramWeight": 170,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "buttermilk-low-fat",
+    "fdcId": 2259792,
+    "description": "Buttermilk, low fat",
+    "fetchedAt": "2026-09-26T17:40:42.844Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2259792/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "cheddar-cheese",
+    "fdcId": 328637,
+    "description": "Cheese, cheddar",
+    "fetchedAt": "2026-09-26T17:40:55.161Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/328637/nutrients",
+    "foodPortions": [
+      {
+        "id": 119619,
+        "dataPoints": 31,
+        "gramWeight": 17,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "minDateAcquired": "3/22/2013",
+        "measureUnit": {
+          "id": 1050,
+          "name": "slice",
+          "abbreviation": "slice"
+        },
+        "minYearAcquired": 2013
+      },
+      {
+        "id": 119620,
+        "portionDescription": "shredded",
+        "dataPoints": 41,
+        "gramWeight": 105,
+        "sequenceNumber": 2,
+        "amount": 1,
+        "minDateAcquired": "11/8/2014",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2014
+      },
+      {
+        "id": 312628,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cheese-monterey-jack-solid",
+    "fdcId": 2647438,
+    "description": "Cheese, monterey jack, solid",
+    "fetchedAt": "2026-09-26T17:40:56.421Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2647438/nutrients",
+    "foodPortions": [
+      {
+        "id": 312614,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "parmesan-grated",
+    "fdcId": 2259795,
+    "description": "Cheese, parmesan, grated, refrigerated",
+    "fetchedAt": "2026-09-26T17:40:58.076Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2259795/nutrients",
+    "foodPortions": [
+      {
+        "id": 312621,
+        "dataPoints": 0,
+        "gramWeight": 5,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cheese-ricotta-whole-milk",
+    "fdcId": 746766,
+    "description": "Cheese, ricotta, whole milk",
+    "fetchedAt": "2026-09-26T17:41:01.904Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/746766/nutrients",
+    "foodPortions": [
+      {
+        "id": 187495,
+        "dataPoints": 21,
+        "gramWeight": 64.6,
+        "sequenceNumber": 1,
+        "amount": 0.2,
+        "modifier": "",
+        "minDateAcquired": "3/13/2016",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2016
+      },
+      {
+        "id": 187497,
+        "dataPoints": 1,
+        "gramWeight": 258,
+        "sequenceNumber": 3,
+        "amount": 1,
+        "modifier": "",
+        "minDateAcquired": "3/13/2016",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2016
+      },
+      {
+        "id": 187496,
+        "dataPoints": 1,
+        "gramWeight": 129,
+        "sequenceNumber": 3,
+        "amount": 0.5,
+        "modifier": "",
+        "minDateAcquired": "3/13/2016",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2016
+      },
+      {
+        "id": 312627,
+        "dataPoints": 0,
+        "gramWeight": 55,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cheese-feta-whole-milk-crumbled",
+    "fdcId": 2259796,
+    "description": "Cheese, feta, whole milk, crumbled",
+    "fetchedAt": "2026-09-26T17:41:03.750Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2259796/nutrients",
+    "foodPortions": [
+      {
+        "id": 312620,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "chicken-breast-raw",
+    "fdcId": 2646170,
+    "description": "Chicken, breast, boneless, skinless, raw",
+    "fetchedAt": "2026-09-26T17:41:04.916Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2646170/nutrients",
+    "foodPortions": [
+      {
+        "id": 312730,
+        "dataPoints": 0,
+        "gramWeight": 114,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "chicken-thigh-raw",
+    "fdcId": 2646171,
+    "description": "Chicken, thigh, boneless, skinless, raw",
+    "fetchedAt": "2026-09-26T17:41:05.910Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2646171/nutrients",
+    "foodPortions": [
+      {
+        "id": 312731,
+        "dataPoints": 0,
+        "gramWeight": 114,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "pork-ground-raw",
+    "fdcId": 2514745,
+    "description": "Pork, ground, raw",
+    "fetchedAt": "2026-09-26T17:41:06.824Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2514745/nutrients",
+    "foodPortions": [
+      {
+        "id": 312723,
+        "dataPoints": 0,
+        "gramWeight": 110,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "ground-beef-90-lean-raw",
+    "fdcId": 2514743,
+    "description": "Beef, ground, 90% lean meat / 10% fat, raw",
+    "fetchedAt": "2026-09-26T17:41:07.855Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2514743/nutrients",
+    "foodPortions": [
+      {
+        "id": 312562,
+        "dataPoints": 0,
+        "gramWeight": 114,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "beef-top-sirloin-steak-raw",
+    "fdcId": 2727574,
+    "description": "Beef, top sirloin steak, raw",
+    "fetchedAt": "2026-09-26T17:41:08.775Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2727574/nutrients",
+    "foodPortions": [
+      {
+        "id": 312555,
+        "dataPoints": 0,
+        "gramWeight": 114,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "beef-flank-steak-boneless-choice-raw",
+    "fdcId": 2646175,
+    "description": "Beef, flank, steak, boneless, choice, raw",
+    "fetchedAt": "2026-09-26T17:41:09.784Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2646175/nutrients",
+    "foodPortions": [
+      {
+        "id": 312558,
+        "dataPoints": 0,
+        "gramWeight": 114,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "pork-loin-tenderloin-boneless-raw",
+    "fdcId": 2646169,
+    "description": "Pork, loin, tenderloin, boneless, raw",
+    "fetchedAt": "2026-09-26T17:41:10.783Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2646169/nutrients",
+    "foodPortions": [
+      {
+        "id": 312721,
+        "dataPoints": 0,
+        "gramWeight": 110,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "shrimp-raw",
+    "fdcId": 2684443,
+    "description": "Crustaceans, shrimp, farm raised, raw",
+    "fetchedAt": "2026-09-26T17:41:11.814Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2684443/nutrients",
+    "foodPortions": [
+      {
+        "id": 312641,
+        "dataPoints": 0,
+        "gramWeight": 115,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmon-atlantic-raw",
+    "fdcId": 2684441,
+    "description": "Fish, salmon, Atlantic, farm raised, raw",
+    "fetchedAt": "2026-09-26T17:41:13.313Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2684441/nutrients",
+    "foodPortions": [
+      {
+        "id": 312643,
+        "dataPoints": 0,
+        "gramWeight": 115,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "carrots-raw",
+    "fdcId": 2258586,
+    "description": "Carrots, mature, raw",
+    "fetchedAt": "2026-09-26T17:41:14.357Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2258586/nutrients",
+    "foodPortions": [
+      {
+        "id": 312791,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "broccoli-raw",
+    "fdcId": 747447,
+    "description": "Broccoli, raw",
+    "fetchedAt": "2026-09-26T17:41:17.912Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/747447/nutrients",
+    "foodPortions": [
+      {
+        "id": 187633,
+        "dataPoints": 12,
+        "gramWeight": 76,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "chopped",
+        "minDateAcquired": "8/5/2001",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2001
+      },
+      {
+        "id": 312822,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cauliflower-raw",
+    "fdcId": 2685573,
+    "description": "Cauliflower, raw",
+    "fetchedAt": "2026-09-26T17:41:18.900Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2685573/nutrients",
+    "foodPortions": [
+      {
+        "id": 312764,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "celery-raw",
+    "fdcId": 2346405,
+    "description": "Celery, raw",
+    "fetchedAt": "2026-09-26T17:41:20.077Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346405/nutrients",
+    "foodPortions": [
+      {
+        "id": 312784,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "green-cabbage-raw",
+    "fdcId": 2346407,
+    "description": "Cabbage, green, raw",
+    "fetchedAt": "2026-09-26T17:41:21.266Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346407/nutrients",
+    "foodPortions": [
+      {
+        "id": 312782,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cabbage-red-raw",
+    "fdcId": 2346408,
+    "description": "Cabbage, red, raw",
+    "fetchedAt": "2026-09-26T17:41:22.294Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346408/nutrients",
+    "foodPortions": [
+      {
+        "id": 312783,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cabbage-bok-choy-raw",
+    "fdcId": 2685572,
+    "description": "Cabbage, bok choy, raw",
+    "fetchedAt": "2026-09-26T17:41:23.256Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2685572/nutrients",
+    "foodPortions": [
+      {
+        "id": 312760,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cabbage-napa-leaf-destemmed-raw",
+    "fdcId": 2727583,
+    "description": "Cabbage, napa, leaf, destemmed, raw",
+    "fetchedAt": "2026-09-26T17:41:24.290Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2727583/nutrients",
+    "foodPortions": [
+      {
+        "id": 312749,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "eggplant-raw",
+    "fdcId": 2685577,
+    "description": "Eggplant, raw",
+    "fetchedAt": "2026-09-26T17:41:25.373Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2685577/nutrients",
+    "foodPortions": [
+      {
+        "id": 312762,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "zucchini-raw",
+    "fdcId": 2685568,
+    "description": "Squash, summer, green, zucchini, includes skin, raw",
+    "fetchedAt": "2026-09-26T17:41:26.352Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2685568/nutrients",
+    "foodPortions": [
+      {
+        "id": 312775,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "butternut-squash-raw",
+    "fdcId": 2685570,
+    "description": "Squash, winter, butternut, raw",
+    "fetchedAt": "2026-09-26T17:41:27.320Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2685570/nutrients",
+    "foodPortions": [
+      {
+        "id": 312767,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "pumpkin-peeled-raw",
+    "fdcId": 2727578,
+    "description": "Squash, pie pumpkin, peeled, seeded, raw",
+    "fetchedAt": "2026-09-26T17:41:28.287Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2727578/nutrients",
+    "foodPortions": [
+      {
+        "id": 312756,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "russet-potato-peeled-raw",
+    "fdcId": 2346401,
+    "description": "Potatoes, russet, without skin, raw",
+    "fetchedAt": "2026-09-26T17:41:29.651Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346401/nutrients",
+    "foodPortions": [
+      {
+        "id": 312779,
+        "dataPoints": 0,
+        "gramWeight": 110,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "sweet-potato-peeled-raw",
+    "fdcId": 2346404,
+    "description": "Sweet potatoes, orange flesh, without skin, raw",
+    "fetchedAt": "2026-09-26T17:41:31.090Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346404/nutrients",
+    "foodPortions": [
+      {
+        "id": 312780,
+        "dataPoints": 0,
+        "gramWeight": 110,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "green-beans-raw",
+    "fdcId": 2346400,
+    "description": "Beans, snap, green, raw",
+    "fetchedAt": "2026-09-26T17:41:32.310Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346400/nutrients",
+    "foodPortions": [
+      {
+        "id": 312781,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "kale-raw",
+    "fdcId": 323505,
+    "description": "Kale, raw",
+    "fetchedAt": "2026-09-26T17:41:33.522Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/323505/nutrients",
+    "foodPortions": [
+      {
+        "id": 119057,
+        "dataPoints": 9,
+        "gramWeight": 20.6,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "pieces of ~1\"",
+        "minDateAcquired": "9/26/2015",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2015
+      },
+      {
+        "id": 312819,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "spinach-mature",
+    "fdcId": 1999633,
+    "description": "Spinach, mature",
+    "fetchedAt": "2026-09-26T17:41:35.004Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/1999633/nutrients",
+    "foodPortions": [
+      {
+        "id": 312805,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "spinach-baby",
+    "fdcId": 1999632,
+    "description": "Spinach, baby",
+    "fetchedAt": "2026-09-26T17:41:36.461Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/1999632/nutrients",
+    "foodPortions": [
+      {
+        "id": 312804,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "red-bell-pepper-raw",
+    "fdcId": 2258590,
+    "description": "Peppers, bell, red, raw",
+    "fetchedAt": "2026-09-26T17:41:37.015Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2258590/nutrients",
+    "foodPortions": [
+      {
+        "id": 312795,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "green-bell-pepper-raw",
+    "fdcId": 2258588,
+    "description": "Peppers, bell, green, raw",
+    "fetchedAt": "2026-09-26T17:41:38.120Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2258588/nutrients",
+    "foodPortions": [
+      {
+        "id": 312794,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "peppers-bell-yellow-raw",
+    "fdcId": 2258589,
+    "description": "Peppers, bell, yellow, raw",
+    "fetchedAt": "2026-09-26T17:41:39.314Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2258589/nutrients",
+    "foodPortions": [
+      {
+        "id": 312793,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tomato-roma",
+    "fdcId": 1999634,
+    "description": "Tomato, roma",
+    "fetchedAt": "2026-09-26T17:41:40.680Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/1999634/nutrients",
+    "foodPortions": [
+      {
+        "id": 312806,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tomatoes-grape-raw",
+    "fdcId": 321360,
+    "description": "Tomatoes, grape, raw",
+    "fetchedAt": "2026-09-26T17:41:43.276Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/321360/nutrients",
+    "foodPortions": [
+      {
+        "id": 118808,
+        "dataPoints": 11,
+        "gramWeight": 49.7,
+        "sequenceNumber": 1,
+        "amount": 5,
+        "modifier": "",
+        "minDateAcquired": "5/14/2016",
+        "measureUnit": {
+          "id": 1082,
+          "name": "tomatoes",
+          "abbreviation": "tomatoes"
+        },
+        "minYearAcquired": 2016
+      },
+      {
+        "id": 118809,
+        "dataPoints": 11,
+        "gramWeight": 152,
+        "sequenceNumber": 2,
+        "amount": 1,
+        "modifier": "",
+        "minDateAcquired": "5/14/2016",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2016
+      },
+      {
+        "id": 312817,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tomatoes-canned-red-ripe-diced",
+    "fdcId": 333281,
+    "description": "Tomatoes, canned, red, ripe, diced",
+    "fetchedAt": "2026-09-26T17:41:46.092Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/333281/nutrients",
+    "foodPortions": [
+      {
+        "id": 121582,
+        "dataPoints": 33,
+        "gramWeight": 245,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "",
+        "minDateAcquired": "10/8/2016",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2016
+      },
+      {
+        "id": 312816,
+        "dataPoints": 0,
+        "gramWeight": 130,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tomatoes-crushed-canned",
+    "fdcId": 2685581,
+    "description": "Tomatoes, crushed, canned",
+    "fetchedAt": "2026-09-26T17:41:47.145Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2685581/nutrients",
+    "foodPortions": [
+      {
+        "id": 312771,
+        "dataPoints": 0,
+        "gramWeight": 130,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tomato-paste-unsalted",
+    "fdcId": 2685580,
+    "description": "Tomato, paste, canned, without salt added",
+    "fetchedAt": "2026-09-26T17:41:48.192Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2685580/nutrients",
+    "foodPortions": [
+      {
+        "id": 312768,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cucumber-with-peel-raw",
+    "fdcId": 2346406,
+    "description": "Cucumber, with peel, raw",
+    "fetchedAt": "2026-09-26T17:41:49.218Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346406/nutrients",
+    "foodPortions": [
+      {
+        "id": 312785,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "fennel-bulb-raw",
+    "fdcId": 2747655,
+    "description": "Fennel, bulb, raw",
+    "fetchedAt": "2026-09-26T17:41:50.657Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2747655/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "white-button-mushrooms",
+    "fdcId": 1999629,
+    "description": "Mushrooms, white button",
+    "fetchedAt": "2026-09-26T17:41:52.027Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/1999629/nutrients",
+    "foodPortions": [
+      {
+        "id": 312810,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "mushrooms-shiitake",
+    "fdcId": 1999628,
+    "description": "Mushrooms, shiitake",
+    "fetchedAt": "2026-09-26T17:41:53.755Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/1999628/nutrients",
+    "foodPortions": [
+      {
+        "id": 312809,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "leeks-raw",
+    "fdcId": 2727584,
+    "description": "Leeks, bulb and greens, root removed, raw",
+    "fetchedAt": "2026-09-26T17:41:54.775Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2727584/nutrients",
+    "foodPortions": [
+      {
+        "id": 312750,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "beets-raw",
+    "fdcId": 2685576,
+    "description": "Beets, raw",
+    "fetchedAt": "2026-09-26T17:41:55.916Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2685576/nutrients",
+    "foodPortions": [
+      {
+        "id": 312763,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "parsnips-raw",
+    "fdcId": 2747659,
+    "description": "Parsnips, raw",
+    "fetchedAt": "2026-09-26T17:41:57.085Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2747659/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "asparagus-raw",
+    "fdcId": 2710823,
+    "description": "Asparagus, green, raw",
+    "fetchedAt": "2026-09-26T17:41:58.123Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2710823/nutrients",
+    "foodPortions": [
+      {
+        "id": 312759,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "lettuce-iceberg-raw",
+    "fdcId": 2346388,
+    "description": "Lettuce, iceberg, raw",
+    "fetchedAt": "2026-09-26T17:41:59.236Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346388/nutrients",
+    "foodPortions": [
+      {
+        "id": 312788,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "arugula-baby-raw",
+    "fdcId": 2710822,
+    "description": "Arugula, baby, raw",
+    "fetchedAt": "2026-09-26T17:42:00.269Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2710822/nutrients",
+    "foodPortions": [
+      {
+        "id": 312758,
+        "dataPoints": 0,
+        "gramWeight": 85,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "banana-ripe-raw",
+    "fdcId": 1105314,
+    "description": "Bananas, ripe and slightly ripe, raw",
+    "fetchedAt": "2026-09-26T17:42:03.411Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/1105314/nutrients",
+    "foodPortions": [
+      {
+        "id": 267795,
+        "dataPoints": 102,
+        "gramWeight": 115,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "Peeled",
+        "minDateAcquired": "12/2/2019",
+        "measureUnit": {
+          "id": 1119,
+          "name": "Banana",
+          "abbreviation": "Banana"
+        },
+        "minYearAcquired": 2019
+      },
+      {
+        "id": 312674,
+        "dataPoints": 0,
+        "gramWeight": 140,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "strawberries-raw",
+    "fdcId": 2346409,
+    "description": "Strawberries, raw",
+    "fetchedAt": "2026-09-26T17:42:04.851Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346409/nutrients",
+    "foodPortions": [
+      {
+        "id": 312666,
+        "dataPoints": 0,
+        "gramWeight": 140,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "raspberries-raw",
+    "fdcId": 2346410,
+    "description": "Raspberries, raw",
+    "fetchedAt": "2026-09-26T17:42:06.226Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346410/nutrients",
+    "foodPortions": [
+      {
+        "id": 312665,
+        "dataPoints": 0,
+        "gramWeight": 140,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "blueberries-raw",
+    "fdcId": 2346411,
+    "description": "Blueberries, raw",
+    "fetchedAt": "2026-09-26T17:42:07.416Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346411/nutrients",
+    "foodPortions": [
+      {
+        "id": 312663,
+        "dataPoints": 0,
+        "gramWeight": 140,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "blackberries-raw",
+    "fdcId": 2727581,
+    "description": "Blackberries, raw",
+    "fetchedAt": "2026-09-26T17:42:08.440Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2727581/nutrients",
+    "foodPortions": [
+      {
+        "id": 312647,
+        "dataPoints": 0,
+        "gramWeight": 140,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "apples-granny-smith-with-skin-raw",
+    "fdcId": 1750342,
+    "description": "Apples, granny smith, with skin, raw",
+    "fetchedAt": "2026-09-26T17:42:09.727Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/1750342/nutrients",
+    "foodPortions": [
+      {
+        "id": 312670,
+        "dataPoints": 0,
+        "gramWeight": 140,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "apple-gala-with-skin-raw",
+    "fdcId": 1750341,
+    "description": "Apples, gala, with skin, raw",
+    "fetchedAt": "2026-09-26T17:42:11.024Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/1750341/nutrients",
+    "foodPortions": [
+      {
+        "id": 312672,
+        "dataPoints": 0,
+        "gramWeight": 140,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "orange-navel-raw",
+    "fdcId": 746771,
+    "description": "Oranges, raw, navels",
+    "fetchedAt": "2026-09-26T17:42:12.706Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/746771/nutrients",
+    "foodPortions": [
+      {
+        "id": 187512,
+        "dataPoints": 1,
+        "gramWeight": 165,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "sections no membranes",
+        "minDateAcquired": "5/20/2001",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2001
+      },
+      {
+        "id": 187513,
+        "dataPoints": 1,
+        "gramWeight": 140,
+        "sequenceNumber": 2,
+        "amount": 1,
+        "modifier": " 2-7/8\" dia",
+        "minDateAcquired": "5/20/2001",
+        "measureUnit": {
+          "id": 1071,
+          "name": "each",
+          "abbreviation": "each"
+        },
+        "minYearAcquired": 2001
+      },
+      {
+        "id": 312681,
+        "dataPoints": 0,
+        "gramWeight": 140,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "pineapple-raw",
+    "fdcId": 2346398,
+    "description": "Pineapple, raw",
+    "fetchedAt": "2026-09-26T17:42:14.047Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346398/nutrients",
+    "foodPortions": [
+      {
+        "id": 312661,
+        "dataPoints": 0,
+        "gramWeight": 140,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "avocado-hass-raw",
+    "fdcId": 2710824,
+    "description": "Avocado, Hass, peeled, raw",
+    "fetchedAt": "2026-09-26T17:42:15.036Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2710824/nutrients",
+    "foodPortions": [
+      {
+        "id": 312657,
+        "dataPoints": 0,
+        "gramWeight": 140,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "peach-yellow-raw",
+    "fdcId": 325430,
+    "description": "Peaches, yellow, raw",
+    "fetchedAt": "2026-09-26T17:42:17.155Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/325430/nutrients",
+    "foodPortions": [
+      {
+        "id": 119283,
+        "dataPoints": 14,
+        "gramWeight": 147,
+        "sequenceNumber": 2,
+        "amount": 1,
+        "modifier": "small (2-1/2\" dia)",
+        "minDateAcquired": "7/22/2001",
+        "measureUnit": {
+          "id": 1028,
+          "name": "fruit",
+          "abbreviation": "fruit"
+        },
+        "minYearAcquired": 2001
+      },
+      {
+        "id": 119282,
+        "dataPoints": 14,
+        "gramWeight": 154,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "modifier": "slices with skin",
+        "minDateAcquired": "7/22/2001",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2001
+      },
+      {
+        "id": 119285,
+        "dataPoints": 9,
+        "gramWeight": 173,
+        "sequenceNumber": 4,
+        "amount": 1,
+        "modifier": "large (2-3/4\" dia)",
+        "minDateAcquired": "7/22/2001",
+        "measureUnit": {
+          "id": 1028,
+          "name": "fruit",
+          "abbreviation": "fruit"
+        },
+        "minYearAcquired": 2001
+      },
+      {
+        "id": 119286,
+        "dataPoints": 8,
+        "gramWeight": 225,
+        "sequenceNumber": 5,
+        "amount": 1,
+        "modifier": "extra large (3\" dia)",
+        "minDateAcquired": "7/22/2001",
+        "measureUnit": {
+          "id": 1028,
+          "name": "fruit",
+          "abbreviation": "fruit"
+        },
+        "minYearAcquired": 2001
+      },
+      {
+        "id": 119284,
+        "dataPoints": 9,
+        "gramWeight": 161,
+        "sequenceNumber": 3,
+        "amount": 1,
+        "modifier": "medium (2-2/3\" dia)",
+        "minDateAcquired": "7/22/2001",
+        "measureUnit": {
+          "id": 1028,
+          "name": "fruit",
+          "abbreviation": "fruit"
+        },
+        "minYearAcquired": 2001
+      },
+      {
+        "id": 119287,
+        "dataPoints": 1,
+        "gramWeight": 147,
+        "sequenceNumber": 6,
+        "amount": 1,
+        "modifier": "NLEA ",
+        "minDateAcquired": "7/22/2001",
+        "measureUnit": {
+          "id": 1049,
+          "name": "serving",
+          "abbreviation": "serving"
+        },
+        "minYearAcquired": 2001
+      },
+      {
+        "id": 312680,
+        "dataPoints": 0,
+        "gramWeight": 140,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "almonds-raw",
+    "fdcId": 2346393,
+    "description": "Nuts, almonds, whole, raw",
+    "fetchedAt": "2026-09-26T17:42:18.834Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346393/nutrients",
+    "foodPortions": [
+      {
+        "id": 312714,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "walnuts-raw",
+    "fdcId": 2346394,
+    "description": "Nuts, walnuts, English, halves, raw",
+    "fetchedAt": "2026-09-26T17:42:20.588Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346394/nutrients",
+    "foodPortions": [
+      {
+        "id": 312713,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "pecans-raw",
+    "fdcId": 2346395,
+    "description": "Nuts, pecans, halves, raw",
+    "fetchedAt": "2026-09-26T17:42:22.204Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346395/nutrients",
+    "foodPortions": [
+      {
+        "id": 312711,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cashews-raw",
+    "fdcId": 2515374,
+    "description": "Nuts, cashew nuts, raw",
+    "fetchedAt": "2026-09-26T17:42:22.682Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2515374/nutrients",
+    "foodPortions": [
+      {
+        "id": 312710,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "peanuts-raw",
+    "fdcId": 2515376,
+    "description": "Peanuts, raw",
+    "fetchedAt": "2026-09-26T17:42:23.607Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2515376/nutrients",
+    "foodPortions": [
+      {
+        "id": 312698,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "pistachios-raw",
+    "fdcId": 2515379,
+    "description": "Nuts, pistachio nuts, raw",
+    "fetchedAt": "2026-09-26T17:42:24.528Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2515379/nutrients",
+    "foodPortions": [
+      {
+        "id": 312708,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "nuts-pine-nuts-raw",
+    "fdcId": 2346392,
+    "description": "Nuts, pine nuts, raw",
+    "fetchedAt": "2026-09-26T17:42:26.032Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346392/nutrients",
+    "foodPortions": [
+      {
+        "id": 312712,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "nuts-hazelnuts-or-filberts-raw",
+    "fdcId": 2515375,
+    "description": "Nuts, hazelnuts or filberts, raw",
+    "fetchedAt": "2026-09-26T17:42:26.941Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2515375/nutrients",
+    "foodPortions": [
+      {
+        "id": 312705,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "peanut-butter-creamy",
+    "fdcId": 2758989,
+    "description": "Peanut butter, Creamy",
+    "fetchedAt": "2026-09-26T17:42:29.183Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2758989/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "sesame-butter",
+    "fdcId": 2262073,
+    "description": "Sesame butter, creamy",
+    "fetchedAt": "2026-09-26T17:42:31.331Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2262073/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "hummus-commercial",
+    "fdcId": 321358,
+    "description": "Hummus, commercial",
+    "fetchedAt": "2026-09-26T17:42:35.554Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/321358/nutrients",
+    "foodPortions": [
+      {
+        "id": 118804,
+        "dataPoints": 21,
+        "gramWeight": 33.9,
+        "sequenceNumber": 1,
+        "amount": 2,
+        "modifier": "",
+        "minDateAcquired": "9/19/2015",
+        "measureUnit": {
+          "id": 1001,
+          "name": "tablespoon",
+          "abbreviation": "tbsp"
+        },
+        "minYearAcquired": 2015
+      },
+      {
+        "id": 312701,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "raisins-dark-seedless",
+    "fdcId": 2758980,
+    "description": "Raisins, dark, seedless",
+    "fetchedAt": "2026-09-26T17:42:36.332Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2758980/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "raisins-golden-seedless",
+    "fdcId": 2758979,
+    "description": "Raisins, golden, seedless",
+    "fetchedAt": "2026-09-26T17:42:37.103Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2758979/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "rolled-oats",
+    "fdcId": 2346396,
+    "description": "Oats, whole grain, rolled, old fashioned",
+    "fetchedAt": "2026-09-26T17:42:38.318Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2346396/nutrients",
+    "foodPortions": [
+      {
+        "id": 312593,
+        "dataPoints": 0,
+        "gramWeight": 40,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "white-rice-raw",
+    "fdcId": 2512381,
+    "description": "Rice, white, long grain, unenriched, raw",
+    "fetchedAt": "2026-09-26T17:42:39.483Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2512381/nutrients",
+    "foodPortions": [
+      {
+        "id": 312591,
+        "dataPoints": 0,
+        "gramWeight": 45,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "brown-rice-raw",
+    "fdcId": 2512380,
+    "description": "Rice, brown, long grain, unenriched, raw",
+    "fetchedAt": "2026-09-26T17:42:40.676Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2512380/nutrients",
+    "foodPortions": [
+      {
+        "id": 312590,
+        "dataPoints": 0,
+        "gramWeight": 45,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "whole-wheat-flour",
+    "fdcId": 790085,
+    "description": "Flour, whole wheat, unenriched",
+    "fetchedAt": "2026-09-26T17:42:41.543Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/790085/nutrients",
+    "foodPortions": [
+      {
+        "id": 312608,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "flour-bread-white-enriched-unbleached",
+    "fdcId": 790146,
+    "description": "Flour, bread, white, enriched, unbleached",
+    "fetchedAt": "2026-09-26T17:42:42.372Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/790146/nutrients",
+    "foodPortions": [
+      {
+        "id": 312602,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cornmeal-enriched",
+    "fdcId": 790276,
+    "description": "Flour, corn, yellow, fine meal, enriched",
+    "fetchedAt": "2026-09-26T17:42:43.269Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/790276/nutrients",
+    "foodPortions": [
+      {
+        "id": 312603,
+        "dataPoints": 0,
+        "gramWeight": 30,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bread-white-commercial",
+    "fdcId": 2758993,
+    "description": "Bread, white, commercial",
+    "fetchedAt": "2026-09-26T17:42:44.063Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2758993/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "corn-tortilla",
+    "fdcId": 2758997,
+    "description": "Tortilla, corn, shelf stable",
+    "fetchedAt": "2026-09-26T17:42:44.828Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2758997/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "tortilla-wheat-flour-shelf-stable",
+    "fdcId": 2758996,
+    "description": "Tortilla, wheat flour, shelf stable",
+    "fetchedAt": "2026-09-26T17:42:45.664Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2758996/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "spaghetti-dry",
+    "fdcId": 2758998,
+    "description": "Pasta, dry, enriched, spaghetti",
+    "fetchedAt": "2026-09-26T17:42:46.385Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2758998/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "bulgur-dry",
+    "fdcId": 2710820,
+    "description": "Bulgur, dry, raw",
+    "fetchedAt": "2026-09-26T17:42:47.399Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2710820/nutrients",
+    "foodPortions": [
+      {
+        "id": 312575,
+        "dataPoints": 0,
+        "gramWeight": 45,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "lentils-dry",
+    "fdcId": 2644283,
+    "description": "Lentils, dry",
+    "fetchedAt": "2026-09-26T17:42:48.352Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2644283/nutrients",
+    "foodPortions": [
+      {
+        "id": 312694,
+        "dataPoints": 0,
+        "gramWeight": 35,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "measureUnit": {
+          "id": 1121,
+          "name": "RACC",
+          "abbreviation": "RACC"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "mayonnaise-regular",
+    "fdcId": 2758986,
+    "description": "Mayonnaise, Regular",
+    "fetchedAt": "2026-09-26T17:42:50.342Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2758986/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "mustard-yellow",
+    "fdcId": 326698,
+    "description": "Mustard, prepared, yellow",
+    "fetchedAt": "2026-09-26T17:42:55.874Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/326698/nutrients",
+    "foodPortions": [
+      {
+        "id": 119501,
+        "dataPoints": 34,
+        "gramWeight": 249,
+        "sequenceNumber": 2,
+        "amount": 1,
+        "minDateAcquired": "7/2/2003",
+        "measureUnit": {
+          "id": 1000,
+          "name": "cup",
+          "abbreviation": "cup"
+        },
+        "minYearAcquired": 2003
+      },
+      {
+        "id": 119500,
+        "dataPoints": 34,
+        "gramWeight": 6,
+        "sequenceNumber": 1,
+        "amount": 1,
+        "minDateAcquired": "7/2/2003",
+        "measureUnit": {
+          "id": 1002,
+          "name": "teaspoon",
+          "abbreviation": "tsp"
+        },
+        "minYearAcquired": 2003
+      }
+    ]
+  },
+  {
+    "slug": "refried-beans-canned-pinto",
+    "fdcId": 2758984,
+    "description": "Refried beans, canned (pinto)",
+    "fetchedAt": "2026-09-26T17:42:57.526Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/2758984/nutrients",
+    "foodPortions": []
+  },
+  {
+    "slug": "sauce-salsa-ready-to-serve",
+    "fdcId": 746777,
+    "description": "Sauce, salsa, ready-to-serve",
+    "fetchedAt": "2026-09-26T17:43:00.967Z",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/746777/nutrients",
+    "foodPortions": [
+      {
+        "id": 187523,
+        "dataPoints": 24,
+        "gramWeight": 35.7,
+        "sequenceNumber": 1,
+        "amount": 2,
+        "minDateAcquired": "5/21/2011",
+        "measureUnit": {
+          "id": 1001,
+          "name": "tablespoon",
+          "abbreviation": "tbsp"
+        },
+        "minYearAcquired": 2011
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "inputHash": "8d46c05fbfe09043632f45ca076666840546d8a159631717a1d13cdd6dc879a3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:57.579Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 2.97,
+      "fiberG": 0.18,
+      "assumptions": "3 cloves garlic ≈ 9g raw, whole cloves minced or crushed"
+    },
+    {
+      "position": 2,
+      "carbsG": 10.3,
+      "fiberG": 1.9,
+      "assumptions": "1 medium onion ≈ 110g raw, sliced"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 lbs (907g) raw beef (lean stewing cut such as chuck, trimmed of excess visible fat)"
+    },
+    {
+      "position": 4,
+      "carbsG": 23.4,
+      "fiberG": 5.2,
+      "assumptions": "8 oz (227g) canned tomato puree, undrained"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 cup (237g) water contributes zero macros"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbs (45ml) olive oil, all oil is used in cooking"
+    },
+    {
+      "position": 7,
+      "carbsG": 1.3,
+      "fiberG": 0.4,
+      "assumptions": "1 thin slice of lemon ≈ 10g with peel, juice and pulp only contribute macros"
+    },
+    {
+      "position": 8,
+      "carbsG": 32.7,
+      "fiberG": 4.2,
+      "assumptions": "1 large potato ≈ 300g raw, peeled and cubed (edible portion)"
+    },
+    {
+      "position": 9,
+      "carbsG": 3.4,
+      "fiberG": 0.5,
+      "assumptions": "1/4 cup (60ml) regular soy sauce"
+    },
+    {
+      "position": 10,
+      "carbsG": 0.7,
+      "fiberG": 0.3,
+      "assumptions": "1/2 tsp (≈1g) ground black pepper"
+    },
+    {
+      "position": 11,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "2 bay leaves are used only for flavor/aroma; nutritional contribution cannot be reasonably estimated as they are typically removed before eating"
+    },
+    {
+      "position": 12,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Salt to taste; quantity unknown, contribution cannot be estimated"
+    }
+  ]
+}

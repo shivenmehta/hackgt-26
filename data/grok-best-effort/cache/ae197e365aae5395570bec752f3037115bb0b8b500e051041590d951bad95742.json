@@ -1,0 +1,541 @@
+{
+  "inputHash": "ae197e365aae5395570bec752f3037115bb0b8b500e051041590d951bad95742",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:01.361Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 36,
+      "per100g": {
+        "caloriesKcal": 553,
+        "proteinG": 18.1,
+        "fatG": 43.9,
+        "carbsG": 30.2,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 199.08,
+      "proteinG": 6.516,
+      "fatG": 15.803999999999998,
+      "carbsG": 10.872,
+      "fiberG": 1.188,
+      "assumptions": "12 whole cashews estimated at 3g each, typical size for raw cashews used in Indian recipes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 525,
+        "proteinG": 18,
+        "fatG": 36,
+        "carbsG": 28,
+        "fiberG": 10
+      },
+      "caloriesKcal": 26.25,
+      "proteinG": 0.9,
+      "fatG": 1.8,
+      "carbsG": 1.4,
+      "fiberG": 0.5,
+      "assumptions": "½ tbsp poppy seeds (khus khus) estimated at ~5g, standard volume-to-weight for small seeds.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 22,
+        "carbsG": 44,
+        "fiberG": 11
+      },
+      "caloriesKcal": 18.75,
+      "proteinG": 0.9,
+      "fatG": 1.1,
+      "carbsG": 2.2,
+      "fiberG": 0.55,
+      "assumptions": "½ tbsp cumin seeds estimated at ~5g, standard volume-to-weight for cumin seeds.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 330,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.2,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 132,
+      "proteinG": 3.630000000000001,
+      "fatG": 0.66,
+      "carbsG": 30.690000000000005,
+      "fiberG": 5.61,
+      "assumptions": "3 medium onions sliced thinly estimated at 110g each (raw weight), common for biryani base.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 3,
+        "fatG": 2,
+        "carbsG": 10,
+        "fiberG": 1
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.3,
+      "fatG": 0.2,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "2 tsp ginger-garlic paste estimated at 10g total, typical commercial or homemade paste density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 17.88,
+      "proteinG": 0.7680000000000001,
+      "fatG": 0.06,
+      "carbsG": 3.9720000000000004,
+      "fiberG": 0.252,
+      "assumptions": "4 whole garlic cloves estimated at 3g each, raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 44,
+        "proteinG": 3.3,
+        "fatG": 0.7,
+        "carbsG": 8.4,
+        "fiberG": 6.8
+      },
+      "caloriesKcal": 6.6,
+      "proteinG": 0.495,
+      "fatG": 0.105,
+      "carbsG": 1.26,
+      "fiberG": 1.02,
+      "assumptions": "Mint leaves 'to taste' estimated at 15g (a generous handful for layering and sauce in biryani for 4-6 servings).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.4
+      },
+      "caloriesKcal": 3.45,
+      "proteinG": 0.33,
+      "fatG": 0.075,
+      "carbsG": 0.555,
+      "fiberG": 0.36,
+      "assumptions": "Cilantro (coriander) leaves 'to taste' estimated at 15g (a generous handful for layering and sauce in biryani for 4-6 servings).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 310,
+        "proteinG": 6,
+        "fatG": 6,
+        "carbsG": 65,
+        "fiberG": 0
+      },
+      "caloriesKcal": 6.2,
+      "proteinG": 0.12,
+      "fatG": 0.12,
+      "carbsG": 1.3,
+      "fiberG": 0,
+      "assumptions": "½ tsp saffron threads (~1g) dissolved in ½ cup (120g) warm milk; total line estimated at 2g effective saffron contribution for nutrition (milk negligible in small amount but included in context); saffron is calorie dense.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 876,
+        "proteinG": 0.3,
+        "fatG": 99.5,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 245.28,
+      "proteinG": 0.084,
+      "fatG": 27.86,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp ghee estimated at 28g (standard 14g per tbsp).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 365,
+        "proteinG": 7.5,
+        "fatG": 0.6,
+        "carbsG": 80,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 1460,
+      "proteinG": 30,
+      "fatG": 2.4,
+      "carbsG": 320,
+      "fiberG": 6,
+      "assumptions": "2 cups uncooked basmati rice estimated at 200g per cup (standard dry weight).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 61,
+        "proteinG": 3.5,
+        "fatG": 3.3,
+        "carbsG": 4.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 73.2,
+      "proteinG": 4.2,
+      "fatG": 3.96,
+      "carbsG": 5.64,
+      "fiberG": 0,
+      "assumptions": "½ cup full-fat yogurt estimated at 120g (standard density).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 22,
+        "carbsG": 44,
+        "fiberG": 11
+      },
+      "caloriesKcal": 30,
+      "proteinG": 1.44,
+      "fatG": 1.76,
+      "carbsG": 3.52,
+      "fiberG": 0.88,
+      "assumptions": "1 tbsp cumin seeds (jeera) estimated at ~8g for boiling rice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 0.2,
+      "per100g": {
+        "caloriesKcal": 314,
+        "proteinG": 7.6,
+        "fatG": 8.2,
+        "carbsG": 56,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0.628,
+      "proteinG": 0.0152,
+      "fatG": 0.016399999999999998,
+      "carbsG": 0.11200000000000002,
+      "fiberG": 0,
+      "assumptions": "½ bay leaf estimated at 0.2g (very low weight, typical dried leaf fragment).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 2.2,
+        "carbsG": 81,
+        "fiberG": 53
+      },
+      "caloriesKcal": 4.94,
+      "proteinG": 0.08,
+      "fatG": 0.044000000000000004,
+      "carbsG": 1.62,
+      "fiberG": 1.06,
+      "assumptions": "1 thin piece cinnamon (approx. 2-inch stick) estimated at 2g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 274,
+        "proteinG": 6,
+        "fatG": 13,
+        "carbsG": 65,
+        "fiberG": 35
+      },
+      "caloriesKcal": 5.48,
+      "proteinG": 0.12,
+      "fatG": 0.26,
+      "carbsG": 1.3,
+      "fiberG": 0.7,
+      "assumptions": "3 whole cloves estimated at ~0.6g each, total 2g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 311,
+        "proteinG": 11,
+        "fatG": 7,
+        "carbsG": 68,
+        "fiberG": 28
+      },
+      "caloriesKcal": 3.11,
+      "proteinG": 0.11,
+      "fatG": 0.07,
+      "carbsG": 0.68,
+      "fiberG": 0.28,
+      "assumptions": "2 cardamom pods estimated at 0.5g each, total 1g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 20,
+        "fatG": 18,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1135,
+      "proteinG": 90.8,
+      "fatG": 81.72,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb (454g) raw boneless lamb, typical cut for biryani (shoulder/leg); raw weight used as cooking loss not subtracted per guidelines.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 19,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 12,
+        "fatG": 13,
+        "carbsG": 52,
+        "fiberG": 20
+      },
+      "caloriesKcal": 8.46,
+      "proteinG": 0.36,
+      "fatG": 0.39,
+      "carbsG": 1.56,
+      "fiberG": 0.6,
+      "assumptions": "1 tsp red chilli powder estimated at 3g (standard spice density).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 20,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 10,
+        "fatG": 10,
+        "carbsG": 50,
+        "fiberG": 15
+      },
+      "caloriesKcal": 24,
+      "proteinG": 0.8,
+      "fatG": 0.8,
+      "carbsG": 4,
+      "fiberG": 1.2,
+      "assumptions": "1 tbsp biryani masala estimated at 8g (standard blended spice powder density).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52805",
+    "name": "Lamb Biryani",
+    "cuisine": "Indian",
+    "instructions": "Grind the cashew, poppy seeds and cumin seeds into a smooth paste, using as little water as possible. Set aside. \r\n\r\nDeep fry the sliced onions when it is hot. Don’t overcrowd the oil. When the onions turn light brown, remove from oil and drain on paper towel. The fried onion will crisp up as it drains. Also fry the cashewnuts till golden brown. Set aside.\r\n\r\nWash the rice and soak in water for twenty minutes.\r\nMeanwhile, take a big wide pan, add oil in medium heat, add the sliced onions, add the blended paste, to it add the green chillies, ginger garlic paste and garlic and fry for a minute.\r\nThen add the tomatoes and sauté them well till they are cooked and not mushy.\r\n\r\nThen to it add the red chilli powder, biryani powder, mint, coriander leaves and sauté them well.\r\nAdd the yogurt and mix well. I always move the skillet away from the heat when adding yogurt which prevents it from curdling.\r\n\r\nNow after returning the skillet back to the stove, add the washed lamb and salt and ½ cup water and mix well. Cook for 1 hour and cook it covered in medium low heat or put it in a pressure cooker for 6 whistles. If the water is not drained totally, heat it by keeping it open.\r\n\r\nTake another big pan, add thrice the cup of rice you use, and boil it. When it is boiling high, add the rice, salt and jeera and mix well. After 7 minutes exact or when the rice is 80% done. Switch off and drain the rice.\r\n\r\nNow, the layering starts. To the lamb, pat and level it. Add the drained hot rice on the top of it. Garnish with fried onions, ghee, mint, coriander leaves and saffron dissolved in milk.\r\n\r\nCover the dish and bake in a 350f oven for 15 minutes or till the cooked but not mushy. Or cook in the stove medium heat for 12 minutes and lowest heat for 5 minutes. And switch off. Mix and serve hot!\r\nNotes\r\n1. If you are cooking in oven, do make sure to cook in a big oven safe pan and cover it tight and then keep in oven for the final step.\r\n2. You can skip biryani masala if you don’t have and add just garam masala (1 tsp and red chilli powder – 3 tsp instead of 1 tsp)\r\n3. If it is spicy in the end, squeeze some lemon, it will reduce the heat and enhance the flavors also.",
+    "ingredients": [
+      { "position": 1, "name": "Cashew nuts", "measurement": "12" },
+      { "position": 2, "name": "Khus khus", "measurement": "½ tbsp" },
+      { "position": 3, "name": "Cumin seeds", "measurement": "½ tbsp" },
+      { "position": 4, "name": "Onions", "measurement": "3 sliced thinly" },
+      { "position": 5, "name": "Ginger garlic paste", "measurement": "2 tsp" },
+      { "position": 6, "name": "Garlic", "measurement": "4 whole" },
+      { "position": 7, "name": "Mint", "measurement": "Leaves" },
+      { "position": 8, "name": "Cilantro", "measurement": "Leaves" },
+      {
+        "position": 9,
+        "name": "Saffron",
+        "measurement": "½ tsp dissolved in ½ cup warm milk"
+      },
+      { "position": 10, "name": "Ghee", "measurement": "2 tbsp" },
+      { "position": 11, "name": "Basmati rice", "measurement": "2 Cups" },
+      { "position": 12, "name": "Full fat yogurt", "measurement": "½ cup" },
+      { "position": 13, "name": "Cumin Seeds", "measurement": "1 tbsp" },
+      { "position": 14, "name": "Bay leaf", "measurement": "½" },
+      { "position": 15, "name": "Cinnamon", "measurement": "1 thin piece" },
+      { "position": 16, "name": "Cloves", "measurement": "3" },
+      { "position": 17, "name": "Cardamom", "measurement": "2" },
+      { "position": 18, "name": "Lamb", "measurement": "1 lb" },
+      { "position": 19, "name": "Red Chilli powder", "measurement": "1 tsp" },
+      { "position": 20, "name": "Biryani masala", "measurement": "1 tbsp" }
+    ]
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "inputHash": "5922df8133b8e1781dbb3656f8b84ac278be282c937f40599b08866e9c4c4397",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:50.551Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 76,
+        "proteinG": 8.1,
+        "fatG": 4.2,
+        "carbsG": 1.9,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 342,
+      "proteinG": 36.45,
+      "fatG": 18.9,
+      "carbsG": 8.55,
+      "fiberG": 4.05,
+      "assumptions": "Standard firm tofu, as typically used in mapo tofu; values reflect pressed/edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 254,
+        "proteinG": 17,
+        "fatG": 20,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 254,
+      "proteinG": 17,
+      "fatG": 20,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard 80/20 minced beef; raw weight as added to recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 7,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 61.88,
+      "proteinG": 0,
+      "fatG": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tablespoon sesame oil (approx 7g); used as marinade, full amount included.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 170,
+        "proteinG": 7,
+        "fatG": 9,
+        "carbsG": 8,
+        "fiberG": 3
+      },
+      "caloriesKcal": 13.6,
+      "proteinG": 0.56,
+      "fatG": 0.72,
+      "carbsG": 0.64,
+      "fiberG": 0.24,
+      "assumptions": "1.5 tsp doubanjiang (broad bean chili paste, approx 8g); typical fermented chili bean paste values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 240,
+        "proteinG": 14,
+        "fatG": 2,
+        "carbsG": 24,
+        "fiberG": 12
+      },
+      "caloriesKcal": 7.2,
+      "proteinG": 0.42,
+      "fatG": 0.06,
+      "carbsG": 0.72,
+      "fiberG": 0.36,
+      "assumptions": "1/2 tsp fermented black beans (douchi, approx 3g); values for salted fermented soybeans.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 12,
+        "fatG": 12,
+        "carbsG": 40,
+        "fiberG": 15
+      },
+      "caloriesKcal": 22.56,
+      "proteinG": 0.96,
+      "fatG": 0.96,
+      "carbsG": 3.2,
+      "fiberG": 1.2,
+      "assumptions": "1 tbs chili pepper flakes (approx 8g); typical crushed red pepper values used for 'pepper' in context of mapo tofu spice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp salt (approx 3g); used in multiple steps, total amount included; contributes negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 1.5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp ground Sichuan peppercorns (approx 1.5g); to-taste finishing spice, total amount included; negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.5,
+        "fatG": 0.1,
+        "carbsG": 5,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 7.95,
+      "proteinG": 0.825,
+      "fatG": 0.015,
+      "carbsG": 0.75,
+      "fiberG": 0.075,
+      "assumptions": "1 tbs light soy sauce (approx 15g); typical Chinese light soy values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "400ml water (400g); used in sauce, zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs olive oil (approx 28g); used for frying, full amount retained in estimate as typical for wok dish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 9.6,
+      "proteinG": 0.54,
+      "fatG": 0.06,
+      "carbsG": 2.19,
+      "fiberG": 0.78,
+      "assumptions": "2 scallions (approx 30g total); used as 'scallion white' in instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 19.2,
+      "proteinG": 1.08,
+      "fatG": 0.12,
+      "carbsG": 4.38,
+      "fiberG": 1.56,
+      "assumptions": "4 spring onions (approx 60g total); assumed as additional green parts/garnish, similar to scallions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.98,
+      "fiberG": 0.126,
+      "assumptions": "2 cloves garlic chopped (approx 6g); standard size cloves.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.8,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 6.4,
+      "proteinG": 0.14400000000000002,
+      "fatG": 0.055999999999999994,
+      "carbsG": 1.44,
+      "fiberG": 0.16,
+      "assumptions": "4 slices ginger (approx 8g); typical thin slices total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 38,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2.5 tbs water for cornstarch slurry (approx 38g); zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 91,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 30.48,
+      "proteinG": 0.024,
+      "fatG": 0.008,
+      "carbsG": 7.28,
+      "fiberG": 0.07200000000000001,
+      "assumptions": "1 tbs cornstarch (approx 8g); standard thickener values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52947",
+    "name": "Ma Po Tofu",
+    "cuisine": "Chinese",
+    "instructions": "Add a small pinch of salt and sesame oil to minced beef. Mix well and set aside.\r\nMix 1 tablespoon of cornstarch with 2 and ½ tablespoons of water in a small bowl to make water starch.\r\nCut tofu into square cubes (around 2cms). Bring a large amount of water to a boil and then add a pinch of salt. Slide the tofu in and cook for 1 minute. Move out and drain.\r\nGet a wok and heat up around 2 tablespoons of oil, fry the minced meat until crispy. Transfer out beef out and leave the oil in.\r\nFry doubanjiang for 1 minute over slow fire and then add garlic, scallion white, ginger and fermented black beans to cook for 30 seconds until aroma. Then mix pepper flakes in.\r\nAdd water to the seasonings and bring to boil over high fire. Gently slide the tofu cubes. Add light soy sauce and beef.Slow the heat after boiling and then simmer for 6-8 minutes. Then add chopped garlic greens.\r\nStir the water starch and then pour half of the mixture to the simmering pot. Wait for around 30 seconds and then pour the other half. You can slightly taste the tofu and add pinch of salt if not salty enough. By the way, if you feel it is too spicy, add some sugar can milder the taste. But be carefully as the broth is very hot at this point.\r\nTransfer out when almost all the seasonings stick to tofu cubes. Sprinkle Szechuan peppercorn powder (to taste)and chopped garlic greens if using.\r\nServe immediately with steamed rice.",
+    "ingredients": [
+      { "position": 1, "name": "Tofu", "measurement": "450g" },
+      { "position": 2, "name": "Minced Beef", "measurement": "100g" },
+      { "position": 3, "name": "Sesame Seed Oil", "measurement": "1/2 tbs" },
+      { "position": 4, "name": "Doubanjiang", "measurement": "1 1/2 tsp" },
+      {
+        "position": 5,
+        "name": "Fermented Black Beans",
+        "measurement": "1/2 tsp"
+      },
+      { "position": 6, "name": "Pepper", "measurement": "1 tbs" },
+      { "position": 7, "name": "Salt", "measurement": "1/2 tsp" },
+      { "position": 8, "name": "Sichuan pepper", "measurement": "1/2 tsp" },
+      { "position": 9, "name": "Soy Sauce", "measurement": "1 tbs" },
+      { "position": 10, "name": "Water", "measurement": "400ml" },
+      { "position": 11, "name": "Olive Oil", "measurement": "2 tbs" },
+      { "position": 12, "name": "Scallions", "measurement": "2 chopped" },
+      { "position": 13, "name": "Spring Onions", "measurement": "4" },
+      { "position": 14, "name": "Garlic", "measurement": "2 cloves chopped" },
+      { "position": 15, "name": "Ginger", "measurement": "4 sliced" },
+      { "position": 16, "name": "Water", "measurement": "2 1/2 tbs" },
+      { "position": 17, "name": "Cornstarch", "measurement": "1 tbs" }
+    ]
+  }
+}

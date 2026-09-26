@@ -1,0 +1,251 @@
+{
+  "inputHash": "3cea5f4b3bf7398a1da86138c734ced58f70f1375478c66cb4e970b299c7d292",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:25.809Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 408,
+      "per100g": {
+        "caloriesKcal": 64,
+        "proteinG": 3.3,
+        "fatG": 3.6,
+        "carbsG": 4.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 261.12,
+      "proteinG": 13.463999999999999,
+      "fatG": 14.687999999999999,
+      "carbsG": 19.584,
+      "fiberG": 0,
+      "assumptions": "Whole cow's milk; 400 ml converted using density ~1.02 g/ml; standard nutritional profile for full-fat milk.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 153,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 1.7,
+        "fatG": 37,
+        "carbsG": 2.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 520.2,
+      "proteinG": 2.6009999999999995,
+      "fatG": 56.61,
+      "carbsG": 4.131,
+      "fiberG": 0,
+      "assumptions": "Double (heavy) cream; 150 ml converted using density ~1.02 g/ml; typical UK double cream values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 4,
+        "fatG": 2,
+        "carbsG": 80,
+        "fiberG": 50
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.12,
+      "fatG": 0.06,
+      "carbsG": 2.4,
+      "fiberG": 1.5,
+      "assumptions": "One standard cinnamon stick (~3 g); contributes negligible macros after infusion and sieving; values approximated from dried cinnamon.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 1.5,
+        "fatG": 0.2,
+        "carbsG": 25,
+        "fiberG": 11
+      },
+      "caloriesKcal": 5.82,
+      "proteinG": 0.09,
+      "fatG": 0.012000000000000002,
+      "carbsG": 1.5,
+      "fiberG": 0.66,
+      "assumptions": "Zest from one medium orange (~6 g edible zest); standard orange peel nutritional values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 47,
+        "proteinG": 1.5,
+        "fatG": 0.3,
+        "carbsG": 16,
+        "fiberG": 11
+      },
+      "caloriesKcal": 1.88,
+      "proteinG": 0.06,
+      "fatG": 0.012,
+      "carbsG": 0.64,
+      "fiberG": 0.44,
+      "assumptions": "Zest from one medium lemon (~4 g edible zest); standard lemon peel nutritional values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 119,
+      "per100g": {
+        "caloriesKcal": 317,
+        "proteinG": 15.9,
+        "fatG": 26.5,
+        "carbsG": 3.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 377.23,
+      "proteinG": 18.921000000000003,
+      "fatG": 31.535,
+      "carbsG": 4.045999999999999,
+      "fiberG": 0,
+      "assumptions": "7 large egg yolks; average 17 g per yolk; standard raw egg yolk profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 387,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "White caster sugar; used in the custard base; pure sucrose values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 290.25,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 75,
+      "fiberG": 0,
+      "assumptions": "6 tablespoons caster sugar for caramelising tops (~12.5 g per tbsp); pure sucrose values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 91,
+        "fiberG": 2
+      },
+      "caloriesKcal": 171.45,
+      "proteinG": 0.135,
+      "fatG": 0.045,
+      "carbsG": 40.95,
+      "fiberG": 0.9,
+      "assumptions": "Cornflour (corn starch); standard dry cornflour nutritional profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53148",
+    "name": "Crema Catalana",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nPut the milk, cream, cinnamon stick and all the citrus zest in a saucepan set over a medium heat. Cook, stirring often, until the milk is just steaming but not boiling, about 3-5 mins. Remove from the heat, cover with a plate and leave to infuse for at least 30 mins.\r\n\r\nstep 2\r\nWhen the cream mixture has infused, whisk the egg yolks, sugar and cornflour together in a separate bowl for 3-5 mins, or until light and pale in colour. Pour the infused milk through a sieve into the egg mixture, whisking continuously. Return the mixture to the saucepan.\r\n\r\nstep 3\r\nPut the saucepan over a medium-high heat and whisk for around 10-12 mins. The mixture should start thickening to a custard-like consistency – you can tell it’s ready by dipping a wooden spoon in the mixture, then running a finger through the mixture on the back of the spoon. If the line holds, it's ready. Sieve the mixture into a jug to remove any froth.\r\n\r\nstep 4\r\nDivide the custard between six 150ml ramekins or small terracotta dishes, then leave to cool for 1 hr at room temperature until set with a slight wobble. Chill overnight.\r\n\r\nstep 5\r\nJust before serving, sprinkle 1 tbsp caster sugar over the top of each ramekin and caramelise using a kitchen blowtorch. Alternatively, slide the ramekins under a hot grill until the sugar turns golden and starts to bubble. Serve straightaway.",
+    "ingredients": [
+      { "position": 1, "name": "Milk", "measurement": "400ml" },
+      { "position": 2, "name": "Double Cream", "measurement": "150ml" },
+      { "position": 3, "name": "Cinnamon Stick", "measurement": "1" },
+      { "position": 4, "name": "Orange Zest", "measurement": "1" },
+      { "position": 5, "name": "Lemon Zest", "measurement": "1" },
+      { "position": 6, "name": "Egg Yolks", "measurement": "7" },
+      { "position": 7, "name": "Caster Sugar", "measurement": "100g" },
+      { "position": 8, "name": "Caster Sugar", "measurement": "6 tablespoons" },
+      { "position": 9, "name": "Corn Flour", "measurement": "45g" }
+    ]
+  }
+}

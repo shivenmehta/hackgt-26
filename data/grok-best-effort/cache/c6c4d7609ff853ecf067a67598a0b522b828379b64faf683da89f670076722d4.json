@@ -1,0 +1,307 @@
+{
+  "inputHash": "c6c4d7609ff853ecf067a67598a0b522b828379b64faf683da89f670076722d4",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:31:22.246Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 750,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1.3,
+        "fatG": 0.1,
+        "carbsG": 5.8,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 187.5,
+      "proteinG": 9.75,
+      "fatG": 0.75,
+      "carbsG": 43.5,
+      "fiberG": 18.75,
+      "assumptions": "6 large outer savoy cabbage leaves ~125g each raw weight; typical for Polish stuffed cabbage recipes",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "standard 2 tbsp olive oil = 27 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium chopped onion ~110 g raw",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 280,
+        "proteinG": 3.3,
+        "fatG": 6.7,
+        "carbsG": 46.7,
+        "fiberG": 26.7
+      },
+      "caloriesKcal": 8.4,
+      "proteinG": 0.09899999999999999,
+      "fatG": 0.201,
+      "carbsG": 1.4010000000000002,
+      "fiberG": 0.8009999999999999,
+      "assumptions": "2 tsp dried rosemary leaves ~3 g; typical dried herb density",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 16,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 3,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 6.4,
+      "proteinG": 0.28,
+      "fatG": 0.08,
+      "carbsG": 1.2,
+      "fiberG": 0.64,
+      "assumptions": "1 medium celery stalk chopped ~40 g raw",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 353,
+        "proteinG": 6.7,
+        "fatG": 0.6,
+        "carbsG": 78.1,
+        "fiberG": 1.3
+      },
+      "caloriesKcal": 494.2,
+      "proteinG": 9.38,
+      "fatG": 0.84,
+      "carbsG": 109.34,
+      "fiberG": 1.82,
+      "assumptions": "dry basmati rice weight as listed; uncooked state before boiling in instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 200,
+        "proteinG": 3.3,
+        "fatG": 1.7,
+        "carbsG": 44,
+        "fiberG": 6.7
+      },
+      "caloriesKcal": 280,
+      "proteinG": 4.62,
+      "fatG": 2.38,
+      "carbsG": 61.6,
+      "fiberG": 9.38,
+      "assumptions": "vacuum-packed pre-cooked chestnuts as listed; typical drained weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 46,
+        "proteinG": 0.4,
+        "fatG": 0.1,
+        "carbsG": 12.2,
+        "fiberG": 4.6
+      },
+      "caloriesKcal": 23,
+      "proteinG": 0.2,
+      "fatG": 0.05,
+      "carbsG": 6.1,
+      "fiberG": 2.3,
+      "assumptions": "dried cranberries (common in stuffing); 50 g as listed",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 5,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 15,
+      "proteinG": 0.3,
+      "fatG": 0,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "standard vegetable stock from bouillon; 300 ml ≈ 300 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 88,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 17,
+        "fiberG": 0
+      },
+      "caloriesKcal": 13.2,
+      "proteinG": 0.015,
+      "fatG": 0,
+      "carbsG": 2.55,
+      "fiberG": 0,
+      "assumptions": "1 tbsp balsamic vinegar ≈ 15 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 7,
+      "per100g": {
+        "caloriesKcal": 304,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 82.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 21.28,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 5.768000000000001,
+      "fiberG": 0,
+      "assumptions": "1 tsp clear honey ≈ 7 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53305",
+    "name": "Braised stuffed cabbage",
+    "cuisine": "Polish",
+    "instructions": "step 1\r\nHeat oven to 180C/fan 160C/gas 4. Remove the tough central stalk from the cabbage leaves. Bring a large pan of salted water to the boil, add the cabbage, then cook for just 1-2 mins until the leaves are starting to wilt. Drain and refresh under cold running water. Drain well, then pat dry with a tea towel.\r\n\r\nstep 2\r\nHeat the oil in a pan, add the onion, then fry for 5 mins until slightly browned. Add the rosemary and celery, then cook for 8 mins more. Stir in the rice, then cook for a min or so until the grains are glistening. Remove from the heat, stir in the chestnuts and cranberries, then season.\r\n\r\nstep 3\r\nSpoon a little stuffing onto a cabbage leaf, roll up and fold in the sides to enclose the filling. Put in a single layer in a large, oiled, shallow ovenproof dish with the join underneath. Fill the remaining leaves in the same way. Mix the stock, vinegar and honey, then pour over the cabbage. Cover the dish tightly with foil, bake for 1 hr, uncover, then cook for a further 15 mins.",
+    "ingredients": [
+      { "position": 1, "name": "Cabbage Leaves", "measurement": "6 large" },
+      { "position": 2, "name": "Olive Oil", "measurement": "2 tablespoons" },
+      { "position": 3, "name": "Onion", "measurement": "1 chopped" },
+      { "position": 4, "name": "Rosemary", "measurement": "2 tsp" },
+      { "position": 5, "name": "Celery", "measurement": "1 chopped" },
+      { "position": 6, "name": "Basmati Rice", "measurement": "140g" },
+      { "position": 7, "name": "Cooked Chestnut", "measurement": "140g" },
+      { "position": 8, "name": "Cranberry", "measurement": "50g" },
+      { "position": 9, "name": "Vegetable Stock", "measurement": "300ml" },
+      {
+        "position": 10,
+        "name": "Balsamic Vinegar",
+        "measurement": "1 tablespoon"
+      },
+      { "position": 11, "name": "Clear Honey", "measurement": "1 tsp" }
+    ]
+  }
+}

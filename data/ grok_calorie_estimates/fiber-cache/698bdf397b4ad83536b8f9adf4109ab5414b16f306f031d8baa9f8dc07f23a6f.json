@@ -1,0 +1,87 @@
+{
+  "inputHash": "698bdf397b4ad83536b8f9adf4109ab5414b16f306f031d8baa9f8dc07f23a6f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:15.854Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 6,
+      "fiberG": 2,
+      "assumptions": "1.5 tbsp ≈ 24 g; typical Thai red curry paste values"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp vegetable oil = 4.5 g pure fat/oil"
+    },
+    {
+      "position": 3,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "1 L vegetable stock ≈ 1 kg; typical low-calorie stock values"
+    },
+    {
+      "position": 4,
+      "carbsG": 14,
+      "fiberG": 0,
+      "assumptions": "400 ml full-fat coconut milk ≈ 390 g; standard canned values"
+    },
+    {
+      "position": 5,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "2 tsp brown sugar ≈ 8 g"
+    },
+    {
+      "position": 6,
+      "carbsG": 126,
+      "fiberG": 6,
+      "assumptions": "175 g dry egg noodles (standard dried weight before cooking)"
+    },
+    {
+      "position": 7,
+      "carbsG": 12,
+      "fiberG": 3.6,
+      "assumptions": "2 medium carrots ≈ 120 g raw, peeled"
+    },
+    {
+      "position": 8,
+      "carbsG": 12,
+      "fiberG": 6,
+      "assumptions": "1/2 Chinese leaf (napa cabbage) ≈ 300 g raw edible portion"
+    },
+    {
+      "position": 9,
+      "carbsG": 6,
+      "fiberG": 3,
+      "assumptions": "150 g fresh bean sprouts (mung bean)"
+    },
+    {
+      "position": 10,
+      "carbsG": 5,
+      "fiberG": 1.5,
+      "assumptions": "6 cherry tomatoes ≈ 100 g raw"
+    },
+    {
+      "position": 11,
+      "carbsG": 4,
+      "fiberG": 0.5,
+      "assumptions": "juice of 1 lime ≈ 30 g; typical values"
+    },
+    {
+      "position": 12,
+      "carbsG": 3,
+      "fiberG": 1.2,
+      "assumptions": "3 spring onions ≈ 45 g raw, sliced"
+    },
+    {
+      "position": 13,
+      "carbsG": 0.5,
+      "fiberG": 0.4,
+      "assumptions": "handful fresh coriander ≈ 10 g"
+    }
+  ]
+}

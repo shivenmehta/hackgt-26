@@ -1,0 +1,359 @@
+{
+  "inputHash": "114509ae7d556de57c157ff69c8661ed2182518f1e262d65ea4727dac6985d2f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:43.939Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 4.8,
+      "proteinG": 0.12,
+      "fatG": 0.041999999999999996,
+      "carbsG": 1.08,
+      "fiberG": 0.12,
+      "assumptions": "1 tbsp chopped ginger is approximately 6g; using typical fresh ginger values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.98,
+      "fiberG": 0.126,
+      "assumptions": "2 chopped garlic cloves total ~6g; standard garlic nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 99,
+        "proteinG": 1.8,
+        "fatG": 0.4,
+        "carbsG": 25.3,
+        "fiberG": 13.1
+      },
+      "caloriesKcal": 14.85,
+      "proteinG": 0.27,
+      "fatG": 0.06,
+      "carbsG": 3.795,
+      "fiberG": 1.965,
+      "assumptions": "3 lemongrass stalks trimmed and chopped for puree total ~15g; typical edible portion values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 1.84,
+      "proteinG": 0.17600000000000002,
+      "fatG": 0.04,
+      "carbsG": 0.29600000000000004,
+      "fiberG": 0.22399999999999998,
+      "assumptions": "2 tbsp coriander leaves ~8g; standard fresh cilantro/leaf nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 9.1,
+        "fiberG": 1.4
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.57,
+      "fatG": 0.12,
+      "carbsG": 2.73,
+      "fiberG": 0.42,
+      "assumptions": "2 sliced red chillies total ~30g (medium size); typical fresh red chilli values. Half used in puree, half for garnish but full amount listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp vegetable oil ~28g; standard vegetable oil nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 26,
+        "fatG": 15,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 625,
+      "proteinG": 65,
+      "fatG": 37.5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "250g raw beef (stewing cut implied); typical raw beef values adjusted for ~15% fat content common in Asian stews.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.5,
+        "fatG": 0.1,
+        "carbsG": 7.8,
+        "fiberG": 0.6
+      },
+      "caloriesKcal": 15.9,
+      "proteinG": 1.65,
+      "fatG": 0.03,
+      "carbsG": 2.34,
+      "fiberG": 0.18,
+      "assumptions": "2 tbsp soy sauce ~30g; standard soy sauce nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 8,
+        "fatG": 12,
+        "carbsG": 60,
+        "fiberG": 15
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.16,
+      "fatG": 0.24,
+      "carbsG": 1.2,
+      "fiberG": 0.3,
+      "assumptions": "1 tsp five-spice powder ~2g; typical spice blend nutrition with carbs from star anise/cinnamon.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 15.2,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 3.92,
+      "fiberG": 0,
+      "assumptions": "1 tsp brown sugar ~4g; standard brown sugar values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 0.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 28,
+      "proteinG": 4,
+      "fatG": 0.8,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "400ml beef stock ~400g; typical low-calorie prepared beef stock/broth nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 8,
+        "fatG": 1.5,
+        "carbsG": 80,
+        "fiberG": 2
+      },
+      "caloriesKcal": 364,
+      "proteinG": 8,
+      "fatG": 1.5,
+      "carbsG": 80,
+      "fiberG": 2,
+      "assumptions": "100g dry rice noodles; standard uncooked rice noodle values (prepared per pack instructions but dry weight given).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 15,
+      "proteinG": 0.35,
+      "fatG": 0.1,
+      "carbsG": 5.25,
+      "fiberG": 1.4,
+      "assumptions": "1 lime to serve (juice + wedges) estimated at 50g edible portion; typical lime nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53211",
+    "name": "Lemongrass beef stew with noodles",
+    "cuisine": "Thai",
+    "instructions": "step 1\r\nPut the ginger, garlic, lemongrass, coriander and 1 chilli in a food processor, then pulse until puréed. Heat the oil in a pan over a low heat. Add the purée and cook for 5 mins. Stir in the beef, soy, five-spice, sugar and stock. Put on a lid and bring to the boil, then lower heat and simmer for 1 hr 15 mins. Remove the lid and cook for a further 15 mins until the beef is tender.\r\n\r\nstep 2\r\nJust before serving, prepare noodles following pack instructions. Drain well, then divide between 2 bowls and spoon over the beef stew. Serve sprinkled with the remaining chilli and coriander leaves, with lime wedges for squeezing over.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Ginger",
+        "measurement": "1 tablespoon chopped"
+      },
+      { "position": 2, "name": "Garlic Clove", "measurement": "2 chopped" },
+      { "position": 3, "name": "Lemongrass Stalks", "measurement": "3" },
+      { "position": 4, "name": "Coriander Leaves", "measurement": "2 tblsp" },
+      { "position": 5, "name": "Red Chilli", "measurement": "2 sliced" },
+      { "position": 6, "name": "Vegetable Oil", "measurement": "2 tblsp" },
+      { "position": 7, "name": "Beef", "measurement": "250g" },
+      { "position": 8, "name": "Soy Sauce", "measurement": "2 tblsp" },
+      { "position": 9, "name": "Five Spice Powder", "measurement": "1 tsp" },
+      { "position": 10, "name": "Brown Sugar", "measurement": "1 tsp" },
+      { "position": 11, "name": "Beef Stock", "measurement": "400ml" },
+      { "position": 12, "name": "Rice Noodles", "measurement": "100g" },
+      { "position": 13, "name": "Lime", "measurement": "To serve" }
+    ]
+  }
+}

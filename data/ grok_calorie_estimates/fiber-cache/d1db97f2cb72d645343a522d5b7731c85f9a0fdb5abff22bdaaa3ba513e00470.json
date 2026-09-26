@@ -1,0 +1,99 @@
+{
+  "inputHash": "d1db97f2cb72d645343a522d5b7731c85f9a0fdb5abff22bdaaa3ba513e00470",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:23.763Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp olive oil = 14 g; pure fat, no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 rashers streaky bacon ~40 g total; plain cured meat, negligible carbs"
+    },
+    {
+      "position": 3,
+      "carbsG": 9.7,
+      "fiberG": 1.8,
+      "assumptions": "1 medium onion finely chopped = 110 g; standard onion carb values"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.6,
+      "fiberG": 0.8,
+      "assumptions": "1 celery stick = 40 g; standard celery carb values"
+    },
+    {
+      "position": 5,
+      "carbsG": 5.8,
+      "fiberG": 1.7,
+      "assumptions": "1 medium carrot = 60 g; standard carrot carb values"
+    },
+    {
+      "position": 6,
+      "carbsG": 1.8,
+      "fiberG": 0.1,
+      "assumptions": "2 garlic cloves chopped = 6 g; standard garlic carb values"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "500 g raw minced beef (20% fat); pure meat, no carbohydrates"
+    },
+    {
+      "position": 8,
+      "carbsG": 2.6,
+      "fiberG": 0.6,
+      "assumptions": "1 tbsp tomato puree = 16 g; standard tomato paste carb values"
+    },
+    {
+      "position": 9,
+      "carbsG": 32,
+      "fiberG": 8,
+      "assumptions": "800 g canned chopped tomatoes + ~400 ml rinse water; based on ~4 g carbs/100 g tomatoes"
+    },
+    {
+      "position": 10,
+      "carbsG": 17,
+      "fiberG": 0,
+      "assumptions": "1 tbsp honey = 21 g; standard honey carb values (all sugars)"
+    },
+    {
+      "position": 11,
+      "carbsG": 360,
+      "fiberG": 15,
+      "assumptions": "500 g dry lasagne sheets; standard dry durum wheat pasta ~72 g carbs/100 g with ~3 g fiber/100 g"
+    },
+    {
+      "position": 12,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "400 ml crème fraîche (full-fat); ~3 g carbs/100 ml, fiber negligible"
+    },
+    {
+      "position": 13,
+      "carbsG": 2.4,
+      "fiberG": 0,
+      "assumptions": "125 g mozzarella balls; ~1.9 g carbs/100 g, fiber negligible"
+    },
+    {
+      "position": 14,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "50 g grated parmesan cheese; ~4 g carbs/100 g, fiber negligible"
+    },
+    {
+      "position": 15,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Basil leaves as topping; quantity not specified, cannot reasonably estimate total carbs/fiber"
+    }
+  ]
+}

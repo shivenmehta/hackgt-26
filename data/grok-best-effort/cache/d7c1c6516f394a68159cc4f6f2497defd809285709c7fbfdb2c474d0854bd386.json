@@ -1,0 +1,251 @@
+{
+  "inputHash": "d7c1c6516f394a68159cc4f6f2497defd809285709c7fbfdb2c474d0854bd386",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:35.127Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 40.5,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 358.02,
+      "proteinG": 0,
+      "fatG": 40.5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbsp olive oil using standard 13.5 g per tbsp; pure oil values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion, chopped, raw edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 average garlic cloves, raw, peeled",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 61,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 25.01,
+      "proteinG": 0.5489999999999999,
+      "fatG": 0.12200000000000001,
+      "carbsG": 5.856,
+      "fiberG": 1.7079999999999997,
+      "assumptions": "1 medium carrot, chopped, raw edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 414,
+      "per100g": {
+        "caloriesKcal": 352,
+        "proteinG": 25.8,
+        "fatG": 1.1,
+        "carbsG": 63.4,
+        "fiberG": 10.7
+      },
+      "caloriesKcal": 1457.28,
+      "proteinG": 106.81200000000001,
+      "fatG": 4.554,
+      "carbsG": 262.476,
+      "fiberG": 44.297999999999995,
+      "assumptions": "2 1/4 cups dry French (Puy) lentils using 184 g per cup; typical dry legume density and raw nutrient profile",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 101,
+        "proteinG": 5.6,
+        "fatG": 2.7,
+        "carbsG": 24.5,
+        "fiberG": 13.7
+      },
+      "caloriesKcal": 1.01,
+      "proteinG": 0.055999999999999994,
+      "fatG": 0.027000000000000003,
+      "carbsG": 0.245,
+      "fiberG": 0.13699999999999998,
+      "assumptions": "1 tsp dried thyme leaves; standard teaspoon weight and herb nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 bay leaves; negligible edible weight and contribution after cooking/removal",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 18,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp table salt; standard 18 g per tbsp, zero macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 16,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 3,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 12.8,
+      "proteinG": 0.56,
+      "fatG": 0.16,
+      "carbsG": 2.4,
+      "fiberG": 1.28,
+      "assumptions": "2 medium celery sticks, chopped, raw edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52815",
+    "name": "French Lentils With Garlic and Thyme",
+    "cuisine": "French",
+    "instructions": "Place a large saucepan over medium heat and add oil. When hot, add chopped vegetables and sauté until softened, 5 to 10 minutes.\r\nAdd 6 cups water, lentils, thyme, bay leaves and salt. Bring to a boil, then reduce to a fast simmer.\r\nSimmer lentils until they are tender and have absorbed most of the water, 20 to 25 minutes. If necessary, drain any excess water after lentils have cooked. Serve immediately, or allow them to cool and reheat later.\r\nFor a fuller taste, use some chicken stock and reduce the water by the same amount.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "3 tablespoons" },
+      { "position": 2, "name": "Onion", "measurement": "1" },
+      { "position": 3, "name": "Garlic", "measurement": "2 cloves" },
+      { "position": 4, "name": "Carrots", "measurement": "1" },
+      { "position": 5, "name": "French Lentils", "measurement": "2 1/4 cups" },
+      { "position": 6, "name": "Thyme", "measurement": "1 teaspoon" },
+      { "position": 7, "name": "Bay Leaf", "measurement": "3" },
+      { "position": 8, "name": "Salt", "measurement": "1 tablespoon" },
+      { "position": 9, "name": "Celery", "measurement": "2 sticks" }
+    ]
+  }
+}

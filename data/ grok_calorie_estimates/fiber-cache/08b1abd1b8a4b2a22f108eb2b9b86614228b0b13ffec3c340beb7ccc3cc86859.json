@@ -1,0 +1,39 @@
+{
+  "inputHash": "08b1abd1b8a4b2a22f108eb2b9b86614228b0b13ffec3c340beb7ccc3cc86859",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:49.194Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Plain water contributes zero carbohydrates or fiber."
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt contributes zero carbohydrates or fiber."
+    },
+    {
+      "position": 3,
+      "carbsG": 182,
+      "fiberG": 6.5,
+      "assumptions": "2 cups (250g) uncooked all-purpose flour using prior weight; standard ~73g carbs and ~2.6g fiber per cup (USDA)."
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt contributes zero carbohydrates or fiber."
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Plain water contributes zero carbohydrates or fiber."
+    }
+  ]
+}

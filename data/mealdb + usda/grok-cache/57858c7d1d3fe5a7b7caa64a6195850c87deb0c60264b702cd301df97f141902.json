@@ -1,0 +1,39 @@
+{
+  "inputHash": "57858c7d1d3fe5a7b7caa64a6195850c87deb0c60264b702cd301df97f141902",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:06.489Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 300,
+      "caloriesPer100g": 106,
+      "assumptions": "Standard boneless skinless chicken breast is ~150g each; using 2 breasts gives 300g total edible portion. Known cal value copied exactly."
+    },
+    {
+      "position": 2,
+      "grams": 30,
+      "caloriesPer100g": 150,
+      "assumptions": "1 tblsp Thai red curry paste ≈15g; 2 tblsp = 30g. Typical calorie density for commercial Thai red curry paste is ~150 kcal/100g."
+    },
+    {
+      "position": 4,
+      "grams": 150,
+      "caloriesPer100g": 31.3,
+      "assumptions": "Medium red pepper ≈150g when chopped (edible portion after deseeding). Known cal value copied exactly."
+    },
+    {
+      "position": 5,
+      "grams": 200,
+      "caloriesPer100g": 19,
+      "assumptions": "Medium courgette/zucchini ≈200g when chopped (edible portion). Known cal value copied exactly."
+    },
+    {
+      "position": 7,
+      "grams": 50,
+      "caloriesPer100g": 30,
+      "assumptions": "1 lime to serve ≈50g edible wedge/portion. Known cal value copied exactly."
+    }
+  ]
+}

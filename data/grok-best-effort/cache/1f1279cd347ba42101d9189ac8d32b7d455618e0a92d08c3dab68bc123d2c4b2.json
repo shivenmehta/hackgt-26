@@ -1,0 +1,173 @@
+{
+  "inputHash": "1f1279cd347ba42101d9189ac8d32b7d455618e0a92d08c3dab68bc123d2c4b2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:30:32.829Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 110,
+        "proteinG": 7.6,
+        "fatG": 0.7,
+        "carbsG": 19.7,
+        "fiberG": 7.5
+      },
+      "caloriesKcal": 440,
+      "proteinG": 30.4,
+      "fatG": 2.8,
+      "carbsG": 78.8,
+      "fiberG": 30,
+      "assumptions": "2 cups dry fava/broad beans (typical 200 g per cup for dry legumes); assumes dried state before cooking as per recipe context of long simmering; values for cooked would be lower density but recipe starts with dry measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.8,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 7.2,
+      "proteinG": 0.6,
+      "fatG": 0.16,
+      "carbsG": 1.26,
+      "fiberG": 0.66,
+      "assumptions": "1/3 cup chopped fresh parsley; typical 10 g per 1/4 cup loosely packed, scaled up; recipe uses as garnish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 132.6,
+      "proteinG": 0,
+      "fatG": 15,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Dash of extra-virgin olive oil for dressing; estimated 1 tablespoon (13-15 g) plausible amount passed around for multiple servings in this context.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 87,
+      "proteinG": 3.3,
+      "fatG": 0.9,
+      "carbsG": 27.9,
+      "fiberG": 8.4,
+      "assumptions": "3 whole lemons (quartered for dressing); average medium lemon ~100 g each with peel, but edible portion only; values reflect whole fruit including some peel as typically used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.4,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 17.88,
+      "proteinG": 0.7680000000000001,
+      "fatG": 0.04800000000000001,
+      "carbsG": 3.9720000000000004,
+      "fiberG": 0.252,
+      "assumptions": "4 garlic cloves, crushed; average clove 3 g each, total 12 g; standard raw garlic values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 17.8,
+        "fatG": 22.3,
+        "carbsG": 44.2,
+        "fiberG": 10.5
+      },
+      "caloriesKcal": 18.75,
+      "proteinG": 0.89,
+      "fatG": 1.115,
+      "carbsG": 2.21,
+      "fiberG": 0.525,
+      "assumptions": "Sprinkling of ground cumin; estimated 1 teaspoon (~5 g) as a plausible recipe-specific amount for the table dressing.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53025",
+    "name": "Ful Medames",
+    "cuisine": "Egyptian",
+    "instructions": "As the cooking time varies depending on the quality and age of the beans, it is good to cook them in advance and to reheat them when you are ready to serve. Cook the drained beans in a fresh portion of unsalted water in a large saucepan with the lid on until tender, adding water to keep them covered, and salt when the beans have softened. They take 2–2 1/2 hours of gentle simmering. When the beans are soft, let the liquid reduce. It is usual to take out a ladle or two of the beans and to mash them with some of the cooking liquid, then stir this back into the beans. This is to thicken the sauce.\r\nServe the beans in soup bowls sprinkled with chopped parsley and accompanied by Arab bread.\r\nPass round the dressing ingredients for everyone to help themselves: a bottle of extra-virgin olive oil, the quartered lemons, salt and pepper, a little saucer with the crushed garlic, one with chili-pepper flakes, and one with ground cumin.\r\nThe beans are eaten gently crushed with the fork, so that they absorb the dressing.\r\nOptional Garnishes\r\nPeel hard-boiled eggs—1 per person—to cut up in the bowl with the beans.\r\nTop the beans with a chopped cucumber-and-tomato salad and thinly sliced mild onions or scallions. Otherwise, pass round a good bunch of scallions and quartered tomatoes and cucumbers cut into sticks.\r\nServe with tahina cream sauce (page 65) or salad (page 67), with pickles and sliced onions soaked in vinegar for 30 minutes.\r\nAnother way of serving ful medames is smothered in a garlicky tomato sauce (see page 464).\r\nIn Syria and Lebanon, they eat ful medames with yogurt or feta cheese, olives, and small cucumbers.\r\nVariations\r\nA traditional way of thickening the sauce is to throw a handful of red lentils (1/4 cup) into the water at the start of the cooking.\r\nIn Iraq, large brown beans are used instead of the small Egyptian ones, in a dish called badkila, which is also sold for breakfast in the street.",
+    "ingredients": [
+      { "position": 1, "name": "Broad Beans", "measurement": "2 cups" },
+      { "position": 2, "name": "Parsley", "measurement": "1/3 cup" },
+      { "position": 3, "name": "Olive Oil", "measurement": "Dash" },
+      { "position": 4, "name": "Lemons", "measurement": "3" },
+      { "position": 5, "name": "Garlic Clove", "measurement": "4" },
+      { "position": 6, "name": "Cumin", "measurement": "Sprinking" }
+    ]
+  }
+}

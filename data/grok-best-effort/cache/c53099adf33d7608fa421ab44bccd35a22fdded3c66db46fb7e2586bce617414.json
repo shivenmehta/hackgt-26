@@ -1,0 +1,277 @@
+{
+  "inputHash": "c53099adf33d7608fa421ab44bccd35a22fdded3c66db46fb7e2586bce617414",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:31.377Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 720,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 50.4,
+      "proteinG": 6.48,
+      "fatG": 1.44,
+      "carbsG": 3.6,
+      "fiberG": 0,
+      "assumptions": "3 US cups commercial chicken broth/stock; ~240 g per cup; low-fat, lightly salted typical values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 1.5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp table salt; negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 3.87,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp granulated sugar; ~4 kcal total.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 0.3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "pinch of white pepper; ~0.3 g estimated, negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 4.5,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 39.78,
+      "proteinG": 0,
+      "fatG": 4.5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp sesame oil; typical density ~0.92 g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 81,
+        "proteinG": 5.4,
+        "fatG": 0.4,
+        "carbsG": 14.5,
+        "fiberG": 5
+      },
+      "caloriesKcal": 40.5,
+      "proteinG": 2.7,
+      "fatG": 0.2,
+      "carbsG": 7.25,
+      "fiberG": 2.5,
+      "assumptions": "1/3 cup frozen green peas; ~50 g typical; values for cooked peas.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 35,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 3.1,
+        "fatG": 0.5,
+        "carbsG": 3.3,
+        "fiberG": 1
+      },
+      "caloriesKcal": 7.7,
+      "proteinG": 1.085,
+      "fatG": 0.175,
+      "carbsG": 1.155,
+      "fiberG": 0.35,
+      "assumptions": "1/3 cup sliced fresh mushrooms (e.g. button or shiitake); ~35 g; added raw then cooked in soup.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 91,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 30.48,
+      "proteinG": 0.024,
+      "fatG": 0.008,
+      "carbsG": 7.28,
+      "fiberG": 0.07200000000000001,
+      "assumptions": "1 tablespoon cornstarch; ~8 g typical.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons tap water; negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.45,
+      "fatG": 0.05,
+      "carbsG": 1.825,
+      "fiberG": 0.65,
+      "assumptions": "1/4 cup chopped spring/green onions; ~25 g; added raw as garnish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52955",
+    "name": "Egg Drop Soup",
+    "cuisine": "Chinese",
+    "instructions": "In a wok add chicken broth and wait for it to boil.\r\nNext add salt, sugar, white pepper, sesame seed oil.\r\nWhen the chicken broth is boiling add the vegetables to the wok.\r\nTo thicken the sauce, whisk together 1 Tablespoon of cornstarch and 2 Tablespoon of water in a bowl and slowly add to your soup until it's the right thickness.\r\nNext add 1 egg slightly beaten with a knife or fork and add it to the soup slowly and stir for 8 seconds\r\nServe the soup in a bowl and add the green onions on top.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken Stock", "measurement": "3 cups" },
+      { "position": 2, "name": "Salt", "measurement": "1/4 tsp" },
+      { "position": 3, "name": "Sugar", "measurement": "1/4 tsp" },
+      { "position": 4, "name": "Pepper", "measurement": "pinch" },
+      { "position": 5, "name": "Sesame Seed Oil", "measurement": "1 tsp" },
+      { "position": 6, "name": "Peas", "measurement": "1/3 cup" },
+      { "position": 7, "name": "Mushrooms", "measurement": "1/3 cup" },
+      { "position": 8, "name": "Cornstarch", "measurement": "1 tbs" },
+      { "position": 9, "name": "Water", "measurement": "2 tbs" },
+      { "position": 10, "name": "Spring Onions", "measurement": "1/4 cup" }
+    ]
+  }
+}

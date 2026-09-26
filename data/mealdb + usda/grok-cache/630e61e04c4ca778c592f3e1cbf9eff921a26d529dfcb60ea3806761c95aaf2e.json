@@ -1,0 +1,69 @@
+{
+  "inputHash": "630e61e04c4ca778c592f3e1cbf9eff921a26d529dfcb60ea3806761c95aaf2e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:22.661Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 340,
+      "caloriesPer100g": 83.4,
+      "assumptions": "2 medium sweet potatoes estimated at ~170g each (edible flesh only; typical for recipe wedges)."
+    },
+    {
+      "position": 4,
+      "grams": 67,
+      "caloriesPer100g": 30,
+      "assumptions": "1 average lime, whole weight ~100-110g but adjusted to ~67g typical edible/juiced portion (pulp/juice)."
+    },
+    {
+      "position": 5,
+      "grams": 100,
+      "caloriesPer100g": 266,
+      "assumptions": "2 standard hamburger buns estimated at ~50g each (edible portion)."
+    },
+    {
+      "position": 7,
+      "grams": 60,
+      "caloriesPer100g": 120,
+      "assumptions": "Standard BBQ sauce usage in sloppy joe recipes for 4 servings (2-3 tbsp total ~30-45g; scaled modestly for 2 servings); typical bottled BBQ ~120 kcal/100g. Estimate only as measurement null."
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "caloriesPer100g": 21,
+      "assumptions": "Modest 'to taste' amount for hot sauce (few dashes ~5g total for recipe)."
+    },
+    {
+      "position": 9,
+      "grams": 45,
+      "caloriesPer100g": 101,
+      "assumptions": "3 TBSP ketchup for 2 servings (~15g per tbsp); total 45g as specified in step 5."
+    },
+    {
+      "position": 10,
+      "grams": 6,
+      "caloriesPer100g": 385,
+      "assumptions": "Total sugar: ¼ tsp in pickle (~1g) + ½ tsp in sauce (~2.5g) scaled for 2 servings; ~6g total."
+    },
+    {
+      "position": 11,
+      "grams": 15,
+      "caloriesPer100g": 884,
+      "assumptions": "Modest total oil for drizzling on potatoes (~1 tbsp) + pan drizzle (~2 tsp); ~15ml/13-15g for entire recipe."
+    },
+    {
+      "position": 12,
+      "grams": 3,
+      "caloriesPer100g": 0,
+      "assumptions": "Modest total 'to taste' + seasoning salt for entire recipe (~3g)."
+    },
+    {
+      "position": 13,
+      "grams": 2,
+      "caloriesPer100g": 251,
+      "assumptions": "Modest total 'to taste' + seasoning pepper for entire recipe (~2g)."
+    }
+  ]
+}

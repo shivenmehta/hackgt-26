@@ -1,0 +1,99 @@
+{
+  "inputHash": "fb1eb13301b9099917b329d4f9f7018b0a3387e3925421f5ae3ef19a5ea6dc1a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:24.517Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 kg raw beef braising steak: no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 12,
+      "fiberG": 0.4,
+      "assumptions": "2 tbs plain white flour (≈16 g from prior estimate)"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs rapeseed oil: pure fat, no carbs"
+    },
+    {
+      "position": 4,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "200 ml red wine (≈0.8 g carbs/30 ml typical dry red)"
+    },
+    {
+      "position": 5,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "400 ml beef stock from concentrate (≈1 g carbs/100 ml typical)"
+    },
+    {
+      "position": 6,
+      "carbsG": 10,
+      "fiberG": 1.9,
+      "assumptions": "1 medium onion (≈110 g from prior estimate), raw"
+    },
+    {
+      "position": 7,
+      "carbsG": 12.5,
+      "fiberG": 3.7,
+      "assumptions": "2 medium carrots (≈120 g from prior estimate), raw"
+    },
+    {
+      "position": 8,
+      "carbsG": 0.6,
+      "fiberG": 0.3,
+      "assumptions": "3 thyme sprigs (≈5 g leaves)"
+    },
+    {
+      "position": 9,
+      "carbsG": 3,
+      "fiberG": 1.5,
+      "assumptions": "2 tbs mustard (≈30 g from prior estimate), typical wholegrain/Dijon"
+    },
+    {
+      "position": 10,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "2 large egg yolks (≈34 g from prior estimate): trace carbs"
+    },
+    {
+      "position": 11,
+      "carbsG": 120,
+      "fiberG": 4,
+      "assumptions": "400 g puff pastry (typical 30 g carbs/100 g)"
+    },
+    {
+      "position": 12,
+      "carbsG": 21,
+      "fiberG": 10.5,
+      "assumptions": "300 g green beans, trimmed (7 g carbs/100 g raw)"
+    },
+    {
+      "position": 13,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "25 g butter: no carbs"
+    },
+    {
+      "position": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "pinch of salt: no carbs"
+    },
+    {
+      "position": 15,
+      "carbsG": 0.2,
+      "fiberG": 0.1,
+      "assumptions": "pinch of pepper (≈0.5 g): negligible carbs"
+    }
+  ]
+}

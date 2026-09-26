@@ -1,0 +1,57 @@
+{
+  "inputHash": "58151f932c31416b82c7748378d8a39128689509643e4056328ef56540444c1a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:20.657Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 400,
+      "caloriesPer100g": 106,
+      "assumptions": "Standard boneless skinless chicken breast is ~200g each; recipe uses 2 breasts (total 400g raw, as bashed to 1cm thick and pan/air-fried without trimming)."
+    },
+    {
+      "position": 4,
+      "grams": 30,
+      "caloriesPer100g": 22,
+      "assumptions": "½ lemon yields ~30g juice (standard lemon juice weight; calories match known value for lemon juice)."
+    },
+    {
+      "position": 5,
+      "grams": 200,
+      "caloriesPer100g": 280,
+      "assumptions": "Typical burger buns are ~100g each (total 200g for 2); calories based on average supermarket burger bun density (~280 kcal/100g)."
+    },
+    {
+      "position": 6,
+      "grams": 250,
+      "caloriesPer100g": 320,
+      "assumptions": "Halloumi (the 'Cheese'); known measurement is exactly 250g as supplied; typical halloumi is ~320 kcal/100g when grilled/air-fried as described."
+    },
+    {
+      "position": 7,
+      "grams": 250,
+      "caloriesPer100g": 31.4,
+      "assumptions": "¼ medium cabbage head ≈250g edible portion (standard weight for ¼ head after removing core); matches supplied known calories for raw cabbage."
+    },
+    {
+      "position": 8,
+      "grams": 30,
+      "caloriesPer100g": 680,
+      "assumptions": "2 tbsp mayonnaise ≈30g (standard density); matches supplied known calories."
+    },
+    {
+      "position": 10,
+      "grams": 40,
+      "caloriesPer100g": 17.11,
+      "assumptions": "4 large lettuce/rocket leaves ≈40g total edible portion (standard modest weight for leaves in burgers); matches supplied known calories for lettuce."
+    },
+    {
+      "position": 11,
+      "grams": 160,
+      "caloriesPer100g": 31.3,
+      "assumptions": "2 medium red peppers ≈160g total (80g each, cored and sliced as 'peppers' in recipe); matches supplied known calories for raw red pepper."
+    }
+  ]
+}

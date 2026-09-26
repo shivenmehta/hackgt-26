@@ -1,0 +1,251 @@
+{
+  "inputHash": "fcf0ba224aeeab3ac62a488506ea060a7f44dff2ff24e299c9096cbf1fc691d0",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:01.307Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 286,
+      "proteinG": 25.2,
+      "fatG": 19,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "4 large whole eggs for poaching, ~50g each",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 6.6,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.33,
+      "fiberG": 0,
+      "assumptions": "2 tbs white wine vinegar for poaching water, typical density ~1 g/ml",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 130,
+      "per100g": {
+        "caloriesKcal": 227,
+        "proteinG": 8.9,
+        "fatG": 1.7,
+        "carbsG": 44.4,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 295.1,
+      "proteinG": 11.57,
+      "fatG": 2.21,
+      "carbsG": 57.72,
+      "fiberG": 3.51,
+      "assumptions": "2 standard English muffins, ~65g each",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143.4,
+      "proteinG": 0.18,
+      "fatG": 16.2,
+      "carbsG": 0.02,
+      "fiberG": 0,
+      "assumptions": "Butter to serve the toasted muffins; plausible recipe amount ~10g per muffin half",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 117,
+        "proteinG": 18.3,
+        "fatG": 4.3,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 234,
+      "proteinG": 36.6,
+      "fatG": 8.6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 slices smoked salmon, typical 25g per slice",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 0.4,
+        "fatG": 0.2,
+        "carbsG": 6.9,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 2.2,
+      "proteinG": 0.04,
+      "fatG": 0.02,
+      "carbsG": 0.69,
+      "fiberG": 0.03,
+      "assumptions": "2 tsp lemon juice for hollandaise, typical density ~1 g/ml",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2.2,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.11,
+      "fiberG": 0,
+      "assumptions": "2 tsp white wine vinegar for hollandaise, typical density ~1 g/ml",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.5,
+      "proteinG": 6.3,
+      "fatG": 4.75,
+      "carbsG": 0.35,
+      "fiberG": 0,
+      "assumptions": "3 egg yolks only, ~17g each",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 896.25,
+      "proteinG": 1.125,
+      "fatG": 101.25,
+      "carbsG": 0.125,
+      "fiberG": 0,
+      "assumptions": "125g unsalted butter for hollandaise as listed",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52962",
+    "name": "Salmon Eggs Eggs Benedict",
+    "cuisine": "American",
+    "instructions": "First make the Hollandaise sauce. Put the lemon juice and vinegar in a small bowl, add the egg yolks and whisk with a balloon whisk until light and frothy. Place the bowl over a pan of simmering water and whisk until mixture thickens. Gradually add the butter, whisking constantly until thick – if it looks like it might be splitting, then whisk off the heat for a few mins. Season and keep warm.\r\n\r\nTo poach the eggs, bring a large pan of water to the boil and add the vinegar. Lower the heat so that the water is simmering gently. Stir the water so you have a slight whirlpool, then slide in the eggs one by one. Cook each for about 4 mins, then remove with a slotted spoon.\r\n\r\nLightly toast and butter the muffins, then put a couple of slices of salmon on each half. Top each with an egg, spoon over some Hollandaise and garnish with chopped chives.",
+    "ingredients": [
+      { "position": 1, "name": "Eggs", "measurement": "4" },
+      { "position": 2, "name": "White Wine Vinegar", "measurement": "2 tbs" },
+      { "position": 3, "name": "English Muffins", "measurement": "2" },
+      { "position": 4, "name": "Butter", "measurement": "To serve" },
+      { "position": 5, "name": "Smoked Salmon", "measurement": "8 slices" },
+      { "position": 6, "name": "Lemon Juice", "measurement": "2 tsp" },
+      { "position": 7, "name": "White Wine Vinegar", "measurement": "2 tsp" },
+      { "position": 8, "name": "Egg", "measurement": "3 Yolkes" },
+      { "position": 9, "name": "Unsalted Butter", "measurement": "125g" }
+    ]
+  }
+}

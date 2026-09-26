@@ -1,0 +1,277 @@
+{
+  "inputHash": "f5bb1d09160a7726bafb0d106b78b041117c8b28efd315b7c56df5ed0d48a6e1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:31:06.043Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 720,
+      "per100g": {
+        "caloriesKcal": 85,
+        "proteinG": 18.2,
+        "fatG": 0.8,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 612,
+      "proteinG": 131.04,
+      "fatG": 5.76,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "24 raw king prawns estimated at 30 g each edible weight after peeling (most peeled per instructions, a few left whole); using typical raw prawn nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp olive oil = 27 g standard density; typical extra virgin olive oil values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 70,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 28,
+      "proteinG": 0.77,
+      "fatG": 0.07,
+      "carbsG": 6.51,
+      "fiberG": 1.19,
+      "assumptions": "1 small onion estimated at 70 g peeled and chopped; standard raw onion nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 0.5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 bay leaf is ~0.5 g; negligible nutrition so zeroed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 0.1,
+      "per100g": {
+        "caloriesKcal": 310,
+        "proteinG": 11.4,
+        "fatG": 5.8,
+        "carbsG": 61.5,
+        "fiberG": 3.9
+      },
+      "caloriesKcal": 0.31,
+      "proteinG": 0.0114,
+      "fatG": 0.0058,
+      "carbsG": 0.061500000000000006,
+      "fiberG": 0.0039000000000000003,
+      "assumptions": "1 pinch saffron estimated at 0.1 g; typical saffron nutrition values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 360,
+        "proteinG": 7,
+        "fatG": 1,
+        "carbsG": 77,
+        "fiberG": 2
+      },
+      "caloriesKcal": 1620,
+      "proteinG": 31.5,
+      "fatG": 4.5,
+      "carbsG": 346.5,
+      "fiberG": 9,
+      "assumptions": "450 g paella rice as given; typical short-grain white rice values (raw weight).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 4.3,
+        "fatG": 0.5,
+        "carbsG": 17,
+        "fiberG": 3.9
+      },
+      "caloriesKcal": 8.2,
+      "proteinG": 0.43,
+      "fatG": 0.05,
+      "carbsG": 1.7,
+      "fiberG": 0.39,
+      "assumptions": "2 teaspoons tomato puree estimated at 10 g; typical concentrated tomato puree values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 2.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 164,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "carbsG": 5.2,
+      "fiberG": 0,
+      "assumptions": "200 ml white wine ≈ 200 g; typical dry white wine nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 650,
+      "per100g": {
+        "caloriesKcal": 10,
+        "proteinG": 1,
+        "fatG": 0.5,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 65,
+      "proteinG": 6.5,
+      "fatG": 3.25,
+      "carbsG": 3.25,
+      "fiberG": 0,
+      "assumptions": "650 ml seafood stock ≈ 650 g; assumed light homemade-style stock with minimal calories (not concentrated bouillon).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 360,
+      "per100g": {
+        "caloriesKcal": 92,
+        "proteinG": 16,
+        "fatG": 1.5,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 331.2,
+      "proteinG": 57.6,
+      "fatG": 5.4,
+      "carbsG": 7.2,
+      "fiberG": 0,
+      "assumptions": "3 medium squid estimated at 120 g each cleaned/edible weight; typical raw squid nutrition (instructions add it whole to simmer).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53147",
+    "name": "Arroz con gambas y calamar",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nPeel and devein most of the prawns (a fishmonger should be able to do this for you), keeping a few whole for decoration, if you like. Heat the olive oil in a large frying pan or shallow flameproof casserole over a medium-low heat and fry the onion for 5 mins until softened. Add the bay leaf, saffron, rice and tomato purée, and cook for 1-2 mins more, stirring.\r\n\r\nstep 2\r\nPour in the wine and bubble for 1-2 mins, then pour in the seafood stock and 150ml water. Cook for 5 mins, then add the squid, season well and stir to combine. Bring to the boil, then cover and reduce the heat to a gentle simmer. Cook for 12 mins more, adding a little more water if the mixture starts to look dry.\r\n\r\nstep 3\r\nUncover the pan and stir through the peeled prawns, then arrange any whole prawns on top of the rice mixture. Cover again and simmer for a further 5-6 mins until the prawns are pink and cooked through. Leave to stand for a couple of minutes before serving from the pan.",
+    "ingredients": [
+      { "position": 1, "name": "Raw King Prawns", "measurement": "24" },
+      { "position": 2, "name": "Olive Oil", "measurement": "2 tbsp" },
+      { "position": 3, "name": "Onion", "measurement": "1 small" },
+      { "position": 4, "name": "Bay Leaf", "measurement": "1" },
+      { "position": 5, "name": "Saffron", "measurement": "1 pinch" },
+      { "position": 6, "name": "Paella Rice", "measurement": "450g" },
+      { "position": 7, "name": "Tomato Puree", "measurement": "2 teaspoons" },
+      { "position": 8, "name": "White Wine", "measurement": "200ml" },
+      { "position": 9, "name": "Seafood stock", "measurement": "650ml" },
+      { "position": 10, "name": "Squid", "measurement": "3 Medium" }
+    ]
+  }
+}

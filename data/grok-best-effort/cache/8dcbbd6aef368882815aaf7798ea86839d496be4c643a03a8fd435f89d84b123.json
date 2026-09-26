@@ -1,0 +1,225 @@
+{
+  "inputHash": "8dcbbd6aef368882815aaf7798ea86839d496be4c643a03a8fd435f89d84b123",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:31:02.263Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 246,
+      "proteinG": 5.4,
+      "fatG": 1.2,
+      "carbsG": 57.6,
+      "fiberG": 16.8,
+      "assumptions": "6 medium carrots, chopped, total edible weight ~600g; raw values used as roasted without added fat beyond listed oil",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion, sliced, ~110g edible portion; raw values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.4,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 17.88,
+      "proteinG": 0.7680000000000001,
+      "fatG": 0.04800000000000001,
+      "carbsG": 3.9720000000000004,
+      "fiberG": 0.252,
+      "assumptions": "4 typical garlic cloves, total ~12g; raw values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 17.8,
+        "fatG": 22.3,
+        "carbsG": 44.2,
+        "fiberG": 10.9
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.35600000000000004,
+      "fatG": 0.446,
+      "carbsG": 0.884,
+      "fiberG": 0.218,
+      "assumptions": "1 tsp whole cumin seeds, ~2g; typical spice nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 298,
+        "proteinG": 12.4,
+        "fatG": 17.6,
+        "carbsG": 55,
+        "fiberG": 29.1
+      },
+      "caloriesKcal": 2.98,
+      "proteinG": 0.124,
+      "fatG": 0.17600000000000002,
+      "carbsG": 0.55,
+      "fiberG": 0.29100000000000004,
+      "assumptions": "1/2 tsp coriander seeds, ~1g; typical spice nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0.1,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0.014000000000000002,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbs olive oil, ~14g; standard oil values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 0.5,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 10,
+        "fatG": 15,
+        "carbsG": 40,
+        "fiberG": 10
+      },
+      "caloriesKcal": 1.5,
+      "proteinG": 0.05,
+      "fatG": 0.075,
+      "carbsG": 0.2,
+      "fiberG": 0.05,
+      "assumptions": "1/4 tsp garam masala powder, ~0.5g; typical blended spice estimate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.4,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 1.45,
+      "proteinG": 0.02,
+      "fatG": 0.015,
+      "carbsG": 0.465,
+      "fiberG": 0.015,
+      "assumptions": "1 tsp fresh lemon juice, ~5g; standard citrus juice values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53047",
+    "name": "Moroccan Carrot Soup",
+    "cuisine": "Moroccan",
+    "instructions": "Step 1\r\nPreheat oven to 180° C.\r\nStep 2\r\nCombine carrots, onion, garlic, cumin seeds, coriander seeds, salt and olive oil in a bowl and mix well. Transfer on a baking tray.\r\nStep 3\r\nPut the baking tray in preheated oven and roast for 10-12 minutes or till carrots soften. Remove from heat and cool.\r\nStep 4\r\nGrind the baked carrot mixture along with some water to make a smooth paste and strain in a bowl.\r\nStep 5\r\nHeat the carrot mixture in a non-stick pan. Add two cups of water and bring to a boil. Add garam masala powder and mix. Add salt and mix well.\r\nStep 6\r\nRemove from heat, add lemon juice and mix well.\r\nStep 7\r\nServe hot.",
+    "ingredients": [
+      { "position": 1, "name": "Carrots", "measurement": "6 chopped" },
+      { "position": 2, "name": "Onion", "measurement": "1 sliced" },
+      { "position": 3, "name": "Garlic Clove", "measurement": "4" },
+      { "position": 4, "name": "Cumin", "measurement": "1 tsp" },
+      { "position": 5, "name": "Coriander", "measurement": "1/2 tsp" },
+      { "position": 6, "name": "Olive Oil", "measurement": "1 tbs" },
+      { "position": 7, "name": "Garam Masala", "measurement": "1/4 tsp" },
+      { "position": 8, "name": "Lemon Juice", "measurement": "1 tsp" }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "inputHash": "7276d61068e7cec28a74cc5e99b57ef361468ba4c45954987b1a01948231534c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:28.114Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 400,
+      "caloriesPer100g": 106,
+      "assumptions": "2 large chicken breasts ≈ 200 g each (edible portion, raw, boneless/skinless); standard weight for this description."
+    },
+    {
+      "position": 3,
+      "grams": 15,
+      "caloriesPer100g": 80,
+      "assumptions": "1 small ginger piece (thumb-sized) ≈ 15 g; typical for fresh ginger in recipes."
+    },
+    {
+      "position": 6,
+      "grams": 30,
+      "caloriesPer100g": 40,
+      "assumptions": "1 chopped green chilli ≈ 30 g; average weight for a medium fresh chilli."
+    },
+    {
+      "position": 8,
+      "grams": null,
+      "caloriesPer100g": null,
+      "assumptions": "'To serve' is not a quantified ingredient in the recipe input; no reasonable estimate possible without assuming a serving amount which is not provided."
+    },
+    {
+      "position": 9,
+      "grams": null,
+      "caloriesPer100g": 30,
+      "assumptions": "'To serve' is not a quantified ingredient; cannot estimate total grams without knowing number of servings or lime quantity used (caloriesPer100g copied as known)."
+    },
+    {
+      "position": 10,
+      "grams": null,
+      "caloriesPer100g": 32,
+      "assumptions": "'Chopped' (for serving/garnish) is not a quantified amount in the recipe input; no reasonable estimate possible."
+    },
+    {
+      "position": 11,
+      "grams": null,
+      "caloriesPer100g": 40,
+      "assumptions": "'Chopped' (for serving/garnish) is not a quantified amount in the recipe input; no reasonable estimate possible."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "inputHash": "67c58d9ba565ebb2ca07c065678761244b22592a2a4f456e84485410c0888578",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:33:09.946Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 2.1,
+        "fatG": 0.4,
+        "carbsG": 75,
+        "fiberG": 6.7
+      },
+      "caloriesKcal": 1280.28,
+      "proteinG": 9.534,
+      "fatG": 1.8160000000000003,
+      "carbsG": 340.5,
+      "fiberG": 30.418000000000003,
+      "assumptions": "Standard pitted dates; 1 cup chopped dates ≈ 182 g so 2.5 cups ≈ 454 g edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 237,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Water; 1 cup = 237 g; contributes no macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 12.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 43.2,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1.905,
+      "fiberG": 0,
+      "assumptions": "Vanilla extract; measurement listed as 1 1/2 cup but interpreted as 1 1/2 tsp (common in recipes) ≈ 7.5 ml ≈ 15 g total for the line",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 160,
+      "per100g": {
+        "caloriesKcal": 379,
+        "proteinG": 13.2,
+        "fatG": 6.5,
+        "carbsG": 67.7,
+        "fiberG": 10.1
+      },
+      "caloriesKcal": 606.4,
+      "proteinG": 21.12,
+      "fatG": 10.4,
+      "carbsG": 108.32,
+      "fiberG": 16.16,
+      "assumptions": "Rolled oats; standard dry measure, 1 cup ≈ 80 g so 2 cups = 160 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 455,
+      "proteinG": 12.875,
+      "fatG": 1.25,
+      "carbsG": 95.375,
+      "fiberG": 3.375,
+      "assumptions": "All-purpose flour; 1 cup ≈ 125 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 1.2,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 760,
+      "proteinG": 2.4,
+      "fatG": 0,
+      "carbsG": 196,
+      "fiberG": 0,
+      "assumptions": "Packed brown sugar; 1 cup ≈ 200 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 27.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1.06,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.5579999999999999,
+      "fiberG": 0,
+      "assumptions": "Baking powder (listed as baking powder despite instructions saying soda); 1/2 tsp ≈ 2 g; negligible impact but estimated",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 1.5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1/4 tsp ≈ 1.5 g; contributes no macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 227,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81.1,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1627.59,
+      "proteinG": 2.043,
+      "fatG": 184.09699999999998,
+      "carbsG": 0.22700000000000004,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; 1 cup = 227 g (standard stick equivalent)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53338",
+    "name": "Date squares",
+    "cuisine": "Canadian",
+    "instructions": "Preheat oven to 350°F (180°C). Grease an 8-inch (20 cm) square baking pan.\r\nTo make the date filing: Combine the dates and water in a medium saucepan over high heat and bring to a boil. Reduce heat to low and simmer gently, stirring occasionally until the mixture thickens, around 6 to 8 minutes. Remove from heat, stir in vanilla and let cool. Set aside.\r\nCombine rolled oats, flour, sugar, baking soda and salt in a food processor. Pulse 3 times (careful not to overmix, you don’t want the mixture to be powdery, just combined). Add butter and pulse again until the mixture is crumbly in pea-sized clumps. Transfer to a mixing bowl to thoroughly mix in the butter.\r\nSpread half of the oat mixture on the bottom of the prepared baking pan, pressing down to make a flat, equal bottom later. Add the date mixture over the crust and then spread evenly. Layer with the remaining oat mixture and press down to flatten the top layer.\r\nBake in the centre of the oven until the top is golden brown, 30 to 35 minutes. Let cool completely in the pan before cutting and serving. Date Squares keep well, covered in the refrigerator for up to a week, and frozen for 2 to 3 months.",
+    "ingredients": [
+      { "position": 1, "name": "Pitted Dates", "measurement": "2 1/2 cups" },
+      { "position": 2, "name": "Water", "measurement": "1 cup" },
+      { "position": 3, "name": "Vanilla", "measurement": "1 1/2 cup" },
+      { "position": 4, "name": "Oats", "measurement": "2 cups" },
+      { "position": 5, "name": "All purpose flour", "measurement": "1 cup" },
+      { "position": 6, "name": "Brown Sugar", "measurement": "1 cup" },
+      { "position": 7, "name": "Baking Powder", "measurement": "1/2 tsp" },
+      { "position": 8, "name": "Salt", "measurement": "1/4 tsp" },
+      { "position": 9, "name": "Unsalted Butter", "measurement": "1 cup" }
+    ]
+  }
+}

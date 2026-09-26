@@ -1,0 +1,99 @@
+{
+  "inputHash": "ed071cbbf082a11b4419da6330d375cd78aa1f42ed24db9206efb9677c465ab9",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:50.476Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 30,
+      "caloriesPer100g": 250,
+      "assumptions": "1-2 tbsp paste estimated at ~30g total (dense paste); calories ~250kcal/100g typical for Thai curry pastes with chillies, nuts, shrimp paste and spices (model estimate)."
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "caloriesPer100g": 35,
+      "assumptions": "2-3 tbsp fish sauce ~30g (standard density ~15g per tbsp); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 6,
+      "grams": 20,
+      "caloriesPer100g": 380,
+      "assumptions": "1-2 tbsp brown sugar ~20g (standard ~12-15g per tbsp, averaged); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 7,
+      "grams": 2,
+      "caloriesPer100g": null,
+      "assumptions": "2 makrut lime leaves ~1g each (typical leaf weight); total 2g. No reliable calorie density for such tiny seasoning amount, so null."
+    },
+    {
+      "position": 8,
+      "grams": 10,
+      "caloriesPer100g": 23,
+      "assumptions": "Handful Thai basil leaves estimated at 10g (modest fresh herb bunch); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 9,
+      "grams": null,
+      "caloriesPer100g": 359,
+      "assumptions": "Jasmine rice listed only as 'Boiled' with no quantity or servings; cannot estimate grams without inventing omitted data, so null for grams."
+    },
+    {
+      "position": 10,
+      "grams": 60,
+      "caloriesPer100g": 40,
+      "assumptions": "6 fresh red chillies estimated at ~10g each (medium size); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 11,
+      "grams": 12,
+      "caloriesPer100g": 318,
+      "assumptions": "4 dried red chillies ~3g each (standard small dried chilli weight); total 12g. Calories estimated from typical dried chilli values (~318kcal/100g)."
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "caloriesPer100g": null,
+      "assumptions": "1 tsp shrimp paste ~5g (standard density); no reliable calorie density available for this fermented ingredient in recipe state, so null."
+    },
+    {
+      "position": 14,
+      "grams": 6,
+      "caloriesPer100g": null,
+      "assumptions": "1 tbsp galangal (chopped/pounded) ~6g (typical density for fresh rhizome); no reliable calorie density, so null."
+    },
+    {
+      "position": 16,
+      "grams": 4,
+      "caloriesPer100g": 30,
+      "assumptions": "Zest of 2 limes ~4g total (typical ~2g per lime zest); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 17,
+      "grams": 2,
+      "caloriesPer100g": 525,
+      "assumptions": "1 tsp ground nutmeg ~2g (standard spice density); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 18,
+      "grams": 2,
+      "caloriesPer100g": 298,
+      "assumptions": "1 tsp ground coriander ~2g (standard spice density); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 19,
+      "grams": 2,
+      "caloriesPer100g": 375,
+      "assumptions": "1 tsp ground cumin ~2g (standard spice density); knownCaloriesPer100g copied exactly."
+    },
+    {
+      "position": 20,
+      "grams": 20,
+      "caloriesPer100g": 588,
+      "assumptions": "2 tbsp peanuts ~20g (standard ~10-12g per tbsp for chopped/whole, averaged); knownCaloriesPer100g copied exactly."
+    }
+  ]
+}

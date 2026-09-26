@@ -1,0 +1,33 @@
+{
+  "inputHash": "e3df34e3d91386d16bd877f964119f21cd3207bb2ef53804c9ae1eb0e5aa1a76",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:49.941Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 30,
+      "caloriesPer100g": null,
+      "assumptions": "Standard 15g per tablespoon for sweet chilli sauce; modest volume for 2 tbsp."
+    },
+    {
+      "position": 2,
+      "grams": 6,
+      "caloriesPer100g": 47,
+      "assumptions": "Typical edible zest yield from 1 medium orange is ~6g; using supplied knownCaloriesPer100g for zest."
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "caloriesPer100g": null,
+      "assumptions": "Standard 15g per tablespoon for curry paste."
+    },
+    {
+      "position": 6,
+      "grams": 800,
+      "caloriesPer100g": 124.98,
+      "assumptions": "Using supplied knownCaloriesPer100g (likely for raw, skin-on drumsticks); average edible portion ~100g per drumstick for 8 pieces (bone-in but recipe uses whole drumsticks as-is)."
+    }
+  ]
+}

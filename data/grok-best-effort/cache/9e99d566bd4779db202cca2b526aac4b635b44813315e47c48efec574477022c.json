@@ -1,0 +1,199 @@
+{
+  "inputHash": "9e99d566bd4779db202cca2b526aac4b635b44813315e47c48efec574477022c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:34:41.108Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 475,
+      "per100g": {
+        "caloriesKcal": 130,
+        "proteinG": 2.7,
+        "fatG": 0.3,
+        "carbsG": 28.5,
+        "fiberG": 0.4
+      },
+      "caloriesKcal": 617.5,
+      "proteinG": 12.825,
+      "fatG": 1.425,
+      "carbsG": 135.375,
+      "fiberG": 1.9,
+      "assumptions": "300ml sushi rice converted using typical uncooked short-grain Japanese rice density of ~1.58 g/ml; this is the dry rice amount before cooking as per standard sushi prep in the instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 104,
+      "per100g": {
+        "caloriesKcal": 134,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 21,
+        "fiberG": 0
+      },
+      "caloriesKcal": 139.36,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 21.84,
+      "fiberG": 0,
+      "assumptions": "100ml rice wine (mirin-style for sushi seasoning) using typical liquid density ~1.04 g/ml; standard sweet rice wine used in sushi recipes",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 96.75,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 25,
+      "fiberG": 0,
+      "assumptions": "2 tbs caster sugar using standard 12.5g per tablespoon; pure sucrose estimate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 680,
+        "proteinG": 0.9,
+        "fatG": 75,
+        "carbsG": 1.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 306,
+      "proteinG": 0.405,
+      "fatG": 33.75,
+      "carbsG": 0.585,
+      "fiberG": 0,
+      "assumptions": "3 tbs Japanese mayonnaise using standard 15g per tablespoon and typical Japanese mayo nutrition (higher fat than standard mayo)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 134,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 21,
+        "fiberG": 0
+      },
+      "caloriesKcal": 20.1,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 3.15,
+      "fiberG": 0,
+      "assumptions": "1 tbs rice wine using standard 15ml volume and ~1.0 g/ml density for the sushi sauce component",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 7,
+        "fatG": 0.5,
+        "carbsG": 5.5,
+        "fiberG": 0.8
+      },
+      "caloriesKcal": 9,
+      "proteinG": 1.05,
+      "fatG": 0.075,
+      "carbsG": 0.825,
+      "fiberG": 0.12,
+      "assumptions": "1 tbs soy sauce using standard 15ml volume and ~1.0 g/ml density with typical reduced-sodium Japanese-style values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 0.7,
+        "fatG": 0.1,
+        "carbsG": 3.6,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 45,
+      "proteinG": 2.1,
+      "fatG": 0.3,
+      "carbsG": 10.8,
+      "fiberG": 1.5,
+      "assumptions": "1 whole medium cucumber (~300g edible portion after trimming ends); used raw in rolls per instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53065",
+    "name": "Sushi",
+    "cuisine": "Japanese",
+    "instructions": "STEP 1\r\nTO MAKE SUSHI ROLLS: Pat out some rice. Lay a nori sheet on the mat, shiny-side down. Dip your hands in the vinegared water, then pat handfuls of rice on top in a 1cm thick layer, leaving the furthest edge from you clear.\r\n\r\nSTEP 2\r\nSpread over some Japanese mayonnaise. Use a spoon to spread out a thin layer of mayonnaise down the middle of the rice.\r\n\r\nSTEP 3\r\nAdd the filling. Get your child to top the mayonnaise with a line of their favourite fillings – here we’ve used tuna and cucumber.\r\n\r\nSTEP 4\r\nRoll it up. Lift the edge of the mat over the rice, applying a little pressure to keep everything in a tight roll.\r\n\r\nSTEP 5\r\nStick down the sides like a stamp. When you get to the edge without any rice, brush with a little water and continue to roll into a tight roll.\r\n\r\nSTEP 6\r\nWrap in cling film. Remove the mat and roll tightly in cling film before a grown-up cuts the sushi into thick slices, then unravel the cling film.\r\n\r\nSTEP 7\r\nTO MAKE PRESSED SUSHI: Layer over some smoked salmon. Line a loaf tin with cling film, then place a thin layer of smoked salmon inside on top of the cling film.\r\n\r\nSTEP 8\r\nCover with rice and press down. Press about 3cm of rice over the fish, fold the cling film over and press down as much as you can, using another tin if you have one.\r\n\r\nSTEP 9\r\nTip it out like a sandcastle. Turn block of sushi onto a chopping board. Get a grown-up to cut into fingers, then remove the cling film.\r\n\r\nSTEP 10\r\nTO MAKE SUSHI BALLS: Choose your topping. Get a small square of cling film and place a topping, like half a prawn or a small piece of smoked salmon, on it. Use damp hands to roll walnut-sized balls of rice and place on the topping.\r\n\r\nSTEP 11\r\nMake into tight balls. Bring the corners of the cling film together and tighten into balls by twisting it up, then unwrap and serve.",
+    "ingredients": [
+      { "position": 1, "name": "Sushi Rice", "measurement": "300ml" },
+      { "position": 2, "name": "Rice wine", "measurement": "100ml" },
+      { "position": 3, "name": "Caster Sugar", "measurement": "2 tbs" },
+      { "position": 4, "name": "Mayonnaise", "measurement": "3 tbs" },
+      { "position": 5, "name": "Rice wine", "measurement": "1 tbs" },
+      { "position": 6, "name": "Soy Sauce", "measurement": "1 tbs" },
+      { "position": 7, "name": "Cucumber", "measurement": "1" }
+    ]
+  }
+}

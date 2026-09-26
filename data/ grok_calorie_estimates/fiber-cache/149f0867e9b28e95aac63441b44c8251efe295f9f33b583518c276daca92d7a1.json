@@ -1,0 +1,75 @@
+{
+  "inputHash": "149f0867e9b28e95aac63441b44c8251efe295f9f33b583518c276daca92d7a1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:33.662Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4.5 lb (2041 g) raw beef brisket; zero carbs as plain meat"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "dash of salt; zero carbs"
+    },
+    {
+      "position": 3,
+      "carbsG": 33,
+      "fiberG": 6,
+      "assumptions": "3 medium onions (330 g total raw, peeled and chopped); ~11 g carbs and 2 g fiber per onion"
+    },
+    {
+      "position": 4,
+      "carbsG": 5,
+      "fiberG": 0.3,
+      "assumptions": "5 cloves garlic (~15 g total raw); ~1 g carbs and 0.06 g fiber per clove"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.2,
+      "fiberG": 0.1,
+      "assumptions": "1 fresh thyme sprig (~2 g); negligible carbs/fiber"
+    },
+    {
+      "position": 6,
+      "carbsG": 0.4,
+      "fiberG": 0.3,
+      "assumptions": "1 fresh rosemary sprig (~3 g); negligible carbs/fiber"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 bay leaves (~2 g total); zero carbs"
+    },
+    {
+      "position": 8,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "2 cups (480 ml) beef stock; ~1 g carbs per cup, standard low-sodium"
+    },
+    {
+      "position": 9,
+      "carbsG": 27,
+      "fiberG": 8,
+      "assumptions": "3 large carrots (360 g total raw, peeled); ~9 g carbs and ~2.7 g fiber per carrot"
+    },
+    {
+      "position": 10,
+      "carbsG": 1,
+      "fiberG": 0.5,
+      "assumptions": "1 Tbsp (15 g) prepared mustard; standard values"
+    },
+    {
+      "position": 11,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "4 potatoes for mashing - quantity/weight not specified in ingredients list; cannot reasonably estimate total carbs/fiber without stated amount (e.g. number or weight)"
+    }
+  ]
+}

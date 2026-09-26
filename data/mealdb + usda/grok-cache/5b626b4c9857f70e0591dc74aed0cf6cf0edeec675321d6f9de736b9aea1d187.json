@@ -1,0 +1,45 @@
+{
+  "inputHash": "5b626b4c9857f70e0591dc74aed0cf6cf0edeec675321d6f9de736b9aea1d187",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:08.639Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 100,
+      "caloriesPer100g": null,
+      "assumptions": "knownGrams supplied as 100g; caloriesPer100g left null as not supplied and no estimation required per instructions"
+    },
+    {
+      "position": 4,
+      "grams": 30,
+      "caloriesPer100g": null,
+      "assumptions": "2 tbsp orange blossom water estimated at 15g per tbsp (standard volume-to-weight for similar thin liquids like rosewater); caloriesPer100g left null as not supplied"
+    },
+    {
+      "position": 5,
+      "grams": 20,
+      "caloriesPer100g": null,
+      "assumptions": "1 standard small meringue nest (approx 5-7cm) estimated at 20g based on typical commercial single-serve meringue weights; caloriesPer100g left null as not supplied"
+    },
+    {
+      "position": 6,
+      "grams": 150,
+      "caloriesPer100g": 48,
+      "assumptions": "3 medium fresh apricots (edible portion, pitted); average ~50g each without stone, consistent with common produce weights and supplied knownCaloriesPer100g"
+    },
+    {
+      "position": 7,
+      "grams": 60,
+      "caloriesPer100g": null,
+      "assumptions": "2 pieces Turkish delight estimated at 30g per piece (typical small cube size from confectionery standards); caloriesPer100g left null as not supplied"
+    },
+    {
+      "position": 9,
+      "grams": 4,
+      "caloriesPer100g": 44,
+      "assumptions": "4 fresh mint leaves estimated at ~1g each (modest amount for garnish/to taste); matches supplied knownCaloriesPer100g for mint"
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "inputHash": "a315baa455598632eb23681bda06806d89132b2464728e8918f6d20386d7be33",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:34.689Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1500,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 26,
+        "fatG": 17,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 3750,
+      "proteinG": 390,
+      "fatG": 255,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Beef chuck or similar cut, raw weight as typical for stewing recipes; nutrients for average beef stew meat",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 10,
+        "fatG": 15,
+        "carbsG": 25,
+        "fiberG": 0
+      },
+      "caloriesKcal": 35,
+      "proteinG": 1,
+      "fatG": 1.5,
+      "carbsG": 2.5,
+      "fiberG": 0,
+      "assumptions": "Knorr Beef Cube ( bouillon cube ); typical 10g cube size assumed for 1 cube",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 227,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 3,
+        "fatG": 1,
+        "carbsG": 15,
+        "fiberG": 3
+      },
+      "caloriesKcal": 181.6,
+      "proteinG": 6.81,
+      "fatG": 2.27,
+      "carbsG": 34.05,
+      "fiberG": 6.81,
+      "assumptions": "Tomato puree (8 oz can); standard canned tomato puree values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 720,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 cups water (720 ml); zero calories as plain water",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 90,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 6,
+        "fatG": 0,
+        "carbsG": 6,
+        "fiberG": 1
+      },
+      "caloriesKcal": 54,
+      "proteinG": 5.4,
+      "fatG": 0,
+      "carbsG": 5.4,
+      "fiberG": 0.9,
+      "assumptions": "6 tablespoons regular soy sauce; typical sodium-rich soy sauce values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 3,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.15,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon white wine vinegar; standard vinegar nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 10,
+        "fatG": 10,
+        "carbsG": 60,
+        "fiberG": 25
+      },
+      "caloriesKcal": 30,
+      "proteinG": 1.2,
+      "fatG": 1.2,
+      "carbsG": 7.2,
+      "fiberG": 3,
+      "assumptions": "2 tablespoons crushed black peppercorns; typical values for whole peppercorns",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 8,
+        "fatG": 8,
+        "carbsG": 75,
+        "fiberG": 40
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.16,
+      "fatG": 0.16,
+      "carbsG": 1.5,
+      "fiberG": 0.8,
+      "assumptions": "4 dried bay leaves; very small dry weight, typical spice nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 9,
+        "fiberG": 3
+      },
+      "caloriesKcal": 15,
+      "proteinG": 0.5,
+      "fatG": 0,
+      "carbsG": 4.5,
+      "fiberG": 1.5,
+      "assumptions": "Juice from 1/2 lemon (about 50g juice portion); standard lemon juice values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 24,
+      "proteinG": 0.6,
+      "fatG": 0,
+      "carbsG": 5.4,
+      "fiberG": 0.6,
+      "assumptions": "2 tablespoons tomato sauce/paste; typical canned tomato sauce values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 42,
+      "per100g": {
+        "caloriesKcal": 720,
+        "proteinG": 1,
+        "fatG": 80,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 302.4,
+      "proteinG": 0.42,
+      "fatG": 33.6,
+      "carbsG": 0.42,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons butter; standard unsalted butter values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 880,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 968,
+      "proteinG": 0,
+      "fatG": 110,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 cup olive oil used for frying; typical olive oil values, full amount included as absorbed or in recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 9,
+        "fiberG": 2
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.1,
+      "fatG": 0,
+      "carbsG": 9.9,
+      "fiberG": 2.2,
+      "assumptions": "1 medium onion, chopped (about 110g); standard raw onion values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 150,
+        "proteinG": 6,
+        "fatG": 1,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 18,
+      "proteinG": 0.72,
+      "fatG": 0.12,
+      "carbsG": 3.96,
+      "fiberG": 0.24,
+      "assumptions": "4 cloves garlic, minced (about 12g); standard raw garlic values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53071",
+    "name": "Beef Asado",
+    "cuisine": "Filipino",
+    "instructions": "0.\tCombine beef, crushed peppercorn, soy sauce, vinegar, dried bay leaves, lemon, and tomato sauce. Mix well. Marinate beef for at least 30 minutes.\r\n1.\tPut the marinated beef in a cooking pot along with remaining marinade. Add water. Let boil.\r\n2.\tAdd Knorr Beef Cube. Stir. Cover the pot and cook for 40 minutes in low heat.\r\n3.\tTurn the beef over. Add tomato paste. Continue cooking until beef tenderizes. Set aside.\r\n4.\tHeat oil in a pan. Fry the potato until it browns. Turn over and continue frying the opposite side. Remove from the pan and place on a clean plate. Do the same with the carrots.\r\n5.\tSave 3 tablespoons of cooking oil from the pan where the potato was fried. Saute onion and garlic until onion softens.\r\n6.\tPour-in the sauce from the beef stew. Let boil. Add the beef. Cook for 2 minutes.\r\n7.\tAdd butter and let it melt. Continue cooking until the sauce reduces to half.",
+    "ingredients": [
+      { "position": 1, "name": "Beef", "measurement": "1.5kg" },
+      { "position": 2, "name": "Beef Stock Concentrate", "measurement": "1" },
+      { "position": 3, "name": "Tomato Puree", "measurement": "8 ounces" },
+      { "position": 4, "name": "Water", "measurement": "3 cups" },
+      { "position": 5, "name": "Soy Sauce", "measurement": "6 tablespoons" },
+      { "position": 6, "name": "White Wine Vinegar", "measurement": "1 tbs" },
+      { "position": 7, "name": "Pepper", "measurement": "2 tbs" },
+      { "position": 8, "name": "Bay Leaf", "measurement": "4" },
+      { "position": 9, "name": "Lemon", "measurement": "1/2" },
+      { "position": 10, "name": "Tomato Sauce", "measurement": "2 tbs" },
+      { "position": 11, "name": "Butter", "measurement": "3 tbs" },
+      { "position": 12, "name": "Olive Oil", "measurement": "1/2 cup" },
+      { "position": 13, "name": "Onion", "measurement": "1 chopped" },
+      { "position": 14, "name": "Garlic", "measurement": "4 cloves" }
+    ]
+  }
+}

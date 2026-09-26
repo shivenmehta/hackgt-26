@@ -1,0 +1,51 @@
+{
+  "inputHash": "1645ebf33bd17a8283a92428932a727a4f3ec4fc14e2db455121a8e1d884acb2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:18:50.003Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 1775,
+      "proteinG": 58,
+      "fatG": 7,
+      "assumptions": "500 g strong white bread flour (standard values ~355 kcal, 11.6 g protein, 1.4 g fat per 100 g)"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 270,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "70 g caster sugar (standard ~387 kcal/100 g)"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 35,
+      "proteinG": 4,
+      "fatG": 0,
+      "assumptions": "10 g active dried yeast (standard ~350 kcal, ~40 g protein per 100 g)"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 155,
+      "proteinG": 13,
+      "fatG": 11,
+      "assumptions": "2 large eggs (~50 g edible portion each when beaten; whole large egg ~78 kcal, 6.3 g protein, 5.3 g fat)"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 620,
+      "proteinG": 0,
+      "fatG": 70,
+      "assumptions": "70 ml sunflower oil (standard ~884 kcal, 100 g fat per 100 ml; all oil incorporated into dough)"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 45,
+      "proteinG": 2,
+      "fatG": 4,
+      "assumptions": "1 tablespoon (~9 g) poppy seeds (standard ~525 kcal, 18 g protein, 42 g fat per 100 g)"
+    }
+  ]
+}

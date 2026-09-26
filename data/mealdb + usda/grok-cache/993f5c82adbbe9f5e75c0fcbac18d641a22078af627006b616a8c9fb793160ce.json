@@ -1,0 +1,57 @@
+{
+  "inputHash": "993f5c82adbbe9f5e75c0fcbac18d641a22078af627006b616a8c9fb793160ce",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:21.705Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 150,
+      "caloriesPer100g": 343,
+      "assumptions": "Black pudding (morcilla) is typically around 340-350 kcal/100g; using standard value for Spanish-style blood sausage as the 150g is already given as the edible prepared weight."
+    },
+    {
+      "position": 4,
+      "grams": 100,
+      "caloriesPer100g": 458,
+      "assumptions": "Bacon lardons are ~450-460 kcal/100g when uncooked; using typical smoked pork belly lardon value for the given 100g edible weight."
+    },
+    {
+      "position": 6,
+      "grams": 300,
+      "caloriesPer100g": 31.3,
+      "assumptions": "Medium red peppers average ~150g each when whole and raw (edible portion after deseeding ~140-160g); 2 peppers therefore total ~300g. Copying supplied knownCaloriesPer100g (raw state)."
+    },
+    {
+      "position": 7,
+      "grams": 80,
+      "caloriesPer100g": 22,
+      "assumptions": "A single chopped plum (Roma) tomato is typically 70-90g; using 80g as average edible raw weight. Copying supplied knownCaloriesPer100g (raw)."
+    },
+    {
+      "position": 8,
+      "grams": 24,
+      "caloriesPer100g": 143,
+      "assumptions": "Standard garlic clove is ~3g; 8 cloves total 24g raw edible weight. Copying supplied knownCaloriesPer100g (raw)."
+    },
+    {
+      "position": 11,
+      "grams": 200,
+      "caloriesPer100g": 347,
+      "assumptions": "Dried white beans (e.g. cannellini or haricot) are typically 340-350 kcal/100g dry weight; the 200g measurement is the dry input weight before cooking in stock."
+    },
+    {
+      "position": 13,
+      "grams": 5,
+      "caloriesPer100g": 101,
+      "assumptions": "'6 parts' interpreted as 6 sprigs of fresh thyme; modest total edible leaf weight ~5g for the modest seasoning amount in a large recipe. Copying supplied knownCaloriesPer100g (dried-equivalent value)."
+    },
+    {
+      "position": 15,
+      "grams": 30,
+      "caloriesPer100g": 22,
+      "assumptions": "Juice from 1 lemon is typically 25-35g; using 30g average. Copying supplied knownCaloriesPer100g."
+    }
+  ]
+}

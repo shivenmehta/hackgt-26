@@ -1,0 +1,33 @@
+{
+  "inputHash": "686aa0273f590c9c2148fa087de14462f908c0908c4415cb77cabe1bf5c6b99e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:46.374Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 104,
+      "caloriesPer100g": 240,
+      "assumptions": "Rice wine here is mirin (common in sushi recipes); 100 ml mirin ≈ 104 g based on density ≈1.04 g/ml; typical mirin calories used (≈240 kcal/100 g). This is the larger amount for seasoning the 300 ml rice."
+    },
+    {
+      "position": 4,
+      "grams": 45,
+      "caloriesPer100g": 680,
+      "assumptions": "1 tbs mayonnaise ≈ 15 g; 3 tbs = 45 g total. Known calories copied exactly. Assumed standard Japanese/Kewpie-style mayo as per recipe context."
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "caloriesPer100g": 240,
+      "assumptions": "Rice wine here is mirin (for mixing into mayo); 1 tbs ≈ 15 ml ≈ 15.6 g rounded to 15 g; same typical mirin calories as position 2. Modest amount for sauce."
+    },
+    {
+      "position": 7,
+      "grams": 150,
+      "caloriesPer100g": 15.9,
+      "assumptions": "1 medium cucumber (common in sushi) ≈ 150–200 g edible portion after trimming; used 150 g conservative estimate. Known calories copied exactly. Only the listed cucumber is estimated."
+    }
+  ]
+}

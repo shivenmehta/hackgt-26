@@ -1,0 +1,63 @@
+{
+  "inputHash": "51a8576e0061cebb5680eea1b463b7f5cc7b08306fa3d6a188e7be60fd48eca0",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:54.645Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 275,
+      "fiberG": 35,
+      "assumptions": "5 large potatoes ≈ 1.25 kg total raw weight; standard russet-type values (22 g carbs, 2.8 g fiber per 100 g raw)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs olive oil = 28 g; pure fat, zero carbs/fiber"
+    },
+    {
+      "position": 3,
+      "carbsG": 9,
+      "fiberG": 3,
+      "assumptions": "1 large green pepper ≈ 150 g raw edible portion after deseeding (6 g carbs, 2 g fiber per 100 g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 83,
+      "fiberG": 15,
+      "assumptions": "5 medium onions ≈ 750 g total raw peeled weight (11 g carbs, 2 g fiber per 100 g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "1 tbs Ras el hanout ≈ 6 g; typical spice blend values"
+    },
+    {
+      "position": 6,
+      "carbsG": 65,
+      "fiberG": 7,
+      "assumptions": "500 g raw pumpkin, peeled and cubed; edible flesh only (13 g carbs, 1.4 g fiber per 100 g)"
+    },
+    {
+      "position": 7,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "24 large eggs (≈ 50 g edible each after shelling); ≈0.25 g carbs per egg, negligible fiber"
+    },
+    {
+      "position": 8,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Pinch of salt; negligible contribution, cannot reasonably quantify"
+    },
+    {
+      "position": 9,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Pinch of pepper; negligible contribution, cannot reasonably quantify"
+    }
+  ]
+}

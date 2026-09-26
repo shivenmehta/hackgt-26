@@ -1,0 +1,251 @@
+{
+  "inputHash": "393b46ed6f45c7f0c79617a3f8ce47513e5aa256d63d4ab938290c0ad44737f7",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:08.552Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 179.25,
+      "proteinG": 0.15,
+      "fatG": 20.25,
+      "carbsG": 0.025,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; entire 25 g quantity used to grease dish and spread on bread.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 3.2,
+        "carbsG": 49,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 530,
+      "proteinG": 18,
+      "fatG": 6.4,
+      "carbsG": 98,
+      "fiberG": 5.4,
+      "assumptions": "8 thin slices white bread (approx 25 g per slice including crusts); crusts removed but weight is for whole slices before trimming as is typical in such estimates.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 299,
+        "proteinG": 2.5,
+        "fatG": 0.4,
+        "carbsG": 79,
+        "fiberG": 2
+      },
+      "caloriesKcal": 149.5,
+      "proteinG": 1.25,
+      "fatG": 0.2,
+      "carbsG": 39.5,
+      "fiberG": 1,
+      "assumptions": "Standard sultanas (golden raisins); entire listed quantity used across layers.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 1.2,
+        "carbsG": 80,
+        "fiberG": 53
+      },
+      "caloriesKcal": 12.35,
+      "proteinG": 0.2,
+      "fatG": 0.06,
+      "carbsG": 4,
+      "fiberG": 2.65,
+      "assumptions": "2 tsp ground cinnamon (≈5 g total); used for sprinkling between layers.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 350,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 147,
+      "proteinG": 11.9,
+      "fatG": 3.5,
+      "carbsG": 17.5,
+      "fiberG": 0,
+      "assumptions": "Whole cow's milk; entire 350 ml volume (density ≈1.03 g/ml) gently warmed and used in custard.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2.5,
+        "fatG": 35,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 170,
+      "proteinG": 1.25,
+      "fatG": 17.5,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "Standard double (heavy) cream; entire 50 ml volume (density ≈1 g/ml) warmed with milk.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143,
+      "proteinG": 12.6,
+      "fatG": 9.5,
+      "carbsG": 0.7,
+      "fiberG": 0,
+      "assumptions": "2 large free-range eggs (≈50 g each edible portion); cracked and whisked into custard base.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 96.75,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 25,
+      "fiberG": 0,
+      "assumptions": "White granulated sugar; 25 g total split between whisking into eggs and sprinkling on top.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Fresh grated nutmeg to taste (small plausible amount for sprinkling); negligible weight and nutrients in context of whole recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52792",
+    "name": "Bread and Butter Pudding",
+    "cuisine": "British",
+    "instructions": "Grease a 1 litre/2 pint pie dish with butter.\r\nCut the crusts off the bread. Spread each slice with on one side with butter, then cut into triangles.\r\nArrange a layer of bread, buttered-side up, in the bottom of the dish, then add a layer of sultanas. Sprinkle with a little cinnamon, then repeat the layers of bread and sultanas, sprinkling with cinnamon, until you have used up all of the bread. Finish with a layer of bread, then set aside.\r\nGently warm the milk and cream in a pan over a low heat to scalding point. Don't let it boil.\r\nCrack the eggs into a bowl, add three quarters of the sugar and lightly whisk until pale.\r\nAdd the warm milk and cream mixture and stir well, then strain the custard into a bowl.\r\nPour the custard over the prepared bread layers and sprinkle with nutmeg and the remaining sugar and leave to stand for 30 minutes.\r\nPreheat the oven to 180C/355F/Gas 4.\r\nPlace the dish into the oven and bake for 30-40 minutes, or until the custard has set and the top is golden-brown.",
+    "ingredients": [
+      { "position": 1, "name": "butter", "measurement": "25g/1oz" },
+      { "position": 2, "name": "bread", "measurement": "8 thin slices" },
+      { "position": 3, "name": "sultanas", "measurement": "50g/2oz" },
+      { "position": 4, "name": "cinnamon", "measurement": "2 tsp" },
+      { "position": 5, "name": "milk", "measurement": "350ml/12fl" },
+      { "position": 6, "name": "double cream", "measurement": "50ml/2fl oz" },
+      { "position": 7, "name": "eggs", "measurement": "2 free-range" },
+      { "position": 8, "name": "sugar", "measurement": "25g/1oz" },
+      { "position": 9, "name": "nutmeg", "measurement": "grated, to taste" }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "inputHash": "d96bea754c0ab527b113ea9ae8ec4b881ce197afb4c301b09308b0f57cf7f160",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:09.971Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp dried shrimp ≈ 20 g (from prior estimate); zero carbs as per standard dehydrated shrimp data."
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Boiling water contributes zero carbohydrates or fiber."
+    },
+    {
+      "position": 3,
+      "carbsG": 17,
+      "fiberG": 8,
+      "assumptions": "1 medium napa cabbage head ≈ 800 g edible portion (from prior); raw values scaled from standard napa cabbage (2.2 g carbs/1 g fiber per 100 g)."
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp peanut oil = 28 g (from prior); pure fat with zero carbs/fiber."
+    },
+    {
+      "position": 5,
+      "carbsG": 3,
+      "fiberG": 1.5,
+      "assumptions": "4 scallions ≈ 60 g chopped (from prior); standard green onion values (5 g carbs/2.5 g fiber per 100 g)."
+    },
+    {
+      "position": 6,
+      "carbsG": 1,
+      "fiberG": 0.2,
+      "assumptions": "1 tbsp minced ginger ≈ 6 g (from prior); standard ginger values."
+    },
+    {
+      "position": 7,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "1 tbsp regular soy sauce ≈ 15 g (from prior); typical values for standard soy sauce."
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp water contributes zero carbohydrates or fiber."
+    },
+    {
+      "position": 9,
+      "carbsG": 8,
+      "fiberG": 0.2,
+      "assumptions": "2 tsp cornstarch ≈ 10 g (from prior); nearly all carbohydrate."
+    },
+    {
+      "position": 10,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp kosher salt contributes zero carbohydrates or fiber."
+    },
+    {
+      "position": 11,
+      "carbsG": 1,
+      "fiberG": 0.7,
+      "assumptions": "1/2 tsp ground pepper ≈ 1 g; standard black pepper values."
+    }
+  ]
+}

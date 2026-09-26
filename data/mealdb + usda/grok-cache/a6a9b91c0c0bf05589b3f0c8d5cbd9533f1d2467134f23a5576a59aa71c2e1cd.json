@@ -1,0 +1,21 @@
+{
+  "inputHash": "a6a9b91c0c0bf05589b3f0c8d5cbd9533f1d2467134f23a5576a59aa71c2e1cd",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:54.889Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 10,
+      "caloriesPer100g": 717,
+      "assumptions": "One knob of butter is typically ~5g; 2 knobs total 10g edible butter (standard estimate for a 'knob' in recipes)."
+    },
+    {
+      "position": 4,
+      "grams": 3,
+      "caloriesPer100g": 295,
+      "assumptions": "'3 chopped' tarragon leaves interpreted as ~3g fresh leaves (modest volume for a small herb amount in an omelette; realistic density for chopped fresh tarragon)."
+    }
+  ]
+}

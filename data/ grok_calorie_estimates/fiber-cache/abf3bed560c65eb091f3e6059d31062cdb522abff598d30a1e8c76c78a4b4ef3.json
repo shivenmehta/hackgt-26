@@ -1,0 +1,45 @@
+{
+  "inputHash": "abf3bed560c65eb091f3e6059d31062cdb522abff598d30a1e8c76c78a4b4ef3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:18.048Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 90,
+      "fiberG": 13,
+      "assumptions": "250g dark/plain baking chocolate (approx 70% cocoa); values based on typical nutritional data for solid dark chocolate."
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "175g unsalted butter (full quantity incorporated into batter)."
+    },
+    {
+      "position": 3,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "2 tbsp (30ml) semi-skimmed milk; modest estimate for small liquid addition."
+    },
+    {
+      "position": 4,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "5 large whole eggs (~50g edible portion each); full quantity used raw in batter."
+    },
+    {
+      "position": 5,
+      "carbsG": 175,
+      "fiberG": 0,
+      "assumptions": "175g granulated white sugar (full quantity creamed into batter)."
+    },
+    {
+      "position": 6,
+      "carbsG": 93,
+      "fiberG": 3,
+      "assumptions": "125g plain/all-purpose wheat flour (full quantity folded into batter)."
+    }
+  ]
+}

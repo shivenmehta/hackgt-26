@@ -1,0 +1,359 @@
+{
+  "inputHash": "5e0a0b482ef3f22e784c251007c1054272f4ea3cfb5641662f6835c0cad19b65",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:23:26.670Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 164,
+        "proteinG": 8.9,
+        "fatG": 2.6,
+        "carbsG": 27.4,
+        "fiberG": 7.6
+      },
+      "caloriesKcal": 656,
+      "proteinG": 35.6,
+      "fatG": 10.4,
+      "carbsG": 109.6,
+      "fiberG": 30.4,
+      "assumptions": "Canned chickpeas, drained weight as given; standard drained canned values used",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0.1,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0.014000000000000002,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon olive oil weighs ~14 g; pure oil values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14.1,
+        "fatG": 12.9,
+        "carbsG": 53.99,
+        "fiberG": 34.9
+      },
+      "caloriesKcal": 5.64,
+      "proteinG": 0.282,
+      "fatG": 0.258,
+      "carbsG": 1.0798,
+      "fiberG": 0.698,
+      "assumptions": "Pinch of paprika estimated at 2 g (small recipe amount); typical smoked or sweet paprika values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 36,
+      "proteinG": 1.8,
+      "fatG": 0.4,
+      "carbsG": 7.8,
+      "fiberG": 2.4,
+      "assumptions": "Two small tomatoes cut into chunks; total ~200 g edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "One medium red onion finely sliced; total ~110 g edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 6,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0.6,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.04,
+      "fiberG": 0,
+      "assumptions": "2 teaspoons red wine vinegar; negligible macros, standard vinegar values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 160,
+        "proteinG": 2,
+        "fatG": 14.7,
+        "carbsG": 8.5,
+        "fiberG": 6.7
+      },
+      "caloriesKcal": 320,
+      "proteinG": 4,
+      "fatG": 29.4,
+      "carbsG": 17,
+      "fiberG": 13.4,
+      "assumptions": "One medium avocado (~200 g with skin/pit removed, edible flesh only)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.28,
+      "fatG": 0.08,
+      "carbsG": 4.2,
+      "fiberG": 1.12,
+      "assumptions": "Juice of 1 lime estimated at ~40 g; standard lime juice values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.14,
+      "fatG": 0.04,
+      "carbsG": 2.1,
+      "fiberG": 0.56,
+      "assumptions": "Additional chopped lime (likely wedges or zest) estimated at 20 g; same as lime juice values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 181,
+        "proteinG": 2.4,
+        "fatG": 18,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 181,
+      "proteinG": 2.4,
+      "fatG": 18,
+      "carbsG": 3.6,
+      "fiberG": 0,
+      "assumptions": "100 g soured cream as given; typical full-fat values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 12,
+        "fatG": 10,
+        "carbsG": 45,
+        "fiberG": 20
+      },
+      "caloriesKcal": 28.2,
+      "proteinG": 1.2,
+      "fatG": 1,
+      "carbsG": 4.5,
+      "fiberG": 2,
+      "assumptions": "2 teaspoons harissa paste/spice estimated at 10 g; typical harissa values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 218,
+        "proteinG": 5.7,
+        "fatG": 3.9,
+        "carbsG": 41.6,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 436,
+      "proteinG": 11.4,
+      "fatG": 7.8,
+      "carbsG": 83.2,
+      "fiberG": 5,
+      "assumptions": "4 standard corn tortillas (~50 g each); typical values for 6-inch corn tortillas",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 3.45,
+      "proteinG": 0.33,
+      "fatG": 0.075,
+      "carbsG": 0.555,
+      "fiberG": 0.42,
+      "assumptions": "Coriander (cilantro) to serve estimated at 15 g (small bunch portion); standard fresh herb values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52870",
+    "name": "Chickpea Fajitas",
+    "cuisine": "Mexican",
+    "instructions": "Heat oven to 200C/180C fan/gas 6 and line a baking tray with foil. Drain the chickpeas, pat dry and tip onto the prepared baking tray. Add the oil and paprika, toss to coat, then roast for 20-25 mins until browned and crisp, shaking halfway through cooking.\r\n\r\nMeanwhile, put the tomatoes and onion in a small bowl with the vinegar and set aside to pickle. Put the avocado in another bowl and mash with a fork, leaving some larger chunks. Stir in the lime juice and season well. Mix the soured cream with the harissa and set aside until ready to serve.\r\n\r\nHeat a griddle pan until nearly smoking. Add the tortillas , one at a time, charring each side until hot with griddle lines. \r\n\r\nPut everything on the table and build the fajitas : spread a little of the harissa cream over the tortilla, top with roasted chickpeas, guacamole, pickled salsa and coriander, if you like. Serve with the lime wedges for squeezing over.",
+    "ingredients": [
+      { "position": 1, "name": "Chickpeas", "measurement": "400g" },
+      { "position": 2, "name": "Olive Oil", "measurement": "1 tblsp" },
+      { "position": 3, "name": "Paprika", "measurement": "pinch" },
+      {
+        "position": 4,
+        "name": "Tomatoes",
+        "measurement": "2 small cut chunks"
+      },
+      { "position": 5, "name": "Red Onions", "measurement": "1 finely sliced" },
+      { "position": 6, "name": "Red Wine Vinegar", "measurement": "2 tsp" },
+      { "position": 7, "name": "Avocado", "measurement": "1" },
+      { "position": 8, "name": "Lime", "measurement": "Juice of 1" },
+      { "position": 9, "name": "Lime", "measurement": "Chopped" },
+      { "position": 10, "name": "Sour Cream", "measurement": "100g" },
+      { "position": 11, "name": "Harissa Spice", "measurement": "2 tsp" },
+      { "position": 12, "name": "Corn Tortillas", "measurement": "4" },
+      { "position": 13, "name": "Coriander", "measurement": "to serve" }
+    ]
+  }
+}

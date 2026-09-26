@@ -1,0 +1,51 @@
+{
+  "inputHash": "7865c967187a8177d849e0f8076c5ba5f866afe1b3aba0aa3e1c4bdb1e830fe0",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:18:06.652Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 520,
+      "proteinG": 34,
+      "fatG": 4,
+      "assumptions": "2 cups = 400 g dry fava/broad beans (standard volume-to-weight conversion for dry legumes); values for uncooked dry beans as the recipe starts with dried beans that are then cooked"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 5,
+      "proteinG": 0.4,
+      "fatG": 0.1,
+      "assumptions": "1/3 cup chopped fresh parsley ≈ 20 g; modest quantity used as garnish"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 40,
+      "proteinG": 0,
+      "fatG": 4.5,
+      "assumptions": "Dash of olive oil estimated at 1 tsp (≈ 5 g) total for the dish as a modest context-appropriate amount for light dressing"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 50,
+      "proteinG": 2,
+      "fatG": 1,
+      "assumptions": "3 whole lemons (juice + some pulp used as dressing); total edible portion ≈ 180 g"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 18,
+      "proteinG": 0.8,
+      "fatG": 0.1,
+      "assumptions": "4 garlic cloves ≈ 12 g total, crushed and used as dressing"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 5,
+      "proteinG": 0.3,
+      "fatG": 0.2,
+      "assumptions": "Sprinkling of ground cumin estimated at 1 tsp (≈ 2 g) total for the dish as a modest context-appropriate seasoning amount"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "inputHash": "009e4e7cdcf365062c258eef80acf318a8aecbc56dd3159dd5fce51fa6ebcd5f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:51.592Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp vegetable oil (standard density ~14 g per tbsp); used for stir-frying as per instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 26,
+        "fatG": 15,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1000,
+      "proteinG": 104,
+      "fatG": 60,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "400 g raw beef strips (typical for stir-fry; ~20% fat content common for this cut and cuisine)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.4,
+      "fatG": 0.1,
+      "carbsG": 1.8,
+      "fiberG": 0.3,
+      "assumptions": "1 medium red chilli (~20 g whole, sliced; typical Thai bird's eye or similar size)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 70,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 14,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 21,
+      "proteinG": 0.6,
+      "fatG": 0.15,
+      "carbsG": 4.2,
+      "fiberG": 0.15,
+      "assumptions": "2 tbsp oyster sauce (~15 g per tbsp; common bottled variety)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 3,
+        "fatG": 0.6,
+        "carbsG": 3,
+        "fiberG": 2
+      },
+      "caloriesKcal": 4.6,
+      "proteinG": 0.6,
+      "fatG": 0.12,
+      "carbsG": 0.6,
+      "fiberG": 0.4,
+      "assumptions": "Handful fresh basil leaves (standard Thai holy basil handful ~20 g)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53199",
+    "name": "Thai beef stir-fry",
+    "cuisine": "Thai",
+    "instructions": "step 1\r\nHeat a wok or large frying pan until smoking hot. Pour in the oil and swirl around the pan, then tip in the beef strips and chilli. Cook, stirring all the time, until the meat is lightly browned, about 3 mins, then pour over the oyster sauce. Cook until heated through and the sauce coats the meat. stir in the basil leaves and serve with plain rice.",
+    "ingredients": [
+      { "position": 1, "name": "Vegetable Oil", "measurement": "2 tbsp" },
+      { "position": 2, "name": "Beef", "measurement": "400g" },
+      { "position": 3, "name": "Red Chilli", "measurement": "1 sliced" },
+      { "position": 4, "name": "Oyster Sauce", "measurement": "2 tblsp" },
+      { "position": 5, "name": "Basil Leaves", "measurement": "Handful" }
+    ]
+  }
+}

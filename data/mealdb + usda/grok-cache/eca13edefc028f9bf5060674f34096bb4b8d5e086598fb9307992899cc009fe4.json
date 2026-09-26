@@ -1,0 +1,45 @@
+{
+  "inputHash": "eca13edefc028f9bf5060674f34096bb4b8d5e086598fb9307992899cc009fe4",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:42.546Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 200,
+      "caloriesPer100g": 340,
+      "assumptions": "Standard dry toor dal (pigeon peas) is ~200g per cup; calories reflect typical dry value before cooking."
+    },
+    {
+      "position": 2,
+      "grams": 592,
+      "caloriesPer100g": 0,
+      "assumptions": "Water density ~1g/ml; 1 cup = 237ml so 2.5 cups = 592g; known value copied."
+    },
+    {
+      "position": 5,
+      "grams": 42,
+      "caloriesPer100g": 900,
+      "assumptions": "1 tbs ghee ≈14g so 3 tbs=42g; known value copied."
+    },
+    {
+      "position": 9,
+      "grams": 1,
+      "caloriesPer100g": 313,
+      "assumptions": "Typical dried bay leaf is ~0.5g each so 2 leaves ≈1g total; known value copied."
+    },
+    {
+      "position": 13,
+      "grams": 1,
+      "caloriesPer100g": 31.3,
+      "assumptions": "1/2 tsp ground red pepper (chili) ≈1g; known value copied."
+    },
+    {
+      "position": 16,
+      "grams": 0.5,
+      "caloriesPer100g": null,
+      "assumptions": "1/4 tsp garam masala ≈0.5g; no realistic calorie density can be estimated from the given data without inventing values."
+    }
+  ]
+}

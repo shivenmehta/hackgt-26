@@ -1,0 +1,37 @@
+{
+  "inputHash": "eadc393b11afae9684659eb8d399b8004c084cf9b877110ea8c09652b977a688",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:17:49.638Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 1089,
+      "proteinG": 19.5,
+      "fatG": 2.1,
+      "assumptions": "300g uncooked sushi rice (standard short-grain Japanese rice); values based on typical uncooked nutritional profile (362 kcal, 6.5g protein, 0.7g fat per 100g)."
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 35,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tablespoon (15ml) mirin; ~35 kcal per tbsp, negligible protein and fat."
+    },
+    {
+      "position": 3,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Garnish quantity unspecified and variable; cannot reasonably estimate total contribution without assumed amount."
+    },
+    {
+      "position": 4,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Garnish quantity unspecified and variable; cannot reasonably estimate total contribution without assumed amount."
+    }
+  ]
+}

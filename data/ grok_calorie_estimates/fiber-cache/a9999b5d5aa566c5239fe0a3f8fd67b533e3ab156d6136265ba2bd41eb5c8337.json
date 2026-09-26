@@ -1,0 +1,63 @@
+{
+  "inputHash": "a9999b5d5aa566c5239fe0a3f8fd67b533e3ab156d6136265ba2bd41eb5c8337",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:00.699Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 18,
+      "fiberG": 2,
+      "assumptions": "3/4 cup soy sauce ≈ 192 g; typical values for regular soy sauce"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 cup water = 118 ml; zero carbs"
+    },
+    {
+      "position": 3,
+      "carbsG": 53,
+      "fiberG": 0,
+      "assumptions": "1/4 cup packed brown sugar ≈ 55 g; nearly all carbohydrate"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.3,
+      "fiberG": 0.3,
+      "assumptions": "1/2 tsp ground ginger ≈ 1 g; typical values for ground spice"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.7,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp minced garlic ≈ 3 g; typical values for fresh garlic"
+    },
+    {
+      "position": 6,
+      "carbsG": 28,
+      "fiberG": 1,
+      "assumptions": "4 Tbsp cornstarch ≈ 32 g; nearly all starch carbohydrate"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 raw boneless skinless chicken breasts ≈ 340 g total; zero carbs"
+    },
+    {
+      "position": 8,
+      "carbsG": 30,
+      "fiberG": 8,
+      "assumptions": "12 oz / 340 g frozen stir-fry vegetables (mixed, typical values, cooked)"
+    },
+    {
+      "position": 9,
+      "carbsG": 135,
+      "fiberG": 12,
+      "assumptions": "3 cups cooked brown rice ≈ 600 g total; standard values"
+    }
+  ]
+}

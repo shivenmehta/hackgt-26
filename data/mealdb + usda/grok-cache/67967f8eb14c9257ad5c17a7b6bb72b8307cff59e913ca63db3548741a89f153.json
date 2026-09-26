@@ -1,0 +1,51 @@
+{
+  "inputHash": "67967f8eb14c9257ad5c17a7b6bb72b8307cff59e913ca63db3548741a89f153",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:08.856Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 4,
+      "grams": 8,
+      "caloriesPer100g": null,
+      "assumptions": "1.5 tsp doubanjiang (broad bean chili paste) estimated at ~5.5g per tsp based on typical density of thick pastes."
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "caloriesPer100g": null,
+      "assumptions": "0.5 tsp fermented black beans (douchi) estimated at ~6g per tsp; modest volume for whole beans."
+    },
+    {
+      "position": 6,
+      "grams": 6,
+      "caloriesPer100g": 251,
+      "assumptions": "1 tbs pepper flakes (likely chili flakes) estimated at ~6g per tbs; known cal copied exactly. Modest amount for seasoning."
+    },
+    {
+      "position": 8,
+      "grams": 1.5,
+      "caloriesPer100g": null,
+      "assumptions": "0.5 tsp Sichuan peppercorn powder estimated at ~1.5g per tsp (ground form is light); modest 'to taste' amount."
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "caloriesPer100g": 32,
+      "assumptions": "2 chopped scallions estimated at 15g each (typical medium scallion edible portion ~15g); known cal copied exactly. Distinguishes from spring onions below."
+    },
+    {
+      "position": 13,
+      "grams": 60,
+      "caloriesPer100g": 32,
+      "assumptions": "4 spring onions (green onions) estimated at 15g each (edible portion, assuming chopped); known cal copied exactly. Full recipe context treats separately from scallions."
+    },
+    {
+      "position": 15,
+      "grams": 8,
+      "caloriesPer100g": 80,
+      "assumptions": "4 sliced ginger pieces estimated at 2g per thin slice (typical for 1-inch diameter ginger); known cal copied exactly. Modest amount for aromatics."
+    }
+  ]
+}

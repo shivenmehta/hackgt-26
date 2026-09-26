@@ -1,0 +1,81 @@
+{
+  "inputHash": "bb6fe00066894bc7bb015f634d55e5ba69b128fe42755e49b0288d20280bc0e3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:37.000Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 7.1,
+      "fiberG": 0,
+      "assumptions": "142 ml single cream (approx 145 g); standard values for pouring cream ~4.9 g carbs/100 ml, negligible fiber"
+    },
+    {
+      "position": 2,
+      "carbsG": 25,
+      "fiberG": 0,
+      "assumptions": "25 g caster sugar; 100 % sucrose carbohydrate, 0 g fiber"
+    },
+    {
+      "position": 3,
+      "carbsG": 46,
+      "fiberG": 7,
+      "assumptions": "100 g dark chocolate (70 % cocoa); standard values ~46 g total carbs including ~7 g fiber per 100 g"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "25 g butter; pure fat, 0 g carbs or fiber"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "modest 5 g melted butter for brushing; pure fat, 0 g carbs or fiber"
+    },
+    {
+      "position": 6,
+      "carbsG": 50,
+      "fiberG": 0,
+      "assumptions": "50 g caster sugar; 100 % sucrose carbohydrate, 0 g fiber"
+    },
+    {
+      "position": 7,
+      "carbsG": 80.5,
+      "fiberG": 12.3,
+      "assumptions": "175 g dark chocolate (70 % cocoa); standard values ~46 g total carbs including ~7 g fiber per 100 g"
+    },
+    {
+      "position": 8,
+      "carbsG": 0.9,
+      "fiberG": 0,
+      "assumptions": "2 tbsp (30 ml) double cream (~31 g); standard values ~3 g total carbs/100 g, negligible fiber"
+    },
+    {
+      "position": 9,
+      "carbsG": 2.7,
+      "fiberG": 0,
+      "assumptions": "4 large egg yolks (~68 g total); standard values ~4 g total carbs/100 g, 0 g fiber"
+    },
+    {
+      "position": 10,
+      "carbsG": 1.6,
+      "fiberG": 0,
+      "assumptions": "5 large egg whites (~175 g total); standard values ~0.9 g total carbs/100 g, 0 g fiber"
+    },
+    {
+      "position": 11,
+      "carbsG": 0.9,
+      "fiberG": 0,
+      "assumptions": "2 tbsp (30 ml) double cream (~31 g); standard values ~3 g total carbs/100 g, negligible fiber"
+    },
+    {
+      "position": 12,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "icing sugar dusted to serve; quantity unspecified and negligible, cannot be estimated reasonably"
+    }
+  ]
+}

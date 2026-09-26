@@ -1,0 +1,58 @@
+{
+  "inputHash": "c74191d78950aa477bd949172581c4d7f8ee5b7971ec9f69e8474bcc91984ad2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:18:49.432Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 320,
+      "proteinG": 24,
+      "fatG": 8,
+      "assumptions": "800g frozen mulukhiyah (jute mallow leaves); ~40 kcal, 3g protein, 1g fat per 100g"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 45,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "1 medium onion (~110g) chopped, raw weight"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 600,
+      "proteinG": 57,
+      "fatG": 42,
+      "assumptions": "300g boneless beef (stewing cuts, ~20% fat); values for raw weight"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "1 tsp table salt (~6g); negligible calories, 0g protein/fat"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "1 L water; 0 kcal, 0g protein, 0g fat"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 4,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 garlic clove (~3g), raw; used in garlic-oil tempering step"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 480,
+      "proteinG": 0,
+      "fatG": 56,
+      "assumptions": "1/2 cup (112g) olive oil; most of the oil is used in the garlic tempering and added to the final dish (instructions reference 1/4-1/2 cup for this purpose plus 3-4 tbsp for sautéing, totaling ~1/2 cup)"
+    }
+  ]
+}

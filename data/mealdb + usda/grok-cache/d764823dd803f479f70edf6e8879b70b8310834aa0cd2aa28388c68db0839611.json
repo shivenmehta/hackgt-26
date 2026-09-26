@@ -1,0 +1,45 @@
+{
+  "inputHash": "d764823dd803f479f70edf6e8879b70b8310834aa0cd2aa28388c68db0839611",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:22.907Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 750,
+      "caloriesPer100g": 83.4,
+      "assumptions": "5 large potatoes estimated at 150g each (common size for large baking-style potatoes; peeled weight close to raw as skin is thin)."
+    },
+    {
+      "position": 3,
+      "grams": 150,
+      "caloriesPer100g": 22.9,
+      "assumptions": "1 medium-large green pepper estimated at ~150g whole (edible portion after deseeding is similar as measurement is for the whole item)."
+    },
+    {
+      "position": 5,
+      "grams": 7,
+      "caloriesPer100g": null,
+      "assumptions": "1 tbs Ras el hanout is a dry spice blend; typical weight ~6-8g per tablespoon. No standard calorie value available for this specific blend so left null."
+    },
+    {
+      "position": 7,
+      "grams": 1200,
+      "caloriesPer100g": 148,
+      "assumptions": "24 eggs; each large skinned/whole egg ~50g edible (standard large egg without shell)."
+    },
+    {
+      "position": 8,
+      "grams": 1,
+      "caloriesPer100g": 0,
+      "assumptions": "Pinch of salt estimated at ~1g (modest seasoning amount; negligible mass)."
+    },
+    {
+      "position": 9,
+      "grams": 1,
+      "caloriesPer100g": 251,
+      "assumptions": "Pinch of pepper estimated at ~1g (modest seasoning amount)."
+    }
+  ]
+}

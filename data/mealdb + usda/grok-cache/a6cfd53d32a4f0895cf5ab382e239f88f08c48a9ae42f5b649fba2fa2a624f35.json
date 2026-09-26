@@ -1,0 +1,27 @@
+{
+  "inputHash": "a6cfd53d32a4f0895cf5ab382e239f88f08c48a9ae42f5b649fba2fa2a624f35",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:41.251Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 125,
+      "caloriesPer100g": 132,
+      "assumptions": "Custard here refers to ready-made custard (vanilla sauce); standard UK ready-to-eat custard is ~132 kcal/100 g. Supplied measurement is already in grams so used directly."
+    },
+    {
+      "position": 5,
+      "grams": 200,
+      "caloriesPer100g": 480,
+      "assumptions": "Digestive biscuits (sweetmeal cookies) average ~480 kcal/100 g; measurement supplied as 200 g so used directly. 'Shredded' describes preparation but does not change edible mass."
+    },
+    {
+      "position": 10,
+      "grams": 24,
+      "caloriesPer100g": 360,
+      "assumptions": "Custard powder (e.g. Bird's style) is a dry starch/sugar mix; 1 tbs ≈ 8 g so 3 tbs = 24 g. Typical dry powder density is ~360 kcal/100 g."
+    }
+  ]
+}

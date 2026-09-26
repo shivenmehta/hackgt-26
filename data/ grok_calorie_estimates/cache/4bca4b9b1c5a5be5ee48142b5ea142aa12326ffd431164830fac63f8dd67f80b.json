@@ -1,0 +1,72 @@
+{
+  "inputHash": "4bca4b9b1c5a5be5ee48142b5ea142aa12326ffd431164830fac63f8dd67f80b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:17:54.412Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 1361,
+      "proteinG": 41,
+      "fatG": 6,
+      "assumptions": "375g plain white wheat flour (standard values: ~364 kcal, 11g protein, 1.5g fat per 100g)"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 193,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "50g caster sugar (standard: 387 kcal per 100g)"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 26,
+      "proteinG": 3,
+      "fatG": 0,
+      "assumptions": "7g active dry yeast (standard: ~375 kcal, ~45g protein per 100g)"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 48,
+      "proteinG": 3,
+      "fatG": 2,
+      "assumptions": "75g whole cow's milk (standard: ~64 kcal, 3.3g protein, 3.6g fat per 100g)"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 215,
+      "proteinG": 19,
+      "fatG": 14,
+      "assumptions": "3 large whole eggs (~50g edible portion each, standard large egg values: ~143 kcal, 13g protein, 10g fat per 100g)"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Quantity for glaze not specified; cannot estimate without assuming an amount (e.g. 1 egg or part thereof)"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 1292,
+      "proteinG": 2,
+      "fatG": 146,
+      "assumptions": "180g unsalted butter (standard: ~717 kcal, 0.9g protein, 81g fat per 100g)"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 833,
+      "proteinG": 52,
+      "fatG": 69,
+      "assumptions": "250g ripe brie cheese (standard: ~333 kcal, 21g protein, 27.7g fat per 100g; assumes whole edible portion)"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 352,
+      "proteinG": 29,
+      "fatG": 28,
+      "assumptions": "8 slices prosciutto (~15g per average thin slice, total 120g; standard cured ham values ~293 kcal, 24g protein, 23g fat per 100g)"
+    }
+  ]
+}

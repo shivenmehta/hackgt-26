@@ -1,0 +1,51 @@
+{
+  "inputHash": "2a987d5d3d27f70252c0c28a3f5a2bbc2547bbf514312c40ecbc42a4afc8f40a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:47.501Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 1.1,
+      "fiberG": 0,
+      "assumptions": "3 large whole eggs (approx 150g total edible portion); standard value ~0.72g carbs/100g"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 small knobs of butter = 20g total (used for cooking and glazing); pure fat"
+    },
+    {
+      "position": 3,
+      "carbsG": 0.2,
+      "fiberG": 0,
+      "assumptions": "1 tsp grated Parmesan cheese (approx 5g); standard value ~4g carbs/100g"
+    },
+    {
+      "position": 4,
+      "carbsG": 0.1,
+      "fiberG": 0,
+      "assumptions": "3 fresh tarragon leaves chopped (negligible weight ~1g); standard value ~14g carbs/100g for fresh tarragon"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.8,
+      "fiberG": 0.4,
+      "assumptions": "1 tbs chopped fresh parsley (~6g); standard value ~6.3g carbs/100g with ~3.3g fiber/100g"
+    },
+    {
+      "position": 6,
+      "carbsG": 0.6,
+      "fiberG": 0.4,
+      "assumptions": "1 tbs chopped fresh chives (~6g); standard value ~4.4g carbs/100g with ~2.5g fiber/100g"
+    },
+    {
+      "position": 7,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "4 tbs grated Gruyère cheese (approx 60g); standard value ~2g carbs/100g"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "inputHash": "ff016b22e99c5bd532b38d20038de38010430e576d428ee39dd3c10819489ba5",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:17:00.384Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 1174,
+      "proteinG": 41,
+      "fatG": 5.4,
+      "assumptions": "320g dry spaghetti (standard 367 kcal/100g, 12.8g protein, 1.7g fat per 100g)."
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 540,
+      "proteinG": 27,
+      "fatG": 45,
+      "assumptions": "6 large egg yolks (approx 18g each, standard 55 kcal, 2.7g protein, 4.5g fat per yolk)."
+    },
+    {
+      "position": 3,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Salt to taste: negligible calories, protein and fat."
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 540,
+      "proteinG": 39,
+      "fatG": 42,
+      "assumptions": "150g unsmoked pancetta/guanciale (standard 360 kcal/100g, 26g protein, 28g fat per 100g)."
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 200,
+      "proteinG": 14,
+      "fatG": 15,
+      "assumptions": "50g pecorino romano (standard 392-400 kcal/100g, 28g protein, 29-32g fat per 100g)."
+    },
+    {
+      "position": 6,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Black pepper to taste: negligible calories, protein and fat."
+    }
+  ]
+}

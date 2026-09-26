@@ -1,0 +1,45 @@
+{
+  "inputHash": "1cecaa78002bd297751a006097ae1124a0446b3f73b67334d6f171bb20da82fa",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:06.754Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 4,
+      "grams": 15,
+      "caloriesPer100g": 884,
+      "assumptions": "A 'dash' of oil for searing in a large casserole is estimated at 1 tbsp (15ml/g) based on typical recipe usage for browning meat; calories copied from known value."
+    },
+    {
+      "position": 6,
+      "grams": 4,
+      "caloriesPer100g": 375,
+      "assumptions": "2 tsp cumin seeds/powder weighs ~4g (2g per tsp); calories copied from known value for cumin."
+    },
+    {
+      "position": 9,
+      "grams": 3,
+      "caloriesPer100g": 247,
+      "assumptions": "1 large cinnamon stick estimated at ~3g (typical dried bark weight); calories copied from known value for cinnamon."
+    },
+    {
+      "position": 10,
+      "grams": 2,
+      "caloriesPer100g": 313,
+      "assumptions": "3 bay leaves estimated at ~2g total (0.5-1g per large dried leaf); calories copied from known value for bay leaves."
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "caloriesPer100g": 282,
+      "assumptions": "2 ancho chillies (dried poblano peppers) estimated at ~15g each based on typical whole dried chile weights; calories estimated from standard dried chile pepper data (~282 kcal/100g) as no known value supplied."
+    },
+    {
+      "position": 17,
+      "grams": 480,
+      "caloriesPer100g": 138,
+      "assumptions": "2 x 400g tins of borlotti beans: standard drained/edible weight is ~240g per 400g tin (accounting for brine); total 480g. Calories from standard drained/canned borlotti/cranberry bean values (~138 kcal/100g) as no known value supplied."
+    }
+  ]
+}

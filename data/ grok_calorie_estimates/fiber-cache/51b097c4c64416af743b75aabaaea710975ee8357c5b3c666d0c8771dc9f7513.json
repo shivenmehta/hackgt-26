@@ -1,0 +1,75 @@
+{
+  "inputHash": "51b097c4c64416af743b75aabaaea710975ee8357c5b3c666d0c8771dc9f7513",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:44.305Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "½ cup butter = 113 g; pure fat, zero carbs"
+    },
+    {
+      "position": 2,
+      "carbsG": 200,
+      "fiberG": 0,
+      "assumptions": "1 cup granulated sugar = 200 g; all carbohydrate is sugar"
+    },
+    {
+      "position": 3,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "2 large eggs ≈ 100 g; trace carbs from ~0.5 g each"
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tsp vanilla extract ≈ 4 g; negligible carbs"
+    },
+    {
+      "position": 5,
+      "carbsG": 190,
+      "fiberG": 7,
+      "assumptions": "2 cups all-purpose flour ≈ 250 g; standard values ~76 g carbs/100 g"
+    },
+    {
+      "position": 6,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 tsp baking powder ≈ 4 g; trace carbs"
+    },
+    {
+      "position": 7,
+      "carbsG": 15,
+      "fiberG": 0,
+      "assumptions": "1 1/4 cup whole milk ≈ 300 g; ~5 g carbs/100 g"
+    },
+    {
+      "position": 8,
+      "carbsG": 495,
+      "fiberG": 0,
+      "assumptions": "1 1/2 cup maple syrup ≈ 495 g; nearly 100% sugars"
+    },
+    {
+      "position": 9,
+      "carbsG": 330,
+      "fiberG": 0,
+      "assumptions": "1 1/2 cup packed brown sugar ≈ 330 g; all carbohydrate is sugar"
+    },
+    {
+      "position": 10,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 1/2 cup heavy cream ≈ 360 g; ~3.3 g carbs/100 g"
+    },
+    {
+      "position": 11,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/3 cup butter ≈ 75 g; pure fat, zero carbs"
+    }
+  ]
+}

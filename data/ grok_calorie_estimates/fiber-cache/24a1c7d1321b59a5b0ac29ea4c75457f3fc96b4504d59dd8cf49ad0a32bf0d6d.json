@@ -1,0 +1,69 @@
+{
+  "inputHash": "24a1c7d1321b59a5b0ac29ea4c75457f3fc96b4504d59dd8cf49ad0a32bf0d6d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:33.732Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 47,
+      "fiberG": 14,
+      "assumptions": "4 medium carrots (approx 500g total), raw, peeled and sliced; standard carrot values ~9.6g carbs/100g and ~2.8g fiber/100g"
+    },
+    {
+      "position": 2,
+      "carbsG": 33,
+      "fiberG": 14,
+      "assumptions": "1/2 medium red cabbage (approx 500g), raw and shredded; standard red cabbage values ~6.6g carbs/100g and ~2.8g fiber/100g"
+    },
+    {
+      "position": 3,
+      "carbsG": 14,
+      "fiberG": 3,
+      "assumptions": "2 medium red onions (approx 220g total), raw and sliced; standard red onion values ~6.4g carbs/100g and ~1.2g fiber/100g"
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "small handful fresh mint leaves (approx 10g); standard mint values ~15g carbs/100g with most as fiber"
+    },
+    {
+      "position": 5,
+      "carbsG": 1,
+      "fiberG": 1,
+      "assumptions": "small handful fresh coriander leaves (approx 10g); standard coriander values ~4g carbs/100g with most as fiber"
+    },
+    {
+      "position": 6,
+      "carbsG": 6,
+      "fiberG": 2,
+      "assumptions": "small handful roasted peanuts (approx 30g); standard roasted peanut values ~16g carbs/100g and ~7g fiber/100g (unsalted)"
+    },
+    {
+      "position": 7,
+      "carbsG": 7,
+      "fiberG": 0,
+      "assumptions": "juice of 2 limes (approx 60ml total); standard lime juice values ~11g carbs/100ml, negligible fiber"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon groundnut oil (15ml); standard peanut oil values 0g carbs and fiber"
+    },
+    {
+      "position": 9,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 red chilli (approx 20g), chopped; standard fresh red chilli values ~9g carbs/100g, negligible fiber"
+    },
+    {
+      "position": 10,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon brown sugar (12g); standard brown sugar values ~100g carbs/100g, negligible fiber"
+    }
+  ]
+}

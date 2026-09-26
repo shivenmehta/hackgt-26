@@ -1,0 +1,79 @@
+{
+  "inputHash": "3bc9c1bd66e4e9e56b84917fd11d2702a4b42c691bb3b60ef392cb82a15ee15d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:18:22.122Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 360,
+      "proteinG": 78,
+      "fatG": 6,
+      "assumptions": "24 raw king prawns ≈ 720g total (30g each with shell); peeled/deveined edible portion ≈ 480g; values for raw prawns."
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 240,
+      "proteinG": 0,
+      "fatG": 28,
+      "assumptions": "2 tbsp olive oil = 28g; all oil is used in the recipe."
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 25,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "1 small onion ≈ 70g, chopped and fully used."
+    },
+    {
+      "position": 4,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "1 bay leaf; negligible nutritional contribution."
+    },
+    {
+      "position": 5,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "1 pinch saffron; negligible nutritional contribution."
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 1640,
+      "proteinG": 30,
+      "fatG": 8,
+      "assumptions": "450g paella rice (dry weight) as stated; standard rice values."
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 20,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "2 tsp tomato puree ≈ 12g."
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 160,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "200ml white wine; alcohol mostly evaporates but calories included."
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 65,
+      "proteinG": 12,
+      "fatG": 2,
+      "assumptions": "650ml seafood stock; modest values assuming light homemade or low-calorie commercial stock."
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 210,
+      "proteinG": 36,
+      "fatG": 3,
+      "assumptions": "3 medium squid ≈ 450g total cleaned; raw, edible portion used in recipe."
+    }
+  ]
+}

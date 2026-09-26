@@ -1,0 +1,151 @@
+{
+  "inputHash": "0c70cfe48d367dca91be343706cf1dbdfe37747097684c7934148caf61414562",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:54.945Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 318,
+        "proteinG": 2,
+        "fatG": 0.2,
+        "carbsG": 81.3,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 318,
+      "proteinG": 2,
+      "fatG": 0.2,
+      "carbsG": 81.3,
+      "fiberG": 0.2,
+      "assumptions": "Standard miniature marshmallows; full 2 cups estimated at 100g based on typical density of ~50g per cup.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 510,
+      "per100g": {
+        "caloriesKcal": 479,
+        "proteinG": 4.2,
+        "fatG": 28.3,
+        "carbsG": 63.9,
+        "fiberG": 5.9
+      },
+      "caloriesKcal": 2442.9,
+      "proteinG": 21.42,
+      "fatG": 144.33,
+      "carbsG": 325.89,
+      "fiberG": 30.09,
+      "assumptions": "Semi-sweet chocolate chips; 3 cups estimated at 510g (170g per cup, typical package density).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 129,
+      "per100g": {
+        "caloriesKcal": 588,
+        "proteinG": 25,
+        "fatG": 50,
+        "carbsG": 20,
+        "fiberG": 8
+      },
+      "caloriesKcal": 758.52,
+      "proteinG": 32.25,
+      "fatG": 64.5,
+      "carbsG": 25.8,
+      "fiberG": 10.32,
+      "assumptions": "Creamy peanut butter; ½ cup estimated at 129g based on typical 258g per cup.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 12.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0.005,
+      "fatG": 0,
+      "carbsG": 0.635,
+      "fiberG": 0,
+      "assumptions": "Pure vanilla extract; 1 tsp estimated at 5g based on typical density of ~4.2g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 180,
+      "per100g": {
+        "caloriesKcal": 567,
+        "proteinG": 26,
+        "fatG": 49,
+        "carbsG": 16,
+        "fiberG": 8.5
+      },
+      "caloriesKcal": 1020.6,
+      "proteinG": 46.8,
+      "fatG": 88.2,
+      "carbsG": 28.8,
+      "fiberG": 15.3,
+      "assumptions": "Chopped roasted peanuts; full 1¼ cups estimated at 180g (144g per cup, typical for chopped nuts).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52786",
+    "name": "Rocky Road Fudge",
+    "cuisine": "American",
+    "instructions": "Line an 8-inch-square baking pan with wax paper or foil, and coat with non-stick spray.\r\nPour ½ cup of the miniature marshmallows into the bottom of the lined baking dish.\r\nIn a microwave-safe bowl, combine the chocolate chips and peanut butter. Microwave the chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.\r\nAdd the vanilla extract and stir well, until smooth.\r\nReserve 2 tablespoons of the chopped almonds or peanuts, and set aside.\r\nFold 1 ½ cups of the miniature marshmallows and the remaining chopped nuts into the chocolate mixture.\r\nTransfer the chocolate mixture into the prepared pan and spread into an even layer. Immediately top with the reserved chopped nuts and the mallow bits or additional miniature marshmallows, if using.\r\nRefrigerate for 4 hours, or until set.\r\nRemove the fudge and wax paper from the pan. Carefully peel all of wax paper from the fudge.\r\nCut the fudge into bite-sized pieces and serve.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Miniature Marshmallows",
+        "measurement": "2 cups"
+      },
+      { "position": 2, "name": "Chocolate Chips", "measurement": "3 cups" },
+      { "position": 3, "name": "Peanut Butter", "measurement": "½ cup" },
+      { "position": 4, "name": "Vanilla Extract", "measurement": "1 tsp" },
+      { "position": 5, "name": "Peanuts", "measurement": "1 ¼ cups" }
+    ]
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "inputHash": "24313acf40560ddf989c6b78e95061742aa5f6234f9e4ad50ba5e7a0097a4e4b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:30:39.235Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1.3,
+        "fatG": 0.1,
+        "carbsG": 5.8,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 250,
+      "proteinG": 13,
+      "fatG": 1,
+      "carbsG": 58,
+      "fiberG": 25,
+      "assumptions": "1 medium head of white cabbage, trimmed and sliced, ~1kg edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 0.2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 17.5,
+      "proteinG": 2.25,
+      "fatG": 0.5,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "Beef stock, typical homemade or low-sodium variety",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 3.1,
+        "fatG": 0.4,
+        "carbsG": 3.3,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 22,
+      "proteinG": 3.1,
+      "fatG": 0.4,
+      "carbsG": 3.3,
+      "fiberG": 2.2,
+      "assumptions": "Dried mushrooms (soaked), typical for Polish bigos recipes",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 902,
+        "proteinG": 0.1,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 225.5,
+      "proteinG": 0.025,
+      "fatG": 25,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Lard, 2 tbsp ≈ 25g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 301,
+        "proteinG": 13,
+        "fatG": 27,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1204,
+      "proteinG": 52,
+      "fatG": 108,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "Polish-style smoked sausages (kielbasa), typical values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 417,
+        "proteinG": 13,
+        "fatG": 40,
+        "carbsG": 1.2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1042.5,
+      "proteinG": 32.5,
+      "fatG": 100,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "Smoked pork bacon, typical values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 88,
+      "proteinG": 2.4200000000000004,
+      "fatG": 0.22,
+      "carbsG": 20.46,
+      "fiberG": 3.74,
+      "assumptions": "2 medium onions, chopped, ~110g each",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 750,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 26,
+        "fatG": 17,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1875,
+      "proteinG": 195,
+      "fatG": 127.5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Stewing beef, typical raw values, trimmed",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 240,
+        "proteinG": 2.2,
+        "fatG": 0.4,
+        "carbsG": 63.9,
+        "fiberG": 7.1
+      },
+      "caloriesKcal": 480,
+      "proteinG": 4.4,
+      "fatG": 0.8,
+      "carbsG": 127.8,
+      "fiberG": 14.2,
+      "assumptions": "Dried prunes, typical values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 bay leaf, negligible nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 whole cloves, negligible nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "12 black peppercorns, ~5g total, negligible nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 juniper berries, ~2g total, negligible nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 allspice berries, ~2g total, negligible nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 90,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 2.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 73.8,
+      "proteinG": 0.09,
+      "fatG": 0,
+      "carbsG": 2.34,
+      "fiberG": 0,
+      "assumptions": "Dry red wine, typical values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 4.3,
+        "fatG": 0.5,
+        "carbsG": 18.9,
+        "fiberG": 4.1
+      },
+      "caloriesKcal": 24.6,
+      "proteinG": 1.29,
+      "fatG": 0.15,
+      "carbsG": 5.67,
+      "fiberG": 1.2299999999999998,
+      "assumptions": "Tomato puree/paste, 2 tbsp ≈ 30g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53300",
+    "name": "Bigos (Polish hunter's stew)",
+    "cuisine": "Polish",
+    "instructions": "step 1\r\nPut the cabbage in a heavy casserole dish, add the stock and cook over a low heat for about 50 mins, until tender.\r\n\r\nstep 2\r\nCut the soaked mushrooms into strips and save the soaking water. Heat the lard and fry the sausages and bacon, then scoop out, leaving the fat in the pan. Fry the onion in the same pan for 5-8 mins until lightly browned.\r\n\r\nstep 3\r\nAdd the mushrooms and their liquid along with all the cooked meat, onions and prunes, then cover and cook for 20 mins. Add the spices, red wine and tomato purée and bring to a simmer, then cover and cook for 1 hr. Season well and leave to cool. Will keep covered and chilled for up to two days. Bigos improves in flavour over a couple of days. Leave to cool first. Reheat until piping hot before serving.",
+    "ingredients": [
+      { "position": 1, "name": "White Cabbage", "measurement": "1 sliced" },
+      { "position": 2, "name": "Beef Stock", "measurement": "250ml" },
+      { "position": 3, "name": "Mushrooms", "measurement": "100g" },
+      { "position": 4, "name": "Lard", "measurement": "2 tablespoons" },
+      { "position": 5, "name": "German Sausages", "measurement": "400g" },
+      { "position": 6, "name": "Bacon", "measurement": "250g" },
+      { "position": 7, "name": "Onion", "measurement": "2 chopped" },
+      { "position": 8, "name": "Beef", "measurement": "750g" },
+      { "position": 9, "name": "Prunes", "measurement": "200g" },
+      { "position": 10, "name": "Bay Leaf", "measurement": "1" },
+      { "position": 11, "name": "Cloves", "measurement": "2" },
+      { "position": 12, "name": "Peppercorns", "measurement": "12" },
+      { "position": 13, "name": "Juniper Berries", "measurement": "4" },
+      { "position": 14, "name": "Allspice Berries", "measurement": "4" },
+      { "position": 15, "name": "Red Wine", "measurement": "90 ml" },
+      { "position": 16, "name": "Tomato Puree", "measurement": "2 tablespoons" }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "inputHash": "09c16f4b72387c579954379bdc683a87869cde975849a0040bd2b8a7a4929bb4",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:14:53.190Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 644,
+      "proteinG": 34.8,
+      "fatG": 10.8,
+      "assumptions": "400 g drained chickpeas (standard 400 g can drained weight ~240-250 g solids; using 240 g drained: 380 kcal, 20.6 g protein, 6.5 g fat; scaled to full 400 g can contents for whole-recipe total)"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 119,
+      "proteinG": 0,
+      "fatG": 13.5,
+      "assumptions": "1 tbsp = 14 g olive oil, all used in roasting chickpeas"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 5,
+      "proteinG": 0.2,
+      "fatG": 0.2,
+      "assumptions": "pinch paprika ~0.5 g, modest seasoning amount"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 35,
+      "proteinG": 1.2,
+      "fatG": 0.4,
+      "assumptions": "2 small tomatoes (~200 g total), raw, cut into chunks"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 44,
+      "proteinG": 1.2,
+      "fatG": 0.2,
+      "assumptions": "1 medium red onion (~110 g), raw, finely sliced"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 7,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "2 tsp = 10 g red wine vinegar"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 227,
+      "proteinG": 2.8,
+      "fatG": 20.9,
+      "assumptions": "1 medium avocado (~160 g flesh), raw, mashed"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 11,
+      "proteinG": 0.2,
+      "fatG": 0.1,
+      "assumptions": "juice of 1 lime (~30 g juice)"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 17,
+      "proteinG": 0.3,
+      "fatG": 0.1,
+      "assumptions": "1 additional lime, chopped into wedges for serving (~45 g whole lime)"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 193,
+      "proteinG": 2.3,
+      "fatG": 19.8,
+      "assumptions": "100 g sour cream, full fat, as-is"
+    },
+    {
+      "position": 11,
+      "caloriesKcal": 15,
+      "proteinG": 0.7,
+      "fatG": 0.7,
+      "assumptions": "2 tsp = 5 g harissa spice blend, modest quantity"
+    },
+    {
+      "position": 12,
+      "caloriesKcal": 520,
+      "proteinG": 13.6,
+      "fatG": 13.2,
+      "assumptions": "4 standard corn tortillas (~180 g total; ~130 kcal, 3.4 g protein, 3.3 g fat each)"
+    },
+    {
+      "position": 13,
+      "caloriesKcal": 3,
+      "proteinG": 0.2,
+      "fatG": 0.1,
+      "assumptions": "small handful fresh coriander (~5 g) to serve"
+    }
+  ]
+}

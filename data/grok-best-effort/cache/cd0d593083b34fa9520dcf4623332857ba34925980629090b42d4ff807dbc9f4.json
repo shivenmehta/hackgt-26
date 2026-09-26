@@ -1,0 +1,277 @@
+{
+  "inputHash": "cd0d593083b34fa9520dcf4623332857ba34925980629090b42d4ff807dbc9f4",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:35:59.650Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 113.5,
+      "proteinG": 4.54,
+      "fatG": 0.9080000000000001,
+      "carbsG": 27.24,
+      "fiberG": 13.62,
+      "assumptions": "1 lb Japanese/Italian eggplants; raw edible portion; typical nutrition for eggplant.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 96.75,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 25,
+      "fiberG": 0,
+      "assumptions": "2 Tbsp granulated white sugar (25 g); recipe uses 1 Tbsp in marinade + 1 Tbsp later.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp total Diamond Crystal kosher salt (≈5 g); split across steps; sodium not counted as carbohydrate.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp total freshly ground black pepper (≈2 g); negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 24,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 35.76,
+      "proteinG": 1.5360000000000003,
+      "fatG": 0.12,
+      "carbsG": 7.944000000000001,
+      "fiberG": 0.504,
+      "assumptions": "8 garlic cloves (1 whole bulb equivalent ≈24 g peeled); typical raw garlic nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 42,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 371.28,
+      "proteinG": 0,
+      "fatG": 42,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 Tbsp vegetable oil listed as Olive Oil in JSON (42 g); used for frying garlic, pork, and eggplant in batches; typical vegetable/canola oil macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 113,
+      "per100g": {
+        "caloriesKcal": 241,
+        "proteinG": 17,
+        "fatG": 19,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 272.33,
+      "proteinG": 19.21,
+      "fatG": 21.47,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 oz raw ground pork (113 g); typical 70-80% lean pork mince nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 3,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1.35,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.135,
+      "fiberG": 0,
+      "assumptions": "3 Tbsp coconut or unseasoned rice vinegar (45 g); negligible macros, typical for vinegar.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.5,
+        "fatG": 0.1,
+        "carbsG": 4.9,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 15.9,
+      "proteinG": 1.65,
+      "fatG": 0.03,
+      "carbsG": 1.47,
+      "fiberG": 0.21,
+      "assumptions": "2 Tbsp soy sauce (30 g); typical regular soy sauce nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 bay leaves (≈1 g total); negligible contribution, used for flavor only.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53073",
+    "name": "Eggplant Adobo",
+    "cuisine": "Filipino",
+    "instructions": "1.\tSlice 1 lb. small Japanese or Italian eggplant (about 3) into quarters lengthwise, then cut crosswise into 2\"-wide pieces. Place in a medium bowl. Add 1 Tbsp. sugar, 1 tsp. Diamond Crystal or ½ tsp. Morton kosher salt, and ½ tsp. freshly ground black pepper. Toss to evenly coat eggplant and let sit at room temperature at least 20 minutes and up to 2 hours.\r\n2.\tPeel and thinly slice 8 garlic cloves. Add 3 Tbsp. vegetable oil and half of garlic to a medium Dutch oven or other heavy pot. Cook over medium-high heat, stirring constantly with a wooden spoon, until light golden and crisp, about 5 minutes. Using a slotted spoon, transfer garlic chips to a plate; season lightly with salt.\r\n3. Place 4 oz. ground pork in same pot and break up into small pieces with wooden spoon. Season with ¼ tsp. Diamond Crystal or Morton kosher salt and cook, undisturbed, until deeply browned underneath, about 5 minutes. Using a slotted spoon, transfer to another plate, leaving fat behind in the pot.\r\n4. Place eggplant on a clean kitchen towel and blot away any moisture the salt has drawn out.\r\n5. Working in batches and adding more oil if needed, cook eggplant in the same pot until lightly browned, about 3 minutes per side. Transfer to a plate with pork.\r\n6. Pour 1½ cups of water into the pot and scrape up browned bits from the bottom with a wooden spoon. Add remaining garlic, 3 Tbsp. coconut vinegar or unseasoned rice vinegar, 2 Tbsp. soy sauce, 2 bay leaves, 1 tsp. freshly ground black pepper, and remaining 1 Tbsp. sugar. Bring to a simmer, then return pork and eggplant to pot. Reduce heat to medium-low, partially cover, and simmer until eggplant is tender and silky and sauce is reduced by half, 20–25 minutes. Taste and season with more salt and pepper and add a little more sugar if needed.\r\n7. Top with garlic chips and serve with cooked white rice.",
+    "ingredients": [
+      { "position": 1, "name": "Egg Plants", "measurement": "1 lb" },
+      { "position": 2, "name": "Sugar", "measurement": "2 tbs" },
+      { "position": 3, "name": "Salt", "measurement": "1 tsp" },
+      { "position": 4, "name": "Pepper", "measurement": "1 tsp" },
+      { "position": 5, "name": "Garlic", "measurement": "1 whole" },
+      { "position": 6, "name": "Olive Oil", "measurement": "3 tbs" },
+      { "position": 7, "name": "Ground Pork", "measurement": "4 oz" },
+      { "position": 8, "name": "Rice Vinegar", "measurement": "3 tbs" },
+      { "position": 9, "name": "Soy Sauce", "measurement": "2 tbs" },
+      { "position": 10, "name": "Bay Leaf", "measurement": "2" }
+    ]
+  }
+}

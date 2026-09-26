@@ -1,0 +1,39 @@
+{
+  "inputHash": "7e5fa092e5f4e34b222e4e71c9013e63b4fe291c705d590c2e3a16a79314a783",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:15.949Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 165,
+      "fiberG": 27,
+      "assumptions": "250g strong wholemeal flour; standard UK wholemeal flour values (~66g carbs, ~10.5-11g fiber per 100g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 185,
+      "fiberG": 7,
+      "assumptions": "250g strong white bread flour; standard values for white bread flour (~74g carbs, ~2.5-3g fiber per 100g)"
+    },
+    {
+      "position": 3,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "15g fresh baker's yeast; typical composition for compressed yeast"
+    },
+    {
+      "position": 4,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "1 tsp granulated sugar (~4g); all carbohydrate is sugar"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp olive oil (~27g); pure fat with no carbohydrates"
+    }
+  ]
+}

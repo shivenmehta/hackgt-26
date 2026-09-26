@@ -1,0 +1,329 @@
+{
+  "inputHash": "4647ab963ea6c1bc98cf69ee247536d71a709d812dd1babb44443073ec0e52cc",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:00.852Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 132.6,
+      "proteinG": 0,
+      "fatG": 15,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon sunflower oil, typical density ~0.92 g/ml",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 225,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 18,
+        "fatG": 21,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 596.25,
+      "proteinG": 40.5,
+      "fatG": 47.25,
+      "carbsG": 4.5,
+      "fiberG": 0,
+      "assumptions": "225 g paneer as given, standard Indian cottage cheese values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 8,
+      "proteinG": 0.2,
+      "fatG": 0.05,
+      "carbsG": 1.8,
+      "fiberG": 0.2,
+      "assumptions": "2 cm piece of fresh ginger root (~10 g), peeled and grated",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 22,
+        "carbsG": 44,
+        "fiberG": 11
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.36,
+      "fatG": 0.44,
+      "carbsG": 0.88,
+      "fiberG": 0.22,
+      "assumptions": "1 tsp cumin seeds, typical teaspoon weight ~2 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 312,
+        "proteinG": 10,
+        "fatG": 3,
+        "carbsG": 67,
+        "fiberG": 21
+      },
+      "caloriesKcal": 6.24,
+      "proteinG": 0.2,
+      "fatG": 0.06,
+      "carbsG": 1.34,
+      "fiberG": 0.42,
+      "assumptions": "1 tsp ground turmeric, typical teaspoon weight ~2 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 298,
+        "proteinG": 12,
+        "fatG": 17,
+        "carbsG": 55,
+        "fiberG": 29
+      },
+      "caloriesKcal": 5.96,
+      "proteinG": 0.24,
+      "fatG": 0.34,
+      "carbsG": 1.1,
+      "fiberG": 0.58,
+      "assumptions": "1 tsp ground coriander, typical teaspoon weight ~2 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 9,
+        "fiberG": 2
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.3,
+      "fatG": 0.075,
+      "carbsG": 1.35,
+      "fiberG": 0.3,
+      "assumptions": "1 medium green chilli, typical weight ~15 g, seeds in",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 4,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 90,
+      "proteinG": 5,
+      "fatG": 1,
+      "carbsG": 20,
+      "fiberG": 6,
+      "assumptions": "4 large tomatoes, estimated total 500 g, fresh and chopped",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 81,
+        "proteinG": 5,
+        "fatG": 0.4,
+        "carbsG": 14,
+        "fiberG": 5
+      },
+      "caloriesKcal": 121.5,
+      "proteinG": 7.5,
+      "fatG": 0.6,
+      "carbsG": 21,
+      "fiberG": 7.5,
+      "assumptions": "150 g green peas as given, frozen or fresh, cooked in sauce",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 14,
+        "fatG": 16,
+        "carbsG": 48,
+        "fiberG": 20
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.28,
+      "fatG": 0.32,
+      "carbsG": 0.96,
+      "fiberG": 0.4,
+      "assumptions": "1 tsp garam masala powder, typical teaspoon weight ~2 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 4,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 3.45,
+      "proteinG": 0.3,
+      "fatG": 0.075,
+      "carbsG": 0.6,
+      "fiberG": 0.375,
+      "assumptions": "Small bunch fresh coriander leaves, estimated 15 g for garnish",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 90,
+      "per100g": {
+        "caloriesKcal": 280,
+        "proteinG": 9,
+        "fatG": 7,
+        "carbsG": 48,
+        "fiberG": 2
+      },
+      "caloriesKcal": 252,
+      "proteinG": 8.1,
+      "fatG": 6.3,
+      "carbsG": 43.2,
+      "fiberG": 1.8,
+      "assumptions": "Naan bread to serve, estimated 1 medium piece (~90 g) per the two-bowl recipe yield",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52865",
+    "name": "Matar Paneer",
+    "cuisine": "Indian",
+    "instructions": "Heat the oil in a frying pan over high heat until it’s shimmering hot. Add the paneer, then turn the heat down a little. Fry until it starts to brown at the edges, then turn it over and brown on each side – the paneer will brown faster than you think, so don’t walk away. Remove the paneer from the pan and drain on kitchen paper.\r\nPut the ginger, cumin, turmeric, ground coriander and chilli in the pan, and fry everything for 1 min. Add the tomatoes, mashing them with the back of a spoon and simmer everything for 5 mins until the sauce smells fragrant. Add a splash of water if it’s too thick. Season well. Add the peas and simmer for a further 2 mins, then stir in the paneer and sprinkle over the garam masala. Divide between two bowls, top with coriander leaves and serve with naan bread, roti or rice.",
+    "ingredients": [
+      { "position": 1, "name": "Sunflower Oil", "measurement": "1 tbls" },
+      { "position": 2, "name": "Paneer", "measurement": "225g" },
+      { "position": 3, "name": "Ginger", "measurement": "2" },
+      { "position": 4, "name": "Cumin", "measurement": "1 tsp" },
+      { "position": 5, "name": "Turmeric", "measurement": "1 tsp" },
+      { "position": 6, "name": "Coriander", "measurement": "1 tsp" },
+      { "position": 7, "name": "Green Chilli", "measurement": "1" },
+      { "position": 8, "name": "Tomato", "measurement": "4 large" },
+      { "position": 9, "name": "Peas", "measurement": "150g" },
+      { "position": 10, "name": "Garam Masala", "measurement": "1 tsp" },
+      { "position": 11, "name": "Coriander", "measurement": "Small bunch" },
+      { "position": 12, "name": "Naan Bread", "measurement": "to serve" }
+    ]
+  }
+}

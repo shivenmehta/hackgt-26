@@ -1,0 +1,225 @@
+{
+  "inputHash": "7a29d5d5c5b71fc5990444c89e48168558b1127ca2d942c4c0046e9928367898",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:52.508Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 10,
+        "fatG": 2,
+        "carbsG": 75,
+        "fiberG": 3
+      },
+      "caloriesKcal": 323,
+      "proteinG": 8.5,
+      "fatG": 1.7,
+      "carbsG": 63.75,
+      "fiberG": 2.55,
+      "assumptions": "Standard single-serve instant ramen noodle packet, dry weight ~85g; typical for a quick Chinese-style ramen dish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 475,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 cups water used for boiling noodles and/or broth base; water contributes zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.5,
+      "proteinG": 6.5,
+      "fatG": 5,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 large egg (~50g edible portion); boiled as per instructions, using whole egg with yolk.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 6,
+        "fatG": 0,
+        "carbsG": 6,
+        "fiberG": 1
+      },
+      "caloriesKcal": 9,
+      "proteinG": 0.9,
+      "fatG": 0,
+      "carbsG": 0.9,
+      "fiberG": 0.15,
+      "assumptions": "1 tbsp soy sauce (~15g); used in marinate or as seasoning, typical sodium-rich Chinese variety.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 4,
+        "fiberG": 1
+      },
+      "caloriesKcal": 0.6,
+      "proteinG": 0.03,
+      "fatG": 0,
+      "carbsG": 0.12,
+      "fiberG": 0.03,
+      "assumptions": "1/2 tsp chilli sauce (~3g); small amount for heat, assuming typical Asian chilli/garlic sauce with minor carbs.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 6,
+        "fiberG": 2
+      },
+      "caloriesKcal": 3.2,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "carbsG": 0.6,
+      "fiberG": 0.2,
+      "assumptions": "1 tbls chopped spring onions (~10g); used as garnish, typical green onion values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp table salt (~3g); pure sodium chloride, zero caloric contribution.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tbs ground black pepper (~2-3g); negligible macros, used for seasoning.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53383",
+    "name": "Ramen Noodles with Boiled Egg",
+    "cuisine": "Chinese",
+    "instructions": "Boil: Bring water to a boil, gently add eggs, and cook for exactly 6½ to 7 minutes.\r\nIce Bath: Immediately transfer the eggs to a bowl of ice water for 3–5 minutes to stop cooking.\r\nMarinate (Optional but recommended): Peel the eggs and marinate in a mix of 2 tbsp soy sauce, 2 tbsp mirin, 1 tsp sugar, and 4 tbsp water for at least 4 hours (or overnight).\r\nServe: Slice in half, letting the yolk flow into the broth",
+    "ingredients": [
+      { "position": 1, "name": "Noodles", "measurement": "1 Packet" },
+      { "position": 2, "name": "Water", "measurement": "2 cups" },
+      { "position": 3, "name": "Egg", "measurement": "1 large" },
+      { "position": 4, "name": "Soy Sauce", "measurement": "1 tbsp" },
+      { "position": 5, "name": "Chilli Sauce", "measurement": "1/2 tsp" },
+      { "position": 6, "name": "Spring Onions", "measurement": "1 tbls" },
+      { "position": 7, "name": "Salt", "measurement": "1/2 tsp" },
+      { "position": 8, "name": "Pepper", "measurement": "1/2 tbs" }
+    ]
+  }
+}

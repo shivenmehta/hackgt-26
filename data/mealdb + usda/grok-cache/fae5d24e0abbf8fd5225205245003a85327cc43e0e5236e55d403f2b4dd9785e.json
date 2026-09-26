@@ -1,0 +1,45 @@
+{
+  "inputHash": "fae5d24e0abbf8fd5225205245003a85327cc43e0e5236e55d403f2b4dd9785e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:24.192Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 5,
+      "grams": 6,
+      "caloriesPer100g": 335,
+      "assumptions": "Standard density for ground ginger is ~2 g per teaspoon; 3 tsp = 6 g total. Known calories copied exactly."
+    },
+    {
+      "position": 6,
+      "grams": 2.6,
+      "caloriesPer100g": 247,
+      "assumptions": "Standard density for ground cinnamon is ~2.6 g per teaspoon. Known calories copied exactly."
+    },
+    {
+      "position": 7,
+      "grams": 1.1,
+      "caloriesPer100g": 274,
+      "assumptions": "Standard density for ground cloves is ~2.2 g per teaspoon; half teaspoon = 1.1 g. Known calories copied exactly."
+    },
+    {
+      "position": 8,
+      "grams": 0.6,
+      "caloriesPer100g": 525,
+      "assumptions": "Standard density for ground nutmeg is ~2.2-2.4 g per teaspoon; quarter teaspoon ≈ 0.6 g. Known calories copied exactly."
+    },
+    {
+      "position": 9,
+      "grams": 0.6,
+      "caloriesPer100g": 251,
+      "assumptions": "Standard density for ground pepper is ~2.3-2.4 g per teaspoon; quarter teaspoon ≈ 0.6 g. Known calories copied exactly."
+    },
+    {
+      "position": 11,
+      "grams": 200,
+      "caloriesPer100g": 260,
+      "assumptions": "Measurement already given in grams (edible portion). Calories estimated from typical plum jam values (~260 kcal/100 g) as no known value supplied."
+    }
+  ]
+}

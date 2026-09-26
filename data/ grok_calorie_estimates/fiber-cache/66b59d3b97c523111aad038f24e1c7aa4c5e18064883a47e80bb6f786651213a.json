@@ -1,0 +1,45 @@
+{
+  "inputHash": "66b59d3b97c523111aad038f24e1c7aa4c5e18064883a47e80bb6f786651213a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:33.729Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 240,
+      "fiberG": 10,
+      "assumptions": "320g dry spaghetti (standard 75g carbs and ~3g fiber per 100g; total scaled to full quantity)."
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "6 egg yolks contain no carbohydrates or fiber."
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Salt to taste: negligible carbs and fiber."
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "150g bacon/pancetta contains no carbohydrates or fiber."
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "50g pecorino cheese contains negligible carbs and fiber."
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Black pepper to taste: negligible carbs and fiber."
+    }
+  ]
+}

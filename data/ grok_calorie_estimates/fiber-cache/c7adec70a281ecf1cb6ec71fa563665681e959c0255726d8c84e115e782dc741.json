@@ -1,0 +1,93 @@
+{
+  "inputHash": "c7adec70a281ecf1cb6ec71fa563665681e959c0255726d8c84e115e782dc741",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:38.858Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 kg raw beef stew meat; plain meat has no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 Knorr beef stock cube (~4 g total weight); typical values ~2 g carbs per cube"
+    },
+    {
+      "position": 3,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tbs (15 ml) regular soy sauce; ~1 g carbs from small amount of wheat/sugar"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 cups (480 ml) water contributes no carbohydrates"
+    },
+    {
+      "position": 5,
+      "carbsG": 7,
+      "fiberG": 3,
+      "assumptions": "1 medium green bell pepper (~120 g); standard USDA values for raw pepper"
+    },
+    {
+      "position": 6,
+      "carbsG": 7,
+      "fiberG": 3,
+      "assumptions": "1 medium red bell pepper (~120 g); standard USDA values for raw pepper"
+    },
+    {
+      "position": 7,
+      "carbsG": 26,
+      "fiberG": 3,
+      "assumptions": "1 medium potato (~150 g raw); standard values ~17 g carbs/100 g"
+    },
+    {
+      "position": 8,
+      "carbsG": 8,
+      "fiberG": 2,
+      "assumptions": "1 medium carrot (~80 g raw); standard values ~10 g carbs/100 g"
+    },
+    {
+      "position": 9,
+      "carbsG": 20,
+      "fiberG": 5,
+      "assumptions": "8 oz (227 g) canned tomato puree; ~9 g carbs/100 g with ~2 g fiber/100 g"
+    },
+    {
+      "position": 10,
+      "carbsG": 9,
+      "fiberG": 3,
+      "assumptions": "3 tbs (45 g) smooth peanut butter; standard ~20 g carbs/100 g"
+    },
+    {
+      "position": 11,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "5 g chili powder; typical ~60 g carbs/100 g with high fiber content"
+    },
+    {
+      "position": 12,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (~110 g raw); standard ~9 g carbs/100 g"
+    },
+    {
+      "position": 13,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "5 cloves garlic (~15 g total raw); standard ~27 g carbs/100 g"
+    },
+    {
+      "position": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbs (45 ml) olive oil; pure oil has no carbohydrates"
+    }
+  ]
+}

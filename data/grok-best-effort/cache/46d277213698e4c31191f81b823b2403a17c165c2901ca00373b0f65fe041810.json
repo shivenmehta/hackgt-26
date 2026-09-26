@@ -1,0 +1,407 @@
+{
+  "inputHash": "46d277213698e4c31191f81b823b2403a17c165c2901ca00373b0f65fe041810",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:27.412Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 26,
+        "fatG": 15,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1135,
+      "proteinG": 118.04,
+      "fatG": 68.1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb raw beef stew meat or similar cut, typical values for boneless beef used in stews",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion, raw, peeled and quartered as described",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 10,
+        "fatG": 5,
+        "carbsG": 60,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14,
+      "proteinG": 0.4,
+      "fatG": 0.2,
+      "carbsG": 2.4,
+      "fiberG": 0,
+      "assumptions": "1 standard chicken bouillon cube, typical commercial size and nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 54,
+      "proteinG": 2.7,
+      "fatG": 0.6,
+      "carbsG": 11.7,
+      "fiberG": 3.6,
+      "assumptions": "2 medium tomatoes, raw, crushed as per instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 17.88,
+      "proteinG": 0.7680000000000001,
+      "fatG": 0.06,
+      "carbsG": 3.9720000000000004,
+      "fiberG": 0.252,
+      "assumptions": "4 cloves garlic, raw, peeled and crushed (approx 3 g each)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 4,
+        "fatG": 0.5,
+        "carbsG": 15,
+        "fiberG": 3
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.6,
+      "fatG": 0.075,
+      "carbsG": 2.25,
+      "fiberG": 0.45,
+      "assumptions": "1 tbs tomato puree/paste, typical commercial value",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 360,
+      "per100g": {
+        "caloriesKcal": 365,
+        "proteinG": 7.1,
+        "fatG": 0.7,
+        "carbsG": 80,
+        "fiberG": 1.3
+      },
+      "caloriesKcal": 1314,
+      "proteinG": 25.56,
+      "fatG": 2.5199999999999996,
+      "carbsG": 288,
+      "fiberG": 4.68,
+      "assumptions": "2 cups uncooked white rice (approx 180 g per cup), typical long-grain",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 12,
+        "fatG": 2,
+        "carbsG": 75,
+        "fiberG": 3
+      },
+      "caloriesKcal": 114,
+      "proteinG": 3.6,
+      "fatG": 0.6,
+      "carbsG": 22.5,
+      "fiberG": 0.9,
+      "assumptions": "1/4 cup dry fideo/shareya noodles, typical thin vermicelli-style pasta",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 57,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 408.69,
+      "proteinG": 0.513,
+      "fatG": 46.17,
+      "carbsG": 0.057,
+      "fiberG": 0,
+      "assumptions": "1/4 cup butter (approx 57 g), used across multiple steps in recipe",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 884,
+      "proteinG": 0,
+      "fatG": 100,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 cups olive oil listed but interpreted as total frying oil used (realistically ~100 g absorbed/used in all frying steps combined; recipe lists excess for deep-fry context but not all is consumed)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 1,
+        "carbsG": 55,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 159,
+      "proteinG": 5.4,
+      "fatG": 0.6,
+      "carbsG": 33,
+      "fiberG": 1.5,
+      "assumptions": "1 large pita bread, torn and fried (approx 60 g standard size)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 22,
+        "carbsG": 44,
+        "fiberG": 27
+      },
+      "caloriesKcal": 22.5,
+      "proteinG": 1.08,
+      "fatG": 1.32,
+      "carbsG": 2.64,
+      "fiberG": 1.62,
+      "assumptions": "1 tbs ground cumin, typical commercial value",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 9,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.45,
+      "fiberG": 0,
+      "assumptions": "3 tbs white wine vinegar, typical value",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Salt to taste; estimated total used across recipe steps (5 g plausible total)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pepper to taste; estimated total used across recipe steps (2 g plausible total)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53031",
+    "name": "Egyptian Fatteh",
+    "cuisine": "Egyptian",
+    "instructions": "To prepare bread for bottom of dish: Take pita bread and rip into bite size pieces. In a frying pan, add about a 1/4 stick of butter, add bread pieces and fry until golden brown and crisp. Put these pieces in a glass baking dish, preferably a square sized dish. Set aside.\r\nThen add to same pan, a little more butter, salt, approximately 2 cloves of crushed fresh garlic, and a teaspoon or so of cumin stir around a bit until you can smell aroma, then add fried bread pieces to this mixture, stir to coat bread and put back into glass baking dish. Set aside.\r\nTo prepare meat: put some butter in a pot, stir fry meat until brown, add 1 onion quartered, salt & pepper, 1 cube of chicken bouillon and water to cover meat. Bring to a boil, turn down to simmer, cover and cook until tender, approximately 2 hours. After meat has cooled, take out chunks of meat and put in a bowl, set aside. Reserve soup from the meat separately.\r\nTo prepare the rice: Put some butter into a pot, add shareya (fideo noodles) like a handful or so, keep stirring until golden brown, not too dark, but very golden. Then add two cups of rice, stir a little bit until some of the rice turns an opaque white. Add 2-1/4 cups of water and salt to taste. Bring to a boil, cover and turn down to simmer, cook until tender. Test the rice tenderness after about 35 minutes.\r\nNow take some of the soup from meat and add to the top of the bread pieces in baking dish to saturate.Add cooked rice on top of bread pieces. Slowly spoon remainder of soup onto rice, looking at glass dish sides to see level of soup, should reach just to top of rice, don’t worry, this doesn’t have to be exact. Now you’re ready to make the sauce and fry the meat to put on top.\r\nTo prepare red sauce: In a pan, add a little oil or butter, crushed tomato, a half teaspoon of tomato paste, salt & pepper, 2 cloves of fresh crushed garlic and cumin. Add also approximately 3 tablespoons of vinegar, stir this until you smell aroma and it is a bit smooth. It should be a bit thick, not watery, but if too thick you can add a bit of water. Spread with a wooden spoon atop the rice to cover.\r\nTo fry meat: In a pan add a bit of butter or oil, the meat, just a touch of tomato paste, about a tablespoon of fresh crushed garlic, salt & pepper, a teaspoon of cumin. Cook until meat is golden fried.\r\nSpoon this atop the rice and serve. Enjoy!",
+    "ingredients": [
+      { "position": 1, "name": "Beef", "measurement": "1lb" },
+      { "position": 2, "name": "Onion", "measurement": "1" },
+      { "position": 3, "name": "Chicken Stock Cube", "measurement": "1" },
+      { "position": 4, "name": "Tomatoes", "measurement": "2" },
+      { "position": 5, "name": "Garlic Clove", "measurement": "4" },
+      { "position": 6, "name": "Tomato Puree", "measurement": "1 tbs" },
+      { "position": 7, "name": "Rice", "measurement": "2 cups" },
+      { "position": 8, "name": "Noodles", "measurement": "1/4 cup" },
+      { "position": 9, "name": "Butter", "measurement": "1/4 cup" },
+      { "position": 10, "name": "Olive Oil", "measurement": "2 cups" },
+      { "position": 11, "name": "Pita Bread", "measurement": "1" },
+      { "position": 12, "name": "Cumin", "measurement": "1 tbs" },
+      { "position": 13, "name": "White Wine Vinegar", "measurement": "3 tbs" },
+      { "position": 14, "name": "Salt", "measurement": "To taste" },
+      { "position": 15, "name": "Pepper", "measurement": "To taste" }
+    ]
+  }
+}

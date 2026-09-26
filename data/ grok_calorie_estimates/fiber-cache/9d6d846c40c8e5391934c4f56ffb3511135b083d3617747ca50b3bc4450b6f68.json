@@ -1,0 +1,81 @@
+{
+  "inputHash": "9d6d846c40c8e5391934c4f56ffb3511135b083d3617747ca50b3bc4450b6f68",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:51.072Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "450ml vegetable oil ≈ 405g (density ~0.9 g/ml); pure fat, no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 304,
+      "fiberG": 11,
+      "assumptions": "400g plain white flour; standard UK wheat flour values"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp bicarbonate of soda ≈ 10g; no carbohydrates"
+    },
+    {
+      "position": 4,
+      "carbsG": 440,
+      "fiberG": 0,
+      "assumptions": "550ml granulated sugar ≈ 440g (bulk density ~0.8 g/ml); 100% sucrose"
+    },
+    {
+      "position": 5,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "5 large eggs ≈ 300g total edible portion (60g each without shell); trace carbs in whole raw eggs"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "½ tsp salt ≈ 3g; no carbohydrates"
+    },
+    {
+      "position": 7,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "2 tsp ground cinnamon ≈ 5g; standard values for ground spice"
+    },
+    {
+      "position": 8,
+      "carbsG": 41,
+      "fiberG": 13,
+      "assumptions": "500g grated carrots; raw, peeled, edible portion only (USDA averages)"
+    },
+    {
+      "position": 9,
+      "carbsG": 20,
+      "fiberG": 10,
+      "assumptions": "150g chopped walnuts; standard values for shelled nuts"
+    },
+    {
+      "position": 10,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "200g full-fat cream cheese; standard nutritional values (trace lactose)"
+    },
+    {
+      "position": 11,
+      "carbsG": 150,
+      "fiberG": 0,
+      "assumptions": "150g caster sugar; 100% sucrose"
+    },
+    {
+      "position": 12,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "100g unsalted butter; pure fat, no carbohydrates"
+    }
+  ]
+}

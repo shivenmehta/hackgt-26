@@ -1,0 +1,39 @@
+{
+  "inputHash": "c31ee3c9abb89df85275020bf17e3b7526f8cea4267b09166d6d8afa3405683e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:12.357Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 13.44,
+      "fiberG": 5.44,
+      "assumptions": "320g raw beetroot (peeled/grated as typical); standard raw beetroot values (4.2g carbs, 1.7g fiber per 100g)."
+    },
+    {
+      "position": 2,
+      "carbsG": 25.65,
+      "fiberG": 9.9,
+      "assumptions": "450g raw red cabbage (shredded); standard raw red cabbage values (5.7g carbs, 2.2g fiber per 100g)."
+    },
+    {
+      "position": 3,
+      "carbsG": 5.04,
+      "fiberG": 0.91,
+      "assumptions": "1 small onion ≈70g raw (peeled/sliced); standard raw onion values (7.2g carbs, 1.3g fiber per 100g)."
+    },
+    {
+      "position": 4,
+      "carbsG": 1.92,
+      "fiberG": 1.24,
+      "assumptions": "2 tsp (≈4g) caraway seeds; standard values (48g carbs, 31g fiber per 100g)."
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp (≈6g) sea salt; zero carbohydrates or fiber."
+    }
+  ]
+}

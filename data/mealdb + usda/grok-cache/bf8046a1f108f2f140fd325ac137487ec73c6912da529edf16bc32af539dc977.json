@@ -1,0 +1,27 @@
+{
+  "inputHash": "bf8046a1f108f2f140fd325ac137487ec73c6912da529edf16bc32af539dc977",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:17.755Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 175,
+      "caloriesPer100g": 480,
+      "assumptions": "Measurement given as 175g; using standard digestive biscuit density of ~480 kcal/100g (typical for McVitie's style)."
+    },
+    {
+      "position": 3,
+      "grams": 200,
+      "caloriesPer100g": 52,
+      "assumptions": "Measurement given as 200g; Bramley apples are cooking apples, using standard raw apple value adjusted slightly lower for tart variety."
+    },
+    {
+      "position": 8,
+      "grams": 4,
+      "caloriesPer100g": 400,
+      "assumptions": "1 tsp almond extract weighs ~4g (standard liquid extract density); ~400 kcal/100g typical for alcohol/sugar-based extracts."
+    }
+  ]
+}

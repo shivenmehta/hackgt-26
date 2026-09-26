@@ -1,0 +1,75 @@
+{
+  "inputHash": "0ea9e48ed9d26b7d73c9c3c1fe3ab51cc000110b0e9aafc8901dd98f710a7d89",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:33.387Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 20,
+      "fiberG": 6,
+      "assumptions": "4 medium raw tomatoes (approx 500g total; ~4g carb/100g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons olive oil (28g total); pure fat, zero carbs"
+    },
+    {
+      "position": 3,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium diced onion (approx 110g edible portion; ~9g carb/100g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 7,
+      "fiberG": 2.5,
+      "assumptions": "1 medium red pepper, sliced (approx 120g edible portion; ~6g carb/100g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 6,
+      "fiberG": 2,
+      "assumptions": "1 medium green pepper, sliced (approx 120g edible portion; ~5g carb/100g)"
+    },
+    {
+      "position": 6,
+      "carbsG": 3,
+      "fiberG": 0.2,
+      "assumptions": "3 cloves crushed garlic (approx 9g; ~30g carb/100g)"
+    },
+    {
+      "position": 7,
+      "carbsG": 1.5,
+      "fiberG": 0.9,
+      "assumptions": "1 tsp cumin (2g; ~44g carb/100g)"
+    },
+    {
+      "position": 8,
+      "carbsG": 1.3,
+      "fiberG": 0.7,
+      "assumptions": "1 tsp paprika (2g; ~54g carb/100g, mostly fiber)"
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3/4 tsp salt (4g); negligible macros, zero carbs"
+    },
+    {
+      "position": 10,
+      "carbsG": 1,
+      "fiberG": 0.6,
+      "assumptions": "1/2 tsp chili powder (1.5g; ~50g carb/100g, mostly fiber)"
+    },
+    {
+      "position": 11,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "4 large raw eggs (approx 200g total edible portion); ~1g carb per large egg"
+    }
+  ]
+}

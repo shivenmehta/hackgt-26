@@ -1,0 +1,359 @@
+{
+  "inputHash": "8262742c6024de6d4c51d0f7f036de4817f415557593dadd8c50ff79aede62f3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:16.777Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 54,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 477.36,
+      "proteinG": 0,
+      "fatG": 54,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 tbsp olive oil (standard 13.5g per tbsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion, chopped (edible portion)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 61,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 25.01,
+      "proteinG": 0.5489999999999999,
+      "fatG": 0.12200000000000001,
+      "carbsG": 5.856,
+      "fiberG": 1.7079999999999997,
+      "assumptions": "1 medium carrot, diced (edible portion)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 16,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 3,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 6.4,
+      "proteinG": 0.28,
+      "fatG": 0.08,
+      "carbsG": 1.2,
+      "fiberG": 0.64,
+      "assumptions": "1 medium celery stalk, diced (edible portion)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 276,
+        "proteinG": 16,
+        "fatG": 7.4,
+        "carbsG": 53.8,
+        "fiberG": 37
+      },
+      "caloriesKcal": 8.28,
+      "proteinG": 0.48,
+      "fatG": 0.22200000000000003,
+      "carbsG": 1.6139999999999999,
+      "fiberG": 1.11,
+      "assumptions": "3 sprigs fresh thyme, leaves and stem (typical small bunch per sprig)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 313,
+        "proteinG": 7.6,
+        "fatG": 8.4,
+        "carbsG": 75,
+        "fiberG": 26
+      },
+      "caloriesKcal": 3.13,
+      "proteinG": 0.076,
+      "fatG": 0.084,
+      "carbsG": 0.75,
+      "fiberG": 0.26,
+      "assumptions": "2 dried bay leaves (typical weight)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 cloves garlic, chopped (edible portion)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 455,
+        "proteinG": 24.6,
+        "fatG": 38.3,
+        "carbsG": 4.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 910,
+      "proteinG": 49.2,
+      "fatG": 76.6,
+      "carbsG": 8.8,
+      "fiberG": 0,
+      "assumptions": "200g chorizo sausage as listed (cured, typical cured Spanish variety)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 0.6,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 1.2,
+        "carbsG": 81,
+        "fiberG": 53
+      },
+      "caloriesKcal": 1.482,
+      "proteinG": 0.024,
+      "fatG": 0.0072,
+      "carbsG": 0.486,
+      "fiberG": 0.31799999999999995,
+      "assumptions": "1/4 tsp ground cinnamon (standard 2.6g per tsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 2.3,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14.1,
+        "fatG": 12.9,
+        "carbsG": 37,
+        "fiberG": 37
+      },
+      "caloriesKcal": 6.485999999999999,
+      "proteinG": 0.3243,
+      "fatG": 0.29669999999999996,
+      "carbsG": 0.851,
+      "fiberG": 0.851,
+      "assumptions": "1 tsp smoked paprika (standard 2.3g per tsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 480,
+      "per100g": {
+        "caloriesKcal": 119,
+        "proteinG": 6.7,
+        "fatG": 2.2,
+        "carbsG": 17.3,
+        "fiberG": 5.9
+      },
+      "caloriesKcal": 571.2,
+      "proteinG": 32.16,
+      "fatG": 10.56,
+      "carbsG": 83.04,
+      "fiberG": 28.32,
+      "assumptions": "800g can chickpeas, drained weight approx 60% of can (standard drained yield)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 14,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 4.2,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.21,
+      "fiberG": 0,
+      "assumptions": "2 tbsp sherry vinegar (standard 15ml per tbsp, low-calorie vinegar)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.9,
+        "fatG": 0.4,
+        "carbsG": 3.6,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 92,
+      "proteinG": 11.6,
+      "fatG": 1.6,
+      "carbsG": 14.4,
+      "fiberG": 8.8,
+      "assumptions": "400g fresh spinach (edible raw weight)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53166",
+    "name": "Chickpea, chorizo & spinach stew",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nHeat the oil in a large pan, then gently fry the onion for 3-4 mins until it begins to soften. Stir in the carrot, celery, thyme and bay leaves. Season, then cook for 2-3 mins, stirring occasionally. Add the garlic, chorizo, cinnamon and smoked paprika. Gently fry until the vegetables soften and the chorizo starts to release its oils and crisp up.\r\n\r\nstep 2\r\nStir in the chickpeas, vinegar and 150ml water, then bring to a simmer for 1-2 mins until the chickpeas have heated up. Add the spinach, then stir through the chickpeas until it wilts a little. Remove from the heat, season to taste, then serve warm with crusty bread.",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Extra Virgin Olive Oil",
+        "measurement": "4 tablespoons"
+      },
+      { "position": 2, "name": "Onion", "measurement": "1 chopped" },
+      { "position": 3, "name": "Carrots", "measurement": "1 Diced" },
+      { "position": 4, "name": "Celery", "measurement": "1 Diced" },
+      { "position": 5, "name": "Thyme", "measurement": "3" },
+      { "position": 6, "name": "Bay Leaves", "measurement": "2" },
+      { "position": 7, "name": "Garlic", "measurement": "2 cloves chopped" },
+      { "position": 8, "name": "Chorizo", "measurement": "200g" },
+      { "position": 9, "name": "Cinnamon", "measurement": "1/4 tsp" },
+      { "position": 10, "name": "Paprika", "measurement": "1 teaspoon" },
+      { "position": 11, "name": "Chickpeas", "measurement": "800g" },
+      { "position": 12, "name": "Sherry vinegar", "measurement": "2 tblsp" },
+      { "position": 13, "name": "Spinach", "measurement": "400g" }
+    ]
+  }
+}

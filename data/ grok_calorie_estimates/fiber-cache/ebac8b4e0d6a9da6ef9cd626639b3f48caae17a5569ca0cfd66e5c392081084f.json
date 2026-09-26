@@ -1,0 +1,87 @@
+{
+  "inputHash": "ebac8b4e0d6a9da6ef9cd626639b3f48caae17a5569ca0cfd66e5c392081084f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:03:12.509Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 88,
+      "fiberG": 26.4,
+      "assumptions": "400 g can chickpeas (drained weight ~240 g solids used for macros; standard drained values scaled to full can contents per previous estimate)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp = 14 g olive oil, pure fat"
+    },
+    {
+      "position": 3,
+      "carbsG": 1.2,
+      "fiberG": 0.8,
+      "assumptions": "pinch paprika ~0.5 g"
+    },
+    {
+      "position": 4,
+      "carbsG": 8,
+      "fiberG": 2.4,
+      "assumptions": "2 small tomatoes ~200 g total, raw"
+    },
+    {
+      "position": 5,
+      "carbsG": 10.3,
+      "fiberG": 1.9,
+      "assumptions": "1 medium red onion ~110 g, raw"
+    },
+    {
+      "position": 6,
+      "carbsG": 0.2,
+      "fiberG": 0,
+      "assumptions": "2 tsp = 10 g red wine vinegar"
+    },
+    {
+      "position": 7,
+      "carbsG": 12.8,
+      "fiberG": 10,
+      "assumptions": "1 medium avocado ~160 g flesh, raw"
+    },
+    {
+      "position": 8,
+      "carbsG": 3.7,
+      "fiberG": 0.2,
+      "assumptions": "juice of 1 lime ~30 g juice"
+    },
+    {
+      "position": 9,
+      "carbsG": 5.4,
+      "fiberG": 1.6,
+      "assumptions": "1 additional lime ~45 g whole, chopped into wedges"
+    },
+    {
+      "position": 10,
+      "carbsG": 3.7,
+      "fiberG": 0,
+      "assumptions": "100 g sour cream, full fat"
+    },
+    {
+      "position": 11,
+      "carbsG": 2.5,
+      "fiberG": 1.2,
+      "assumptions": "2 tsp = 5 g harissa spice blend"
+    },
+    {
+      "position": 12,
+      "carbsG": 88,
+      "fiberG": 12,
+      "assumptions": "4 standard corn tortillas ~180 g total"
+    },
+    {
+      "position": 13,
+      "carbsG": 0.3,
+      "fiberG": 0.2,
+      "assumptions": "small handful fresh coriander ~5 g"
+    }
+  ]
+}

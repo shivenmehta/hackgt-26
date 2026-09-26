@@ -1,0 +1,541 @@
+{
+  "inputHash": "e5aa26a53fd34d469e2dfb9821b3e1a1849a3869e55fe036062bb390a35771e4",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:30.515Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 47,
+        "proteinG": 0.9,
+        "fatG": 0.1,
+        "carbsG": 12,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 2.82,
+      "proteinG": 0.054000000000000006,
+      "fatG": 0.006000000000000001,
+      "carbsG": 0.72,
+      "fiberG": 0.15600000000000003,
+      "assumptions": "Zest of 1 medium orange estimated at 6g edible portion based on typical citrus peel yield.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 45,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.4,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 27,
+      "proteinG": 0.42,
+      "fatG": 0.12,
+      "carbsG": 6.24,
+      "fiberG": 0.12,
+      "assumptions": "1/4 cup orange juice = 60 ml ≈ 60 g (density near 1 g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.2,
+        "fatG": 0.1,
+        "carbsG": 4.9,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 31.8,
+      "proteinG": 3.12,
+      "fatG": 0.06,
+      "carbsG": 2.94,
+      "fiberG": 0.3,
+      "assumptions": "1/4 cup regular soy sauce ≈ 60 ml ≈ 60 g (typical density).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/4 cup water = 60 ml = 60 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 21,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 16.8,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.72,
+      "fiberG": 0,
+      "assumptions": "1/3 cup rice vinegar ≈ 80 ml ≈ 80 g (density near 1 g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0,
+        "carbsG": 91.3,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 30.48,
+      "proteinG": 0.024,
+      "fatG": 0,
+      "carbsG": 7.303999999999999,
+      "fiberG": 0.07200000000000001,
+      "assumptions": "1 tablespoon cornstarch ≈ 8 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon sesame oil ≈ 14 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 387,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "1/2 cup granulated sugar ≈ 100 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 650,
+      "per100g": {
+        "caloriesKcal": 177,
+        "proteinG": 21.3,
+        "fatG": 10.9,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1150.5,
+      "proteinG": 138.45,
+      "fatG": 70.85,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "650 g boneless skinless chicken thighs (raw weight as given; typical values for raw).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143,
+      "proteinG": 12.6,
+      "fatG": 9.5,
+      "carbsG": 0.7,
+      "fiberG": 0,
+      "assumptions": "2 large eggs ≈ 100 g total edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp table salt ≈ 5 g; contributes negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp ground black pepper ≈ 1 g; negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 64,
+      "per100g": {
+        "caloriesKcal": 381,
+        "proteinG": 0.3,
+        "fatG": 0,
+        "carbsG": 91.3,
+        "fiberG": 0.9
+      },
+      "caloriesKcal": 243.84,
+      "proteinG": 0.192,
+      "fatG": 0,
+      "carbsG": 58.431999999999995,
+      "fiberG": 0.5760000000000001,
+      "assumptions": "1/2 cup cornstarch ≈ 64 g (typical bulk density).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 63,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 229.32,
+      "proteinG": 6.489000000000001,
+      "fatG": 0.63,
+      "carbsG": 48.068999999999996,
+      "fiberG": 1.7010000000000003,
+      "assumptions": "1/2 cup all-purpose flour ≈ 63 g (typical bulk density).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 442,
+      "proteinG": 0,
+      "fatG": 50,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 cups vegetable oil for frying; estimated 50 g absorbed by chicken (typical 5-10 % uptake for double-batched shallow/deep fry; remainder discarded).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 cloves garlic chopped ≈ 6 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 72,
+        "proteinG": 2.5,
+        "fatG": 0.1,
+        "carbsG": 16.8,
+        "fiberG": 3.2
+      },
+      "caloriesKcal": 10.8,
+      "proteinG": 0.375,
+      "fatG": 0.015,
+      "carbsG": 2.52,
+      "fiberG": 0.48,
+      "assumptions": "1 chopped shallot ≈ 15 g (small-medium size).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 3.2
+      },
+      "caloriesKcal": 3.2,
+      "proteinG": 0.18,
+      "fatG": 0.02,
+      "carbsG": 0.73,
+      "fiberG": 0.32,
+      "assumptions": "Sliced scallions for garnish; plausible 10 g total used as topping.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 19,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 573,
+        "proteinG": 17.7,
+        "fatG": 49.7,
+        "carbsG": 23.5,
+        "fiberG": 12
+      },
+      "caloriesKcal": 28.65,
+      "proteinG": 0.885,
+      "fatG": 2.485,
+      "carbsG": 1.175,
+      "fiberG": 0.6,
+      "assumptions": "Sesame seeds for garnish; estimated 5 g sprinkled.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 20,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 130,
+        "proteinG": 2.7,
+        "fatG": 0.3,
+        "carbsG": 28.2,
+        "fiberG": 0.4
+      },
+      "caloriesKcal": 260,
+      "proteinG": 5.4,
+      "fatG": 0.6,
+      "carbsG": 56.4,
+      "fiberG": 0.8,
+      "assumptions": "Cooked white rice to serve; estimated 200 g total (typical 1-1.5 cups cooked per person for 4 servings).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53365",
+    "name": "Chinese Orange Chicken",
+    "cuisine": "Chinese",
+    "instructions": "Make the orange sauce:\r\nWhisk together sauce ingredients in a medium bowl. Set aside.\r\n\r\n\r\nPrep the chicken:\r\nCut chicken into about 1-inch cubes. Whisk eggs with salt and black pepper in a bowl and add chicken. Stir together.\r\n\r\nIn a separate bowl, whisk together flour and cornstarch. Remove chicken from eggs with a slotted spoon or tongs, letting excess egg drain off, then transfer to cornstarch mixture and coat well.\r\n\r\n\r\nFry the chicken:\r\nAdd oil to a large 10- to 12-inch skillet. Heat over medium-high heat until it reaches 350°F. If you don’t have a thermometer, you can also test the temperature by sprinkling in some flour. If the oil is hot enough, it should fizzle immediately.\r\n\r\nOnce oil is hot, fry the chicken in two batches. The oil might not completely cover the chicken—that’s okay. Cook for 3 to 4 minutes. Flip the chicken pieces and cook until the chicken is cooked through, about 3 to 4 more minutes. Total cook time is about 6 to 8 minutes.\r\n\r\nRemove fried chicken cubes and transfer to a plate lined with paper towels, so the chicken can drain. Repeat until all the chicken is cooked.\r\n\r\n\r\nSimmer the chicken in the sauce:\r\nOnce chicken is done, pour out hot oil and wipe pan clean. Add a fresh tablespoon of oil along with chopped garlic and shallot. Cook for a minute and then add the sauce. Simmer the sauce until it starts to thicken.\r\n\r\nOnce the sauce is lightly bubbling, add fried chicken and toss together to coat. The sauce should continue to thicken and stick to the chicken. Let simmer for a minute or two more. Serve orange chicken over cooked white rice, garnished with sesame seeds and fresh scallions.\r\n\r\nDid you love this recipe? Let us know with a rating and review!\r\n\r\n\r\nLEFTOVERS! The orange chicken keeps well in the fridge for 5 days. Reheat in a skillet with a splash of water over low heat. Freeze the orange chicken for up to 3 months, but be sure to thaw it before reheating so the chicken doesn’t clump together.",
+    "ingredients": [
+      { "position": 1, "name": "Orange", "measurement": "Zest of 1" },
+      { "position": 2, "name": "Orange Juice", "measurement": "1/4 cup" },
+      { "position": 3, "name": "Soy Sauce", "measurement": "1/4 cup" },
+      { "position": 4, "name": "Water", "measurement": "1/4 cup" },
+      { "position": 5, "name": "Rice Vinegar", "measurement": "1/3 cup" },
+      { "position": 6, "name": "Cornstarch", "measurement": "1 tablespoon" },
+      {
+        "position": 7,
+        "name": "Sesame Seed Oil",
+        "measurement": "1 tablespoon"
+      },
+      { "position": 8, "name": "Sugar", "measurement": "1/2 cup" },
+      { "position": 9, "name": "Chicken Thighs", "measurement": "650g" },
+      { "position": 10, "name": "Egg", "measurement": "2 large" },
+      { "position": 11, "name": "Salt", "measurement": "1 tsp" },
+      { "position": 12, "name": "Black Pepper", "measurement": "1/4 tsp" },
+      { "position": 13, "name": "Cornstarch", "measurement": "1/2 cup" },
+      { "position": 14, "name": "All purpose flour", "measurement": "1/2 cup" },
+      { "position": 15, "name": "Vegetable Oil", "measurement": "2 cups" },
+      { "position": 16, "name": "Garlic", "measurement": "2 cloves chopped" },
+      { "position": 17, "name": "Shallots", "measurement": "1 chopped" },
+      { "position": 18, "name": "Scallions", "measurement": "Sliced" },
+      { "position": 19, "name": "Sesame Seed", "measurement": "Garnish" },
+      { "position": 20, "name": "Rice", "measurement": "To serve" }
+    ]
+  }
+}

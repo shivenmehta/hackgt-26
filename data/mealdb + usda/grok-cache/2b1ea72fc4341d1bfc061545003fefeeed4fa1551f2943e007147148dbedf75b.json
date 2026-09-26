@@ -1,0 +1,27 @@
+{
+  "inputHash": "2b1ea72fc4341d1bfc061545003fefeeed4fa1551f2943e007147148dbedf75b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:24.306Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 510,
+      "caloriesPer100g": 18,
+      "assumptions": "3 beef tomatoes estimated at 170g each (typical medium-large size; edible portion only, no core/stem)."
+    },
+    {
+      "position": 3,
+      "grams": 5,
+      "caloriesPer100g": 101,
+      "assumptions": "'Sprigs of fresh' thyme is a modest seasoning amount; realistic weight ~5g total leaves (common for a salad bowl)."
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "caloriesPer100g": 14,
+      "assumptions": "1 tablespoon sherry vinegar weighs ~15g; standard density for vinegar ~14 kcal/100g."
+    }
+  ]
+}

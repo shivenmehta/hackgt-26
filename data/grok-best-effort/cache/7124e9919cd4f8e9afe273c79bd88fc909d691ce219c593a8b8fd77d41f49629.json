@@ -1,0 +1,251 @@
+{
+  "inputHash": "7124e9919cd4f8e9afe273c79bd88fc909d691ce219c593a8b8fd77d41f49629",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:22.462Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 227,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 374.55,
+      "proteinG": 70.37,
+      "fatG": 8.172,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 oz raw boneless skinless chicken breast, typical for congee; values for raw poultry meat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of table salt used in marinade; negligible mass but included as 1 g for position completeness.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of white pepper used in marinade; negligible mass but included as 1 g for position completeness.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.25,
+      "fiberG": 0,
+      "assumptions": "1 tsp ginger cordial/juice; treated as sweetened ginger extract with modest sugar content.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 1.6,
+      "proteinG": 0.04,
+      "fatG": 0.013999999999999999,
+      "carbsG": 0.36,
+      "fiberG": 0.04,
+      "assumptions": "1 tsp grated fresh ginger added during cooking; typical density and nutrient profile for raw ginger root.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 1.92,
+      "proteinG": 0.10800000000000001,
+      "fatG": 0.012000000000000002,
+      "carbsG": 0.43799999999999994,
+      "fiberG": 0.15600000000000003,
+      "assumptions": "1 tbs chopped spring onions/green onions added at end; typical for garnish in congee.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 365,
+        "proteinG": 7,
+        "fatG": 0.7,
+        "carbsG": 80,
+        "fiberG": 1.3
+      },
+      "caloriesKcal": 365,
+      "proteinG": 7,
+      "fatG": 0.7,
+      "carbsG": 80,
+      "fiberG": 1.3,
+      "assumptions": "1/2 cup uncooked white rice (standard long-grain); ~100 g dry weight before rinsing and boiling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 1900,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 cups water used to cook rice into porridge; standard US cup = 237 ml each, total ~1.9 L, treated as pure water with zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 57,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 13.11,
+      "proteinG": 1.254,
+      "fatG": 0.285,
+      "carbsG": 2.109,
+      "fiberG": 1.5959999999999999,
+      "assumptions": "2 oz fresh coriander/cilantro as optional topping; typical raw leafy herb values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52956",
+    "name": "Chicken Congee",
+    "cuisine": "Chinese",
+    "instructions": "STEP 1 - MARINATING THE CHICKEN\r\nIn a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well.\r\nSet the chicken aside.\r\nSTEP 2 - RINSE THE WHITE RICE\r\nRinse the rice in a metal bowl or pot a couple times and then drain the water.\r\nSTEP 2 - BOILING THE WHITE RICE\r\nNext add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.\r\nAfter 25 minutes, this is optional but you can add a little bit more water to make rice porridge to make it less thick or to your preference.\r\nNext add the marinated chicken to the rice porridge and leave the stove on low heat for another 10 minutes.\r\nAfter an additional 10 minutes add the green onions, sliced ginger, 1 pinch of salt, 1 pinch of white pepper and stir for 10 seconds.\r\nServe the rice porridge in a bowl\r\nOptional: add Coriander on top of the rice porridge.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken", "measurement": "8 oz" },
+      { "position": 2, "name": "Salt", "measurement": "pinch" },
+      { "position": 3, "name": "Pepper", "measurement": "pinch" },
+      { "position": 4, "name": "Ginger Cordial", "measurement": "1 tsp" },
+      { "position": 5, "name": "Ginger", "measurement": "1 tsp" },
+      { "position": 6, "name": "Spring Onions", "measurement": "1 tbs" },
+      { "position": 7, "name": "Rice", "measurement": "1/2 cup" },
+      { "position": 8, "name": "Water", "measurement": "8 cups" },
+      { "position": 9, "name": "Coriander", "measurement": "2 oz" }
+    ]
+  }
+}

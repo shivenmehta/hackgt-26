@@ -1,0 +1,75 @@
+{
+  "inputHash": "dc497081d7a8bcfffd7919d97a735368b59281f007d24dddf21b9fe3cfd5a0b9",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:04.861Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 large boneless skinless chicken breasts ≈ 400 g total raw weight; chicken breast contains no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 average garlic clove ≈ 3 g; standard USDA values for raw garlic"
+    },
+    {
+      "position": 3,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 small knob of ginger ≈ 5 g; standard values for raw ginger"
+    },
+    {
+      "position": 4,
+      "carbsG": 11,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (≈ 110 g) chopped, raw; standard values for raw onion"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.4,
+      "fiberG": 1,
+      "assumptions": "4 tablespoons fresh chopped coriander leaf ≈ 15 g; standard values for raw coriander/cilantro"
+    },
+    {
+      "position": 6,
+      "carbsG": 4,
+      "fiberG": 0.7,
+      "assumptions": "1 medium green chilli (≈ 20 g) chopped, raw; standard values for raw green chili pepper"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons olive oil (≈ 28 g total); pure oil contains no carbohydrates"
+    },
+    {
+      "position": 8,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "sweet chilli sauce to serve – quantity not specified; cannot estimate total contribution"
+    },
+    {
+      "position": 9,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "lime to serve – quantity not specified; cannot estimate total contribution"
+    },
+    {
+      "position": 10,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "chopped spring onions to serve – quantity not specified; cannot estimate total contribution"
+    },
+    {
+      "position": 11,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "chopped red chilli to serve – quantity not specified; cannot estimate total contribution"
+    }
+  ]
+}

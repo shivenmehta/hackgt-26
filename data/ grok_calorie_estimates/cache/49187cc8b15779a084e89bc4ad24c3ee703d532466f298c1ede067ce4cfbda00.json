@@ -1,0 +1,65 @@
+{
+  "inputHash": "49187cc8b15779a084e89bc4ad24c3ee703d532466f298c1ede067ce4cfbda00",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:16:22.814Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 1400,
+      "proteinG": 15,
+      "fatG": 55,
+      "assumptions": "300g digestive biscuits (standard UK type ~465 kcal/100g, ~5g protein, ~18g fat per 100g)"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 1100,
+      "proteinG": 1,
+      "fatG": 120,
+      "assumptions": "150g butter, assumed fully used in crust (standard values ~740 kcal, ~0.7g protein, ~82g fat per 100g)"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 1280,
+      "proteinG": 30,
+      "fatG": 35,
+      "assumptions": "400g sweetened condensed milk (standard ~320 kcal, ~7.5g protein, ~8.7g fat per 100g; whole can used)"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 165,
+      "proteinG": 8,
+      "fatG": 14,
+      "assumptions": "3 large egg yolks (~55 kcal, ~2.7g protein, ~4.5g fat each; standard large yolk weight ~17g)"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 70,
+      "proteinG": 2,
+      "fatG": 1,
+      "assumptions": "zest + juice from 4 limes (edible portion ~200g total fruit; ~35 kcal/100g, low fat/protein; only juice/zest contributes)"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 1050,
+      "proteinG": 6,
+      "fatG": 110,
+      "assumptions": "300ml double cream (~350 kcal, ~2g protein, ~37g fat per 100ml; volume ≈ weight for cream)"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 50,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tablespoon icing sugar (~15g; ~387 kcal/100g, negligible protein/fat)"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "lime to serve (for zest/garnish only; quantity unspecified and minimal, cannot estimate reasonably)"
+    }
+  ]
+}

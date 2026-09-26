@@ -1,0 +1,173 @@
+{
+  "inputHash": "f64d1c38016d8451afaf312b190b58045ff85f638b82a796601183dcfda82880",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:40.019Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 320,
+      "per100g": {
+        "caloriesKcal": 371,
+        "proteinG": 13,
+        "fatG": 1.5,
+        "carbsG": 75,
+        "fiberG": 3.2
+      },
+      "caloriesKcal": 1187.2,
+      "proteinG": 41.6,
+      "fatG": 4.8,
+      "carbsG": 240,
+      "fiberG": 10.24,
+      "assumptions": "Dry spaghetti; standard USDA-like values for durum wheat pasta; entire 320g package is used as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 102,
+      "per100g": {
+        "caloriesKcal": 322,
+        "proteinG": 16,
+        "fatG": 27,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 328.44,
+      "proteinG": 16.32,
+      "fatG": 27.54,
+      "carbsG": 3.6719999999999997,
+      "fiberG": 0,
+      "assumptions": "Standard large egg yolk is ~17 g each; 6 yolks total 102 g edible portion; typical values for raw egg yolks.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 'as required' for pasta water and seasoning estimated at 6 g total (1 tsp for boiling + small amount to finish); contributes negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 417,
+        "proteinG": 14,
+        "fatG": 38,
+        "carbsG": 1.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 625.5,
+      "proteinG": 21,
+      "fatG": 57,
+      "carbsG": 1.95,
+      "fiberG": 0,
+      "assumptions": "Pancetta/guanciale-style cured pork (recipe context uses pancetta but lists bacon); raw weight, fully edible after rind removal; typical values for unsmoked cured pork belly.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 26,
+        "fatG": 29,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 193.5,
+      "proteinG": 13,
+      "fatG": 14.5,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "Hard pecorino romano cheese; entire 50 g is grated and used; standard values for sheep's milk pecorino.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 255,
+        "proteinG": 11,
+        "fatG": 3.3,
+        "carbsG": 64,
+        "fiberG": 26
+      },
+      "caloriesKcal": 5.1,
+      "proteinG": 0.22,
+      "fatG": 0.066,
+      "carbsG": 1.28,
+      "fiberG": 0.52,
+      "assumptions": "Ground black pepper; 'as required' for seasoning estimated at 2 g total (multiple light grinds throughout); typical values for black peppercorns.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52982",
+    "name": "Spaghetti alla Carbonara",
+    "cuisine": "Italian",
+    "instructions": "STEP 1\r\nPut a large saucepan of water on to boil.\r\n\r\nSTEP 2\r\nFinely chop the 100g pancetta, having first removed any rind. Finely grate 50g pecorino cheese and 50g parmesan and mix them together.\r\n\r\nSTEP 3\r\nBeat the 3 large eggs in a medium bowl and season with a little freshly grated black pepper. Set everything aside.\r\n\r\nSTEP 4\r\nAdd 1 tsp salt to the boiling water, add 350g spaghetti and when the water comes back to the boil, cook at a constant simmer, covered, for 10 minutes or until al dente (just cooked).\r\n\r\nSTEP 5\r\nSquash 2 peeled plump garlic cloves with the blade of a knife, just to bruise it.\r\n\r\nSTEP 6\r\nWhile the spaghetti is cooking, fry the pancetta with the garlic. Drop 50g unsalted butter into a large frying pan or wok and, as soon as the butter has melted, tip in the pancetta and garlic.\r\n\r\nSTEP 7\r\nLeave to cook on a medium heat for about 5 minutes, stirring often, until the pancetta is golden and crisp. The garlic has now imparted its flavour, so take it out with a slotted spoon and discard.\r\n\r\nSTEP 8\r\nKeep the heat under the pancetta on low. When the pasta is ready, lift it from the water with a pasta fork or tongs and put it in the frying pan with the pancetta. Don’t worry if a little water drops in the pan as well (you want this to happen) and don’t throw the pasta water away yet.\r\n\r\nSTEP 9\r\nMix most of the cheese in with the eggs, keeping a small handful back for sprinkling over later.\r\n\r\nSTEP 10\r\nTake the pan of spaghetti and pancetta off the heat. Now quickly pour in the eggs and cheese. Using the tongs or a long fork, lift up the spaghetti so it mixes easily with the egg mixture, which thickens but doesn’t scramble, and everything is coated.\r\n\r\nSTEP 11\r\nAdd extra pasta cooking water to keep it saucy (several tablespoons should do it). You don’t want it wet, just moist. Season with a little salt, if needed.\r\n\r\nSTEP 12\r\nUse a long-pronged fork to twist the pasta on to the serving plate or bowl. Serve immediately with a little sprinkling of the remaining cheese and a grating of black pepper. If the dish does get a little dry before serving, splash in some more hot pasta water and the glossy sauciness will be revived.",
+    "ingredients": [
+      { "position": 1, "name": "Spaghetti", "measurement": "320g" },
+      { "position": 2, "name": "Egg Yolks", "measurement": "6" },
+      { "position": 3, "name": "Salt", "measurement": "As required" },
+      { "position": 4, "name": "Bacon", "measurement": "150g" },
+      { "position": 5, "name": "Pecorino", "measurement": "50g" },
+      { "position": 6, "name": "Black Pepper", "measurement": "As required" }
+    ]
+  }
+}

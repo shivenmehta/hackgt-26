@@ -1,0 +1,75 @@
+{
+  "inputHash": "397afafd8c787de1d2632335990af329efb4c7fa07cd5ee8aa49198a417a6ccf",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:28.362Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "150 ml water contributes zero carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "1 tsp granulated sugar ≈ 4 g"
+    },
+    {
+      "position": 3,
+      "carbsG": 2.3,
+      "fiberG": 1.7,
+      "assumptions": "15 g fresh baker's yeast (typical values for compressed yeast)"
+    },
+    {
+      "position": 4,
+      "carbsG": 167,
+      "fiberG": 6,
+      "assumptions": "225 g plain white wheat flour (standard nutritional data for white flour)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1.5 tsp table salt ≈ 9 g, zero carbohydrates"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "drizzle of olive oil in dough estimated at 5 g, pure fat with zero carbs"
+    },
+    {
+      "position": 7,
+      "carbsG": 5.6,
+      "fiberG": 1.4,
+      "assumptions": "80 g tomato passata (typical strained tomato values)"
+    },
+    {
+      "position": 8,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "70 g fresh mozzarella cheese, drained (lactose is minimal)"
+    },
+    {
+      "position": 9,
+      "carbsG": 0.7,
+      "fiberG": 0.4,
+      "assumptions": "dried oregano to taste estimated at 1 g"
+    },
+    {
+      "position": 10,
+      "carbsG": 0.3,
+      "fiberG": 0.2,
+      "assumptions": "fresh basil leaves estimated at 5 g"
+    },
+    {
+      "position": 11,
+      "carbsG": 0.3,
+      "fiberG": 0.1,
+      "assumptions": "pinch of black pepper estimated at 0.5 g"
+    }
+  ]
+}

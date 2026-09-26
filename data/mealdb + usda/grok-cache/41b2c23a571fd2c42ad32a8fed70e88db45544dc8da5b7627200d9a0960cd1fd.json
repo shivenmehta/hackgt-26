@@ -1,0 +1,51 @@
+{
+  "inputHash": "41b2c23a571fd2c42ad32a8fed70e88db45544dc8da5b7627200d9a0960cd1fd",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:42.349Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 625,
+      "caloriesPer100g": 38,
+      "assumptions": "5 medium onions at ~125g each when thinly sliced (standard medium onion ~110-130g; slicing doesn't change mass)."
+    },
+    {
+      "position": 3,
+      "grams": 300,
+      "caloriesPer100g": 22,
+      "assumptions": "2 medium-large tomatoes at ~150g each when finely chopped (typical tomato weight range 100-200g)."
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "caloriesPer100g": 80,
+      "assumptions": "1 tbsp ginger paste ≈15g (standard density for pastes); ~80 kcal/100g typical for ginger/garlic pastes accounting for minor added oil/water."
+    },
+    {
+      "position": 11,
+      "grams": 20,
+      "caloriesPer100g": 40,
+      "assumptions": "2 medium green chillies at ~10g each (standard fresh chilli weight)."
+    },
+    {
+      "position": 12,
+      "grams": 245,
+      "caloriesPer100g": 78,
+      "assumptions": "1 cup yogurt ≈245g (standard US cup weight for plain yogurt)."
+    },
+    {
+      "position": 15,
+      "grams": 2,
+      "caloriesPer100g": 300,
+      "assumptions": "1 tsp garam masala ≈2g (typical density for ground spice blends); ~300 kcal/100g average for dry spice mixes."
+    },
+    {
+      "position": 16,
+      "grams": null,
+      "caloriesPer100g": 0,
+      "assumptions": "'To taste' prevents reliable mass estimate; negligible calories anyway."
+    }
+  ]
+}

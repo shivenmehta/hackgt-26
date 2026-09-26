@@ -1,0 +1,411 @@
+{
+  "inputHash": "2297bd22219c8e287a691d6ea1b9802b4a56907ce645a46ac5b5d7021dbd808e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:56.486Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard olive oil density ~0.91 g/ml; 2 tbsp = 30 ml ≈ 27 g edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "Medium onion ≈ 110 g when finely sliced; typical raw white onion values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 122,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 50.02,
+      "proteinG": 1.0979999999999999,
+      "fatG": 0.24400000000000002,
+      "carbsG": 11.712,
+      "fiberG": 3.4159999999999995,
+      "assumptions": "2 medium carrots ≈ 122 g chopped; typical raw carrot values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 230,
+        "proteinG": 25,
+        "fatG": 15,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1150,
+      "proteinG": 125,
+      "fatG": 75,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw boneless lamb leg; trimmed but with typical fat content for stewing.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 average cloves ≈ 6 g minced; typical raw garlic values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 15,
+        "carbsG": 44,
+        "fiberG": 11
+      },
+      "caloriesKcal": 3.75,
+      "proteinG": 0.18,
+      "fatG": 0.15,
+      "carbsG": 0.44,
+      "fiberG": 0.11,
+      "assumptions": "½ tsp ground cumin ≈ 1 g; typical dried spice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 335,
+        "proteinG": 9,
+        "fatG": 6,
+        "carbsG": 72,
+        "fiberG": 13
+      },
+      "caloriesKcal": 3.35,
+      "proteinG": 0.09,
+      "fatG": 0.06,
+      "carbsG": 0.72,
+      "fiberG": 0.13,
+      "assumptions": "½ tsp ground ginger ≈ 1 g; typical dried spice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 0.5,
+      "per100g": {
+        "caloriesKcal": 310,
+        "proteinG": 11,
+        "fatG": 6,
+        "carbsG": 65,
+        "fiberG": 12
+      },
+      "caloriesKcal": 1.55,
+      "proteinG": 0.055,
+      "fatG": 0.03,
+      "carbsG": 0.325,
+      "fiberG": 0.06,
+      "assumptions": "¼ tsp saffron threads ≈ 0.5 g; typical dried spice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 2.6,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 2,
+        "carbsG": 81,
+        "fiberG": 53
+      },
+      "caloriesKcal": 6.422000000000001,
+      "proteinG": 0.10400000000000001,
+      "fatG": 0.052000000000000005,
+      "carbsG": 2.106,
+      "fiberG": 1.3780000000000001,
+      "assumptions": "1 tsp ground cinnamon ≈ 2.6 g; typical dried spice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 21,
+      "per100g": {
+        "caloriesKcal": 304,
+        "proteinG": 0.3,
+        "fatG": 0,
+        "carbsG": 82,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 63.84,
+      "proteinG": 0.063,
+      "fatG": 0,
+      "carbsG": 17.22,
+      "fiberG": 0.042,
+      "assumptions": "1 tbsp honey ≈ 21 g; typical pure honey values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 241,
+        "proteinG": 3.4,
+        "fatG": 0.4,
+        "carbsG": 62.6,
+        "fiberG": 7.3
+      },
+      "caloriesKcal": 241,
+      "proteinG": 3.4,
+      "fatG": 0.4,
+      "carbsG": 62.6,
+      "fiberG": 7.3,
+      "assumptions": "100 g dried apricots as listed (common in tagines); typical dried fruit values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 11,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 8,
+        "fatG": 2,
+        "carbsG": 60,
+        "fiberG": 2
+      },
+      "caloriesKcal": 38.5,
+      "proteinG": 0.88,
+      "fatG": 0.22,
+      "carbsG": 6.6,
+      "fiberG": 0.22,
+      "assumptions": "1 standard vegetable stock cube ≈ 11 g; typical dehydrated bouillon values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 450,
+      "per100g": {
+        "caloriesKcal": 45,
+        "proteinG": 1,
+        "fatG": 0.1,
+        "carbsG": 12,
+        "fiberG": 2
+      },
+      "caloriesKcal": 202.5,
+      "proteinG": 4.5,
+      "fatG": 0.45,
+      "carbsG": 54,
+      "fiberG": 9,
+      "assumptions": "1 medium butternut squash ≈ 450 g edible chopped flesh (peeled, seeded); typical raw values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 376,
+        "proteinG": 13,
+        "fatG": 2,
+        "carbsG": 78,
+        "fiberG": 5
+      },
+      "caloriesKcal": 564,
+      "proteinG": 19.5,
+      "fatG": 3,
+      "carbsG": 117,
+      "fiberG": 7.5,
+      "assumptions": "Typical steamed couscous serving (dry weight basis before cooking) as side; standard dry couscous values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 1,
+        "carbsG": 6,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 3.6,
+      "proteinG": 0.3,
+      "fatG": 0.1,
+      "carbsG": 0.6,
+      "fiberG": 0.33,
+      "assumptions": "Small bunch fresh parsley chopped ≈ 10 g; typical fresh herb values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52843",
+    "name": "Lamb Tagine",
+    "cuisine": "Moroccan",
+    "instructions": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened.\r\n\r\nAdd the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released.\r\n\r\nAdd the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or enough to cover the meat. Give it a good stir and bring to the boil. Turn down to a simmer, put the lid on and cook for 1 hour.\r\n\r\nRemove the lid and cook for a further 30 mins, then stir in the squash. Cook for 20 – 30 mins more until the squash is soft and the lamb is tender. Serve alongside rice or couscous and sprinkle with parsley and pine nuts, if using.",
+    "ingredients": [
+      { "position": 1, "name": "Olive Oil", "measurement": "2 tblsp" },
+      { "position": 2, "name": "Onion", "measurement": "1 finely sliced" },
+      { "position": 3, "name": "Carrots", "measurement": "2 chopped" },
+      { "position": 4, "name": "Lamb Leg", "measurement": "500g" },
+      { "position": 5, "name": "Garlic", "measurement": "2 cloves minced" },
+      { "position": 6, "name": "Cumin", "measurement": "½ tsp" },
+      { "position": 7, "name": "Ginger", "measurement": "½ tsp" },
+      { "position": 8, "name": "Saffron", "measurement": "¼ tsp" },
+      { "position": 9, "name": "Cinnamon", "measurement": "1 tsp" },
+      { "position": 10, "name": "Honey", "measurement": "1 tblsp" },
+      { "position": 11, "name": "Apricot", "measurement": "100g" },
+      { "position": 12, "name": "Vegetable Stock Cube", "measurement": "1" },
+      {
+        "position": 13,
+        "name": "Butternut Squash",
+        "measurement": "1 medium chopped"
+      },
+      { "position": 14, "name": "Couscous", "measurement": "Steamed" },
+      { "position": 15, "name": "Parsley", "measurement": "Chopped" }
+    ]
+  }
+}

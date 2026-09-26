@@ -1,0 +1,333 @@
+{
+  "inputHash": "6a8f86828eebc8105b97d955785eb486fb0ea9730cf95f39f9f0c54d76b49a30",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:48.144Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.2,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 88,
+      "proteinG": 2.4200000000000004,
+      "fatG": 0.44,
+      "carbsG": 20.46,
+      "fiberG": 3.74,
+      "assumptions": "Medium onions, approx 110g each; raw weight used as added early and cooked down.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp olive oil weighs ~14g; standard density for cooking oil.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "1 average garlic clove ~3g; raw, as minced and fried.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 176,
+        "proteinG": 21,
+        "fatG": 10,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 880,
+      "proteinG": 105,
+      "fatG": 50,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw lean minced beef (5% fat typical for 'lean'); entire 500g line used as-is.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 90,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 3.1,
+        "fatG": 0.3,
+        "carbsG": 3.3,
+        "fiberG": 1
+      },
+      "caloriesKcal": 19.8,
+      "proteinG": 2.79,
+      "fatG": 0.27,
+      "carbsG": 2.97,
+      "fiberG": 0.9,
+      "assumptions": "Fresh white mushrooms; raw weight as added and cooked.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 11,
+        "fatG": 7,
+        "carbsG": 69,
+        "fiberG": 43
+      },
+      "caloriesKcal": 2.65,
+      "proteinG": 0.11,
+      "fatG": 0.07,
+      "carbsG": 0.69,
+      "fiberG": 0.43,
+      "assumptions": "1 tsp dried oregano ~1g; typical dried herb density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.6,
+        "fatG": 0.2,
+        "carbsG": 7,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 128,
+      "proteinG": 6.4,
+      "fatG": 0.8,
+      "carbsG": 28,
+      "fiberG": 4.8,
+      "assumptions": "400g can chopped tomatoes including juice; standard canned value, drained weight not applicable as used whole.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 21,
+      "proteinG": 3,
+      "fatG": 0.6,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "Hot beef stock from concentrate or cube; typical low-calorie prepared stock values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 16,
+      "per100g": {
+        "caloriesKcal": 97,
+        "proteinG": 4.5,
+        "fatG": 0.5,
+        "carbsG": 19,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 15.52,
+      "proteinG": 0.72,
+      "fatG": 0.08,
+      "carbsG": 3.04,
+      "fiberG": 0.4,
+      "assumptions": "1 tbsp tomato puree ~16g; standard density for thick paste.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 78,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 19,
+        "fiberG": 0
+      },
+      "caloriesKcal": 11.7,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 2.85,
+      "fiberG": 0,
+      "assumptions": "1 tbsp Worcestershire sauce ~15g; typical thin sauce density.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 350,
+      "per100g": {
+        "caloriesKcal": 371,
+        "proteinG": 13,
+        "fatG": 2,
+        "carbsG": 75,
+        "fiberG": 3
+      },
+      "caloriesKcal": 1298.5,
+      "proteinG": 45.5,
+      "fatG": 7,
+      "carbsG": 262.5,
+      "fiberG": 10.5,
+      "assumptions": "Dry spaghetti; entire 350g package weight as boiled per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 392,
+        "proteinG": 38,
+        "fatG": 26,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 78.4,
+      "proteinG": 7.6,
+      "fatG": 5.2,
+      "carbsG": 0.8,
+      "fiberG": 0,
+      "assumptions": "Parmesan as topping; plausible 20g total for sprinkling across servings (not per person).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52770",
+    "name": "Spaghetti Bolognese",
+    "cuisine": "Italian",
+    "instructions": "Put the onion and oil in a large pan and fry over a fairly high heat for 3-4 mins. Add the garlic and mince and fry until they both brown. Add the mushrooms and herbs, and cook for another couple of mins.\r\n\r\nStir in the tomatoes, beef stock, tomato ketchup or purée, Worcestershire sauce and seasoning. Bring to the boil, then reduce the heat, cover and simmer, stirring occasionally, for 30 mins.\r\n\r\nMeanwhile, cook the spaghetti in a large pan of boiling, salted water, according to packet instructions. Drain well, run hot water through it, put it back in the pan and add a dash of olive oil, if you like, then stir in the meat sauce. Serve in hot bowls and hand round Parmesan cheese, for sprinkling on top.",
+    "ingredients": [
+      { "position": 1, "name": "onions", "measurement": "2" },
+      { "position": 2, "name": "olive oil", "measurement": "1tbsp" },
+      { "position": 3, "name": "garlic", "measurement": "1 clove" },
+      { "position": 4, "name": "lean minced beef", "measurement": "500g" },
+      { "position": 5, "name": "mushrooms", "measurement": "90g" },
+      { "position": 6, "name": "dried oregano", "measurement": "1tsp" },
+      { "position": 7, "name": "tomatoes", "measurement": "400g can" },
+      { "position": 8, "name": "hot beef stock", "measurement": "300ml" },
+      { "position": 9, "name": "tomato puree", "measurement": "1tbsp" },
+      {
+        "position": 10,
+        "name": "worcestershire sauce",
+        "measurement": "1tbsp"
+      },
+      { "position": 11, "name": "spaghetti", "measurement": "350g" },
+      { "position": 12, "name": "parmesan", "measurement": "Topping" }
+    ]
+  }
+}

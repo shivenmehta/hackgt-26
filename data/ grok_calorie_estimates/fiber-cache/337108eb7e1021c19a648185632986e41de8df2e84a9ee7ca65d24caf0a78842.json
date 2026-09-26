@@ -1,0 +1,81 @@
+{
+  "inputHash": "337108eb7e1021c19a648185632986e41de8df2e84a9ee7ca65d24caf0a78842",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:03:31.635Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbls sunflower oil = 14 g; pure fat with no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 5.6,
+      "fiberG": 0,
+      "assumptions": "225 g paneer; typical full-fat paneer has ~2.5 g carbs per 100 g, all from lactose"
+    },
+    {
+      "position": 3,
+      "carbsG": 3.4,
+      "fiberG": 0.7,
+      "assumptions": "2 thumb-sized pieces of fresh ginger ≈ 20 g total; standard raw ginger carbs"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.2,
+      "fiberG": 0.6,
+      "assumptions": "1 tsp cumin ≈ 2 g; standard spice nutrition for entire quantity"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.8,
+      "fiberG": 0.6,
+      "assumptions": "1 tsp ground turmeric ≈ 3 g; standard spice nutrition for entire quantity"
+    },
+    {
+      "position": 6,
+      "carbsG": 1,
+      "fiberG": 0.8,
+      "assumptions": "1 tsp ground coriander ≈ 2 g; standard spice nutrition for entire quantity"
+    },
+    {
+      "position": 7,
+      "carbsG": 2.4,
+      "fiberG": 0.4,
+      "assumptions": "1 medium green chilli ≈ 15 g; standard raw chilli nutrition for entire quantity"
+    },
+    {
+      "position": 8,
+      "carbsG": 27.2,
+      "fiberG": 8,
+      "assumptions": "4 large tomatoes ≈ 800 g total raw weight; standard raw tomato nutrition (~3.4 g carbs/100 g with fiber) scaled to full quantity"
+    },
+    {
+      "position": 9,
+      "carbsG": 21.5,
+      "fiberG": 8.3,
+      "assumptions": "150 g green peas; standard nutrition for fresh/frozen peas scaled to full quantity"
+    },
+    {
+      "position": 10,
+      "carbsG": 1.2,
+      "fiberG": 0.6,
+      "assumptions": "1 tsp garam masala ≈ 2 g; typical blended spice carbs for entire quantity"
+    },
+    {
+      "position": 11,
+      "carbsG": 0.9,
+      "fiberG": 0.6,
+      "assumptions": "small bunch fresh coriander ≈ 15 g; standard raw coriander leaf nutrition for entire quantity"
+    },
+    {
+      "position": 12,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "naan bread 'to serve' is not a fixed recipe quantity; cannot estimate without specified number or weight"
+    }
+  ]
+}

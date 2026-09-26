@@ -1,0 +1,39 @@
+{
+  "inputHash": "01271dd26ec5fe0017dcf2e8c393996d7ba18a99bcca6b44d0423ba5117bf936",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:25.628Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 4,
+      "grams": null,
+      "caloriesPer100g": null,
+      "assumptions": "No reasonable estimate possible for fajita seasoning packet size or calories without brand-specific data; returning null for both."
+    },
+    {
+      "position": 6,
+      "grams": 450,
+      "caloriesPer100g": 106,
+      "assumptions": "Standard boneless skinless chicken breast is ~150g each; 3 diced breasts total 450g edible portion (no bone). Copy known calories for raw chicken breast."
+    },
+    {
+      "position": 8,
+      "grams": 70,
+      "caloriesPer100g": 38,
+      "assumptions": "1 small onion is typically 70g after peeling and fine dicing. Copy known calories for raw onion."
+    },
+    {
+      "position": 9,
+      "grams": 238,
+      "caloriesPer100g": 31.3,
+      "assumptions": "1 medium red bell pepper averages 119g; 2 peppers = 238g after seeding and fine dicing (edible portion). Copy known calories for raw red pepper."
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "caloriesPer100g": 36,
+      "assumptions": "Parsley as garnish is a modest ~5g (a few sprigs, chopped). Copy known calories for raw parsley."
+    }
+  ]
+}

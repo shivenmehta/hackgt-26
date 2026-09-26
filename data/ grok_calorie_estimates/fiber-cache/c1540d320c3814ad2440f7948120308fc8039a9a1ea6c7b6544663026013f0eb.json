@@ -1,0 +1,39 @@
+{
+  "inputHash": "c1540d320c3814ad2440f7948120308fc8039a9a1ea6c7b6544663026013f0eb",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:05.483Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 90,
+      "fiberG": 0,
+      "assumptions": "2 cups miniature marshmallows ≈ 100 g (light and fluffy volume weight); standard nutrition for marshmallows (90 g carbs/100 g, negligible fiber)"
+    },
+    {
+      "position": 2,
+      "carbsG": 204,
+      "fiberG": 18,
+      "assumptions": "3 cups semi-sweet chocolate chips ≈ 510 g (standard density ≈ 170 g/cup); typical semi-sweet chips (40 g carbs/100 g, ~3.5 g fiber/100 g)"
+    },
+    {
+      "position": 3,
+      "carbsG": 26,
+      "fiberG": 8,
+      "assumptions": "½ cup peanut butter ≈ 130 g (standard creamy or chunky); typical peanut butter (20 g carbs/100 g, ~6 g fiber/100 g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 tsp vanilla extract ≈ 4 g (negligible macros); typical vanilla extract (~13 g carbs/100 g, no fiber)"
+    },
+    {
+      "position": 5,
+      "carbsG": 27,
+      "fiberG": 14,
+      "assumptions": "1 ¼ cups roasted peanuts ≈ 180 g (standard chopped or whole peanuts); typical roasted peanuts (15 g carbs/100 g, ~8 g fiber/100 g)"
+    }
+  ]
+}

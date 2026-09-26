@@ -1,0 +1,30 @@
+{
+  "inputHash": "e2c79507c15b2120ad78180b1c09ca4fbb8b9f0527d1c48f4740ef69b397146d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:14:58.131Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 560,
+      "proteinG": 6,
+      "fatG": 50,
+      "assumptions": "2 cups coconut flakes ≈ 160 g (unsweetened desiccated coconut); values for dried coconut flakes"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 830,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 cup brown sugar (or jaggery powder) ≈ 200 g; standard granulated brown sugar values used as proxy for jaggery"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "'Dried Fruit' quantity and type not specified; cannot estimate without assumed weight or variety"
+    }
+  ]
+}

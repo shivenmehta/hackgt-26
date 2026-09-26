@@ -1,0 +1,69 @@
+{
+  "inputHash": "0ac023ab7593fe7138e3e9526f1d4fbc17899eaa25c1a093781e6fcd1ae84f41",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:08.433Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 38,
+      "fiberG": 1,
+      "assumptions": "50g cornflour (corn starch) as listed; standard values for dry corn flour."
+    },
+    {
+      "position": 2,
+      "carbsG": 76,
+      "fiberG": 3,
+      "assumptions": "100g plain white wheat flour as listed; standard values for dry flour."
+    },
+    {
+      "position": 3,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "1 tbsp (approx 9g) sesame seeds; standard values for whole seeds."
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Vegetable oil for frying - quantity absorbed cannot be reasonably estimated; zero carbs as pure oil."
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "250ml soda water (carbonated water); negligible macros."
+    },
+    {
+      "position": 6,
+      "carbsG": 7,
+      "fiberG": 5,
+      "assumptions": "200g raw purple sprouting broccoli as listed; standard values for raw broccoli."
+    },
+    {
+      "position": 7,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "2 tbsp (approx 30ml) fish sauce; standard values for typical nuoc mam."
+    },
+    {
+      "position": 8,
+      "carbsG": 7,
+      "fiberG": 1,
+      "assumptions": "Juice of 2 limes (approx 60ml total juice); standard values for lime juice."
+    },
+    {
+      "position": 9,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 chopped bird's-eye chilli (approx 5-6g); standard values for fresh chilli."
+    },
+    {
+      "position": 10,
+      "carbsG": 25,
+      "fiberG": 0,
+      "assumptions": "2 tbsp (approx 25g) white sugar; standard values for granulated sugar."
+    }
+  ]
+}

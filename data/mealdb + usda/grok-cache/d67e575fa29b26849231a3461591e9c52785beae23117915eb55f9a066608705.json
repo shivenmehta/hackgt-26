@@ -1,0 +1,39 @@
+{
+  "inputHash": "d67e575fa29b26849231a3461591e9c52785beae23117915eb55f9a066608705",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:22.758Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 400,
+      "caloriesPer100g": 340,
+      "assumptions": "Broad (fava) beans; 2 cups dry fava beans is a standard 400g for ful medames recipes (dry weight before soaking/cooking; recipe cooks in water so this is the input state)."
+    },
+    {
+      "position": 3,
+      "grams": 15,
+      "caloriesPer100g": 884,
+      "assumptions": "Dash of olive oil interpreted as a modest table spoon (≈15 g) for the whole recipe as a shared dressing component."
+    },
+    {
+      "position": 4,
+      "grams": 330,
+      "caloriesPer100g": 29,
+      "assumptions": "3 average lemons (≈110 g each with peel; recipe uses quartered lemons as dressing, so whole fruit weight)."
+    },
+    {
+      "position": 5,
+      "grams": 12,
+      "caloriesPer100g": 143,
+      "assumptions": "4 typical garlic cloves (≈3 g each, total 12 g)."
+    },
+    {
+      "position": 6,
+      "grams": 2,
+      "caloriesPer100g": 375,
+      "assumptions": "Sprinkling of cumin as a modest shared amount (≈2 g total for the recipe)."
+    }
+  ]
+}

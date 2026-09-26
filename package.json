@@ -32,7 +32,18 @@
     "test:bridge": "playwright test",
     "meals:build": "node --env-file-if-exists=.env.local --import tsx scripts/mealdb/import-catalog.ts",
     "meals:query": "node --import tsx scripts/mealdb/query-catalog.ts",
-    "test:meals": "node --import tsx --test scripts/mealdb/catalog.test.ts"
+    "test:meals": "node --import tsx --test scripts/mealdb/catalog.test.ts",
+    "meals:nutrition": "node --import tsx scripts/mealdb/build-nutrition.ts",
+    "test:nutrition": "node --import tsx --test scripts/mealdb/nutrition.test.ts",
+    "meals:grok": "node --env-file-if-exists=.env.local --import tsx scripts/mealdb/enrich-grok-calories.ts",
+    "test:grok": "node --import tsx --test scripts/mealdb/grok-calories.test.ts",
+    "meals:summary": "node --import tsx scripts/mealdb/summarize-nutrition.ts",
+    "meals:grok:full": "node --env-file-if-exists=.env.local --import tsx scripts/mealdb/estimate-grok-nutrition.ts",
+    "test:grok:full": "node --import tsx --test scripts/mealdb/grok-full-nutrition.test.ts",
+    "meals:grok:fiber": "node --env-file-if-exists=.env.local --import tsx scripts/mealdb/estimate-grok-fiber.ts",
+    "test:grok:fiber": "node --import tsx --test scripts/mealdb/grok-fiber.test.ts",
+    "meals:grok:best-effort": "node --env-file-if-exists=.env.local --import tsx scripts/mealdb/estimate-grok-best-effort.ts",
+    "test:grok:best-effort": "node --import tsx --test scripts/mealdb/grok-best-effort.test.ts"
   },
   "dependencies": {
     "@chakra-ui/react": "^3.37.0",

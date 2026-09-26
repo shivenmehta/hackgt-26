@@ -1,0 +1,45 @@
+{
+  "inputHash": "ad4cf46612ab8ca531502126e4d50a843435a874c9fef458bda0b473c1e86dad",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:11.508Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 72.5,
+      "fiberG": 7.5,
+      "assumptions": "250g raw cashew nuts; standard ~29g total carbs and 3g fiber per 100g"
+    },
+    {
+      "position": 2,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "100g icing sugar; essentially 100% carbohydrates as sucrose"
+    },
+    {
+      "position": 3,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "2 large egg yolks (~34g total); ~0.6g carbs per yolk, fiber negligible"
+    },
+    {
+      "position": 4,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "2 tbs (30ml) orange blossom water; ~10g carbs per 100ml from trace sugars"
+    },
+    {
+      "position": 5,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Icing sugar to glaze: quantity not specified, cannot estimate total contribution"
+    },
+    {
+      "position": 6,
+      "carbsG": 22,
+      "fiberG": 12,
+      "assumptions": "100g whole almonds; standard ~22g total carbs and 12g fiber per 100g"
+    }
+  ]
+}

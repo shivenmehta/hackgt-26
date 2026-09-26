@@ -1,0 +1,65 @@
+{
+  "inputHash": "215c771bdaa8394c18a2ec04c118bbb01705cd1a755cb1ffa0647d6a55f896ca",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:20:26.990Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 1600,
+      "proteinG": 200,
+      "fatG": 80,
+      "assumptions": "8 slices roast beef, ~200g total (25g/slice, cooked, lean+fat cuts)"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 120,
+      "proteinG": 10,
+      "fatG": 2,
+      "assumptions": "12 broccoli florets, ~360g total (30g/floret, raw weight, edible portion)"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 600,
+      "proteinG": 15,
+      "fatG": 1,
+      "assumptions": "1 packet roast potatoes, ~500g total (standard pre-prepared packet size, raw weight before roasting)"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 180,
+      "proteinG": 4,
+      "fatG": 1,
+      "assumptions": "1 packet carrots, ~400g total (standard pre-prepared packet size, raw weight, peeled/edible portion)"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 510,
+      "proteinG": 15,
+      "fatG": 2,
+      "assumptions": "140g plain flour as stated"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 310,
+      "proteinG": 25,
+      "fatG": 21,
+      "assumptions": "4 large eggs (~50g each without shell)"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 130,
+      "proteinG": 7,
+      "fatG": 5,
+      "assumptions": "200ml semi-skimmed milk"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 60,
+      "proteinG": 0,
+      "fatG": 7,
+      "assumptions": "~7g sunflower oil actually absorbed/used in Yorkshire pudding tins (modest drizzle for 12 holes)"
+    }
+  ]
+}

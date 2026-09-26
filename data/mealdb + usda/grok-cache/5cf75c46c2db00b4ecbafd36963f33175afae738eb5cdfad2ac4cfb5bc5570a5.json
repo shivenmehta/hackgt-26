@@ -1,0 +1,69 @@
+{
+  "inputHash": "5cf75c46c2db00b4ecbafd36963f33175afae738eb5cdfad2ac4cfb5bc5570a5",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:52.871Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 800,
+      "caloriesPer100g": 205,
+      "assumptions": "4 whole mackerel; each ~250g raw whole weight (typical for small-medium mackerel), edible flesh portion after cleaning is majority but using whole weight as common for recipe; known value copied."
+    },
+    {
+      "position": 2,
+      "grams": 54,
+      "caloriesPer100g": 318,
+      "assumptions": "18 dried red chilies (Kashmiri type); each dried chili ~3g based on typical weight of whole dried pods; realistic modest amount; calories estimated from similar dried chili peppers."
+    },
+    {
+      "position": 3,
+      "grams": 15,
+      "caloriesPer100g": 80,
+      "assumptions": "1 inch ginger root ~15g typical weight; known value copied."
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "caloriesPer100g": 251,
+      "assumptions": "1.5 tsp whole peppercorns ~3g (1 tsp ~2g); known value copied."
+    },
+    {
+      "position": 6,
+      "grams": 2,
+      "caloriesPer100g": 375,
+      "assumptions": "1 tsp cumin seeds ~2g; known value copied."
+    },
+    {
+      "position": 8,
+      "grams": 2,
+      "caloriesPer100g": 247,
+      "assumptions": "1 small cinnamon stick (assumed from context, omitted in original); ~2g typical; known value copied."
+    },
+    {
+      "position": 9,
+      "grams": 3,
+      "caloriesPer100g": 274,
+      "assumptions": "4 whole cloves ~3g total (each ~0.7-0.8g); known value copied."
+    },
+    {
+      "position": 10,
+      "grams": 1,
+      "caloriesPer100g": 311,
+      "assumptions": "2 cardamom pods ~1g total; known value copied."
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "caloriesPer100g": 239,
+      "assumptions": "2 marble-sized tamarind balls; each ~15g typical for pulp, total 30g; calories estimated from tamarind pulp."
+    },
+    {
+      "position": 14,
+      "grams": 60,
+      "caloriesPer100g": 884,
+      "assumptions": "Oil for shallow frying 4 fish; realistic ~2-3 tbsp absorbed/used in pan (15ml/tbsp); known value copied."
+    }
+  ]
+}

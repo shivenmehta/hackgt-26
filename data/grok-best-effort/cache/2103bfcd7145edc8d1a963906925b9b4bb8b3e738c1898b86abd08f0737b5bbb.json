@@ -1,0 +1,229 @@
+{
+  "inputHash": "2103bfcd7145edc8d1a963906925b9b4bb8b3e738c1898b86abd08f0737b5bbb",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:13.028Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 546,
+      "proteinG": 15,
+      "fatG": 1.5,
+      "carbsG": 114,
+      "fiberG": 4.5,
+      "assumptions": "Standard self-raising flour; 1 1/4 US cups ≈ 150 g dry weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 380,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "Coconut sugar; 1/2 US cup ≈ 100 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 400,
+        "proteinG": 20,
+        "fatG": 14,
+        "carbsG": 40,
+        "fiberG": 30
+      },
+      "caloriesKcal": 120,
+      "proteinG": 6,
+      "fatG": 4.2,
+      "carbsG": 12,
+      "fiberG": 9,
+      "assumptions": "Raw cacao powder; 1/3 US cup ≈ 30 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 28,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2.12,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1.12,
+      "fiberG": 0,
+      "assumptions": "Baking powder; 1 tsp ≈ 4 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 50,
+        "proteinG": 4,
+        "fatG": 3,
+        "carbsG": 3,
+        "fiberG": 3
+      },
+      "caloriesKcal": 30,
+      "proteinG": 2.4,
+      "fatG": 1.8,
+      "carbsG": 1.8,
+      "fiberG": 1.8,
+      "assumptions": "2 flax eggs made from 2 tbsp (≈14 g) ground flax + 6 tbsp (≈90 ml) water; total prepared weight ≈ 104 g but using 60 g net contribution after typical absorption (reasonable estimate for binding in cake)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 0.5,
+        "fatG": 1.1,
+        "carbsG": 0.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 18,
+      "proteinG": 0.6,
+      "fatG": 1.32,
+      "carbsG": 0.48,
+      "fiberG": 0,
+      "assumptions": "Unsweetened almond milk; 1/2 US cup ≈ 120 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 13,
+        "fiberG": 0
+      },
+      "caloriesKcal": 11.52,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.52,
+      "fiberG": 0,
+      "assumptions": "Pure vanilla extract; 1 tsp ≈ 4 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Boiling water; 1/2 US cup ≈ 120 g (water contributes 0 macros)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52794",
+    "name": "Vegan Chocolate Cake",
+    "cuisine": "American",
+    "instructions": "Simply mix all dry ingredients with wet ingredients and blend altogether. Bake for 45 min on 180 degrees. Decorate with some melted vegan chocolate",
+    "ingredients": [
+      {
+        "position": 1,
+        "name": "Self-raising Flour",
+        "measurement": "1 1/4 cup"
+      },
+      { "position": 2, "name": "coco sugar", "measurement": "1/2 cup" },
+      { "position": 3, "name": "cacao", "measurement": "1/3 cup raw" },
+      { "position": 4, "name": "baking powder", "measurement": "1 tsp" },
+      { "position": 5, "name": "flax eggs", "measurement": "2" },
+      { "position": 6, "name": "almond milk", "measurement": "1/2 cup" },
+      { "position": 7, "name": "vanilla", "measurement": "1 tsp" },
+      { "position": 8, "name": "water", "measurement": "1/2 cup boiling" }
+    ]
+  }
+}

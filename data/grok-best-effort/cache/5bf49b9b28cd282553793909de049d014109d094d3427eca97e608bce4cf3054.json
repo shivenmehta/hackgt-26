@@ -1,0 +1,303 @@
+{
+  "inputHash": "5bf49b9b28cd282553793909de049d014109d094d3427eca97e608bce4cf3054",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:16.639Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1500,
+      "per100g": {
+        "caloriesKcal": 86,
+        "proteinG": 15,
+        "fatG": 1.2,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1290,
+      "proteinG": 225,
+      "fatG": 18,
+      "carbsG": 54,
+      "fiberG": 0,
+      "assumptions": "1.5 kg fresh hard-shell clams in shell; typical mixed meat+liquid yield ~25-30% after cooking and shelling but full ingredient line used as purchased weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 358.5,
+      "proteinG": 0.45,
+      "fatG": 40.5,
+      "carbsG": 0.05,
+      "fiberG": 0,
+      "assumptions": "standard unsalted butter",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 417,
+        "proteinG": 13,
+        "fatG": 40,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 625.5,
+      "proteinG": 19.5,
+      "fatG": 60,
+      "carbsG": 1.05,
+      "fiberG": 0,
+      "assumptions": "streaky bacon or pancetta style, typical American chowder cut",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium-large onion finely chopped ≈110 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 101,
+        "proteinG": 5.6,
+        "fatG": 1.7,
+        "carbsG": 15,
+        "fiberG": 14
+      },
+      "caloriesKcal": 5.05,
+      "proteinG": 0.28,
+      "fatG": 0.085,
+      "carbsG": 0.75,
+      "fiberG": 0.7,
+      "assumptions": "a few fresh thyme sprigs ≈5 g edible leaves and tender stem",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 dried bay leaf, negligible weight and nutrition",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 29.12,
+      "proteinG": 0.8,
+      "fatG": 0.08,
+      "carbsG": 6.08,
+      "fiberG": 0.21600000000000003,
+      "assumptions": "1 level tablespoon plain white flour ≈8 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 4.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 63,
+      "proteinG": 5.1,
+      "fatG": 1.5,
+      "carbsG": 7.2,
+      "fiberG": 0,
+      "assumptions": "semi-skimmed or whole milk; typical chowder uses whole but 150 ml = 150 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 449,
+        "proteinG": 1.7,
+        "fatG": 48,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 673.5,
+      "proteinG": 2.55,
+      "fatG": 72,
+      "carbsG": 5.4,
+      "fiberG": 0,
+      "assumptions": "heavy/double cream, 48 % fat typical UK/EU style",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17.5,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 231,
+      "proteinG": 6,
+      "fatG": 0.3,
+      "carbsG": 52.5,
+      "fiberG": 6.6,
+      "assumptions": "2 medium floury potatoes (e.g. Maris Piper) ≈150 g each, peeled weight estimate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.7,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 3.6,
+      "proteinG": 0.3,
+      "fatG": 0.07,
+      "carbsG": 0.63,
+      "fiberG": 0.33,
+      "assumptions": "small handful chopped fresh parsley ≈10 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52840",
+    "name": "Clam chowder",
+    "cuisine": "American",
+    "instructions": "Rinse the clams in several changes of cold water and drain well. Tip the clams into a large pan with 500ml of water. Cover, bring to the boil and simmer for 2 mins until the clams have just opened. Tip the contents of the pan into a colander over a bowl to catch the clam stock. When cool enough to handle, remove the clams from their shells – reserving a handful of empty shells for presentation if you want. Strain the clam stock into a jug, leaving any grit in the bottom of the bowl. You should have around 800ml stock.\r\nHeat the butter in the same pan and sizzle the bacon for 3-4 mins until it starts to brown. Stir in the onion, thyme and bay and cook everything gently for 10 mins until the onion is soft and golden. Scatter over the flour and stir in to make a sandy paste, cook for 2 mins more, then gradually stir in the clam stock then the milk and the cream.\r\nThrow in the potatoes, bring everything to a simmer and leave to bubble away gently for 10 mins or until the potatoes are cooked. Use a fork to crush a few of the potato chunks against the side of the pan to help thicken – you still want lots of defined chunks though. Stir through the clam meat and the few clam shells, if you've gone down that route, and simmer for a minute to reheat. Season with plenty of black pepper and a little salt, if needed, then stir through the parsley just before ladling into bowls or hollowed-out crusty rolls.",
+    "ingredients": [
+      { "position": 1, "name": "Clams", "measurement": "1½ kg" },
+      { "position": 2, "name": "Butter", "measurement": "50g" },
+      { "position": 3, "name": "Bacon", "measurement": "150g" },
+      { "position": 4, "name": "Onion", "measurement": "1 finely chopped" },
+      { "position": 5, "name": "Thyme", "measurement": "sprigs of fresh" },
+      { "position": 6, "name": "Bay Leaf", "measurement": "1" },
+      { "position": 7, "name": "Plain Flour", "measurement": "1 tbls" },
+      { "position": 8, "name": "Milk", "measurement": "150ml" },
+      { "position": 9, "name": "Double Cream", "measurement": "150ml" },
+      { "position": 10, "name": "Potatoes", "measurement": "2 medium" },
+      { "position": 11, "name": "Parsley", "measurement": "Chopped" }
+    ]
+  }
+}

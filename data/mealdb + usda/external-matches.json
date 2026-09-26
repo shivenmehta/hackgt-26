@@ -1,0 +1,3520 @@
+[
+  {
+    "aliases": ["dry sherry"],
+    "query": "Alcoholic beverage wine dessert dry",
+    "fdcId": 175112,
+    "description": "Alcoholic beverage, wine, dessert, dry",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["red wine"],
+    "query": "Alcoholic beverage wine table red",
+    "fdcId": 173190,
+    "description": "Alcoholic beverage, wine, table, red",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["white wine"],
+    "query": "Alcoholic beverage wine table white",
+    "fdcId": 174837,
+    "description": "Alcoholic beverage, wine, table, white",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["all-purpose seasoning"],
+    "query": "all-purpose seasoning",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["allspice berries"],
+    "query": "allspice berries",
+    "fdcId": 171315,
+    "description": "Spices, allspice, ground",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for allspice berries: Spices, allspice, ground. Review physical form and formulation."
+  },
+  {
+    "aliases": ["almond essence"],
+    "query": "almond essence",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["almond extract"],
+    "query": "almond extract",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["almond milk"],
+    "query": "almond milk",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["ancho chillies"],
+    "query": "ancho chillies",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["anchovy fillet"],
+    "query": "anchovy fillet",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["apple cider vinegar"],
+    "query": "apple cider vinegar",
+    "fdcId": 173469,
+    "description": "Vinegar, cider",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for apple cider vinegar: Vinegar, cider. Review physical form and formulation."
+  },
+  {
+    "aliases": ["apricot"],
+    "query": "apricot",
+    "fdcId": 171697,
+    "description": "Apricots, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["apricot jam"],
+    "query": "apricot jam",
+    "fdcId": 170645,
+    "description": "Jams and preserves, apricot",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["baby new potatoes"],
+    "query": "baby new potatoes",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["bacon"],
+    "query": "bacon",
+    "fdcId": 168277,
+    "description": "Pork, cured, bacon, unprepared",
+    "kind": "proxy",
+    "notes": "Reviewed approximate USDA match: Pork, cured, bacon, unprepared. Actual cut, formulation, edible portion, or preparation may differ."
+  },
+  {
+    "aliases": ["bacon lardon"],
+    "query": "bacon lardon",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["baguette"],
+    "query": "baguette",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["balsamic vinegar"],
+    "query": "balsamic vinegar",
+    "fdcId": 172241,
+    "description": "Vinegar, balsamic",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["barbeque sauce"],
+    "query": "barbeque sauce",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["basil leaves", "basil"],
+    "query": "Basil fresh",
+    "fdcId": 172232,
+    "description": "Basil, fresh",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["beef"],
+    "query": "beef",
+    "fdcId": 170810,
+    "description": "Beef, chuck for stew, separable lean and fat, choice, raw",
+    "kind": "proxy",
+    "notes": "Reviewed approximate USDA match: Beef, chuck for stew, separable lean and fat, choice, raw. Actual cut, formulation, edible portion, or preparation may differ."
+  },
+  {
+    "aliases": ["beef brisket"],
+    "query": "beef brisket",
+    "fdcId": 168607,
+    "description": "Beef, brisket, whole, separable lean only, all grades, raw",
+    "kind": "proxy",
+    "notes": "Reviewed USDA proxy: Beef, brisket, whole, separable lean only, all grades, raw. Exact product, formulation, variety or cut may differ."
+  },
+  {
+    "aliases": ["beef fillet"],
+    "query": "beef fillet",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["beef shin"],
+    "query": "beef shin",
+    "fdcId": 173105,
+    "description": "Beef, New Zealand, imported, hind shin, separable lean and fat, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["beef stock concentrate"],
+    "query": "beef stock concentrate",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["beef tomatoes"],
+    "query": "beef tomatoes",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["birds-eye chillies"],
+    "query": "birds-eye chillies",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["biryani masala"],
+    "query": "biryani masala",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["black beans"],
+    "query": "black beans",
+    "fdcId": 173734,
+    "description": "Beans, black, mature seeds, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["black pudding"],
+    "query": "black pudding",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["black treacle"],
+    "query": "black treacle",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["borlotti beans"],
+    "query": "borlotti beans",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["bouquet garni"],
+    "query": "bouquet garni",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["bowtie pasta"],
+    "query": "bowtie pasta",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["bramley apples"],
+    "query": "bramley apples",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["brandy"],
+    "query": "brandy",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["breadcrumbs"],
+    "query": "Bread crumbs dry grated plain",
+    "fdcId": 174928,
+    "description": "Bread, crumbs, dry, grated, plain",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["bread rolls"],
+    "query": "bread rolls",
+    "fdcId": 174078,
+    "description": "Bread, roll, Mexican, bollilo",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["brie"],
+    "query": "brie",
+    "fdcId": 172177,
+    "description": "Cheese, brie",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["broad beans"],
+    "query": "broad beans",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["brown rice noodle"],
+    "query": "brown rice noodle",
+    "fdcId": 169742,
+    "description": "Rice noodles, dry",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for brown rice noodle: Rice noodles, dry. Review physical form and formulation."
+  },
+  {
+    "aliases": ["brussels sprouts"],
+    "query": "brussels sprouts",
+    "fdcId": 2685575,
+    "description": "Brussels sprouts, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["bun"],
+    "query": "bun",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["buns"],
+    "query": "buns",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["butter beans"],
+    "query": "butter beans",
+    "fdcId": 174252,
+    "description": "Lima beans, large, mature seeds, raw",
+    "kind": "proxy",
+    "notes": "Reviewed approximate USDA match: Lima beans, large, mature seeds, raw. Actual cut, formulation, edible portion, or preparation may differ."
+  },
+  {
+    "aliases": ["cabbage leaves"],
+    "query": "cabbage leaves",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["cacao"],
+    "query": "cacao",
+    "fdcId": 169593,
+    "description": "Cocoa, dry powder, unsweetened",
+    "kind": "proxy",
+    "notes": "Reviewed USDA proxy: Cocoa, dry powder, unsweetened. Exact product, formulation, variety or cut may differ."
+  },
+  {
+    "aliases": ["cajun"],
+    "query": "cajun",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["callaloo"],
+    "query": "callaloo",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["chocolate chips"],
+    "query": "Candies semisweet chocolate",
+    "fdcId": 167976,
+    "description": "Candies, semisweet chocolate",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["cannellini beans"],
+    "query": "cannellini beans",
+    "fdcId": 2644281,
+    "description": "Beans, cannellini, dry",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["caramel"],
+    "query": "caramel",
+    "fdcId": 167974,
+    "description": "Candies, caramels",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["caramel sauce"],
+    "query": "caramel sauce",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["caraway seed"],
+    "query": "caraway seed",
+    "fdcId": 170918,
+    "description": "Spices, caraway seed",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["tomato ketchup"],
+    "query": "Catsup",
+    "fdcId": 168556,
+    "description": "Catsup",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["celeriac"],
+    "query": "celeriac",
+    "fdcId": 170400,
+    "description": "Celeriac, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["celery salt"],
+    "query": "celery salt",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["challots"],
+    "query": "challots",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["cheese"],
+    "query": "cheese",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["chestnut mushroom"],
+    "query": "chestnut mushroom",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["chicken"],
+    "query": "chicken",
+    "fdcId": 171052,
+    "description": "Chicken, broilers or fryers, meat only, raw",
+    "kind": "proxy",
+    "notes": "Reviewed approximate USDA match: Chicken, broilers or fryers, meat only, raw. Actual cut, formulation, edible portion, or preparation may differ."
+  },
+  {
+    "aliases": ["chicken bouillon powder"],
+    "query": "chicken bouillon powder",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["chicken drumsticks"],
+    "query": "chicken drumsticks",
+    "fdcId": 2727566,
+    "description": "Chicken, drumstick, meat and skin, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["chicken legs"],
+    "query": "chicken legs",
+    "fdcId": 172378,
+    "description": "Chicken, broilers or fryers, leg, meat and skin, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["chicken liver"],
+    "query": "chicken liver",
+    "fdcId": 171060,
+    "description": "Chicken, liver, all classes, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["chicken stock cube"],
+    "query": "chicken stock cube",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["chicken wings"],
+    "query": "chicken wings",
+    "fdcId": 2727568,
+    "description": "Chicken, wing, meat and skin, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["chickpeas"],
+    "query": "chickpeas",
+    "fdcId": 174288,
+    "description": "Chickpea flour (besan)",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["chilled butter"],
+    "query": "chilled butter",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["chilli"],
+    "query": "chilli",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["chilli bean paste"],
+    "query": "chilli bean paste",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["chilli flakes"],
+    "query": "chilli flakes",
+    "fdcId": 170932,
+    "description": "Spices, pepper, red or cayenne",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for chilli flakes: Spices, pepper, red or cayenne. Review physical form and formulation."
+  },
+  {
+    "aliases": ["chilli sauce"],
+    "query": "chilli sauce",
+    "fdcId": 171595,
+    "description": "Sauce, tomato chili sauce, bottled, with salt",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["chinese broccoli"],
+    "query": "chinese broccoli",
+    "fdcId": 169404,
+    "description": "Broccoli, chinese, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["chinese cabbage"],
+    "query": "chinese cabbage",
+    "fdcId": 170390,
+    "description": "Cabbage, chinese (pak-choi), raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["chinese five spice powder"],
+    "query": "chinese five spice powder",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["chinese long beans"],
+    "query": "chinese long beans",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["chinese sesame sauce"],
+    "query": "chinese sesame sauce",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["chives"],
+    "query": "chives",
+    "fdcId": 169994,
+    "description": "Chives, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["dark chocolate"],
+    "query": "Chocolate dark 70-85% cacao solids",
+    "fdcId": 170273,
+    "description": "Chocolate, dark, 70-85% cacao solids",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["chopped parsley"],
+    "query": "chopped parsley",
+    "fdcId": 170416,
+    "description": "Parsley, fresh",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for chopped parsley: Parsley, fresh. Review physical form and formulation."
+  },
+  {
+    "aliases": ["chorizo"],
+    "query": "chorizo",
+    "fdcId": 173859,
+    "description": "Sausage, pork, chorizo, link or ground, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["ciabatta"],
+    "query": "ciabatta",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["cider vinegar"],
+    "query": "cider vinegar",
+    "fdcId": 173469,
+    "description": "Vinegar, cider",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["clams"],
+    "query": "clams",
+    "fdcId": 174214,
+    "description": "Mollusks, clam, mixed species, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["clotted cream"],
+    "query": "clotted cream",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["clove"],
+    "query": "clove",
+    "fdcId": 171321,
+    "description": "Spices, cloves, ground",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for clove: Spices, cloves, ground. Review physical form and formulation."
+  },
+  {
+    "aliases": ["coco sugar"],
+    "query": "coco sugar",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["cocoa"],
+    "query": "cocoa",
+    "fdcId": 169593,
+    "description": "Cocoa, dry powder, unsweetened",
+    "kind": "proxy",
+    "notes": "Reviewed USDA proxy: Cocoa, dry powder, unsweetened. Exact product, formulation, variety or cut may differ."
+  },
+  {
+    "aliases": ["cocoa powder"],
+    "query": "cocoa powder",
+    "fdcId": 169593,
+    "description": "Cocoa, dry powder, unsweetened",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["coconut cream"],
+    "query": "coconut cream",
+    "fdcId": 170580,
+    "description": "Nuts, coconut cream, raw (liquid expressed from grated meat)",
+    "kind": "proxy",
+    "notes": "Reviewed USDA proxy: Nuts, coconut cream, raw (liquid expressed from grated meat). Exact product, formulation, variety or cut may differ."
+  },
+  {
+    "aliases": ["coconut flakes"],
+    "query": "coconut flakes",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["cod"],
+    "query": "cod",
+    "fdcId": 171955,
+    "description": "Fish, cod, Atlantic, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["colby jack cheese"],
+    "query": "colby jack cheese",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["cooked chestnut"],
+    "query": "cooked chestnut",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["cooking wine"],
+    "query": "cooking wine",
+    "fdcId": 169070,
+    "description": "Alcoholic beverage, wine, cooking",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["coriander", "cilantro", "coriander leaves", "cilantro leaves"],
+    "query": "Coriander cilantro leaves raw",
+    "fdcId": 169997,
+    "description": "Coriander (cilantro) leaves, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["corn flour"],
+    "query": "corn flour",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["corned beef"],
+    "query": "corned beef",
+    "fdcId": 170199,
+    "description": "Beef, cured, corned beef, brisket, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["cornstarch"],
+    "query": "Cornstarch",
+    "fdcId": 169698,
+    "description": "Cornstarch",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["couscous"],
+    "query": "couscous",
+    "fdcId": 169699,
+    "description": "Couscous, dry",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["cranberry"],
+    "query": "cranberry",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["cream"],
+    "query": "cream",
+    "fdcId": 170859,
+    "description": "Cream, fluid, heavy whipping",
+    "kind": "proxy",
+    "notes": "Reviewed USDA proxy: Cream, fluid, heavy whipping. Exact product, formulation, variety or cut may differ."
+  },
+  {
+    "aliases": ["double cream"],
+    "query": "Cream fluid heavy whipping",
+    "fdcId": 170859,
+    "description": "Cream, fluid, heavy whipping",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["cream of tartar"],
+    "query": "cream of tartar",
+    "fdcId": 175041,
+    "description": "Leavening agents, cream of tartar",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["creamed corn"],
+    "query": "creamed corn",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["creme fraiche"],
+    "query": "creme fraiche",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["crusty bread"],
+    "query": "crusty bread",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["cubed feta cheese"],
+    "query": "cubed feta cheese",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["custard"],
+    "query": "custard",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["custard powder"],
+    "query": "custard powder",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["dark chocolate chips"],
+    "query": "dark chocolate chips",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["dark rum"],
+    "query": "dark rum",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["dark soy sauce"],
+    "query": "dark soy sauce",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["demerara sugar"],
+    "query": "demerara sugar",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["desiccated coconut"],
+    "query": "desiccated coconut",
+    "fdcId": 168585,
+    "description": "Nuts, coconut meat, dried (desiccated), creamed",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["digestive biscuits"],
+    "query": "digestive biscuits",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["dill pickles"],
+    "query": "dill pickles",
+    "fdcId": 324653,
+    "description": "Pickles, cucumber, dill or kosher dill",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["dill"],
+    "query": "Dill weed fresh",
+    "fdcId": 172233,
+    "description": "Dill weed, fresh",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["doubanjiang"],
+    "query": "doubanjiang",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["dried apricots"],
+    "query": "dried apricots",
+    "fdcId": 173941,
+    "description": "Apricots, dried, sulfured, uncooked",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["dried chillies"],
+    "query": "dried chillies",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["dried fruit"],
+    "query": "dried fruit",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["dried leaves of summer savoury"],
+    "query": "dried leaves of summer savoury",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["dried mint"],
+    "query": "dried mint",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["dried red chillies"],
+    "query": "dried red chillies",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["dried shrimp"],
+    "query": "dried shrimp",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["dried white beans"],
+    "query": "dried white beans",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["dried white navy beans"],
+    "query": "dried white navy beans",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["dry white wine"],
+    "query": "dry white wine",
+    "fdcId": 174837,
+    "description": "Alcoholic beverage, wine, table, white",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for dry white wine: Alcoholic beverage, wine, table, white. Review physical form and formulation."
+  },
+  {
+    "aliases": ["duck legs"],
+    "query": "duck legs",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["duck sauce"],
+    "query": "duck sauce",
+    "fdcId": 171823,
+    "description": "Sauce, duck, ready-to-serve",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["egg noodles"],
+    "query": "egg noodles",
+    "fdcId": 169731,
+    "description": "Noodles, egg, dry, enriched",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["egg roll wrappers"],
+    "query": "egg roll wrappers",
+    "fdcId": 172802,
+    "description": "Wonton wrappers (includes egg roll wrappers)",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["enchilada sauce"],
+    "query": "enchilada sauce",
+    "fdcId": 174074,
+    "description": "Sauce, enchilada, red, mild, ready to serve",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["english muffins"],
+    "query": "english muffins",
+    "fdcId": 172761,
+    "description": "Muffins, English, wheat",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["english mustard"],
+    "query": "english mustard",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["fajita seasoning"],
+    "query": "fajita seasoning",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["farfalle"],
+    "query": "farfalle",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["fennel seeds"],
+    "query": "fennel seeds",
+    "fdcId": 171323,
+    "description": "Spices, fennel seed",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["fenugreek"],
+    "query": "fenugreek",
+    "fdcId": 171324,
+    "description": "Spices, fenugreek seed",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["fermented black beans"],
+    "query": "fermented black beans",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["fettuccine"],
+    "query": "fettuccine",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["fillet of steak"],
+    "query": "fillet of steak",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["filo pastry"],
+    "query": "filo pastry",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["fish stock"],
+    "query": "fish stock",
+    "fdcId": 172885,
+    "description": "Soup, stock, fish, home-prepared",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["five spice powder"],
+    "query": "five spice powder",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["flat rice noodles"],
+    "query": "flat rice noodles",
+    "fdcId": 169742,
+    "description": "Rice noodles, dry",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for flat rice noodles: Rice noodles, dry. Review physical form and formulation."
+  },
+  {
+    "aliases": ["flax eggs"],
+    "query": "flax eggs",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["fresh basil"],
+    "query": "fresh basil",
+    "fdcId": 172232,
+    "description": "Basil, fresh",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for fresh basil: Basil, fresh. Review physical form and formulation."
+  },
+  {
+    "aliases": ["freshly chopped parsley"],
+    "query": "freshly chopped parsley",
+    "fdcId": 170416,
+    "description": "Parsley, fresh",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for freshly chopped parsley: Parsley, fresh. Review physical form and formulation."
+  },
+  {
+    "aliases": ["fromage frais"],
+    "query": "fromage frais",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["frozen peas"],
+    "query": "frozen peas",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["fruit mix"],
+    "query": "fruit mix",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["full fat yogurt"],
+    "query": "full fat yogurt",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["galangal"],
+    "query": "galangal",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["garam masala"],
+    "query": "garam masala",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["gelatine leafs"],
+    "query": "gelatine leafs",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["german sausages"],
+    "query": "german sausages",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["ghee"],
+    "query": "ghee",
+    "fdcId": 171314,
+    "description": "Butter, Clarified butter (ghee)",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["ginger cordial"],
+    "query": "ginger cordial",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["ginger garlic paste"],
+    "query": "ginger garlic paste",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["ginger paste"],
+    "query": "ginger paste",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["ginger"],
+    "query": "Ginger root raw",
+    "fdcId": 169231,
+    "description": "Ginger root, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["goat meat"],
+    "query": "goat meat",
+    "fdcId": 175303,
+    "description": "Game meat, goat, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["goats cheese"],
+    "query": "goats cheese",
+    "fdcId": 172197,
+    "description": "Cheese, goat, hard type",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["gochujang"],
+    "query": "gochujang",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["golden syrup"],
+    "query": "golden syrup",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["goose fat"],
+    "query": "goose fat",
+    "fdcId": 173572,
+    "description": "Fat, goose",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["graham cracker crumbs"],
+    "query": "graham cracker crumbs",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["grape nut cereal"],
+    "query": "grape nut cereal",
+    "fdcId": 171647,
+    "description": "Cereals ready-to-eat, POST, GRAPE-NUTS Cereal",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["green olives"],
+    "query": "green olives",
+    "fdcId": 332791,
+    "description": "Olives, green, Manzanilla, stuffed with pimiento",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["green red lentils"],
+    "query": "green red lentils",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["green salsa"],
+    "query": "green salsa",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["ground allspice"],
+    "query": "ground allspice",
+    "fdcId": 171315,
+    "description": "Spices, allspice, ground",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for ground allspice: Spices, allspice, ground. Review physical form and formulation."
+  },
+  {
+    "aliases": ["ground pistachios"],
+    "query": "ground pistachios",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["gruyère"],
+    "query": "gruyère",
+    "fdcId": 171242,
+    "description": "Cheese, gruyere",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for gruyère: Cheese, gruyere. Review physical form and formulation."
+  },
+  {
+    "aliases": ["gruyere cheese"],
+    "query": "gruyere cheese",
+    "fdcId": 171242,
+    "description": "Cheese, gruyere",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["haddock"],
+    "query": "haddock",
+    "fdcId": 333374,
+    "description": "Fish, haddock, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["ham"],
+    "query": "ham",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["hard taco shells"],
+    "query": "hard taco shells",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["harissa spice"],
+    "query": "harissa spice",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["high heat cooking oil"],
+    "query": "high heat cooking oil",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["hoisin sauce"],
+    "query": "hoisin sauce",
+    "fdcId": 172886,
+    "description": "Sauce, hoisin, ready-to-serve",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["honey", "clear honey"],
+    "query": "Honey",
+    "fdcId": 169640,
+    "description": "Honey",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["hot beef stock"],
+    "query": "hot beef stock",
+    "fdcId": 172889,
+    "description": "Soup, beef broth, less/reduced sodium, ready to serve",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for hot beef stock: Soup, beef broth, less/reduced sodium, ready to serve. Review physical form and formulation."
+  },
+  {
+    "aliases": ["hot smoked flaked salmon"],
+    "query": "hot smoked flaked salmon",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["ice cream"],
+    "query": "ice cream",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["italian fennel sausages"],
+    "query": "italian fennel sausages",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["italian seasoning"],
+    "query": "italian seasoning",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["jalapeno"],
+    "query": "jalapeno",
+    "fdcId": 168576,
+    "description": "Peppers, jalapeno, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["jam"],
+    "query": "jam",
+    "fdcId": 169641,
+    "description": "Jams and preserves",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["jamaican curry powder"],
+    "query": "jamaican curry powder",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["jumbo shrimp"],
+    "query": "jumbo shrimp",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["juniper berries"],
+    "query": "juniper berries",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["khus khus"],
+    "query": "khus khus",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["kidney beans"],
+    "query": "kidney beans",
+    "fdcId": 169885,
+    "description": "Beans, liquid from stewed kidney beans",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["kielbasa"],
+    "query": "kielbasa",
+    "fdcId": 173877,
+    "description": "Kielbasa, fully cooked, grilled",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["lamb"],
+    "query": "lamb",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["lamb leg"],
+    "query": "lamb leg",
+    "fdcId": 174315,
+    "description": "Lamb, leg, shank half, separable lean and fat, trimmed to 1/4\" fat, choice, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["lamb loin chops"],
+    "query": "lamb loin chops",
+    "fdcId": 172517,
+    "description": "Lamb, New Zealand, imported, loin chop, separable lean and fat, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["lamb mince"],
+    "query": "lamb mince",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["lard"],
+    "query": "lard",
+    "fdcId": 171401,
+    "description": "Lard",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["lasagne sheets"],
+    "query": "lasagne sheets",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["baking powder"],
+    "query": "Leavening agents baking powder double acting sodium aluminum sulfate",
+    "fdcId": 172803,
+    "description": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["bicarbonate of soda"],
+    "query": "Leavening agents baking soda",
+    "fdcId": 175040,
+    "description": "Leavening agents, baking soda",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["yeast"],
+    "query": "Leavening agents yeast baker active dry",
+    "fdcId": 175043,
+    "description": "Leavening agents, yeast, baker's, active dry",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["lemon juice"],
+    "query": "lemon juice",
+    "fdcId": 167747,
+    "description": "Lemon juice, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["lemon zest"],
+    "query": "lemon zest",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["lemongrass"],
+    "query": "lemongrass",
+    "fdcId": 168573,
+    "description": "Lemon grass (citronella), raw",
+    "kind": "proxy",
+    "notes": "Reviewed approximate USDA match: Lemon grass (citronella), raw. Actual cut, formulation, edible portion, or preparation may differ."
+  },
+  {
+    "aliases": ["lemongrass stalks"],
+    "query": "lemongrass stalks",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["lemon", "lemons"],
+    "query": "Lemons raw without peel",
+    "fdcId": 167746,
+    "description": "Lemons, raw, without peel",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["lentils"],
+    "query": "lentils",
+    "fdcId": 172420,
+    "description": "Lentils, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["lettuce"],
+    "query": "lettuce",
+    "fdcId": 2346388,
+    "description": "Lettuce, iceberg, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["lime"],
+    "query": "Limes raw",
+    "fdcId": 168155,
+    "description": "Limes, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["linguine pasta"],
+    "query": "linguine pasta",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["little gem lettuce"],
+    "query": "little gem lettuce",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["macaroni"],
+    "query": "Macaroni dry enriched",
+    "fdcId": 168903,
+    "description": "Macaroni, vegetable, enriched, dry",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["mackerel"],
+    "query": "mackerel",
+    "fdcId": 175119,
+    "description": "Fish, mackerel, Atlantic, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["madras paste"],
+    "query": "madras paste",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["makrut lime leaves"],
+    "query": "makrut lime leaves",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["malt vinegar"],
+    "query": "malt vinegar",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["maple syrup"],
+    "query": "maple syrup",
+    "fdcId": 169661,
+    "description": "Syrups, maple",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["marinated tofu"],
+    "query": "marinated tofu",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["marzipan"],
+    "query": "marzipan",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["mascarpone"],
+    "query": "mascarpone",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["massaman curry paste"],
+    "query": "massaman curry paste",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["meringue nests"],
+    "query": "meringue nests",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["milk chocolate"],
+    "query": "milk chocolate",
+    "fdcId": 167587,
+    "description": "Candies, milk chocolate",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["miniature marshmallows"],
+    "query": "miniature marshmallows",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["mirin"],
+    "query": "mirin",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["molasses"],
+    "query": "molasses",
+    "fdcId": 168820,
+    "description": "Molasses",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["mozzarella"],
+    "query": "mozzarella",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["mozzarella balls"],
+    "query": "mozzarella balls",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["mulukhiyah"],
+    "query": "mulukhiyah",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["mung bean sprouts"],
+    "query": "mung bean sprouts",
+    "fdcId": 169957,
+    "description": "Mung beans, mature seeds, sprouted, raw",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for mung bean sprouts: Mung beans, mature seeds, sprouted, raw. Review physical form and formulation."
+  },
+  {
+    "aliases": ["bean sprouts"],
+    "query": "Mung beans mature seeds sprouted raw",
+    "fdcId": 169957,
+    "description": "Mung beans, mature seeds, sprouted, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["mussels"],
+    "query": "mussels",
+    "fdcId": 174216,
+    "description": "Mollusks, mussel, blue, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["mustard powder"],
+    "query": "mustard powder",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["mustard"],
+    "query": "Mustard prepared yellow",
+    "fdcId": 326698,
+    "description": "Mustard, prepared, yellow",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["mustard seeds"],
+    "query": "mustard seeds",
+    "fdcId": 170929,
+    "description": "Spices, mustard seed, ground",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["naan bread"],
+    "query": "naan bread",
+    "fdcId": 171845,
+    "description": "Bread, naan, plain, commercially prepared, refrigerated",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["new potatoes"],
+    "query": "new potatoes",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["noodles"],
+    "query": "noodles",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["coconut milk"],
+    "query": "Nuts coconut milk raw liquid expressed grated meat and water",
+    "fdcId": 170172,
+    "description": "Nuts, coconut milk, raw (liquid expressed from grated meat and water)",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["sesame seed oil"],
+    "query": "Oil sesame salad or cooking",
+    "fdcId": 171016,
+    "description": "Oil, sesame, salad or cooking",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["vegetable oil", "oil"],
+    "query": "Oil soybean salad or cooking",
+    "fdcId": 171411,
+    "description": "Oil, soybean, salad or cooking",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["black olives"],
+    "query": "Olives ripe canned",
+    "fdcId": 169095,
+    "description": "Olives, ripe, canned (jumbo-super colossal)",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["onion salt"],
+    "query": "onion salt",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["orange blossom water"],
+    "query": "orange blossom water",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["orange juice"],
+    "query": "orange juice",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["orange zest"],
+    "query": "orange zest",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["oyster sauce"],
+    "query": "oyster sauce",
+    "fdcId": 174529,
+    "description": "Sauce, oyster, ready-to-serve",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["oysters"],
+    "query": "oysters",
+    "fdcId": 174219,
+    "description": "Mollusks, oyster, Pacific, raw",
+    "kind": "proxy",
+    "notes": "Reviewed USDA proxy: Mollusks, oyster, Pacific, raw. Exact product, formulation, variety or cut may differ."
+  },
+  {
+    "aliases": ["paccheri pasta"],
+    "query": "paccheri pasta",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["paella rice"],
+    "query": "paella rice",
+    "fdcId": 168877,
+    "description": "Rice, white, long-grain, regular, raw, enriched",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for paella rice: Rice, white, long-grain, regular, raw, enriched. Review physical form and formulation."
+  },
+  {
+    "aliases": ["palm sugar"],
+    "query": "palm sugar",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["panang curry paste"],
+    "query": "panang curry paste",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["paneer"],
+    "query": "paneer",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["parma ham"],
+    "query": "parma ham",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["parsley"],
+    "query": "Parsley fresh",
+    "fdcId": 170416,
+    "description": "Parsley, fresh",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["passata"],
+    "query": "passata",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["peanut brittle"],
+    "query": "peanut brittle",
+    "fdcId": 169586,
+    "description": "Candies, peanut brittle, prepared-from-recipe",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["peanut cookies"],
+    "query": "peanut cookies",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["peas"],
+    "query": "Peas green raw",
+    "fdcId": 170419,
+    "description": "Peas, green, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["pecorino"],
+    "query": "pecorino",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["penne rigate"],
+    "query": "penne rigate",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["peppercorns"],
+    "query": "peppercorns",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["green chilli"],
+    "query": "Peppers hot chili green raw",
+    "fdcId": 170497,
+    "description": "Peppers, hot chili, green, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["red chilli"],
+    "query": "Peppers hot chili red raw",
+    "fdcId": 170106,
+    "description": "Peppers, hot chili, red, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["petit pois"],
+    "query": "petit pois",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["pickle juice"],
+    "query": "pickle juice",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["pilchards"],
+    "query": "pilchards",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["pineapple chunks"],
+    "query": "pineapple chunks",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["pineapple juice"],
+    "query": "pineapple juice",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["pink food colouring"],
+    "query": "pink food colouring",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["pistachio paste"],
+    "query": "pistachio paste",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["pita bread"],
+    "query": "pita bread",
+    "fdcId": 174915,
+    "description": "Bread, pita, white, enriched",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["pitted black olives"],
+    "query": "pitted black olives",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["pitted dates"],
+    "query": "pitted dates",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["plain chocolate"],
+    "query": "plain chocolate",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["plum jam"],
+    "query": "plum jam",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["plum sauce"],
+    "query": "plum sauce",
+    "fdcId": 172879,
+    "description": "Sauce, plum, ready-to-serve",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["pomegranate molasses"],
+    "query": "pomegranate molasses",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["poppy seeds"],
+    "query": "poppy seeds",
+    "fdcId": 171330,
+    "description": "Spices, poppy seed",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["pork"],
+    "query": "pork",
+    "fdcId": 167818,
+    "description": "Pork, fresh, loin, whole, separable lean and fat, raw",
+    "kind": "proxy",
+    "notes": "Reviewed approximate USDA match: Pork, fresh, loin, whole, separable lean and fat, raw. Actual cut, formulation, edible portion, or preparation may differ."
+  },
+  {
+    "aliases": ["pork belly slices"],
+    "query": "pork belly slices",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["pork chops"],
+    "query": "pork chops",
+    "fdcId": 2727575,
+    "description": "Pork, chop, center cut, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["potato starch"],
+    "query": "potato starch",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["pretzels"],
+    "query": "pretzels",
+    "fdcId": 169064,
+    "description": "Pretzels, soft",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["prosciutto"],
+    "query": "prosciutto",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["prunes"],
+    "query": "prunes",
+    "fdcId": 167780,
+    "description": "Prune puree",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["puff pastry"],
+    "query": "Puff pastry frozen ready to bake",
+    "fdcId": 172790,
+    "description": "Puff pastry, frozen, ready-to-bake",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["pul biber"],
+    "query": "pul biber",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["purple sprouting broccoli"],
+    "query": "purple sprouting broccoli",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["quinoa"],
+    "query": "quinoa",
+    "fdcId": 168874,
+    "description": "Quinoa, uncooked",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["ras el hanout"],
+    "query": "ras el hanout",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["raspberry jam"],
+    "query": "raspberry jam",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["raw king prawns"],
+    "query": "raw king prawns",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["raw tiger prawns"],
+    "query": "raw tiger prawns",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["red chilli flakes"],
+    "query": "red chilli flakes",
+    "fdcId": 170932,
+    "description": "Spices, pepper, red or cayenne",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for red chilli flakes: Spices, pepper, red or cayenne. Review physical form and formulation."
+  },
+  {
+    "aliases": ["red chilli powder"],
+    "query": "red chilli powder",
+    "fdcId": 170932,
+    "description": "Spices, pepper, red or cayenne",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for red chilli powder: Spices, pepper, red or cayenne. Review physical form and formulation."
+  },
+  {
+    "aliases": ["red pepper flakes"],
+    "query": "red pepper flakes",
+    "fdcId": 170932,
+    "description": "Spices, pepper, red or cayenne",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for red pepper flakes: Spices, pepper, red or cayenne. Review physical form and formulation."
+  },
+  {
+    "aliases": ["red pepper paste"],
+    "query": "red pepper paste",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["red snapper"],
+    "query": "red snapper",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["red wine jelly"],
+    "query": "red wine jelly",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["rice noodles"],
+    "query": "rice noodles",
+    "fdcId": 169742,
+    "description": "Rice noodles, dry",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["rice paper sheets"],
+    "query": "rice paper sheets",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["rice stick noodles"],
+    "query": "rice stick noodles",
+    "fdcId": 169742,
+    "description": "Rice noodles, dry",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for rice stick noodles: Rice noodles, dry. Review physical form and formulation."
+  },
+  {
+    "aliases": ["rice vinegar"],
+    "query": "rice vinegar",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["rice"],
+    "query": "Rice white long grain regular enriched uncooked",
+    "fdcId": 168877,
+    "description": "Rice, white, long-grain, regular, raw, enriched",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["rice wine"],
+    "query": "rice wine",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["rigatoni"],
+    "query": "rigatoni",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["roasted peanut"],
+    "query": "roasted peanut",
+    "fdcId": 172431,
+    "description": "Peanuts, spanish, oil-roasted, with salt",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["romano pepper"],
+    "query": "romano pepper",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["rosemary"],
+    "query": "Rosemary fresh",
+    "fdcId": 173473,
+    "description": "Rosemary, fresh",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["russet potato"],
+    "query": "russet potato",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["sage"],
+    "query": "sage",
+    "fdcId": 170935,
+    "description": "Spices, sage, ground",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["sake"],
+    "query": "sake",
+    "fdcId": 167723,
+    "description": "Alcoholic beverage, rice (sake)",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["salt cod"],
+    "query": "salt cod",
+    "fdcId": 174190,
+    "description": "Fish, cod, Atlantic, dried and salted",
+    "kind": "proxy",
+    "notes": "Reviewed USDA proxy: Fish, cod, Atlantic, dried and salted. Exact product, formulation, variety or cut may differ."
+  },
+  {
+    "aliases": ["sardines"],
+    "query": "sardines",
+    "fdcId": 175139,
+    "description": "Fish, sardine, Atlantic, canned in oil, drained solids with bone",
+    "kind": "proxy",
+    "notes": "Reviewed USDA proxy: Fish, sardine, Atlantic, canned in oil, drained solids with bone. Exact product, formulation, variety or cut may differ."
+  },
+  {
+    "aliases": ["fish sauce"],
+    "query": "Sauce fish ready to serve",
+    "fdcId": 174531,
+    "description": "Sauce, fish, ready-to-serve",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["hotsauce"],
+    "query": "Sauce peppers hot chili mature red canned",
+    "fdcId": 171604,
+    "description": "Sauce, peppers, hot, chili, mature red, canned",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["worcestershire sauce"],
+    "query": "Sauce worcestershire",
+    "fdcId": 171610,
+    "description": "Sauce, worcestershire",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["sauerkraut"],
+    "query": "sauerkraut",
+    "fdcId": 169279,
+    "description": "Sauerkraut, canned, solids and liquids",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["sausages"],
+    "query": "sausages",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["savoy cabbage"],
+    "query": "savoy cabbage",
+    "fdcId": 170388,
+    "description": "Cabbage, savoy, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["scotch bonnet"],
+    "query": "scotch bonnet",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["sea bass fillets"],
+    "query": "sea bass fillets",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["seafood stock"],
+    "query": "seafood stock",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["seasoned rice vinegar"],
+    "query": "seasoned rice vinegar",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["sesame seed"],
+    "query": "Seeds sesame seeds whole dried",
+    "fdcId": 170150,
+    "description": "Seeds, sesame seeds, whole, dried",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["sesame seed burger buns"],
+    "query": "sesame seed burger buns",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["shaoxing wine"],
+    "query": "shaoxing wine",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["sherry vinegar"],
+    "query": "sherry vinegar",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["shortcrust pastry"],
+    "query": "shortcrust pastry",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["shortening"],
+    "query": "shortening",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["shredded mexican cheese"],
+    "query": "shredded mexican cheese",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["shrimp paste"],
+    "query": "shrimp paste",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["sichuan pepper"],
+    "query": "sichuan pepper",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["silken tofu"],
+    "query": "silken tofu",
+    "fdcId": 172461,
+    "description": "MORI-NU, Tofu, silken, firm",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["single cream"],
+    "query": "single cream",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["small potatoes"],
+    "query": "small potatoes",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["smoked haddock"],
+    "query": "smoked haddock",
+    "fdcId": 174199,
+    "description": "Fish, haddock, smoked",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["smoked salmon"],
+    "query": "smoked salmon",
+    "fdcId": 173687,
+    "description": "Fish, salmon, chinook, smoked",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["smoky paprika"],
+    "query": "smoky paprika",
+    "fdcId": 171329,
+    "description": "Spices, paprika",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for smoky paprika: Spices, paprika. Review physical form and formulation."
+  },
+  {
+    "aliases": ["snow peas"],
+    "query": "snow peas",
+    "fdcId": 170010,
+    "description": "Peas, edible-podded, raw",
+    "kind": "proxy",
+    "notes": "Reviewed approximate USDA match: Peas, edible-podded, raw. Actual cut, formulation, edible portion, or preparation may differ."
+  },
+  {
+    "aliases": ["soda water"],
+    "query": "soda water",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["beef stock"],
+    "query": "Soup beef broth ready to serve",
+    "fdcId": 172889,
+    "description": "Soup, beef broth, less/reduced sodium, ready to serve",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["chicken stock"],
+    "query": "Soup chicken broth ready to serve",
+    "fdcId": 174536,
+    "description": "Soup, chicken broth, ready-to-serve",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["vegetable stock"],
+    "query": "Soup vegetable broth ready to serve",
+    "fdcId": 171583,
+    "description": "Soup, vegetable broth, ready to serve",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["soy sauce"],
+    "query": "Soy sauce made from soy and wheat shoyu",
+    "fdcId": 174277,
+    "description": "Soy sauce made from soy and wheat (shoyu)",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["soya bean"],
+    "query": "soya bean",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["soya milk"],
+    "query": "soya milk",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["mint"],
+    "query": "Spearmint fresh",
+    "fdcId": 173475,
+    "description": "Spearmint, fresh",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["allspice"],
+    "query": "Spices allspice ground",
+    "fdcId": 171315,
+    "description": "Spices, allspice, ground",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["bay leaves", "bay leaf"],
+    "query": "Spices bay leaf",
+    "fdcId": 170917,
+    "description": "Spices, bay leaf",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["cardamom", "ground cardomom"],
+    "query": "Spices cardamom",
+    "fdcId": 170919,
+    "description": "Spices, cardamom",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["chili powder", "chilli powder"],
+    "query": "Spices chili powder",
+    "fdcId": 171319,
+    "description": "Spices, chili powder",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["cinnamon stick", "cinnamon", "ground cinnamon"],
+    "query": "Spices cinnamon ground",
+    "fdcId": 171320,
+    "description": "Spices, cinnamon, ground",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["cloves", "ground clove"],
+    "query": "Spices cloves ground",
+    "fdcId": 171321,
+    "description": "Spices, cloves, ground",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["coriander seeds", "ground coriander"],
+    "query": "Spices coriander seed",
+    "fdcId": 170922,
+    "description": "Spices, coriander seed",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["cumin", "cumin seeds", "ground cumin"],
+    "query": "Spices cumin seed",
+    "fdcId": 170923,
+    "description": "Spices, cumin seed",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["curry powder"],
+    "query": "Spices curry powder",
+    "fdcId": 170924,
+    "description": "Spices, curry powder",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["garlic powder"],
+    "query": "Spices garlic powder",
+    "fdcId": 171325,
+    "description": "Spices, garlic powder",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["ground ginger"],
+    "query": "Spices ginger ground",
+    "fdcId": 170926,
+    "description": "Spices, ginger, ground",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["marjoram"],
+    "query": "Spices marjoram dried",
+    "fdcId": 170928,
+    "description": "Spices, marjoram, dried",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["nutmeg", "ground nutmeg"],
+    "query": "Spices nutmeg ground",
+    "fdcId": 171326,
+    "description": "Spices, nutmeg, ground",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["oregano", "dried oregano"],
+    "query": "Spices oregano dried",
+    "fdcId": 171328,
+    "description": "Spices, oregano, dried",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["paprika", "smoked paprika"],
+    "query": "Spices paprika",
+    "fdcId": 171329,
+    "description": "Spices, paprika",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["pepper", "black pepper"],
+    "query": "Spices pepper black",
+    "fdcId": 170931,
+    "description": "Spices, pepper, black",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["cayenne pepper"],
+    "query": "Spices pepper red or cayenne",
+    "fdcId": 170932,
+    "description": "Spices, pepper, red or cayenne",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["saffron"],
+    "query": "Spices saffron",
+    "fdcId": 170934,
+    "description": "Spices, saffron",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["turmeric powder", "turmeric"],
+    "query": "Spices turmeric ground",
+    "fdcId": 172231,
+    "description": "Spices, turmeric, ground",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["squash"],
+    "query": "squash",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["squid"],
+    "query": "squid",
+    "fdcId": 174223,
+    "description": "Mollusks, squid, mixed species, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["star anise"],
+    "query": "star anise",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["starch"],
+    "query": "starch",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["stilton cheese"],
+    "query": "stilton cheese",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["stir-fry vegetables"],
+    "query": "stir-fry vegetables",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["stout"],
+    "query": "stout",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["suet"],
+    "query": "suet",
+    "fdcId": 170193,
+    "description": "Beef, variety meats and by-products, suet, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["sugar snap peas"],
+    "query": "sugar snap peas",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": [
+      "dark brown sugar",
+      "brown sugar",
+      "light brown soft sugar",
+      "dark brown soft sugar",
+      "muscovado sugar"
+    ],
+    "query": "Sugars brown",
+    "fdcId": 168833,
+    "description": "Sugars, brown",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["icing sugar"],
+    "query": "Sugars powdered",
+    "fdcId": 169656,
+    "description": "Sugars, powdered",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["sumac"],
+    "query": "sumac",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["sun-dried tomatoes"],
+    "query": "sun-dried tomatoes",
+    "fdcId": 168567,
+    "description": "Tomatoes, sun-dried",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["sushi rice"],
+    "query": "sushi rice",
+    "fdcId": 168877,
+    "description": "Rice, white, long-grain, regular, raw, enriched",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for sushi rice: Rice, white, long-grain, regular, raw, enriched. Review physical form and formulation."
+  },
+  {
+    "aliases": ["swede"],
+    "query": "swede",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["sweet chilli sauce"],
+    "query": "sweet chilli sauce",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["sweet peppadew peppers"],
+    "query": "sweet peppadew peppers",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["sweet smoked paprika"],
+    "query": "sweet smoked paprika",
+    "fdcId": 171329,
+    "description": "Spices, paprika",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for sweet smoked paprika: Spices, paprika. Review physical form and formulation."
+  },
+  {
+    "aliases": ["sweetcorn"],
+    "query": "sweetcorn",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["szechuan peppercorns"],
+    "query": "szechuan peppercorns",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["tamarind ball"],
+    "query": "tamarind ball",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["tamarind paste"],
+    "query": "tamarind paste",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["tamarind pulp"],
+    "query": "tamarind pulp",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["tarragon leaves"],
+    "query": "tarragon leaves",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["thai green curry paste"],
+    "query": "thai green curry paste",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["thai red curry paste"],
+    "query": "thai red curry paste",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["thyme"],
+    "query": "Thyme fresh",
+    "fdcId": 173470,
+    "description": "Thyme, fresh",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["tiger prawns"],
+    "query": "tiger prawns",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["toffee popcorn"],
+    "query": "toffee popcorn",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["tofu"],
+    "query": "tofu",
+    "fdcId": 174291,
+    "description": "Tofu, hard, prepared with nigari",
+    "kind": "proxy",
+    "notes": "Reviewed USDA proxy: Tofu, hard, prepared with nigari. Exact product, formulation, variety or cut may differ."
+  },
+  {
+    "aliases": ["tomato puree"],
+    "query": "Tomato products canned paste without salt added",
+    "fdcId": 170459,
+    "description": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["tomato purée"],
+    "query": "tomato purée",
+    "fdcId": 170459,
+    "description": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for tomato purée: Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program). Review physical form and formulation."
+  },
+  {
+    "aliases": ["tomato sauce"],
+    "query": "tomato sauce",
+    "fdcId": 171595,
+    "description": "Sauce, tomato chili sauce, bottled, with salt",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["chopped tomatoes"],
+    "query": "Tomatoes canned red ripe diced",
+    "fdcId": 333281,
+    "description": "Tomatoes, canned, red, ripe, diced",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["toor dal"],
+    "query": "toor dal",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["tuna"],
+    "query": "tuna",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["turkey"],
+    "query": "turkey",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["turkish delight"],
+    "query": "turkish delight",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["turnips"],
+    "query": "turnips",
+    "fdcId": 170465,
+    "description": "Turnips, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["udon noodles"],
+    "query": "udon noodles",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["unsalted beef stock"],
+    "query": "unsalted beef stock",
+    "fdcId": 172883,
+    "description": "Soup, stock, beef, home-prepared",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["unsweetened coconut milk"],
+    "query": "unsweetened coconut milk",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["unwaxed lime"],
+    "query": "unwaxed lime",
+    "fdcId": 168155,
+    "description": "Limes, raw",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for unwaxed lime: Limes, raw. Review physical form and formulation."
+  },
+  {
+    "aliases": ["vanilla bean paste"],
+    "query": "vanilla bean paste",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["vanilla extract", "vanilla"],
+    "query": "Vanilla extract",
+    "fdcId": 173471,
+    "description": "Vanilla extract",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["veal"],
+    "query": "veal",
+    "fdcId": 175290,
+    "description": "Veal, ground, raw",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["vegan butter"],
+    "query": "vegan butter",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["vegetable stock cube"],
+    "query": "vegetable stock cube",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["vermicelli rice noodles"],
+    "query": "vermicelli rice noodles",
+    "fdcId": 169742,
+    "description": "Rice noodles, dry",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for vermicelli rice noodles: Rice noodles, dry. Review physical form and formulation."
+  },
+  {
+    "aliases": ["vinaigrette dressing"],
+    "query": "vinaigrette dressing",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["vine leaves"],
+    "query": "vine leaves",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["vinegar"],
+    "query": "Vinegar distilled",
+    "fdcId": 172237,
+    "description": "Vinegar, distilled",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["red wine vinegar", "white wine vinegar"],
+    "query": "Vinegar red wine",
+    "fdcId": 172240,
+    "description": "Vinegar, red wine",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["water chestnut"],
+    "query": "water chestnut",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["water", "boiling water", "cold water"],
+    "query": "Water tap drinking",
+    "fdcId": 173647,
+    "description": "Beverages, water, tap, drinking",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["self-raising flour"],
+    "query": "Wheat flour white all purpose self rising enriched",
+    "fdcId": 168895,
+    "description": "Wheat flour, white, all-purpose, self-rising, enriched",
+    "kind": "search-candidate",
+    "notes": "Approximate USDA search match; selected by ingredient-term coverage and preparation screening. Review before using for nutrition targets."
+  },
+  {
+    "aliases": ["white bread mix"],
+    "query": "white bread mix",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["white cabbage"],
+    "query": "white cabbage",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["white chocolate chips"],
+    "query": "white chocolate chips",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["white fish"],
+    "query": "white fish",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "Search results do not establish an appropriate food/formulation/preparation. Requires review; no nutrition invented."
+  },
+  {
+    "aliases": ["white vinegar"],
+    "query": "white vinegar",
+    "fdcId": 172237,
+    "description": "Vinegar, distilled",
+    "kind": "proxy",
+    "notes": "Approximate ingredient/form proxy for white vinegar: Vinegar, distilled. Review physical form and formulation."
+  },
+  {
+    "aliases": ["wholegrain bread"],
+    "query": "wholegrain bread",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["wonton skin"],
+    "query": "wonton skin",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["wood ear mushrooms"],
+    "query": "wood ear mushrooms",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  },
+  {
+    "aliases": ["yellow split peas"],
+    "query": "yellow split peas",
+    "fdcId": null,
+    "description": null,
+    "kind": "search-candidate",
+    "notes": "No sufficiently specific USDA result accepted; ingredient remains unresolved."
+  }
+]

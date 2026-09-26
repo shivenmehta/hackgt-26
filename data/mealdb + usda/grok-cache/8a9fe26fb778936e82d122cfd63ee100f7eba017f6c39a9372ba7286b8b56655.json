@@ -1,0 +1,33 @@
+{
+  "inputHash": "8a9fe26fb778936e82d122cfd63ee100f7eba017f6c39a9372ba7286b8b56655",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:45.086Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 5,
+      "caloriesPer100g": 143,
+      "assumptions": "1 typical garlic clove weighs ~5g peeled; using supplied knownCaloriesPer100g for raw garlic."
+    },
+    {
+      "position": 4,
+      "grams": 25,
+      "caloriesPer100g": 36,
+      "assumptions": "A standard bunch of parsley is ~25-30g of usable leaves after removing thick stems; using supplied knownCaloriesPer100g for raw parsley. Half is used chopped in step 1, half scattered at end, but grams reflect whole bunch as listed."
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "caloriesPer100g": 20,
+      "assumptions": "1 teaspoon of vinegar is ~5g; sherry vinegar has ~20 kcal/100g as a very low-calorie acidic liquid."
+    },
+    {
+      "position": 10,
+      "grams": null,
+      "caloriesPer100g": null,
+      "assumptions": "'To serve' is not a quantified recipe ingredient with mass or calories; no reasonable estimate possible without assuming arbitrary serving size."
+    }
+  ]
+}

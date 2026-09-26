@@ -1,0 +1,147 @@
+{
+  "inputHash": "cd81f4b8e6c4c20d9d17e14a4b01d32d174215c7b3bdd370d32d7586e7d5a8ec",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:43.766Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1920,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 cups water = 1920 g (standard density 1 g/ml; used for boiling and discarded after cooking)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tablespoon table salt = 9 g (salt contributes negligible macros when dissolved and mostly discarded with boiling water)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 910,
+      "proteinG": 25.75,
+      "fatG": 2.5,
+      "carbsG": 190.75,
+      "fiberG": 6.75,
+      "assumptions": "2 cups all-purpose flour = 250 g (standard volume-to-weight conversion for unsifted AP flour; fully incorporated into final edible dumplings)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 teaspoon table salt = 5 g (salt contributes negligible macros; remains in the cooked dumplings)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 cup water = 120 g (standard density 1 g/ml; fully absorbed into dough and remains in final edible dumplings)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53353",
+    "name": "Jamaican Boiled Dumplings",
+    "cuisine": "Jamaican",
+    "instructions": "Instructions\r\n \r\nIn a large pot, bring water and salt to a boil to boil the dumplings.\r\nIn a large mixing bowl, combine the all-purpose flour and salt, stirring to distribute the salt evenly throughout the flour. Gradually add water to the flour mixture, mixing with your hands until a dough forms.\r\nDivide the dough into equal-sized pieces, rolling each into a smooth ball. Flatten each ball slightly with the palm of your hand to form a round, circular dumpling. It should look like a thick disk.\r\nCarefully drop the dumplings into the boiling water, one at a time, ensuring that they don't stick together. You can use a wooden spoon to stir the dumplings in the water.\r\nBoil the dumplings for 15-20 minutes, or until they are cooked through and have risen to the surface of the water. Stir occasionally to prevent sticking.\r\nUse a slotted spoon to remove the cooked dumplings from the pot, allowing any excess water to drain.\r\nServe with your favorite recipes.",
+    "ingredients": [
+      { "position": 1, "name": "Water", "measurement": "8 cups" },
+      { "position": 2, "name": "Salt", "measurement": "1/2 tbs" },
+      { "position": 3, "name": "All purpose flour", "measurement": "2 cups" },
+      { "position": 4, "name": "Salt", "measurement": "1 tsp" },
+      { "position": 5, "name": "Water", "measurement": "1/2 cup" }
+    ]
+  }
+}

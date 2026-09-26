@@ -1,0 +1,33 @@
+{
+  "inputHash": "e1d70735bc14d3751d92f81e2d8b22aef4c9e72f3b782ae7b82a4a09034d7d94",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:07.553Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 800,
+      "caloriesPer100g": 22,
+      "assumptions": "4 large tomatoes at ~200g each (edible flesh after scooping pulp; matches supplied knownCaloriesPer100g for raw tomato)."
+    },
+    {
+      "position": 2,
+      "grams": 4,
+      "caloriesPer100g": 385,
+      "assumptions": "Pinch of sugar estimated at ~4g (standard small pinch weight)."
+    },
+    {
+      "position": 5,
+      "grams": 6,
+      "caloriesPer100g": 143,
+      "assumptions": "2 average garlic cloves at ~3g each when finely chopped (standard weight; matches supplied knownCaloriesPer100g for raw garlic)."
+    },
+    {
+      "position": 6,
+      "grams": 200,
+      "caloriesPer100g": 250,
+      "assumptions": "Matches supplied knownGrams exactly (200g raw minced/ground lamb assumed; realistic calorie density for raw lamb mince ~20-25% fat)."
+    }
+  ]
+}

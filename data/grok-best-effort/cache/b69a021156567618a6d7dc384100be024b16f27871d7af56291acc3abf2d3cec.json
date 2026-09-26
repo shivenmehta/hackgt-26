@@ -1,0 +1,199 @@
+{
+  "inputHash": "b69a021156567618a6d7dc384100be024b16f27871d7af56291acc3abf2d3cec",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:48.245Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 214.5,
+      "proteinG": 18.9,
+      "fatG": 14.25,
+      "carbsG": 1.05,
+      "fiberG": 0,
+      "assumptions": "Standard large whole eggs; 50 g each including shell but using edible portion only.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143.4,
+      "proteinG": 0.18,
+      "fatG": 16.2,
+      "carbsG": 0.02,
+      "fiberG": 0,
+      "assumptions": "Two typical knobs of butter; each knob assumed as 10 g (common household measure for cooking).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 431,
+        "proteinG": 38,
+        "fatG": 29,
+        "carbsG": 4.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 21.55,
+      "proteinG": 1.9,
+      "fatG": 1.45,
+      "carbsG": 0.205,
+      "fiberG": 0,
+      "assumptions": "1 tsp finely grated Parmesan cheese; standard teaspoon volume converted to weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1.8,
+        "fatG": 0.7,
+        "carbsG": 3.9,
+        "fiberG": 2
+      },
+      "caloriesKcal": 0.75,
+      "proteinG": 0.054000000000000006,
+      "fatG": 0.020999999999999998,
+      "carbsG": 0.11699999999999999,
+      "fiberG": 0.06,
+      "assumptions": "3 g fresh tarragon leaves (plausible small amount for '3 chopped' in an omelette; typical fresh herb density).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.7,
+        "carbsG": 6.3,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 1.44,
+      "proteinG": 0.12,
+      "fatG": 0.027999999999999997,
+      "carbsG": 0.252,
+      "fiberG": 0.132,
+      "assumptions": "4 g fresh parsley (1 tbs chopped converted to weight; standard density for chopped fresh parsley).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 3.3,
+        "fatG": 0.7,
+        "carbsG": 4.4,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 1.2,
+      "proteinG": 0.132,
+      "fatG": 0.027999999999999997,
+      "carbsG": 0.17600000000000002,
+      "fiberG": 0.1,
+      "assumptions": "4 g fresh chives (1 tbs chopped converted to weight; similar density to parsley).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 413,
+        "proteinG": 30,
+        "fatG": 34,
+        "carbsG": 0.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.9,
+      "proteinG": 9,
+      "fatG": 10.2,
+      "carbsG": 0.12,
+      "fiberG": 0,
+      "assumptions": "4 tbs grated Gruyère cheese; standard tablespoon volume for grated cheese converted to weight (approx 7–8 g per tbs).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52915",
+    "name": "French Omelette",
+    "cuisine": "French",
+    "instructions": "Get everything ready. Warm a 20cm (measured across the top) non-stick frying pan on a medium heat. Crack the eggs into a bowl and beat them with a fork so they break up and mix, but not as completely as you would for scrambled egg. With the heat on medium-hot, drop one knob of butter into the pan. It should bubble and sizzle, but not brown. Season the eggs with the Parmesan and a little salt and pepper, and pour into the pan.\r\nLet the eggs bubble slightly for a couple of seconds, then take a wooden fork or spatula and gently draw the mixture in from the sides of the pan a few times, so it gathers in folds in the centre. Leave for a few seconds, then stir again to lightly combine uncooked egg with cooked. Leave briefly again, and when partly cooked, stir a bit faster, stopping while there’s some barely cooked egg left. With the pan flat on the heat, shake it back and forth a few times to settle the mixture. It should slide easily in the pan and look soft and moist on top. A quick burst of heat will brown the underside.\r\nGrip the handle underneath. Tilt the pan down away from you and let the omelette fall to the edge. Fold the side nearest to you over by a third with your fork, and keep it rolling over, so the omelette tips onto a plate – or fold it in half, if that’s easier. For a neat finish, cover the omelette with a piece of kitchen paper and plump it up a bit with your fingers. Rub the other knob of butter over to glaze. Serve immediately.",
+    "ingredients": [
+      { "position": 1, "name": "Eggs", "measurement": "3" },
+      { "position": 2, "name": "Butter", "measurement": "2 knobs" },
+      { "position": 3, "name": "Parmesan", "measurement": "1 tsp" },
+      { "position": 4, "name": "Tarragon Leaves", "measurement": "3 chopped" },
+      { "position": 5, "name": "Parsley", "measurement": "1 tbs chopped" },
+      { "position": 6, "name": "Chives", "measurement": "1 tbs chopped" },
+      { "position": 7, "name": "Gruyère", "measurement": "4 tbs" }
+    ]
+  }
+}

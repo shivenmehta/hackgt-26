@@ -1,0 +1,57 @@
+{
+  "inputHash": "35da2007a27e2c4e76c47515b9f796eec0bd1abc6aa907740fec23e9ddb77ae3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:51.489Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 144,
+      "fiberG": 2,
+      "assumptions": "Standard 1 cup (approx 185g) uncooked white rice based on prior estimate and 1 cup water ratio; standard nutrition for uncooked white rice."
+    },
+    {
+      "position": 2,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion approx 110g raw; standard values for yellow onion."
+    },
+    {
+      "position": 3,
+      "carbsG": 5,
+      "fiberG": 1.5,
+      "assumptions": "1 whole lime approx 65g raw; standard values including peel."
+    },
+    {
+      "position": 4,
+      "carbsG": 3,
+      "fiberG": 0.2,
+      "assumptions": "3 garlic cloves approx 9-10g total raw; standard values."
+    },
+    {
+      "position": 5,
+      "carbsG": 8,
+      "fiberG": 1,
+      "assumptions": "1 medium cucumber approx 300g raw; standard values for with-skin cucumber."
+    },
+    {
+      "position": 6,
+      "carbsG": 9,
+      "fiberG": 3,
+      "assumptions": "3 oz (85g) raw carrots; standard values for peeled/grated carrot."
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb (454g) raw ground beef; zero carbs as pure meat."
+    },
+    {
+      "position": 8,
+      "carbsG": 6,
+      "fiberG": 0.5,
+      "assumptions": "2 oz (approx 60ml) regular soy sauce; standard values for typical sodium/calorie profile."
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "inputHash": "db72420b8b0d0f9e0bef56c3e4a4c0f026909a0361962aa369f8f110f444317e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:26.838Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 340,
+      "per100g": {
+        "caloriesKcal": 480,
+        "proteinG": 4,
+        "fatG": 30,
+        "carbsG": 63,
+        "fiberG": 6
+      },
+      "caloriesKcal": 1632,
+      "proteinG": 13.6,
+      "fatG": 102,
+      "carbsG": 214.2,
+      "fiberG": 20.4,
+      "assumptions": "2 cups dark chocolate chips (standard 10 oz bag size, typical for fudge recipes; semi-sweet/dark chips ~60% cocoa).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2,
+        "fatG": 37,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 102,
+      "proteinG": 0.6,
+      "fatG": 11.1,
+      "carbsG": 0.9,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons heavy cream (standard volume-to-weight conversion).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 396,
+      "per100g": {
+        "caloriesKcal": 320,
+        "proteinG": 8,
+        "fatG": 9,
+        "carbsG": 54,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1267.2,
+      "proteinG": 31.68,
+      "fatG": 35.64,
+      "carbsG": 213.84,
+      "fiberG": 0,
+      "assumptions": "One 14-ounce can sweetened condensed milk (full can divided between two layers; standard nutrition for full-fat version).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 290,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 13,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.65,
+      "fiberG": 0,
+      "assumptions": "1 teaspoon vanilla extract (standard volume-to-weight; alcohol-based).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 225,
+      "per100g": {
+        "caloriesKcal": 540,
+        "proteinG": 6,
+        "fatG": 32,
+        "carbsG": 60,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1215,
+      "proteinG": 13.5,
+      "fatG": 72,
+      "carbsG": 135,
+      "fiberG": 0,
+      "assumptions": "1 1/3 cups white chocolate chips (standard volume-to-weight for chips; ~8 oz by weight).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 90,
+        "fiberG": 1
+      },
+      "caloriesKcal": 285,
+      "proteinG": 1.5,
+      "fatG": 0,
+      "carbsG": 67.5,
+      "fiberG": 0.75,
+      "assumptions": "1.5 cups miniature marshmallows (Mallow Bits; standard volume-to-weight, ~2.5 oz by weight).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52787",
+    "name": "Hot Chocolate Fudge",
+    "cuisine": "American",
+    "instructions": "Line an 8-inch-square baking pan with wax paper or foil, and coat with non-stick spray.\r\nIn a microwave-safe bowl, combine the dark chocolate chips, heavy cream and half of the sweetened condensed milk. Microwave the dark chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.\r\nAdd the vanilla extract to the dark chocolate mixture and stir well until smooth.\r\nTransfer the dark chocolate mixture into the prepared pan and spread into an even layer.\r\nIn a separate bowl, combine the white chocolate chips with the remaining half of the sweetened condensed milk. Microwave the white chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.\r\nEvenly spread the white chocolate mixture on top of dark chocolate layer.\r\nTop the chocolate layers with the Mallow Bits or miniature marshmallows, and gently press them down.\r\nRefrigerate for 4 hours, or until set.\r\nRemove the fudge and wax paper from the pan. Carefully peel all of the wax paper from the fudge.\r\nCut the fudge into bite-sized pieces and serve.",
+    "ingredients": [
+      { "position": 1, "name": "Chocolate Chips", "measurement": "2 cups" },
+      { "position": 2, "name": "Heavy Cream", "measurement": "2 tbs" },
+      {
+        "position": 3,
+        "name": "Condensed Milk",
+        "measurement": "1 – 14-ounce can"
+      },
+      { "position": 4, "name": "Vanilla Extract", "measurement": "1 tsp" },
+      {
+        "position": 5,
+        "name": "White Chocolate Chips",
+        "measurement": "1-⅓ cups"
+      },
+      {
+        "position": 6,
+        "name": "Miniature Marshmallows",
+        "measurement": "1-½ cups"
+      }
+    ]
+  }
+}

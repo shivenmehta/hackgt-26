@@ -1,0 +1,39 @@
+{
+  "inputHash": "dfefdfe340b2177c6c2f708412ab3cd91c6edb0c4c1b865fd63be9dc018f2acd",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:45.090Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 4,
+      "grams": 15,
+      "caloriesPer100g": 80,
+      "assumptions": "1 part ginger interpreted as a 15g thumb-sized piece, typical for curry recipes."
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "caloriesPer100g": 23,
+      "assumptions": "1 packet fresh coriander estimated at 30g total (leaves + stalks); modest whole packet weight for a small bunch."
+    },
+    {
+      "position": 6,
+      "grams": 2,
+      "caloriesPer100g": 375,
+      "assumptions": "1 tsp cumin seeds/powder is approximately 2g by standard volume-to-weight conversion."
+    },
+    {
+      "position": 8,
+      "grams": 4,
+      "caloriesPer100g": 350,
+      "assumptions": "2 tsp garam masala estimated at 4g total (2g per tsp); caloriesPer100g approximated from similar spice blends as no known value supplied."
+    },
+    {
+      "position": 11,
+      "grams": null,
+      "caloriesPer100g": 359,
+      "assumptions": "Basmati rice is 'to serve' with no quantity specified in the recipe; cannot estimate a realistic edible mass without assuming a serving count which is prohibited."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "inputHash": "6210f0283ef0887700718fe73560795614c8b0cba4d2f2b1115f064f435cd8aa",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:16:34.579Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 195,
+      "proteinG": 7,
+      "fatG": 1,
+      "assumptions": "750g raw edible pumpkin flesh; ~26 kcal, 0.9g protein, 0.1g fat per 100g"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 1575,
+      "proteinG": 21,
+      "fatG": 105,
+      "assumptions": "350g ready-made shortcrust pastry (typical commercial values ~450 kcal, 6g protein, 30g fat per 100g)"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Plain flour for dusting; quantity too small/omitted to estimate reliably"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 542,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "140g caster sugar (387 kcal per 100g)"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "½ tsp salt; negligible calories/macros"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "½ tsp ground nutmeg; modest seasoning quantity, negligible calories/macros"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "1 tsp ground cinnamon; modest seasoning quantity, negligible calories/macros"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 143,
+      "proteinG": 13,
+      "fatG": 10,
+      "assumptions": "2 large eggs (~50g each, beaten; 143 kcal, 13g protein, 10g fat total)"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 179,
+      "proteinG": 0,
+      "fatG": 20,
+      "assumptions": "25g butter (717 kcal, 81g fat per 100g; fully used in filling)"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 107,
+      "proteinG": 6,
+      "fatG": 6,
+      "assumptions": "175g whole milk (~61 kcal, 3.3g protein, 3.5g fat per 100g)"
+    },
+    {
+      "position": 11,
+      "caloriesKcal": 30,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tbsp (~8g) icing sugar (387 kcal per 100g)"
+    }
+  ]
+}

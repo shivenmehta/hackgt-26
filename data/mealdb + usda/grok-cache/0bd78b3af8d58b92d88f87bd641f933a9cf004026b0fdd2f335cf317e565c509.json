@@ -1,0 +1,51 @@
+{
+  "inputHash": "0bd78b3af8d58b92d88f87bd641f933a9cf004026b0fdd2f335cf317e565c509",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:53.188Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 250,
+      "caloriesPer100g": 31,
+      "assumptions": "A medium head of broccoli weighs ~250g including stem; this is the edible portion as typically prepared in stir-fry (florets and tender stem)."
+    },
+    {
+      "position": 3,
+      "grams": 12,
+      "caloriesPer100g": 143,
+      "assumptions": "Standard garlic clove is ~3g; 4 cloves total ~12g. Calorie value used is for raw garlic."
+    },
+    {
+      "position": 4,
+      "grams": 45,
+      "caloriesPer100g": 40,
+      "assumptions": "A medium red chili pepper weighs ~45g when sliced and used whole (edible portion)."
+    },
+    {
+      "position": 5,
+      "grams": 100,
+      "caloriesPer100g": 32,
+      "assumptions": "A bunch of spring onions typically weighs ~100g trimmed and ready to use."
+    },
+    {
+      "position": 6,
+      "grams": 140,
+      "caloriesPer100g": 147,
+      "assumptions": "Grams already supplied in recipe (140g); used typical calorie density for cooked/frozen edamame soya beans."
+    },
+    {
+      "position": 7,
+      "grams": 340,
+      "caloriesPer100g": 20.3,
+      "assumptions": "A typical head of pak choi (bok choy) weighs ~170g; 2 heads total 340g edible leaves and stems."
+    },
+    {
+      "position": 8,
+      "grams": 300,
+      "caloriesPer100g": 145,
+      "assumptions": "Grams already supplied in recipe (300g); used typical calorie density for marinated/firm tofu."
+    }
+  ]
+}

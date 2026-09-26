@@ -1,0 +1,51 @@
+{
+  "inputHash": "532d7445c360ff0e684b8e7bea8ad42fce468bbf6108104f09d0aa4f45eb9a08",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:20:36.516Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 70,
+      "proteinG": 2,
+      "fatG": 0.1,
+      "assumptions": "1 small potato assumed as 100g raw, peeled, boiled and drained; standard values for boiled potato without skin"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 40,
+      "proteinG": 0,
+      "fatG": 4.5,
+      "assumptions": "1 tsp olive oil = 5ml / ~4.5g; all oil is used in pan"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 180,
+      "proteinG": 9,
+      "fatG": 15,
+      "assumptions": "50g chorizo sausage as-is (typical cured Spanish-style values)"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 210,
+      "proteinG": 18,
+      "fatG": 15,
+      "assumptions": "3 medium-large eggs (~50g each edible portion); standard large egg nutrition"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "'Chopped parsley' quantity not stated; too small to estimate reliably (typical handful ~5-10g would be ~5kcal/0.5g protein but omitted as unspecified)"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 100,
+      "proteinG": 6.5,
+      "fatG": 8,
+      "assumptions": "25g cheddar cheese as-is; standard values for mature cheddar"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "inputHash": "8fe2fd6d3ed20ed5dfd4be0934461dd3a2a658c86e88d9d86b8ba30fe0e58f0f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:42.441Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 282.5,
+      "fiberG": 9.4,
+      "assumptions": "375g plain white wheat flour (standard values: ~75.3g carbs, 2.5g fiber per 100g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 50,
+      "fiberG": 0,
+      "assumptions": "50g caster sugar (standard: 100g carbs per 100g)"
+    },
+    {
+      "position": 3,
+      "carbsG": 3,
+      "fiberG": 2,
+      "assumptions": "7g active dry yeast (standard: ~41g carbs, ~27g fiber per 100g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 3.8,
+      "fiberG": 0,
+      "assumptions": "75g whole cow's milk (standard: ~5g carbs per 100g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.1,
+      "fiberG": 0,
+      "assumptions": "3 large whole eggs (~50g edible portion each, standard: ~0.7g carbs per 100g)"
+    },
+    {
+      "position": 6,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Quantity for glaze not specified; cannot estimate without assuming an amount (e.g. 1 egg or part thereof)"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "180g unsalted butter (standard: 0g carbs and fiber per 100g)"
+    },
+    {
+      "position": 8,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "250g ripe brie cheese (standard: ~0.2g carbs per 100g; assumes whole edible portion)"
+    },
+    {
+      "position": 9,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "8 slices prosciutto (~15g per average thin slice, total 120g; standard cured ham values ~1.2g carbs per 100g)"
+    }
+  ]
+}

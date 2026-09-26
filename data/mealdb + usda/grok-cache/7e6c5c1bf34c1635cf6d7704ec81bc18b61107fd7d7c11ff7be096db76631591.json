@@ -1,0 +1,39 @@
+{
+  "inputHash": "7e6c5c1bf34c1635cf6d7704ec81bc18b61107fd7d7c11ff7be096db76631591",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:29.054Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 1.9,
+      "caloriesPer100g": 469,
+      "assumptions": "Standard 1 tsp mustard powder weighs ~2.5g; scaled to 3/4 tsp. Modest seasoning amount used as per recipe."
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "caloriesPer100g": 0,
+      "assumptions": "Standard 1 tsp table/kosher salt weighs ~6g; scaled to 1/2 tsp. Known calories copied exactly."
+    },
+    {
+      "position": 6,
+      "grams": 1.2,
+      "caloriesPer100g": 251,
+      "assumptions": "Standard 1 tsp ground black pepper weighs ~2.3g; scaled to 1/2 tsp. Known calories and modest seasoning amount copied exactly."
+    },
+    {
+      "position": 14,
+      "grams": 640,
+      "caloriesPer100g": 266,
+      "assumptions": "Standard square sandwich bread slice is ~40g each (common for white/american sandwich bread); 16 slices total. Known calories copied exactly. Full edible portion."
+    },
+    {
+      "position": 16,
+      "grams": 168,
+      "caloriesPer100g": 380,
+      "assumptions": "Standard sliced Colby Jack cheese slice is ~21g each (typical deli slice weight); 8 slices total. Realistic weight for sliced cheese, not assuming 100g per slice. Calories estimated from typical Colby Jack values."
+    }
+  ]
+}

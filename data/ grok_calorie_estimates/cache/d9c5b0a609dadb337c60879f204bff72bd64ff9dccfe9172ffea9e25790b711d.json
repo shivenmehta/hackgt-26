@@ -1,0 +1,51 @@
+{
+  "inputHash": "d9c5b0a609dadb337c60879f204bff72bd64ff9dccfe9172ffea9e25790b711d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:17:24.667Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 1450,
+      "proteinG": 40,
+      "fatG": 115,
+      "assumptions": "250g raw cashew nuts, whole or pieces; standard values ~580 kcal, 16g protein, 46g fat per 100g"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 387,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "100g icing (powdered) sugar; ~387 kcal per 100g, negligible protein/fat"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 110,
+      "proteinG": 5.5,
+      "fatG": 9,
+      "assumptions": "2 large egg yolks (~34g total); ~55 kcal, 2.7g protein, 4.5g fat per yolk"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 25,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "2 tbs (30ml) orange blossom water; ~15-25 kcal total (mostly from trace sugars), protein/fat negligible"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Icing sugar to glaze: quantity not specified, cannot estimate total contribution"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 580,
+      "proteinG": 21,
+      "fatG": 50,
+      "assumptions": "100g whole almonds; standard values ~580 kcal, 21g protein, 50g fat per 100g"
+    }
+  ]
+}

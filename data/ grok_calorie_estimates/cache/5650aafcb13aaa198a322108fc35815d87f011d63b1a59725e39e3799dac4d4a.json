@@ -1,0 +1,58 @@
+{
+  "inputHash": "5650aafcb13aaa198a322108fc35815d87f011d63b1a59725e39e3799dac4d4a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:19:58.882Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 104,
+      "proteinG": 5.2,
+      "fatG": 0.8,
+      "assumptions": "400g tinned tomatoes (drained weight approx 240g but using full can nutrition as typical for recipe)"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 495,
+      "proteinG": 26.4,
+      "fatG": 41.8,
+      "assumptions": "110g chorizo (standard cured Spanish style, ~450kcal/100g)"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 39,
+      "proteinG": 3.6,
+      "fatG": 0.4,
+      "assumptions": "140g raw Savoy cabbage, edible portion only"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 2,
+      "proteinG": 0.1,
+      "fatG": 0.1,
+      "assumptions": "small sprinkling of chilli flakes (~0.5g)"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 290,
+      "proteinG": 19,
+      "fatG": 6,
+      "assumptions": "400g can chickpeas, drained weight ~240g; values for drained chickpeas"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 35,
+      "proteinG": 2.3,
+      "fatG": 0.4,
+      "assumptions": "1 chicken stock cube (10g), fully dissolved"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "crusty bread to serve - quantity not specified, cannot estimate"
+    }
+  ]
+}

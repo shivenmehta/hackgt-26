@@ -1,0 +1,45 @@
+{
+  "inputHash": "631dab40bb65042391da291c430523fec975edcc7da0d29e3e3fd10ff0d04c65",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:05.000Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "12 whole raw chicken wings (approx 1.2 kg total; each wing ~100 g with skin and bone); meat has negligible carbs"
+    },
+    {
+      "position": 2,
+      "carbsG": 1.8,
+      "fiberG": 0.1,
+      "assumptions": "2 average garlic cloves minced (~6 g total)"
+    },
+    {
+      "position": 3,
+      "carbsG": 6.5,
+      "fiberG": 1.8,
+      "assumptions": "zest + juice of 1 medium lemon (~60 g edible portion)"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.2,
+      "fiberG": 0.3,
+      "assumptions": "1 tsp whole cumin seeds (~2 g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp olive oil (exactly 28 g)"
+    },
+    {
+      "position": 6,
+      "carbsG": 17.3,
+      "fiberG": 0,
+      "assumptions": "1 tbsp honey (~21 g)"
+    }
+  ]
+}

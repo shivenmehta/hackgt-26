@@ -1,0 +1,57 @@
+{
+  "inputHash": "9596d5980f6604375f4f8d1e7da9170a8284e1b107e72124f16c3ec80b906b6a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:06.894Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 108,
+      "fiberG": 4,
+      "assumptions": "140g dry rice noodles (standard uncooked weight as listed); values for dry weight before cooking"
+    },
+    {
+      "position": 2,
+      "carbsG": 9,
+      "fiberG": 3,
+      "assumptions": "3 tbsp (approx 48g) smooth peanut butter"
+    },
+    {
+      "position": 3,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "4 tbsp (approx 60ml) full-fat canned coconut milk"
+    },
+    {
+      "position": 4,
+      "carbsG": 26,
+      "fiberG": 0.2,
+      "assumptions": "3 tbsp (approx 45g) sweet chilli sauce"
+    },
+    {
+      "position": 5,
+      "carbsG": 3.2,
+      "fiberG": 1.2,
+      "assumptions": "3 medium spring onions (approx 45g) thinly sliced, full amount used in recipe"
+    },
+    {
+      "position": 6,
+      "carbsG": 11,
+      "fiberG": 1.5,
+      "assumptions": "1 medium cucumber (approx 300g) sliced, edible portion"
+    },
+    {
+      "position": 7,
+      "carbsG": 10.5,
+      "fiberG": 4.5,
+      "assumptions": "300g fresh bean sprouts, raw/edible portion"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "200g cooked prawns (edible peeled weight)"
+    }
+  ]
+}

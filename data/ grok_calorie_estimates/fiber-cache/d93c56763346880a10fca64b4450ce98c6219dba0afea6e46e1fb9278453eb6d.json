@@ -1,0 +1,75 @@
+{
+  "inputHash": "d93c56763346880a10fca64b4450ce98c6219dba0afea6e46e1fb9278453eb6d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:27.000Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 100,
+      "fiberG": 12,
+      "assumptions": "1 lb = 454 g raw new potatoes with skin; standard values for raw potato"
+    },
+    {
+      "position": 2,
+      "carbsG": 100,
+      "fiberG": 29,
+      "assumptions": "1 lb = 454 g raw carrots; standard values for raw carrot"
+    },
+    {
+      "position": 3,
+      "carbsG": 8,
+      "fiberG": 4,
+      "assumptions": "1 cup = 110 g fresh green beans, trimmed and cut; standard values for raw green beans"
+    },
+    {
+      "position": 4,
+      "carbsG": 9,
+      "fiberG": 4,
+      "assumptions": "1/2 cup = 73 g fresh green peas; standard values for raw peas"
+    },
+    {
+      "position": 5,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tbsp fresh dill weed; modest quantity ~3 g"
+    },
+    {
+      "position": 6,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tbsp fresh chives; modest quantity ~3 g"
+    },
+    {
+      "position": 7,
+      "carbsG": 36,
+      "fiberG": 0,
+      "assumptions": "3 US cups = 732 g whole milk; standard whole milk values"
+    },
+    {
+      "position": 8,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "1/2 US cup = 119 g heavy cream (36% fat); standard heavy cream values"
+    },
+    {
+      "position": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 US cup = 114 g butter; standard butter values"
+    },
+    {
+      "position": 10,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp table salt; no carbohydrates"
+    },
+    {
+      "position": 11,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp ground black pepper; modest quantity ~0.5 g"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "inputHash": "03301174d5ad1a63ebe43211ad3b99e7b218d44e34d6522b121d2a2bbbb327a5",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:02.603Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 4,
+      "grams": 45,
+      "caloriesPer100g": 200,
+      "assumptions": "Standard 1 tbsp sweet chilli sauce ≈15g; 3 tbsp =45g. Calorie density estimated from typical commercial sweet chilli sauce (≈200kcal/100g)."
+    },
+    {
+      "position": 5,
+      "grams": 45,
+      "caloriesPer100g": 32,
+      "assumptions": "3 medium spring onions (≈15g each when sliced) total 45g edible portion. Copying supplied knownCaloriesPer100g exactly."
+    },
+    {
+      "position": 6,
+      "grams": 300,
+      "caloriesPer100g": 15.9,
+      "assumptions": "1 medium-large cucumber ≈300g edible flesh after light trimming/slicing. Copying supplied knownCaloriesPer100g exactly."
+    }
+  ]
+}

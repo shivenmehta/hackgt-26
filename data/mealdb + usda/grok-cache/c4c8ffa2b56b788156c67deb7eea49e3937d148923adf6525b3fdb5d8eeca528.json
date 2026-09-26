@@ -1,0 +1,69 @@
+{
+  "inputHash": "c4c8ffa2b56b788156c67deb7eea49e3937d148923adf6525b3fdb5d8eeca528",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:42.380Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 476,
+      "caloriesPer100g": 22.9,
+      "assumptions": "Standard large bell pepper is ~119g whole; 4x119g. Edible portion after halving and seeding is nearly the full weight as given density matches raw pepper."
+    },
+    {
+      "position": 3,
+      "grams": 70,
+      "caloriesPer100g": 38,
+      "assumptions": "1 small onion (finely diced) is typically 70g."
+    },
+    {
+      "position": 6,
+      "grams": 240,
+      "caloriesPer100g": 118,
+      "assumptions": "Standard 15oz/425g can of black beans; drained weight ~240g (common for canned legumes; calories match drained/canned values)."
+    },
+    {
+      "position": 7,
+      "grams": 164,
+      "caloriesPer100g": 84.6,
+      "assumptions": "1 cup sweetcorn (canned or frozen kernels) weighs ~164g."
+    },
+    {
+      "position": 8,
+      "grams": 245,
+      "caloriesPer100g": 18,
+      "assumptions": "Standard 14.5oz/411g can of diced tomatoes; full contents used as given density matches undrained values."
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "caloriesPer100g": 375,
+      "assumptions": "1 teaspoon ground cumin weighs ~2g."
+    },
+    {
+      "position": 12,
+      "grams": 2,
+      "caloriesPer100g": 0,
+      "assumptions": "Modest estimate for 'to taste' salt; ~2g typical in recipes (0 cal)."
+    },
+    {
+      "position": 13,
+      "grams": 1,
+      "caloriesPer100g": 251,
+      "assumptions": "Modest estimate for 'to taste' pepper; ~1g typical in recipes."
+    },
+    {
+      "position": 14,
+      "grams": 168,
+      "caloriesPer100g": 380,
+      "assumptions": "1.5 cups shredded Mexican cheese blend; standard density ~112g per cup (total 168g). Calories estimated from typical Mexican cheese blend values (~380 kcal/100g)."
+    },
+    {
+      "position": 15,
+      "grams": 10,
+      "caloriesPer100g": 23,
+      "assumptions": "Chopped cilantro for garnish; modest 10g estimate as 'to taste' topping."
+    }
+  ]
+}

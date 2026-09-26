@@ -1,0 +1,87 @@
+{
+  "inputHash": "2d7c1868a93a8cc6d1ca12f25ba5406eb19f330f99cdbea3eb5221cfcbe17798",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:13.461Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "250g butter: zero carbs/fiber"
+    },
+    {
+      "position": 2,
+      "carbsG": 32,
+      "fiberG": 12,
+      "assumptions": "200g shelled pistachios: ~16g carbs/100g incl. ~6g fiber (standard kernel values)"
+    },
+    {
+      "position": 3,
+      "carbsG": 60,
+      "fiberG": 2,
+      "assumptions": "80g plain white flour: standard 75g carbs/100g with ~2.5g fiber/100g"
+    },
+    {
+      "position": 4,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 tsp (~4g) baking powder: ~1.5-2g carbs, negligible fiber"
+    },
+    {
+      "position": 5,
+      "carbsG": 225,
+      "fiberG": 0,
+      "assumptions": "225g caster sugar: 100g carbs/100g, zero fiber"
+    },
+    {
+      "position": 6,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "4 large eggs (~200g total edible): ~1g carbs total, zero fiber"
+    },
+    {
+      "position": 7,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 tsp (~4g) vanilla extract: ~0.3g carbs/g, negligible fiber"
+    },
+    {
+      "position": 8,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "100g icing sugar: 100g carbs/100g, zero fiber"
+    },
+    {
+      "position": 9,
+      "carbsG": 5,
+      "fiberG": 0,
+      "assumptions": "250g mascarpone: ~2g carbs/100g, negligible fiber"
+    },
+    {
+      "position": 10,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "200ml double cream (~194g): ~4g carbs/100g, negligible fiber"
+    },
+    {
+      "position": 11,
+      "carbsG": 20,
+      "fiberG": 8,
+      "assumptions": "100g pistachio paste: ~20g carbs/100g incl. ~8g fiber (inferred from nut composition)"
+    },
+    {
+      "position": 12,
+      "carbsG": 40,
+      "fiberG": 24,
+      "assumptions": "400g fresh raspberries: 10g carbs/100g incl. 6g fiber (standard values)"
+    },
+    {
+      "position": 13,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "zest of 1 unwaxed lime (~6g zest): ~2g carbs incl. ~1g fiber"
+    }
+  ]
+}

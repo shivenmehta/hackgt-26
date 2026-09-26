@@ -1,0 +1,81 @@
+{
+  "inputHash": "cb9d8e7605acefdb331a99a07aba09d60031e5b178dd659f5ae0eff6f51e8855",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:58.901Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "85g butter (no carbs)"
+    },
+    {
+      "position": 2,
+      "carbsG": 5.3,
+      "fiberG": 0,
+      "assumptions": "140g full-fat sour cream (~4.3g carbs/100g)"
+    },
+    {
+      "position": 3,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tbsp granulated sugar (~12g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 27,
+      "fiberG": 0,
+      "assumptions": "900g full-fat cream cheese (~3g carbs/100g)"
+    },
+    {
+      "position": 5,
+      "carbsG": 250,
+      "fiberG": 0,
+      "assumptions": "250g caster sugar (100% carbs)"
+    },
+    {
+      "position": 6,
+      "carbsG": 17,
+      "fiberG": 0.6,
+      "assumptions": "3 tbsp plain flour (~23g, ~75g carbs/100g)"
+    },
+    {
+      "position": 7,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "1.5 tsp lemon juice (~7.5g, ~8g carbs/100g)"
+    },
+    {
+      "position": 8,
+      "carbsG": 1.1,
+      "fiberG": 0,
+      "assumptions": "3 large eggs (~150g edible, ~0.7g carbs/100g)"
+    },
+    {
+      "position": 9,
+      "carbsG": 9.7,
+      "fiberG": 0,
+      "assumptions": "250ml full-fat sour cream (~255g, ~3.8g carbs/100g)"
+    },
+    {
+      "position": 10,
+      "carbsG": 5.8,
+      "fiberG": 0,
+      "assumptions": "150ml full-fat sour cream (~153g, ~3.8g carbs/100g)"
+    },
+    {
+      "position": 11,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tbsp caster sugar (~12g)"
+    },
+    {
+      "position": 12,
+      "carbsG": 0.8,
+      "fiberG": 0,
+      "assumptions": "2 tsp lemon juice (~10g, ~8g carbs/100g)"
+    }
+  ]
+}

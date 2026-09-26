@@ -1,0 +1,45 @@
+{
+  "inputHash": "937c22d1c926289e12650e8c11c194261ae4dbf814c2082b1cfa0c13fd7178a8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:10.136Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 124,
+      "caloriesPer100g": 48,
+      "assumptions": "Standard medium carrot is ~62g; 2 chopped carrots total ~124g edible portion (raw, peeled)."
+    },
+    {
+      "position": 6,
+      "grams": 1,
+      "caloriesPer100g": 375,
+      "assumptions": "½ tsp ground cumin weighs ~1g (standard density for ground spices)."
+    },
+    {
+      "position": 12,
+      "grams": 11,
+      "caloriesPer100g": 350,
+      "assumptions": "Standard vegetable stock cube is ~11g; calories estimated from typical dry bouillon composition (no water added in recipe)."
+    },
+    {
+      "position": 13,
+      "grams": 500,
+      "caloriesPer100g": 48.1,
+      "assumptions": "1 medium butternut squash (edible chopped flesh only, skin/seeds discarded) averages ~500g; matches given raw calorie density."
+    },
+    {
+      "position": 14,
+      "grams": 200,
+      "caloriesPer100g": 376,
+      "assumptions": "Couscous is listed as 'steamed' to serve alongside; realistic modest single-serving equivalent of ~65g dry (yields ~200g steamed/cooked weight) using given dry calorie density (water adds no calories)."
+    },
+    {
+      "position": 15,
+      "grams": 5,
+      "caloriesPer100g": 36,
+      "assumptions": "'Chopped' parsley is a garnish/to taste; modest handful is ~5g fresh leaves."
+    }
+  ]
+}

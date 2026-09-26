@@ -1,0 +1,33 @@
+{
+  "inputHash": "26a69c688c727c2408354d6d62911b569211ec9f7ab9c5143060362c3c7c6ef2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:35.241Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 3.1,
+      "caloriesPer100g": 361,
+      "assumptions": "1 tsp cornflour weighs ~3.1g (standard density for cornstarch/corn flour); calories from standard value for corn starch."
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "caloriesPer100g": 47,
+      "assumptions": "Juice of 2 medium oranges ≈ 200g total (≈100ml per orange at density ≈1.05g/ml); calories use supplied knownCaloriesPer100g for orange juice."
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "caloriesPer100g": 47,
+      "assumptions": "Zest of 1 medium orange ≈ 6g (typical edible zest yield); calories use supplied knownCaloriesPer100g value for orange (zest is similar density)."
+    },
+    {
+      "position": 5,
+      "grams": 750,
+      "caloriesPer100g": 42,
+      "assumptions": "6 medium peaches, each ≈125g whole; edible portion after halving/stoning/slicing is nearly the full weight as stones are minimal (≈5-10% waste, but recipe uses prepared fruit); calories use supplied knownCaloriesPer100g for raw peaches."
+    }
+  ]
+}

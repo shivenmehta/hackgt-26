@@ -1,0 +1,58 @@
+{
+  "inputHash": "6fa2d0313f0b604b2cda914fbd275af2e147d6deffd8ddbd83e8bd91db6eb65c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:17:29.787Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 885,
+      "proteinG": 5,
+      "fatG": 92,
+      "assumptions": "227g clotted cream (full-fat; ~390 kcal/100g, ~4g protein/100g, ~40g fat/100g)"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 179,
+      "proteinG": 0.2,
+      "fatG": 20,
+      "assumptions": "25g butter (standard salted or unsalted; ~717 kcal/100g, ~0.8g protein/100g, ~81g fat/100g)"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 10,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tsp (≈3g) corn flour/cornstarch (≈333 kcal/100g; negligible protein and fat)"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 392,
+      "proteinG": 35,
+      "fatG": 26,
+      "assumptions": "100g grated Parmesan cheese (≈392 kcal/100g, ≈35g protein/100g, ≈26g fat/100g)"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Nutmeg grated to taste (small pinch, <1g); calories/protein/fat too low to estimate reliably beyond negligible (<5 kcal total)"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 925,
+      "proteinG": 32,
+      "fatG": 4,
+      "assumptions": "250g dry fettuccine pasta (≈370 kcal/100g, ≈13g protein/100g, ≈1.5g fat/100g; cooked weight not used as dry is the measured input)"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Parsley chopped to taste (small handful, ≈5-10g); calories/protein/fat too low to estimate reliably beyond negligible (<10 kcal total)"
+    }
+  ]
+}

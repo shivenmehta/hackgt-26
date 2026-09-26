@@ -1,0 +1,415 @@
+{
+  "inputHash": "e3f891fb5e06923ba515add44e382f4b7abc7b1f897d40dce3995a74c7c17c5f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:53.938Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1.3,
+        "fatG": 0.1,
+        "carbsG": 5.8,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 62.5,
+      "proteinG": 3.25,
+      "fatG": 0.25,
+      "carbsG": 14.5,
+      "fiberG": 6.25,
+      "assumptions": "1/4 of a medium white cabbage, about 250g raw edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 32.8,
+      "proteinG": 0.72,
+      "fatG": 0.16,
+      "carbsG": 7.68,
+      "fiberG": 2.24,
+      "assumptions": "1 medium carrot, peeled and grated, ~80g edible",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 34,
+        "proteinG": 2.2,
+        "fatG": 0.4,
+        "carbsG": 6.8,
+        "fiberG": 2.3
+      },
+      "caloriesKcal": 34,
+      "proteinG": 2.2,
+      "fatG": 0.4,
+      "carbsG": 6.8,
+      "fiberG": 2.3,
+      "assumptions": "Given 100g fresh shiitake mushrooms, raw weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 241,
+        "proteinG": 17,
+        "fatG": 19,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 964,
+      "proteinG": 68,
+      "fatG": 76,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Given 400g raw ground pork (typical 20% fat)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.9860000000000002,
+      "fiberG": 0.126,
+      "assumptions": "2 cloves garlic minced, ~6g total raw",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.8,
+        "fatG": 0.8,
+        "carbsG": 17.8,
+        "fiberG": 2
+      },
+      "caloriesKcal": 16,
+      "proteinG": 0.36,
+      "fatG": 0.16,
+      "carbsG": 3.56,
+      "fiberG": 0.4,
+      "assumptions": "Given 20g fresh ginger, raw peeled weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.5,
+        "fatG": 0,
+        "carbsG": 5,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 5.3,
+      "proteinG": 0.55,
+      "fatG": 0,
+      "carbsG": 0.5,
+      "fiberG": 0.07,
+      "assumptions": "2 tsp soy sauce (~10g), typical sodium-reduced variety",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 79.56,
+      "proteinG": 0,
+      "fatG": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp sesame oil (~9g)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0.81,
+      "fatG": 0.09,
+      "carbsG": 3.285,
+      "fiberG": 1.17,
+      "assumptions": "3 spring onions sliced thinly, ~45g total raw",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 6,
+        "fatG": 1,
+        "carbsG": 80,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 680,
+      "proteinG": 12,
+      "fatG": 2,
+      "carbsG": 160,
+      "fiberG": 5,
+      "assumptions": "20 standard 22cm rice paper sheets; each ~10g dry weight (typical package size)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 69,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 609.96,
+      "proteinG": 0,
+      "fatG": 69,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "75ml vegetable oil for shallow-frying; density ~0.92 g/ml, all oil is absorbed or used in estimation",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 5.5,
+        "fatG": 0,
+        "carbsG": 5,
+        "fiberG": 0.7
+      },
+      "caloriesKcal": 15.9,
+      "proteinG": 1.65,
+      "fatG": 0,
+      "carbsG": 1.5,
+      "fiberG": 0.21,
+      "assumptions": "2 tbsp soy sauce (~30g), typical sodium-reduced variety",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2.1,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.45,
+      "fiberG": 0,
+      "assumptions": "2 tbsp rice vinegar (~30g)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 573,
+        "proteinG": 17.7,
+        "fatG": 49.7,
+        "carbsG": 23.5,
+        "fiberG": 12
+      },
+      "caloriesKcal": 22.92,
+      "proteinG": 0.708,
+      "fatG": 1.9880000000000002,
+      "carbsG": 0.94,
+      "fiberG": 0.48,
+      "assumptions": "1/2 tbsp toasted sesame seeds (~4g)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 9.6,
+      "proteinG": 0.54,
+      "fatG": 0.06,
+      "carbsG": 2.19,
+      "fiberG": 0.78,
+      "assumptions": "2 spring onions sliced for sauce, ~30g total raw",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53227",
+    "name": "Rice paper dumplings",
+    "cuisine": "Vietnamese",
+    "instructions": "step 1\r\nTip the cabbage into a food processor and blitz until finely chopped. Season with ½ tsp salt, toss well and set aside for 15 mins. Tip into a clean tea towel and squeeze out as much water as you can. Tip into a bowl with the carrot, mushrooms, pork mince, garlic, ginger, soy sauce, sesame oil and spring onions. Season with black pepper. Scrunch everything together using your hands, mixing well until everything is combined.\r\n\r\nstep 2\r\nSoak the spring roll sheets for a couple of seconds in a shallow dish of warm water, then transfer to an oiled chopping board. Working with one sheet at a time, spoon 1 heaped tbsp of the filling into the middle, then fold the bottom up and over the filling. Fold down the top of the sheet, then the sides to fully encase and make a neat square. If the dumpling feels a little fragile, soak another sheet and wrap it again. Repeat with the remaining sheets and filling, transferring the dumplings to an oiled plate as you go.\r\n\r\nstep 3\r\nHeat the oil in a large, non-stick frying pan (ensuring it is no more than a third full) over a medium-high heat and fry the dumplings for 3-5 mins until golden brown. Use a slotted spoon or spider to turn them, then cover with a lid and cook for another 3-4 mins until golden. Remove the lid and cook for 1-2 mins.\r\n\r\nstep 4\r\nMeanwhile, combine all the dipping sauce ingredients in small bowl. Serve the dumplings with the dipping sauce on the side.",
+    "ingredients": [
+      { "position": 1, "name": "White Cabbage", "measurement": "1/4" },
+      { "position": 2, "name": "Carrots", "measurement": "1" },
+      { "position": 3, "name": "Shiitake Mushrooms", "measurement": "100g" },
+      { "position": 4, "name": "Ground Pork", "measurement": "400g" },
+      { "position": 5, "name": "Garlic", "measurement": "2 cloves minced" },
+      { "position": 6, "name": "Ginger", "measurement": "20g" },
+      { "position": 7, "name": "Soy Sauce", "measurement": "2 tsp" },
+      { "position": 8, "name": "Sesame Seed Oil", "measurement": "2 tsp" },
+      {
+        "position": 9,
+        "name": "Spring Onions",
+        "measurement": "3 sliced thinly"
+      },
+      { "position": 10, "name": "Rice Paper Sheets", "measurement": "20" },
+      { "position": 11, "name": "Vegetable Oil", "measurement": "75 ml" },
+      { "position": 12, "name": "Soy Sauce", "measurement": "2 tablespoons" },
+      {
+        "position": 13,
+        "name": "Rice Vinegar",
+        "measurement": "2 tablespoons"
+      },
+      { "position": 14, "name": "Sesame Seed", "measurement": "1/2 tbs" },
+      { "position": 15, "name": "Spring Onions", "measurement": "2 sliced" }
+    ]
+  }
+}

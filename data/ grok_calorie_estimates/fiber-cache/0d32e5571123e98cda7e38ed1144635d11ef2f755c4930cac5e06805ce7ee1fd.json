@@ -1,0 +1,81 @@
+{
+  "inputHash": "0d32e5571123e98cda7e38ed1144635d11ef2f755c4930cac5e06805ce7ee1fd",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:52.791Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 68,
+      "fiberG": 4,
+      "assumptions": "2 small 6-inch Vietnamese-style baguettes (~100 g each, edible portion); standard white baguette carb values"
+    },
+    {
+      "position": 2,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "50 g chicken liver pâté (inferred as the spreadable form used in the recipe); typical commercial liver pâté values"
+    },
+    {
+      "position": 3,
+      "carbsG": 2,
+      "fiberG": 0.5,
+      "assumptions": "1/4 medium cucumber (~75 g edible portion); standard raw cucumber values"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "140 g cooked roast turkey breast, lean, edible portion; plain poultry has zero carbs"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.3,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon (14 g) standard mayonnaise; typical full-fat mayo values"
+    },
+    {
+      "position": 6,
+      "carbsG": 3,
+      "fiberG": 0.5,
+      "assumptions": "1 medium red chilli, sliced (~20 g edible portion); standard raw chilli values"
+    },
+    {
+      "position": 7,
+      "carbsG": 0.5,
+      "fiberG": 0.3,
+      "assumptions": "small handful fresh mint leaves (~5 g); standard fresh herb values"
+    },
+    {
+      "position": 8,
+      "carbsG": 11,
+      "fiberG": 3,
+      "assumptions": "2 small carrots, raw, peeled and shredded (~120 g edible portion); standard raw carrot values"
+    },
+    {
+      "position": 9,
+      "carbsG": 4,
+      "fiberG": 2,
+      "assumptions": "75 g raw red cabbage, shredded; standard raw cabbage values"
+    },
+    {
+      "position": 10,
+      "carbsG": 1,
+      "fiberG": 0.2,
+      "assumptions": "1/4 tsp ground ginger (~0.5 g); standard ground ginger values"
+    },
+    {
+      "position": 11,
+      "carbsG": 0.1,
+      "fiberG": 0,
+      "assumptions": "½ tablespoon rice vinegar (~7.5 g); typical rice vinegar values"
+    },
+    {
+      "position": 12,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1/2 teaspoon golden caster sugar (~2 g); standard sugar values"
+    }
+  ]
+}

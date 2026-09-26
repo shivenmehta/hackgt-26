@@ -1,0 +1,437 @@
+{
+  "inputHash": "906c0fbe334353ae99fc723ff4d7adbb548b13e0e0b90c0a496b0335c4782f13",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:23:48.900Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 22,
+        "fatG": 2,
+        "carbsG": 60,
+        "fiberG": 15
+      },
+      "caloriesKcal": 700,
+      "proteinG": 44,
+      "fatG": 4,
+      "carbsG": 120,
+      "fiberG": 30,
+      "assumptions": "Standard dry toor dal (pigeon peas); 1 cup dry weighs ~200g; nutrients for uncooked dry state as used in recipe start.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Cooking water for dal; plain water contributes zero macros; volume converted using 1 cup = 240 ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; negligible calories/macros; 1 tsp ≈ 5 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 8,
+        "fatG": 5,
+        "carbsG": 45,
+        "fiberG": 10
+      },
+      "caloriesKcal": 3,
+      "proteinG": 0.08,
+      "fatG": 0.05,
+      "carbsG": 0.45,
+      "fiberG": 0.1,
+      "assumptions": "Ground turmeric; very small quantity estimated at 1 g for 1/4 tsp; typical spice nutrition values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 900,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 405,
+      "proteinG": 0,
+      "fatG": 45,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Clarified butter (ghee); 3 tbs ≈ 45 g (density ~15 g per tbs); nearly pure fat.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 180,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 4,
+        "fiberG": 1
+      },
+      "caloriesKcal": 32.4,
+      "proteinG": 1.8,
+      "fatG": 0,
+      "carbsG": 7.2,
+      "fiberG": 1.8,
+      "assumptions": "Chopped fresh tomatoes; 1 cup ≈ 180 g; raw red tomato values, suitable for cooking down.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 22,
+        "carbsG": 44,
+        "fiberG": 27
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.36,
+      "fatG": 0.44,
+      "carbsG": 0.88,
+      "fiberG": 0.54,
+      "assumptions": "Whole cumin seeds; 1/2 tsp ≈ 2 g; typical whole cumin seed nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 500,
+        "proteinG": 25,
+        "fatG": 30,
+        "carbsG": 30,
+        "fiberG": 15
+      },
+      "caloriesKcal": 15,
+      "proteinG": 0.75,
+      "fatG": 0.9,
+      "carbsG": 0.9,
+      "fiberG": 0.45,
+      "assumptions": "Mustard seeds; 1/2 tsp ≈ 3 g; standard mustard seed values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 8,
+        "fatG": 5,
+        "carbsG": 50,
+        "fiberG": 25
+      },
+      "caloriesKcal": 3,
+      "proteinG": 0.08,
+      "fatG": 0.05,
+      "carbsG": 0.5,
+      "fiberG": 0.25,
+      "assumptions": "Dried bay leaves; 2 leaves ≈ 1 g total; typical dried herb/spice profile.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 9,
+        "fiberG": 1
+      },
+      "caloriesKcal": 4,
+      "proteinG": 0.2,
+      "fatG": 0,
+      "carbsG": 0.9,
+      "fiberG": 0.1,
+      "assumptions": "Chopped green chili; 1 tbs chopped ≈ 10 g; fresh green chili pepper values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 3.2,
+      "proteinG": 0.08,
+      "fatG": 0,
+      "carbsG": 0.72,
+      "fiberG": 0.08,
+      "assumptions": "Shredded fresh ginger; 2 tsp ≈ 4 g; raw ginger root nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 4,
+        "fiberG": 3
+      },
+      "caloriesKcal": 1.25,
+      "proteinG": 0.1,
+      "fatG": 0,
+      "carbsG": 0.2,
+      "fiberG": 0.15,
+      "assumptions": "Chopped fresh cilantro (coriander leaves); 2 tbs ≈ 5 g; typical fresh herb values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 10,
+        "fatG": 13,
+        "carbsG": 55,
+        "fiberG": 25
+      },
+      "caloriesKcal": 3,
+      "proteinG": 0.1,
+      "fatG": 0.13,
+      "carbsG": 0.55,
+      "fiberG": 0.25,
+      "assumptions": "Red chili powder (cayenne or similar); 1/2 tsp ≈ 1 g; standard dried chili powder nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Additional table salt; 1/2 tsp ≈ 3 g; negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 390,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 15.6,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "Granulated sugar; 1 tsp ≈ 4 g; pure sucrose values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 300,
+        "proteinG": 10,
+        "fatG": 10,
+        "carbsG": 45,
+        "fiberG": 15
+      },
+      "caloriesKcal": 3,
+      "proteinG": 0.1,
+      "fatG": 0.1,
+      "carbsG": 0.45,
+      "fiberG": 0.15,
+      "assumptions": "Garam masala spice blend; 1/4 tsp ≈ 1 g; averaged typical Indian spice mix values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52785",
+    "name": "Dal fry",
+    "cuisine": "Indian",
+    "instructions": "Wash and soak toor dal in approx. 3 cups of water, for at least one hours. Dal will be double in volume after soaking. Drain the water.\r\nCook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup.\r\nIn a frying pan, heat the ghee. Add cumin seeds, and mustard seeds. After the seeds crack, add bay leaves, green chili, ginger and chili powder. Stir for a few seconds.\r\nAdd tomatoes, salt and sugar stir and cook until tomatoes are tender and mushy.\r\nAdd cilantro and garam masala cook for about one minute.\r\nPour the seasoning over dal mix it well and cook for another minute.\r\nServe with Naan.",
+    "ingredients": [
+      { "position": 1, "name": "Toor dal", "measurement": "1 cup" },
+      { "position": 2, "name": "Water", "measurement": "2-1/2 cups" },
+      { "position": 3, "name": "Salt", "measurement": "1 tsp" },
+      { "position": 4, "name": "Turmeric", "measurement": "1/4 tsp" },
+      { "position": 5, "name": "Ghee", "measurement": "3 tbs" },
+      { "position": 6, "name": "Chopped tomatoes", "measurement": "1 cup" },
+      { "position": 7, "name": "Cumin seeds", "measurement": "1/2 tsp" },
+      { "position": 8, "name": "Mustard Seeds", "measurement": "1/2 tsp" },
+      { "position": 9, "name": "Bay Leaf", "measurement": "2" },
+      {
+        "position": 10,
+        "name": "Green Chilli",
+        "measurement": "1 tbs chopped"
+      },
+      { "position": 11, "name": "Ginger", "measurement": "2 tsp shredded" },
+      { "position": 12, "name": "Cilantro", "measurement": "2 tbs" },
+      { "position": 13, "name": "Red Pepper", "measurement": "1/2 tsp" },
+      { "position": 14, "name": "Salt", "measurement": "1/2 tsp" },
+      { "position": 15, "name": "Sugar", "measurement": "1 tsp" },
+      { "position": 16, "name": "Garam Masala", "measurement": "1/4 tsp" }
+    ]
+  }
+}

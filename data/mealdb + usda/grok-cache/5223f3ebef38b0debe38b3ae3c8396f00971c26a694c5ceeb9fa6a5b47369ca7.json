@@ -1,0 +1,27 @@
+{
+  "inputHash": "5223f3ebef38b0debe38b3ae3c8396f00971c26a694c5ceeb9fa6a5b47369ca7",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:29.388Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 396,
+      "caloriesPer100g": 321,
+      "assumptions": "Standard 14 fl oz can of sweetened condensed milk weighs 396 g (full can contents used as per recipe; known value copied exactly)."
+    },
+    {
+      "position": 5,
+      "grams": 240,
+      "caloriesPer100g": 535,
+      "assumptions": "1-1/3 cups white chocolate chips; standard density ≈180 g per cup (recipe uses full amount in melted state); typical calories for white chocolate chips."
+    },
+    {
+      "position": 6,
+      "grams": 105,
+      "caloriesPer100g": 353,
+      "assumptions": "1.5 cups miniature marshmallows; standard weight ≈70 g per cup (full recipe amount, not packed; typical mini marshmallow density and calories used)."
+    }
+  ]
+}

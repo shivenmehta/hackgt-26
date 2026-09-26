@@ -1,0 +1,33 @@
+{
+  "inputHash": "042d2bd086bde1f6608cdfa11407c474f1edc6b78c9b0179090ab5020e3457b3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:32:55.261Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 4.9,
+      "caloriesPer100g": 152,
+      "assumptions": "Standard volume-to-weight conversion for dry sherry (or Chinese rice wine); 1 tsp ≈ 4.9 g. Matches the known calories per 100 g for sherry."
+    },
+    {
+      "position": 4,
+      "grams": 0.3,
+      "caloriesPer100g": 251,
+      "assumptions": "Standard volume-to-weight for ground black pepper; 1/8 tsp ≈ 0.3 g. Matches the known calories per 100 g for black pepper."
+    },
+    {
+      "position": 7,
+      "grams": 4.9,
+      "caloriesPer100g": 152,
+      "assumptions": "Standard volume-to-weight conversion for dry sherry (or Chinese rice wine); 1 tsp ≈ 4.9 g. Matches the known calories per 100 g for sherry."
+    },
+    {
+      "position": 11,
+      "grams": 28,
+      "caloriesPer100g": 884,
+      "assumptions": "Standard volume-to-weight for cooking oil; 2 tbsp = 30 ml ≈ 28 g (density ~0.92 g/ml). Calories per 100 g estimated for typical high-heat neutral oil such as canola or vegetable oil."
+    }
+  ]
+}

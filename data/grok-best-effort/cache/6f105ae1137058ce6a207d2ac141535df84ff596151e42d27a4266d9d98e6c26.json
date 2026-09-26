@@ -1,0 +1,277 @@
+{
+  "inputHash": "6f105ae1137058ce6a207d2ac141535df84ff596151e42d27a4266d9d98e6c26",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:34:36.581Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1.3,
+        "carbsG": 76,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 637,
+      "proteinG": 17.5,
+      "fatG": 2.275,
+      "carbsG": 133,
+      "fiberG": 4.7250000000000005,
+      "assumptions": "Standard plain white wheat flour; values reflect typical UK plain flour composition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 537.75,
+      "proteinG": 0.45,
+      "fatG": 60.75,
+      "carbsG": 0.075,
+      "fiberG": 0,
+      "assumptions": "Chilled unsalted butter; standard butter nutrition used, assuming fully edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 38,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Cold water; 2.5 tbsp average of the 2-3 tbsp range (15 ml per tbsp); water contributes zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 62,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 50,
+      "proteinG": 0.06,
+      "fatG": 0.02,
+      "carbsG": 12.4,
+      "fiberG": 0.3,
+      "assumptions": "1 heaped tbsp raspberry jam (typical jam density ~20 g per tbsp); standard seedless raspberry jam values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 896.25,
+      "proteinG": 0.75,
+      "fatG": 101.25,
+      "carbsG": 0.125,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter for filling; standard butter nutrition, fully edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 483.75,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 125,
+      "fiberG": 0,
+      "assumptions": "Caster sugar (superfine white sugar); 100% carbohydrate.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 579,
+        "proteinG": 21.2,
+        "fatG": 49.9,
+        "carbsG": 9.1,
+        "fiberG": 9.1
+      },
+      "caloriesKcal": 723.75,
+      "proteinG": 26.5,
+      "fatG": 62.375,
+      "carbsG": 11.375,
+      "fiberG": 11.375,
+      "assumptions": "Ground almonds (almond meal); standard values for blanched ground almonds.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.5,
+      "proteinG": 6.3,
+      "fatG": 4.75,
+      "carbsG": 0.35,
+      "fiberG": 0,
+      "assumptions": "One large free-range egg (~50 g edible portion without shell); standard large egg nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "½ tsp almond extract (~3 g, typical density for liquid extracts); negligible nutritional contribution assumed as flavoring.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 590,
+        "proteinG": 21,
+        "fatG": 50,
+        "carbsG": 9,
+        "fiberG": 9
+      },
+      "caloriesKcal": 295,
+      "proteinG": 10.5,
+      "fatG": 25,
+      "carbsG": 4.5,
+      "fiberG": 4.5,
+      "assumptions": "Flaked almonds; standard sliced almond nutrition, fully edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52767",
+    "name": "Bakewell tart",
+    "cuisine": "British",
+    "instructions": "To make the pastry, measure the flour into a bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs. Add the water, mixing to form a soft dough.\r\nRoll out the dough on a lightly floured work surface and use to line a 20cm/8in flan tin. Leave in the fridge to chill for 30 minutes.\r\nPreheat the oven to 200C/400F/Gas 6 (180C fan).\r\nLine the pastry case with foil and fill with baking beans. Bake blind for about 15 minutes, then remove the beans and foil and cook for a further five minutes to dry out the base.\r\nFor the filing, spread the base of the flan generously with raspberry jam.\r\nMelt the butter in a pan, take off the heat and then stir in the sugar. Add ground almonds, egg and almond extract. Pour into the flan tin and sprinkle over the flaked almonds.\r\nBake for about 35 minutes. If the almonds seem to be browning too quickly, cover the tart loosely with foil to prevent them burning.",
+    "ingredients": [
+      { "position": 1, "name": "plain flour", "measurement": "175g/6oz" },
+      { "position": 2, "name": "chilled butter", "measurement": "75g/2½oz" },
+      { "position": 3, "name": "cold water", "measurement": "2-3 tbsp" },
+      { "position": 4, "name": "raspberry jam", "measurement": "1 tbsp" },
+      { "position": 5, "name": "butter", "measurement": "125g/4½oz" },
+      { "position": 6, "name": "caster sugar", "measurement": "125g/4½oz" },
+      { "position": 7, "name": "ground almonds", "measurement": "125g/4½oz" },
+      { "position": 8, "name": "free-range egg, beaten", "measurement": "1" },
+      { "position": 9, "name": "almond extract", "measurement": "½ tsp" },
+      { "position": 10, "name": "flaked almonds", "measurement": "50g/1¾oz" }
+    ]
+  }
+}

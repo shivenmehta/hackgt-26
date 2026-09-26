@@ -1,0 +1,86 @@
+{
+  "inputHash": "772a6f963665098368963c627a290e18c379b8200b857607f7f84b14f2a694fa",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:16:30.903Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 20,
+      "proteinG": 0.2,
+      "fatG": 0.1,
+      "assumptions": "1 tsp cornflour ≈ 3g; standard values for corn starch/flour"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 45,
+      "proteinG": 0.7,
+      "fatG": 0.2,
+      "assumptions": "Juice of 2 medium oranges ≈ 160-180ml total; standard orange juice values"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 15,
+      "proteinG": 0.3,
+      "fatG": 0.1,
+      "assumptions": "Zest of 1 medium orange; negligible weight ≈ 6-8g, mostly carbs from peel oils"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 100,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "2 tbs caster sugar ≈ 25g; standard sucrose values"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 240,
+      "proteinG": 5,
+      "fatG": 1.5,
+      "assumptions": "6 medium peaches, raw, edible portion only (stones removed) ≈ 600g total"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 145,
+      "proteinG": 2,
+      "fatG": 0.8,
+      "assumptions": "250g raw blueberries as stated; standard values"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 720,
+      "proteinG": 18,
+      "fatG": 3,
+      "assumptions": "200g self-raising flour as stated; standard wheat flour values"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 370,
+      "proteinG": 0.5,
+      "fatG": 41,
+      "assumptions": "50g butter as stated; standard butter values (rubbed into flour)"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 380,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "100g muscovado sugar as stated; standard brown sugar values (half used in dough, half in spicy sugar)"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 5,
+      "proteinG": 0.1,
+      "fatG": 0,
+      "assumptions": "1 tsp ground cinnamon ≈ 2.6g; standard spice values"
+    },
+    {
+      "position": 11,
+      "caloriesKcal": 110,
+      "proteinG": 6,
+      "fatG": 6,
+      "assumptions": "6 tbsp whole milk ≈ 90ml; standard whole milk values"
+    }
+  ]
+}

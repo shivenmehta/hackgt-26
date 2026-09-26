@@ -1,0 +1,121 @@
+{
+  "inputHash": "48f447be17d9ae6c7e1f86ec11cd8ee1d35d5105e2871144779a3a6e471631a1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:29:46.670Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 360,
+        "proteinG": 6.5,
+        "fatG": 0.5,
+        "carbsG": 80,
+        "fiberG": 1
+      },
+      "caloriesKcal": 1080,
+      "proteinG": 19.5,
+      "fatG": 1.5,
+      "carbsG": 240,
+      "fiberG": 3,
+      "assumptions": "Standard uncooked sushi rice (short-grain Japanese rice); values for raw/dry state before rinsing and cooking as per typical package data.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 227,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 57,
+        "fiberG": 0
+      },
+      "caloriesKcal": 34.05,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 8.55,
+      "fiberG": 0,
+      "assumptions": "1 tbs mirin ≈ 15 g (typical tablespoon weight for sweet rice wine); values typical for mirin.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 0.2,
+        "fatG": 0.1,
+        "carbsG": 4.5,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 2,
+      "proteinG": 0.02,
+      "fatG": 0.01,
+      "carbsG": 0.45,
+      "fiberG": 0.02,
+      "assumptions": "Garnish pickle juice assumed as ~10 g (small drizzle/splash for flavoring a rice dish); values approximated from typical Japanese pickle brine such as takuan or similar light vegetable brine.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.8,
+        "fatG": 0.2,
+        "carbsG": 7,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 6.4,
+      "proteinG": 0.36,
+      "fatG": 0.04,
+      "carbsG": 1.4,
+      "fiberG": 0.5,
+      "assumptions": "Garnish spring onions assumed as ~20 g chopped (a small handful sprinkled on top); values for raw edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53033",
+    "name": "Japanese gohan rice",
+    "cuisine": "Japanese",
+    "instructions": "STEP 1\r\nRinsing and soaking your rice is key to achieving the perfect texture. Measure the rice into a bowl, cover with cold water, then use your fingers to massage the grains of rice – the water will become cloudy. Drain and rinse again with fresh water. Repeat five more times until the water stays clear.\r\n\r\nSTEP 2\r\nTip the rinsed rice into a saucepan with 400ml water, or 200ml dashi and 200ml water, bring to the boil, then turn down the heat to a low simmer, cover with a tight-fitting lid with a steam hole and cook for 15 mins. Remove from the heat and leave to sit for another 15 mins, then stir through the mirin. Remove the lid and give it a good stir. Serve with any or all of the optional toppings.",
+    "ingredients": [
+      { "position": 1, "name": "Sushi Rice", "measurement": "300g" },
+      { "position": 2, "name": "Mirin", "measurement": "1 tbs" },
+      { "position": 3, "name": "Pickle Juice", "measurement": "Garnish" },
+      { "position": 4, "name": "Spring Onions", "measurement": "Garnish" }
+    ]
+  }
+}

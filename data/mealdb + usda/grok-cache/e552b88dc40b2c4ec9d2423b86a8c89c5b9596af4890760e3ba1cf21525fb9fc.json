@@ -1,0 +1,51 @@
+{
+  "inputHash": "e552b88dc40b2c4ec9d2423b86a8c89c5b9596af4890760e3ba1cf21525fb9fc",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:42.527Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 200,
+      "caloriesPer100g": null,
+      "assumptions": "Measurement given as 200g; using exactly as supplied for the entire edible portion of sugar snap peas (raw)."
+    },
+    {
+      "position": 4,
+      "grams": 60,
+      "caloriesPer100g": 32,
+      "assumptions": "Standard medium spring onion ~15g each when trimmed and sliced; 4 onions = 60g total edible portion."
+    },
+    {
+      "position": 5,
+      "grams": 20,
+      "caloriesPer100g": 23,
+      "assumptions": "A 'handful' of fresh coriander is typically ~20g of leaves and tender stems."
+    },
+    {
+      "position": 6,
+      "grams": 150,
+      "caloriesPer100g": null,
+      "assumptions": "Measurement given as 150g; using exactly as supplied for the entire edible hot-smoked flaked salmon (cooked, no skin/bone)."
+    },
+    {
+      "position": 7,
+      "grams": 30,
+      "caloriesPer100g": 338,
+      "assumptions": "'To serve' with one pretzel or bread roll per person; estimating one typical soft pretzel at ~30g edible portion (modest single serving)."
+    },
+    {
+      "position": 11,
+      "grams": 14,
+      "caloriesPer100g": 884,
+      "assumptions": "1 tablespoon of groundnut oil weighs ~14g (standard density for vegetable oils)."
+    },
+    {
+      "position": 13,
+      "grams": 10,
+      "caloriesPer100g": 80,
+      "assumptions": "A 'knob' of fresh ginger root for a dressing is typically a 10g peeled piece."
+    }
+  ]
+}

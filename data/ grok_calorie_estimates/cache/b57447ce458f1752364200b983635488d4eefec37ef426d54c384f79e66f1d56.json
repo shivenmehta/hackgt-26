@@ -1,0 +1,100 @@
+{
+  "inputHash": "b57447ce458f1752364200b983635488d4eefec37ef426d54c384f79e66f1d56",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:21:04.770Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 554,
+      "proteinG": 0.6,
+      "fatG": 62,
+      "assumptions": "75g butter contributes all its fat and calories; standard butter values used"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 615,
+      "proteinG": 15,
+      "fatG": 8,
+      "assumptions": "1kg raw leeks, edible portion after trimming ~800-900g assumed; standard raw leek nutrition scaled to 1kg"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "½ tsp salt (approx 3g) has negligible calories, protein and fat"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 585,
+      "proteinG": 7,
+      "fatG": 60,
+      "assumptions": "300ml crème fraîche (approx 300g); standard full-fat crème fraîche values used"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 72,
+      "proteinG": 6.3,
+      "fatG": 4.8,
+      "assumptions": "1 large whole egg (approx 50g edible portion); standard large egg nutrition"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 165,
+      "proteinG": 7.7,
+      "fatG": 13.8,
+      "assumptions": "3 large egg yolks (approx 51g total); standard egg yolk nutrition"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "¼ tsp nutmeg (approx 0.6g) has negligible calories, protein and fat"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 820,
+      "proteinG": 23,
+      "fatG": 3,
+      "assumptions": "225g plain white flour; standard flour nutrition scaled to 225g"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "½ tsp salt (approx 3g) has negligible calories, protein and fat"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 443,
+      "proteinG": 0.5,
+      "fatG": 50,
+      "assumptions": "60g butter; standard butter values used"
+    },
+    {
+      "position": 11,
+      "caloriesKcal": 530,
+      "proteinG": 0,
+      "fatG": 60,
+      "assumptions": "60g lard (pure fat); standard lard nutrition scaled to 60g"
+    },
+    {
+      "position": 12,
+      "caloriesKcal": 203,
+      "proteinG": 12.5,
+      "fatG": 16.7,
+      "assumptions": "50g cheddar cheese; standard cheddar values used"
+    },
+    {
+      "position": 13,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "2 tbs water (30ml) has zero calories, protein and fat"
+    }
+  ]
+}

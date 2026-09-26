@@ -1,0 +1,39 @@
+{
+  "inputHash": "71139542e7c7806527a7fff821b680374a494a37903a127e90ecdb95af2efe20",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:24.449Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 15,
+      "caloriesPer100g": 0,
+      "assumptions": "Handful of sea salt estimated at ~15g as a modest seasoning amount for 4 duck legs; salt contributes negligible calories."
+    },
+    {
+      "position": 2,
+      "grams": 2,
+      "caloriesPer100g": 313,
+      "assumptions": "4 bay leaves; each dry bay leaf ~0.5g, total 2g edible mass (leaves only)."
+    },
+    {
+      "position": 4,
+      "grams": 5,
+      "caloriesPer100g": 101,
+      "assumptions": "Handful of thyme estimated at ~5g fresh herb sprigs as modest seasoning; only leaves/needles considered edible."
+    },
+    {
+      "position": 5,
+      "grams": 1200,
+      "caloriesPer100g": 280,
+      "assumptions": "4 duck legs; typical bone-in skin-on leg is ~300g each (edible meat+skin+fat portion after cooking, accounting for ~20-25% bone weight loss from raw ~380g total leg). Calorie density based on typical rendered duck leg confit values (high fat content)."
+    },
+    {
+      "position": 6,
+      "grams": 99,
+      "caloriesPer100g": 82,
+      "assumptions": "100ml white wine; density ~0.99g/ml, so ~99g. Calories copied from known value (wine is fully consumed in cooking liquid)."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "inputHash": "a56c7998839d1a7e3bbe63e28e0961af2c82608d6549761ee5c8494c6ba5f82f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:31:07.918Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 240,
+        "proteinG": 2.8,
+        "fatG": 0.6,
+        "carbsG": 62.5,
+        "fiberG": 5.1
+      },
+      "caloriesKcal": 1089.6,
+      "proteinG": 12.711999999999998,
+      "fatG": 2.7239999999999998,
+      "carbsG": 283.75,
+      "fiberG": 23.153999999999996,
+      "assumptions": "16 oz tamarind pulp estimated at 454g; using typical values for tamarind pulp with seeds removed as implied by 'pulp' in a candy recipe; raw edible portion.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1161,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 300,
+      "fiberG": 0,
+      "assumptions": "1.5 cups granulated sugar estimated at 300g (standard 200g per cup); all sugar is used in the recipe (1 cup mashed in + 0.5 cup for coating).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53360",
+    "name": "Caribbean Tamarind balls",
+    "cuisine": "Jamaican",
+    "instructions": "Add tamarind pulp and 1 cup granulated sugar to a bowl and mash together with a spoon or fork. Take small amounts of the tamarind and sugar mix and shape them into small balls by rolling them in your hands. Make them the size of a marble or slightly bigger, as you like.\r\nAdd the remaining sugar to a flat surface, like a plate or a sheet pan. Roll the tamarind balls in granulated sugar until they're well-coated.\r\nYou can eat the tamarind balls immediately, or you can let them set for a few hours or overnight. Allowing them to set will give them a firmer texture and more crystallized sugar coating. Enjoy.",
+    "ingredients": [
+      { "position": 1, "name": "Tamarind Pulp", "measurement": "16 ounces" },
+      { "position": 2, "name": "Sugar", "measurement": "1 1/2 cups" }
+    ]
+  }
+}

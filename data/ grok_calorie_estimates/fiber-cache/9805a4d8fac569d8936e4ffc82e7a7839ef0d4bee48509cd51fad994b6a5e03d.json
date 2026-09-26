@@ -1,0 +1,93 @@
+{
+  "inputHash": "9805a4d8fac569d8936e4ffc82e7a7839ef0d4bee48509cd51fad994b6a5e03d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:37.188Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 average boneless skinless chicken breast ~170g raw; plain meat has no carbs"
+    },
+    {
+      "position": 2,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1/4 cup pickle juice ~60ml; typical dill pickle brine has ~1g carb from vinegar/salt"
+    },
+    {
+      "position": 3,
+      "carbsG": 0.4,
+      "fiberG": 0,
+      "assumptions": "1 large whole egg ~50g; trace carbs only"
+    },
+    {
+      "position": 4,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "1/4 cup whole milk ~60ml; standard lactose content"
+    },
+    {
+      "position": 5,
+      "carbsG": 48,
+      "fiberG": 1.7,
+      "assumptions": "1/2 cup all-purpose flour ~65g; standard white flour values"
+    },
+    {
+      "position": 6,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon icing sugar ~12g; nearly pure sucrose"
+    },
+    {
+      "position": 7,
+      "carbsG": 0.5,
+      "fiberG": 0.3,
+      "assumptions": "1/2 tsp paprika; modest quantity for seasoning"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp table salt; negligible macros"
+    },
+    {
+      "position": 9,
+      "carbsG": 0.4,
+      "fiberG": 0.2,
+      "assumptions": "1/4 tsp ground black pepper; modest quantity for seasoning"
+    },
+    {
+      "position": 10,
+      "carbsG": 0.7,
+      "fiberG": 0.1,
+      "assumptions": "1/4 tsp garlic powder; modest quantity for seasoning"
+    },
+    {
+      "position": 11,
+      "carbsG": 0.4,
+      "fiberG": 0.1,
+      "assumptions": "1/4 tsp celery salt; modest quantity for seasoning"
+    },
+    {
+      "position": 12,
+      "carbsG": 0.4,
+      "fiberG": 0.2,
+      "assumptions": "1/2 tsp cayenne pepper; modest quantity for seasoning"
+    },
+    {
+      "position": 13,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 cup olive oil total listed but only ~2-3 tbsp actually absorbed; pure oil has no carbs"
+    },
+    {
+      "position": 14,
+      "carbsG": 28,
+      "fiberG": 1,
+      "assumptions": "1 standard sesame seed burger bun ~50-60g; typical enriched white bun values"
+    }
+  ]
+}

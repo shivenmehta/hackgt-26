@@ -1,0 +1,199 @@
+{
+  "inputHash": "90b9ebb82b5ca48a52a1a8ebfc1e9f732e6e2b77ddc87fbacbb2e12753cf3dba",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:24:55.037Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 15,
+        "proteinG": 0.7,
+        "fatG": 0.1,
+        "carbsG": 3.6,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 90,
+      "proteinG": 4.2,
+      "fatG": 0.6,
+      "carbsG": 21.6,
+      "fiberG": 3,
+      "assumptions": "2 medium cucumbers ≈ 600g total edible weight after peeling and seeding if needed; standard values for raw cucumber.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp table salt weighs ≈3g; sodium chloride contributes zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 79.56,
+      "proteinG": 0,
+      "fatG": 9,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp sesame oil weighs ≈9g; typical pure sesame oil values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.03,
+      "fatG": 0,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "2 Tbsp seasoned rice vinegar ≈30g (slightly sweetened/salted variety); low-calorie estimate based on typical Asian seasoned vinegar.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 3.2,
+        "fatG": 0.6,
+        "carbsG": 2.7,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 2.3,
+      "proteinG": 0.32,
+      "fatG": 0.06,
+      "carbsG": 0.27,
+      "fiberG": 0.16,
+      "assumptions": "6 fresh basil leaves ≈10g; standard fresh basil leaf nutrition, optional but included as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 12,
+        "fatG": 13,
+        "carbsG": 52,
+        "fiberG": 35
+      },
+      "caloriesKcal": 2.82,
+      "proteinG": 0.12,
+      "fatG": 0.13,
+      "carbsG": 0.52,
+      "fiberG": 0.35,
+      "assumptions": "1/2 tsp red chili flakes weighs ≈1g; typical dried chili flake values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 573,
+        "proteinG": 17,
+        "fatG": 50,
+        "carbsG": 23,
+        "fiberG": 12
+      },
+      "caloriesKcal": 34.38,
+      "proteinG": 1.02,
+      "fatG": 3,
+      "carbsG": 1.38,
+      "fiberG": 0.72,
+      "assumptions": "2 tsp toasted sesame seeds weighs ≈6g; standard toasted sesame seed nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53378",
+    "name": "Sesame Cucumber Salad",
+    "cuisine": "Chinese",
+    "instructions": "Prep the cucumbers:\r\nPeel the cucumbers. Cut them into quarters, lengthwise. (If the seeds are bitter, scrape out the seeds and discard.) Cut the cucumbers again, crosswise, into 1/2-inch thick pieces.\r\n\r\nToss the salad:\r\nPlace cucumbers into a serving bowl. Sprinkle with salt. Toss with sesame oil, seasoned rice vinegar, basil (if using), and chili flakes. Sprinkle with toasted sesame seeds if using.",
+    "ingredients": [
+      { "position": 1, "name": "Cucumber", "measurement": "2 medium" },
+      { "position": 2, "name": "Salt", "measurement": "1/2 tsp" },
+      { "position": 3, "name": "Sesame Seed Oil", "measurement": "2 tsp" },
+      { "position": 4, "name": "Rice Vinegar", "measurement": "2 tablespoons" },
+      { "position": 5, "name": "Basil Leaves", "measurement": "6" },
+      { "position": 6, "name": "Red Chilli Flakes", "measurement": "1/2 tsp" },
+      { "position": 7, "name": "Sesame Seed", "measurement": "2 tsp" }
+    ]
+  }
+}

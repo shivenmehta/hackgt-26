@@ -1,0 +1,57 @@
+{
+  "inputHash": "79abde07bd0985f4febe5da7a053debd238300b57283a0ab23c626f5f5c8400a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:03.424Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 162,
+      "fiberG": 20,
+      "assumptions": "900 g raw potatoes, skin-on, edible portion only"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbsp olive oil (45 ml total)"
+    },
+    {
+      "position": 3,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (110 g) chopped"
+    },
+    {
+      "position": 4,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "1 clove garlic crushed"
+    },
+    {
+      "position": 5,
+      "carbsG": 4,
+      "fiberG": 3,
+      "assumptions": "1 tbsp smoked paprika"
+    },
+    {
+      "position": 6,
+      "carbsG": 3,
+      "fiberG": 1,
+      "assumptions": "1 tbsp tomato puree"
+    },
+    {
+      "position": 7,
+      "carbsG": 8,
+      "fiberG": 2,
+      "assumptions": "225 g drained tinned chopped tomatoes"
+    },
+    {
+      "position": 8,
+      "carbsG": 0.2,
+      "fiberG": 0.2,
+      "assumptions": "basil leaves to serve (small handful, ~5 g)"
+    }
+  ]
+}

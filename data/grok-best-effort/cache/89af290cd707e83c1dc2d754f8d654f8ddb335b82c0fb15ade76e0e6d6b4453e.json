@@ -1,0 +1,147 @@
+{
+  "inputHash": "89af290cd707e83c1dc2d754f8d654f8ddb335b82c0fb15ade76e0e6d6b4453e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:13.288Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 280,
+        "proteinG": 12,
+        "fatG": 24,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2240,
+      "proteinG": 96,
+      "fatG": 192,
+      "carbsG": 24,
+      "fiberG": 0,
+      "assumptions": "Typical British pork sausages; 100 g each for large size, raw weight before frying (edible portion).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 1.5,
+        "fatG": 3,
+        "carbsG": 12,
+        "fiberG": 2
+      },
+      "caloriesKcal": 320,
+      "proteinG": 6,
+      "fatG": 12,
+      "carbsG": 48,
+      "fiberG": 8,
+      "assumptions": "Standard 400 g jar of tomato pasta sauce (common UK size), entire jar used as per recipe; values for typical tomato-based sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 1200,
+      "per100g": {
+        "caloriesKcal": 110,
+        "proteinG": 7,
+        "fatG": 0.5,
+        "carbsG": 16,
+        "fiberG": 5.5
+      },
+      "caloriesKcal": 1320,
+      "proteinG": 84,
+      "fatG": 6,
+      "carbsG": 192,
+      "fiberG": 66,
+      "assumptions": "Canned butter beans in water, entire 1200 g (likely 3 x 400 g cans including liquid as recipe adds them directly); typical drained-equivalent adjusted for recipe use.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 310,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 75,
+        "fiberG": 0
+      },
+      "caloriesKcal": 62,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 15,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon black treacle (molasses); standard measure is ~20 g, all carbohydrates from sugars.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 4,
+        "fatG": 4,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 3,
+      "proteinG": 0.2,
+      "fatG": 0.2,
+      "carbsG": 0.15,
+      "fiberG": 0,
+      "assumptions": "1 teaspoon English mustard; standard measure is ~5 g, typical prepared mustard values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52848",
+    "name": "Bean & Sausage Hotpot",
+    "cuisine": "British",
+    "instructions": "In a large casserole, fry the sausages until brown all over – about 10 mins.\r\n\r\nAdd the tomato sauce, stirring well, then stir in the beans, treacle or sugar and mustard. Bring to the simmer, cover and cook for 30 mins. Great served with crusty bread or rice.",
+    "ingredients": [
+      { "position": 1, "name": "Sausages", "measurement": "8 large" },
+      { "position": 2, "name": "Tomato Sauce", "measurement": "1 Jar" },
+      { "position": 3, "name": "Butter Beans", "measurement": "1200g" },
+      { "position": 4, "name": "Black Treacle", "measurement": "1 tbls" },
+      { "position": 5, "name": "English Mustard", "measurement": "1 tsp" }
+    ]
+  }
+}

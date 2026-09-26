@@ -1,0 +1,329 @@
+{
+  "inputHash": "e77bd9909c1e6615b1a02a31a2afd65d956a9032499bb92a7531feb0a6e3e6cf",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:25.104Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 118,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard tap water at room temperature; 1/2 cup = 118 ml ≈ 118 g; zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 325,
+        "proteinG": 41,
+        "fatG": 8,
+        "carbsG": 41,
+        "fiberG": 27
+      },
+      "caloriesKcal": 45.5,
+      "proteinG": 5.74,
+      "fatG": 1.12,
+      "carbsG": 5.74,
+      "fiberG": 3.78,
+      "assumptions": "Active dry yeast; '2 parts' interpreted as 2 standard 7 g packets typical for this sized recipe (total 14 g); values reflect typical commercial yeast.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 387,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "White granulated sugar; 1/2 cup = 100 g; used in dough.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 122,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 51.24,
+      "proteinG": 4.148,
+      "fatG": 1.22,
+      "carbsG": 6.1,
+      "fiberG": 0,
+      "assumptions": "Whole cow's milk; 1/2 cup = 122 g; warmed as per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 609.45,
+      "proteinG": 0.765,
+      "fatG": 68.85,
+      "carbsG": 0.085,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; 6 tablespoons = 85 g; melted as per instructions.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143,
+      "proteinG": 13,
+      "fatG": 10,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "Large whole eggs; 2 eggs ≈ 100 g edible portion without shell.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1.5 tsp ≈ 9 g; zero macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 313,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 1139.32,
+      "proteinG": 31.3,
+      "fatG": 3.13,
+      "carbsG": 237.88,
+      "fiberG": 9.39,
+      "assumptions": "All-purpose white wheat flour; 2.5 cups ≈ 313 g; forms the bulk of the dough.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 353.6,
+      "proteinG": 0,
+      "fatG": 40,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Vegetable frying oil (e.g. canola); 'for frying' estimated at 40 g absorbed per beaver tail across 12 pieces based on typical deep-fried pastry absorption at 350 °F.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 9,
+        "fiberG": 3
+      },
+      "caloriesKcal": 4.35,
+      "proteinG": 0.165,
+      "fatG": 0.045,
+      "carbsG": 1.35,
+      "fiberG": 0.45,
+      "assumptions": "Fresh lemon wedges for garnish/squeeze; estimated 15 g total edible across 12 servings (≈ 1 small lemon).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 193.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 50,
+      "fiberG": 0,
+      "assumptions": "White granulated sugar for post-fry garnish/tossing; estimated 50 g total used across 12 beaver tails.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 4,
+        "fatG": 4,
+        "carbsG": 80,
+        "fiberG": 53
+      },
+      "caloriesKcal": 25,
+      "proteinG": 0.4,
+      "fatG": 0.4,
+      "carbsG": 8,
+      "fiberG": 5.3,
+      "assumptions": "Ground cinnamon for garnish; estimated 10 g total sprinkled across 12 pieces.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52928",
+    "name": "BeaverTails",
+    "cuisine": "Canadian",
+    "instructions": "In the bowl of a stand mixer, add warm water, a big pinch of sugar and yeast. Allow to sit until frothy.\r\nInto the same bowl, add 1/2 cup sugar, warm milk, melted butter, eggs and salt, and whisk until combined.\r\nPlace a dough hook on the mixer, add the flour with the machine on, until a smooth but slightly sticky dough forms.\r\nPlace dough in a bowl, cover with plastic wrap, and allow to proof for 1 1/2 hours.\r\nCut dough into 12 pieces, and roll out into long oval-like shapes about 1/4 inch thick that resemble a beaver’s tail.\r\nIn a large, deep pot, heat oil to 350 degrees. Gently place beavertail dough into hot oil and cook for 30 to 45 seconds on each side until golden brown.\r\nDrain on paper towels, and garnish as desired. Toss in cinnamon sugar, in white sugar with a squeeze of lemon, or with a generous slathering of Nutella and a handful of toasted almonds. Enjoy!",
+    "ingredients": [
+      { "position": 1, "name": "Water", "measurement": "1/2 cup" },
+      { "position": 2, "name": "Yeast", "measurement": "2 parts" },
+      { "position": 3, "name": "Sugar", "measurement": "1/2 cup" },
+      { "position": 4, "name": "Milk", "measurement": "1/2 cup" },
+      { "position": 5, "name": "Butter", "measurement": "6 tblsp" },
+      { "position": 6, "name": "Eggs", "measurement": "2" },
+      { "position": 7, "name": "Salt", "measurement": "1 ½ tsp" },
+      { "position": 8, "name": "Flour", "measurement": "2-1/2 cups" },
+      { "position": 9, "name": "Oil", "measurement": "for frying" },
+      { "position": 10, "name": "Lemon", "measurement": "garnish" },
+      { "position": 11, "name": "Sugar", "measurement": "garnish" },
+      { "position": 12, "name": "Cinnamon", "measurement": "garnish" }
+    ]
+  }
+}

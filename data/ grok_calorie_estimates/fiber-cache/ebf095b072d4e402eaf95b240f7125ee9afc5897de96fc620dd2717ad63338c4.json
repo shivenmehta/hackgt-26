@@ -1,0 +1,81 @@
+{
+  "inputHash": "ebf095b072d4e402eaf95b240f7125ee9afc5897de96fc620dd2717ad63338c4",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:28.502Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp (14g) neutral cooking oil (e.g. vegetable/olive); pure fat, no carbs"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 whole medium chicken (~1.5kg raw, skin-on, bone-in); pure meat/skin, no carbs"
+    },
+    {
+      "position": 3,
+      "carbsG": 14,
+      "fiberG": 2.5,
+      "assumptions": "1 large onion (~150g chopped raw weight); standard onion carb values"
+    },
+    {
+      "position": 4,
+      "carbsG": 7.5,
+      "fiberG": 2.5,
+      "assumptions": "1 medium red pepper (~120g chopped raw weight); standard pepper carb values"
+    },
+    {
+      "position": 5,
+      "carbsG": 3,
+      "fiberG": 0.2,
+      "assumptions": "3 garlic cloves (~15g crushed); standard garlic carb values"
+    },
+    {
+      "position": 6,
+      "carbsG": 4.5,
+      "fiberG": 0,
+      "assumptions": "225g chorizo sausage (standard cured Spanish-style); low-carb cured meat"
+    },
+    {
+      "position": 7,
+      "carbsG": 3,
+      "fiberG": 0.7,
+      "assumptions": "1 tbsp tomato puree (~15g); standard tomato paste carb values"
+    },
+    {
+      "position": 8,
+      "carbsG": 0.5,
+      "fiberG": 0.3,
+      "assumptions": "1 tbsp chopped fresh thyme (~3g); standard fresh herb carb values"
+    },
+    {
+      "position": 9,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "150ml dry white wine; residual sugars after fermentation"
+    },
+    {
+      "position": 10,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "800ml chicken stock (standard low-fat broth); minimal carbs from bones/veg"
+    },
+    {
+      "position": 11,
+      "carbsG": 320,
+      "fiberG": 4,
+      "assumptions": "400g uncooked white rice (long-grain or paella rice; dry weight); standard white rice carb values (~80g carbs/100g)"
+    },
+    {
+      "position": 12,
+      "carbsG": 1,
+      "fiberG": 0.5,
+      "assumptions": "2 tbsp chopped fresh parsley (~8g); standard fresh herb carb values"
+    }
+  ]
+}

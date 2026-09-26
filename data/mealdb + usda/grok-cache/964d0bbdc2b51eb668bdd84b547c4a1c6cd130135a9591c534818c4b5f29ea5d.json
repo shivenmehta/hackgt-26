@@ -1,0 +1,51 @@
+{
+  "inputHash": "964d0bbdc2b51eb668bdd84b547c4a1c6cd130135a9591c534818c4b5f29ea5d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:17.037Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 4,
+      "grams": 0.3,
+      "caloriesPer100g": 251,
+      "assumptions": "1 pinch white pepper estimated at ~0.3g (typical for a small pinch of ground spice)."
+    },
+    {
+      "position": 6,
+      "grams": 24,
+      "caloriesPer100g": 381,
+      "assumptions": "3 tbs total starch (cornstarch) at ~8g per tablespoon; standard density for cornstarch used in marinades and thickening."
+    },
+    {
+      "position": 10,
+      "grams": 120,
+      "caloriesPer100g": 38,
+      "assumptions": "3/4 cup chopped onion; standard volume-to-weight conversion for raw chopped onion ~160g per cup, adjusted for typical stir-fry prep."
+    },
+    {
+      "position": 11,
+      "grams": 64,
+      "caloriesPer100g": 48,
+      "assumptions": "1/2 cup sliced carrots; standard ~128g per cup for sliced raw carrots, using edible portion only."
+    },
+    {
+      "position": 12,
+      "grams": 111,
+      "caloriesPer100g": 22.9,
+      "assumptions": "3/4 cup chopped green bell pepper; standard ~149g per cup for chopped raw pepper, edible portion."
+    },
+    {
+      "position": 13,
+      "grams": 101,
+      "caloriesPer100g": 16.7,
+      "assumptions": "1 cup chopped celery; standard ~101g per cup for raw chopped celery, fully edible."
+    },
+    {
+      "position": 14,
+      "grams": 70,
+      "caloriesPer100g": 31.2,
+      "assumptions": "1 cup sliced raw mushrooms (button or similar); standard ~70g per cup for sliced fresh mushrooms, fully edible."
+    }
+  ]
+}

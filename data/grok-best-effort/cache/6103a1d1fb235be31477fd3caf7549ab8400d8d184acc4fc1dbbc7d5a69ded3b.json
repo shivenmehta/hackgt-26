@@ -1,0 +1,259 @@
+{
+  "inputHash": "6103a1d1fb235be31477fd3caf7549ab8400d8d184acc4fc1dbbc7d5a69ded3b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:30:06.423Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 150,
+      "proteinG": 6,
+      "fatG": 1.2,
+      "carbsG": 36,
+      "fiberG": 18,
+      "assumptions": "2 medium aubergines, each ~300g raw edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 247.52,
+      "proteinG": 0,
+      "fatG": 28,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp vegetable oil for brushing aubergine slices",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 3.2,
+        "carbsG": 49,
+        "fiberG": 3
+      },
+      "caloriesKcal": 198.75,
+      "proteinG": 6.75,
+      "fatG": 2.4,
+      "carbsG": 36.75,
+      "fiberG": 2.25,
+      "assumptions": "3 thin slices white bread (~25g each) turned into crumbs",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 170,
+        "proteinG": 7,
+        "fatG": 10,
+        "carbsG": 12,
+        "fiberG": 4
+      },
+      "caloriesKcal": 510,
+      "proteinG": 21,
+      "fatG": 30,
+      "carbsG": 36,
+      "fiberG": 12,
+      "assumptions": "300g plain hummus (used in two parts: most for topping, remainder as serving dollop)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 654,
+        "proteinG": 15,
+        "fatG": 65,
+        "carbsG": 14,
+        "fiberG": 7
+      },
+      "caloriesKcal": 654,
+      "proteinG": 15,
+      "fatG": 65,
+      "carbsG": 14,
+      "fiberG": 7,
+      "assumptions": "100g shelled walnuts for the salad",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.7,
+        "carbsG": 6,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 1.2,
+      "fatG": 0.28,
+      "carbsG": 2.4,
+      "fiberG": 1.32,
+      "assumptions": "40g fresh flat-leaf parsley, leaves and stems",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 4,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 36,
+      "proteinG": 2,
+      "fatG": 0.4,
+      "carbsG": 8,
+      "fiberG": 2.4,
+      "assumptions": "200g raw cherry tomatoes, halved for salad",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.5,
+        "fatG": 0.1,
+        "carbsG": 9,
+        "fiberG": 0.4
+      },
+      "caloriesKcal": 7.25,
+      "proteinG": 0.125,
+      "fatG": 0.025,
+      "carbsG": 2.25,
+      "fiberG": 0.1,
+      "assumptions": "Juice from half a medium lemon (~25g juice only, no peel or pith)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 88.4,
+      "proteinG": 0,
+      "fatG": 10,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Splash of extra virgin olive oil for dressing (~10g / 2 tsp plausible for light salad toss)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53278",
+    "name": "Aubergine & hummus grills",
+    "cuisine": "Turkish",
+    "instructions": "step 1\r\nLay the aubergine out in one layer on a large baking sheet. Brush sparingly with vegetable oil, then season generously. Grill for 15 mins, turning twice and brushing with oil until the slices are softened and cooked through. Meanwhile, whizz the bread into crumbs. Add 2 tsp oil and whizz briefly again, to coat.\r\n\r\nstep 2\r\nSpread a couple of tsps of hummus on top of each slice of aubergine. Tip the breadcrumbs onto a large plate, then press the hummus side of the aubergines into the crumbs to coat. Grill again, crumb-side up, for about 3 mins until golden.\r\n\r\nstep 3\r\nToss the walnuts, parsley and cherry tomatoes in a bowl, season, then add the lemon juice and olive oil and toss again. Serve the grills with the salad, a dollop more hummus and some pitta bread.",
+    "ingredients": [
+      { "position": 1, "name": "Aubergine", "measurement": "2" },
+      {
+        "position": 2,
+        "name": "Vegetable Oil",
+        "measurement": "2 tablespoons"
+      },
+      { "position": 3, "name": "Bread", "measurement": "3 sliced thinly" },
+      { "position": 4, "name": "Hummus", "measurement": "300g" },
+      { "position": 5, "name": "Walnuts", "measurement": "100g" },
+      { "position": 6, "name": "Parsley", "measurement": "40g" },
+      { "position": 7, "name": "Cherry Tomatoes", "measurement": "200g" },
+      { "position": 8, "name": "Lemon", "measurement": "Juice of 1/2" },
+      {
+        "position": 9,
+        "name": "Extra Virgin Olive Oil",
+        "measurement": "Splash"
+      }
+    ]
+  }
+}

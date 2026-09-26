@@ -1,0 +1,381 @@
+{
+  "inputHash": "0b73f965f9c248d2910c7a0d96a9d58bf639dd38c6ae95ac6d4b451f72d1afd9",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:05.189Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 172,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 283.8,
+      "proteinG": 53.32,
+      "fatG": 6.192,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Boneless, skinless chicken breast; typical 6 oz / 172g size for one breast used in sandwich recipes",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 8,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 4.8,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1.02,
+      "fiberG": 0,
+      "assumptions": "Dill pickle juice; 1/4 cup = 60 ml, mostly water with salt/vinegar, negligible macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.5,
+      "proteinG": 6.3,
+      "fatG": 4.75,
+      "carbsG": 0.35,
+      "fiberG": 0,
+      "assumptions": "Large whole egg; standard 50g edible portion without shell",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 25.2,
+      "proteinG": 2.04,
+      "fatG": 0.6,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "Cow's milk (2%); 1/4 cup = 60 ml",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 63,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 229.32,
+      "proteinG": 6.489000000000001,
+      "fatG": 0.63,
+      "carbsG": 48.068999999999996,
+      "fiberG": 1.7010000000000003,
+      "assumptions": "All-purpose white flour; 1/2 cup = 63g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 46.44,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "Powdered/icing sugar; 1 tablespoon = 12g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14,
+        "fatG": 13,
+        "carbsG": 54,
+        "fiberG": 35
+      },
+      "caloriesKcal": 2.82,
+      "proteinG": 0.14,
+      "fatG": 0.13,
+      "carbsG": 0.54,
+      "fiberG": 0.35,
+      "assumptions": "Paprika; 1/2 tsp ≈ 1g, high fiber typical of dried spice",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Table salt; 1/2 tsp ≈ 3g, zero calories/macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 0.5,
+      "per100g": {
+        "caloriesKcal": 255,
+        "proteinG": 11,
+        "fatG": 3,
+        "carbsG": 64,
+        "fiberG": 25
+      },
+      "caloriesKcal": 1.275,
+      "proteinG": 0.055,
+      "fatG": 0.015,
+      "carbsG": 0.32,
+      "fiberG": 0.125,
+      "assumptions": "Ground black pepper; 1/4 tsp ≈ 0.5g, typical dried spice values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 0.7,
+      "per100g": {
+        "caloriesKcal": 331,
+        "proteinG": 17,
+        "fatG": 0.6,
+        "carbsG": 72,
+        "fiberG": 9
+      },
+      "caloriesKcal": 2.3169999999999997,
+      "proteinG": 0.11899999999999998,
+      "fatG": 0.0042,
+      "carbsG": 0.504,
+      "fiberG": 0.063,
+      "assumptions": "Garlic powder; 1/4 tsp ≈ 0.7g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 0.5,
+      "per100g": {
+        "caloriesKcal": 240,
+        "proteinG": 9,
+        "fatG": 2,
+        "carbsG": 60,
+        "fiberG": 15
+      },
+      "caloriesKcal": 1.2,
+      "proteinG": 0.045,
+      "fatG": 0.01,
+      "carbsG": 0.3,
+      "fiberG": 0.075,
+      "assumptions": "Celery salt; 1/4 tsp ≈ 0.5g (blend of salt + celery seed); macros reflect dried herb mix",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 318,
+        "proteinG": 12,
+        "fatG": 17,
+        "carbsG": 57,
+        "fiberG": 27
+      },
+      "caloriesKcal": 3.18,
+      "proteinG": 0.12,
+      "fatG": 0.17,
+      "carbsG": 0.57,
+      "fiberG": 0.27,
+      "assumptions": "Cayenne pepper; 1/2 tsp ≈ 1g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 265.2,
+      "proteinG": 0,
+      "fatG": 30,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Olive oil for frying; 1 cup listed but only ~2 tbsp/30g absorbed by chicken and coating in typical shallow skillet fry (most oil remains in pan and is not eaten)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 279,
+        "proteinG": 9.5,
+        "fatG": 4,
+        "carbsG": 49,
+        "fiberG": 2
+      },
+      "caloriesKcal": 139.5,
+      "proteinG": 4.75,
+      "fatG": 2,
+      "carbsG": 24.5,
+      "fiberG": 1,
+      "assumptions": "Sesame seed hamburger bun; standard 50g bun (toasted but no added fat assumed)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53016",
+    "name": "Chick-Fil-A Sandwich",
+    "cuisine": "American",
+    "instructions": "Wrap the chicken loosely between plastic wrap and pound gently with the flat side of a meat tenderizer until about 1/2 inch thick all around.\r\nCut into two pieces, as even as possible.\r\nMarinate in the pickle juice for 30 minutes to one hour (add a teaspoon of Tabasco sauce now for a spicy sandwich).\r\nBeat the egg with the milk in a bowl.\r\nCombine the flour, sugar, and spices in another bowl.\r\nDip the chicken pieces each into the egg on both sides, then coat in flour on both sides.\r\nHeat the oil in a skillet (1/2 inch deep) to about 345-350.\r\nFry each cutlet for 2 minutes on each side, or until golden and cooked through.\r\nBlot on paper and serve on toasted buns with pickle slices.",
+    "ingredients": [
+      { "position": 1, "name": "Chicken Breast", "measurement": "1" },
+      { "position": 2, "name": "Pickle Juice", "measurement": "1/4 cup" },
+      { "position": 3, "name": "Egg", "measurement": "1" },
+      { "position": 4, "name": "Milk", "measurement": "1/4 cup" },
+      { "position": 5, "name": "Flour", "measurement": "1/2 cup" },
+      { "position": 6, "name": "Icing Sugar", "measurement": "1 tbs" },
+      { "position": 7, "name": "Paprika", "measurement": "1/2 tsp" },
+      { "position": 8, "name": "Salt", "measurement": "1/2 tsp" },
+      { "position": 9, "name": "Black Pepper", "measurement": "1/4 tsp" },
+      { "position": 10, "name": "Garlic Powder", "measurement": "1/4 tsp" },
+      { "position": 11, "name": "Celery Salt", "measurement": "1/4 tsp" },
+      { "position": 12, "name": "Cayenne Pepper", "measurement": "1/2 tsp" },
+      { "position": 13, "name": "Olive Oil", "measurement": "1 cup" },
+      { "position": 14, "name": "Sesame Seed Burger Buns", "measurement": "1" }
+    ]
+  }
+}

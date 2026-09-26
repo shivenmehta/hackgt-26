@@ -1,0 +1,86 @@
+{
+  "inputHash": "1a3b161b9486bb972509a52be4bf1aa350249d2044946994427a1c10194a0cfb",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:16:04.003Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 3000,
+      "proteinG": 400,
+      "fatG": 150,
+      "assumptions": "4.5 lb (2041 g) raw, edible portion of beef brisket (flat cut, ~20% fat trimmed where excess); standard values for raw brisket ~147 kcal, 19.6 g protein, 7.4 g fat per 100 g"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "dash of salt contributes negligible macros"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 180,
+      "proteinG": 6,
+      "fatG": 0,
+      "assumptions": "3 medium onions (330 g total raw, peeled and chopped); ~55 kcal, 2 g protein per onion"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 20,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "5 cloves garlic (~15 g total raw, minced); standard ~4 kcal and 0.2 g protein per clove"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 2,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 fresh thyme sprig (~2 g); negligible contribution"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 3,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 fresh rosemary sprig (~3 g); negligible contribution"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "4 bay leaves (~2 g total); negligible contribution"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 30,
+      "proteinG": 6,
+      "fatG": 0,
+      "assumptions": "2 cups (480 ml) beef stock; standard low-sodium stock ~15 kcal and 3 g protein per cup"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 150,
+      "proteinG": 3,
+      "fatG": 1,
+      "assumptions": "3 large carrots (360 g total raw, peeled and cut); ~50 kcal, 1 g protein, 0.3 g fat per carrot"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 15,
+      "proteinG": 1,
+      "fatG": 1,
+      "assumptions": "1 Tbsp (15 g) prepared mustard; standard Dijon-style values"
+    },
+    {
+      "position": 11,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "4 potatoes for mashing - quantity/weight not specified in ingredients list; cannot reasonably estimate total contribution without stated amount (e.g. number or weight)"
+    }
+  ]
+}

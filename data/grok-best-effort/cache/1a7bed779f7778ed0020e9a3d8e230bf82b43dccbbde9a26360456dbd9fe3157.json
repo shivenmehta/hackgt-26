@@ -1,0 +1,333 @@
+{
+  "inputHash": "1a7bed779f7778ed0020e9a3d8e230bf82b43dccbbde9a26360456dbd9fe3157",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:26:10.543Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 1092,
+      "proteinG": 30,
+      "fatG": 3,
+      "carbsG": 228,
+      "fiberG": 9,
+      "assumptions": "Standard plain white wheat flour; typical dry values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 537.75,
+      "proteinG": 0.675,
+      "fatG": 60.75,
+      "carbsG": 0.075,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; standard values for pure butterfat product.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 342,
+        "proteinG": 6,
+        "fatG": 34,
+        "carbsG": 4.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 342,
+      "proteinG": 6,
+      "fatG": 34,
+      "carbsG": 4.1,
+      "fiberG": 0,
+      "assumptions": "Full-fat cream cheese; typical values for block-style product used in pastry.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 97,
+        "fiberG": 0
+      },
+      "caloriesKcal": 46.44,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 11.64,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon icing (powdered) sugar weighs ~12g; nearly pure sucrose.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1075.5,
+      "proteinG": 1.35,
+      "fatG": 121.5,
+      "carbsG": 0.15,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; standard values for pure butterfat product.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 261,
+        "proteinG": 0,
+        "fatG": 0.1,
+        "carbsG": 67,
+        "fiberG": 0
+      },
+      "caloriesKcal": 574.2,
+      "proteinG": 0,
+      "fatG": 0.22,
+      "carbsG": 147.4,
+      "fiberG": 0,
+      "assumptions": "Pure maple syrup; 200ml converted using density ~1.1 g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 950,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 245,
+      "fiberG": 0,
+      "assumptions": "Light brown soft sugar; typical values with minor molasses content.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 380,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 98,
+      "fiberG": 0,
+      "assumptions": "Dark brown soft sugar; typical values with minor molasses content.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 286,
+      "proteinG": 26,
+      "fatG": 20,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "4 large whole eggs; ~50g edible portion per egg, raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 13,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0.005,
+      "fatG": 0,
+      "carbsG": 0.65,
+      "fiberG": 0,
+      "assumptions": "1 tsp vanilla extract weighs ~5g; typical alcohol-based extract.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 691,
+        "proteinG": 9,
+        "fatG": 72,
+        "carbsG": 14,
+        "fiberG": 10
+      },
+      "caloriesKcal": 2764,
+      "proteinG": 36,
+      "fatG": 288,
+      "carbsG": 56,
+      "fiberG": 40,
+      "assumptions": "Raw pecan nut halves/kernels; standard nut values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 480,
+        "proteinG": 4,
+        "fatG": 30,
+        "carbsG": 60,
+        "fiberG": 7
+      },
+      "caloriesKcal": 960,
+      "proteinG": 8,
+      "fatG": 60,
+      "carbsG": 120,
+      "fiberG": 14,
+      "assumptions": "Standard dark chocolate chips; typical 50-60% cocoa values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52856",
+    "name": "Choc Chip Pecan Pie",
+    "cuisine": "American",
+    "instructions": "First, make the pastry. Tip the ingredients into a food processor with 1 /4 tsp salt. Blend until the mixture resembles breadcrumbs. Drizzle 2-3 tsp cold water into the funnel while the blade is running – the mixture should start to clump together. Tip onto a work surface and bring together, kneading briefly into a ball. Pat into a disc, wrap in cling film, and chill for at least 20 mins. Heat oven to 200C/180C fan/gas 6.\r\n\r\nRemove the pastry from the fridge and leave at room temperature for 5 mins to soften. Flour the work surface, then unwrap the pastry and roll to a circle the thickness of a £1 coin. Use the pastry to line a deep, 23cm round fluted tin – mine was about 3cm deep. Press the pastry into the corners and up the sides, making sure there are no gaps. Leave 1cm pastry overhanging (save some of the pastry scraps for later). Line with baking parchment (scrunch it up first to make it more pliable) and fill with baking beans. Blind-bake for 15-20 mins until the sides are set, then remove the parchment and beans and return to the oven for 5 mins until golden brown. Trim the pastry so it’s flush with the top of the tin – a small serrated knife is best for this. If there are any cracks, patch them up with the pastry scraps.\r\n\r\nMeanwhile, weigh the butter, syrup and sugars into a pan, and add 1 /4 tsp salt. Heat until the butter has melted and the sugar dissolved, stirring until smooth. Remove from the heat and cool for 10 mins. Reduce oven to 160C/140C fan/gas 3.\r\n\r\nBeat the eggs in a bowl. Add the syrup mixture, vanilla and pecans, and mix until well combined. Pour half the mixture into the tart case, scatter over half the chocolate chips, then cover with the remaining filling and chocolate chips. Bake on the middle shelf for 50-55 mins until set. Remove from the oven and leave to cool, then chill for at least 2 hrs before serving.",
+    "ingredients": [
+      { "position": 1, "name": "Plain Flour", "measurement": "300g" },
+      { "position": 2, "name": "Butter", "measurement": "75g" },
+      { "position": 3, "name": "Cream Cheese", "measurement": "100g" },
+      { "position": 4, "name": "Icing Sugar", "measurement": "1 tbls" },
+      { "position": 5, "name": "Butter", "measurement": "150g" },
+      { "position": 6, "name": "Maple Syrup", "measurement": "200ml" },
+      {
+        "position": 7,
+        "name": "Light Brown Soft Sugar",
+        "measurement": "250g"
+      },
+      { "position": 8, "name": "Dark Brown Soft Sugar", "measurement": "100g" },
+      { "position": 9, "name": "Eggs", "measurement": "4" },
+      { "position": 10, "name": "Vanilla Extract", "measurement": "1 tsp" },
+      { "position": 11, "name": "Pecan Nuts", "measurement": "400g" },
+      { "position": 12, "name": "Dark Chocolate Chips", "measurement": "200g" }
+    ]
+  }
+}

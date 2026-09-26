@@ -1,0 +1,541 @@
+{
+  "inputHash": "dffd1d99ff2e47f0530d99149f7a13478e721a4bd21eb2192c960f264632f9d8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:29:42.959Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 56,
+      "per100g": {
+        "caloriesKcal": 541,
+        "proteinG": 37,
+        "fatG": 42,
+        "carbsG": 2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 302.96,
+      "proteinG": 20.72,
+      "fatG": 23.52,
+      "carbsG": 1.12,
+      "fiberG": 0,
+      "assumptions": "Standard bacon; 2 slices ≈ 2 oz / 56g edible portion after cooking.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 274,
+        "proteinG": 15,
+        "fatG": 23,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1243.96,
+      "proteinG": 68.1,
+      "fatG": 104.42,
+      "carbsG": 13.62,
+      "fiberG": 0,
+      "assumptions": "Typical Polish kielbasa sausage; full 1 lb used as listed, cooked.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 211,
+        "proteinG": 27,
+        "fatG": 10,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 957.94,
+      "proteinG": 122.58,
+      "fatG": 45.4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Boneless pork shoulder or similar stew cut; full 1 lb used, raw weight before browning.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 31,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 112.84,
+      "proteinG": 3.1,
+      "fatG": 0.31,
+      "carbsG": 23.56,
+      "fiberG": 0.93,
+      "assumptions": "All-purpose white flour; 1/4 cup ≈ 31 g, used for dredging pork.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6,
+        "fatG": 1,
+        "carbsG": 33,
+        "fiberG": 2
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.54,
+      "fatG": 0.09,
+      "carbsG": 2.97,
+      "fiberG": 0.18,
+      "assumptions": "3 cloves garlic ≈ 9 g chopped.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 9,
+        "fiberG": 2
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.1,
+      "fatG": 0,
+      "carbsG": 9.9,
+      "fiberG": 2.2,
+      "assumptions": "1 medium onion ≈ 110 g diced.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 105,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 3,
+        "fatG": 0,
+        "carbsG": 3,
+        "fiberG": 1
+      },
+      "caloriesKcal": 23.1,
+      "proteinG": 3.15,
+      "fatG": 0,
+      "carbsG": 3.15,
+      "fiberG": 1.05,
+      "assumptions": "Fresh white/button mushrooms; 1.5 cups sliced ≈ 105 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 280,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 70,
+      "proteinG": 2.8,
+      "fatG": 0,
+      "carbsG": 16.8,
+      "fiberG": 8.4,
+      "assumptions": "Fresh green cabbage, shredded; 4 cups ≈ 280 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 19,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 4,
+        "fiberG": 3
+      },
+      "caloriesKcal": 76,
+      "proteinG": 4,
+      "fatG": 0,
+      "carbsG": 16,
+      "fiberG": 12,
+      "assumptions": "1 typical 14-16 oz jar sauerkraut, drained weight ≈ 400 g (common recipe amount for bigos).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 83,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 49.8,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1.8,
+      "fiberG": 0,
+      "assumptions": "Red wine; 1/4 cup ≈ 60 g (deglazing liquid).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 whole bay leaf; negligible edible weight and nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 233,
+        "proteinG": 23,
+        "fatG": 4,
+        "carbsG": 48,
+        "fiberG": 37
+      },
+      "caloriesKcal": 2.33,
+      "proteinG": 0.23,
+      "fatG": 0.04,
+      "carbsG": 0.48,
+      "fiberG": 0.37,
+      "assumptions": "Dried basil; 1 tsp ≈ 1 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 271,
+        "proteinG": 13,
+        "fatG": 7,
+        "carbsG": 56,
+        "fiberG": 33
+      },
+      "caloriesKcal": 2.71,
+      "proteinG": 0.13,
+      "fatG": 0.07,
+      "carbsG": 0.56,
+      "fiberG": 0.33,
+      "assumptions": "Dried marjoram; 1 tsp ≈ 1 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 7,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 14,
+        "fatG": 13,
+        "carbsG": 54,
+        "fiberG": 35
+      },
+      "caloriesKcal": 19.74,
+      "proteinG": 0.98,
+      "fatG": 0.91,
+      "carbsG": 3.78,
+      "fiberG": 2.45,
+      "assumptions": "Paprika; 1 tbs ≈ 7 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 333,
+        "proteinG": 20,
+        "fatG": 15,
+        "carbsG": 50,
+        "fiberG": 38
+      },
+      "caloriesKcal": 3.33,
+      "proteinG": 0.2,
+      "fatG": 0.15,
+      "carbsG": 0.5,
+      "fiberG": 0.38,
+      "assumptions": "Caraway seeds; 1/8 tsp ≈ 0.5-1 g, rounded to 1 g for estimate.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Hot sauce dash; ≈ 5 g (typical single dash volume), negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 1200,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 1,
+        "fatG": 0,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 84,
+      "proteinG": 12,
+      "fatG": 0,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "Beef stock/broth; 5 cups ≈ 1200 g (standard density).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 4,
+        "fatG": 0,
+        "carbsG": 18,
+        "fiberG": 3
+      },
+      "caloriesKcal": 24.6,
+      "proteinG": 1.2,
+      "fatG": 0,
+      "carbsG": 5.4,
+      "fiberG": 0.9,
+      "assumptions": "Tomato puree/paste; 2 tbs ≈ 30 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 19,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 7,
+        "fiberG": 2
+      },
+      "caloriesKcal": 76.8,
+      "proteinG": 4.8,
+      "fatG": 0,
+      "carbsG": 16.8,
+      "fiberG": 4.8,
+      "assumptions": "Canned diced tomatoes with juice; 1 cup ≈ 240 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 20,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.05,
+      "fiberG": 0,
+      "assumptions": "Worcestershire sauce dash; ≈ 5 g, negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53018",
+    "name": "Bigos (Hunters Stew)",
+    "cuisine": "Polish",
+    "instructions": "Preheat the oven to 350 degrees F (175 degrees C).\r\n\r\nHeat a large pot over medium heat. Add the bacon and kielbasa; cook and stir until the bacon has rendered its fat and sausage is lightly browned. Use a slotted spoon to remove the meat and transfer to a large casserole or Dutch oven.\r\n\r\nCoat the cubes of pork lightly with flour and fry them in the bacon drippings over medium-high heat until golden brown. Use a slotted spoon to transfer the pork to the casserole. Add the garlic, onion, carrots, fresh mushrooms, cabbage and sauerkraut. Reduce heat to medium; cook and stir until the carrots are soft, about 10 minutes. Do not let the vegetables brown.\r\n\r\nDeglaze the pan by pouring in the red wine and stirring to loosen all of the bits of food and flour that are stuck to the bottom. Season with the bay leaf, basil, marjoram, paprika, salt, pepper, caraway seeds and cayenne pepper; cook for 1 minute.\r\n\r\nMix in the dried mushrooms, hot pepper sauce, Worcestershire sauce, beef stock, tomato paste and tomatoes. Heat through just until boiling. Pour the vegetables and all of the liquid into the casserole dish with the meat. Cover with a lid.\r\n\r\nBake in the preheated oven for 2 1/2 to 3 hours, until meat is very tender.",
+    "ingredients": [
+      { "position": 1, "name": "Bacon", "measurement": "2 sliced" },
+      { "position": 2, "name": "Kielbasa", "measurement": "1 lb" },
+      { "position": 3, "name": "Pork", "measurement": "1 lb" },
+      { "position": 4, "name": "Flour", "measurement": "1/4 cup" },
+      { "position": 5, "name": "Garlic", "measurement": "3 chopped" },
+      { "position": 6, "name": "Onion", "measurement": "1 Diced" },
+      { "position": 7, "name": "Mushrooms", "measurement": "1 1/2 cup" },
+      { "position": 8, "name": "Cabbage", "measurement": "4 cups" },
+      { "position": 9, "name": "Sauerkraut", "measurement": "1 Jar" },
+      { "position": 10, "name": "Red Wine", "measurement": "1/4 cup" },
+      { "position": 11, "name": "Bay Leaf", "measurement": "1" },
+      { "position": 12, "name": "Basil", "measurement": "1 tsp" },
+      { "position": 13, "name": "Marjoram", "measurement": "1 tsp" },
+      { "position": 14, "name": "Paprika", "measurement": "1 tbs" },
+      { "position": 15, "name": "Caraway Seed", "measurement": "1/8 teaspoon" },
+      { "position": 16, "name": "Hotsauce", "measurement": "1 dash" },
+      { "position": 17, "name": "Beef Stock", "measurement": "5 Cups" },
+      { "position": 18, "name": "Tomato Puree", "measurement": "2 tbs" },
+      { "position": 19, "name": "Diced Tomatoes", "measurement": "1 cup" },
+      {
+        "position": 20,
+        "name": "Worcestershire Sauce",
+        "measurement": "1 dash"
+      }
+    ]
+  }
+}

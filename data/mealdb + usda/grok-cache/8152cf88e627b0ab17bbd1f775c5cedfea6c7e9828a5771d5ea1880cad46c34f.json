@@ -1,0 +1,33 @@
+{
+  "inputHash": "8152cf88e627b0ab17bbd1f775c5cedfea6c7e9828a5771d5ea1880cad46c34f",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:53.648Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 4,
+      "grams": 400,
+      "caloriesPer100g": 18,
+      "assumptions": "Standard 400g tin of chopped tomatoes (edible contents, drained weight close to full tin)."
+    },
+    {
+      "position": 6,
+      "grams": 1,
+      "caloriesPer100g": 265,
+      "assumptions": "1/2 tsp dried Italian seasoning ≈ 1 g; typical calorie density for dried herb blends."
+    },
+    {
+      "position": 7,
+      "grams": 6,
+      "caloriesPer100g": 23,
+      "assumptions": "6 fresh basil leaves ≈ 6 g total (≈1 g per large leaf); known calories used directly."
+    },
+    {
+      "position": 8,
+      "grams": 10,
+      "caloriesPer100g": 403,
+      "assumptions": "'Sprinkling' of grated Parmigiano-Reggiano estimated at 10 g (modest garnish for 4 servings); known calories used directly."
+    }
+  ]
+}

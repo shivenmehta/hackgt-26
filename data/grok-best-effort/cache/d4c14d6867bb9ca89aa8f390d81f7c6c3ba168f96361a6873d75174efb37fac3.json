@@ -1,0 +1,355 @@
+{
+  "inputHash": "d4c14d6867bb9ca89aa8f390d81f7c6c3ba168f96361a6873d75174efb37fac3",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:29.379Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1792.5,
+      "proteinG": 2.25,
+      "fatG": 202.5,
+      "carbsG": 0.25,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; used for both cake and tin greasing.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 562,
+        "proteinG": 20.3,
+        "fatG": 45.4,
+        "carbsG": 30.8,
+        "fiberG": 10.6
+      },
+      "caloriesKcal": 1124,
+      "proteinG": 40.6,
+      "fatG": 90.8,
+      "carbsG": 61.6,
+      "fiberG": 21.2,
+      "assumptions": "Raw shelled pistachios; 150g ground in cake, remainder used as garnish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1.3,
+        "carbsG": 76,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 291.2,
+      "proteinG": 8,
+      "fatG": 1.04,
+      "carbsG": 60.8,
+      "fiberG": 2.16,
+      "assumptions": "Standard plain white wheat flour.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 27.9,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 2.65,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1.395,
+      "fiberG": 0.01,
+      "assumptions": "1 tsp baking powder; typical commercial amount and composition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 225,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 870.75,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 225,
+      "fiberG": 0,
+      "assumptions": "Standard caster sugar (superfine white sugar).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 286,
+      "proteinG": 25.2,
+      "fatG": 19,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "4 large eggs (approx 50 g edible portion each); beaten into batter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0.1,
+        "fatG": 0.1,
+        "carbsG": 12.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0.005,
+      "fatG": 0.005,
+      "carbsG": 0.635,
+      "fiberG": 0,
+      "assumptions": "1 tsp vanilla extract; typical commercial strength.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 387,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "Standard powdered icing sugar.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 429,
+        "proteinG": 6,
+        "fatG": 44,
+        "carbsG": 3.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1072.5,
+      "proteinG": 15,
+      "fatG": 110,
+      "carbsG": 8.75,
+      "fiberG": 0,
+      "assumptions": "Full-fat mascarpone cheese; standard Italian-style.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 449,
+        "proteinG": 1.7,
+        "fatG": 48.2,
+        "carbsG": 2.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 898,
+      "proteinG": 3.4,
+      "fatG": 96.4,
+      "carbsG": 5.4,
+      "fiberG": 0,
+      "assumptions": "Heavy/double cream (approx 48% fat); 200 ml converted using density ~1 g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 530,
+        "proteinG": 12,
+        "fatG": 42,
+        "carbsG": 28,
+        "fiberG": 8
+      },
+      "caloriesKcal": 530,
+      "proteinG": 12,
+      "fatG": 42,
+      "carbsG": 28,
+      "fiberG": 8,
+      "assumptions": "Commercial pistachio paste (nuts + sugar/oil); typical values for sweetened variety.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 52,
+        "proteinG": 1.2,
+        "fatG": 0.7,
+        "carbsG": 12,
+        "fiberG": 6.5
+      },
+      "caloriesKcal": 208,
+      "proteinG": 4.8,
+      "fatG": 2.8,
+      "carbsG": 48,
+      "fiberG": 26,
+      "assumptions": "Fresh whole raspberries; 300 g layered inside, remainder scattered on top.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 14.5,
+      "proteinG": 0.35,
+      "fatG": 0.1,
+      "carbsG": 5.25,
+      "fiberG": 1.4,
+      "assumptions": "1 medium unwaxed lime; only zest used (approx 5 g zest from 50 g whole fruit).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53293",
+    "name": "Pistachio cake",
+    "cuisine": "Polish",
+    "instructions": "Heat the oven to 180C/160C fan/gas 4. Butter and line a 23cm springform cake tin. Tip 150g of the pistachios into a food processor and blitz until finely ground. Tip into a bowl and mix in the flour, baking powder and pinch of salt. Beat the butter and sugar in a separate bowl until fluffy and pale, around 5 mins. Crack in the eggs one at a time, beating well for 1 min after each addition, until they have all been added. Beat in the vanilla, then fold in the flour mixture gently. Carefully spoon into the prepared tin and bake for 35-40 mins until a skewer inserted into the middle comes out clean. Set aside to cool completely on a wire rack in the tin.\r\n\r\nstep 2\r\nMeanwhile, sift the icing sugar into a bowl, then tip in the mascarpone, double cream and pistachio paste. Beat until well combined, then set aside in the fridge for 20-30 mins to thicken to a spooning consistency.\r\n\r\nstep 3\r\nCut the cooled cake in half horizontally using a serrated knife, so you have two layers. Put the bottom layer on a plate or cake stand and spread over a generous spoonful of the pistachio cream. Top with a generous handful of the raspberries so the cake is covered. Top with the other sponge half, then cover the top and sides of the cake with the remaining cream. Scatter over the last of the raspberries, the remaining pistachios and the lime zest to serve. Will keep chilled in an airtight container for two days.",
+    "ingredients": [
+      { "position": 1, "name": "Butter", "measurement": "250g" },
+      { "position": 2, "name": "Pistachio", "measurement": "200g" },
+      { "position": 3, "name": "Plain Flour", "measurement": "80g" },
+      { "position": 4, "name": "Baking Powder", "measurement": "1 tsp" },
+      { "position": 5, "name": "Caster Sugar", "measurement": "225g" },
+      { "position": 6, "name": "Egg", "measurement": "4" },
+      { "position": 7, "name": "Vanilla Extract", "measurement": "1 tsp" },
+      { "position": 8, "name": "Icing Sugar", "measurement": "100g" },
+      { "position": 9, "name": "Mascarpone", "measurement": "250g" },
+      { "position": 10, "name": "Double Cream", "measurement": "200ml" },
+      { "position": 11, "name": "Pistachio Paste", "measurement": "100g" },
+      { "position": 12, "name": "Raspberries", "measurement": "400g" },
+      { "position": 13, "name": "Unwaxed Lime", "measurement": "1" }
+    ]
+  }
+}

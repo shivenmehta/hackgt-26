@@ -1,0 +1,69 @@
+{
+  "inputHash": "ae73085f7184e6d9f4cb7891e249af0e38515f5dba4065bbf3d510481d592b57",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:07.782Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "24 raw king prawns ≈ 720g total (30g each with shell); peeled/deveined edible portion ≈ 480g; prawns contain no carbohydrates."
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp olive oil = 28g; pure oil contains no carbohydrates."
+    },
+    {
+      "position": 3,
+      "carbsG": 7,
+      "fiberG": 1.2,
+      "assumptions": "1 small onion ≈ 70g, chopped and fully used; standard onion values (≈10g carbs and 1.7g fiber per 100g)."
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 bay leaf; negligible nutritional contribution including carbs/fiber."
+    },
+    {
+      "position": 5,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "1 pinch saffron; negligible nutritional contribution but exact carbs unknown."
+    },
+    {
+      "position": 6,
+      "carbsG": 355,
+      "fiberG": 6,
+      "assumptions": "450g paella rice (dry weight) as stated; standard uncooked white rice values (≈79g carbs and 1.3g fiber per 100g)."
+    },
+    {
+      "position": 7,
+      "carbsG": 4,
+      "fiberG": 0.7,
+      "assumptions": "2 tsp tomato puree ≈ 12g; standard tomato paste values (≈33g carbs and 6g fiber per 100g)."
+    },
+    {
+      "position": 8,
+      "carbsG": 7.6,
+      "fiberG": 0,
+      "assumptions": "200ml white wine; standard dry white wine values (≈3.8g carbs per 100ml); fiber is zero."
+    },
+    {
+      "position": 9,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "650ml seafood stock; modest values assuming light homemade or low-calorie commercial stock with minimal carbs."
+    },
+    {
+      "position": 10,
+      "carbsG": 4.5,
+      "fiberG": 0,
+      "assumptions": "3 medium squid ≈ 450g total cleaned; raw squid values (≈1g carbs per 100g); fiber is zero."
+    }
+  ]
+}

@@ -154,3 +154,11 @@ for development/education and directs public releases to supporter access.
 [Terms](https://www.themealdb.com/terms_of_use.php) permit copying API content via
 official endpoints subject to notices, attribution, and third-party content rights.
 Raw licensing fields may be null; their absence is not a blanket license grant.
+
+## Precalculated recipe nutrition
+
+The separate [combined catalog](../combined/README.md) adds USDA-based
+whole-recipe calories, protein, and fat to all 300 recipes, with partial coverage
+and explicit 100 g quantity placeholders where needed. The base MealDB catalog
+keeps its original null nutrition fields. Rebuild with `npm run meals:nutrition`
+and verify with `npm run test:nutrition`.

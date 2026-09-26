@@ -1,0 +1,21 @@
+{
+  "inputHash": "016fc080018517fc7128aefc867f9998f5fc8c1699ba5154fc1d10fe66340e23",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:42.519Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 50,
+      "caloriesPer100g": 387,
+      "assumptions": "Coco Sugar is interpreted as cocoa powder (common in Polish baking recipes for chocolate cake); 50g supplied directly, standard cocoa powder energy density used."
+    },
+    {
+      "position": 9,
+      "grams": 10,
+      "caloriesPer100g": 381,
+      "assumptions": "1 tablespoon potato starch weighs ~10g (standard density for starch); modest amount as per recipe; standard dry potato starch calorie density used."
+    }
+  ]
+}

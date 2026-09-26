@@ -1,0 +1,45 @@
+{
+  "inputHash": "76ab8b7256f173837c8d7c0e2d4859523c5986eb659a38c9d0054bef5f563522",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:12.010Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 250,
+      "caloriesPer100g": 31.4,
+      "assumptions": "1/4 of a medium white cabbage is estimated at ~250g based on typical head size of 900-1000g; known cal value copied directly; this is the raw weight before salting/squeezing (water loss not adjusted as per input state)."
+    },
+    {
+      "position": 2,
+      "grams": 80,
+      "caloriesPer100g": 48,
+      "assumptions": "1 medium carrot is typically 70-90g; used 80g average; known cal value copied directly; raw weight."
+    },
+    {
+      "position": 9,
+      "grams": 45,
+      "caloriesPer100g": 32,
+      "assumptions": "3 spring onions (scallions) average ~15g each when sliced; total 45g; known cal value copied directly; raw weight."
+    },
+    {
+      "position": 10,
+      "grams": 200,
+      "caloriesPer100g": 330,
+      "assumptions": "Standard rice paper wrapper is ~10g each (common for 22cm sheets); 20 sheets total 200g dry weight; calories estimated from typical rice paper nutrition (mostly carbohydrate-based, ~330 kcal/100g dry); input state is dry before brief soak."
+    },
+    {
+      "position": 13,
+      "grams": 30,
+      "caloriesPer100g": 2,
+      "assumptions": "2 tablespoons rice vinegar is ~30g (15g per tbsp density ~1); calories estimated at near-zero for vinegar (~2 kcal/100g); input state as-is."
+    },
+    {
+      "position": 15,
+      "grams": 30,
+      "caloriesPer100g": 32,
+      "assumptions": "2 spring onions average ~15g each when sliced; total 30g; known cal value copied directly; raw weight."
+    }
+  ]
+}

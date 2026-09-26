@@ -1,0 +1,87 @@
+{
+  "inputHash": "36b559372267bef848d480ee61f8a0e2ebff6050f353f53cd906f685881c24dd",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:12.953Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "500g raw lamb mince; plain meat has no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 2,
+      "fiberG": 0.1,
+      "assumptions": "2 cloves garlic minced (~6g total); standard garlic carb values"
+    },
+    {
+      "position": 3,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (~110g); standard onion carb values"
+    },
+    {
+      "position": 4,
+      "carbsG": 4,
+      "fiberG": 3,
+      "assumptions": "300g raw spinach; standard spinach carb and fiber values"
+    },
+    {
+      "position": 5,
+      "carbsG": 6,
+      "fiberG": 1.5,
+      "assumptions": "3 tbsp tomato puree (~45g); standard tomato puree values"
+    },
+    {
+      "position": 6,
+      "carbsG": 3,
+      "fiberG": 1,
+      "assumptions": "1 tbsp ground cumin (~6g); standard cumin values"
+    },
+    {
+      "position": 7,
+      "carbsG": 5,
+      "fiberG": 0,
+      "assumptions": "1L chicken stock; standard ready-to-use stock values"
+    },
+    {
+      "position": 8,
+      "carbsG": 3,
+      "fiberG": 1,
+      "assumptions": "3 tsp harissa spice blend (~9g); standard spice blend values"
+    },
+    {
+      "position": 9,
+      "carbsG": 35,
+      "fiberG": 12,
+      "assumptions": "400g can chickpeas, using drained weight ~240g; standard drained chickpea values"
+    },
+    {
+      "position": 10,
+      "carbsG": 3,
+      "fiberG": 0.1,
+      "assumptions": "Juice from 1/2 lemon (~30ml); standard lemon juice values"
+    },
+    {
+      "position": 11,
+      "carbsG": 110,
+      "fiberG": 5,
+      "assumptions": "150g dry macaroni; standard dry pasta values (carbs unchanged by cooking)"
+    },
+    {
+      "position": 12,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of salt; nutritional contribution too small to estimate"
+    },
+    {
+      "position": 13,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pinch of pepper; nutritional contribution too small to estimate"
+    }
+  ]
+}

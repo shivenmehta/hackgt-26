@@ -1,0 +1,463 @@
+{
+  "inputHash": "7b1d1a059298c8666df07f6fdf7c344b38a46e491842756c27de9773e86ba1a2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:34:46.914Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1500,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17.5,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 1155,
+      "proteinG": 30,
+      "fatG": 1.5,
+      "carbsG": 262.5,
+      "fiberG": 33.00000000000001,
+      "assumptions": "Raw potatoes with skin; standard white potato values adjusted for typical variety used in French recipes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 215.1,
+      "proteinG": 0.27,
+      "fatG": 24.3,
+      "carbsG": 0.03,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2.1,
+        "fatG": 35,
+        "carbsG": 3.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 204,
+      "proteinG": 1.26,
+      "fatG": 21,
+      "carbsG": 2.1,
+      "fiberG": 0,
+      "assumptions": "5 tablespoons double (heavy) cream; 1 tbsp ≈ 12 g, typical UK measure, high-fat cream.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 34,
+      "per100g": {
+        "caloriesKcal": 317,
+        "proteinG": 13,
+        "fatG": 27,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 107.78,
+      "proteinG": 4.42,
+      "fatG": 9.18,
+      "carbsG": 1.224,
+      "fiberG": 0,
+      "assumptions": "2 large egg yolks; 1 yolk ≈ 17 g, standard large egg.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 215.1,
+      "proteinG": 0.27,
+      "fatG": 24.3,
+      "carbsG": 0.03,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter for filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 72,
+        "proteinG": 2.5,
+        "fatG": 0.1,
+        "carbsG": 16.8,
+        "fiberG": 3.2
+      },
+      "caloriesKcal": 100.8,
+      "proteinG": 3.5,
+      "fatG": 0.14,
+      "carbsG": 23.52,
+      "fiberG": 4.48,
+      "assumptions": "7 medium shallots; ≈20 g each after peeling, typical size in recipes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 180,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 73.8,
+      "proteinG": 1.62,
+      "fatG": 0.36,
+      "carbsG": 17.28,
+      "fiberG": 5.039999999999999,
+      "assumptions": "3 medium carrots chopped; ≈60 g each after peeling and trimming.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 16,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 3,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 12.8,
+      "proteinG": 0.56,
+      "fatG": 0.16,
+      "carbsG": 2.4,
+      "fiberG": 1.28,
+      "assumptions": "2 medium celery sticks; ≈40 g each after trimming.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.9930000000000001,
+      "fiberG": 0.063,
+      "assumptions": "1 small garlic clove finely chopped; ≈3 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 2.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 49.2,
+      "proteinG": 0.06,
+      "fatG": 0,
+      "carbsG": 1.56,
+      "fiberG": 0,
+      "assumptions": "4 tablespoons dry white wine; 1 tbsp ≈ 15 ml, standard measure, alcohol mostly cooks off but nutrients based on raw.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 4.2,
+        "fatG": 0.5,
+        "carbsG": 18,
+        "fiberG": 3.9
+      },
+      "caloriesKcal": 12.3,
+      "proteinG": 0.63,
+      "fatG": 0.075,
+      "carbsG": 2.7,
+      "fiberG": 0.585,
+      "assumptions": "1 tablespoon tomato puree/paste; ≈15 g.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.6,
+        "fatG": 0.4,
+        "carbsG": 7,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 128,
+      "proteinG": 6.4,
+      "fatG": 1.6,
+      "carbsG": 28,
+      "fiberG": 6.8,
+      "assumptions": "400 g can chopped tinned tomatoes including juice, drained weight approximated as full can per recipe context.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 350,
+      "per100g": {
+        "caloriesKcal": 7,
+        "proteinG": 0.9,
+        "fatG": 0.3,
+        "carbsG": 0.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 24.5,
+      "proteinG": 3.15,
+      "fatG": 1.05,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "350 ml chicken stock; typical low-fat prepared stock density ≈1 g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 600,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 990,
+      "proteinG": 186,
+      "fatG": 21.6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "600 g cooked shredded chicken (e.g., from roasted or poached); values for skinless cooked chicken breast/thigh mix typical in French dishes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 48,
+      "per100g": {
+        "caloriesKcal": 115,
+        "proteinG": 0.9,
+        "fatG": 10.9,
+        "carbsG": 3.8,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 55.2,
+      "proteinG": 0.43200000000000005,
+      "fatG": 5.232,
+      "carbsG": 1.8239999999999998,
+      "fiberG": 1.2480000000000002,
+      "assumptions": "16 pitted black olives; ≈3 g each, typical Kalamata or similar.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.8,
+        "carbsG": 6.3,
+        "fiberG": 3.4
+      },
+      "caloriesKcal": 2.88,
+      "proteinG": 0.24,
+      "fatG": 0.064,
+      "carbsG": 0.504,
+      "fiberG": 0.272,
+      "assumptions": "2 tablespoons chopped fresh parsley; ≈4 g per tbsp.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 413,
+        "proteinG": 27,
+        "fatG": 34,
+        "carbsG": 0.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 206.5,
+      "proteinG": 13.5,
+      "fatG": 17,
+      "carbsG": 0.2,
+      "fiberG": 0,
+      "assumptions": "50 g Gruyère cheese for grating on top.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52879",
+    "name": "Chicken Parmentier",
+    "cuisine": "French",
+    "instructions": "For the topping, boil the potatoes in salted water until tender. Drain and push through a potato ricer, or mash thoroughly. Stir in the butter, cream and egg yolks. Season and set aside.\r\nFor the filling, melt the butter in a large pan. Add the shallots, carrots and celery and gently fry until soft, then add the garlic. Pour in the wine and cook for 1 minute. Stir in the tomato purée, chopped tomatoes and stock and cook for 10–15 minutes, until thickened. Add the shredded chicken, olives and parsley. Season to taste with salt and pepper.\r\nPreheat the oven to 180C/160C Fan/Gas 4.\r\nPut the filling in a 20x30cm/8x12in ovenproof dish and top with the mashed potato. Grate over the Gruyère. Bake for 30–35 minutes, until piping hot and the potato is golden-brown.",
+    "ingredients": [
+      { "position": 1, "name": "Potatoes", "measurement": "1.5kg" },
+      { "position": 2, "name": "Butter", "measurement": "30g" },
+      { "position": 3, "name": "Double Cream", "measurement": "5 tblsp" },
+      { "position": 4, "name": "Egg Yolks", "measurement": "2" },
+      { "position": 5, "name": "Butter", "measurement": "30g" },
+      { "position": 6, "name": "Shallots", "measurement": "7" },
+      { "position": 7, "name": "Carrots", "measurement": "3 chopped" },
+      { "position": 8, "name": "Celery", "measurement": "2 sticks" },
+      {
+        "position": 9,
+        "name": "Garlic Clove",
+        "measurement": "1 finely chopped"
+      },
+      { "position": 10, "name": "White Wine", "measurement": "4 tbsp" },
+      { "position": 11, "name": "Tomato Puree", "measurement": "1 tbls" },
+      { "position": 12, "name": "Tinned Tomatos", "measurement": "400g" },
+      { "position": 13, "name": "Chicken Stock", "measurement": "350ml" },
+      { "position": 14, "name": "Chicken", "measurement": "600g" },
+      { "position": 15, "name": "Black Olives", "measurement": "16" },
+      { "position": 16, "name": "Parsley", "measurement": "2 tbs" },
+      { "position": 17, "name": "Gruyere cheese", "measurement": "50g" }
+    ]
+  }
+}

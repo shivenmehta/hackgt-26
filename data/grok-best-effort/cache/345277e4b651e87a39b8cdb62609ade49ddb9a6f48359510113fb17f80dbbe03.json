@@ -1,0 +1,527 @@
+{
+  "inputHash": "345277e4b651e87a39b8cdb62609ade49ddb9a6f48359510113fb17f80dbbe03",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:30:18.792Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 27,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 238.68,
+      "proteinG": 0,
+      "fatG": 27,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp olive oil (standard 13.5g per tbsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0.7,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 16,
+      "proteinG": 0.4,
+      "fatG": 0.14,
+      "carbsG": 3.6,
+      "fiberG": 0.4,
+      "assumptions": "4cm piece of fresh ginger root, peeled weight estimate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.98,
+      "fiberG": 0.126,
+      "assumptions": "2 average garlic cloves, peeled",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 144,
+      "proteinG": 7.2,
+      "fatG": 1.6,
+      "carbsG": 31.2,
+      "fiberG": 9.6,
+      "assumptions": "800g canned peeled chopped tomatoes (drained weight approx. equals given amount)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 0.4,
+        "fatG": 0,
+        "carbsG": 7,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 6.6,
+      "proteinG": 0.12,
+      "fatG": 0,
+      "carbsG": 2.1,
+      "fiberG": 0.09,
+      "assumptions": "2 tbsp bottled lemon juice (15g per tbsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 15.48,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "1 tsp caster sugar (4g)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 4,
+        "fatG": 1,
+        "carbsG": 3,
+        "fiberG": 2
+      },
+      "caloriesKcal": 36,
+      "proteinG": 4.8,
+      "fatG": 1.2,
+      "carbsG": 3.6,
+      "fiberG": 2.4,
+      "assumptions": "50 small preserved vine leaves, drained and blanched (approx 2.4g edible each after stems removed)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1.2,
+        "fatG": 0.2,
+        "carbsG": 7,
+        "fiberG": 3.1
+      },
+      "caloriesKcal": 93,
+      "proteinG": 3.6,
+      "fatG": 0.6,
+      "carbsG": 21,
+      "fiberG": 9.3,
+      "assumptions": "1 large fennel bulb trimmed and sliced (edible portion after trimming)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 17,
+        "fatG": 23,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1128,
+      "proteinG": 68,
+      "fatG": 92,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "400g raw lamb mince (typical 20% fat)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 9.9,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion, peeled and chopped (110g typical)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 61.6,
+      "proteinG": 1.6,
+      "fatG": 0.08,
+      "carbsG": 13.6,
+      "fiberG": 1.76,
+      "assumptions": "1 small peeled potato, coarsely grated (80g typical edible)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 354,
+        "proteinG": 7,
+        "fatG": 0.6,
+        "carbsG": 78,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 88.5,
+      "proteinG": 1.75,
+      "fatG": 0.15,
+      "carbsG": 19.5,
+      "fiberG": 0.3,
+      "assumptions": "2 tbsp uncooked basmati rice (approx 12.5g per tbsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 0.7,
+        "carbsG": 6,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 2.88,
+      "proteinG": 0.24,
+      "fatG": 0.055999999999999994,
+      "carbsG": 0.48,
+      "fiberG": 0.264,
+      "assumptions": "2 tbsp chopped fresh parsley (8g typical)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 1.84,
+      "proteinG": 0.17600000000000002,
+      "fatG": 0.04,
+      "carbsG": 0.29600000000000004,
+      "fiberG": 0.22399999999999998,
+      "assumptions": "2 tbsp chopped fresh coriander (8g typical)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 0.4,
+        "fatG": 0,
+        "carbsG": 7,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 3.3,
+      "proteinG": 0.06,
+      "fatG": 0,
+      "carbsG": 1.05,
+      "fiberG": 0.045,
+      "assumptions": "1 tbsp bottled lemon juice (15g)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 8.94,
+      "proteinG": 0.38400000000000006,
+      "fatG": 0.03,
+      "carbsG": 1.98,
+      "fiberG": 0.126,
+      "assumptions": "2 average garlic cloves, peeled",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 17,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 274,
+        "proteinG": 6,
+        "fatG": 13,
+        "carbsG": 66,
+        "fiberG": 35
+      },
+      "caloriesKcal": 2.74,
+      "proteinG": 0.06,
+      "fatG": 0.13,
+      "carbsG": 0.66,
+      "fiberG": 0.35,
+      "assumptions": "½ tsp ground cloves (1g)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 18,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 4,
+        "fatG": 1.2,
+        "carbsG": 81,
+        "fiberG": 53
+      },
+      "caloriesKcal": 2.47,
+      "proteinG": 0.04,
+      "fatG": 0.012,
+      "carbsG": 0.81,
+      "fiberG": 0.53,
+      "assumptions": "½ tsp ground cinnamon (1g)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 19,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 3.9,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 43.2,
+      "proteinG": 2.16,
+      "fatG": 0.48,
+      "carbsG": 9.36,
+      "fiberG": 2.88,
+      "assumptions": "2 medium fresh tomatoes (120g each, raw, for filling)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52782",
+    "name": "Lamb tomato and sweet spices",
+    "cuisine": "Moroccan",
+    "instructions": "Use pickled vine leaves here, preserved in brine. Small delicate leaves are better than the large bristly ones but, if only large leaves are to hand, then trim them to roughly 12 by 12 cms so that you don't get too many layers of leaves around the filling. And remove any stalks. Drain the preserved leaves, immerse them in boiling water for 10 minutes and then leave to dry on a tea towel before use. \r\nBasmati rice with butter and pine nuts is an ideal accompaniment. Couscous is great, too. Serves four.\r\nFirst make the filling. Put all the ingredients, apart from the tomatoes, in a bowl. Cut the tomatoes in half, coarsely grate into the bowl and discard the skins. Add half a teaspoon of salt and some black pepper, and stir. Leave on the side, or in the fridge, for up to a day. Before using, gently squeeze with your hands and drain away any juices that come out.\r\nTo make the sauce, heat the oil in a medium pan. Add the ginger and garlic, cook for a minute or two, taking care not to burn them, then add the tomato, lemon juice and sugar. Season, and simmer for 20 minutes.\r\nWhile the sauce is bubbling away, prepare the vine leaves. Use any torn or broken leaves to line the base of a wide, heavy saucepan. Trim any leaves from the fennel, cut it vertically into 0.5cm-thick slices and spread over the base of the pan to cover completely.\r\nLay a prepared vine leaf (see intro) on a work surface, veiny side up. Put two teaspoons of filling at the base of the leaf in a 2cm-long by 1cm-wide strip. Fold the sides of the leaf over the filling, then roll it tightly from bottom to top, in a cigar shape. Place in the pan, seam down, and repeat with the remaining leaves, placing them tightly next to each other in lines or circles (in two layers if necessary).\r\nPour the sauce over the leaves (and, if needed, add water just to cover). Place a plate on top, to weigh the leaves down, then cover with a lid. Bring to a boil, reduce the heat and cook on a bare simmer for 70 minutes. Most of the liquid should evaporate. Remove from the heat, and leave to cool a little - they are best served warm. When serving, bring to the table in the pan - it looks great. Serve a few vine leaves and fennel slices with warm rice. Spoon the braising juices on top and garnish with coriander.",
+    "ingredients": [
+      { "position": 1, "name": "olive oil", "measurement": "2 tbsp" },
+      {
+        "position": 2,
+        "name": "ginger",
+        "measurement": "4cm piece finely chopped"
+      },
+      {
+        "position": 3,
+        "name": "garlic",
+        "measurement": "2 cloves peeled and chopped"
+      },
+      {
+        "position": 4,
+        "name": "tomatoes",
+        "measurement": "800g peeled and chopped"
+      },
+      { "position": 5, "name": "lemon juice", "measurement": "2 tbsp" },
+      { "position": 6, "name": "caster sugar", "measurement": "1 tsp" },
+      { "position": 7, "name": "vine leaves", "measurement": "50" },
+      { "position": 8, "name": "fennel bulb", "measurement": "1 large" },
+      { "position": 9, "name": "lamb mince", "measurement": "400g" },
+      { "position": 10, "name": "onion", "measurement": "1 medium" },
+      {
+        "position": 11,
+        "name": "potatoes",
+        "measurement": "1 small peeled and coarsely grated"
+      },
+      { "position": 12, "name": "basmati rice", "measurement": "2 tbsp" },
+      { "position": 13, "name": "chopped parsley", "measurement": "2 tbsp" },
+      { "position": 14, "name": "coriander", "measurement": "2 tbsp chopped" },
+      { "position": 15, "name": "lemon juice", "measurement": "1 tbsp" },
+      { "position": 16, "name": "garlic", "measurement": "2 cloves" },
+      { "position": 17, "name": "clove", "measurement": "½ tsp ground" },
+      { "position": 18, "name": "cinnamon", "measurement": "½ tsp ground" },
+      { "position": 19, "name": "tomatoes", "measurement": "2 medium" }
+    ]
+  }
+}

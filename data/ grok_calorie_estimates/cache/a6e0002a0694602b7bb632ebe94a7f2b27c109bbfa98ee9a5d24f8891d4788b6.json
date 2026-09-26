@@ -1,0 +1,86 @@
+{
+  "inputHash": "a6e0002a0694602b7bb632ebe94a7f2b27c109bbfa98ee9a5d24f8891d4788b6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:16:13.120Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 750,
+      "proteinG": 130,
+      "fatG": 10,
+      "assumptions": "1½ kg live clams in shell; ~450-500g edible meat after steaming and shelling (edible portion ~30-33%); values for raw clam meat scaled to yield"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 360,
+      "proteinG": 0.5,
+      "fatG": 40,
+      "assumptions": "50g butter (all used in recipe)"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 540,
+      "proteinG": 14,
+      "fatG": 52,
+      "assumptions": "150g streaky bacon, cooked with fat rendered and eaten"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 45,
+      "proteinG": 1.2,
+      "fatG": 0.2,
+      "assumptions": "1 medium onion (~110g) finely chopped"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 5,
+      "proteinG": 0.2,
+      "fatG": 0.1,
+      "assumptions": "2-3 sprigs fresh thyme (negligible weight, modest seasoning amount)"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 2,
+      "proteinG": 0.1,
+      "fatG": 0,
+      "assumptions": "1 bay leaf (negligible weight)"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 30,
+      "proteinG": 1,
+      "fatG": 0.1,
+      "assumptions": "1 tablespoon plain flour (~15g)"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": 95,
+      "proteinG": 5,
+      "fatG": 5,
+      "assumptions": "150ml semi-skimmed milk (standard assumption)"
+    },
+    {
+      "position": 9,
+      "caloriesKcal": 500,
+      "proteinG": 3,
+      "fatG": 52,
+      "assumptions": "150ml double (heavy) cream"
+    },
+    {
+      "position": 10,
+      "caloriesKcal": 160,
+      "proteinG": 4,
+      "fatG": 0.3,
+      "assumptions": "2 medium potatoes (~300g total), peeled and diced"
+    },
+    {
+      "position": 11,
+      "caloriesKcal": 5,
+      "proteinG": 0.3,
+      "fatG": 0.1,
+      "assumptions": "Small handful chopped fresh parsley (~10g)"
+    }
+  ]
+}

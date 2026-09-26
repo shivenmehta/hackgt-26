@@ -1,0 +1,5203 @@
+{
+  "basis": "whole-recipe",
+  "units": { "caloriesKcal": "kcal", "proteinG": "g", "fatG": "g" },
+  "definitions": {
+    "isFullyUsdaCalculated": "All three USDA-based nutrient totals are present and no 100 g quantity placeholders were used. USDA proxies may still be involved; this does not mean perfect or verified nutrition.",
+    "hasGrokEstimate": "At least one ingredient calorie contribution was successfully estimated with Grok. Does not imply complete coverage; check grok.status.",
+    "usdaKnownSubtotal": "Available contributions with stated masses or USDA portion conversions; excludes 100 g placeholders.",
+    "usdaTotals": "Totals are hidden when any 100 g quantity placeholder was used. Otherwise each nutrient is null unless every ingredient contributes a value.",
+    "grok": "Calorie-only overlay combining preserved USDA contributions and Grok estimates. Protein/fat were not estimated by Grok and retain the original USDA quantities. null means not processed. Subtotal may be incomplete."
+  },
+  "meals": [
+    {
+      "id": "53085",
+      "name": "15-minute chicken & halloumi burgers",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 226.9,
+        "proteinG": 2.01,
+        "fatG": 22.6
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2356.92,
+        "subtotalCaloriesKcal": 2356.92,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53262",
+      "name": "Adana kebab",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2256.67,
+        "proteinG": 140,
+        "fatG": 189.6
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2387.47,
+        "subtotalCaloriesKcal": 2387.47,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53373",
+      "name": "Air Fryer Egg Rolls",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2287.76,
+        "proteinG": 119.98,
+        "fatG": 98.7
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2485.78,
+        "missingCalorieIngredients": 4
+      }
+    },
+    {
+      "id": "53158",
+      "name": "Air fryer patatas bravas",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1237.7,
+        "proteinG": 25.36,
+        "fatG": 45.63
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53169",
+      "name": "Ajo blanco",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2056.14,
+        "proteinG": 56.28,
+        "fatG": 152.55
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52893",
+      "name": "Apple & Blackberry Crumble",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1542.11,
+        "proteinG": 18.75,
+        "fatG": 76.36
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1656.11,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52768",
+      "name": "Apple Frangipan Tart",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2295.64,
+        "proteinG": 40.62,
+        "fatG": 196.91
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 3255.64,
+        "subtotalCaloriesKcal": 3255.64,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53276",
+      "name": "Apricot & Turkish delight mess",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 300.6,
+        "proteinG": 9.77,
+        "fatG": 14.97
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 374.36,
+        "missingCalorieIngredients": 4
+      }
+    },
+    {
+      "id": "53156",
+      "name": "Arroz al horno (baked rice)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 4823.73,
+        "proteinG": 161.04,
+        "fatG": 320.43
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 6647.7,
+        "subtotalCaloriesKcal": 6647.7,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53147",
+      "name": "Arroz con gambas y calamar",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1888.36,
+        "proteinG": 32.55,
+        "fatG": 29.84
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2930.23,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53278",
+      "name": "Aubergine & hummus grills",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1725.85,
+        "proteinG": 39.5,
+        "fatG": 149.78
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53267",
+      "name": "Aubergine couscous salad",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1399.33,
+        "proteinG": 50.58,
+        "fatG": 78.14
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52807",
+      "name": "Baingan Bharta",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 207.74,
+        "proteinG": 1.27,
+        "fatG": 20.55
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52959",
+      "name": "Baked salmon with fennel & tomatoes",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 858.04,
+        "proteinG": 72.73,
+        "fatG": 60.42
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52767",
+      "name": "Bakewell tart",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3711.69,
+        "proteinG": 68.49,
+        "fatG": 260.42
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 3769.69,
+        "subtotalCaloriesKcal": 3769.69,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53279",
+      "name": "Baklava with spiced nuts, ricotta & chocolate",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 9416.5,
+        "proteinG": 146.89,
+        "fatG": 712.15
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 11008.51,
+        "subtotalCaloriesKcal": 11008.51,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52855",
+      "name": "Banana Pancakes",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 298.9,
+        "proteinG": 3.75,
+        "fatG": 23.06
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53239",
+      "name": "Bang bang prawn salad",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1162.64,
+        "proteinG": 60.55,
+        "fatG": 41.01
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1314.74,
+        "subtotalCaloriesKcal": 1314.74,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53242",
+      "name": "Barbecue pork buns",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 778.34,
+        "proteinG": 11.5,
+        "fatG": 19.31
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2205.13,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52894",
+      "name": "Battenberg Cake",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 5584.73,
+        "proteinG": 54.97,
+        "fatG": 340.97
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 10577.64,
+        "subtotalCaloriesKcal": 10577.64,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52995",
+      "name": "BBQ Pork Sloppy Joes",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 993.37,
+        "proteinG": 91.79,
+        "fatG": 57.28
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1842.25,
+        "subtotalCaloriesKcal": 1842.25,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52848",
+      "name": "Bean & Sausage Hotpot",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 4056,
+        "proteinG": 257.52,
+        "fatG": 8.28
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 5290,
+        "subtotalCaloriesKcal": 5290,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52928",
+      "name": "BeaverTails",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1196.37,
+        "proteinG": 17.27,
+        "fatG": 83.74
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53366",
+      "name": "Beef and Broccoli Stir-Fry",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 832.85,
+        "proteinG": 114.47,
+        "fatG": 27.81
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1096.02,
+        "subtotalCaloriesKcal": 1096.02,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52874",
+      "name": "Beef and Mustard Pie",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 4308.9,
+        "proteinG": 266.22,
+        "fatG": 260.15
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52878",
+      "name": "Beef and Oyster pie",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 5274.65,
+        "proteinG": 271.11,
+        "fatG": 339.93
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 5729.24,
+        "subtotalCaloriesKcal": 5729.24,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53071",
+      "name": "Beef Asado",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3515.09,
+        "proteinG": 344.56,
+        "fatG": 215.89
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 3576.23,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52997",
+      "name": "Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 964.36,
+        "proteinG": 89.16,
+        "fatG": 58.75
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52904",
+      "name": "Beef Bourguignon",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2222.44,
+        "proteinG": 159.07,
+        "fatG": 123.08
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2889.47,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52812",
+      "name": "Beef Brisket Pot Roast",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 221.73,
+        "proteinG": 10.31,
+        "fatG": 1.19
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53070",
+      "name": "Beef Caldereta",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3508.16,
+        "proteinG": 456.61,
+        "fatG": 161.5
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52873",
+      "name": "Beef Dumpling Stew",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2697.15,
+        "proteinG": 194.05,
+        "fatG": 143.52
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52952",
+      "name": "Beef Lo Mein",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1076.93,
+        "proteinG": 56.26,
+        "fatG": 90.71
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1617.99,
+        "subtotalCaloriesKcal": 1617.99,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53359",
+      "name": "Beef Mandi",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 4034.23,
+        "proteinG": 83.4,
+        "fatG": 52.17
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53068",
+      "name": "Beef Mechado",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1824.02,
+        "proteinG": 213.16,
+        "fatG": 85.43
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53238",
+      "name": "Beef pho",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1125.8,
+        "proteinG": 75.1,
+        "fatG": 15.21
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1297.76,
+        "subtotalCaloriesKcal": 1297.76,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52824",
+      "name": "Beef Sunday Roast",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 925.27,
+        "proteinG": 50.17,
+        "fatG": 28.85
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52803",
+      "name": "Beef Wellington",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2993.36,
+        "proteinG": 53.57,
+        "fatG": 201.78
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 4906.48,
+        "subtotalCaloriesKcal": 4906.48,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53307",
+      "name": "Beetroot & red cabbage sauerkraut",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 310.16,
+        "proteinG": 11.82,
+        "fatG": 2.54
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53013",
+      "name": "Big Mac",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1004.97,
+        "proteinG": 74.25,
+        "fatG": 78.61
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 3084.42,
+        "subtotalCaloriesKcal": 3084.42,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53018",
+      "name": "Bigos (Hunters Stew)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2750.85,
+        "proteinG": 168.33,
+        "fatG": 195.33
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53300",
+      "name": "Bigos (Polish hunter's stew)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2848.42,
+        "proteinG": 210.09,
+        "fatG": 156.09
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 4460.47,
+        "subtotalCaloriesKcal": 4460.47,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53580",
+      "name": "Biss Jaggery Modak",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": { "caloriesKcal": 551, "proteinG": 0.17, "fatG": 0 },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1046.6,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53069",
+      "name": "Bistek",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1119.17,
+        "proteinG": 105.27,
+        "fatG": 75.95
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52891",
+      "name": "Blackberry Fool",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 4009.68,
+        "proteinG": 45.34,
+        "fatG": 244.42
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52914",
+      "name": "Boulangère Potatoes",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1618.05,
+        "proteinG": 37.44,
+        "fatG": 32.66
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52826",
+      "name": "Braised Beef Chilli",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2710.21,
+        "proteinG": 268.36,
+        "fatG": 127.78
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 3618.47,
+        "subtotalCaloriesKcal": 3618.47,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53305",
+      "name": "Braised stuffed cabbage",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 845.26,
+        "proteinG": 11.86,
+        "fatG": 28.61
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1286.18,
+        "subtotalCaloriesKcal": 1286.18,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52792",
+      "name": "Bread and Butter Pudding",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 980.2,
+        "proteinG": 28.03,
+        "fatG": 60.75
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53076",
+      "name": "Bread omelette",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 148.89,
+        "proteinG": 12.47,
+        "fatG": 10.02
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52965",
+      "name": "Breakfast Potatoes",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 170.56,
+        "proteinG": 0.01,
+        "fatG": 13.42
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52913",
+      "name": "Brie wrapped in prosciutto & brioche",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3951.68,
+        "proteinG": 126.52,
+        "fatG": 239.57
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 4225.68,
+        "subtotalCaloriesKcal": 4225.68,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52842",
+      "name": "Broccoli & Stilton soup",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 338.69,
+        "proteinG": 3.43,
+        "fatG": 27.61
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1233.9,
+        "subtotalCaloriesKcal": 1233.9,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52940",
+      "name": "Brown Stew Chicken",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1376.8,
+        "proteinG": 16.19,
+        "fatG": 128.55
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52885",
+      "name": "Bubble & Squeak",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 489.75,
+        "proteinG": 10.39,
+        "fatG": 13.08
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52961",
+      "name": "Budino Di Ricotta",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2135.6,
+        "proteinG": 67.17,
+        "fatG": 76.22
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2351.24,
+        "subtotalCaloriesKcal": 2351.24,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53256",
+      "name": "Cacik",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 519.38,
+        "proteinG": 19.53,
+        "fatG": 35.86
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 573.92,
+        "subtotalCaloriesKcal": 573.92,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52819",
+      "name": "Cajun spiced fish tacos",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 49.79,
+        "proteinG": 0.41,
+        "fatG": 4.82
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1695.49,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53361",
+      "name": "Callaloo and SaltFish",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 720.63,
+        "proteinG": 144.06,
+        "fatG": 5.47
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1261.18,
+        "missingCalorieIngredients": 2
+      }
+    },
+    {
+      "id": "52939",
+      "name": "Callaloo Jamaican Style",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 16.11,
+        "proteinG": 0.76,
+        "fatG": 0.18
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52923",
+      "name": "Canadian Butter Tarts",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1848.48,
+        "proteinG": 23.71,
+        "fatG": 85.87
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1887.49,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53360",
+      "name": "Caribbean Tamarind balls",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1085.7,
+        "proteinG": 0,
+        "fatG": 0.9
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2174.34,
+        "subtotalCaloriesKcal": 2174.34,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52897",
+      "name": "Carrot Cake",
+      "isFullyUsdaCalculated": true,
+      "hasGrokEstimate": false,
+      "usdaStatus": "calculated-estimate",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 10482.82,
+        "proteinG": 122.83,
+        "fatG": 698.59
+      },
+      "usdaTotals": {
+        "caloriesKcal": 10482.82,
+        "proteinG": 122.83,
+        "fatG": 698.59
+      },
+      "grok": null
+    },
+    {
+      "id": "52976",
+      "name": "Cashew Ghoriba Biscuits",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2541.06,
+        "proteinG": 70.51,
+        "fatG": 158.14
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2657.76,
+        "subtotalCaloriesKcal": 2657.76,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52969",
+      "name": "Chakchouka",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 612.4,
+        "proteinG": 27.24,
+        "fatG": 47.46
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53310",
+      "name": "Challah",
+      "isFullyUsdaCalculated": true,
+      "hasGrokEstimate": false,
+      "usdaStatus": "calculated-estimate",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2877.04,
+        "proteinG": 89.6,
+        "fatG": 86.82
+      },
+      "usdaTotals": {
+        "caloriesKcal": 2877.04,
+        "proteinG": 89.6,
+        "fatG": 86.82
+      },
+      "grok": null
+    },
+    {
+      "id": "53016",
+      "name": "Chick-Fil-A Sandwich",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2272.27,
+        "proteinG": 16.86,
+        "fatG": 222.82
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2455.85,
+        "missingCalorieIngredients": 3
+      }
+    },
+    {
+      "id": "53161",
+      "name": "Chicken & chorizo rice pot",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2327.89,
+        "proteinG": 66.22,
+        "fatG": 74.69
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52796",
+      "name": "Chicken Alfredo Primavera",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2995.7,
+        "proteinG": 96.66,
+        "fatG": 125.34
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 5046.21,
+        "subtotalCaloriesKcal": 5046.21,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52934",
+      "name": "Chicken Basquaise",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 4590.45,
+        "proteinG": 368.41,
+        "fatG": 191.02
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52956",
+      "name": "Chicken Congee",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 622.15,
+        "proteinG": 56.35,
+        "fatG": 7.91
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 628.83,
+        "subtotalCaloriesKcal": 628.83,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52850",
+      "name": "Chicken Couscous",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1450.93,
+        "proteinG": 88.5,
+        "fatG": 25.89
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1710.83,
+        "subtotalCaloriesKcal": 1710.83,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52765",
+      "name": "Chicken Enchilada Casserole",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 119.07,
+        "proteinG": 2.46,
+        "fatG": 3.61
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52818",
+      "name": "Chicken Fajita Mac and Cheese",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2764.78,
+        "proteinG": 94.46,
+        "fatG": 92.5
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 3344.67,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53367",
+      "name": "Chicken Fried Rice",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1380.82,
+        "proteinG": 111.97,
+        "fatG": 96.42
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 3776.51,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52795",
+      "name": "Chicken Handi",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2334.77,
+        "proteinG": 265.45,
+        "fatG": 127.11
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2855.36,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52831",
+      "name": "Chicken Karaage",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1255.22,
+        "proteinG": 99.94,
+        "fatG": 87
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1453.81,
+        "subtotalCaloriesKcal": 1453.81,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53358",
+      "name": "Chicken Mandi",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 411.89,
+        "proteinG": 1.79,
+        "fatG": 41.24
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52920",
+      "name": "Chicken Marengo",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 497.16,
+        "proteinG": 17.54,
+        "fatG": 22.72
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2640.76,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52879",
+      "name": "Chicken Parmentier",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3080.22,
+        "proteinG": 192.08,
+        "fatG": 128.71
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53011",
+      "name": "Chicken Quinoa Greek Salad",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2032.34,
+        "proteinG": 143.73,
+        "fatG": 87.88
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53261",
+      "name": "Chicken wings with cumin, lemon & garlic",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 317.41,
+        "proteinG": 0.83,
+        "fatG": 27.31
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53186",
+      "name": "Chicken with saffron, raisins & pine nuts",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1902.04,
+        "proteinG": 271.1,
+        "fatG": 65.96
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52870",
+      "name": "Chickpea Fajitas",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 951.14,
+        "proteinG": 33.01,
+        "fatG": 44.01
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1901.58,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53166",
+      "name": "Chickpea, chorizo & spinach stew",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2343.65,
+        "proteinG": 97,
+        "fatG": 131.46
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2426.56,
+        "subtotalCaloriesKcal": 2426.56,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53265",
+      "name": "Chilli ginger lamb chops",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 147.68,
+        "proteinG": 1.14,
+        "fatG": 13.73
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52839",
+      "name": "Chilli prawn linguine",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1315.3,
+        "proteinG": 36.91,
+        "fatG": 31.1
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1645.55,
+        "missingCalorieIngredients": 3
+      }
+    },
+    {
+      "id": "53365",
+      "name": "Chinese Orange Chicken",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 5961.69,
+        "proteinG": 147.34,
+        "fatG": 512.75
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 6036.74,
+        "missingCalorieIngredients": 2
+      }
+    },
+    {
+      "id": "53372",
+      "name": "Chinese Tomato Egg Stir Fry",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 662.81,
+        "proteinG": 34.34,
+        "fatG": 45.1
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1998.55,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52910",
+      "name": "Chinon Apple Tarts",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1931.12,
+        "proteinG": 23.4,
+        "fatG": 121.92
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2671.84,
+        "subtotalCaloriesKcal": 2671.84,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52856",
+      "name": "Choc Chip Pecan Pie",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 8404.57,
+        "proteinG": 112.32,
+        "fatG": 534.72
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 9384.58,
+        "subtotalCaloriesKcal": 9384.58,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53170",
+      "name": "Chocolate churros with chocolate & salted caramel sauce",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3947.34,
+        "proteinG": 52.28,
+        "fatG": 233.98
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 3947.34,
+        "missingCalorieIngredients": 2
+      }
+    },
+    {
+      "id": "52776",
+      "name": "Chocolate Gateau",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2766.9,
+        "proteinG": 50.07,
+        "fatG": 171.08
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 4104.4,
+        "subtotalCaloriesKcal": 4104.4,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52860",
+      "name": "Chocolate Raspberry Brownies",
+      "isFullyUsdaCalculated": true,
+      "hasGrokEstimate": false,
+      "usdaStatus": "calculated-estimate",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 6071.08,
+        "proteinG": 80.94,
+        "fatG": 349.76
+      },
+      "usdaTotals": {
+        "caloriesKcal": 6071.08,
+        "proteinG": 80.94,
+        "fatG": 349.76
+      },
+      "grok": null
+    },
+    {
+      "id": "52905",
+      "name": "Chocolate Souffle",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2637.12,
+        "proteinG": 52.54,
+        "fatG": 179.08
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2994.62,
+        "subtotalCaloriesKcal": 2994.62,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53168",
+      "name": "Chorizo & chickpea soup",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 983.4,
+        "proteinG": 49.23,
+        "fatG": 42.15
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1122.62,
+        "subtotalCaloriesKcal": 1122.62,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53157",
+      "name": "Chorizo & soft-boiled egg salad",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1434.51,
+        "proteinG": 70.57,
+        "fatG": 78.43
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1445.87,
+        "subtotalCaloriesKcal": 1445.87,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53185",
+      "name": "Chorizo & tomato salad",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 576.46,
+        "proteinG": 14.56,
+        "fatG": 52.02
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 675.41,
+        "subtotalCaloriesKcal": 675.41,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53159",
+      "name": "Chorizo, potato & cheese omelette",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 512.85,
+        "proteinG": 31.35,
+        "fatG": 40.55
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53153",
+      "name": "Churros",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 11415.39,
+        "proteinG": 55.29,
+        "fatG": 1091.5
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 11782.89,
+        "subtotalCaloriesKcal": 11782.89,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52840",
+      "name": "Clam chowder",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2932.38,
+        "proteinG": 252.66,
+        "fatG": 170.98
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53154",
+      "name": "Clam, chorizo & white bean stew",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2151.68,
+        "proteinG": 185.67,
+        "fatG": 23.27
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2168.83,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53343",
+      "name": "Classic Tourtière",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2261.48,
+        "proteinG": 173.61,
+        "fatG": 169.58
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 5845.76,
+        "subtotalCaloriesKcal": 5845.76,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52832",
+      "name": "Coq au vin",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2974.13,
+        "proteinG": 283.65,
+        "fatG": 192.9
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 3739.26,
+        "subtotalCaloriesKcal": 3739.26,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52977",
+      "name": "Corba",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 741.9,
+        "proteinG": 50.54,
+        "fatG": 3.12
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53350",
+      "name": "Corned Beef and Cabbage – Jamaican Style",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 872.23,
+        "proteinG": 51.7,
+        "fatG": 64.21
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52779",
+      "name": "Cream Cheese Tart",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2704.06,
+        "proteinG": 94.8,
+        "fatG": 159.97
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 3732.36,
+        "subtotalCaloriesKcal": 3732.36,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53148",
+      "name": "Crema Catalana",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1829.61,
+        "proteinG": 37.37,
+        "fatG": 103.19
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2008.51,
+        "subtotalCaloriesKcal": 2008.51,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53072",
+      "name": "Crispy Eggplant",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 861.99,
+        "proteinG": 35.76,
+        "fatG": 40.58
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52830",
+      "name": "Crock Pot Chicken Baked Tacos",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 103.08,
+        "proteinG": 2.76,
+        "fatG": 7.87
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 5915.28,
+        "subtotalCaloriesKcal": 5915.28,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53309",
+      "name": "Cucumber & fennel salad",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 256.82,
+        "proteinG": 3.74,
+        "fatG": 21.92
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52785",
+      "name": "Dal fry",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 78.27,
+        "proteinG": 2.88,
+        "fatG": 1.92
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1139.71,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53338",
+      "name": "Date squares",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3525.87,
+        "proteinG": 18.67,
+        "fatG": 187.04
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 4137.07,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53193",
+      "name": "Drunken noodles (pad kee mao)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1446.26,
+        "proteinG": 71.05,
+        "fatG": 42.13
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1454.46,
+        "subtotalCaloriesKcal": 1454.46,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52907",
+      "name": "Duck Confit",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 17.16,
+        "proteinG": 0.79,
+        "fatG": 0.05
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 3469.65,
+        "subtotalCaloriesKcal": 3469.65,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53143",
+      "name": "Easy Spanish chicken",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2378.1,
+        "proteinG": 113.68,
+        "fatG": 89
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52955",
+      "name": "Egg Drop Soup",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 158.08,
+        "proteinG": 7.42,
+        "fatG": 6.27
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53370",
+      "name": "Egg Foo Young",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 6521.78,
+        "proteinG": 59.37,
+        "fatG": 694.63
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 7892.89,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53073",
+      "name": "Eggplant Adobo",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 841.97,
+        "proteinG": 26.65,
+        "fatG": 60.88
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 883.2,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53031",
+      "name": "Egyptian Fatteh",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 6216.89,
+        "proteinG": 126.92,
+        "fatG": 499.83
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 6483.12,
+        "missingCalorieIngredients": 2
+      }
+    },
+    {
+      "id": "52944",
+      "name": "Escovitch Fish",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1076.05,
+        "proteinG": 1.46,
+        "fatG": 109.21
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2026.01,
+        "subtotalCaloriesKcal": 2026.01,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53254",
+      "name": "Ezme",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 511.77,
+        "proteinG": 1.83,
+        "fatG": 54.72
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 793.57,
+        "missingCalorieIngredients": 3
+      }
+    },
+    {
+      "id": "53266",
+      "name": "Falafel",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 921.52,
+        "proteinG": 35.7,
+        "fatG": 44.69
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52919",
+      "name": "Fennel Dauphinoise",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 584.2,
+        "proteinG": 10.77,
+        "fatG": 39.95
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53030",
+      "name": "Feteer Meshaltet",
+      "isFullyUsdaCalculated": true,
+      "hasGrokEstimate": false,
+      "usdaStatus": "calculated-estimate",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3891.82,
+        "proteinG": 67.43,
+        "fatG": 246.05
+      },
+      "usdaTotals": {
+        "caloriesKcal": 3891.82,
+        "proteinG": 67.43,
+        "fatG": 246.05
+      },
+      "grok": null
+    },
+    {
+      "id": "53064",
+      "name": "Fettuccine Alfredo",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2906.66,
+        "proteinG": 76.6,
+        "fatG": 135.52
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52835",
+      "name": "Fettucine alfredo",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1509.75,
+        "proteinG": 62.91,
+        "fatG": 53.65
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1522.05,
+        "missingCalorieIngredients": 2
+      }
+    },
+    {
+      "id": "53342",
+      "name": "Figgy Duff",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1677.05,
+        "proteinG": 33.09,
+        "fatG": 4.08
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53043",
+      "name": "Fish fofos",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1291.15,
+        "proteinG": 136.41,
+        "fatG": 23.53
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52918",
+      "name": "Fish Stew with Rouille",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 498.3,
+        "proteinG": 9.79,
+        "fatG": 44.01
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1172.85,
+        "missingCalorieIngredients": 6
+      }
+    },
+    {
+      "id": "52906",
+      "name": "Flamiche",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3376.32,
+        "proteinG": 71.5,
+        "fatG": 213.25
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 4369.12,
+        "subtotalCaloriesKcal": 4369.12,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53341",
+      "name": "Flapper Pie",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1640.64,
+        "proteinG": 39.62,
+        "fatG": 35.38
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 3117.31,
+        "subtotalCaloriesKcal": 3117.31,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52815",
+      "name": "French Lentils With Garlic and Thyme",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 419.4,
+        "proteinG": 1.63,
+        "fatG": 40.34
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52915",
+      "name": "French Omelette",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 368.61,
+        "proteinG": 29.26,
+        "fatG": 26.25
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 449.16,
+        "subtotalCaloriesKcal": 449.16,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52996",
+      "name": "French Onion Chicken with Roasted Carrots & Mashed Potatoes",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 264.67,
+        "proteinG": 5.12,
+        "fatG": 5.59
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 751.05,
+        "missingCalorieIngredients": 4
+      }
+    },
+    {
+      "id": "52957",
+      "name": "Fruit and Cream Cheese Breakfast Pastries",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1038.39,
+        "proteinG": 2.05,
+        "fatG": 12.63
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53025",
+      "name": "Ful Medames",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 7.2,
+        "proteinG": 0.59,
+        "fatG": 0.16
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1620.16,
+        "subtotalCaloriesKcal": 1620.16,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52764",
+      "name": "Garides Saganaki",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1332.68,
+        "proteinG": 120.85,
+        "fatG": 84.45
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52951",
+      "name": "General Tsos Chicken",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 988.58,
+        "proteinG": 23.95,
+        "fatG": 34.25
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1842.73,
+        "subtotalCaloriesKcal": 1842.73,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53012",
+      "name": "Gigantes Plaki",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2021.14,
+        "proteinG": 94.47,
+        "fatG": 46.84
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53021",
+      "name": "Golabki (cabbage roll)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2631.09,
+        "proteinG": 144.32,
+        "fatG": 122.81
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53346",
+      "name": "Grape Nut Ice Cream",
+      "isFullyUsdaCalculated": true,
+      "hasGrokEstimate": false,
+      "usdaStatus": "calculated-estimate",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1367.81,
+        "proteinG": 20.67,
+        "fatG": 90.63
+      },
+      "usdaTotals": {
+        "caloriesKcal": 1367.81,
+        "proteinG": 20.67,
+        "fatG": 90.63
+      },
+      "grok": null
+    },
+    {
+      "id": "53274",
+      "name": "Griddled aubergines with sesame dressing",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 475.66,
+        "proteinG": 22.15,
+        "fatG": 37.81
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53272",
+      "name": "Griddled flatbreads",
+      "isFullyUsdaCalculated": true,
+      "hasGrokEstimate": false,
+      "usdaStatus": "calculated-estimate",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2133.77,
+        "proteinG": 79.57,
+        "fatG": 38.93
+      },
+      "usdaTotals": {
+        "caloriesKcal": 2133.77,
+        "proteinG": 79.57,
+        "fatG": 38.93
+      },
+      "grok": null
+    },
+    {
+      "id": "53255",
+      "name": "Grilled aubergines with spicy chickpeas & walnut sauce",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1490.47,
+        "proteinG": 51.87,
+        "fatG": 93.17
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53074",
+      "name": "Grilled eggplant with coconut milk",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3.36,
+        "proteinG": 0.05,
+        "fatG": 0.04
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52829",
+      "name": "Grilled Mac and Cheese Sandwich",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 5373.5,
+        "proteinG": 186.32,
+        "fatG": 411.82
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 7726.22,
+        "subtotalCaloriesKcal": 7726.22,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53041",
+      "name": "Grilled Portuguese sardines",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 269.16,
+        "proteinG": 1.56,
+        "fatG": 27.73
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53340",
+      "name": "Hodge Podge",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2088.3,
+        "proteinG": 44.26,
+        "fatG": 140.8
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52993",
+      "name": "Honey Balsamic Chicken with Crispy Broccoli & Potatoes",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 349.18,
+        "proteinG": 0.52,
+        "fatG": 38.61
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52773",
+      "name": "Honey Teriyaki Salmon",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1235.38,
+        "proteinG": 101.07,
+        "fatG": 90.9
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53007",
+      "name": "Honey Yogurt Cheesecake",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2369.78,
+        "proteinG": 32.54,
+        "fatG": 122.73
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2609.53,
+        "missingCalorieIngredients": 3
+      }
+    },
+    {
+      "id": "52954",
+      "name": "Hot and Sour Soup",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 77.44,
+        "proteinG": 0.47,
+        "fatG": 4.55
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 562.09,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52787",
+      "name": "Hot Chocolate Fudge",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1862.2,
+        "proteinG": 15.9,
+        "fatG": 119.88
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 4788.01,
+        "subtotalCaloriesKcal": 4788.01,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53258",
+      "name": "Hot cumin lamb wrap with crunchy slaw & spicy mayo",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 259.33,
+        "proteinG": 3.86,
+        "fatG": 9.89
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2284.03,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53269",
+      "name": "Hummus",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 548,
+        "proteinG": 28.08,
+        "fatG": 12.4
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53339",
+      "name": "Jam jam cookies",
+      "isFullyUsdaCalculated": true,
+      "hasGrokEstimate": false,
+      "usdaStatus": "calculated-estimate",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 6521.71,
+        "proteinG": 76.14,
+        "fatG": 198.67
+      },
+      "usdaTotals": {
+        "caloriesKcal": 6521.71,
+        "proteinG": 76.14,
+        "fatG": 198.67
+      },
+      "grok": null
+    },
+    {
+      "id": "53351",
+      "name": "Jamaican Banana Fritters",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 568.29,
+        "proteinG": 16.49,
+        "fatG": 2.07
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52938",
+      "name": "Jamaican Beef Patties",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 5610.65,
+        "proteinG": 238.55,
+        "fatG": 359.08
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53353",
+      "name": "Jamaican Boiled Dumplings",
+      "isFullyUsdaCalculated": true,
+      "hasGrokEstimate": false,
+      "usdaStatus": "calculated-estimate",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 895,
+        "proteinG": 32.75,
+        "fatG": 3.7
+      },
+      "usdaTotals": { "caloriesKcal": 895, "proteinG": 32.75, "fatG": 3.7 },
+      "grok": null
+    },
+    {
+      "id": "53363",
+      "name": "Jamaican Cornmeal Porridge",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 892.14,
+        "proteinG": 8.71,
+        "fatG": 90.6
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53345",
+      "name": "Jamaican Curry Chicken Recipe",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1784.71,
+        "proteinG": 172.97,
+        "fatG": 114.41
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2068.6,
+        "missingCalorieIngredients": 2
+      }
+    },
+    {
+      "id": "53354",
+      "name": "Jamaican Curry Goat",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1805.02,
+        "proteinG": 282.73,
+        "fatG": 58.82
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2118.66,
+        "subtotalCaloriesKcal": 2118.66,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53362",
+      "name": "Jamaican Curry Shrimp Recipe",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 636.78,
+        "proteinG": 72.63,
+        "fatG": 30.57
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1474.08,
+        "subtotalCaloriesKcal": 1474.08,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53355",
+      "name": "Jamaican Festival (Sweet Dumpling)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1077.47,
+        "proteinG": 30.67,
+        "fatG": 8.98
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53356",
+      "name": "Jamaican Fried Dumplings",
+      "isFullyUsdaCalculated": true,
+      "hasGrokEstimate": false,
+      "usdaStatus": "calculated-estimate",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3902.61,
+        "proteinG": 38.86,
+        "fatG": 336.68
+      },
+      "usdaTotals": {
+        "caloriesKcal": 3902.61,
+        "proteinG": 38.86,
+        "fatG": 336.68
+      },
+      "grok": null
+    },
+    {
+      "id": "53033",
+      "name": "Japanese gohan rice",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1095,
+        "proteinG": 21.39,
+        "fatG": 1.98
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1134.25,
+        "subtotalCaloriesKcal": 1134.25,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53034",
+      "name": "Japanese Katsudon",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1030,
+        "proteinG": 28.37,
+        "fatG": 25.14
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1338.6,
+        "subtotalCaloriesKcal": 1338.6,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53335",
+      "name": "Jiggs Dinner",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1484.78,
+        "proteinG": 196.68,
+        "fatG": 78.35
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 3035.39,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52971",
+      "name": "Kafteji",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 638.82,
+        "proteinG": 10.2,
+        "fatG": 27.68
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 3077.18,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52820",
+      "name": "Katsu Chicken curry",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2904.4,
+        "proteinG": 33.01,
+        "fatG": 250.67
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 3640.22,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52974",
+      "name": "Keleya Zaara",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 590.1,
+        "proteinG": 1.13,
+        "fatG": 65.52
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 665.95,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52813",
+      "name": "Kentucky Fried Chicken",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 761.91,
+        "proteinG": 29.98,
+        "fatG": 4.22
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2986.43,
+        "subtotalCaloriesKcal": 2986.43,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52859",
+      "name": "Key Lime Pie",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3595.67,
+        "proteinG": 49.82,
+        "fatG": 281.54
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 3661.67,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52868",
+      "name": "Kidney Bean Curry",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 769.63,
+        "proteinG": 36.47,
+        "fatG": 21.03
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 810.03,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53027",
+      "name": "Koshari",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2651.69,
+        "proteinG": 43.52,
+        "fatG": 113.58
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53015",
+      "name": "Krispy Kreme Donut",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3497.21,
+        "proteinG": 20.24,
+        "fatG": 77.9
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 4087.73,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52945",
+      "name": "Kung Pao Chicken",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1522.91,
+        "proteinG": 135.03,
+        "fatG": 87.29
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1853.95,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52946",
+      "name": "Kung Po Prawns",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 921.85,
+        "proteinG": 86.16,
+        "fatG": 44.8
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1074.43,
+        "subtotalCaloriesKcal": 1074.43,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53009",
+      "name": "Lamb and Lemon Souvlaki",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1990.55,
+        "proteinG": 139.77,
+        "fatG": 154.85
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52805",
+      "name": "Lamb Biryani",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 203.58,
+        "proteinG": 5.42,
+        "fatG": 2.55
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 3424.24,
+        "subtotalCaloriesKcal": 3424.24,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52808",
+      "name": "Lamb Rogan josh",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 632.83,
+        "proteinG": 4.51,
+        "fatG": 55.26
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 3391.14,
+        "subtotalCaloriesKcal": 3391.14,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52843",
+      "name": "Lamb Tagine",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1424.64,
+        "proteinG": 96.09,
+        "fatG": 94.81
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2520.71,
+        "subtotalCaloriesKcal": 2520.71,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52782",
+      "name": "Lamb tomato and sweet spices",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1406.94,
+        "proteinG": 76.79,
+        "fatG": 104.86
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1820.77,
+        "subtotalCaloriesKcal": 1820.77,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53010",
+      "name": "Lamb Tzatziki Burgers",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1481.27,
+        "proteinG": 108.92,
+        "fatG": 102.78
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2175.23,
+        "subtotalCaloriesKcal": 2175.23,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52987",
+      "name": "Lasagna Sandwiches",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1251.53,
+        "proteinG": 32.8,
+        "fatG": 122.52
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2153.54,
+        "subtotalCaloriesKcal": 2153.54,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52844",
+      "name": "Lasagne",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1528.94,
+        "proteinG": 115.11,
+        "fatG": 96.33
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 5239.87,
+        "subtotalCaloriesKcal": 5239.87,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52973",
+      "name": "Leblebi Soup",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 671.13,
+        "proteinG": 21.91,
+        "fatG": 35.61
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 742.3,
+        "subtotalCaloriesKcal": 742.3,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53211",
+      "name": "Lemongrass beef stew with noodles",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 985.28,
+        "proteinG": 67.03,
+        "fatG": 40.28
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1075.72,
+        "subtotalCaloriesKcal": 1075.72,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52947",
+      "name": "Ma Po Tofu",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1182.27,
+        "proteinG": 76.98,
+        "fatG": 91.5
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1232.53,
+        "missingCalorieIngredients": 3
+      }
+    },
+    {
+      "id": "52827",
+      "name": "Massaman Beef curry",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3054.78,
+        "proteinG": 176.6,
+        "fatG": 208.08
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 3300.39,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52865",
+      "name": "Matar Paneer",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 251.16,
+        "proteinG": 8.43,
+        "fatG": 14.3
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 384.06,
+        "missingCalorieIngredients": 3
+      }
+    },
+    {
+      "id": "52777",
+      "name": "Mediterranean Pasta Salad",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1773.68,
+        "proteinG": 48.18,
+        "fatG": 52.25
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2544.45,
+        "subtotalCaloriesKcal": 2544.45,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53304",
+      "name": "Mini bundt cakes",
+      "isFullyUsdaCalculated": true,
+      "hasGrokEstimate": false,
+      "usdaStatus": "calculated-estimate",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2476.36,
+        "proteinG": 45.14,
+        "fatG": 142.26
+      },
+      "usdaTotals": {
+        "caloriesKcal": 2476.36,
+        "proteinG": 45.14,
+        "fatG": 142.26
+      },
+      "grok": null
+    },
+    {
+      "id": "53336",
+      "name": "Molasses Baked Beans",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1523.97,
+        "proteinG": 31.02,
+        "fatG": 84.38
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2456.01,
+        "subtotalCaloriesKcal": 2456.01,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52927",
+      "name": "Montreal Smoked Meat",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 91.44,
+        "proteinG": 1.97,
+        "fatG": 1.6
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 7314.3,
+        "subtotalCaloriesKcal": 7314.3,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53047",
+      "name": "Moroccan Carrot Soup",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 174.06,
+        "proteinG": 1.21,
+        "fatG": 13.5
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 558.72,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53006",
+      "name": "Moussaka",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1357.82,
+        "proteinG": 145.62,
+        "fatG": 43.33
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53029",
+      "name": "Mulukhiyah",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1392.81,
+        "proteinG": 66.11,
+        "fatG": 121.79
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1397.1,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52924",
+      "name": "Nanaimo Bars",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 4474.5,
+        "proteinG": 42.24,
+        "fatG": 311.34
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 5685.9,
+        "subtotalCaloriesKcal": 5685.9,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53377",
+      "name": "Napa Cabbage with Dried Shrimp",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 33.6,
+        "proteinG": 1.43,
+        "fatG": 0.14
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 430.83,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52858",
+      "name": "New York cheesecake",
+      "isFullyUsdaCalculated": true,
+      "hasGrokEstimate": false,
+      "usdaStatus": "calculated-estimate",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 5973.15,
+        "proteinG": 88.94,
+        "fatG": 470.7
+      },
+      "usdaTotals": {
+        "caloriesKcal": 5973.15,
+        "proteinG": 88.94,
+        "fatG": 470.7
+      },
+      "grok": null
+    },
+    {
+      "id": "53245",
+      "name": "Noodle bowl salad",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 631.49,
+        "proteinG": 11.66,
+        "fatG": 10.02
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 888.45,
+        "missingCalorieIngredients": 2
+      }
+    },
+    {
+      "id": "52851",
+      "name": "Nutty Chicken Curry",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 787.5,
+        "proteinG": 36.11,
+        "fatG": 62.34
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52810",
+      "name": "Osso Buco alla Milanese",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 795.83,
+        "proteinG": 10.47,
+        "fatG": 62.9
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 4735.9,
+        "subtotalCaloriesKcal": 4735.9,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52774",
+      "name": "Pad See Ew",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 758.76,
+        "proteinG": 18.1,
+        "fatG": 6.16
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1235.27,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53191",
+      "name": "Pad Thai",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1065.51,
+        "proteinG": 50.63,
+        "fatG": 40.74
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1189.81,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53192",
+      "name": "Panang chicken curry (kaeng panang gai)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1207.18,
+        "proteinG": 57.14,
+        "fatG": 100.94
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1575.9,
+        "missingCalorieIngredients": 4
+      }
+    },
+    {
+      "id": "52854",
+      "name": "Pancakes",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 816.56,
+        "proteinG": 35.9,
+        "fatG": 35.2
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53017",
+      "name": "Paszteciki (Polish Pasties)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2146.86,
+        "proteinG": 83.41,
+        "fatG": 160.9
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2218.46,
+        "subtotalCaloriesKcal": 2218.46,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52930",
+      "name": "Pate Chinois",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1374.67,
+        "proteinG": 87.65,
+        "fatG": 108.62
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2267.94,
+        "subtotalCaloriesKcal": 2267.94,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52862",
+      "name": "Peach & Blueberry Grunt",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1761.1,
+        "proteinG": 25.24,
+        "fatG": 46.55
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2184.11,
+        "subtotalCaloriesKcal": 2184.11,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52861",
+      "name": "Peanut Butter Cheesecake",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3284.1,
+        "proteinG": 90.96,
+        "fatG": 288.15
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 4956,
+        "subtotalCaloriesKcal": 4956,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52958",
+      "name": "Peanut Butter Cookies",
+      "isFullyUsdaCalculated": true,
+      "hasGrokEstimate": false,
+      "usdaStatus": "calculated-estimate",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1953.38,
+        "proteinG": 62.82,
+        "fatG": 133.12
+      },
+      "usdaTotals": {
+        "caloriesKcal": 1953.38,
+        "proteinG": 62.82,
+        "fatG": 133.12
+      },
+      "grok": null
+    },
+    {
+      "id": "53292",
+      "name": "Piernik (Polish gingerbread)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 5651.38,
+        "proteinG": 75.59,
+        "fatG": 274.8
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 6205.57,
+        "subtotalCaloriesKcal": 6205.57,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53019",
+      "name": "Pierogi (Polish Dumplings)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2122.69,
+        "proteinG": 70.38,
+        "fatG": 78.74
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52837",
+      "name": "Pilchard puttanesca",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1364.3,
+        "proteinG": 42.07,
+        "fatG": 22.92
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2227.9,
+        "subtotalCaloriesKcal": 2227.9,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53039",
+      "name": "Piri-piri chicken and slaw",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2150.72,
+        "proteinG": 323.96,
+        "fatG": 74.44
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53293",
+      "name": "Pistachio cake",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 5761.47,
+        "proteinG": 88.36,
+        "fatG": 389.65
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 7398.98,
+        "subtotalCaloriesKcal": 7398.98,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53014",
+      "name": "Pizza Express Margherita",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 902.29,
+        "proteinG": 36.81,
+        "fatG": 4.7
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1174.65,
+        "subtotalCaloriesKcal": 1174.65,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53295",
+      "name": "Polish chocolate & walnut cake",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 5439.02,
+        "proteinG": 132.3,
+        "fatG": 284.02
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 5670.62,
+        "subtotalCaloriesKcal": 5670.62,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53298",
+      "name": "Polish doughnuts (Pączki)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 4385.33,
+        "proteinG": 113.56,
+        "fatG": 163.06
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 4394.03,
+        "missingCalorieIngredients": 2
+      }
+    },
+    {
+      "id": "53299",
+      "name": "Polish patties (kotlety)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2232.88,
+        "proteinG": 112.57,
+        "fatG": 168.4
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53044",
+      "name": "Portuguese barbecued pork (Febras assadas)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 837.24,
+        "proteinG": 22.86,
+        "fatG": 3.75
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53046",
+      "name": "Portuguese custard tarts",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3838.67,
+        "proteinG": 70.12,
+        "fatG": 190.35
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 4058.75,
+        "subtotalCaloriesKcal": 4058.75,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53045",
+      "name": "Portuguese fish stew (Caldeirada de peixe)",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2087.75,
+        "proteinG": 299.01,
+        "fatG": 27.12
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 3281.94,
+        "subtotalCaloriesKcal": 3281.94,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53042",
+      "name": "Portuguese prego with green piri-piri",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 254.47,
+        "proteinG": 0.2,
+        "fatG": 26.84
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 309.21,
+        "missingCalorieIngredients": 2
+      }
+    },
+    {
+      "id": "52780",
+      "name": "Potato Gratin with Chicken",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1073.65,
+        "proteinG": 22.39,
+        "fatG": 30.14
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2440.75,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52932",
+      "name": "Pouding chomeur",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 5380.3,
+        "proteinG": 57.46,
+        "fatG": 178.74
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 6082.31,
+        "subtotalCaloriesKcal": 6082.31,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53244",
+      "name": "Prawn & noodle salad with crispy shallots",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1106.56,
+        "proteinG": 50.92,
+        "fatG": 11.94
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53200",
+      "name": "Prawn stir-fry",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 259.25,
+        "proteinG": 38.87,
+        "fatG": 1.95
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 633.98,
+        "missingCalorieIngredients": 2
+      }
+    },
+    {
+      "id": "52857",
+      "name": "Pumpkin Pie",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1210.46,
+        "proteinG": 24.98,
+        "fatG": 37.62
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1246.26,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53230",
+      "name": "Purple sprouting broccoli tempura with nuoc cham",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 576.57,
+        "proteinG": 21.66,
+        "fatG": 6.71
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 585.57,
+        "missingCalorieIngredients": 4
+      }
+    },
+    {
+      "id": "53383",
+      "name": "Ramen Noodles with Boiled Egg",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 85.54,
+        "proteinG": 7.61,
+        "fatG": 5.11
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 94.99,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52809",
+      "name": "Recheado Masala Fish",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 91.91,
+        "proteinG": 1.73,
+        "fatG": 0.18
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2549.03,
+        "subtotalCaloriesKcal": 2549.03,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53204",
+      "name": "Red curry chicken kebabs",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 155.68,
+        "proteinG": 2.54,
+        "fatG": 7.35
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 618.63,
+        "subtotalCaloriesKcal": 618.63,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52811",
+      "name": "Ribollita",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1019.4,
+        "proteinG": 30.04,
+        "fatG": 88.67
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53227",
+      "name": "Rice paper dumplings",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1713.91,
+        "proteinG": 78.64,
+        "fatG": 150.32
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2515.41,
+        "subtotalCaloriesKcal": 2515.41,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52783",
+      "name": "Rigatoni with fennel sausage sauce",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2749.29,
+        "proteinG": 71.33,
+        "fatG": 98.59
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 4050.44,
+        "subtotalCaloriesKcal": 4050.44,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52816",
+      "name": "Roasted Eggplant With Tahini, Pine Nuts, and Lentils",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1466.65,
+        "proteinG": 80.51,
+        "fatG": 33.41
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52786",
+      "name": "Rocky Road Fudge",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3391.42,
+        "proteinG": 51.22,
+        "fatG": 227.71
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 4767.82,
+        "subtotalCaloriesKcal": 4767.82,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52962",
+      "name": "Salmon Eggs Eggs Benedict",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1203.82,
+        "proteinG": 26.06,
+        "fatG": 121.94
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1997.12,
+        "subtotalCaloriesKcal": 1997.12,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53234",
+      "name": "Salmon noodle soup",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 607.53,
+        "proteinG": 21.09,
+        "fatG": 5.19
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1098.53,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53248",
+      "name": "Salmon noodle wraps",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1000.05,
+        "proteinG": 69.26,
+        "fatG": 40.47
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1088.95,
+        "subtotalCaloriesKcal": 1088.95,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52823",
+      "name": "Salmon Prawn Risotto",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1703.51,
+        "proteinG": 98.93,
+        "fatG": 79
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53233",
+      "name": "Salt & pepper squid",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 809.38,
+        "proteinG": 75.91,
+        "fatG": 7.01
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 866.07,
+        "missingCalorieIngredients": 4
+      }
+    },
+    {
+      "id": "52833",
+      "name": "Salted Caramel Cheescake",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 4773.76,
+        "proteinG": 48.9,
+        "fatG": 385.05
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 4875.16,
+        "missingCalorieIngredients": 3
+      }
+    },
+    {
+      "id": "53247",
+      "name": "Sea bass with sizzled ginger, chilli & spring onions",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 369.15,
+        "proteinG": 1.3,
+        "fatG": 40.89
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1184.42,
+        "subtotalCaloriesKcal": 1184.42,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53378",
+      "name": "Sesame Cucumber Salad",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 116.8,
+        "proteinG": 1.17,
+        "fatG": 12.14
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 214.96,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52963",
+      "name": "Shakshuka",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 856.18,
+        "proteinG": 35.49,
+        "fatG": 38.93
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53028",
+      "name": "Shawarma",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1821.31,
+        "proteinG": 186.99,
+        "fatG": 120.42
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52953",
+      "name": "Shrimp Chow Fun",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 906.83,
+        "proteinG": 43.54,
+        "fatG": 68.1
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53375",
+      "name": "Shrimp With Snow Peas",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 541.22,
+        "proteinG": 78.98,
+        "fatG": 13.31
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53374",
+      "name": "Sichuan Eggplant",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 250.43,
+        "proteinG": 7.48,
+        "fatG": 1.08
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 555.45,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53371",
+      "name": "Sichuan Style Stir-Fried Chinese Long Beans",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 127.92,
+        "proteinG": 0,
+        "fatG": 13.61
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 366.93,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53369",
+      "name": "Silken Tofu with Sesame Soy Sauce",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 341.05,
+        "proteinG": 36.27,
+        "fatG": 15.5
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 506.05,
+        "subtotalCaloriesKcal": 506.05,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53368",
+      "name": "Singapore Noodles with Shrimp",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1071.41,
+        "proteinG": 61.99,
+        "fatG": 22.59
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1457.69,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52994",
+      "name": "Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 355.53,
+        "proteinG": 0.64,
+        "fatG": 36.79
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52964",
+      "name": "Smoked Haddock Kedgeree",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3191.26,
+        "proteinG": 248.38,
+        "fatG": 70.01
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52992",
+      "name": "Soy-Glazed Meatloaves with Wasabi Mashed Potatoes & Roasted Carrots",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 446.08,
+        "proteinG": 3.84,
+        "fatG": 28.89
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52982",
+      "name": "Spaghetti alla Carbonara",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2117.38,
+        "proteinG": 78.74,
+        "fatG": 89.9
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2318.41,
+        "subtotalCaloriesKcal": 2318.41,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52770",
+      "name": "Spaghetti Bolognese",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2616.63,
+        "proteinG": 148.54,
+        "fatG": 85.2
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52771",
+      "name": "Spicy Arrabiata Penne",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2172.79,
+        "proteinG": 59.85,
+        "fatG": 60.69
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2289.12,
+        "subtotalCaloriesKcal": 2289.12,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52797",
+      "name": "Spicy North African Potato Salad",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 886.04,
+        "proteinG": 32.99,
+        "fatG": 27.05
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1031.99,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53209",
+      "name": "Spicy Thai prawn noodles",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1326.89,
+        "proteinG": 95.88,
+        "fatG": 28.44
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52849",
+      "name": "Spinach & Ricotta Cannelloni",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2043.82,
+        "proteinG": 117.55,
+        "fatG": 107.23
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 6299.72,
+        "subtotalCaloriesKcal": 6299.72,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53040",
+      "name": "Spring onion and prawn empanadas",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1461.97,
+        "proteinG": 102.45,
+        "fatG": 33.06
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52866",
+      "name": "Squash linguine",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1822.53,
+        "proteinG": 49.67,
+        "fatG": 46.11
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53229",
+      "name": "Steak & Vietnamese noodle salad",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 374.96,
+        "proteinG": 5.52,
+        "fatG": 4.96
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 534.48,
+        "missingCalorieIngredients": 2
+      }
+    },
+    {
+      "id": "53201",
+      "name": "Stir-fried chicken with chillies & basil",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 861,
+        "proteinG": 100.61,
+        "fatG": 41.25
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52817",
+      "name": "Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 567.11,
+        "proteinG": 3.41,
+        "fatG": 55.8
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1343.47,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53067",
+      "name": "Stuffed Bell Peppers with Quinoa and Black Beans",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 759.79,
+        "proteinG": 24.75,
+        "fatG": 24.09
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2012.15,
+        "subtotalCaloriesKcal": 2012.15,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53008",
+      "name": "Stuffed Lamb Tomatoes",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 769.1,
+        "proteinG": 7.61,
+        "fatG": 54.64
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1469.08,
+        "subtotalCaloriesKcal": 1469.08,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53065",
+      "name": "Sushi",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 957.11,
+        "proteinG": 18.03,
+        "fatG": 1.72
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1572.56,
+        "subtotalCaloriesKcal": 1572.56,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53376",
+      "name": "Sweet and Sour Chicken",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1026.82,
+        "proteinG": 88.71,
+        "fatG": 54
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1274.52,
+        "subtotalCaloriesKcal": 1274.52,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52949",
+      "name": "Sweet and Sour Pork",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 517.54,
+        "proteinG": 47.83,
+        "fatG": 30.38
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 555.19,
+        "subtotalCaloriesKcal": 555.19,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52950",
+      "name": "Szechuan Beef",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 880.75,
+        "proteinG": 54.58,
+        "fatG": 70
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1113.4,
+        "subtotalCaloriesKcal": 1113.4,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52869",
+      "name": "Tahini Lentils",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1671.59,
+        "proteinG": 80.34,
+        "fatG": 62.92
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53026",
+      "name": "Tamiya",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 10.7,
+        "proteinG": 0.55,
+        "fatG": 0.27
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2657.46,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52806",
+      "name": "Tandoori chicken",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 205.45,
+        "proteinG": 5.26,
+        "fatG": 1.8
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 2998.49,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53246",
+      "name": "Tangy carrot, cabbage & onion salad",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 207.56,
+        "proteinG": 3.71,
+        "fatG": 0.39
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52772",
+      "name": "Teriyaki Chicken Casserole",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 363.03,
+        "proteinG": 15.79,
+        "fatG": 1.11
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 3028.78,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53199",
+      "name": "Thai beef stir-fry",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 778.81,
+        "proteinG": 87.05,
+        "fatG": 46.53
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53206",
+      "name": "Thai chicken cakes with sweet chilli sauce",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 296.67,
+        "proteinG": 1.47,
+        "fatG": 26.93
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 744.67,
+        "missingCalorieIngredients": 4
+      }
+    },
+    {
+      "id": "53208",
+      "name": "Thai coconut & veg broth",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1759.55,
+        "proteinG": 40.88,
+        "fatG": 109.93
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1923.16,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "53195",
+      "name": "Thai curry noodle soup",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 511.96,
+        "proteinG": 27.92,
+        "fatG": 42.24
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 989.27,
+        "subtotalCaloriesKcal": 989.27,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53212",
+      "name": "Thai drumsticks",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 13.98,
+        "proteinG": 0.39,
+        "fatG": 0.04
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1016.64,
+        "missingCalorieIngredients": 2
+      }
+    },
+    {
+      "id": "53198",
+      "name": "Thai fried rice with prawns & peas",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1330.58,
+        "proteinG": 78.16,
+        "fatG": 54.17
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1423.57,
+        "subtotalCaloriesKcal": 1423.57,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53240",
+      "name": "Tofu, greens & cashew stir-fry",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 322.75,
+        "proteinG": 6.45,
+        "fatG": 24.23
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1177.23,
+        "subtotalCaloriesKcal": 1177.23,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "53032",
+      "name": "Tonkatsu pork",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 1063.99,
+        "proteinG": 39.52,
+        "fatG": 16.96
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53075",
+      "name": "Tortang Talong",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 306.97,
+        "proteinG": 12.47,
+        "fatG": 27.9
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "52975",
+      "name": "Tuna and Egg Briks",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 638.16,
+        "proteinG": 18.91,
+        "fatG": 38.25
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1680.74,
+        "subtotalCaloriesKcal": 1680.74,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52972",
+      "name": "Tunisian Lamb Soup",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2537.73,
+        "proteinG": 154.26,
+        "fatG": 112.01
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 2584.34,
+        "subtotalCaloriesKcal": 2584.34,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52970",
+      "name": "Tunisian Orange Cake",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": false,
+      "usdaStatus": "assumed-quantities",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 3088.02,
+        "proteinG": 61.63,
+        "fatG": 93.17
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": null
+    },
+    {
+      "id": "53249",
+      "name": "Turkey Bánh mì",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 92.78,
+        "proteinG": 9.39,
+        "fatG": 2.58
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1050.05,
+        "missingCalorieIngredients": 1
+      }
+    },
+    {
+      "id": "52794",
+      "name": "Vegan Chocolate Cake",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 633.02,
+        "proteinG": 21.07,
+        "fatG": 5.45
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1045.55,
+        "subtotalCaloriesKcal": 1045.55,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52775",
+      "name": "Vegan Lasagna",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 214.01,
+        "proteinG": 10.03,
+        "fatG": 1.74
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 1238.96,
+        "subtotalCaloriesKcal": 1238.96,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52838",
+      "name": "Venetian Duck Ragu",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 2658.54,
+        "proteinG": 89.43,
+        "fatG": 27.72
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "grok-assisted-estimate",
+        "caloriesKcal": 4792.79,
+        "subtotalCaloriesKcal": 4792.79,
+        "missingCalorieIngredients": 0
+      }
+    },
+    {
+      "id": "52948",
+      "name": "Wontons",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 947.97,
+        "proteinG": 90.88,
+        "fatG": 61.67
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 1786.08,
+        "missingCalorieIngredients": 2
+      }
+    },
+    {
+      "id": "52871",
+      "name": "Yaki Udon",
+      "isFullyUsdaCalculated": false,
+      "hasGrokEstimate": true,
+      "usdaStatus": "partial",
+      "usdaKnownSubtotal": {
+        "caloriesKcal": 371.04,
+        "proteinG": 3.79,
+        "fatG": 27.49
+      },
+      "usdaTotals": { "caloriesKcal": null, "proteinG": null, "fatG": null },
+      "grok": {
+        "status": "partial",
+        "caloriesKcal": null,
+        "subtotalCaloriesKcal": 512.84,
+        "missingCalorieIngredients": 2
+      }
+    }
+  ]
+}

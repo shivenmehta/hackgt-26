@@ -1,0 +1,329 @@
+{
+  "inputHash": "a1b7b2eaee2547e9f2e7211f3a97d83b785793e59e39fd60a9eefedebfe49ae1",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:56.658Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 116,
+        "proteinG": 9,
+        "fatG": 0.4,
+        "carbsG": 20,
+        "fiberG": 8
+      },
+      "caloriesKcal": 232,
+      "proteinG": 18,
+      "fatG": 0.8,
+      "carbsG": 40,
+      "fiberG": 16,
+      "assumptions": "1 cup dry green/red lentils (mixed); typical dry lentil density used; recipe context of simmering 20 min implies dry starting weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 10,
+        "fiberG": 3
+      },
+      "caloriesKcal": 45.1,
+      "proteinG": 0.99,
+      "fatG": 0.22,
+      "carbsG": 11,
+      "fiberG": 3.3,
+      "assumptions": "1 medium carrot, peeled and trimmed; standard edible portion estimate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 9.9,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion, peeled; standard edible portion estimate",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 17,
+        "proteinG": 1.2,
+        "fatG": 0.3,
+        "carbsG": 3.1,
+        "fiberG": 1
+      },
+      "caloriesKcal": 17,
+      "proteinG": 1.2,
+      "fatG": 0.3,
+      "carbsG": 3.1,
+      "fiberG": 1,
+      "assumptions": "1 small zucchini/courgette, trimmed; typical small size edible weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.2,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 1.15,
+      "proteinG": 0.11,
+      "fatG": 0.025,
+      "carbsG": 0.185,
+      "fiberG": 0.14,
+      "assumptions": "Sprinkling of fresh coriander/cilantro; plausible small handful for garnish in vegan lasagna",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.9,
+        "fatG": 0.4,
+        "carbsG": 3.6,
+        "fiberG": 2.2
+      },
+      "caloriesKcal": 34.5,
+      "proteinG": 4.35,
+      "fatG": 0.6,
+      "carbsG": 5.4,
+      "fiberG": 3.3,
+      "assumptions": "Given as 150g fresh spinach; blanched per instructions, using raw values as nutrients are similar post-blanch",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 357,
+        "proteinG": 12,
+        "fatG": 2,
+        "carbsG": 71,
+        "fiberG": 3
+      },
+      "caloriesKcal": 892.5,
+      "proteinG": 30,
+      "fatG": 5,
+      "carbsG": 177.5,
+      "fiberG": 7.5,
+      "assumptions": "10 standard dry lasagne sheets; typical pack weight per sheet ~25g, total 250g dry weight before boiling",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 35,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.5,
+        "fatG": 81,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 250.95,
+      "proteinG": 0.175,
+      "fatG": 28.35,
+      "carbsG": 0.245,
+      "fiberG": 0,
+      "assumptions": "Given as 35g vegan butter; standard margarine-like values used",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 109.2,
+      "proteinG": 3,
+      "fatG": 0.3,
+      "carbsG": 22.8,
+      "fiberG": 0.81,
+      "assumptions": "4 tablespoons plain white flour; standard density ~7-8g per tbsp, total ~30g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 43,
+        "proteinG": 2.8,
+        "fatG": 1.8,
+        "carbsG": 3.2,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 129,
+      "proteinG": 8.4,
+      "fatG": 5.4,
+      "carbsG": 9.6,
+      "fiberG": 1.5,
+      "assumptions": "Given as 300ml unsweetened soya milk; density ~1g/ml, standard unsweetened values",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 8,
+      "per100g": {
+        "caloriesKcal": 66,
+        "proteinG": 4.4,
+        "fatG": 3.3,
+        "carbsG": 5.8,
+        "fiberG": 3.3
+      },
+      "caloriesKcal": 5.28,
+      "proteinG": 0.35200000000000004,
+      "fatG": 0.264,
+      "carbsG": 0.46399999999999997,
+      "fiberG": 0.264,
+      "assumptions": "1.5 tsp Dijon-style mustard; typical density ~5-6g per tsp, total ~8g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0.9,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1.1,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.045,
+      "fiberG": 0,
+      "assumptions": "1 tsp balsamic or white wine vinegar; typical density ~5g per tsp, negligible macros",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52775",
+    "name": "Vegan Lasagna",
+    "cuisine": "Italian",
+    "instructions": "1) Preheat oven to 180 degrees celcius. \r\n2) Boil vegetables for 5-7 minutes, until soft. Add lentils and bring to a gentle simmer, adding a stock cube if desired. Continue cooking and stirring until the lentils are soft, which should take about 20 minutes. \r\n3) Blanch spinach leaves for a few minutes in a pan, before removing and setting aside. \r\n4) Top up the pan with water and cook the lasagne sheets. When cooked, drain and set aside.\r\n5) To make the sauce, melt the butter and add the flour, then gradually add the soya milk along with the mustard and the vinegar. Cook and stir until smooth and then assemble the lasagne as desired in a baking dish. \r\n6) Bake in the preheated oven for about 25 minutes.",
+    "ingredients": [
+      { "position": 1, "name": "green red lentils", "measurement": "1 cups" },
+      { "position": 2, "name": "Carrots", "measurement": "1" },
+      { "position": 3, "name": "onion", "measurement": "1" },
+      { "position": 4, "name": "zucchini", "measurement": "1 small" },
+      { "position": 5, "name": "coriander", "measurement": "sprinking" },
+      { "position": 6, "name": "spinach", "measurement": "150g" },
+      { "position": 7, "name": "lasagne sheets", "measurement": "10" },
+      { "position": 8, "name": "vegan butter", "measurement": "35g" },
+      { "position": 9, "name": "flour", "measurement": "4 tablespoons" },
+      { "position": 10, "name": "soya milk", "measurement": "300ml" },
+      { "position": 11, "name": "mustard", "measurement": "1.5 teaspoons" },
+      { "position": 12, "name": "vinegar", "measurement": "1 teaspoon" }
+    ]
+  }
+}

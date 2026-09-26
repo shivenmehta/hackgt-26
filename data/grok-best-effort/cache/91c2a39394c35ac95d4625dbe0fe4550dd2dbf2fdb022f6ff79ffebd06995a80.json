@@ -1,0 +1,281 @@
+{
+  "inputHash": "91c2a39394c35ac95d4625dbe0fe4550dd2dbf2fdb022f6ff79ffebd06995a80",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:39:10.234Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 9.6,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 164,
+      "proteinG": 3.6,
+      "fatG": 0.8,
+      "carbsG": 38.4,
+      "fiberG": 11.2,
+      "assumptions": "4 medium carrots, raw, edible portion only",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 31,
+        "proteinG": 1.4,
+        "fatG": 0.1,
+        "carbsG": 7.4,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 155,
+      "proteinG": 7,
+      "fatG": 0.5,
+      "carbsG": 37,
+      "fiberG": 12.5,
+      "assumptions": "Half a medium head of red cabbage, raw, edible portion only",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 220,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 0.9,
+        "fatG": 0.1,
+        "carbsG": 9.9,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 92.4,
+      "proteinG": 1.98,
+      "fatG": 0.22,
+      "carbsG": 21.78,
+      "fiberG": 3.74,
+      "assumptions": "2 medium red onions, raw, sliced, edible portion only",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 44,
+        "proteinG": 3.3,
+        "fatG": 0.7,
+        "carbsG": 7,
+        "fiberG": 4
+      },
+      "caloriesKcal": 8.8,
+      "proteinG": 0.66,
+      "fatG": 0.14,
+      "carbsG": 1.4,
+      "fiberG": 0.8,
+      "assumptions": "A typical handful of fresh mint leaves",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 2.1,
+        "fatG": 0.5,
+        "carbsG": 3.7,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 4.6,
+      "proteinG": 0.42,
+      "fatG": 0.1,
+      "carbsG": 0.74,
+      "fiberG": 0.56,
+      "assumptions": "A typical handful of fresh coriander (cilantro) leaves",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 567,
+        "proteinG": 26,
+        "fatG": 49,
+        "carbsG": 16,
+        "fiberG": 8.5
+      },
+      "caloriesKcal": 170.1,
+      "proteinG": 7.8,
+      "fatG": 14.7,
+      "carbsG": 4.8,
+      "fiberG": 2.55,
+      "assumptions": "A typical handful of roasted peanuts, about 30 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 30,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 10.5,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 30,
+      "proteinG": 0.7,
+      "fatG": 0.2,
+      "carbsG": 10.5,
+      "fiberG": 2.8,
+      "assumptions": "Juice of 2 limes, approx 100 ml, treated as 100 g of lime juice",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 14,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 123.76,
+      "proteinG": 0,
+      "fatG": 14,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon of groundnut (peanut) oil",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 9.1,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.57,
+      "fatG": 0.12,
+      "carbsG": 2.73,
+      "fiberG": 0.45,
+      "assumptions": "1 medium red chilli, chopped, approx 30 g edible portion",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 45.6,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 11.76,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon of brown sugar, approx 12 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53246",
+    "name": "Tangy carrot, cabbage & onion salad",
+    "cuisine": "Vietnamese",
+    "instructions": "step 1\r\nTip the carrots, cabbage and onions into a bowl. Make the dressing by stirring the ingredients together until the sugar has dissolved. Pour over salad, tossing the vegetables in the dressing. Add the herbs, toss again, then scatter over the peanuts.",
+    "ingredients": [
+      { "position": 1, "name": "Carrots", "measurement": "4 sliced" },
+      { "position": 2, "name": "Red Cabbage", "measurement": "1/2" },
+      { "position": 3, "name": "Red Onions", "measurement": "2 sliced" },
+      { "position": 4, "name": "Mint", "measurement": "Handful" },
+      { "position": 5, "name": "Coriander Leaves", "measurement": "Handful" },
+      { "position": 6, "name": "Roasted Peanut", "measurement": "Handful" },
+      { "position": 7, "name": "Lime", "measurement": "Juice of 2" },
+      {
+        "position": 8,
+        "name": "Ground Nut Oil",
+        "measurement": "1 tablespoon"
+      },
+      { "position": 9, "name": "Red Chilli", "measurement": "1 chopped" },
+      { "position": 10, "name": "Brown Sugar", "measurement": "1 tablespoon" }
+    ]
+  }
+}

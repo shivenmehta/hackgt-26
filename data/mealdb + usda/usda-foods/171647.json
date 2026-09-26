@@ -1,0 +1,2084 @@
+{
+  "source": "USDA FoodData Central",
+  "fetchedAt": "2026-09-26T17:49:57.845Z",
+  "sourceUrl": "https://fdc.nal.usda.gov/food-details/171647/nutrients",
+  "food": {
+    "fdcId": 171647,
+    "description": "Cereals ready-to-eat, POST, GRAPE-NUTS Cereal",
+    "publicationDate": "4/1/2019",
+    "foodNutrients": [
+      {
+        "nutrient": {
+          "id": 2045,
+          "number": "951",
+          "name": "Proximates",
+          "rank": 50,
+          "unitName": "g"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1051,
+          "number": "255",
+          "name": "Water",
+          "rank": 100,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628272,
+        "amount": 3.5,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1008,
+          "number": "208",
+          "name": "Energy",
+          "rank": 300,
+          "unitName": "kcal"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628279,
+        "amount": 361,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1062,
+          "number": "268",
+          "name": "Energy",
+          "rank": 400,
+          "unitName": "kJ"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628305,
+        "amount": 1511,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1003,
+          "number": "203",
+          "name": "Protein",
+          "rank": 600,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628307,
+        "amount": 11.22,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1004,
+          "number": "204",
+          "name": "Total lipid (fat)",
+          "rank": 800,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628283,
+        "amount": 1.81,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1007,
+          "number": "207",
+          "name": "Ash",
+          "rank": 1000,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 49,
+          "code": "NC",
+          "description": "Calculated",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628308,
+        "amount": 2.98,
+        "dataPoints": 0
+      },
+      {
+        "nutrient": {
+          "id": 2039,
+          "number": "956",
+          "name": "Carbohydrates",
+          "rank": 1100,
+          "unitName": "g"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1005,
+          "number": "205",
+          "name": "Carbohydrate, by difference",
+          "rank": 1110,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628268,
+        "amount": 80.49,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1079,
+          "number": "291",
+          "name": "Fiber, total dietary",
+          "rank": 1200,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628306,
+        "amount": 13,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 2000,
+          "number": "269",
+          "name": "Total Sugars",
+          "rank": 1510,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628280,
+        "amount": 8.86,
+        "dataPoints": 0
+      },
+      {
+        "nutrient": {
+          "id": 2043,
+          "number": "300",
+          "name": "Minerals",
+          "rank": 5200,
+          "unitName": "mg"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1087,
+          "number": "301",
+          "name": "Calcium, Ca",
+          "rank": 5300,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628281,
+        "amount": 32,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1089,
+          "number": "303",
+          "name": "Iron, Fe",
+          "rank": 5400,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628274,
+        "amount": 28,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1090,
+          "number": "304",
+          "name": "Magnesium, Mg",
+          "rank": 5500,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628300,
+        "amount": 124,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1091,
+          "number": "305",
+          "name": "Phosphorus, P",
+          "rank": 5600,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628301,
+        "amount": 467,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1092,
+          "number": "306",
+          "name": "Potassium, K",
+          "rank": 5700,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628282,
+        "amount": 400,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1093,
+          "number": "307",
+          "name": "Sodium, Na",
+          "rank": 5800,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628302,
+        "amount": 465,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1095,
+          "number": "309",
+          "name": "Zinc, Zn",
+          "rank": 5900,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628273,
+        "amount": 2.07,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1098,
+          "number": "312",
+          "name": "Copper, Cu",
+          "rank": 6000,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628303,
+        "amount": 0.34,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1101,
+          "number": "315",
+          "name": "Manganese, Mn",
+          "rank": 6100,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 1628234,
+        "amount": 3.236,
+        "dataPoints": 12,
+        "max": 3.7,
+        "min": 2.81
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1103,
+          "number": "317",
+          "name": "Selenium, Se",
+          "rank": 6200,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 1628240,
+        "amount": 9.1,
+        "dataPoints": 12,
+        "max": 12.9,
+        "min": 6.3
+      },
+      {
+        "nutrient": {
+          "id": 2046,
+          "number": "952",
+          "name": "Vitamins and Other Components",
+          "rank": 6250,
+          "unitName": "g"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1162,
+          "number": "401",
+          "name": "Vitamin C, total ascorbic acid",
+          "rank": 6300,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628297,
+        "amount": 0.1,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1165,
+          "number": "404",
+          "name": "Thiamin",
+          "rank": 6400,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628275,
+        "amount": 0.65,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1166,
+          "number": "405",
+          "name": "Riboflavin",
+          "rank": 6500,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628276,
+        "amount": 0.12,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1167,
+          "number": "406",
+          "name": "Niacin",
+          "rank": 6600,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628278,
+        "amount": 8.62,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1170,
+          "number": "410",
+          "name": "Pantothenic acid",
+          "rank": 6700,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 1628241,
+        "amount": 0.872,
+        "dataPoints": 4,
+        "max": 0.9,
+        "min": 0.84
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1175,
+          "number": "415",
+          "name": "Vitamin B-6",
+          "rank": 6800,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628270,
+        "amount": 0.86,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1177,
+          "number": "417",
+          "name": "Folate, total",
+          "rank": 6900,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628259,
+        "amount": 345,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1186,
+          "number": "431",
+          "name": "Folic acid",
+          "rank": 7000,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 51,
+          "code": "NR",
+          "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628246,
+        "amount": 326,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1187,
+          "number": "432",
+          "name": "Folate, food",
+          "rank": 7100,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 35,
+          "code": "CAZN",
+          "description": "Calculated from different food; From average values for food category; No adjustment; Retention factors not used",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628260,
+        "amount": 19,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1190,
+          "number": "435",
+          "name": "Folate, DFE",
+          "rank": 7200,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 49,
+          "code": "NC",
+          "description": "Calculated",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628247,
+        "amount": 573,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1180,
+          "number": "421",
+          "name": "Choline, total",
+          "rank": 7220,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628277,
+        "amount": 31.9,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1178,
+          "number": "418",
+          "name": "Vitamin B-12",
+          "rank": 7300,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628262,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1246,
+          "number": "578",
+          "name": "Vitamin B-12, added",
+          "rank": 7340,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628261,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1106,
+          "number": "320",
+          "name": "Vitamin A, RAE",
+          "rank": 7420,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 49,
+          "code": "NC",
+          "description": "Calculated",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628266,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1105,
+          "number": "319",
+          "name": "Retinol",
+          "rank": 7430,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 22,
+          "code": "BNA",
+          "description": "Based on another form of the same food or similar food: constituents normalized to total; vitamin A",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628265,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1107,
+          "number": "321",
+          "name": "Carotene, beta",
+          "rank": 7440,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 22,
+          "code": "BNA",
+          "description": "Based on another form of the same food or similar food: constituents normalized to total; vitamin A",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628298,
+        "amount": 2,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1108,
+          "number": "322",
+          "name": "Carotene, alpha",
+          "rank": 7450,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 22,
+          "code": "BNA",
+          "description": "Based on another form of the same food or similar food: constituents normalized to total; vitamin A",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628235,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1120,
+          "number": "334",
+          "name": "Cryptoxanthin, beta",
+          "rank": 7460,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 22,
+          "code": "BNA",
+          "description": "Based on another form of the same food or similar food: constituents normalized to total; vitamin A",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628236,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1104,
+          "number": "318",
+          "name": "Vitamin A, IU",
+          "rank": 7500,
+          "unitName": "IU"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628304,
+        "amount": 4,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1122,
+          "number": "337",
+          "name": "Lycopene",
+          "rank": 7530,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628237,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1123,
+          "number": "338",
+          "name": "Lutein + zeaxanthin",
+          "rank": 7560,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628269,
+        "amount": 166,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1109,
+          "number": "323",
+          "name": "Vitamin E (alpha-tocopherol)",
+          "rank": 7905,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628271,
+        "amount": 0.62,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1242,
+          "number": "573",
+          "name": "Vitamin E, added",
+          "rank": 7920,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628242,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1110,
+          "number": "324",
+          "name": "Vitamin D (D2 + D3), International Units",
+          "rank": 8650,
+          "unitName": "IU"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628267,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1114,
+          "number": "328",
+          "name": "Vitamin D (D2 + D3)",
+          "rank": 8700,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628264,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1112,
+          "number": "326",
+          "name": "Vitamin D3 (cholecalciferol)",
+          "rank": 8720,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628263,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1185,
+          "number": "430",
+          "name": "Vitamin K (phylloquinone)",
+          "rank": 8800,
+          "unitName": "µg"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628299,
+        "amount": 2,
+        "dataPoints": 0
+      },
+      {
+        "nutrient": {
+          "id": 2044,
+          "number": "950",
+          "name": "Lipids",
+          "rank": 9600,
+          "unitName": "g"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1258,
+          "number": "606",
+          "name": "Fatty acids, total saturated",
+          "rank": 9700,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628309,
+        "amount": 0.34,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1259,
+          "number": "607",
+          "name": "SFA 4:0",
+          "rank": 9800,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628243,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1260,
+          "number": "608",
+          "name": "SFA 6:0",
+          "rank": 9900,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628244,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1261,
+          "number": "609",
+          "name": "SFA 8:0",
+          "rank": 10000,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628252,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1262,
+          "number": "610",
+          "name": "SFA 10:0",
+          "rank": 10100,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628245,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1263,
+          "number": "611",
+          "name": "SFA 12:0",
+          "rank": 10300,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628253,
+        "amount": 0.002,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1264,
+          "number": "612",
+          "name": "SFA 14:0",
+          "rank": 10500,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628254,
+        "amount": 0.004,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1299,
+          "number": "652",
+          "name": "SFA 15:0",
+          "rank": 10600,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628286,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1265,
+          "number": "613",
+          "name": "SFA 16:0",
+          "rank": 10700,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628289,
+        "amount": 0.309,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1300,
+          "number": "653",
+          "name": "SFA 17:0",
+          "rank": 10800,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628310,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1266,
+          "number": "614",
+          "name": "SFA 18:0",
+          "rank": 10900,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628290,
+        "amount": 0.014,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1267,
+          "number": "615",
+          "name": "SFA 20:0",
+          "rank": 11100,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628291,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1273,
+          "number": "624",
+          "name": "SFA 22:0",
+          "rank": 11200,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628316,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1301,
+          "number": "654",
+          "name": "SFA 24:0",
+          "rank": 11300,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628311,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1292,
+          "number": "645",
+          "name": "Fatty acids, total monounsaturated",
+          "rank": 11400,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628284,
+        "amount": 0.21,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1274,
+          "number": "625",
+          "name": "MUFA 14:1",
+          "rank": 11500,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628317,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1333,
+          "number": "697",
+          "name": "MUFA 15:1",
+          "rank": 11600,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628314,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1275,
+          "number": "626",
+          "name": "MUFA 16:1",
+          "rank": 11700,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628318,
+        "amount": 0.003,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1323,
+          "number": "687",
+          "name": "MUFA 17:1",
+          "rank": 12000,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628313,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1268,
+          "number": "617",
+          "name": "MUFA 18:1",
+          "rank": 12100,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628292,
+        "amount": 0.189,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1277,
+          "number": "628",
+          "name": "MUFA 20:1",
+          "rank": 12400,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628288,
+        "amount": 0.004,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1279,
+          "number": "630",
+          "name": "MUFA 22:1",
+          "rank": 12500,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628250,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1312,
+          "number": "671",
+          "name": "MUFA 24:1 c",
+          "rank": 12800,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628312,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1293,
+          "number": "646",
+          "name": "Fatty acids, total polyunsaturated",
+          "rank": 12900,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628285,
+        "amount": 0.78,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1269,
+          "number": "618",
+          "name": "PUFA 18:2",
+          "rank": 13100,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628293,
+        "amount": 0.72,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1270,
+          "number": "619",
+          "name": "PUFA 18:3",
+          "rank": 13900,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628294,
+        "amount": 0.061,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1276,
+          "number": "627",
+          "name": "PUFA 18:4",
+          "rank": 14250,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628249,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1313,
+          "number": "672",
+          "name": "PUFA 20:2 n-6 c,c",
+          "rank": 14300,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628287,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1325,
+          "number": "689",
+          "name": "PUFA 20:3",
+          "rank": 14400,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628295,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1271,
+          "number": "620",
+          "name": "PUFA 20:4",
+          "rank": 14700,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628248,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1278,
+          "number": "629",
+          "name": "PUFA 20:5 n-3 (EPA)",
+          "rank": 15000,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628256,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1410,
+          "number": "857",
+          "name": "PUFA 21:5",
+          "rank": 15100,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628296,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1411,
+          "number": "858",
+          "name": "PUFA 22:4",
+          "rank": 15160,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628315,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1280,
+          "number": "631",
+          "name": "PUFA 22:5 n-3 (DPA)",
+          "rank": 15200,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628257,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1272,
+          "number": "621",
+          "name": "PUFA 22:6 n-3 (DHA)",
+          "rank": 15300,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628255,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1257,
+          "number": "605",
+          "name": "Fatty acids, total trans",
+          "rank": 15400,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628251,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1253,
+          "number": "601",
+          "name": "Cholesterol",
+          "rank": 15700,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 47,
+          "code": "MC",
+          "description": "Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated",
+          "foodNutrientSource": {
+            "id": 7,
+            "code": "9",
+            "description": "Calculated by manufacturer, not adjusted or rounded for NLEA"
+          }
+        },
+        "id": 1628258,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "nutrient": {
+          "id": 2042,
+          "number": "500",
+          "name": "Amino acids",
+          "rank": 16250,
+          "unitName": "g"
+        },
+        "type": "FoodNutrient"
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1018,
+          "number": "221",
+          "name": "Alcohol, ethyl",
+          "rank": 18200,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628233,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1057,
+          "number": "262",
+          "name": "Caffeine",
+          "rank": 18300,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628238,
+        "amount": 0,
+        "dataPoints": 0
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1058,
+          "number": "263",
+          "name": "Theobromine",
+          "rank": 18400,
+          "unitName": "mg"
+        },
+        "foodNutrientDerivation": {
+          "id": 41,
+          "code": "FLM",
+          "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1628239,
+        "amount": 0,
+        "dataPoints": 0
+      }
+    ],
+    "foodPortions": [
+      {
+        "id": 89126,
+        "dataPoints": 1,
+        "gramWeight": 58,
+        "sequenceNumber": 1,
+        "amount": 0.5,
+        "modifier": "cup (1 NLEA serving)",
+        "measureUnit": {
+          "id": 9999,
+          "name": "undetermined",
+          "abbreviation": "undetermined"
+        }
+      }
+    ],
+    "dataType": "SR Legacy",
+    "foodClass": "FinalFood",
+    "foodComponents": [],
+    "foodAttributes": [],
+    "nutrientConversionFactors": [],
+    "inputFoods": [],
+    "ndbNumber": 8038,
+    "isHistoricalReference": true,
+    "foodCategory": {
+      "id": 8,
+      "code": "0800",
+      "description": "Breakfast Cereals"
+    }
+  }
+}

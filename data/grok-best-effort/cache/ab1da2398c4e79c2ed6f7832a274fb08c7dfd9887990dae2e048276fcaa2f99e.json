@@ -1,0 +1,237 @@
+{
+  "inputHash": "ab1da2398c4e79c2ed6f7832a274fb08c7dfd9887990dae2e048276fcaa2f99e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:45.209Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 85,
+        "proteinG": 18,
+        "fatG": 1,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 425,
+      "proteinG": 90,
+      "fatG": 5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Standard raw king prawns (shell-on); values for edible peeled portion after boiling; recipe boils then peels, but whole 500g line used as input weight with typical nutrient profile for raw prawns.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 397.8,
+      "proteinG": 0,
+      "fatG": 45,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tablespoons olive oil = 45 ml (density ~0.92 g/ml, rounded to 45 g); typical extra-virgin olive oil values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1,
+        "fatG": 0.1,
+        "carbsG": 9,
+        "fiberG": 2
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.1,
+      "fatG": 0.11,
+      "carbsG": 9.9,
+      "fiberG": 2.2,
+      "assumptions": "1 medium chopped onion ≈ 110 g; standard yellow onion, raw weight as added and cooked in sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 36,
+        "proteinG": 3,
+        "fatG": 1,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 1.8,
+      "proteinG": 0.15,
+      "fatG": 0.05,
+      "carbsG": 0.3,
+      "fiberG": 0.15,
+      "assumptions": "Pinch of freshly chopped parsley assumed as 5 g (small handful); typical flat-leaf parsley values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 2.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 205,
+      "proteinG": 0.25,
+      "fatG": 0,
+      "carbsG": 6.5,
+      "fiberG": 0,
+      "assumptions": "250 ml dry white wine ≈ 250 g (density ≈1 g/ml); typical Sauvignon Blanc or similar values for wine.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.6,
+        "fatG": 0.4,
+        "carbsG": 7,
+        "fiberG": 2
+      },
+      "caloriesKcal": 128,
+      "proteinG": 6.4,
+      "fatG": 1.6,
+      "carbsG": 28,
+      "fiberG": 8,
+      "assumptions": "400 g tin of chopped tomatoes (including juice); typical canned plum tomatoes drained weight not subtracted as recipe uses whole tin in sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 4.47,
+      "proteinG": 0.19200000000000003,
+      "fatG": 0.015,
+      "carbsG": 0.99,
+      "fiberG": 0.063,
+      "assumptions": "1/2 teaspoon minced garlic ≈ 3 g; typical raw garlic cloves, minced.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 264,
+        "proteinG": 14,
+        "fatG": 21,
+        "carbsG": 4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 528,
+      "proteinG": 28,
+      "fatG": 42,
+      "carbsG": 8,
+      "fiberG": 0,
+      "assumptions": "200 g pack of cubed feta cheese; standard Greek feta values, added at end and partially melted.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52764",
+    "name": "Garides Saganaki",
+    "cuisine": "Greek",
+    "instructions": "Place the prawns in a pot and add enough water to cover. Boil for 5 minutes. Drain, reserving the liquid, and set aside.\r\nHeat 2 tablespoons of oil in a saucepan. Add the onion; cook and stir until soft. Mix in the parsley, wine, tomatoes, garlic and remaining olive oil. Simmer, stirring occasionally, for about 30 minutes, or until the sauce is thickened.\r\nWhile the sauce is simmering, the prawns should become cool enough to handle. First remove the legs by pinching them, and then pull off the shells, leaving the head and tail on.\r\nWhen the sauce has thickened, stir in the prawns. Bring to a simmer again if the sauce has cooled with the prawns, and cook for about 5 minutes. Add the feta and remove from the heat. Let stand until the cheese starts to melt. Serve warm with slices of crusty bread.\r\nThough completely untraditional, you can add a few tablespoons of stock or passata to this recipe to make a delicious pasta sauce. Toss with pasta after adding the feta, and serve.",
+    "ingredients": [
+      { "position": 1, "name": "Raw king prawns", "measurement": "500g" },
+      { "position": 2, "name": "Olive oil", "measurement": "3 tablespoons" },
+      { "position": 3, "name": "Chopped onion", "measurement": "1" },
+      {
+        "position": 4,
+        "name": "Freshly chopped parsley",
+        "measurement": "pinch"
+      },
+      { "position": 5, "name": "White wine", "measurement": "250ml" },
+      {
+        "position": 6,
+        "name": "Chopped tomatoes",
+        "measurement": "1 (400g) tin"
+      },
+      { "position": 7, "name": "Minced garlic", "measurement": "1/2 teaspoon" },
+      {
+        "position": 8,
+        "name": "Cubed Feta cheese",
+        "measurement": "1 (200g) pack"
+      }
+    ]
+  }
+}

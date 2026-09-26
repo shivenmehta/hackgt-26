@@ -1,0 +1,225 @@
+{
+  "inputHash": "f65c6edb9871aa7d014b3048ca6af2cd87c81e254d04d044ddcad7da6a44e257",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:55.782Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 150,
+        "proteinG": 11,
+        "fatG": 11,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 750,
+      "proteinG": 55,
+      "fatG": 55,
+      "carbsG": 15,
+      "fiberG": 0,
+      "assumptions": "Standard whole-milk ricotta cheese, as-is weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 286,
+      "proteinG": 26,
+      "fatG": 20,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "4 large eggs (approx 50 g edible portion each without shell), whole raw eggs",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 24,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 87.36,
+      "proteinG": 2.4,
+      "fatG": 0.24,
+      "carbsG": 18.24,
+      "fiberG": 0.72,
+      "assumptions": "Plain white wheat flour; 3 level US tablespoons ≈ 24 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 967.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 250,
+      "fiberG": 0,
+      "assumptions": "Granulated white sugar, full recipe amount",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 3,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 4,
+        "fatG": 2,
+        "carbsG": 53,
+        "fiberG": 33
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.12,
+      "fatG": 0.06,
+      "carbsG": 1.59,
+      "fiberG": 0.99,
+      "assumptions": "Ground cinnamon; 1 tsp ≈ 3 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 47,
+        "proteinG": 2,
+        "fatG": 0,
+        "carbsG": 12,
+        "fiberG": 6
+      },
+      "caloriesKcal": 5.64,
+      "proteinG": 0.24,
+      "fatG": 0,
+      "carbsG": 1.44,
+      "fiberG": 0.72,
+      "assumptions": "Grated zest from 2 medium lemons; total edible zest ≈ 12 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 231,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 173.25,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Dark rum (40 % ABV); 5 US tablespoons ≈ 75 ml / 75 g",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 38.7,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 10,
+      "fiberG": 0,
+      "assumptions": "Icing (powdered) sugar for light dusting on finished cake; plausible 10 g total used in recipe context",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52961",
+    "name": "Budino Di Ricotta",
+    "cuisine": "Italian",
+    "instructions": "Mash the ricotta and beat well with the egg yolks, stir in the flour, sugar, cinnamon, grated lemon rind and the rum and mix well. You can do this in a food processor. Beat the egg whites until stiff, fold in and pour into a buttered and floured 25cm cake tin. Bake in the oven at 180ºC/160ºC fan/gas 4 for about 40 minutes, or until it is firm.\r\n\r\nServe hot or cold dusted with icing sugar.",
+    "ingredients": [
+      { "position": 1, "name": "Ricotta", "measurement": "500g" },
+      { "position": 2, "name": "Eggs", "measurement": "4 large" },
+      { "position": 3, "name": "Flour", "measurement": "3 tbs" },
+      { "position": 4, "name": "Sugar", "measurement": "250g" },
+      { "position": 5, "name": "Cinnamon", "measurement": "1 tsp" },
+      { "position": 6, "name": "Lemons", "measurement": "Grated Zest of 2" },
+      { "position": 7, "name": "Dark Rum", "measurement": "5 tbs" },
+      { "position": 8, "name": "Icing Sugar", "measurement": "sprinking" }
+    ]
+  }
+}

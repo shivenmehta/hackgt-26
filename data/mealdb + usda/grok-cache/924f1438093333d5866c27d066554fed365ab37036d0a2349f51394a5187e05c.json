@@ -1,0 +1,27 @@
+{
+  "inputHash": "924f1438093333d5866c27d066554fed365ab37036d0a2349f51394a5187e05c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:38.209Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 3,
+      "grams": 1000,
+      "caloriesPer100g": 214,
+      "assumptions": "Standard edible portion for 4 bone-in chicken legs (thighs+drumsticks) is ~250g each after estimating typical sizes; full raw weight including bone/skin used as recipe adds them whole and calories match skin-on raw chicken leg data."
+    },
+    {
+      "position": 5,
+      "grams": 4,
+      "caloriesPer100g": null,
+      "assumptions": "One chicken stock cube weighs ~4g; calories per 100g left null as it is a dehydrated concentrate whose contribution is negligible when dissolved and no standard per-100g value applies directly to the cube itself."
+    },
+    {
+      "position": 7,
+      "grams": 10,
+      "caloriesPer100g": 36,
+      "assumptions": "'Chopped' parsley is a modest garnish amount for the whole recipe (typical 2-3 tbsp chopped leaves); uses supplied knownCaloriesPer100g."
+    }
+  ]
+}

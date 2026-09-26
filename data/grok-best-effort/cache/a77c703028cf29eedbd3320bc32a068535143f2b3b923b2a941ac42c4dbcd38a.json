@@ -1,0 +1,307 @@
+{
+  "inputHash": "a77c703028cf29eedbd3320bc32a068535143f2b3b923b2a941ac42c4dbcd38a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:28:04.296Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 350,
+        "proteinG": 8,
+        "fatG": 1.5,
+        "carbsG": 77,
+        "fiberG": 2
+      },
+      "caloriesKcal": 700,
+      "proteinG": 16,
+      "fatG": 3,
+      "carbsG": 154,
+      "fiberG": 4,
+      "assumptions": "Dry flat rice noodles (pad thai style); typical package nutrition before boiling, as recipe directs to prepare per pack then drain.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 265.2,
+      "proteinG": 0,
+      "fatG": 30,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons vegetable oil (standard 15 ml per tbsp, density ~0.92 g/ml).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 9,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 13.41,
+      "proteinG": 0.5760000000000001,
+      "fatG": 0.045,
+      "carbsG": 2.9790000000000005,
+      "fiberG": 0.18900000000000003,
+      "assumptions": "3 average garlic cloves, chopped (≈3 g each); standard raw garlic values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.4,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.3,
+      "fatG": 0.06,
+      "carbsG": 1.35,
+      "fiberG": 0.225,
+      "assumptions": "3 birds-eye chillies (≈5 g each whole); typical fresh red chilli nutrition, chopped.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 225,
+      "per100g": {
+        "caloriesKcal": 177,
+        "proteinG": 27,
+        "fatG": 7.5,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 398.25,
+      "proteinG": 60.75,
+      "fatG": 16.875,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw sirloin steak, trimmed; standard lean beef sirloin values for stir-fry.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 34,
+        "proteinG": 2.8,
+        "fatG": 0.4,
+        "carbsG": 6.6,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 34,
+      "proteinG": 2.8,
+      "fatG": 0.4,
+      "carbsG": 6.6,
+      "fiberG": 2.6,
+      "assumptions": "Fresh broccoli florets, raw weight as added to stir-fry.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 23,
+        "proteinG": 3.2,
+        "fatG": 0.6,
+        "carbsG": 2.7,
+        "fiberG": 1.6
+      },
+      "caloriesKcal": 4.6,
+      "proteinG": 0.64,
+      "fatG": 0.12,
+      "carbsG": 0.54,
+      "fiberG": 0.32,
+      "assumptions": "A generous handful of Thai holy basil leaves (≈20 g); typical fresh basil leaves.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 6,
+        "fatG": 0.1,
+        "carbsG": 6,
+        "fiberG": 1
+      },
+      "caloriesKcal": 36,
+      "proteinG": 3.6,
+      "fatG": 0.06,
+      "carbsG": 3.6,
+      "fiberG": 0.6,
+      "assumptions": "4 tablespoons regular soy sauce (15 ml each, density ≈1 g/ml); standard sodium-reduced not assumed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 35,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 7,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 21,
+      "proteinG": 1.2,
+      "fatG": 0.3,
+      "carbsG": 4.2,
+      "fiberG": 0.3,
+      "assumptions": "4 tablespoons oyster sauce (15 ml each); typical bottled values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 35,
+        "proteinG": 4.5,
+        "fatG": 0,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1.75,
+      "proteinG": 0.225,
+      "fatG": 0,
+      "carbsG": 0.05,
+      "fiberG": 0,
+      "assumptions": "1 teaspoon fish sauce (≈5 g); standard Southeast Asian fish sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 46.44,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tablespoon white sugar (12 g); standard granulated sugar.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53193",
+    "name": "Drunken noodles (pad kee mao)",
+    "cuisine": "Thai",
+    "instructions": "step 1\r\nPrepare the noodles following pack instructions, then drain and set aside. Combine all the ingredients for the sauce in a small bowl or jug, and set aside.\r\n\r\nstep 2\r\nHeat the oil in a large wok or frying pan over a high heat and stir-fry the garlic and chilli for 20 seconds until just starting to turn golden. Add the steak and stir-fry for 1 minute until seared and starting to brown. Add the broccoli and stir-fry for another minute, then tip in the noodles and add the sauce. Stir-fry for another 1-2 mins until well combined and piping hot.\r\n\r\nstep 3\r\nStir through the basil and turn off the heat. Serve immediately to avoid overcooking.",
+    "ingredients": [
+      { "position": 1, "name": "Flat Rice Noodles", "measurement": "200g" },
+      { "position": 2, "name": "Vegetable Oil", "measurement": "2 tblsp" },
+      { "position": 3, "name": "Garlic", "measurement": "3 cloves Chopped" },
+      {
+        "position": 4,
+        "name": "Birds-eye Chillies",
+        "measurement": "3 chopped"
+      },
+      { "position": 5, "name": "Sirloin steak", "measurement": "225g" },
+      { "position": 6, "name": "Broccoli", "measurement": "100g" },
+      { "position": 7, "name": "Basil Leaves", "measurement": "Handful" },
+      { "position": 8, "name": "Soy Sauce", "measurement": "4 tbsp" },
+      { "position": 9, "name": "Oyster Sauce", "measurement": "4 tbsp" },
+      { "position": 10, "name": "Fish Sauce", "measurement": "1 teaspoon" },
+      { "position": 11, "name": "Sugar", "measurement": "1 tblsp" }
+    ]
+  }
+}

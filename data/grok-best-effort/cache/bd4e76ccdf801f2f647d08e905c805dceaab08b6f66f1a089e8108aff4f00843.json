@@ -1,0 +1,393 @@
+{
+  "inputHash": "bd4e76ccdf801f2f647d08e905c805dceaab08b6f66f1a089e8108aff4f00843",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:31:48.912Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1935,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 500,
+      "fiberG": 0,
+      "assumptions": "Granulated white sugar; 500g as given, fully used in syrup.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 0.4,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 0.3
+      },
+      "caloriesKcal": 4.35,
+      "proteinG": 0.06,
+      "fatG": 0.015,
+      "carbsG": 1.395,
+      "fiberG": 0.045,
+      "assumptions": "Lemon juice to taste in syrup estimated as juice of ~1 medium lemon (~15g); typical household amount for balancing 500g sugar syrup.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 654,
+        "proteinG": 15.2,
+        "fatG": 65.2,
+        "carbsG": 13.7,
+        "fiberG": 6.7
+      },
+      "caloriesKcal": 1962,
+      "proteinG": 45.6,
+      "fatG": 195.6,
+      "carbsG": 41.1,
+      "fiberG": 20.1,
+      "assumptions": "Raw walnuts; 300g as given, crushed for filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 691,
+        "proteinG": 9.2,
+        "fatG": 72,
+        "carbsG": 13.9,
+        "fiberG": 9.6
+      },
+      "caloriesKcal": 1382,
+      "proteinG": 18.4,
+      "fatG": 144,
+      "carbsG": 27.8,
+      "fiberG": 19.2,
+      "assumptions": "Raw pecan nuts; 200g as given, crushed for filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 579,
+        "proteinG": 21.2,
+        "fatG": 49.9,
+        "carbsG": 21.6,
+        "fiberG": 12.5
+      },
+      "caloriesKcal": 579,
+      "proteinG": 21.2,
+      "fatG": 49.9,
+      "carbsG": 21.6,
+      "fiberG": 12.5,
+      "assumptions": "Raw almonds; 100g as given, crushed for filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 13,
+      "per100g": {
+        "caloriesKcal": 247,
+        "proteinG": 7.8,
+        "fatG": 13.4,
+        "carbsG": 80.6,
+        "fiberG": 53.1
+      },
+      "caloriesKcal": 32.11,
+      "proteinG": 1.014,
+      "fatG": 1.7420000000000002,
+      "carbsG": 10.478,
+      "fiberG": 6.9030000000000005,
+      "assumptions": "Ground cinnamon; 2 tbsp ≈ 13g typical weight, added to nut filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 7.9,
+        "fatG": 7.5,
+        "carbsG": 68.5,
+        "fiberG": 28.5
+      },
+      "caloriesKcal": 15.9,
+      "proteinG": 0.47400000000000003,
+      "fatG": 0.45,
+      "carbsG": 4.11,
+      "fiberG": 1.71,
+      "assumptions": "Ground cardamom; 1 tbsp ≈ 6g typical weight, added to nut filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 174,
+        "proteinG": 11.3,
+        "fatG": 13,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 870,
+      "proteinG": 56.5,
+      "fatG": 65,
+      "carbsG": 15,
+      "fiberG": 0,
+      "assumptions": "Whole milk ricotta cheese; 500g as given, mixed with zests for filling.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 47,
+        "proteinG": 0.4,
+        "fatG": 0.2,
+        "carbsG": 15.8,
+        "fiberG": 5.9
+      },
+      "caloriesKcal": 2.82,
+      "proteinG": 0.024000000000000004,
+      "fatG": 0.012000000000000002,
+      "carbsG": 0.9480000000000001,
+      "fiberG": 0.35400000000000004,
+      "assumptions": "Zest of 1 lemon; typical medium lemon zest ≈ 6g, added to ricotta (edible zest only).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 7,
+      "per100g": {
+        "caloriesKcal": 47,
+        "proteinG": 0.7,
+        "fatG": 0.2,
+        "carbsG": 11.7,
+        "fiberG": 4.7
+      },
+      "caloriesKcal": 3.29,
+      "proteinG": 0.048999999999999995,
+      "fatG": 0.014000000000000002,
+      "carbsG": 0.819,
+      "fiberG": 0.32899999999999996,
+      "assumptions": "Zest of 1 orange; typical medium orange zest ≈ 7g, added to ricotta (edible zest only).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 13,
+      "per100g": {
+        "caloriesKcal": 220,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 53.3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 28.6,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 6.928999999999999,
+      "fiberG": 0,
+      "assumptions": "Vanilla bean paste; 1 tbsp ≈ 13g typical weight, mixed into ricotta.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81.1,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1792.5,
+      "proteinG": 2.25,
+      "fatG": 202.75,
+      "carbsG": 0.25,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter; 250g as given, melted and used for brushing (full amount estimated used).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 299,
+        "proteinG": 7.1,
+        "fatG": 2.1,
+        "carbsG": 56.4,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 1495,
+      "proteinG": 35.5,
+      "fatG": 10.5,
+      "carbsG": 282,
+      "fiberG": 10.5,
+      "assumptions": "Filo (phyllo) pastry sheets; 500g as given, rolled with fillings (typical commercial weight, uncooked).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 562,
+        "proteinG": 20.6,
+        "fatG": 45.4,
+        "carbsG": 28.4,
+        "fiberG": 10.6
+      },
+      "caloriesKcal": 562,
+      "proteinG": 20.6,
+      "fatG": 45.4,
+      "carbsG": 28.4,
+      "fiberG": 10.6,
+      "assumptions": "Ground pistachios; 100g as given, for sprinkling on top after chocolate drizzle.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53279",
+    "name": "Baklava with spiced nuts, ricotta & chocolate",
+    "cuisine": "Turkish",
+    "instructions": "step 1\r\nFirst, make the syrup. Tip the sugar into a large saucepan with 650ml water. Stir over a low heat until the sugar has dissolved, then turn up the heat and bring to the boil. Reduce the heat to a simmer and cook for 15 mins, then squeeze in a few drops of lemon juice and simmer for a further 5 mins. Remove from the heat and leave to cool. Meanwhile, for assembling the baklava later, melt the butter in a small pan over a low heat for 5 mins, skimming and discarding any froth that rises to the surface.\r\n\r\nstep 2\r\nFor the filling, crush all of the nuts in a pestle and mortar, or blitz in a food processor – you want a mixture of finely ground nuts with a few chunky pieces. Tip into a bowl, stir through the spices and set aside.\r\n\r\nstep 3\r\nIn a separate bowl, mix the ricotta with the lemon and orange zests and vanilla. Heat the oven to 180C/160C fan/gas 4. Brush the bottom of a large baking tray (about 35 x 47cm) with some of the melted butter. Working with one sheet of filo at a time (covering the rest with a damp tea towel to prevent it drying out), lay the sheet out on a board so one of the short ends is facing you. Sprinkle 30g of the nut mixture evenly over the whole sheet, then spoon 1 tbsp of the ricotta mixture across the end closest to you. Fold this end over to enclose the filling, then lay a long, thin skewer next to the folded edge and roll the pastry around it to create a long roll. When it’s fully rolled up, it should be roughly the thickness of a chipolata sausage. While holding one end of the rolling pin or skewer, gently scrunch the filo roll like an accordion and carefully push it off the skewer and onto the prepared tray. Repeat with the rest of the filo and fillings – you should get about 12 rolls. Cut each roll into four to make 48 large baklava, or eight to make 96 mini.\r\n\r\nstep 4\r\nBrush with the remaining melted butter. Bake for 20-25 mins until evenly golden, turning the tray around halfway through. While still hot, immediately pour over 5-6 ladlefuls of the syrup. You should hear the syrup sizzle as it hits the hot baklava. Set aside to cool and absorb.\r\n\r\nstep 5\r\nMelt the dark chocolate in a heatproof bowl set over a pan of simmering water, ensuring the bowl doesn’t touch the water, or in the microwave in short bursts. Drizzle this over the cooled baklava and sprinkle with the ground pistachios.",
+    "ingredients": [
+      { "position": 1, "name": "Sugar", "measurement": "500g" },
+      { "position": 2, "name": "Lemon Juice", "measurement": "To taste" },
+      { "position": 3, "name": "Walnuts", "measurement": "300g" },
+      { "position": 4, "name": "Pecan Nuts", "measurement": "200g" },
+      { "position": 5, "name": "Almonds", "measurement": "100g" },
+      {
+        "position": 6,
+        "name": "Ground Cinnamon",
+        "measurement": "2 tablespoons"
+      },
+      {
+        "position": 7,
+        "name": "Ground Cardomom",
+        "measurement": "1 tablespoon"
+      },
+      { "position": 8, "name": "Ricotta", "measurement": "500g" },
+      { "position": 9, "name": "Lemon", "measurement": "Zest of 1" },
+      { "position": 10, "name": "Orange", "measurement": "Zest of 1" },
+      {
+        "position": 11,
+        "name": "Vanilla Bean Paste",
+        "measurement": "1 tablespoon"
+      },
+      { "position": 12, "name": "Unsalted Butter", "measurement": "250g" },
+      { "position": 13, "name": "Filo Pastry", "measurement": "500g" },
+      { "position": 14, "name": "Ground Pistachios", "measurement": "100g" }
+    ]
+  }
+}

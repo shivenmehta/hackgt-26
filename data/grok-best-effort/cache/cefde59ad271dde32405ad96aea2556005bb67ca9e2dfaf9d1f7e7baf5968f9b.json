@@ -1,0 +1,315 @@
+{
+  "inputHash": "cefde59ad271dde32405ad96aea2556005bb67ca9e2dfaf9d1f7e7baf5968f9b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:27:39.345Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 358.5,
+      "proteinG": 0.45,
+      "fatG": 40.5,
+      "carbsG": 0.05,
+      "fiberG": 0,
+      "assumptions": "Standard unsalted butter; values for pure butterfat with negligible carbs.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "Medium onion (approx 110g) finely chopped; typical raw onion nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 365,
+        "proteinG": 6.5,
+        "fatG": 0.6,
+        "carbsG": 80,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 547.5,
+      "proteinG": 9.75,
+      "fatG": 0.9,
+      "carbsG": 120,
+      "fiberG": 2.25,
+      "assumptions": "Arborio or Carnaroli risotto rice; standard uncooked white rice values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 125,
+      "per100g": {
+        "caloriesKcal": 82,
+        "proteinG": 0.1,
+        "fatG": 0,
+        "carbsG": 2.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 102.5,
+      "proteinG": 0.125,
+      "fatG": 0,
+      "carbsG": 3.25,
+      "fiberG": 0,
+      "assumptions": "Dry white wine (125 ml ≈ 125 g); alcohol and sugars contribute to low carbs.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 5,
+        "proteinG": 0.3,
+        "fatG": 0.1,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 50,
+      "proteinG": 3,
+      "fatG": 1,
+      "carbsG": 5,
+      "fiberG": 0,
+      "assumptions": "Vegetable stock (1 litre ≈ 1000 g); typical low-calorie prepared stock.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 29,
+        "proteinG": 1.1,
+        "fatG": 0.3,
+        "carbsG": 9.3,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 17.4,
+      "proteinG": 0.66,
+      "fatG": 0.18,
+      "carbsG": 5.58,
+      "fiberG": 1.68,
+      "assumptions": "Juice + zest of one average lemon (≈60 g edible portion); standard lemon values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 99,
+        "proteinG": 24,
+        "fatG": 0.8,
+        "carbsG": 0.2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 237.6,
+      "proteinG": 57.6,
+      "fatG": 1.92,
+      "carbsG": 0.48,
+      "fiberG": 0,
+      "assumptions": "Raw peeled king prawns (240 g edible); typical large prawn nutrition.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 208,
+        "proteinG": 20,
+        "fatG": 13,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 312,
+      "proteinG": 30,
+      "fatG": 19.5,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw Atlantic salmon fillet (150 g edible); standard farmed salmon values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 20,
+        "proteinG": 2.2,
+        "fatG": 0.1,
+        "carbsG": 3.9,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 20,
+      "proteinG": 2.2,
+      "fatG": 0.1,
+      "carbsG": 3.9,
+      "fiberG": 2.1,
+      "assumptions": "Blanched asparagus tips (100 g edible); typical fresh asparagus values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 255,
+        "proteinG": 11,
+        "fatG": 3.3,
+        "carbsG": 64,
+        "fiberG": 25
+      },
+      "caloriesKcal": 5.1,
+      "proteinG": 0.22,
+      "fatG": 0.066,
+      "carbsG": 1.28,
+      "fiberG": 0.5,
+      "assumptions": "Ground black pepper (small pinch estimated 2 g); negligible contribution but included.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 392,
+        "proteinG": 38,
+        "fatG": 26,
+        "carbsG": 3.2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 196,
+      "proteinG": 19,
+      "fatG": 13,
+      "carbsG": 1.6,
+      "fiberG": 0,
+      "assumptions": "Parmesan cheese shavings (50 g edible); standard hard Parmesan values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52823",
+    "name": "Salmon Prawn Risotto",
+    "cuisine": "Italian",
+    "instructions": "Melt the butter in a thick-based pan and gently cook the onion without colour until it is soft.\r\nAdd the rice and stir to coat all the grains in the butter\r\nAdd the wine and cook gently stirring until it is absorbed\r\nGradually add the hot stock, stirring until each addition is absorbed. Keep stirring until the rice is tender\r\nSeason with the lemon juice and zest, and pepper to taste. (there will probably be sufficient saltiness from the salmon to not need to add salt) Stir gently to heat through\r\nServe scattered with the Parmesan and seasonal vegetables.\r\nGrill the salmon and gently place onto the risotto with the prawns and asparagus",
+    "ingredients": [
+      { "position": 1, "name": "butter", "measurement": "50g/2oz" },
+      { "position": 2, "name": "onion", "measurement": "1 finely chopped" },
+      { "position": 3, "name": "rice", "measurement": "150g" },
+      { "position": 4, "name": "white wine", "measurement": "125ml" },
+      {
+        "position": 5,
+        "name": "vegetable stock",
+        "measurement": "1 litre hot"
+      },
+      {
+        "position": 6,
+        "name": "lemon",
+        "measurement": "The juice and zest of one"
+      },
+      { "position": 7, "name": "King Prawns", "measurement": "240g large" },
+      { "position": 8, "name": "salmon", "measurement": "150g" },
+      {
+        "position": 9,
+        "name": "asparagus",
+        "measurement": "100g tips blanched briefly in boiling water"
+      },
+      { "position": 10, "name": "black pepper", "measurement": "ground" },
+      { "position": 11, "name": "Parmesan", "measurement": "50g shavings" }
+    ]
+  }
+}

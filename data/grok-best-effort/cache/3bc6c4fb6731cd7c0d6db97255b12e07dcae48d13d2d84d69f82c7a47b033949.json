@@ -1,0 +1,381 @@
+{
+  "inputHash": "3bc6c4fb6731cd7c0d6db97255b12e07dcae48d13d2d84d69f82c7a47b033949",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:06.194Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 0.3,
+        "fatG": 0.5,
+        "carbsG": 85,
+        "fiberG": 2
+      },
+      "caloriesKcal": 309.4,
+      "proteinG": 0.255,
+      "fatG": 0.425,
+      "carbsG": 72.25,
+      "fiberG": 1.7,
+      "assumptions": "Standard cornflour (cornstarch) values; used as dry coating.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 85,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 309.4,
+      "proteinG": 8.5,
+      "fatG": 0.85,
+      "carbsG": 64.6,
+      "fiberG": 2.55,
+      "assumptions": "Standard plain white wheat flour values; used as dry coating.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 255,
+        "proteinG": 10.9,
+        "fatG": 3.3,
+        "carbsG": 64,
+        "fiberG": 25
+      },
+      "caloriesKcal": 25.5,
+      "proteinG": 1.09,
+      "fatG": 0.33,
+      "carbsG": 6.4,
+      "fiberG": 2.5,
+      "assumptions": "Ground black pepper; 2 tsp ≈ 10 g based on typical density of ground pepper.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 280,
+        "proteinG": 11,
+        "fatG": 11,
+        "carbsG": 52,
+        "fiberG": 20
+      },
+      "caloriesKcal": 16.8,
+      "proteinG": 0.66,
+      "fatG": 0.66,
+      "carbsG": 3.12,
+      "fiberG": 1.2,
+      "assumptions": "Ground Szechuan peppercorns; 2 tsp ≈ 6 g; typical values for Szechuan pepper.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 40,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 353.6,
+      "proteinG": 0,
+      "fatG": 40,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Sunflower oil for deep frying; estimated 40 g absorbed by the 400 g squid across batches (typical 8-12 % absorption for battered fried squid).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 92,
+        "proteinG": 16,
+        "fatG": 1.5,
+        "carbsG": 1.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 368,
+      "proteinG": 64,
+      "fatG": 6,
+      "carbsG": 5.6,
+      "fiberG": 0,
+      "assumptions": "Raw squid (edible portion); typical mixed squid values, cleaned and ready to fry.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 20,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.9,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 6.4,
+      "proteinG": 0.38,
+      "fatG": 0.04,
+      "carbsG": 1.46,
+      "fiberG": 0.52,
+      "assumptions": "Sliced spring onions (scallions); estimated 20 g as garnish (≈ 2-3 onions).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.2,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 6,
+      "proteinG": 0.3,
+      "fatG": 0.03,
+      "carbsG": 1.35,
+      "fiberG": 0.225,
+      "assumptions": "Sliced green chilli; estimated 15 g (≈ 1 medium chilli) as garnish.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.9,
+        "fatG": 0.4,
+        "carbsG": 9.5,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.57,
+      "fatG": 0.12,
+      "carbsG": 2.85,
+      "fiberG": 0.45,
+      "assumptions": "1 chopped red chilli; estimated 30 g (≈ 1 large chilli) including seeds.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 16,
+        "proteinG": 0.7,
+        "fatG": 0.1,
+        "carbsG": 3.6,
+        "fiberG": 0.5
+      },
+      "caloriesKcal": 24,
+      "proteinG": 1.05,
+      "fatG": 0.15,
+      "carbsG": 5.4,
+      "fiberG": 0.75,
+      "assumptions": "½ cucumber; standard medium cucumber half ≈ 150 g, part of dipping sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 chopped red onion; standard medium onion ≈ 110 g, part of dipping sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 22,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 1.2,
+        "fiberG": 0
+      },
+      "caloriesKcal": 22,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1.2,
+      "fiberG": 0,
+      "assumptions": "Rice vinegar; 100 ml ≈ 100 g, used in dipping sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 12,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 46.44,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "Caster sugar; 1 tablespoon ≈ 12 g, used in dipping sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 35,
+        "proteinG": 4.5,
+        "fatG": 0,
+        "carbsG": 2.4,
+        "fiberG": 0
+      },
+      "caloriesKcal": 3.5,
+      "proteinG": 0.45,
+      "fatG": 0,
+      "carbsG": 0.24,
+      "fiberG": 0,
+      "assumptions": "Fish sauce; 2 tsp ≈ 10 g, used in dipping sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53233",
+    "name": "Salt & pepper squid",
+    "cuisine": "Vietnamese",
+    "instructions": "step 1\r\nTo make the dipping sauce, mix all the ingredients in a small bowl until the sugar has dissolved, then set aside. Mix the cornflour and plain flour with both peppers and 2 tsp sea salt in a large bowl, then set aside. Line a tray with kitchen paper and make sure you have more salt to sprinkle with.\r\n\r\nstep 2\r\nHeat about 7cm of oil to 180C in a deep fryer, wok or deep pan. If you don’t have a thermometer, you can test it with a cube of bread – it should brown in 20 secs. Coat the squid well with the flour mix and fry in batches for about 2 mins each or until crisp. Use a slotted spoon to lift out the squid, then drain on the kitchen paper and sprinkle with a little more salt. Serve the squid scattered with the spring onion and chilli, with the dipping sauce on the side.",
+    "ingredients": [
+      { "position": 1, "name": "Corn Flour", "measurement": "85g" },
+      { "position": 2, "name": "Plain Flour", "measurement": "85g" },
+      { "position": 3, "name": "Black Pepper", "measurement": "2 tsp" },
+      { "position": 4, "name": "Szechuan Peppercorns", "measurement": "2 tsp" },
+      { "position": 5, "name": "Sunflower Oil", "measurement": "For frying" },
+      { "position": 6, "name": "Squid", "measurement": "400g" },
+      { "position": 7, "name": "Spring Onions", "measurement": "Sliced" },
+      { "position": 8, "name": "Green Chilli", "measurement": "Sliced" },
+      { "position": 9, "name": "Red Chilli", "measurement": "1 chopped" },
+      { "position": 10, "name": "Cucumber", "measurement": "1/2" },
+      { "position": 11, "name": "Red Onions", "measurement": "1 chopped" },
+      { "position": 12, "name": "Rice Vinegar", "measurement": "100 ml" },
+      { "position": 13, "name": "Caster Sugar", "measurement": "1 tablespoon" },
+      { "position": 14, "name": "Fish Sauce", "measurement": "2 tsp" }
+    ]
+  }
+}

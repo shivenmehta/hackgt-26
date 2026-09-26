@@ -1,0 +1,433 @@
+{
+  "inputHash": "2304999534085d9c8a509c557e2fda9b8d09797bd55e7d637965f07b9c6232a9",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:23:46.410Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1200,
+      "per100g": {
+        "caloriesKcal": 165,
+        "proteinG": 20,
+        "fatG": 8,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1980,
+      "proteinG": 240,
+      "fatG": 96,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Raw chicken with skin and bone, typical broiler chicken nutrient profile; entire 1.2 kg line used as given.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 625,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 1,
+        "fatG": 0.1,
+        "carbsG": 10,
+        "fiberG": 2
+      },
+      "caloriesKcal": 262.5,
+      "proteinG": 6.25,
+      "fatG": 0.625,
+      "carbsG": 62.5,
+      "fiberG": 12.5,
+      "assumptions": "5 medium-large onions at ~125 g each after peeling; typical raw yellow onion values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 300,
+      "per100g": {
+        "caloriesKcal": 18,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 4,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 54,
+      "proteinG": 3,
+      "fatG": 0.6,
+      "carbsG": 12,
+      "fiberG": 3.6,
+      "assumptions": "2 large tomatoes at ~150 g each; typical raw red tomato values, chopped.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 24,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 35.76,
+      "proteinG": 1.5360000000000003,
+      "fatG": 0.12,
+      "carbsG": 7.92,
+      "fiberG": 0.504,
+      "assumptions": "8 average garlic cloves (~3 g each); typical raw garlic cloves, chopped.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 80,
+        "proteinG": 2,
+        "fatG": 0.5,
+        "carbsG": 18,
+        "fiberG": 2
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.3,
+      "fatG": 0.075,
+      "carbsG": 2.7,
+      "fiberG": 0.3,
+      "assumptions": "1 tbsp ginger paste ≈ 15 g; values based on typical fresh ginger root paste.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 55,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 486.2,
+      "proteinG": 0,
+      "fatG": 55,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "¼ cup vegetable oil ≈ 55 g (density ~0.92 g/ml); typical neutral vegetable oil.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 18,
+        "fatG": 22,
+        "carbsG": 44,
+        "fiberG": 11
+      },
+      "caloriesKcal": 15,
+      "proteinG": 0.72,
+      "fatG": 0.88,
+      "carbsG": 1.76,
+      "fiberG": 0.44,
+      "assumptions": "2 tsp cumin seeds ≈ 4 g; typical whole cumin seed values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 298,
+        "proteinG": 12,
+        "fatG": 18,
+        "carbsG": 55,
+        "fiberG": 41
+      },
+      "caloriesKcal": 17.88,
+      "proteinG": 0.72,
+      "fatG": 1.08,
+      "carbsG": 3.3,
+      "fiberG": 2.46,
+      "assumptions": "3 tsp coriander seeds ≈ 6 g; typical whole coriander seed values; split use in recipe but full amount estimated here.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 312,
+        "proteinG": 10,
+        "fatG": 3,
+        "carbsG": 67,
+        "fiberG": 53
+      },
+      "caloriesKcal": 6.24,
+      "proteinG": 0.2,
+      "fatG": 0.06,
+      "carbsG": 1.34,
+      "fiberG": 1.06,
+      "assumptions": "1 tsp turmeric powder ≈ 2 g; typical ground turmeric values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 12,
+        "fatG": 14,
+        "carbsG": 54,
+        "fiberG": 37
+      },
+      "caloriesKcal": 5.64,
+      "proteinG": 0.24,
+      "fatG": 0.28,
+      "carbsG": 1.08,
+      "fiberG": 0.74,
+      "assumptions": "1 tsp red chilli powder ≈ 2 g; typical ground red chili powder values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 2,
+        "fatG": 0.2,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 12,
+      "proteinG": 0.6,
+      "fatG": 0.06,
+      "carbsG": 2.7,
+      "fiberG": 0.45,
+      "assumptions": "2 medium green chillies ≈ 15 g each; typical raw green chili pepper values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 245,
+      "per100g": {
+        "caloriesKcal": 61,
+        "proteinG": 3.5,
+        "fatG": 3.3,
+        "carbsG": 4.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 149.45,
+      "proteinG": 8.575,
+      "fatG": 8.085,
+      "carbsG": 11.515,
+      "fiberG": 0,
+      "assumptions": "1 cup plain yogurt ≈ 245 g; typical full-fat unsweetened yogurt, beaten.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 180,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2.8,
+        "fatG": 36,
+        "carbsG": 3.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 612,
+      "proteinG": 5.039999999999999,
+      "fatG": 64.8,
+      "carbsG": 6.66,
+      "fiberG": 0,
+      "assumptions": "¾ cup heavy cream ≈ 180 g (density ~1.0 g/ml); typical heavy whipping cream values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 14,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 323,
+        "proteinG": 23,
+        "fatG": 9,
+        "carbsG": 50,
+        "fiberG": 42
+      },
+      "caloriesKcal": 19.38,
+      "proteinG": 1.38,
+      "fatG": 0.54,
+      "carbsG": 3,
+      "fiberG": 2.52,
+      "assumptions": "3 tsp dried fenugreek leaves (kasuri methi) ≈ 6 g; typical dried leaf values, full amount for entire line.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 15,
+      "grams": 2,
+      "per100g": {
+        "caloriesKcal": 375,
+        "proteinG": 15,
+        "fatG": 15,
+        "carbsG": 45,
+        "fiberG": 20
+      },
+      "caloriesKcal": 7.5,
+      "proteinG": 0.3,
+      "fatG": 0.3,
+      "carbsG": 0.9,
+      "fiberG": 0.4,
+      "assumptions": "1 tsp garam masala ≈ 2 g; typical powdered spice blend values.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 16,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Salt to taste estimated at 6 g (≈1 tsp) for whole recipe; sodium not in macros, all other nutrients zero.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52795",
+    "name": "Chicken Handi",
+    "cuisine": "Indian",
+    "instructions": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside.\r\nTo the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes.\r\nThen return the fried onion to the pot and stir. Add ginger paste and sauté well.\r\nNow add the cumin seeds, half of the coriander seeds and chopped green chillies. Give them a quick stir.\r\nNext goes in the spices – turmeric powder and red chilli powder. Sauté the spices well for couple of minutes.\r\nAdd the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through. This would take about 15 minutes. Slowly sautéing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat.\r\nWhen the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn’t split. Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves. Mix well.\r\nFinally add the cream and give a final mix to combine everything well.\r\nSprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis. Enjoy!",
+    "ingredients": [
+      { "position": 1, "name": "Chicken", "measurement": "1.2 kg" },
+      { "position": 2, "name": "Onion", "measurement": "5 thinly sliced" },
+      { "position": 3, "name": "Tomatoes", "measurement": "2 finely chopped" },
+      { "position": 4, "name": "Garlic", "measurement": "8 cloves chopped" },
+      { "position": 5, "name": "Ginger paste", "measurement": "1 tbsp" },
+      { "position": 6, "name": "Vegetable oil", "measurement": "¼ cup" },
+      { "position": 7, "name": "Cumin seeds", "measurement": "2 tsp" },
+      { "position": 8, "name": "Coriander seeds", "measurement": "3 tsp" },
+      { "position": 9, "name": "Turmeric powder", "measurement": "1 tsp" },
+      { "position": 10, "name": "Chilli powder", "measurement": "1 tsp" },
+      { "position": 11, "name": "Green chilli", "measurement": "2" },
+      { "position": 12, "name": "Yogurt", "measurement": "1 cup" },
+      { "position": 13, "name": "Cream", "measurement": "¾ cup" },
+      { "position": 14, "name": "fenugreek", "measurement": "3 tsp Dried" },
+      { "position": 15, "name": "Garam masala", "measurement": "1 tsp" },
+      { "position": 16, "name": "Salt", "measurement": "To taste" }
+    ]
+  }
+}

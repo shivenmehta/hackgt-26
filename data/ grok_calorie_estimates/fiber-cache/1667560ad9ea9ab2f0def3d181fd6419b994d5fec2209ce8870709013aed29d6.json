@@ -1,0 +1,129 @@
+{
+  "inputHash": "1667560ad9ea9ab2f0def3d181fd6419b994d5fec2209ce8870709013aed29d6",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:36.534Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 slices bacon ~60g total; zero carbs per previous meat assumption"
+    },
+    {
+      "position": 2,
+      "carbsG": 9,
+      "fiberG": 0,
+      "assumptions": "1 lb kielbasa ~454g; typical Polish sausage has ~2g carbs/100g"
+    },
+    {
+      "position": 3,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb lean pork shoulder cubes ~454g raw; zero carbs per previous meat assumption"
+    },
+    {
+      "position": 4,
+      "carbsG": 23,
+      "fiberG": 1,
+      "assumptions": "1/4 cup all-purpose flour ~30g; standard flour values"
+    },
+    {
+      "position": 5,
+      "carbsG": 3,
+      "fiberG": 0.2,
+      "assumptions": "3 cloves garlic chopped ~9g; standard garlic values"
+    },
+    {
+      "position": 6,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion diced ~110g; standard onion values"
+    },
+    {
+      "position": 7,
+      "carbsG": 5,
+      "fiberG": 2,
+      "assumptions": "1.5 cups fresh mushrooms sliced ~105g; standard mushroom values"
+    },
+    {
+      "position": 8,
+      "carbsG": 21,
+      "fiberG": 9,
+      "assumptions": "4 cups shredded fresh cabbage ~360g raw; standard cabbage values"
+    },
+    {
+      "position": 9,
+      "carbsG": 21,
+      "fiberG": 14,
+      "assumptions": "1 typical 24-28oz jar sauerkraut ~700g drained weight; standard sauerkraut values"
+    },
+    {
+      "position": 10,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1/4 cup dry red wine ~60g; standard wine values"
+    },
+    {
+      "position": 11,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "1 bay leaf; negligible and unknown exact carb contribution"
+    },
+    {
+      "position": 12,
+      "carbsG": 1,
+      "fiberG": 0.6,
+      "assumptions": "1 tsp dried basil ~0.7g; standard dried herb values"
+    },
+    {
+      "position": 13,
+      "carbsG": 1,
+      "fiberG": 0.6,
+      "assumptions": "1 tsp dried marjoram ~0.6g; standard dried herb values"
+    },
+    {
+      "position": 14,
+      "carbsG": 4,
+      "fiberG": 3,
+      "assumptions": "1 tbs paprika ~7g; standard paprika values"
+    },
+    {
+      "position": 15,
+      "carbsG": 0.5,
+      "fiberG": 0.3,
+      "assumptions": "1/8 tsp caraway seeds ~0.4g; standard seed values"
+    },
+    {
+      "position": 16,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 dash hot sauce; negligible carbs per previous assumption"
+    },
+    {
+      "position": 17,
+      "carbsG": 5,
+      "fiberG": 0,
+      "assumptions": "5 cups beef stock ~1200ml; typical broth values"
+    },
+    {
+      "position": 18,
+      "carbsG": 6,
+      "fiberG": 1,
+      "assumptions": "2 tbs tomato puree/paste ~30g; standard tomato paste values"
+    },
+    {
+      "position": 19,
+      "carbsG": 9,
+      "fiberG": 2,
+      "assumptions": "1 cup canned diced tomatoes ~240g with juice; standard canned tomato values"
+    },
+    {
+      "position": 20,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 dash Worcestershire sauce; negligible carbs per previous assumption"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "inputHash": "62b52876805b255db33cde938758932ef1eae0433acc39b52d547072d3993564",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:29:56.821Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 375,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10.3,
+        "fatG": 1.2,
+        "carbsG": 76.3,
+        "fiberG": 2.7
+      },
+      "caloriesKcal": 1365,
+      "proteinG": 38.62500000000001,
+      "fatG": 4.5,
+      "carbsG": 286.125,
+      "fiberG": 10.125000000000002,
+      "assumptions": "Standard plain white wheat flour, dry weight as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 193.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 50,
+      "fiberG": 0,
+      "assumptions": "Pure caster sugar (sucrose).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 7,
+      "per100g": {
+        "caloriesKcal": 325,
+        "proteinG": 40.8,
+        "fatG": 7.6,
+        "carbsG": 41.2,
+        "fiberG": 26.9
+      },
+      "caloriesKcal": 22.75,
+      "proteinG": 2.856,
+      "fatG": 0.5319999999999999,
+      "carbsG": 2.8840000000000003,
+      "fiberG": 1.8829999999999998,
+      "assumptions": "Standard active dry yeast; 7 g sachet weight used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 75,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 4.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 31.5,
+      "proteinG": 2.55,
+      "fatG": 0.75,
+      "carbsG": 3.6,
+      "fiberG": 0,
+      "assumptions": "Whole cow's milk, as listed; typical density applied.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 150,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 214.5,
+      "proteinG": 18.9,
+      "fatG": 14.25,
+      "carbsG": 1.05,
+      "fiberG": 0,
+      "assumptions": "3 large whole eggs ≈ 50 g edible portion each (shells excluded); total edible weight.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.5,
+      "proteinG": 6.3,
+      "fatG": 4.75,
+      "carbsG": 0.35,
+      "fiberG": 0,
+      "assumptions": "1 additional large egg beaten for glaze; ≈ 50 g edible portion used for brushing the entire parcel twice.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 180,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81.1,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1290.6,
+      "proteinG": 1.62,
+      "fatG": 145.98,
+      "carbsG": 0.18,
+      "fiberG": 0,
+      "assumptions": "Unsalted butter, as incorporated into the dough.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 319,
+        "proteinG": 19.7,
+        "fatG": 26.9,
+        "carbsG": 0.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 797.5,
+      "proteinG": 49.25,
+      "fatG": 67.25,
+      "carbsG": 1.25,
+      "fiberG": 0,
+      "assumptions": "Standard 250 g wheel of Brie cheese; fully edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 80,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 20,
+        "fatG": 18,
+        "carbsG": 1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 200,
+      "proteinG": 16,
+      "fatG": 14.4,
+      "carbsG": 0.8,
+      "fiberG": 0,
+      "assumptions": "8 typical thin slices of prosciutto ≈ 10 g each (total 80 g); fully edible cured ham.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52913",
+    "name": "Brie wrapped in prosciutto & brioche",
+    "cuisine": "French",
+    "instructions": "Mix the flour, 1 tsp salt, caster sugar, yeast, milk and eggs together in a mixer using the dough attachment for 5 mins until the dough is smooth. Add the butter and mix for a further 4 mins on medium speed. Scrape the dough bowl and mix again for 1 min. Place the dough in a container, cover with cling film and leave in the fridge for at least 6 hrs before using.\r\nWrap the Brie in the prosciutto and set aside. Turn out the dough onto a lightly floured surface. Roll into a 25cm circle. Place the wrapped Brie in the middle of the circle and fold the edges in neatly. Put the parcel onto a baking tray lined with baking parchment and brush with beaten egg. Chill in the fridge for 30 mins, then brush again with beaten egg and chill for a further 30 mins. Leave to rise for 1 hr at room temperature. Heat oven to 200C/180C fan/gas 6, then bake for 22 mins. Serve warm.",
+    "ingredients": [
+      { "position": 1, "name": "Plain Flour", "measurement": "375g" },
+      { "position": 2, "name": "Caster Sugar", "measurement": "50g" },
+      { "position": 3, "name": "Yeast", "measurement": "7g" },
+      { "position": 4, "name": "Milk", "measurement": "75g" },
+      { "position": 5, "name": "Eggs", "measurement": "3 Large" },
+      { "position": 6, "name": "Eggs", "measurement": "To Glaze" },
+      { "position": 7, "name": "Butter", "measurement": "180g" },
+      { "position": 8, "name": "Brie", "measurement": "250g" },
+      { "position": 9, "name": "Prosciutto", "measurement": "8 slices" }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "inputHash": "d2fa021f0ef4ce5e2ba5ec69aba21a4041a0f022a19f7030badbb118a9991856",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:45.281Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 2.2,
+      "fiberG": 0,
+      "assumptions": "1 1/4 oz (35 g) full-fat cream cheese; standard values ~6.3g carbs/100g"
+    },
+    {
+      "position": 2,
+      "carbsG": 250,
+      "fiberG": 0,
+      "assumptions": "1 1/4 cups (250 g) granulated sugar; 100% carbohydrate"
+    },
+    {
+      "position": 3,
+      "carbsG": 0.5,
+      "fiberG": 0,
+      "assumptions": "1 tsp (5 g) vanilla extract; typical ~10g carbs/100g"
+    },
+    {
+      "position": 4,
+      "carbsG": 6,
+      "fiberG": 0.4,
+      "assumptions": "modest dusting for surface (~8 g flour); standard all-purpose flour values"
+    },
+    {
+      "position": 5,
+      "carbsG": 115,
+      "fiberG": 4,
+      "assumptions": "2 standard frozen puff pastry sheets (~490 g total); typical commercial puff pastry ~23.5g carbs/100g"
+    },
+    {
+      "position": 6,
+      "carbsG": 8,
+      "fiberG": 2.5,
+      "assumptions": "approx 1 cup sliced strawberries (150 g) used across all pastries; standard values ~5.3g carbs/100g"
+    },
+    {
+      "position": 7,
+      "carbsG": 5.2,
+      "fiberG": 2.8,
+      "assumptions": "approx 3/4 cup raspberries (100 g) used across all pastries; standard values ~5.2g carbs/100g"
+    },
+    {
+      "position": 8,
+      "carbsG": 4.3,
+      "fiberG": 2.5,
+      "assumptions": "approx 3/4 cup blackberries (100 g) used across all pastries; standard values ~4.3g carbs/100g"
+    }
+  ]
+}

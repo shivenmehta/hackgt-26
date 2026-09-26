@@ -1,0 +1,277 @@
+{
+  "inputHash": "beb8c47d37d43ef97e7e098730895d5939fc3e7b4921396082962737022f8f9e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:30.197Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 1134,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1.3,
+        "fatG": 0.1,
+        "carbsG": 5.8,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 283.5,
+      "proteinG": 14.742,
+      "fatG": 1.1340000000000001,
+      "carbsG": 65.77199999999999,
+      "fiberG": 28.35,
+      "assumptions": "1 medium head of green cabbage (about 2.5 lb / 1134 g total, raw, edible portion after removing core; typical for cabbage rolls recipe yielding ~18 leaves plus chopped base)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 28,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.9,
+        "fatG": 81.1,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 200.76,
+      "proteinG": 0.252,
+      "fatG": 22.708,
+      "carbsG": 0.028000000000000004,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons of butter (standard 14 g per tbsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.1,
+        "fatG": 0.1,
+        "carbsG": 9.3,
+        "fiberG": 1.7
+      },
+      "caloriesKcal": 44,
+      "proteinG": 1.2100000000000002,
+      "fatG": 0.11,
+      "carbsG": 10.23,
+      "fiberG": 1.87,
+      "assumptions": "1 medium onion, chopped (~110 g raw edible portion)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 17,
+        "fatG": 20,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 1135,
+      "proteinG": 77.18,
+      "fatG": 90.8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb (454 g) raw ground beef (80/20 typical for recipes)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 227,
+      "per100g": {
+        "caloriesKcal": 240,
+        "proteinG": 17,
+        "fatG": 19,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 544.8,
+      "proteinG": 38.59,
+      "fatG": 43.13,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "0.5 lb (227 g) raw ground pork (typical 80/20 mix)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 130,
+        "proteinG": 2.7,
+        "fatG": 0.3,
+        "carbsG": 28.2,
+        "fiberG": 0.4
+      },
+      "caloriesKcal": 312,
+      "proteinG": 6.48,
+      "fatG": 0.72,
+      "carbsG": 67.68,
+      "fiberG": 0.96,
+      "assumptions": "1.5 cups uncooked white rice (standard 160 g per cup; measured dry before cooking as per recipe mixing step)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 149,
+        "proteinG": 6.4,
+        "fatG": 0.5,
+        "carbsG": 33.1,
+        "fiberG": 2.1
+      },
+      "caloriesKcal": 7.45,
+      "proteinG": 0.32,
+      "fatG": 0.025,
+      "carbsG": 1.655,
+      "fiberG": 0.105,
+      "assumptions": "1 tsp minced garlic (~5 g, typical for 1 tsp)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp table salt (standard 6 g; sodium not counted in macros here)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 0.6,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/4 tsp ground black pepper (~0.6 g; negligible macros)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 750,
+      "per100g": {
+        "caloriesKcal": 40,
+        "proteinG": 1.7,
+        "fatG": 0.2,
+        "carbsG": 9,
+        "fiberG": 1.5
+      },
+      "caloriesKcal": 300,
+      "proteinG": 12.75,
+      "fatG": 1.5,
+      "carbsG": 67.5,
+      "fiberG": 11.25,
+      "assumptions": "3 cans (15 oz / ~425 g each drained equivalent but using full contents; total 750 g tomato puree/sauce as listed, typical canned tomato product macros adjusted for puree consistency)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53021",
+    "name": "Golabki (cabbage roll)",
+    "cuisine": "Polish",
+    "instructions": "Bring a large pot of lightly salted water to a boil. Place cabbage head into water, cover pot, and cook until cabbage leaves are slightly softened enough to remove from head, 3 minutes. Remove cabbage from pot and let cabbage sit until leaves are cool enough to handle, about 10 minutes.\r\n\r\nRemove 18 whole leaves from the cabbage head, cutting out any thick tough center ribs. Set whole leaves aside. Chop the remainder of the cabbage head and spread it in the bottom of a casserole dish.\r\n\r\nMelt butter in a large skillet over medium-high heat. Cook and stir onion in hot butter until tender, 5 to 10 minutes. Cool.\r\n\r\nStir onion, beef, pork, rice, garlic, 1 teaspoon salt, and 1/4 teaspoon pepper together in a large bowl.\r\n\r\nPreheat oven to 350 degrees F (175 degrees C).\r\n\r\nPlace about 1/2 cup beef mixture on a cabbage leaf. Roll cabbage around beef mixture, tucking in sides to create an envelope around the meat. Repeat with remaining leaves and meat mixture. Place cabbage rolls in a layer atop the chopped cabbage in the casserole dish; season rolls with salt and black pepper.\r\n\r\nWhisk tomato soup, tomato juice, and ketchup together in a bowl. Pour tomato soup mixture over cabbage rolls and cover dish wish aluminum foil.\r\n\r\nBake in the preheated oven until cabbage is tender and meat is cooked through, about 1 hour.",
+    "ingredients": [
+      { "position": 1, "name": "Cabbage", "measurement": "1" },
+      { "position": 2, "name": "Butter", "measurement": "2 tbs" },
+      { "position": 3, "name": "Onion", "measurement": "1 chopped" },
+      { "position": 4, "name": "Ground Beef", "measurement": "1 lb" },
+      { "position": 5, "name": "Ground Pork", "measurement": "1/2 lb" },
+      { "position": 6, "name": "Rice", "measurement": "1 1/2 cups" },
+      { "position": 7, "name": "Garlic", "measurement": "1 tsp" },
+      { "position": 8, "name": "Salt", "measurement": "1 tsp" },
+      { "position": 9, "name": "Black Pepper", "measurement": "1/4 tsp" },
+      { "position": 10, "name": "Tomato Puree", "measurement": "3 cans" }
+    ]
+  }
+}

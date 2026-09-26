@@ -1,0 +1,75 @@
+{
+  "inputHash": "2cb0d61f80c999506011a2a6f2771d12e169a4c8f971cebbe2b45f22748919cf",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:40.899Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 small lamb leg steaks ≈ 600 g total raw, lean+fat, edible portion only (plain meat)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tsp olive oil = 10 ml / 9 g (pure oil)"
+    },
+    {
+      "position": 3,
+      "carbsG": 1.2,
+      "fiberG": 0.7,
+      "assumptions": "1 tsp ground cumin ≈ 2 g"
+    },
+    {
+      "position": 4,
+      "carbsG": 12,
+      "fiberG": 0,
+      "assumptions": "1 tbsp sugar ≈ 12 g"
+    },
+    {
+      "position": 5,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "3 tbsp white wine vinegar ≈ 45 ml / 45 g"
+    },
+    {
+      "position": 6,
+      "carbsG": 12,
+      "fiberG": 3.6,
+      "assumptions": "2 medium carrots ≈ 120 g raw, peeled, edible portion"
+    },
+    {
+      "position": 7,
+      "carbsG": 2.3,
+      "fiberG": 0.9,
+      "assumptions": "2 spring onions sliced ≈ 30 g edible portion"
+    },
+    {
+      "position": 8,
+      "carbsG": 18.4,
+      "fiberG": 9.2,
+      "assumptions": "400 g raw white cabbage, edible portion"
+    },
+    {
+      "position": 9,
+      "carbsG": 5.5,
+      "fiberG": 1,
+      "assumptions": "5 sweet Peppadew peppers ≈ 50 g drained, from jar"
+    },
+    {
+      "position": 10,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "3 tbsp mayonnaise ≈ 45 g standard full-fat mayo"
+    },
+    {
+      "position": 11,
+      "carbsG": 168,
+      "fiberG": 8,
+      "assumptions": "4 large pita breads ≈ 240 g total (60 g each)"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "inputHash": "edecd09b8efe9febd6d4fd26568fd0c22cf3bf31fba38e6599f9609b5fe26b88",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:07:16.530Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1.5 kg raw beef (brisket or similar cut) - no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 2,
+      "fiberG": 0,
+      "assumptions": "1 standard Knorr beef stock cube (~10-12 g) - typical values for concentrate cube"
+    },
+    {
+      "position": 3,
+      "carbsG": 24,
+      "fiberG": 5,
+      "assumptions": "8 oz (227 g) canned tomato puree - based on standard nutrition for tomato puree"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 cups (720 ml) water - no carbohydrates"
+    },
+    {
+      "position": 5,
+      "carbsG": 6,
+      "fiberG": 1,
+      "assumptions": "6 tbsp (~90 ml) regular soy sauce - typical values for soy sauce"
+    },
+    {
+      "position": 6,
+      "carbsG": 0.3,
+      "fiberG": 0,
+      "assumptions": "1 tbsp white wine vinegar - negligible carbs"
+    },
+    {
+      "position": 7,
+      "carbsG": 9,
+      "fiberG": 4,
+      "assumptions": "2 tbsp (~12 g) ground black pepper (or crushed peppercorns as used in instructions)"
+    },
+    {
+      "position": 8,
+      "carbsG": 2,
+      "fiberG": 1,
+      "assumptions": "4 dried bay leaves - estimated from typical dried herb data"
+    },
+    {
+      "position": 9,
+      "carbsG": 3,
+      "fiberG": 1,
+      "assumptions": "Juice from 1/2 lemon (~30 ml juice) - typical values for lemon juice"
+    },
+    {
+      "position": 10,
+      "carbsG": 4,
+      "fiberG": 1,
+      "assumptions": "2 tbsp (~30 g) tomato sauce/paste - based on standard tomato paste values"
+    },
+    {
+      "position": 11,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "3 tbsp (~42 g) butter - no carbohydrates"
+    },
+    {
+      "position": 12,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 cup (120 ml) olive oil - no carbohydrates"
+    },
+    {
+      "position": 13,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (~110 g), chopped - standard onion nutrition"
+    },
+    {
+      "position": 14,
+      "carbsG": 4,
+      "fiberG": 0.3,
+      "assumptions": "4 garlic cloves (~12 g) - standard garlic nutrition"
+    }
+  ]
+}

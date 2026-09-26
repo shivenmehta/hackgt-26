@@ -1,0 +1,51 @@
+{
+  "inputHash": "13827244152851f09e438d12164ee135f7075c066da6e6c1a8d2f64183aa48cf",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:18.134Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 9,
+      "caloriesPer100g": 143,
+      "assumptions": "Standard garlic clove is ~3g; 3 chopped cloves total ~9g edible portion."
+    },
+    {
+      "position": 6,
+      "grams": 180,
+      "caloriesPer100g": 48,
+      "assumptions": "Medium carrot ~60g; 3 finely chopped carrots total ~180g edible."
+    },
+    {
+      "position": 7,
+      "grams": 120,
+      "caloriesPer100g": 16.7,
+      "assumptions": "Medium celery stalk ~40g; 3 finely chopped stalks total ~120g edible."
+    },
+    {
+      "position": 8,
+      "grams": 90,
+      "caloriesPer100g": 32,
+      "assumptions": "Medium spring onion ~15g each; 6 chopped total ~90g edible."
+    },
+    {
+      "position": 9,
+      "grams": 230,
+      "caloriesPer100g": 300,
+      "assumptions": "Standard wonton wrapper packet contains ~50 skins at ~4.6g each; total edible packet ~230g. Calorie density estimated from typical wheat-based wonton wrapper data (not a USDA citation)."
+    },
+    {
+      "position": 10,
+      "grams": null,
+      "caloriesPer100g": 884,
+      "assumptions": "'Fry' is vague with no quantity; absorbed frying oil cannot be reasonably estimated from recipe text alone, so grams left null."
+    },
+    {
+      "position": 11,
+      "grams": null,
+      "caloriesPer100g": 0,
+      "assumptions": "Water for brushing is used in negligible amount that evaporates; no reasonable total mass from 'Bottle' measurement, so grams left null."
+    }
+  ]
+}

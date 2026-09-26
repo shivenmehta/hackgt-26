@@ -1,0 +1,75 @@
+{
+  "inputHash": "df130b78fd25194769b9bdd4eff138b02da30843f681b9722f2970529cd66b99",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:16.542Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 36,
+      "fiberG": 18,
+      "assumptions": "6 large outer cabbage leaves ≈ 360 g total raw edible weight (USDA raw cabbage values)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbsp olive oil = 28 g (pure fat, no carbs)"
+    },
+    {
+      "position": 3,
+      "carbsG": 10,
+      "fiberG": 2,
+      "assumptions": "1 medium chopped onion ≈ 110 g (USDA raw onion)"
+    },
+    {
+      "position": 4,
+      "carbsG": 2,
+      "fiberG": 1.4,
+      "assumptions": "2 tsp dried rosemary ≈ 2 g"
+    },
+    {
+      "position": 5,
+      "carbsG": 3,
+      "fiberG": 1.6,
+      "assumptions": "1 medium chopped celery stalk ≈ 60 g (USDA raw)"
+    },
+    {
+      "position": 6,
+      "carbsG": 102,
+      "fiberG": 1.4,
+      "assumptions": "140 g uncooked basmati rice (dry weight as listed; all used; standard white rice values)"
+    },
+    {
+      "position": 7,
+      "carbsG": 70,
+      "fiberG": 14,
+      "assumptions": "140 g cooked chestnuts (vacuum-packed or pre-cooked weight; USDA roasted equivalent adjusted for cooked)"
+    },
+    {
+      "position": 8,
+      "carbsG": 40,
+      "fiberG": 2.5,
+      "assumptions": "50 g dried cranberries (standard sweetened; typical sweetened dried fruit values)"
+    },
+    {
+      "position": 9,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "300 ml vegetable stock ≈ 300 g (typical low-calorie stock; minor carbs from vegetables)"
+    },
+    {
+      "position": 10,
+      "carbsG": 2.3,
+      "fiberG": 0,
+      "assumptions": "1 tbsp balsamic vinegar ≈ 15 g"
+    },
+    {
+      "position": 11,
+      "carbsG": 6,
+      "fiberG": 0,
+      "assumptions": "1 tsp clear honey ≈ 7 g"
+    }
+  ]
+}

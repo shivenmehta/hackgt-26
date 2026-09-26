@@ -1,0 +1,229 @@
+{
+  "inputHash": "cc799902c6ff38e9b02aeb991c7898940ed96fbf06cbd0faccd7f433ba150886",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:38:00.223Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 26,
+        "fatG": 15,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2000,
+      "proteinG": 208,
+      "fatG": 120,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 typical roast beef slices from a 1.6-2kg joint; assumes roasted, lean+fat British beef cuts like topside or rib; ~100g per slice based on standard Sunday roast portions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 360,
+      "per100g": {
+        "caloriesKcal": 34,
+        "proteinG": 2.8,
+        "fatG": 0.4,
+        "carbsG": 6.6,
+        "fiberG": 2.6
+      },
+      "caloriesKcal": 122.4,
+      "proteinG": 10.079999999999998,
+      "fatG": 1.44,
+      "carbsG": 23.76,
+      "fiberG": 9.36,
+      "assumptions": "12 medium broccoli florets; ~30g each after trimming, boiled until tender as per instructions",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 1000,
+      "per100g": {
+        "caloriesKcal": 77,
+        "proteinG": 2,
+        "fatG": 0.1,
+        "carbsG": 17,
+        "fiberG": 2
+      },
+      "caloriesKcal": 770,
+      "proteinG": 20,
+      "fatG": 1,
+      "carbsG": 170,
+      "fiberG": 20,
+      "assumptions": "1 standard 1kg packet of roasting potatoes (e.g. Maris Piper), peeled or unpeeled, roasted in oven as per instructions; common UK packet size for Sunday roast",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 500,
+      "per100g": {
+        "caloriesKcal": 41,
+        "proteinG": 0.9,
+        "fatG": 0.2,
+        "carbsG": 10,
+        "fiberG": 2.8
+      },
+      "caloriesKcal": 205,
+      "proteinG": 4.5,
+      "fatG": 1,
+      "carbsG": 50,
+      "fiberG": 14,
+      "assumptions": "1 standard 500g packet of carrots, peeled and boiled until tender as per instructions; typical UK fresh carrot packet size",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 509.6,
+      "proteinG": 14,
+      "fatG": 1.4,
+      "carbsG": 106.4,
+      "fiberG": 4.2,
+      "assumptions": "Exactly 140g plain white flour as specified for Yorkshire pudding batter",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 13,
+        "fatG": 10,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 286,
+      "proteinG": 26,
+      "fatG": 20,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "4 large eggs (UK medium-large ~50g each without shell); used in Yorkshire pudding batter",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 42,
+        "proteinG": 3.4,
+        "fatG": 1,
+        "carbsG": 5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 84,
+      "proteinG": 6.8,
+      "fatG": 2,
+      "carbsG": 10,
+      "fiberG": 0,
+      "assumptions": "Exactly 200ml semi-skimmed milk (density ~1.03g/ml) as specified for Yorkshire pudding batter",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 265.2,
+      "proteinG": 0,
+      "fatG": 30,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Drizzle of sunflower oil for 12 Yorkshire pudding tin holes; assumes ~2-3ml per hole (total ~30ml, density 0.92g/ml) to coat bottoms as per instructions; typical amount to prevent sticking without excess",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52824",
+    "name": "Beef Sunday Roast",
+    "cuisine": "British",
+    "instructions": "Cook the Broccoli and Carrots in a pan of boiling water until tender.\r\n\r\nRoast the Beef and Potatoes in the oven for 45mins, the potatoes may need to be checked regularly to not overcook.\r\n\r\nTo make the Yorkshire puddings:\r\nHeat oven to 230C/fan 210C/gas 8. Drizzle a little sunflower oil evenly into 2 x 4-hole Yorkshire pudding tins or a 12-hole non-stick muffin tin and place in the oven to heat through\r\nTo make the batter, tip 140g plain flour into a bowl and beat in four eggs until smooth. Gradually add 200ml milk and carry on beating until the mix is completely lump-free. Season with salt and pepper. Pour the batter into a jug, then remove the hot tins from the oven. Carefully and evenly pour the batter into the holes. Place the tins back in the oven and leave undisturbed for 20-25 mins until the puddings have puffed up and browned. Serve immediately.\r\n\r\nPlate up and add the Gravy as desired.",
+    "ingredients": [
+      { "position": 1, "name": "Beef", "measurement": "8 slices" },
+      { "position": 2, "name": "Broccoli", "measurement": "12 florets" },
+      { "position": 3, "name": "Potatoes", "measurement": "1 Packet" },
+      { "position": 4, "name": "Carrots", "measurement": "1 Packet" },
+      { "position": 5, "name": "plain flour", "measurement": "140g" },
+      { "position": 6, "name": "Eggs", "measurement": "4" },
+      { "position": 7, "name": "milk", "measurement": "200ml" },
+      {
+        "position": 8,
+        "name": "sunflower oil",
+        "measurement": "drizzle (for cooking)"
+      }
+    ]
+  }
+}

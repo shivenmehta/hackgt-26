@@ -1,0 +1,81 @@
+{
+  "inputHash": "7e4a5601ee33abba4bbe20e72c1682dc45a5e97adeeb785d92c37dfbb8d51cf4",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:05:37.580Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 19.4,
+      "fiberG": 4,
+      "assumptions": "2 medium onions, total ~220g raw, peeled and chopped (USDA onion values)"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp olive oil = 14g, all used in frying"
+    },
+    {
+      "position": 3,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 clove garlic ~3g, raw, crushed/chopped"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "500g raw lean minced beef (assumed ~20% fat content typical for lean beef mince)"
+    },
+    {
+      "position": 5,
+      "carbsG": 3,
+      "fiberG": 1.4,
+      "assumptions": "90g raw white mushrooms, sliced"
+    },
+    {
+      "position": 6,
+      "carbsG": 1.2,
+      "fiberG": 0.7,
+      "assumptions": "1 tsp dried oregano (~1g)"
+    },
+    {
+      "position": 7,
+      "carbsG": 16,
+      "fiberG": 4,
+      "assumptions": "400g can chopped tomatoes with juice, all used"
+    },
+    {
+      "position": 8,
+      "carbsG": 1.5,
+      "fiberG": 0,
+      "assumptions": "300ml hot beef stock from concentrate or cube, prepared as directed"
+    },
+    {
+      "position": 9,
+      "carbsG": 4,
+      "fiberG": 1,
+      "assumptions": "1 tbsp tomato puree = 15g"
+    },
+    {
+      "position": 10,
+      "carbsG": 3,
+      "fiberG": 0,
+      "assumptions": "1 tbsp Worcestershire sauce = 15ml"
+    },
+    {
+      "position": 11,
+      "carbsG": 266,
+      "fiberG": 11.6,
+      "assumptions": "350g dry spaghetti, all cooked and consumed (no oil added in final step)"
+    },
+    {
+      "position": 12,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Parmesan for topping listed without quantity; cannot reasonably estimate total contribution for whole recipe"
+    }
+  ]
+}

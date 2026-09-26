@@ -1,0 +1,45 @@
+{
+  "inputHash": "b63f2d91914a39f4fbda46180f8d78886855bbed2a6b65ad63330b249383f682",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:33:07.914Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 16,
+      "caloriesPer100g": null,
+      "assumptions": "Standard small dried shrimp: 2 tbsp volume ≈ 16g based on typical density of small dried shrimp (about 8g per tbsp)."
+    },
+    {
+      "position": 3,
+      "grams": 800,
+      "caloriesPer100g": 16,
+      "assumptions": "1 medium napa cabbage head (edible portion after discarding core) is typically 700-900g; 800g used here as realistic average for a full head."
+    },
+    {
+      "position": 4,
+      "grams": 28,
+      "caloriesPer100g": 884,
+      "assumptions": "Standard: 1 tbsp peanut oil = 14g, so 2 tbsp = 28g."
+    },
+    {
+      "position": 5,
+      "grams": 60,
+      "caloriesPer100g": 32,
+      "assumptions": "4 chopped scallions ≈ 60g total (average 15g per medium scallion including green and white parts)."
+    },
+    {
+      "position": 10,
+      "grams": 5,
+      "caloriesPer100g": 0,
+      "assumptions": "1 tsp kosher salt ≈ 5g (standard density for kosher salt)."
+    },
+    {
+      "position": 11,
+      "grams": 1,
+      "caloriesPer100g": 251,
+      "assumptions": "1/2 tsp ground pepper ≈ 1g (standard density for black pepper)."
+    }
+  ]
+}

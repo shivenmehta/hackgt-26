@@ -1,0 +1,65 @@
+{
+  "inputHash": "7727c1ffcaaaf3105ff26ba9e91ae91633161c1b446c2e39b86d3a8dca640b6b",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:21:22.558Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 682,
+      "proteinG": 19,
+      "fatG": 3,
+      "assumptions": "1.5 US cups all-purpose flour = 180 g; standard density used"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 230,
+      "proteinG": 6,
+      "fatG": 2,
+      "assumptions": "0.5 US cup yellow cornmeal = 80 g; standard density used"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 290,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "6 US tablespoons granulated sugar = 75 g"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 5,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "2 tsp baking powder ≈ 8 g; negligible macros"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 12,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1 tsp vanilla extract ≈ 4 g; standard caloric value"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "1/2 tsp table salt ≈ 3 g; zero calories"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 113,
+      "proteinG": 6,
+      "fatG": 6,
+      "assumptions": "3/4 US cup whole milk = 180 ml / 183 g; standard whole milk values"
+    },
+    {
+      "position": 8,
+      "caloriesKcal": null,
+      "proteinG": null,
+      "fatG": null,
+      "assumptions": "Oil for frying: quantity absorbed not stated and cannot be reliably estimated without specific absorption data; entire frying oil volume not consumed by recipe; value cannot be estimated from given data"
+    }
+  ]
+}

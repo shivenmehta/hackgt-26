@@ -1,0 +1,121 @@
+{
+  "inputHash": "2743dffe4b5de16554c0a53f59372446e828cae7131ddc5971877f6f0294f55c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:02.636Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 800,
+      "per100g": {
+        "caloriesKcal": 25,
+        "proteinG": 1,
+        "fatG": 0.2,
+        "carbsG": 6,
+        "fiberG": 3
+      },
+      "caloriesKcal": 200,
+      "proteinG": 8,
+      "fatG": 1.6,
+      "carbsG": 48,
+      "fiberG": 24,
+      "assumptions": "4 medium eggplants, ~200g each raw with skin; grilled then peeled (edible flesh only).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 143,
+        "proteinG": 12.6,
+        "fatG": 9.5,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 143,
+      "proteinG": 12.6,
+      "fatG": 9.5,
+      "carbsG": 0.7,
+      "fiberG": 0,
+      "assumptions": "2 large whole eggs (~50g each).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 0,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tsp table salt; negligible macros.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 18,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 159.12,
+      "proteinG": 0,
+      "fatG": 18,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "4 tsp olive oil for frying (~4.5g per tsp).",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53075",
+    "name": "Tortang Talong",
+    "cuisine": "Filipino",
+    "instructions": "0.\tGrill the eggplant until the color of skin turns almost black\r\n1.\tLet the eggplant cool for a while then peel off the skin. Set aside.\r\n2.\tCrack the eggs and place in a bowl\r\n3.\tAdd salt and beat\r\n4.\tPlace the eggplant on a flat surface and flatten using a fork.\r\n5.\tDip the flattened eggplant in the beaten egg mixture\r\n6.\tHeat the pan and pour the cooking oil\r\n7.\tFry the eggplant (that was dipped in the beaten mixture). Make sure that both sides are cooked. Frying time will take you about 3 to 4 minutes per side on medium heat.",
+    "ingredients": [
+      { "position": 1, "name": "Egg Plants", "measurement": "4" },
+      { "position": 2, "name": "Eggs", "measurement": "2" },
+      { "position": 3, "name": "Salt", "measurement": "1 tsp" },
+      { "position": 4, "name": "Olive Oil", "measurement": "4 tsp" }
+    ]
+  }
+}

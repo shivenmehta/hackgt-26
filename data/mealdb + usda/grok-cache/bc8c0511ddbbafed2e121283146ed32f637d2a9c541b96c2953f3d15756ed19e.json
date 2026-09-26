@@ -1,0 +1,39 @@
+{
+  "inputHash": "bc8c0511ddbbafed2e121283146ed32f637d2a9c541b96c2953f3d15756ed19e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:16.703Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 2,
+      "grams": 10,
+      "caloriesPer100g": null,
+      "assumptions": "Standard density for Thai red curry paste is ~5g per teaspoon; 2 tsp = 10g. Modest amount typical for paste in soup recipes."
+    },
+    {
+      "position": 6,
+      "grams": 240,
+      "caloriesPer100g": 197,
+      "assumptions": "Salmon fillets are typically ~120g each when raw (edible portion after trimming); 2 fillets = 240g total. Known calories used directly; assumes raw weight as added before cooking."
+    },
+    {
+      "position": 7,
+      "grams": 20,
+      "caloriesPer100g": 30,
+      "assumptions": "Average lime yields ~30-40ml juice; juice of 2 limes ≈ 20g (density near 1g/ml). Known calories for lime juice used directly."
+    },
+    {
+      "position": 9,
+      "grams": 2,
+      "caloriesPer100g": 380,
+      "assumptions": "A 'pinch' of sugar is conventionally estimated at 2g for nutritional purposes in recipes. Known calories for brown sugar used directly."
+    },
+    {
+      "position": 10,
+      "grams": 20,
+      "caloriesPer100g": 23,
+      "assumptions": "A 'bunch' of fresh coriander (cilantro) is typically 20-25g of usable leaves for garnishing a 4-serving soup. Known calories for coriander used directly."
+    }
+  ]
+}

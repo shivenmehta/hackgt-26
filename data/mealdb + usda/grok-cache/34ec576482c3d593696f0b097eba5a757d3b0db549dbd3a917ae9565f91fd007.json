@@ -1,0 +1,21 @@
+{
+  "inputHash": "34ec576482c3d593696f0b097eba5a757d3b0db549dbd3a917ae9565f91fd007",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:35:07.397Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": null,
+      "caloriesPer100g": 884,
+      "assumptions": "For deep frying, the amount of sunflower oil absorbed by the churros is modest but variable; known value copied exactly. Full absorption cannot be estimated reliably from the recipe text, so grams left null."
+    },
+    {
+      "position": 2,
+      "grams": null,
+      "caloriesPer100g": null,
+      "assumptions": "Ice cream is listed only 'to serve' with no quantity or type specified. No reasonable estimate possible for either field without inventing data; both left null."
+    }
+  ]
+}

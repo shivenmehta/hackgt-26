@@ -1,0 +1,87 @@
+{
+  "inputHash": "f1e4be046fb49418c08818bea64490df74f6aec61981ddf3e48cc76792dfeacd",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:28.611Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Pure oil; consistent with previous 4 tbsp = 56 ml / 52 g olive oil"
+    },
+    {
+      "position": 2,
+      "carbsG": 10.5,
+      "fiberG": 1.9,
+      "assumptions": "1 medium onion (110 g), chopped, as cooked in recipe"
+    },
+    {
+      "position": 3,
+      "carbsG": 4,
+      "fiberG": 0.7,
+      "assumptions": "1 medium red chilli (20 g), chopped"
+    },
+    {
+      "position": 4,
+      "carbsG": 2,
+      "fiberG": 0.2,
+      "assumptions": "2 cm fresh ginger (10 g), grated or finely chopped"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.7,
+      "fiberG": 0.4,
+      "assumptions": "1/2 tsp ground cumin (1.5 g)"
+    },
+    {
+      "position": 6,
+      "carbsG": 41,
+      "fiberG": 12.5,
+      "assumptions": "400 g can chickpeas, drained weight ~240 g (standard drained yield), used as-is"
+    },
+    {
+      "position": 7,
+      "carbsG": 7.6,
+      "fiberG": 2.4,
+      "assumptions": "200 g fresh tomatoes, chopped or canned equivalent"
+    },
+    {
+      "position": 8,
+      "carbsG": 2.5,
+      "fiberG": 0.1,
+      "assumptions": "Juice of 1/2 lemon (~15 g juice)"
+    },
+    {
+      "position": 9,
+      "carbsG": 43,
+      "fiberG": 25,
+      "assumptions": "2 medium aubergines (~900 g total raw); grilled with modest oil absorption already counted in position 1; edible flesh only"
+    },
+    {
+      "position": 10,
+      "carbsG": 7,
+      "fiberG": 0,
+      "assumptions": "200 g full-fat Greek yogurt"
+    },
+    {
+      "position": 11,
+      "carbsG": 1,
+      "fiberG": 0.1,
+      "assumptions": "1 garlic clove (~3 g), crushed"
+    },
+    {
+      "position": 12,
+      "carbsG": 3.4,
+      "fiberG": 1.7,
+      "assumptions": "25 g walnuts, as used (most in sauce, remainder scattered)"
+    },
+    {
+      "position": 13,
+      "carbsG": 0.4,
+      "fiberG": 0.3,
+      "assumptions": "Handful fresh coriander (~10 g), chopped (most in sauce, remainder scattered)"
+    }
+  ]
+}

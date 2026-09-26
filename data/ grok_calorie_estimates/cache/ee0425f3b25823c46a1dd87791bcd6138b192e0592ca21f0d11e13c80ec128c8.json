@@ -1,0 +1,58 @@
+{
+  "inputHash": "ee0425f3b25823c46a1dd87791bcd6138b192e0592ca21f0d11e13c80ec128c8",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T19:18:35.012Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "caloriesKcal": 120,
+      "proteinG": 0,
+      "fatG": 14,
+      "assumptions": "1 tbs olive oil = 14 g; all oil is used in the dish"
+    },
+    {
+      "position": 2,
+      "caloriesKcal": 68,
+      "proteinG": 8,
+      "fatG": 1,
+      "assumptions": "300 g fresh mushrooms, raw weight"
+    },
+    {
+      "position": 3,
+      "caloriesKcal": 1080,
+      "proteinG": 96,
+      "fatG": 76,
+      "assumptions": "4 chicken legs ≈ 1.2 kg raw with skin and bone; edible meat+skin portion used, fat rendered into sauce"
+    },
+    {
+      "position": 4,
+      "caloriesKcal": 165,
+      "proteinG": 8,
+      "fatG": 1,
+      "assumptions": "500 g passata (tomato puree), drained solids only"
+    },
+    {
+      "position": 5,
+      "caloriesKcal": 10,
+      "proteinG": 1,
+      "fatG": 0,
+      "assumptions": "1 stock cube dissolved; negligible macros beyond trace protein"
+    },
+    {
+      "position": 6,
+      "caloriesKcal": 115,
+      "proteinG": 1,
+      "fatG": 12,
+      "assumptions": "100 g drained black olives, pitted edible portion"
+    },
+    {
+      "position": 7,
+      "caloriesKcal": 5,
+      "proteinG": 0,
+      "fatG": 0,
+      "assumptions": "small handful chopped parsley (≈ 10 g); modest quantity to taste"
+    }
+  ]
+}

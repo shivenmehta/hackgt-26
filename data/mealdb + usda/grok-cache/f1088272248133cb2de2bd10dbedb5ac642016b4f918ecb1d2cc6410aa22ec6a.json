@@ -1,0 +1,57 @@
+{
+  "inputHash": "f1088272248133cb2de2bd10dbedb5ac642016b4f918ecb1d2cc6410aa22ec6a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T18:34:33.900Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 6,
+      "grams": 1.4,
+      "caloriesPer100g": 272,
+      "assumptions": "1 tsp dried summer savory ≈ 1.4g (standard density for dried leafy herbs); calories from typical savory spice values."
+    },
+    {
+      "position": 7,
+      "grams": 6,
+      "caloriesPer100g": 0,
+      "assumptions": "'To taste' salt for entire recipe (makes 2 pies); modest estimate of 1 tsp total added salt ≈ 6g; known cal=0 copied exactly."
+    },
+    {
+      "position": 8,
+      "grams": 2,
+      "caloriesPer100g": 251,
+      "assumptions": "'To taste' pepper for entire recipe (makes 2 pies); modest estimate of ≈1/2 tsp total ground pepper ≈ 2g; known cal copied exactly."
+    },
+    {
+      "position": 9,
+      "grams": 1.1,
+      "caloriesPer100g": 274,
+      "assumptions": "1/2 tsp ground cloves ≈ 1.1g (standard density for ground spices); known cal copied exactly."
+    },
+    {
+      "position": 10,
+      "grams": 1.1,
+      "caloriesPer100g": 525,
+      "assumptions": "1/2 tsp ground nutmeg ≈ 1.1g (standard density for ground spices); known cal copied exactly."
+    },
+    {
+      "position": 11,
+      "grams": 0.5,
+      "caloriesPer100g": 313,
+      "assumptions": "1 whole bay leaf ≈ 0.5g (typical dried leaf weight); known cal copied exactly. Note: recipe says remove before filling, but included per target."
+    },
+    {
+      "position": 13,
+      "grams": 150,
+      "caloriesPer100g": 83.4,
+      "assumptions": "1 small russet potato (grated) ≈ 150g edible portion; known cal copied exactly. Full recipe context used to confirm it's one potato across both pies."
+    },
+    {
+      "position": 14,
+      "grams": 800,
+      "caloriesPer100g": 430,
+      "assumptions": "'4' shortcrust pastry interpreted as 4 standard 9-inch pie crust discs/sheets (2 pies need 4 total: 2 bottoms + 2 tops); each ≈200g raw pastry (realistic for rolled <1/4-inch thick 9-inch crust); total 800g. Cal density is typical value for butter shortcrust pastry dough."
+    }
+  ]
+}

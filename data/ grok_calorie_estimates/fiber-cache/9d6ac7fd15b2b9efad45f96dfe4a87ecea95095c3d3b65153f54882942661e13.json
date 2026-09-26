@@ -1,0 +1,57 @@
+{
+  "inputHash": "9d6ac7fd15b2b9efad45f96dfe4a87ecea95095c3d3b65153f54882942661e13",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:04.065Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 41.8,
+      "fiberG": 12.2,
+      "assumptions": "6 medium carrots ≈ 360 g chopped, raw weights"
+    },
+    {
+      "position": 2,
+      "carbsG": 10.5,
+      "fiberG": 1.9,
+      "assumptions": "1 medium onion ≈ 110 g, raw"
+    },
+    {
+      "position": 3,
+      "carbsG": 4,
+      "fiberG": 0.3,
+      "assumptions": "4 cloves garlic ≈ 12 g, raw"
+    },
+    {
+      "position": 4,
+      "carbsG": 1.2,
+      "fiberG": 0.7,
+      "assumptions": "1 tsp cumin seeds ≈ 2 g"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.6,
+      "fiberG": 0.5,
+      "assumptions": "1/2 tsp coriander seeds ≈ 1 g"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbs olive oil = 14 g (all used in roasting)"
+    },
+    {
+      "position": 7,
+      "carbsG": 0.4,
+      "fiberG": 0.2,
+      "assumptions": "1/4 tsp garam masala ≈ 0.5 g"
+    },
+    {
+      "position": 8,
+      "carbsG": 0.4,
+      "fiberG": 0,
+      "assumptions": "1 tsp lemon juice ≈ 5 g"
+    }
+  ]
+}

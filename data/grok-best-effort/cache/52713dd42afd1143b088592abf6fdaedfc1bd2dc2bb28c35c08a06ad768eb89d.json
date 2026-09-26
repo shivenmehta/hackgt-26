@@ -1,0 +1,199 @@
+{
+  "inputHash": "52713dd42afd1143b088592abf6fdaedfc1bd2dc2bb28c35c08a06ad768eb89d",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:15.132Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 400,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.6,
+        "fatG": 0.4,
+        "carbsG": 5.6,
+        "fiberG": 1.2
+      },
+      "caloriesKcal": 128,
+      "proteinG": 6.4,
+      "fatG": 1.6,
+      "carbsG": 22.4,
+      "fiberG": 4.8,
+      "assumptions": "Canned tomatoes in tomato juice, drained weight approximated to full 400g can contents as per recipe usage",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 110,
+      "per100g": {
+        "caloriesKcal": 455,
+        "proteinG": 24,
+        "fatG": 38,
+        "carbsG": 1.5,
+        "fiberG": 0
+      },
+      "caloriesKcal": 500.5,
+      "proteinG": 26.4,
+      "fatG": 41.8,
+      "carbsG": 1.65,
+      "fiberG": 0,
+      "assumptions": "Typical cured Spanish chorizo sausage, edible portion after removing skin",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 140,
+      "per100g": {
+        "caloriesKcal": 27,
+        "proteinG": 2.1,
+        "fatG": 0.3,
+        "carbsG": 3.8,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 37.8,
+      "proteinG": 2.94,
+      "fatG": 0.42,
+      "carbsG": 5.32,
+      "fiberG": 3.5,
+      "assumptions": "Raw savoy cabbage, fully edible trimmed weight",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 1,
+      "per100g": {
+        "caloriesKcal": 282,
+        "proteinG": 10,
+        "fatG": 13,
+        "carbsG": 48,
+        "fiberG": 35
+      },
+      "caloriesKcal": 2.82,
+      "proteinG": 0.1,
+      "fatG": 0.13,
+      "carbsG": 0.48,
+      "fiberG": 0.35,
+      "assumptions": "Dry red chilli flakes; 'sprinkling' estimated at 1g total for the whole recipe based on typical usage in a one-pan soup",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 240,
+      "per100g": {
+        "caloriesKcal": 138,
+        "proteinG": 9,
+        "fatG": 2.5,
+        "carbsG": 19,
+        "fiberG": 6
+      },
+      "caloriesKcal": 331.2,
+      "proteinG": 21.6,
+      "fatG": 6,
+      "carbsG": 45.6,
+      "fiberG": 14.4,
+      "assumptions": "Drained weight from a standard 400g can of chickpeas in water (approx 60% of can weight is drained solids)",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 15,
+        "fatG": 2,
+        "carbsG": 25,
+        "fiberG": 0
+      },
+      "caloriesKcal": 10,
+      "proteinG": 0.6,
+      "fatG": 0.08,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "One standard chicken stock cube (approx 4-5g each); nutrients based on typical dehydrated bouillon cube",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 265,
+        "proteinG": 9,
+        "fatG": 1.5,
+        "carbsG": 52,
+        "fiberG": 2.5
+      },
+      "caloriesKcal": 132.5,
+      "proteinG": 4.5,
+      "fatG": 0.75,
+      "carbsG": 26,
+      "fiberG": 1.25,
+      "assumptions": "Crusty bread to serve; estimated at 50g per serving (one medium slice or small roll equivalent) as the recipe implies serving accompaniment, not a fixed ingredient quantity",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53168",
+    "name": "Chorizo & chickpea soup",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nPut a medium pan on the heat and tip in the tomatoes, followed by a can of water. While the tomatoes are heating, quickly chop the chorizo into chunky pieces (removing any skin) and shred the cabbage.\r\n\r\nstep 2\r\nPile the chorizo and cabbage into the pan with the chilli flakes and chickpeas, then crumble in the stock cube. Stir well, cover and leave to bubble over a high heat for 6 mins or until the cabbage is just tender. Ladle into bowls and eat with crusty or garlic bread.",
+    "ingredients": [
+      { "position": 1, "name": "Tinned Tomatos", "measurement": "400g" },
+      { "position": 2, "name": "Chorizo", "measurement": "110g" },
+      { "position": 3, "name": "Savoy Cabbage", "measurement": "140g" },
+      { "position": 4, "name": "Chilli Flakes", "measurement": "Sprinkling" },
+      { "position": 5, "name": "Chickpeas", "measurement": "400g can" },
+      { "position": 6, "name": "Chicken Stock", "measurement": "1" },
+      { "position": 7, "name": "Crusty Bread", "measurement": "To serve" }
+    ]
+  }
+}

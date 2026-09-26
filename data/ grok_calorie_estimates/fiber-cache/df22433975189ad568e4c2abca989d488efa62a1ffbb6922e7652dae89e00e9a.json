@@ -1,0 +1,51 @@
+{
+  "inputHash": "df22433975189ad568e4c2abca989d488efa62a1ffbb6922e7652dae89e00e9a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:20.926Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 4,
+      "fiberG": 0.3,
+      "assumptions": "4 cloves garlic crushed ≈ 12 g total; standard raw garlic nutrition (carbs and fiber scaled from ~33 g carbs and ~2.1 g fiber per 100 g)"
+    },
+    {
+      "position": 2,
+      "carbsG": 1.4,
+      "fiberG": 0.2,
+      "assumptions": "1 tbsp grated fresh ginger ≈ 6 g; standard raw ginger nutrition (carbs and fiber scaled from ~18 g carbs and ~2 g fiber per 100 g)"
+    },
+    {
+      "position": 3,
+      "carbsG": 1.5,
+      "fiberG": 0.1,
+      "assumptions": "1 tbsp lemon juice ≈ 15 g; standard lemon juice nutrition (carbs and fiber scaled from ~10 g carbs and ~0.4 g fiber per 100 g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 tbsp olive oil = 14 g; pure fat with no carbohydrates or fiber"
+    },
+    {
+      "position": 5,
+      "carbsG": 0.9,
+      "fiberG": 0.6,
+      "assumptions": "1/2 tsp chili powder ≈ 1.5 g; standard chili powder nutrition (carbs and fiber scaled from ~60 g carbs and ~37 g fiber per 100 g)"
+    },
+    {
+      "position": 6,
+      "carbsG": 1.2,
+      "fiberG": 0.3,
+      "assumptions": "1 tsp ground cumin ≈ 2 g; standard cumin nutrition (carbs and fiber scaled from ~60 g carbs and ~15 g fiber per 100 g)"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 lamb loin chops, raw, edible portion only ≈ 800 g total; pure meat with no carbohydrates or fiber"
+    }
+  ]
+}

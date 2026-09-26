@@ -1,0 +1,57 @@
+{
+  "inputHash": "744e0c600d19a0e2c72080ac633c4a67c8b3c2e27412b20bde30c5da4624cf0a",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:09:58.924Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "8 slices roast beef, ~200g total (25g/slice, cooked, lean+fat cuts); plain meat has no carbs"
+    },
+    {
+      "position": 2,
+      "carbsG": 14.4,
+      "fiberG": 7.2,
+      "assumptions": "12 broccoli florets, ~360g total (30g/floret, raw weight, edible portion); standard broccoli values"
+    },
+    {
+      "position": 3,
+      "carbsG": 110,
+      "fiberG": 12,
+      "assumptions": "1 packet roast potatoes, ~500g total (standard pre-prepared packet size, raw weight before roasting); standard potato values"
+    },
+    {
+      "position": 4,
+      "carbsG": 32,
+      "fiberG": 12,
+      "assumptions": "1 packet carrots, ~400g total (standard pre-prepared packet size, raw weight, peeled/edible portion); standard carrot values"
+    },
+    {
+      "position": 5,
+      "carbsG": 104,
+      "fiberG": 4,
+      "assumptions": "140g plain flour as stated; standard white wheat flour values"
+    },
+    {
+      "position": 6,
+      "carbsG": 2.4,
+      "fiberG": 0,
+      "assumptions": "4 large eggs (~50g each without shell); negligible carbs"
+    },
+    {
+      "position": 7,
+      "carbsG": 10,
+      "fiberG": 0,
+      "assumptions": "200ml semi-skimmed milk; standard milk values"
+    },
+    {
+      "position": 8,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "~7g sunflower oil actually absorbed/used in Yorkshire pudding tins (modest drizzle for 12 holes); pure oil has no carbs"
+    }
+  ]
+}

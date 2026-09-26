@@ -1,0 +1,151 @@
+{
+  "inputHash": "6166fbac32776da1fe0d3cc76d4e3ed476ac4923acf13ddaea0e812cde71b25c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:25:08.260Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 454,
+      "per100g": {
+        "caloriesKcal": 55,
+        "proteinG": 5.5,
+        "fatG": 3,
+        "carbsG": 2,
+        "fiberG": 0.2
+      },
+      "caloriesKcal": 249.7,
+      "proteinG": 24.97,
+      "fatG": 13.62,
+      "carbsG": 9.08,
+      "fiberG": 0.9080000000000001,
+      "assumptions": "Standard 16 oz (454 g) package of silken tofu; typical values for soft/silken tofu, drained and fully edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 45,
+      "per100g": {
+        "caloriesKcal": 60,
+        "proteinG": 6,
+        "fatG": 0.5,
+        "carbsG": 6,
+        "fiberG": 0.8
+      },
+      "caloriesKcal": 27,
+      "proteinG": 2.7,
+      "fatG": 0.225,
+      "carbsG": 2.7,
+      "fiberG": 0.36,
+      "assumptions": "3 tbsp regular soy sauce; density ~1 g/ml, typical sodium-reduced not assumed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 530,
+        "proteinG": 9,
+        "fatG": 50,
+        "carbsG": 15,
+        "fiberG": 2
+      },
+      "caloriesKcal": 159,
+      "proteinG": 2.7,
+      "fatG": 15,
+      "carbsG": 4.5,
+      "fiberG": 0.6,
+      "assumptions": "2 tbsp Chinese sesame paste/sauce (tahini-like sesame condiment); typical values for pure sesame sauce used in Chinese recipes, not sweetened.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 15,
+      "per100g": {
+        "caloriesKcal": 32,
+        "proteinG": 1.9,
+        "fatG": 0.2,
+        "carbsG": 7.3,
+        "fiberG": 4.2
+      },
+      "caloriesKcal": 4.8,
+      "proteinG": 0.285,
+      "fatG": 0.03,
+      "carbsG": 1.095,
+      "fiberG": 0.63,
+      "assumptions": "1 sliced scallion (green onion); typical weight for one medium scallion including green and white parts, fully edible.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 7,
+      "per100g": {
+        "caloriesKcal": 573,
+        "proteinG": 18,
+        "fatG": 50,
+        "carbsG": 23,
+        "fiberG": 12
+      },
+      "caloriesKcal": 40.11,
+      "proteinG": 1.26,
+      "fatG": 3.5,
+      "carbsG": 1.61,
+      "fiberG": 0.84,
+      "assumptions": "2 tsp sesame seeds; typical weight ~3.5 g per tsp, toasted or raw not specified but values similar.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53369",
+    "name": "Silken Tofu with Sesame Soy Sauce",
+    "cuisine": "Chinese",
+    "instructions": "Prepare the tofu: \r\nDrain the tofu and gently remove it from its packaging onto a large plate. Carefully slice the tofu into 1/2-inch slabs widthwise. With the palm of your hands, gently push the sliced tofu sidewise so that they fan out over the plate.\r\n\r\nGarnish with toppings and serve:\r\nDrizzle the soy sauce and sesame sauce on top. Then garnish it with scallions and sesame seeds, and serve.\r\n\r\nTightly cover leftovers and refrigerate for up to 2 days. You can enjoy it cold straight out of the fridge or you can reheat it by microwaving in 30-second increments until warmed through",
+    "ingredients": [
+      { "position": 1, "name": "Silken Tofu", "measurement": "16 ounces" },
+      { "position": 2, "name": "Soy Sauce", "measurement": "3  tablespoons" },
+      {
+        "position": 3,
+        "name": "Chinese Sesame Sauce",
+        "measurement": "2 tablespoons"
+      },
+      { "position": 4, "name": "Scallions", "measurement": "1 sliced" },
+      { "position": 5, "name": "Sesame Seed", "measurement": "2 tsp" }
+    ]
+  }
+}

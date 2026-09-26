@@ -1,0 +1,359 @@
+{
+  "inputHash": "eee9c8eef6f5317f1266fdbabc84dc9d9954e491cf2564a99c14c5a9d68487b2",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:36:45.252Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 884,
+        "proteinG": 0,
+        "fatG": 100,
+        "carbsG": 0,
+        "fiberG": 0
+      },
+      "caloriesKcal": 442,
+      "proteinG": 0,
+      "fatG": 50,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "Typical amount of sunflower oil absorbed by deep-fried churros; recipe uses oil for frying with no specific quantity given, so a conservative recipe-specific estimate for the entire batch based on similar churro recipes.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 200,
+        "proteinG": 3.5,
+        "fatG": 11,
+        "carbsG": 23,
+        "fiberG": 0
+      },
+      "caloriesKcal": 400,
+      "proteinG": 7,
+      "fatG": 22,
+      "carbsG": 46,
+      "fiberG": 0,
+      "assumptions": "Standard vanilla ice cream scoop (about 2 medium scoops to serve the batch of churros); quantity not specified so a plausible serving amount for the recipe.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 120,
+      "per100g": {
+        "caloriesKcal": 380,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 98,
+        "fiberG": 0
+      },
+      "caloriesKcal": 456,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 117.6,
+      "fiberG": 0,
+      "assumptions": "Muscovado sugar used in the salted caramel chocolate sauce; full listed quantity.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 60,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 430.2,
+      "proteinG": 0.36,
+      "fatG": 48.6,
+      "carbsG": 0.06,
+      "fiberG": 0,
+      "assumptions": "Butter used in the salted caramel chocolate sauce; full listed quantity.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 250,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 2,
+        "fatG": 35,
+        "carbsG": 3,
+        "fiberG": 0
+      },
+      "caloriesKcal": 850,
+      "proteinG": 5,
+      "fatG": 87.5,
+      "carbsG": 7.5,
+      "fiberG": 0,
+      "assumptions": "Double (heavy) cream used in the salted caramel chocolate sauce; full listed quantity of 250ml converted using density ~1g/ml.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 550,
+        "proteinG": 5,
+        "fatG": 35,
+        "carbsG": 45,
+        "fiberG": 8
+      },
+      "caloriesKcal": 550,
+      "proteinG": 5,
+      "fatG": 35,
+      "carbsG": 45,
+      "fiberG": 8,
+      "assumptions": "Dark chocolate (70% cocoa) used in the sauce; full listed quantity.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 387,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 100,
+      "fiberG": 0,
+      "assumptions": "Golden caster sugar used for the cinnamon-sugar coating; full listed quantity.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 250,
+        "proteinG": 4,
+        "fatG": 2,
+        "carbsG": 80,
+        "fiberG": 53
+      },
+      "caloriesKcal": 12.5,
+      "proteinG": 0.2,
+      "fatG": 0.1,
+      "carbsG": 4,
+      "fiberG": 2.65,
+      "assumptions": "Ground cinnamon for the coating; 2 tsp converted to ~5g as a typical household measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 364,
+        "proteinG": 10,
+        "fatG": 1,
+        "carbsG": 76,
+        "fiberG": 3
+      },
+      "caloriesKcal": 728,
+      "proteinG": 20,
+      "fatG": 2,
+      "carbsG": 152,
+      "fiberG": 6,
+      "assumptions": "Plain white flour for the churro dough; full listed quantity.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 228,
+        "proteinG": 19.6,
+        "fatG": 13.7,
+        "carbsG": 57.9,
+        "fiberG": 37
+      },
+      "caloriesKcal": 114,
+      "proteinG": 9.8,
+      "fatG": 6.85,
+      "carbsG": 28.95,
+      "fiberG": 18.5,
+      "assumptions": "Unsweetened cocoa powder for the churro dough; full listed quantity.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 4,
+      "per100g": {
+        "caloriesKcal": 53,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 28,
+        "fiberG": 0
+      },
+      "caloriesKcal": 2.12,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 1.12,
+      "fiberG": 0,
+      "assumptions": "Baking powder for the churro dough; 1 tsp converted to ~4g as a typical household measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 5,
+      "per100g": {
+        "caloriesKcal": 288,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 12.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 14.4,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 0.635,
+      "fiberG": 0,
+      "assumptions": "Vanilla extract for the churro dough; 1 tsp converted to ~5g as a typical household measure.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 13,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 358.5,
+      "proteinG": 0.3,
+      "fatG": 40.5,
+      "carbsG": 0.05,
+      "fiberG": 0,
+      "assumptions": "Melted butter stirred into the churro dough; full listed quantity.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "53170",
+    "name": "Chocolate churros with chocolate & salted caramel sauce",
+    "cuisine": "Spanish",
+    "instructions": "step 1\r\nTo make the sauce, tip the sugar and butter into a saucepan and bring to a simmer until the sugar has melted, then stir in the cream and simmer until you have a smooth sauce, about 2-3 mins. Remove from the heat, stir through a pinch of sea salt and the chocolate, and continue to stir for 2-3 mins, or until it has completely melted. Keep warm or leave to cool for reheating later. For the coating, mix the sugar with the cinnamon and a small pinch of fine sea salt and set aside.\r\n\r\nstep 2\r\nFor the churros, tip the flour, cocoa, baking powder and a large pinch of salt into a bowl. Add the vanilla extract and melted butter, then carefully pour in 250-300ml boiling water and whisk to make a smooth, very thick batter. Leave to cool for a few minutes, then scrape the mixture into a piping bag fitted with a medium star nozzle.\r\n\r\nstep 3\r\nTip sunflower oil into a deep-fat fryer following the manufacturer’s instructions, or a heavy-based pan, ensuring it is no more than a third full. Heat to 170C, or until a cube of bread dropped in browns in 30 seconds. Pipe 12-15cm lengths of dough into the oil, snipping off the end of each one with a pair of scissors as you go. Pipe four or five at a time and cook for around 4 mins, or until golden and crisp, turning them with tongs or a slotted spoon as they cook. Remove from the oil and place on a wire rack. Repeat with the rest of the dough. Leave to cool if reheating later, otherwise roll the churros in the cinnamon sugar and serve immediately with the warm chocolate sauce and ice cream. To reheat the churros, put on a tray and bake for 5-8 mins, then roll in the sugar coating. Meanwhile, warm the sauce in a pan and serve alongside for dipping.",
+    "ingredients": [
+      { "position": 1, "name": "Sunflower Oil", "measurement": "For frying" },
+      { "position": 2, "name": "Ice Cream", "measurement": "To serve" },
+      { "position": 3, "name": "Muscovado Sugar", "measurement": "120g" },
+      { "position": 4, "name": "Butter", "measurement": "60g" },
+      { "position": 5, "name": "Double Cream", "measurement": "250ml" },
+      { "position": 6, "name": "Dark Chocolate", "measurement": "100g" },
+      { "position": 7, "name": "Golden Caster Sugar", "measurement": "100g" },
+      { "position": 8, "name": "Cinnamon", "measurement": "2 teaspoon" },
+      { "position": 9, "name": "Plain Flour", "measurement": "200g" },
+      { "position": 10, "name": "Cocoa Powder", "measurement": "50g" },
+      { "position": 11, "name": "Baking Powder", "measurement": "1 teaspoon" },
+      {
+        "position": 12,
+        "name": "Vanilla Extract",
+        "measurement": "1 teaspoon"
+      },
+      { "position": 13, "name": "Melted Butter", "measurement": "50g" }
+    ]
+  }
+}

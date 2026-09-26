@@ -1,0 +1,63 @@
+{
+  "inputHash": "fda1731301f654d3f581dcee4f32854bbbaf643d3fe78feddbdb6086af88510e",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:10:01.289Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 240,
+      "fiberG": 60,
+      "assumptions": "2 cups (400 g) dry navy beans; standard dry white bean values"
+    },
+    {
+      "position": 2,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 lb (227 g) raw bacon; meat has negligible carbs"
+    },
+    {
+      "position": 3,
+      "carbsG": 11,
+      "fiberG": 2,
+      "assumptions": "1 medium onion (110 g) raw, chopped; standard onion values"
+    },
+    {
+      "position": 4,
+      "carbsG": 132,
+      "fiberG": 0,
+      "assumptions": "1/2 cup (160 g) molasses; standard dark molasses values"
+    },
+    {
+      "position": 5,
+      "carbsG": 52,
+      "fiberG": 0,
+      "assumptions": "1/4 cup (50 g) packed brown sugar; standard values"
+    },
+    {
+      "position": 6,
+      "carbsG": 0.6,
+      "fiberG": 0,
+      "assumptions": "2 tablespoons (30 g) cider vinegar; standard values"
+    },
+    {
+      "position": 7,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Ground mustard to taste; quantity too small/unspecified to estimate reliably"
+    },
+    {
+      "position": 8,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Salt to taste; no carbohydrates"
+    },
+    {
+      "position": 9,
+      "carbsG": null,
+      "fiberG": null,
+      "assumptions": "Pepper to taste; negligible carbs, quantity unspecified"
+    }
+  ]
+}

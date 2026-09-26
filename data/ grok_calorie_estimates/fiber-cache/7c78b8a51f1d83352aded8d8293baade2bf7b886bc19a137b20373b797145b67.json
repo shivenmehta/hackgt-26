@@ -1,0 +1,69 @@
+{
+  "inputHash": "7c78b8a51f1d83352aded8d8293baade2bf7b886bc19a137b20373b797145b67",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:08:36.794Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "2 tbs olive oil = 28 g; pure fat, no carbohydrates"
+    },
+    {
+      "position": 2,
+      "carbsG": 10.1,
+      "fiberG": 1.9,
+      "assumptions": "1 medium onion finely diced ≈ 110 g raw edible portion"
+    },
+    {
+      "position": 3,
+      "carbsG": 121.8,
+      "fiberG": 35.5,
+      "assumptions": "250 g dry chickpeas (soaked then cooked in soup; nutrition for dry weight as standard for this quantity)"
+    },
+    {
+      "position": 4,
+      "carbsG": 9,
+      "fiberG": 0,
+      "assumptions": "1.5 L vegetable stock ≈ 1500 g typical commercial low-calorie stock"
+    },
+    {
+      "position": 5,
+      "carbsG": 2.7,
+      "fiberG": 0.7,
+      "assumptions": "1 tsp cumin seeds, toasted and ground"
+    },
+    {
+      "position": 6,
+      "carbsG": 5,
+      "fiberG": 0.3,
+      "assumptions": "5 cloves garlic ≈ 15 g raw"
+    },
+    {
+      "position": 7,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1/2 tsp table salt contributes negligible macros"
+    },
+    {
+      "position": 8,
+      "carbsG": 1,
+      "fiberG": 0.4,
+      "assumptions": "1 tsp harissa spice blend"
+    },
+    {
+      "position": 9,
+      "carbsG": 0.3,
+      "fiberG": 0.1,
+      "assumptions": "Pinch of pepper ≈ 0.3 g; contributes negligible but non-zero carbs"
+    },
+    {
+      "position": 10,
+      "carbsG": 5.3,
+      "fiberG": 1.6,
+      "assumptions": "Juice only from 1/2 lime ≈ 30 g; no peel used"
+    }
+  ]
+}

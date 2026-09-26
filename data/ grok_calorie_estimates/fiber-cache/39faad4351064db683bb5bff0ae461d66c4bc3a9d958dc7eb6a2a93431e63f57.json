@@ -1,0 +1,87 @@
+{
+  "inputHash": "39faad4351064db683bb5bff0ae461d66c4bc3a9d958dc7eb6a2a93431e63f57",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:04:32.840Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "carbsG": 63,
+      "fiberG": 8,
+      "assumptions": "2 medium sweet potatoes (~300g total raw weight), flesh only"
+    },
+    {
+      "position": 2,
+      "carbsG": 11,
+      "fiberG": 2,
+      "assumptions": "1 medium red onion (~110g whole, all used across recipe)"
+    },
+    {
+      "position": 3,
+      "carbsG": 2,
+      "fiberG": 0.1,
+      "assumptions": "2 cloves garlic (~6g)"
+    },
+    {
+      "position": 4,
+      "carbsG": 5,
+      "fiberG": 0.3,
+      "assumptions": "juice of 1 lime (~30g juice only)"
+    },
+    {
+      "position": 5,
+      "carbsG": 52,
+      "fiberG": 4,
+      "assumptions": "2 standard hamburger buns (~100g total)"
+    },
+    {
+      "position": 6,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "1 lb (454g) raw ground pork, fully used"
+    },
+    {
+      "position": 7,
+      "carbsG": 24,
+      "fiberG": 1,
+      "assumptions": "~1/2 cup (120g) BBQ sauce, modest amount for recipe"
+    },
+    {
+      "position": 8,
+      "carbsG": 1,
+      "fiberG": 0,
+      "assumptions": "few dashes hot sauce (~5g total)"
+    },
+    {
+      "position": 9,
+      "carbsG": 15,
+      "fiberG": 0.2,
+      "assumptions": "3 Tbsp (45g) ketchup, per instruction quantity"
+    },
+    {
+      "position": 10,
+      "carbsG": 4,
+      "fiberG": 0,
+      "assumptions": "~1 tsp (4g) sugar total across uses"
+    },
+    {
+      "position": 11,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "~2 tsp (10g) vegetable oil actually used for cooking/pan and roasting drizzle"
+    },
+    {
+      "position": 12,
+      "carbsG": 0,
+      "fiberG": 0,
+      "assumptions": "modest salt to taste (~3g total)"
+    },
+    {
+      "position": 13,
+      "carbsG": 1,
+      "fiberG": 0.4,
+      "assumptions": "modest pepper to taste (~2g total)"
+    }
+  ]
+}

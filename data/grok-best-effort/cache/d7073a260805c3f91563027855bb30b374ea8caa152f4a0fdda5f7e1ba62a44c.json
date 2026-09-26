@@ -1,0 +1,329 @@
+{
+  "inputHash": "d7073a260805c3f91563027855bb30b374ea8caa152f4a0fdda5f7e1ba62a44c",
+  "requestedModel": "grok-4.20-0309-non-reasoning",
+  "model": "grok-4.20-0309-non-reasoning",
+  "createdAt": "2026-09-26T20:37:11.754Z",
+  "promptVersion": 1,
+  "estimates": [
+    {
+      "position": 1,
+      "grams": 142,
+      "per100g": {
+        "caloriesKcal": 193,
+        "proteinG": 1.4,
+        "fatG": 19.1,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 274.06,
+      "proteinG": 1.9879999999999998,
+      "fatG": 27.122000000000003,
+      "carbsG": 5.112,
+      "fiberG": 0,
+      "assumptions": "Standard single cream values; 142ml ≈ 142g assuming density near 1.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 2,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 96.75,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 25,
+      "fiberG": 0,
+      "assumptions": "Pure caster sugar is 100% sucrose.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 3,
+      "grams": 100,
+      "per100g": {
+        "caloriesKcal": 546,
+        "proteinG": 5,
+        "fatG": 35,
+        "carbsG": 51,
+        "fiberG": 7
+      },
+      "caloriesKcal": 546,
+      "proteinG": 5,
+      "fatG": 35,
+      "carbsG": 51,
+      "fiberG": 7,
+      "assumptions": "Typical dark chocolate (70% cocoa) values; 100g as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 4,
+      "grams": 25,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 179.25,
+      "proteinG": 0.15,
+      "fatG": 20.25,
+      "carbsG": 0.025,
+      "fiberG": 0,
+      "assumptions": "Standard butter values; 25g as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 5,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 717,
+        "proteinG": 0.6,
+        "fatG": 81,
+        "carbsG": 0.1,
+        "fiberG": 0
+      },
+      "caloriesKcal": 71.7,
+      "proteinG": 0.06,
+      "fatG": 8.1,
+      "carbsG": 0.01,
+      "fiberG": 0,
+      "assumptions": "'Drizzle' for brushing 6 ramekins plausibly ≈10g total butter used.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 6,
+      "grams": 50,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 100,
+        "fiberG": 0
+      },
+      "caloriesKcal": 193.5,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 50,
+      "fiberG": 0,
+      "assumptions": "Pure caster sugar values; 50g as listed for coating.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 7,
+      "grams": 175,
+      "per100g": {
+        "caloriesKcal": 546,
+        "proteinG": 5,
+        "fatG": 35,
+        "carbsG": 51,
+        "fiberG": 7
+      },
+      "caloriesKcal": 955.5,
+      "proteinG": 8.75,
+      "fatG": 61.25,
+      "carbsG": 89.25,
+      "fiberG": 12.25,
+      "assumptions": "Typical dark chocolate (70% cocoa) values; 175g as listed.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 8,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 1.7,
+        "fatG": 37,
+        "carbsG": 2.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 102,
+      "proteinG": 0.51,
+      "fatG": 11.1,
+      "carbsG": 0.84,
+      "fiberG": 0,
+      "assumptions": "Double cream values; 2 tbsp ≈30ml/g assuming density near 1.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 9,
+      "grams": 68,
+      "per100g": {
+        "caloriesKcal": 322,
+        "proteinG": 16,
+        "fatG": 27,
+        "carbsG": 3.6,
+        "fiberG": 0
+      },
+      "caloriesKcal": 218.96,
+      "proteinG": 10.88,
+      "fatG": 18.36,
+      "carbsG": 2.448,
+      "fiberG": 0,
+      "assumptions": "4 large egg yolks ≈68g total; standard large yolk is ~17g each.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 10,
+      "grams": 200,
+      "per100g": {
+        "caloriesKcal": 52,
+        "proteinG": 11,
+        "fatG": 0.2,
+        "carbsG": 0.7,
+        "fiberG": 0
+      },
+      "caloriesKcal": 104,
+      "proteinG": 22,
+      "fatG": 0.4,
+      "carbsG": 1.4,
+      "fiberG": 0,
+      "assumptions": "5 large egg whites ≈200g total; standard large white is ~40g each.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 11,
+      "grams": 30,
+      "per100g": {
+        "caloriesKcal": 340,
+        "proteinG": 1.7,
+        "fatG": 37,
+        "carbsG": 2.8,
+        "fiberG": 0
+      },
+      "caloriesKcal": 102,
+      "proteinG": 0.51,
+      "fatG": 11.1,
+      "carbsG": 0.84,
+      "fiberG": 0,
+      "assumptions": "Double cream values; second 2 tbsp ≈30ml/g assuming density near 1, for sauce.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    },
+    {
+      "position": 12,
+      "grams": 10,
+      "per100g": {
+        "caloriesKcal": 387,
+        "proteinG": 0,
+        "fatG": 0,
+        "carbsG": 99,
+        "fiberG": 0
+      },
+      "caloriesKcal": 38.7,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbsG": 9.9,
+      "fiberG": 0,
+      "assumptions": "'To serve' dusting plausibly ≈10g total icing sugar across 6 soufflés.",
+      "gramSource": "grok-estimate",
+      "nutrientSources": {
+        "caloriesKcal": "grok-estimate",
+        "proteinG": "grok-estimate",
+        "fatG": "grok-estimate",
+        "carbsG": "grok-estimate",
+        "fiberG": "grok-estimate"
+      }
+    }
+  ],
+  "input": {
+    "id": "52905",
+    "name": "Chocolate Souffle",
+    "cuisine": "French",
+    "instructions": "Heat oven to 220C/fan 200C/gas 7 and place a baking tray on the top shelf. For the sauce, heat the cream and sugar until boiling. Remove from the heat, stir in the chocolate and butter until melted, then keep warm.\r\nBrush 6 x 150ml ramekins with melted butter, sprinkle with the 2 tbsp caster sugar, then tip out any excess. Melt the chocolate and cream in a bowl over a pan of simmering water, cool, then mix in the egg yolks. Whisk the egg whites until they hold their shape, then add the sugar, 1 tbsp at a time, whisking back to the same consistency. Mix a spoonful into the chocolate, then gently fold in the rest.\r\nWorking quickly, fill the ramekins, wipe the rims clean and run your thumb around the edges. Turn oven down to 200C/fan 180C/gas 6, place the ramekins onto the baking tray, then bake for 8-10 mins until risen with a slight wobble. Don’t open the oven door too early as this may make them collapse.\r\nOnce the soufflés are ready, dust with icing sugar, scoop a small hole from their tops, then pour in some of the hot chocolate sauce. Replace the lids and serve straight away.",
+    "ingredients": [
+      { "position": 1, "name": "Single Cream", "measurement": "142ml" },
+      { "position": 2, "name": "Caster Sugar", "measurement": "25g" },
+      { "position": 3, "name": "Dark Chocolate", "measurement": "100g" },
+      { "position": 4, "name": "Butter", "measurement": "25g" },
+      { "position": 5, "name": "Butter", "measurement": "drizzle" },
+      { "position": 6, "name": "Caster Sugar", "measurement": "50g" },
+      { "position": 7, "name": "Dark Chocolate", "measurement": "175g" },
+      { "position": 8, "name": "Double Cream", "measurement": "2 tbs" },
+      { "position": 9, "name": "Egg Yolks", "measurement": "4" },
+      { "position": 10, "name": "Egg White", "measurement": "5" },
+      { "position": 11, "name": "Double Cream", "measurement": "2 tbs" },
+      { "position": 12, "name": "Icing Sugar", "measurement": "to serve" }
+    ]
+  }
+}
