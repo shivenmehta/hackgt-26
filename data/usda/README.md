@@ -431,3 +431,9 @@ and consumes one request. Reapply reviewed fallbacks after refreshing. No keys o
 Source: U.S. Department of Agriculture, Agricultural Research Service,
 [FoodData Central](https://fdc.nal.usda.gov/), with
 [Foundation documentation](https://fdc.nal.usda.gov/Foundation_Foods_Documentation/).
+
+## Supabase import
+
+See [Supabase setup](../../supabase/README.md) for the table schema, SQL seed,
+and validation queries. Run `npm run export:foods` to regenerate the import
+from this manifest without changing the source JSON.
