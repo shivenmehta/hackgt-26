@@ -1,11 +1,12 @@
 import { defineConfig } from "@playwright/test";
 export default defineConfig({
   testDir: "./tests",
+  outputDir: "test-results/playwright-bridge",
   testMatch: "bridge.spec.ts",
   fullyParallel: false,
   use: {
     baseURL: "http://localhost:3100",
-    channel: "chrome",
+    channel: process.env.PLAYWRIGHT_CHANNEL || "chrome",
     trace: "retain-on-failure",
   },
   webServer: {

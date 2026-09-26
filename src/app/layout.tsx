@@ -3,6 +3,7 @@ import type { ReactNode } from "react";
 import localFont from "next/font/local";
 import { Provider } from "@/components/ui/provider";
 import "./bridge.css";
+import "./location.css";
 const bricolage = localFont({
   src: "./fonts/bricolage-grotesque.ttf",
   variable: "--font-bricolage",

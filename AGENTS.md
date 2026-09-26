@@ -36,7 +36,7 @@ Confirm event rules before reusing pre-event code in a submission.
 - Chakra UI 3 with Emotion; no Tailwind installation.
 - Next.js Route Handlers for backend endpoints.
 - Supabase JavaScript and SSR packages installed; Python reads the Supabase foods catalog; app auth is not connected.
-- Python 3.10+ for the standalone nutrient matcher; standard library only.
+- Python 3.10+ for the standalone nutrient matcher and OSM location lookup; standard library only.
 - Node.js 24 and npm 11; use `.nvmrc` and commit `package-lock.json`.
 - ESLint with Next.js rules, Prettier, and TypeScript checks.
 - Webpack dev/build scripts avoid the Emotion/Turbopack hydration issue documented
@@ -50,7 +50,7 @@ Open http://localhost:3000. The starter requires no credentials.
 Run `npm run lint`, `npm run typecheck`, `npm run format:check`, and
 `npm run build` for validation. After building, `npm start` serves production.
 Use `npm run format` to format files and `npm run lint:fix` for lint fixes.
-Run `python -m unittest discover -s tests -p "test_*.py" -v` for offline nutrient-matcher tests.
+Run `python -m unittest discover -s tests -p "test_*.py" -v` for offline nutrition, Supabase-loader, and location tests.
 For the standalone manual USDA experiment, set `USDA_API_KEY` in `.env.local`
 and run `npm run test:usda`. This calls the real API and prints food data;
 it is not an automated test or part of the application flow.
@@ -109,3 +109,95 @@ Run `python -m src.lib.nutrition.test_supabase` with the URL and publishable key
 in `.env.local` for live checks. Food snapshots and reports go in gitignored
 `test-results/`. It reads original `source_record` nutrients, not the SQL calorie
 column; the documented energy-method preferences differ. No database writes.
+
+## OSM food access
+
+`src/lib/location/overpass.py` queries nearby retail and food-assistance places
+through read-only Overpass requests. No API key is required. See the location
+README for the CLI and JSON contract. Example:
+`python -m src.lib.location.nearby --lat 33.7756 --lon -84.3963 --radius-m 5000`.
+The demo coordinates are near Georgia Tech. Cache data is stored in gitignored
+`test-results/osm-cache.sqlite3` with a 24-hour TTL. Distances are straight-line,
+not routes. Preserve OSM attribution and do not infer store inventory, pricing,
+SNAP participation or pantry eligibility. Nutrition KNN remains separate; no
+hosted location database is provisioned; the local Next.js Community UI is connected.
+
+OSM results also include `alternative_food_retail` (farm shops/marketplaces)
+and `potential_assistance` (community centres without explicit food tags). Do
+not treat potential contacts as confirmed food providers. Food-bank/soup-kitchen
+subtags match even without `amenity=social_facility`; tagging gaps are recorded.
+
+## SNAP retailer lookup
+
+`src/lib/location/snap.py` imports the current USDA retailer CSV into local SQLite
+with standard-library CSV parsing; no pandas/API key is required. Import with
+`python -m src.lib.location.snap --csv test-results/snap-retailers.csv`, then add
+`--sources osm snap` (or `--sources snap`) to the nearby CLI. CSV and SQLite files
+remain gitignored in `test-results/`. Refresh SNAP by downloading and reimporting
+the CURRENT export; historical authorization files are not supported. Preserve
+retrieval dates and source IDs. SNAP retailers are purchasable-food options, not
+free-food assistance. Raw OSM and SNAP lists are retained; canonical locations use conservative deduplication. SNAP acceptance is reported from the snapshot, not live-verified.
+
+## Feedam assistance and location reconciliation
+
+Add `feedam` to the nearby CLI `--sources` to query `/api/resources/nearby` and
+`/api/resources/urgent`. This is Feed America (feedam.org), not Feeding America.
+No API key; fresh read-only calls, no urgent cache. Retain attribution and original
+record data_source. Provider open/urgent claims are not independently verified.
+The canonical `locations` list feeds the two-category display contract. `deduplicate.py` merges
+source IDs and strict name/address/proximity matches, preserves every source
+record, and flags uncertain duplicates instead of hiding them. Raw lists remain
+for auditing. Endpoint failures and potentially capped results must stay visible.
+
+UI output: `ui_categories.general_food_resources` and
+`ui_categories.snap_and_assistance` contain disjoint distance-sorted canonical
+locations. Preserve `service_labels` so paid SNAP retail and unverified potential
+contacts are not presented as confirmed free food. `output.py` owns this grouping.
+
+## Local community giveaways and availability
+
+`src/lib/location/events.py` persists community food posts in gitignored
+`.local/community-events.sqlite3`; no dependencies beyond the standard library.
+Use `python -m src.lib.location.events create --input PATH` for validated event JSON,
+`geocode ADDRESS` for US Census candidate pins, and `cancel EVENT_ID` with the
+private creation token. Public location consent and explicit offset-bearing start
+and end times are required. Tokens never belong in search results or git.
+The Community frontend now connects through the Next.js location proxy and private Python service. Event management uses capability links without accounts.
+
+Nearby defaults to `osm events`; use `--sources osm snap feedam events` for all.
+Event searches default to active/upcoming within 24 hours; `--at` and
+`--event-window-hours` affect community events only. Canceled/ended events are
+excluded. Distinct events at the same venue must not merge with each other or stores.
+All canonical/UI records carry `availability`; preserve source schedules and unknown
+hours (particularly SNAP). External hours are not verified open-now predictions.
+See the location README for the schema and deployment limits. Run
+`python -m src.lib.location.event_examples --output test-results/community-event-examples.json`
+for 20 synthetic scenarios across five cities, isolated from the persistent store.
+
+## Community web development
+
+`npm run dev` starts Next.js plus the private Python location service through
+`scripts/dev-location.mjs`. Ctrl+C stops both. `npm run dev:web` runs only Next.js.
+Python 3.10+ is required; configure `PYTHON_COMMAND` if needed. The launcher reads
+`.env.local` and generates a private service token for local use. `npm run start:local`
+starts both services after a production build; `npm start` remains Next.js only.
+See `src/lib/location/README.md` for deployment/storage requirements.
+
+Frontend files are isolated under `src/components/location/` and
+`src/app/community/`; `src/app/location.css` supplies responsive styling.
+Leaflet renders the client-only map. Preserve OSM attribution and tile usage rules.
+The `/api/location/[...path]` server proxy restricts operations and same-origin writes.
+The Python HTTP adapter is loopback-only with a private server token; do not expose
+it directly to the internet. Account-free hosting deliberately uses separate public
+event links and private cancellation capabilities. Never log/store private tokens
+in public URLs, result records, or committed fixtures. The private fragment is
+removed from the address bar and kept only in per-tab session storage.
+
+Run `npm run test:location-ui` after building for isolated browser integration tests
+on ports 3101/8766; `npm run test:bridge` tests planner regressions on 3100.
+The browser tests use Chrome and their own event database under `test-results/`.
+
+Browser output directories must stay under `test-results/playwright-bridge` and
+`test-results/playwright-location`, never the whole `test-results` directory:
+Playwright clears its output directory, while sibling files include SNAP data and
+provider snapshots. Event test databases are isolated from `.local` host posts.

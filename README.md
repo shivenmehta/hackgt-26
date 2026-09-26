@@ -17,14 +17,16 @@ and authentication work. ESLint and Prettier provide shared code checks.
 ## Getting started
 
 Use Node.js 24 (`nvm use` if you use nvm) and npm 11. npm ships with Node;
-there is no need to install it as an application dependency.
+there is no need to install it as an application dependency. Install Python 3.10+
+for the location backend; set `PYTHON_COMMAND` to its executable path if needed.
 
 ```bash
 npm ci
 npm run dev
 ```
 
-Open http://localhost:3000. The starter works without external credentials.
+Open http://localhost:3000. `npm run dev` starts both Next.js and the private Python
+location service; Ctrl+C stops both. The Community page needs no account or API key.
 The health endpoint at `/api/health` returns `{ "status": "ok" }`.
 
 Before connecting services, copy `.env.example` to `.env.local` and fill in
@@ -46,8 +48,10 @@ session refresh still need to be implemented before user data is stored.
 | `npm run build`        | Build production app                      |
 | `npm start`            | Serve the production build                |
 
-No behavioral test suite is configured yet. Run the four checks (lint,
-typecheck, format:check, build) before opening a PR.
+Run the four checks (lint, typecheck, format:check, build) before opening a PR.
+After building, run `npm run test:bridge` and `npm run test:location-ui` for browser
+checks. They use Chrome by default; set `PLAYWRIGHT_CHANNEL=msedge` for installed Edge.
+Python checks: `python -m unittest discover -s tests -p "test_*.py" -q`.
 ESLint stays on major 9 because the React plugins bundled with the current
 Next.js lint config do not support ESLint 10 yet. npm flags ESLint 9 as deprecated;
 upgrade when those plugins support the newer API.
@@ -112,3 +116,22 @@ Confirm event rules on advance preparation before reusing code in a submission.
 
 The frontend now includes an interactive sample meal planner. See [BRIDGE.md](BRIDGE.md)
 for the demo flow, design, limitations, and validation commands.
+
+## Nearby food and community hosting
+
+Visit `/community` or the planner's Community tab to search OSM, USDA SNAP,
+Feed America, and local community giveaways. The embedded map and two-category
+list show source-reported schedules or explicitly unknown hours. Events respect
+their start/end times. Use `/community/host` to post a giveaway and receive a public
+share link plus a separate private cancellation link; no login is required.
+
+Events persist in gitignored `.local/community-events.sqlite3`. Keep private links
+safe: anyone with one can cancel its event, and there is no account recovery.
+The USDA snapshot must be imported separately on a new checkout. See
+[location setup and API documentation](src/lib/location/README.md) for the importer,
+configuration, time handling, test examples, and deployment requirements.
+
+`npm run dev:web` runs only Next.js. For a local production preview, run
+`npm run build` followed by `npm run start:local` to start both services.
+This implementation requires a persistent Python service and storage for public
+hosting; deploying the Next.js frontend alone is insufficient.

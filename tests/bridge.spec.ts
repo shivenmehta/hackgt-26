@@ -49,7 +49,9 @@ test("desktop form, sample plan, dialog focus, editing and Community", async ({
   await page.getByRole("button", { name: "Build my week" }).click();
   await expect(page.getByRole("status")).toContainText("exceeds your budget");
   await page.getByRole("button", { name: "Community" }).click();
-  await expect(page.getByText("Coming later", { exact: true })).toBeVisible();
+  await expect(
+    page.getByRole("heading", { name: "Good food, around you." }),
+  ).toBeVisible();
   await page.getByRole("button", { name: "Back to weekly planner" }).click();
   await expect(page.locator(".meal-card")).toHaveCount(21);
   await page.getByRole("button", { name: "Edit preferences" }).click();

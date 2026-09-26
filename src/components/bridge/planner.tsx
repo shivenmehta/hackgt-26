@@ -2,6 +2,7 @@
 import { useEffect, useRef, useState, type FormEvent } from "react";
 import { Button } from "@chakra-ui/react";
 import Link from "next/link";
+import Community from "@/components/location/community";
 import {
   ALLERGENS,
   CUISINES,
@@ -201,7 +202,7 @@ export default function Planner() {
                 focusHeading();
               }}
             >
-              Community<span className="soon-pill">Soon</span>
+              Community
             </button>
           </nav>
           <span className="header-note">
@@ -211,54 +212,18 @@ export default function Planner() {
       </header>
       <main id="main" className="page-shell">
         {tab === "community" ? (
-          <section className="community-page">
-            <div className="community-mark">
-              <BridgeMark />
-            </div>
-            <span className="status-pill">Coming later</span>
-            <h1 tabIndex={-1} ref={heading}>
-              Good food.
-              <br />
-              Closer community.
-            </h1>
-            <p className="intro-copy">
-              A place to share a table, find local food resources, and lend a
-              neighbor a hand.
-            </p>
-            <div className="community-topics">
-              <article>
-                <span aria-hidden="true">◎</span>
-                <h2>Meet around a meal</h2>
-                <p>Find neighborhood potlucks and community tables.</p>
-              </article>
-              <article>
-                <span aria-hidden="true">⌖</span>
-                <h2>Find local support</h2>
-                <p>
-                  Explore food assistance resources and participating retailers.
-                </p>
-              </article>
-              <article>
-                <span aria-hidden="true">♡</span>
-                <h2>Share with neighbors</h2>
-                <p>Offer extra ingredients or ask for something you need.</p>
-              </article>
-            </div>
-            <p className="muted">
-              These features are planned. No listings or requests are available
-              yet.
-            </p>
-            <Button
-              unstyled
-              className="primary-button"
+          <>
+            <Community />
+            <button
+              className="location-secondary"
               onClick={() => {
                 setTab("planner");
                 focusHeading();
               }}
             >
               Back to weekly planner
-            </Button>
-          </section>
+            </button>
+          </>
         ) : editing ? (
           <>
             <div className="page-intro">

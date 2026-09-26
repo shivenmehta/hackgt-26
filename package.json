@@ -8,7 +8,7 @@
     "npm": ">=11 <12"
   },
   "scripts": {
-    "dev": "next dev --webpack",
+    "dev": "node scripts/dev-location.mjs",
     "build": "next build --webpack",
     "start": "next start",
     "lint": "eslint . --max-warnings=0",
@@ -29,19 +29,24 @@
     "export:foods": "tsx scripts/export-foods.ts",
     "test:foods": "tsx --test scripts/food-import.test.ts",
     "test:planner": "node --import tsx --test tests/planner.test.ts",
-    "test:bridge": "playwright test"
+    "test:bridge": "playwright test",
+    "dev:web": "next dev --webpack",
+    "start:local": "node scripts/dev-location.mjs --production",
+    "test:location-ui": "playwright test --config playwright.location.config.ts"
   },
   "dependencies": {
     "@chakra-ui/react": "^3.37.0",
     "@emotion/react": "^11.14.0",
     "@supabase/ssr": "^0.12.7",
     "@supabase/supabase-js": "^2.117.1",
+    "leaflet": "^1.9.4",
     "next": "^16.3.6",
     "react": "^19.3.0",
     "react-dom": "^19.3.0"
   },
   "devDependencies": {
     "@playwright/test": "1.63.0",
+    "@types/leaflet": "^1.9.22",
     "@types/node": "^24.13.6",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
