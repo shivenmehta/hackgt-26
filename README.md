@@ -112,3 +112,13 @@ Confirm event rules on advance preparation before reusing code in a submission.
 
 The frontend now includes an interactive sample meal planner. See [BRIDGE.md](BRIDGE.md)
 for the demo flow, design, limitations, and validation commands.
+
+## Local meal catalog
+
+The 300-recipe MealDB catalog is in `data/mealdb/`. Read
+[data/mealdb/README.md](data/mealdb/README.md) before using dietary fields or
+enriching recipes. `npm run meals:query` searches locally; `npm run meals:build`
+rebuilds offline; `npm run test:meals` checks catalog integrity and filters.
+Use `src/lib/meals/catalog.ts` from Node/server code. Original MealDB categories
+are not reliable dietary guarantees; positive diet filters require explicit
+ingredient-screened flags. Nutrition, pricing, and servings remain unknown.

@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { readFile } from "node:fs/promises";
-import { toFoodRow, sqlJson, splitSqlBatches } from "./food-import";
+import { toFoodRow, sqlJson, splitSqlBatches } from "./usda/food-import";
 const base = new URL("../data/usda/", import.meta.url);
 const fixture = (foodNutrients: unknown[] = []) => ({
   name: "Example",

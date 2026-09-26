@@ -1,0 +1,2133 @@
+{
+  "schemaVersion": 1,
+  "total": 300,
+  "cuisines": {
+    "Mexican": 6,
+    "Indian": 15,
+    "Chinese": 27,
+    "American": 34,
+    "Italian": 21,
+    "Japanese": 9,
+    "Thai": 16,
+    "French": 16,
+    "Greek": 8,
+    "Turkish": 16,
+    "Moroccan": 6,
+    "Spanish": 16,
+    "British": 16,
+    "Vietnamese": 16,
+    "Jamaican": 16,
+    "Canadian": 15,
+    "Egyptian": 8,
+    "Tunisian": 8,
+    "Polish": 15,
+    "Portuguese": 8,
+    "Filipino": 8
+  },
+  "selectionMethod": "Editorial starter catalog, not a popularity ranking. Source cuisine labels preserved separately.",
+  "vegetarian": 28,
+  "vegan": 18,
+  "sourceDietConflicts": ["53372", "52955", "53374", "53073", "53336", "52906"],
+  "entries": [
+    {
+      "id": "52826",
+      "name": "Braised Beef Chilli",
+      "cuisine": "Mexican",
+      "rawFile": "raw/52826.json",
+      "fetchedAt": "2026-09-26T16:58:10.809175+00:00"
+    },
+    {
+      "id": "52819",
+      "name": "Cajun spiced fish tacos",
+      "cuisine": "Mexican",
+      "rawFile": "raw/52819.json",
+      "fetchedAt": "2026-09-26T16:58:11.235970+00:00"
+    },
+    {
+      "id": "52765",
+      "name": "Chicken Enchilada Casserole",
+      "cuisine": "Mexican",
+      "rawFile": "raw/52765.json",
+      "fetchedAt": "2026-09-26T16:58:11.662382+00:00"
+    },
+    {
+      "id": "52870",
+      "name": "Chickpea Fajitas",
+      "cuisine": "Mexican",
+      "rawFile": "raw/52870.json",
+      "fetchedAt": "2026-09-26T16:58:12.083953+00:00"
+    },
+    {
+      "id": "52830",
+      "name": "Crock Pot Chicken Baked Tacos",
+      "cuisine": "Mexican",
+      "rawFile": "raw/52830.json",
+      "fetchedAt": "2026-09-26T16:58:12.508194+00:00"
+    },
+    {
+      "id": "53067",
+      "name": "Stuffed Bell Peppers with Quinoa and Black Beans",
+      "cuisine": "Mexican",
+      "rawFile": "raw/53067.json",
+      "fetchedAt": "2026-09-26T16:58:12.945509+00:00"
+    },
+    {
+      "id": "52807",
+      "name": "Baingan Bharta",
+      "cuisine": "Indian",
+      "rawFile": "raw/52807.json",
+      "fetchedAt": "2026-09-26T16:58:13.363279+00:00"
+    },
+    {
+      "id": "53359",
+      "name": "Beef Mandi",
+      "cuisine": "Indian",
+      "rawFile": "raw/53359.json",
+      "fetchedAt": "2026-09-26T16:58:13.795056+00:00"
+    },
+    {
+      "id": "53580",
+      "name": "Biss Jaggery Modak",
+      "cuisine": "Indian",
+      "rawFile": "raw/53580.json",
+      "fetchedAt": "2026-09-26T16:58:14.216789+00:00"
+    },
+    {
+      "id": "53076",
+      "name": "Bread omelette",
+      "cuisine": "Indian",
+      "rawFile": "raw/53076.json",
+      "fetchedAt": "2026-09-26T16:58:14.644065+00:00"
+    },
+    {
+      "id": "52795",
+      "name": "Chicken Handi",
+      "cuisine": "Indian",
+      "rawFile": "raw/52795.json",
+      "fetchedAt": "2026-09-26T16:58:15.067917+00:00"
+    },
+    {
+      "id": "53358",
+      "name": "Chicken Mandi",
+      "cuisine": "Indian",
+      "rawFile": "raw/53358.json",
+      "fetchedAt": "2026-09-26T16:58:15.502832+00:00"
+    },
+    {
+      "id": "52785",
+      "name": "Dal fry",
+      "cuisine": "Indian",
+      "rawFile": "raw/52785.json",
+      "fetchedAt": "2026-09-26T16:58:15.947328+00:00"
+    },
+    {
+      "id": "52868",
+      "name": "Kidney Bean Curry",
+      "cuisine": "Indian",
+      "rawFile": "raw/52868.json",
+      "fetchedAt": "2026-09-26T16:58:16.387477+00:00"
+    },
+    {
+      "id": "52805",
+      "name": "Lamb Biryani",
+      "cuisine": "Indian",
+      "rawFile": "raw/52805.json",
+      "fetchedAt": "2026-09-26T16:58:16.838970+00:00"
+    },
+    {
+      "id": "52808",
+      "name": "Lamb Rogan josh",
+      "cuisine": "Indian",
+      "rawFile": "raw/52808.json",
+      "fetchedAt": "2026-09-26T16:58:17.263097+00:00"
+    },
+    {
+      "id": "52865",
+      "name": "Matar Paneer",
+      "cuisine": "Indian",
+      "rawFile": "raw/52865.json",
+      "fetchedAt": "2026-09-26T16:58:17.689073+00:00"
+    },
+    {
+      "id": "52851",
+      "name": "Nutty Chicken Curry",
+      "cuisine": "Indian",
+      "rawFile": "raw/52851.json",
+      "fetchedAt": "2026-09-26T16:58:18.122967+00:00"
+    },
+    {
+      "id": "52809",
+      "name": "Recheado Masala Fish",
+      "cuisine": "Indian",
+      "rawFile": "raw/52809.json",
+      "fetchedAt": "2026-09-26T16:58:18.556384+00:00"
+    },
+    {
+      "id": "52964",
+      "name": "Smoked Haddock Kedgeree",
+      "cuisine": "Indian",
+      "rawFile": "raw/52964.json",
+      "fetchedAt": "2026-09-26T16:58:18.973326+00:00"
+    },
+    {
+      "id": "52806",
+      "name": "Tandoori chicken",
+      "cuisine": "Indian",
+      "rawFile": "raw/52806.json",
+      "fetchedAt": "2026-09-26T16:58:19.389947+00:00"
+    },
+    {
+      "id": "53373",
+      "name": "Air Fryer Egg Rolls",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53373.json",
+      "fetchedAt": "2026-09-26T16:58:19.813883+00:00"
+    },
+    {
+      "id": "53366",
+      "name": "Beef and Broccoli Stir-Fry",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53366.json",
+      "fetchedAt": "2026-09-26T16:58:20.239562+00:00"
+    },
+    {
+      "id": "52952",
+      "name": "Beef Lo Mein",
+      "cuisine": "Chinese",
+      "rawFile": "raw/52952.json",
+      "fetchedAt": "2026-09-26T16:58:20.672355+00:00"
+    },
+    {
+      "id": "52956",
+      "name": "Chicken Congee",
+      "cuisine": "Chinese",
+      "rawFile": "raw/52956.json",
+      "fetchedAt": "2026-09-26T16:58:21.096642+00:00"
+    },
+    {
+      "id": "53367",
+      "name": "Chicken Fried Rice",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53367.json",
+      "fetchedAt": "2026-09-26T16:58:21.538756+00:00"
+    },
+    {
+      "id": "53365",
+      "name": "Chinese Orange Chicken",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53365.json",
+      "fetchedAt": "2026-09-26T16:58:21.962858+00:00"
+    },
+    {
+      "id": "53372",
+      "name": "Chinese Tomato Egg Stir Fry",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53372.json",
+      "fetchedAt": "2026-09-26T16:58:22.410395+00:00"
+    },
+    {
+      "id": "52955",
+      "name": "Egg Drop Soup",
+      "cuisine": "Chinese",
+      "rawFile": "raw/52955.json",
+      "fetchedAt": "2026-09-26T16:58:22.905790+00:00"
+    },
+    {
+      "id": "53370",
+      "name": "Egg Foo Young",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53370.json",
+      "fetchedAt": "2026-09-26T16:58:23.327750+00:00"
+    },
+    {
+      "id": "52951",
+      "name": "General Tsos Chicken",
+      "cuisine": "Chinese",
+      "rawFile": "raw/52951.json",
+      "fetchedAt": "2026-09-26T16:58:23.759000+00:00"
+    },
+    {
+      "id": "52954",
+      "name": "Hot and Sour Soup",
+      "cuisine": "Chinese",
+      "rawFile": "raw/52954.json",
+      "fetchedAt": "2026-09-26T16:58:24.180919+00:00"
+    },
+    {
+      "id": "52945",
+      "name": "Kung Pao Chicken",
+      "cuisine": "Chinese",
+      "rawFile": "raw/52945.json",
+      "fetchedAt": "2026-09-26T16:58:24.621765+00:00"
+    },
+    {
+      "id": "52946",
+      "name": "Kung Po Prawns",
+      "cuisine": "Chinese",
+      "rawFile": "raw/52946.json",
+      "fetchedAt": "2026-09-26T16:58:25.056368+00:00"
+    },
+    {
+      "id": "52947",
+      "name": "Ma Po Tofu",
+      "cuisine": "Chinese",
+      "rawFile": "raw/52947.json",
+      "fetchedAt": "2026-09-26T16:58:25.478690+00:00"
+    },
+    {
+      "id": "53377",
+      "name": "Napa Cabbage with Dried Shrimp",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53377.json",
+      "fetchedAt": "2026-09-26T16:58:25.906154+00:00"
+    },
+    {
+      "id": "53383",
+      "name": "Ramen Noodles with Boiled Egg",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53383.json",
+      "fetchedAt": "2026-09-26T16:58:26.329729+00:00"
+    },
+    {
+      "id": "53378",
+      "name": "Sesame Cucumber Salad",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53378.json",
+      "fetchedAt": "2026-09-26T16:58:26.754031+00:00"
+    },
+    {
+      "id": "52953",
+      "name": "Shrimp Chow Fun",
+      "cuisine": "Chinese",
+      "rawFile": "raw/52953.json",
+      "fetchedAt": "2026-09-26T16:58:27.179981+00:00"
+    },
+    {
+      "id": "53375",
+      "name": "Shrimp With Snow Peas",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53375.json",
+      "fetchedAt": "2026-09-26T16:58:27.629579+00:00"
+    },
+    {
+      "id": "53374",
+      "name": "Sichuan Eggplant",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53374.json",
+      "fetchedAt": "2026-09-26T16:58:28.051179+00:00"
+    },
+    {
+      "id": "53371",
+      "name": "Sichuan Style Stir-Fried Chinese Long Beans",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53371.json",
+      "fetchedAt": "2026-09-26T16:58:28.480304+00:00"
+    },
+    {
+      "id": "53369",
+      "name": "Silken Tofu with Sesame Soy Sauce",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53369.json",
+      "fetchedAt": "2026-09-26T16:58:28.912224+00:00"
+    },
+    {
+      "id": "53368",
+      "name": "Singapore Noodles with Shrimp",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53368.json",
+      "fetchedAt": "2026-09-26T16:58:29.336197+00:00"
+    },
+    {
+      "id": "53376",
+      "name": "Sweet and Sour Chicken",
+      "cuisine": "Chinese",
+      "rawFile": "raw/53376.json",
+      "fetchedAt": "2026-09-26T16:58:29.765701+00:00"
+    },
+    {
+      "id": "52949",
+      "name": "Sweet and Sour Pork",
+      "cuisine": "Chinese",
+      "rawFile": "raw/52949.json",
+      "fetchedAt": "2026-09-26T16:58:30.201443+00:00"
+    },
+    {
+      "id": "52950",
+      "name": "Szechuan Beef",
+      "cuisine": "Chinese",
+      "rawFile": "raw/52950.json",
+      "fetchedAt": "2026-09-26T16:58:30.616121+00:00"
+    },
+    {
+      "id": "52948",
+      "name": "Wontons",
+      "cuisine": "Chinese",
+      "rawFile": "raw/52948.json",
+      "fetchedAt": "2026-09-26T16:58:31.046184+00:00"
+    },
+    {
+      "id": "53085",
+      "name": "15-minute chicken & halloumi burgers",
+      "cuisine": "American",
+      "rawFile": "raw/53085.json",
+      "fetchedAt": "2026-09-26T16:58:31.457736+00:00"
+    },
+    {
+      "id": "52855",
+      "name": "Banana Pancakes",
+      "cuisine": "American",
+      "rawFile": "raw/52855.json",
+      "fetchedAt": "2026-09-26T16:58:31.901360+00:00"
+    },
+    {
+      "id": "52995",
+      "name": "BBQ Pork Sloppy Joes",
+      "cuisine": "American",
+      "rawFile": "raw/52995.json",
+      "fetchedAt": "2026-09-26T16:58:32.350206+00:00"
+    },
+    {
+      "id": "52812",
+      "name": "Beef Brisket Pot Roast",
+      "cuisine": "American",
+      "rawFile": "raw/52812.json",
+      "fetchedAt": "2026-09-26T16:58:32.764597+00:00"
+    },
+    {
+      "id": "53013",
+      "name": "Big Mac",
+      "cuisine": "American",
+      "rawFile": "raw/53013.json",
+      "fetchedAt": "2026-09-26T16:58:33.199823+00:00"
+    },
+    {
+      "id": "53016",
+      "name": "Chick-Fil-A Sandwich",
+      "cuisine": "American",
+      "rawFile": "raw/53016.json",
+      "fetchedAt": "2026-09-26T16:58:33.623846+00:00"
+    },
+    {
+      "id": "52818",
+      "name": "Chicken Fajita Mac and Cheese",
+      "cuisine": "American",
+      "rawFile": "raw/52818.json",
+      "fetchedAt": "2026-09-26T16:58:34.047275+00:00"
+    },
+    {
+      "id": "52856",
+      "name": "Choc Chip Pecan Pie",
+      "cuisine": "American",
+      "rawFile": "raw/52856.json",
+      "fetchedAt": "2026-09-26T16:58:34.473261+00:00"
+    },
+    {
+      "id": "52860",
+      "name": "Chocolate Raspberry Brownies",
+      "cuisine": "American",
+      "rawFile": "raw/52860.json",
+      "fetchedAt": "2026-09-26T16:58:34.902416+00:00"
+    },
+    {
+      "id": "52840",
+      "name": "Clam chowder",
+      "cuisine": "American",
+      "rawFile": "raw/52840.json",
+      "fetchedAt": "2026-09-26T16:58:35.330673+00:00"
+    },
+    {
+      "id": "52779",
+      "name": "Cream Cheese Tart",
+      "cuisine": "American",
+      "rawFile": "raw/52779.json",
+      "fetchedAt": "2026-09-26T16:58:35.761296+00:00"
+    },
+    {
+      "id": "52996",
+      "name": "French Onion Chicken with Roasted Carrots & Mashed Potatoes",
+      "cuisine": "American",
+      "rawFile": "raw/52996.json",
+      "fetchedAt": "2026-09-26T16:58:36.184210+00:00"
+    },
+    {
+      "id": "52957",
+      "name": "Fruit and Cream Cheese Breakfast Pastries",
+      "cuisine": "American",
+      "rawFile": "raw/52957.json",
+      "fetchedAt": "2026-09-26T16:58:36.609820+00:00"
+    },
+    {
+      "id": "52829",
+      "name": "Grilled Mac and Cheese Sandwich",
+      "cuisine": "American",
+      "rawFile": "raw/52829.json",
+      "fetchedAt": "2026-09-26T16:58:37.027324+00:00"
+    },
+    {
+      "id": "52993",
+      "name": "Honey Balsamic Chicken with Crispy Broccoli & Potatoes",
+      "cuisine": "American",
+      "rawFile": "raw/52993.json",
+      "fetchedAt": "2026-09-26T16:58:37.456470+00:00"
+    },
+    {
+      "id": "52787",
+      "name": "Hot Chocolate Fudge",
+      "cuisine": "American",
+      "rawFile": "raw/52787.json",
+      "fetchedAt": "2026-09-26T16:58:37.887218+00:00"
+    },
+    {
+      "id": "52813",
+      "name": "Kentucky Fried Chicken",
+      "cuisine": "American",
+      "rawFile": "raw/52813.json",
+      "fetchedAt": "2026-09-26T16:58:38.330407+00:00"
+    },
+    {
+      "id": "52859",
+      "name": "Key Lime Pie",
+      "cuisine": "American",
+      "rawFile": "raw/52859.json",
+      "fetchedAt": "2026-09-26T16:58:38.769176+00:00"
+    },
+    {
+      "id": "53015",
+      "name": "Krispy Kreme Donut",
+      "cuisine": "American",
+      "rawFile": "raw/53015.json",
+      "fetchedAt": "2026-09-26T16:58:39.194472+00:00"
+    },
+    {
+      "id": "52987",
+      "name": "Lasagna Sandwiches",
+      "cuisine": "American",
+      "rawFile": "raw/52987.json",
+      "fetchedAt": "2026-09-26T16:58:39.611324+00:00"
+    },
+    {
+      "id": "52858",
+      "name": "New York cheesecake",
+      "cuisine": "American",
+      "rawFile": "raw/52858.json",
+      "fetchedAt": "2026-09-26T16:58:40.046919+00:00"
+    },
+    {
+      "id": "52854",
+      "name": "Pancakes",
+      "cuisine": "American",
+      "rawFile": "raw/52854.json",
+      "fetchedAt": "2026-09-26T16:58:40.468903+00:00"
+    },
+    {
+      "id": "52862",
+      "name": "Peach & Blueberry Grunt",
+      "cuisine": "American",
+      "rawFile": "raw/52862.json",
+      "fetchedAt": "2026-09-26T16:58:40.897986+00:00"
+    },
+    {
+      "id": "52861",
+      "name": "Peanut Butter Cheesecake",
+      "cuisine": "American",
+      "rawFile": "raw/52861.json",
+      "fetchedAt": "2026-09-26T16:58:41.318131+00:00"
+    },
+    {
+      "id": "52958",
+      "name": "Peanut Butter Cookies",
+      "cuisine": "American",
+      "rawFile": "raw/52958.json",
+      "fetchedAt": "2026-09-26T16:58:41.749735+00:00"
+    },
+    {
+      "id": "52857",
+      "name": "Pumpkin Pie",
+      "cuisine": "American",
+      "rawFile": "raw/52857.json",
+      "fetchedAt": "2026-09-26T16:58:42.174618+00:00"
+    },
+    {
+      "id": "52816",
+      "name": "Roasted Eggplant With Tahini, Pine Nuts, and Lentils",
+      "cuisine": "American",
+      "rawFile": "raw/52816.json",
+      "fetchedAt": "2026-09-26T16:58:42.596754+00:00"
+    },
+    {
+      "id": "52786",
+      "name": "Rocky Road Fudge",
+      "cuisine": "American",
+      "rawFile": "raw/52786.json",
+      "fetchedAt": "2026-09-26T16:58:43.030049+00:00"
+    },
+    {
+      "id": "52962",
+      "name": "Salmon Eggs Eggs Benedict",
+      "cuisine": "American",
+      "rawFile": "raw/52962.json",
+      "fetchedAt": "2026-09-26T16:58:43.453122+00:00"
+    },
+    {
+      "id": "52833",
+      "name": "Salted Caramel Cheescake",
+      "cuisine": "American",
+      "rawFile": "raw/52833.json",
+      "fetchedAt": "2026-09-26T16:58:43.876605+00:00"
+    },
+    {
+      "id": "52994",
+      "name": "Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini",
+      "cuisine": "American",
+      "rawFile": "raw/52994.json",
+      "fetchedAt": "2026-09-26T16:58:44.297217+00:00"
+    },
+    {
+      "id": "52992",
+      "name": "Soy-Glazed Meatloaves with Wasabi Mashed Potatoes & Roasted Carrots",
+      "cuisine": "American",
+      "rawFile": "raw/52992.json",
+      "fetchedAt": "2026-09-26T16:58:44.729615+00:00"
+    },
+    {
+      "id": "52817",
+      "name": "Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt",
+      "cuisine": "American",
+      "rawFile": "raw/52817.json",
+      "fetchedAt": "2026-09-26T16:58:45.187161+00:00"
+    },
+    {
+      "id": "52794",
+      "name": "Vegan Chocolate Cake",
+      "cuisine": "American",
+      "rawFile": "raw/52794.json",
+      "fetchedAt": "2026-09-26T16:58:45.607762+00:00"
+    },
+    {
+      "id": "52796",
+      "name": "Chicken Alfredo Primavera",
+      "cuisine": "Italian",
+      "rawFile": "raw/52796.json",
+      "fetchedAt": "2026-09-26T16:58:46.029098+00:00"
+    },
+    {
+      "id": "52839",
+      "name": "Chilli prawn linguine",
+      "cuisine": "Italian",
+      "rawFile": "raw/52839.json",
+      "fetchedAt": "2026-09-26T16:58:46.463569+00:00"
+    },
+    {
+      "id": "53064",
+      "name": "Fettuccine Alfredo",
+      "cuisine": "Italian",
+      "rawFile": "raw/53064.json",
+      "fetchedAt": "2026-09-26T16:58:46.885049+00:00"
+    },
+    {
+      "id": "52844",
+      "name": "Lasagne",
+      "cuisine": "Italian",
+      "rawFile": "raw/52844.json",
+      "fetchedAt": "2026-09-26T16:58:47.306303+00:00"
+    },
+    {
+      "id": "52777",
+      "name": "Mediterranean Pasta Salad",
+      "cuisine": "Italian",
+      "rawFile": "raw/52777.json",
+      "fetchedAt": "2026-09-26T16:58:47.746062+00:00"
+    },
+    {
+      "id": "52837",
+      "name": "Pilchard puttanesca",
+      "cuisine": "Italian",
+      "rawFile": "raw/52837.json",
+      "fetchedAt": "2026-09-26T16:58:48.183103+00:00"
+    },
+    {
+      "id": "53014",
+      "name": "Pizza Express Margherita",
+      "cuisine": "Italian",
+      "rawFile": "raw/53014.json",
+      "fetchedAt": "2026-09-26T16:58:48.610988+00:00"
+    },
+    {
+      "id": "52780",
+      "name": "Potato Gratin with Chicken",
+      "cuisine": "Italian",
+      "rawFile": "raw/52780.json",
+      "fetchedAt": "2026-09-26T16:58:49.022345+00:00"
+    },
+    {
+      "id": "52811",
+      "name": "Ribollita",
+      "cuisine": "Italian",
+      "rawFile": "raw/52811.json",
+      "fetchedAt": "2026-09-26T16:58:49.440797+00:00"
+    },
+    {
+      "id": "52783",
+      "name": "Rigatoni with fennel sausage sauce",
+      "cuisine": "Italian",
+      "rawFile": "raw/52783.json",
+      "fetchedAt": "2026-09-26T16:58:49.866288+00:00"
+    },
+    {
+      "id": "52823",
+      "name": "Salmon Prawn Risotto",
+      "cuisine": "Italian",
+      "rawFile": "raw/52823.json",
+      "fetchedAt": "2026-09-26T16:58:50.298111+00:00"
+    },
+    {
+      "id": "52982",
+      "name": "Spaghetti alla Carbonara",
+      "cuisine": "Italian",
+      "rawFile": "raw/52982.json",
+      "fetchedAt": "2026-09-26T16:58:50.729349+00:00"
+    },
+    {
+      "id": "52770",
+      "name": "Spaghetti Bolognese",
+      "cuisine": "Italian",
+      "rawFile": "raw/52770.json",
+      "fetchedAt": "2026-09-26T16:58:51.162505+00:00"
+    },
+    {
+      "id": "52771",
+      "name": "Spicy Arrabiata Penne",
+      "cuisine": "Italian",
+      "rawFile": "raw/52771.json",
+      "fetchedAt": "2026-09-26T16:58:51.600093+00:00"
+    },
+    {
+      "id": "52849",
+      "name": "Spinach & Ricotta Cannelloni",
+      "cuisine": "Italian",
+      "rawFile": "raw/52849.json",
+      "fetchedAt": "2026-09-26T16:58:52.029039+00:00"
+    },
+    {
+      "id": "52866",
+      "name": "Squash linguine",
+      "cuisine": "Italian",
+      "rawFile": "raw/52866.json",
+      "fetchedAt": "2026-09-26T16:58:52.451604+00:00"
+    },
+    {
+      "id": "52775",
+      "name": "Vegan Lasagna",
+      "cuisine": "Italian",
+      "rawFile": "raw/52775.json",
+      "fetchedAt": "2026-09-26T16:58:52.880804+00:00"
+    },
+    {
+      "id": "52838",
+      "name": "Venetian Duck Ragu",
+      "cuisine": "Italian",
+      "rawFile": "raw/52838.json",
+      "fetchedAt": "2026-09-26T16:58:53.314669+00:00"
+    },
+    {
+      "id": "52961",
+      "name": "Budino Di Ricotta",
+      "cuisine": "Italian",
+      "rawFile": "raw/52961.json",
+      "fetchedAt": "2026-09-26T17:16:03.179400+00:00"
+    },
+    {
+      "id": "52831",
+      "name": "Chicken Karaage",
+      "cuisine": "Japanese",
+      "rawFile": "raw/52831.json",
+      "fetchedAt": "2026-09-26T17:16:03.602635+00:00"
+    },
+    {
+      "id": "53193",
+      "name": "Drunken noodles (pad kee mao)",
+      "cuisine": "Thai",
+      "rawFile": "raw/53193.json",
+      "fetchedAt": "2026-09-26T17:16:04.016559+00:00"
+    },
+    {
+      "id": "52904",
+      "name": "Beef Bourguignon",
+      "cuisine": "French",
+      "rawFile": "raw/52904.json",
+      "fetchedAt": "2026-09-26T17:16:04.448532+00:00"
+    },
+    {
+      "id": "53011",
+      "name": "Chicken Quinoa Greek Salad",
+      "cuisine": "Greek",
+      "rawFile": "raw/53011.json",
+      "fetchedAt": "2026-09-26T17:16:05.012214+00:00"
+    },
+    {
+      "id": "53262",
+      "name": "Adana kebab",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53262.json",
+      "fetchedAt": "2026-09-26T17:16:05.432980+00:00"
+    },
+    {
+      "id": "52850",
+      "name": "Chicken Couscous",
+      "cuisine": "Moroccan",
+      "rawFile": "raw/52850.json",
+      "fetchedAt": "2026-09-26T17:16:05.868654+00:00"
+    },
+    {
+      "id": "53158",
+      "name": "Air fryer patatas bravas",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53158.json",
+      "fetchedAt": "2026-09-26T17:16:06.297749+00:00"
+    },
+    {
+      "id": "52885",
+      "name": "Bubble & Squeak",
+      "cuisine": "British",
+      "rawFile": "raw/52885.json",
+      "fetchedAt": "2026-09-26T17:16:06.713499+00:00"
+    },
+    {
+      "id": "53239",
+      "name": "Bang bang prawn salad",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53239.json",
+      "fetchedAt": "2026-09-26T17:16:07.127326+00:00"
+    },
+    {
+      "id": "52940",
+      "name": "Brown Stew Chicken",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/52940.json",
+      "fetchedAt": "2026-09-26T17:16:07.547994+00:00"
+    },
+    {
+      "id": "52928",
+      "name": "BeaverTails",
+      "cuisine": "Canadian",
+      "rawFile": "raw/52928.json",
+      "fetchedAt": "2026-09-26T17:16:07.967155+00:00"
+    },
+    {
+      "id": "53031",
+      "name": "Egyptian Fatteh",
+      "cuisine": "Egyptian",
+      "rawFile": "raw/53031.json",
+      "fetchedAt": "2026-09-26T17:16:08.405920+00:00"
+    },
+    {
+      "id": "52976",
+      "name": "Cashew Ghoriba Biscuits",
+      "cuisine": "Tunisian",
+      "rawFile": "raw/52976.json",
+      "fetchedAt": "2026-09-26T17:16:08.900299+00:00"
+    },
+    {
+      "id": "53307",
+      "name": "Beetroot & red cabbage sauerkraut",
+      "cuisine": "Polish",
+      "rawFile": "raw/53307.json",
+      "fetchedAt": "2026-09-26T17:16:09.324727+00:00"
+    },
+    {
+      "id": "53043",
+      "name": "Fish fofos",
+      "cuisine": "Portuguese",
+      "rawFile": "raw/53043.json",
+      "fetchedAt": "2026-09-26T17:16:09.745745+00:00"
+    },
+    {
+      "id": "53071",
+      "name": "Beef Asado",
+      "cuisine": "Filipino",
+      "rawFile": "raw/53071.json",
+      "fetchedAt": "2026-09-26T17:16:10.173498+00:00"
+    },
+    {
+      "id": "52835",
+      "name": "Fettucine alfredo",
+      "cuisine": "Italian",
+      "rawFile": "raw/52835.json",
+      "fetchedAt": "2026-09-26T17:16:10.598156+00:00"
+    },
+    {
+      "id": "52773",
+      "name": "Honey Teriyaki Salmon",
+      "cuisine": "Japanese",
+      "rawFile": "raw/52773.json",
+      "fetchedAt": "2026-09-26T17:16:11.035888+00:00"
+    },
+    {
+      "id": "53211",
+      "name": "Lemongrass beef stew with noodles",
+      "cuisine": "Thai",
+      "rawFile": "raw/53211.json",
+      "fetchedAt": "2026-09-26T17:16:11.486932+00:00"
+    },
+    {
+      "id": "52914",
+      "name": "Boulangère Potatoes",
+      "cuisine": "French",
+      "rawFile": "raw/52914.json",
+      "fetchedAt": "2026-09-26T17:16:11.915455+00:00"
+    },
+    {
+      "id": "52764",
+      "name": "Garides Saganaki",
+      "cuisine": "Greek",
+      "rawFile": "raw/52764.json",
+      "fetchedAt": "2026-09-26T17:16:12.421820+00:00"
+    },
+    {
+      "id": "53276",
+      "name": "Apricot & Turkish delight mess",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53276.json",
+      "fetchedAt": "2026-09-26T17:16:12.895682+00:00"
+    },
+    {
+      "id": "52843",
+      "name": "Lamb Tagine",
+      "cuisine": "Moroccan",
+      "rawFile": "raw/52843.json",
+      "fetchedAt": "2026-09-26T17:16:13.313385+00:00"
+    },
+    {
+      "id": "53169",
+      "name": "Ajo blanco",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53169.json",
+      "fetchedAt": "2026-09-26T17:16:13.736199+00:00"
+    },
+    {
+      "id": "52893",
+      "name": "Apple & Blackberry Crumble",
+      "cuisine": "British",
+      "rawFile": "raw/52893.json",
+      "fetchedAt": "2026-09-26T17:16:14.176272+00:00"
+    },
+    {
+      "id": "53242",
+      "name": "Barbecue pork buns",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53242.json",
+      "fetchedAt": "2026-09-26T17:16:14.601570+00:00"
+    },
+    {
+      "id": "53361",
+      "name": "Callaloo and SaltFish",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/53361.json",
+      "fetchedAt": "2026-09-26T17:16:15.031287+00:00"
+    },
+    {
+      "id": "52965",
+      "name": "Breakfast Potatoes",
+      "cuisine": "Canadian",
+      "rawFile": "raw/52965.json",
+      "fetchedAt": "2026-09-26T17:16:15.481149+00:00"
+    },
+    {
+      "id": "53030",
+      "name": "Feteer Meshaltet",
+      "cuisine": "Egyptian",
+      "rawFile": "raw/53030.json",
+      "fetchedAt": "2026-09-26T17:16:15.924169+00:00"
+    },
+    {
+      "id": "52969",
+      "name": "Chakchouka",
+      "cuisine": "Tunisian",
+      "rawFile": "raw/52969.json",
+      "fetchedAt": "2026-09-26T17:16:16.353724+00:00"
+    },
+    {
+      "id": "53018",
+      "name": "Bigos (Hunters Stew)",
+      "cuisine": "Polish",
+      "rawFile": "raw/53018.json",
+      "fetchedAt": "2026-09-26T17:16:16.781692+00:00"
+    },
+    {
+      "id": "53041",
+      "name": "Grilled Portuguese sardines",
+      "cuisine": "Portuguese",
+      "rawFile": "raw/53041.json",
+      "fetchedAt": "2026-09-26T17:16:17.214724+00:00"
+    },
+    {
+      "id": "53070",
+      "name": "Beef Caldereta",
+      "cuisine": "Filipino",
+      "rawFile": "raw/53070.json",
+      "fetchedAt": "2026-09-26T17:16:17.660882+00:00"
+    },
+    {
+      "id": "52810",
+      "name": "Osso Buco alla Milanese",
+      "cuisine": "Italian",
+      "rawFile": "raw/52810.json",
+      "fetchedAt": "2026-09-26T17:16:18.089478+00:00"
+    },
+    {
+      "id": "53033",
+      "name": "Japanese gohan rice",
+      "cuisine": "Japanese",
+      "rawFile": "raw/53033.json",
+      "fetchedAt": "2026-09-26T17:16:18.594977+00:00"
+    },
+    {
+      "id": "52827",
+      "name": "Massaman Beef curry",
+      "cuisine": "Thai",
+      "rawFile": "raw/52827.json",
+      "fetchedAt": "2026-09-26T17:16:19.030987+00:00"
+    },
+    {
+      "id": "52913",
+      "name": "Brie wrapped in prosciutto & brioche",
+      "cuisine": "French",
+      "rawFile": "raw/52913.json",
+      "fetchedAt": "2026-09-26T17:16:19.455117+00:00"
+    },
+    {
+      "id": "53012",
+      "name": "Gigantes Plaki",
+      "cuisine": "Greek",
+      "rawFile": "raw/53012.json",
+      "fetchedAt": "2026-09-26T17:16:19.877986+00:00"
+    },
+    {
+      "id": "53278",
+      "name": "Aubergine & hummus grills",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53278.json",
+      "fetchedAt": "2026-09-26T17:16:20.296884+00:00"
+    },
+    {
+      "id": "52782",
+      "name": "Lamb tomato and sweet spices",
+      "cuisine": "Moroccan",
+      "rawFile": "raw/52782.json",
+      "fetchedAt": "2026-09-26T17:16:20.721351+00:00"
+    },
+    {
+      "id": "53156",
+      "name": "Arroz al horno (baked rice)",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53156.json",
+      "fetchedAt": "2026-09-26T17:16:21.150442+00:00"
+    },
+    {
+      "id": "52768",
+      "name": "Apple Frangipan Tart",
+      "cuisine": "British",
+      "rawFile": "raw/52768.json",
+      "fetchedAt": "2026-09-26T17:16:21.572164+00:00"
+    },
+    {
+      "id": "52997",
+      "name": "Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/52997.json",
+      "fetchedAt": "2026-09-26T17:16:21.995637+00:00"
+    },
+    {
+      "id": "52939",
+      "name": "Callaloo Jamaican Style",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/52939.json",
+      "fetchedAt": "2026-09-26T17:16:22.465125+00:00"
+    },
+    {
+      "id": "52923",
+      "name": "Canadian Butter Tarts",
+      "cuisine": "Canadian",
+      "rawFile": "raw/52923.json",
+      "fetchedAt": "2026-09-26T17:16:22.913973+00:00"
+    },
+    {
+      "id": "53025",
+      "name": "Ful Medames",
+      "cuisine": "Egyptian",
+      "rawFile": "raw/53025.json",
+      "fetchedAt": "2026-09-26T17:16:23.332406+00:00"
+    },
+    {
+      "id": "52971",
+      "name": "Kafteji",
+      "cuisine": "Tunisian",
+      "rawFile": "raw/52971.json",
+      "fetchedAt": "2026-09-26T17:16:23.755598+00:00"
+    },
+    {
+      "id": "53300",
+      "name": "Bigos (Polish hunter's stew)",
+      "cuisine": "Polish",
+      "rawFile": "raw/53300.json",
+      "fetchedAt": "2026-09-26T17:16:24.180529+00:00"
+    },
+    {
+      "id": "53039",
+      "name": "Piri-piri chicken and slaw",
+      "cuisine": "Portuguese",
+      "rawFile": "raw/53039.json",
+      "fetchedAt": "2026-09-26T17:16:24.647647+00:00"
+    },
+    {
+      "id": "53068",
+      "name": "Beef Mechado",
+      "cuisine": "Filipino",
+      "rawFile": "raw/53068.json",
+      "fetchedAt": "2026-09-26T17:16:26.170836+00:00"
+    },
+    {
+      "id": "53034",
+      "name": "Japanese Katsudon",
+      "cuisine": "Japanese",
+      "rawFile": "raw/53034.json",
+      "fetchedAt": "2026-09-26T17:16:26.602012+00:00"
+    },
+    {
+      "id": "52774",
+      "name": "Pad See Ew",
+      "cuisine": "Thai",
+      "rawFile": "raw/52774.json",
+      "fetchedAt": "2026-09-26T17:16:27.006017+00:00"
+    },
+    {
+      "id": "52934",
+      "name": "Chicken Basquaise",
+      "cuisine": "French",
+      "rawFile": "raw/52934.json",
+      "fetchedAt": "2026-09-26T17:16:27.423299+00:00"
+    },
+    {
+      "id": "53007",
+      "name": "Honey Yogurt Cheesecake",
+      "cuisine": "Greek",
+      "rawFile": "raw/53007.json",
+      "fetchedAt": "2026-09-26T17:16:27.846264+00:00"
+    },
+    {
+      "id": "53267",
+      "name": "Aubergine couscous salad",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53267.json",
+      "fetchedAt": "2026-09-26T17:16:28.265904+00:00"
+    },
+    {
+      "id": "53047",
+      "name": "Moroccan Carrot Soup",
+      "cuisine": "Moroccan",
+      "rawFile": "raw/53047.json",
+      "fetchedAt": "2026-09-26T17:16:28.681437+00:00"
+    },
+    {
+      "id": "53147",
+      "name": "Arroz con gambas y calamar",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53147.json",
+      "fetchedAt": "2026-09-26T17:16:29.104822+00:00"
+    },
+    {
+      "id": "52959",
+      "name": "Baked salmon with fennel & tomatoes",
+      "cuisine": "British",
+      "rawFile": "raw/52959.json",
+      "fetchedAt": "2026-09-26T17:16:29.528857+00:00"
+    },
+    {
+      "id": "53238",
+      "name": "Beef pho",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53238.json",
+      "fetchedAt": "2026-09-26T17:16:29.957111+00:00"
+    },
+    {
+      "id": "53360",
+      "name": "Caribbean Tamarind balls",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/53360.json",
+      "fetchedAt": "2026-09-26T17:16:30.384105+00:00"
+    },
+    {
+      "id": "53343",
+      "name": "Classic Tourtière",
+      "cuisine": "Canadian",
+      "rawFile": "raw/53343.json",
+      "fetchedAt": "2026-09-26T17:16:30.802860+00:00"
+    },
+    {
+      "id": "53027",
+      "name": "Koshari",
+      "cuisine": "Egyptian",
+      "rawFile": "raw/53027.json",
+      "fetchedAt": "2026-09-26T17:16:31.217308+00:00"
+    },
+    {
+      "id": "52974",
+      "name": "Keleya Zaara",
+      "cuisine": "Tunisian",
+      "rawFile": "raw/52974.json",
+      "fetchedAt": "2026-09-26T17:16:31.637518+00:00"
+    },
+    {
+      "id": "53305",
+      "name": "Braised stuffed cabbage",
+      "cuisine": "Polish",
+      "rawFile": "raw/53305.json",
+      "fetchedAt": "2026-09-26T17:16:32.061385+00:00"
+    },
+    {
+      "id": "53044",
+      "name": "Portuguese barbecued pork (Febras assadas)",
+      "cuisine": "Portuguese",
+      "rawFile": "raw/53044.json",
+      "fetchedAt": "2026-09-26T17:16:32.476027+00:00"
+    },
+    {
+      "id": "53069",
+      "name": "Bistek",
+      "cuisine": "Filipino",
+      "rawFile": "raw/53069.json",
+      "fetchedAt": "2026-09-26T17:16:32.918904+00:00"
+    },
+    {
+      "id": "52820",
+      "name": "Katsu Chicken curry",
+      "cuisine": "Japanese",
+      "rawFile": "raw/52820.json",
+      "fetchedAt": "2026-09-26T17:16:33.367447+00:00"
+    },
+    {
+      "id": "53191",
+      "name": "Pad Thai",
+      "cuisine": "Thai",
+      "rawFile": "raw/53191.json",
+      "fetchedAt": "2026-09-26T17:16:33.787623+00:00"
+    },
+    {
+      "id": "52920",
+      "name": "Chicken Marengo",
+      "cuisine": "French",
+      "rawFile": "raw/52920.json",
+      "fetchedAt": "2026-09-26T17:16:34.211114+00:00"
+    },
+    {
+      "id": "53009",
+      "name": "Lamb and Lemon Souvlaki",
+      "cuisine": "Greek",
+      "rawFile": "raw/53009.json",
+      "fetchedAt": "2026-09-26T17:16:34.635261+00:00"
+    },
+    {
+      "id": "53279",
+      "name": "Baklava with spiced nuts, ricotta & chocolate",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53279.json",
+      "fetchedAt": "2026-09-26T17:16:35.050134+00:00"
+    },
+    {
+      "id": "52797",
+      "name": "Spicy North African Potato Salad",
+      "cuisine": "Moroccan",
+      "rawFile": "raw/52797.json",
+      "fetchedAt": "2026-09-26T17:16:35.479991+00:00"
+    },
+    {
+      "id": "53161",
+      "name": "Chicken & chorizo rice pot",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53161.json",
+      "fetchedAt": "2026-09-26T17:16:35.917247+00:00"
+    },
+    {
+      "id": "52767",
+      "name": "Bakewell tart",
+      "cuisine": "British",
+      "rawFile": "raw/52767.json",
+      "fetchedAt": "2026-09-26T17:16:36.346903+00:00"
+    },
+    {
+      "id": "53245",
+      "name": "Noodle bowl salad",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53245.json",
+      "fetchedAt": "2026-09-26T17:16:36.806551+00:00"
+    },
+    {
+      "id": "53350",
+      "name": "Corned Beef and Cabbage – Jamaican Style",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/53350.json",
+      "fetchedAt": "2026-09-26T17:16:37.212209+00:00"
+    },
+    {
+      "id": "53338",
+      "name": "Date squares",
+      "cuisine": "Canadian",
+      "rawFile": "raw/53338.json",
+      "fetchedAt": "2026-09-26T17:16:37.669270+00:00"
+    },
+    {
+      "id": "53029",
+      "name": "Mulukhiyah",
+      "cuisine": "Egyptian",
+      "rawFile": "raw/53029.json",
+      "fetchedAt": "2026-09-26T17:16:38.082826+00:00"
+    },
+    {
+      "id": "52973",
+      "name": "Leblebi Soup",
+      "cuisine": "Tunisian",
+      "rawFile": "raw/52973.json",
+      "fetchedAt": "2026-09-26T17:16:38.513840+00:00"
+    },
+    {
+      "id": "53310",
+      "name": "Challah",
+      "cuisine": "Polish",
+      "rawFile": "raw/53310.json",
+      "fetchedAt": "2026-09-26T17:16:38.932084+00:00"
+    },
+    {
+      "id": "53046",
+      "name": "Portuguese custard tarts",
+      "cuisine": "Portuguese",
+      "rawFile": "raw/53046.json",
+      "fetchedAt": "2026-09-26T17:16:39.368626+00:00"
+    },
+    {
+      "id": "53072",
+      "name": "Crispy Eggplant",
+      "cuisine": "Filipino",
+      "rawFile": "raw/53072.json",
+      "fetchedAt": "2026-09-26T17:16:39.784016+00:00"
+    },
+    {
+      "id": "53065",
+      "name": "Sushi",
+      "cuisine": "Japanese",
+      "rawFile": "raw/53065.json",
+      "fetchedAt": "2026-09-26T17:16:40.212319+00:00"
+    },
+    {
+      "id": "53192",
+      "name": "Panang chicken curry (kaeng panang gai)",
+      "cuisine": "Thai",
+      "rawFile": "raw/53192.json",
+      "fetchedAt": "2026-09-26T17:16:40.624918+00:00"
+    },
+    {
+      "id": "52879",
+      "name": "Chicken Parmentier",
+      "cuisine": "French",
+      "rawFile": "raw/52879.json",
+      "fetchedAt": "2026-09-26T17:16:41.052974+00:00"
+    },
+    {
+      "id": "53010",
+      "name": "Lamb Tzatziki Burgers",
+      "cuisine": "Greek",
+      "rawFile": "raw/53010.json",
+      "fetchedAt": "2026-09-26T17:16:41.483366+00:00"
+    },
+    {
+      "id": "53256",
+      "name": "Cacik",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53256.json",
+      "fetchedAt": "2026-09-26T17:16:41.917355+00:00"
+    },
+    {
+      "id": "52869",
+      "name": "Tahini Lentils",
+      "cuisine": "Moroccan",
+      "rawFile": "raw/52869.json",
+      "fetchedAt": "2026-09-26T17:16:42.354013+00:00"
+    },
+    {
+      "id": "53186",
+      "name": "Chicken with saffron, raisins & pine nuts",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53186.json",
+      "fetchedAt": "2026-09-26T17:16:42.779954+00:00"
+    },
+    {
+      "id": "52894",
+      "name": "Battenberg Cake",
+      "cuisine": "British",
+      "rawFile": "raw/52894.json",
+      "fetchedAt": "2026-09-26T17:16:43.215697+00:00"
+    },
+    {
+      "id": "53244",
+      "name": "Prawn & noodle salad with crispy shallots",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53244.json",
+      "fetchedAt": "2026-09-26T17:16:43.645077+00:00"
+    },
+    {
+      "id": "52944",
+      "name": "Escovitch Fish",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/52944.json",
+      "fetchedAt": "2026-09-26T17:16:44.063909+00:00"
+    },
+    {
+      "id": "53342",
+      "name": "Figgy Duff",
+      "cuisine": "Canadian",
+      "rawFile": "raw/53342.json",
+      "fetchedAt": "2026-09-26T17:16:44.497360+00:00"
+    },
+    {
+      "id": "52963",
+      "name": "Shakshuka",
+      "cuisine": "Egyptian",
+      "rawFile": "raw/52963.json",
+      "fetchedAt": "2026-09-26T17:16:44.926366+00:00"
+    },
+    {
+      "id": "52975",
+      "name": "Tuna and Egg Briks",
+      "cuisine": "Tunisian",
+      "rawFile": "raw/52975.json",
+      "fetchedAt": "2026-09-26T17:16:45.355882+00:00"
+    },
+    {
+      "id": "53309",
+      "name": "Cucumber & fennel salad",
+      "cuisine": "Polish",
+      "rawFile": "raw/53309.json",
+      "fetchedAt": "2026-09-26T17:16:45.780199+00:00"
+    },
+    {
+      "id": "53045",
+      "name": "Portuguese fish stew (Caldeirada de peixe)",
+      "cuisine": "Portuguese",
+      "rawFile": "raw/53045.json",
+      "fetchedAt": "2026-09-26T17:16:46.212377+00:00"
+    },
+    {
+      "id": "53073",
+      "name": "Eggplant Adobo",
+      "cuisine": "Filipino",
+      "rawFile": "raw/53073.json",
+      "fetchedAt": "2026-09-26T17:16:46.626494+00:00"
+    },
+    {
+      "id": "52772",
+      "name": "Teriyaki Chicken Casserole",
+      "cuisine": "Japanese",
+      "rawFile": "raw/52772.json",
+      "fetchedAt": "2026-09-26T17:16:47.049593+00:00"
+    },
+    {
+      "id": "53200",
+      "name": "Prawn stir-fry",
+      "cuisine": "Thai",
+      "rawFile": "raw/53200.json",
+      "fetchedAt": "2026-09-26T17:16:47.485924+00:00"
+    },
+    {
+      "id": "52910",
+      "name": "Chinon Apple Tarts",
+      "cuisine": "French",
+      "rawFile": "raw/52910.json",
+      "fetchedAt": "2026-09-26T17:16:47.906128+00:00"
+    },
+    {
+      "id": "53006",
+      "name": "Moussaka",
+      "cuisine": "Greek",
+      "rawFile": "raw/53006.json",
+      "fetchedAt": "2026-09-26T17:16:48.330837+00:00"
+    },
+    {
+      "id": "53261",
+      "name": "Chicken wings with cumin, lemon & garlic",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53261.json",
+      "fetchedAt": "2026-09-26T17:16:48.758809+00:00"
+    },
+    {
+      "id": "53166",
+      "name": "Chickpea, chorizo & spinach stew",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53166.json",
+      "fetchedAt": "2026-09-26T17:16:49.178854+00:00"
+    },
+    {
+      "id": "52848",
+      "name": "Bean & Sausage Hotpot",
+      "cuisine": "British",
+      "rawFile": "raw/52848.json",
+      "fetchedAt": "2026-09-26T17:16:49.615617+00:00"
+    },
+    {
+      "id": "53230",
+      "name": "Purple sprouting broccoli tempura with nuoc cham",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53230.json",
+      "fetchedAt": "2026-09-26T17:16:50.082378+00:00"
+    },
+    {
+      "id": "53346",
+      "name": "Grape Nut Ice Cream",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/53346.json",
+      "fetchedAt": "2026-09-26T17:16:50.512889+00:00"
+    },
+    {
+      "id": "53341",
+      "name": "Flapper Pie",
+      "cuisine": "Canadian",
+      "rawFile": "raw/53341.json",
+      "fetchedAt": "2026-09-26T17:16:50.955884+00:00"
+    },
+    {
+      "id": "53028",
+      "name": "Shawarma",
+      "cuisine": "Egyptian",
+      "rawFile": "raw/53028.json",
+      "fetchedAt": "2026-09-26T17:16:51.481391+00:00"
+    },
+    {
+      "id": "52972",
+      "name": "Tunisian Lamb Soup",
+      "cuisine": "Tunisian",
+      "rawFile": "raw/52972.json",
+      "fetchedAt": "2026-09-26T17:16:51.930099+00:00"
+    },
+    {
+      "id": "53021",
+      "name": "Golabki (cabbage roll)",
+      "cuisine": "Polish",
+      "rawFile": "raw/53021.json",
+      "fetchedAt": "2026-09-26T17:16:52.361423+00:00"
+    },
+    {
+      "id": "53042",
+      "name": "Portuguese prego with green piri-piri",
+      "cuisine": "Portuguese",
+      "rawFile": "raw/53042.json",
+      "fetchedAt": "2026-09-26T17:16:52.782990+00:00"
+    },
+    {
+      "id": "53074",
+      "name": "Grilled eggplant with coconut milk",
+      "cuisine": "Filipino",
+      "rawFile": "raw/53074.json",
+      "fetchedAt": "2026-09-26T17:16:53.224395+00:00"
+    },
+    {
+      "id": "53032",
+      "name": "Tonkatsu pork",
+      "cuisine": "Japanese",
+      "rawFile": "raw/53032.json",
+      "fetchedAt": "2026-09-26T17:16:53.652852+00:00"
+    },
+    {
+      "id": "53204",
+      "name": "Red curry chicken kebabs",
+      "cuisine": "Thai",
+      "rawFile": "raw/53204.json",
+      "fetchedAt": "2026-09-26T17:16:54.065799+00:00"
+    },
+    {
+      "id": "52776",
+      "name": "Chocolate Gateau",
+      "cuisine": "French",
+      "rawFile": "raw/52776.json",
+      "fetchedAt": "2026-09-26T17:16:54.496673+00:00"
+    },
+    {
+      "id": "53008",
+      "name": "Stuffed Lamb Tomatoes",
+      "cuisine": "Greek",
+      "rawFile": "raw/53008.json",
+      "fetchedAt": "2026-09-26T17:16:54.962214+00:00"
+    },
+    {
+      "id": "53265",
+      "name": "Chilli ginger lamb chops",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53265.json",
+      "fetchedAt": "2026-09-26T17:16:55.407189+00:00"
+    },
+    {
+      "id": "53170",
+      "name": "Chocolate churros with chocolate & salted caramel sauce",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53170.json",
+      "fetchedAt": "2026-09-26T17:16:55.819378+00:00"
+    },
+    {
+      "id": "52874",
+      "name": "Beef and Mustard Pie",
+      "cuisine": "British",
+      "rawFile": "raw/52874.json",
+      "fetchedAt": "2026-09-26T17:16:56.248235+00:00"
+    },
+    {
+      "id": "53227",
+      "name": "Rice paper dumplings",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53227.json",
+      "fetchedAt": "2026-09-26T17:16:56.681727+00:00"
+    },
+    {
+      "id": "53351",
+      "name": "Jamaican Banana Fritters",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/53351.json",
+      "fetchedAt": "2026-09-26T17:16:57.162689+00:00"
+    },
+    {
+      "id": "53340",
+      "name": "Hodge Podge",
+      "cuisine": "Canadian",
+      "rawFile": "raw/53340.json",
+      "fetchedAt": "2026-09-26T17:16:57.582365+00:00"
+    },
+    {
+      "id": "53026",
+      "name": "Tamiya",
+      "cuisine": "Egyptian",
+      "rawFile": "raw/53026.json",
+      "fetchedAt": "2026-09-26T17:16:58.014514+00:00"
+    },
+    {
+      "id": "52970",
+      "name": "Tunisian Orange Cake",
+      "cuisine": "Tunisian",
+      "rawFile": "raw/52970.json",
+      "fetchedAt": "2026-09-26T17:16:58.443511+00:00"
+    },
+    {
+      "id": "53304",
+      "name": "Mini bundt cakes",
+      "cuisine": "Polish",
+      "rawFile": "raw/53304.json",
+      "fetchedAt": "2026-09-26T17:16:58.891064+00:00"
+    },
+    {
+      "id": "53040",
+      "name": "Spring onion and prawn empanadas",
+      "cuisine": "Portuguese",
+      "rawFile": "raw/53040.json",
+      "fetchedAt": "2026-09-26T17:16:59.339704+00:00"
+    },
+    {
+      "id": "53075",
+      "name": "Tortang Talong",
+      "cuisine": "Filipino",
+      "rawFile": "raw/53075.json",
+      "fetchedAt": "2026-09-26T17:16:59.766312+00:00"
+    },
+    {
+      "id": "52871",
+      "name": "Yaki Udon",
+      "cuisine": "Japanese",
+      "rawFile": "raw/52871.json",
+      "fetchedAt": "2026-09-26T17:17:00.222845+00:00"
+    },
+    {
+      "id": "53209",
+      "name": "Spicy Thai prawn noodles",
+      "cuisine": "Thai",
+      "rawFile": "raw/53209.json",
+      "fetchedAt": "2026-09-26T17:17:00.653737+00:00"
+    },
+    {
+      "id": "52905",
+      "name": "Chocolate Souffle",
+      "cuisine": "French",
+      "rawFile": "raw/52905.json",
+      "fetchedAt": "2026-09-26T17:17:01.082344+00:00"
+    },
+    {
+      "id": "52977",
+      "name": "Corba",
+      "cuisine": "Turkish",
+      "rawFile": "raw/52977.json",
+      "fetchedAt": "2026-09-26T17:17:01.510278+00:00"
+    },
+    {
+      "id": "53168",
+      "name": "Chorizo & chickpea soup",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53168.json",
+      "fetchedAt": "2026-09-26T17:17:01.946401+00:00"
+    },
+    {
+      "id": "52878",
+      "name": "Beef and Oyster pie",
+      "cuisine": "British",
+      "rawFile": "raw/52878.json",
+      "fetchedAt": "2026-09-26T17:17:02.393315+00:00"
+    },
+    {
+      "id": "53234",
+      "name": "Salmon noodle soup",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53234.json",
+      "fetchedAt": "2026-09-26T17:17:02.832352+00:00"
+    },
+    {
+      "id": "52938",
+      "name": "Jamaican Beef Patties",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/52938.json",
+      "fetchedAt": "2026-09-26T17:17:03.261973+00:00"
+    },
+    {
+      "id": "53339",
+      "name": "Jam jam cookies",
+      "cuisine": "Canadian",
+      "rawFile": "raw/53339.json",
+      "fetchedAt": "2026-09-26T17:17:03.690008+00:00"
+    },
+    {
+      "id": "53017",
+      "name": "Paszteciki (Polish Pasties)",
+      "cuisine": "Polish",
+      "rawFile": "raw/53017.json",
+      "fetchedAt": "2026-09-26T17:17:04.115172+00:00"
+    },
+    {
+      "id": "53201",
+      "name": "Stir-fried chicken with chillies & basil",
+      "cuisine": "Thai",
+      "rawFile": "raw/53201.json",
+      "fetchedAt": "2026-09-26T17:17:04.546221+00:00"
+    },
+    {
+      "id": "52832",
+      "name": "Coq au vin",
+      "cuisine": "French",
+      "rawFile": "raw/52832.json",
+      "fetchedAt": "2026-09-26T17:17:04.972383+00:00"
+    },
+    {
+      "id": "53254",
+      "name": "Ezme",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53254.json",
+      "fetchedAt": "2026-09-26T17:17:05.400860+00:00"
+    },
+    {
+      "id": "53157",
+      "name": "Chorizo & soft-boiled egg salad",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53157.json",
+      "fetchedAt": "2026-09-26T17:17:05.834826+00:00"
+    },
+    {
+      "id": "52873",
+      "name": "Beef Dumpling Stew",
+      "cuisine": "British",
+      "rawFile": "raw/52873.json",
+      "fetchedAt": "2026-09-26T17:17:06.262953+00:00"
+    },
+    {
+      "id": "53248",
+      "name": "Salmon noodle wraps",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53248.json",
+      "fetchedAt": "2026-09-26T17:17:06.716347+00:00"
+    },
+    {
+      "id": "53353",
+      "name": "Jamaican Boiled Dumplings",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/53353.json",
+      "fetchedAt": "2026-09-26T17:17:07.146422+00:00"
+    },
+    {
+      "id": "53335",
+      "name": "Jiggs Dinner",
+      "cuisine": "Canadian",
+      "rawFile": "raw/53335.json",
+      "fetchedAt": "2026-09-26T17:17:07.565781+00:00"
+    },
+    {
+      "id": "53292",
+      "name": "Piernik (Polish gingerbread)",
+      "cuisine": "Polish",
+      "rawFile": "raw/53292.json",
+      "fetchedAt": "2026-09-26T17:17:07.994796+00:00"
+    },
+    {
+      "id": "53199",
+      "name": "Thai beef stir-fry",
+      "cuisine": "Thai",
+      "rawFile": "raw/53199.json",
+      "fetchedAt": "2026-09-26T17:17:08.423003+00:00"
+    },
+    {
+      "id": "52907",
+      "name": "Duck Confit",
+      "cuisine": "French",
+      "rawFile": "raw/52907.json",
+      "fetchedAt": "2026-09-26T17:17:08.863255+00:00"
+    },
+    {
+      "id": "53266",
+      "name": "Falafel",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53266.json",
+      "fetchedAt": "2026-09-26T17:17:09.295366+00:00"
+    },
+    {
+      "id": "53185",
+      "name": "Chorizo & tomato salad",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53185.json",
+      "fetchedAt": "2026-09-26T17:17:09.711456+00:00"
+    },
+    {
+      "id": "52824",
+      "name": "Beef Sunday Roast",
+      "cuisine": "British",
+      "rawFile": "raw/52824.json",
+      "fetchedAt": "2026-09-26T17:17:10.147428+00:00"
+    },
+    {
+      "id": "53233",
+      "name": "Salt & pepper squid",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53233.json",
+      "fetchedAt": "2026-09-26T17:17:10.567360+00:00"
+    },
+    {
+      "id": "53363",
+      "name": "Jamaican Cornmeal Porridge",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/53363.json",
+      "fetchedAt": "2026-09-26T17:17:10.989515+00:00"
+    },
+    {
+      "id": "53336",
+      "name": "Molasses Baked Beans",
+      "cuisine": "Canadian",
+      "rawFile": "raw/53336.json",
+      "fetchedAt": "2026-09-26T17:17:11.430800+00:00"
+    },
+    {
+      "id": "53019",
+      "name": "Pierogi (Polish Dumplings)",
+      "cuisine": "Polish",
+      "rawFile": "raw/53019.json",
+      "fetchedAt": "2026-09-26T17:17:11.854409+00:00"
+    },
+    {
+      "id": "53206",
+      "name": "Thai chicken cakes with sweet chilli sauce",
+      "cuisine": "Thai",
+      "rawFile": "raw/53206.json",
+      "fetchedAt": "2026-09-26T17:17:12.281420+00:00"
+    },
+    {
+      "id": "52919",
+      "name": "Fennel Dauphinoise",
+      "cuisine": "French",
+      "rawFile": "raw/52919.json",
+      "fetchedAt": "2026-09-26T17:17:12.708672+00:00"
+    },
+    {
+      "id": "53274",
+      "name": "Griddled aubergines with sesame dressing",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53274.json",
+      "fetchedAt": "2026-09-26T17:17:13.155798+00:00"
+    },
+    {
+      "id": "53159",
+      "name": "Chorizo, potato & cheese omelette",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53159.json",
+      "fetchedAt": "2026-09-26T17:17:13.576040+00:00"
+    },
+    {
+      "id": "52803",
+      "name": "Beef Wellington",
+      "cuisine": "British",
+      "rawFile": "raw/52803.json",
+      "fetchedAt": "2026-09-26T17:17:14.004506+00:00"
+    },
+    {
+      "id": "53247",
+      "name": "Sea bass with sizzled ginger, chilli & spring onions",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53247.json",
+      "fetchedAt": "2026-09-26T17:17:14.429140+00:00"
+    },
+    {
+      "id": "53345",
+      "name": "Jamaican Curry Chicken Recipe",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/53345.json",
+      "fetchedAt": "2026-09-26T17:17:14.865953+00:00"
+    },
+    {
+      "id": "52927",
+      "name": "Montreal Smoked Meat",
+      "cuisine": "Canadian",
+      "rawFile": "raw/52927.json",
+      "fetchedAt": "2026-09-26T17:17:15.303963+00:00"
+    },
+    {
+      "id": "53293",
+      "name": "Pistachio cake",
+      "cuisine": "Polish",
+      "rawFile": "raw/53293.json",
+      "fetchedAt": "2026-09-26T17:17:15.729617+00:00"
+    },
+    {
+      "id": "53208",
+      "name": "Thai coconut & veg broth",
+      "cuisine": "Thai",
+      "rawFile": "raw/53208.json",
+      "fetchedAt": "2026-09-26T17:17:16.164614+00:00"
+    },
+    {
+      "id": "52918",
+      "name": "Fish Stew with Rouille",
+      "cuisine": "French",
+      "rawFile": "raw/52918.json",
+      "fetchedAt": "2026-09-26T17:17:16.595445+00:00"
+    },
+    {
+      "id": "53272",
+      "name": "Griddled flatbreads",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53272.json",
+      "fetchedAt": "2026-09-26T17:17:17.030262+00:00"
+    },
+    {
+      "id": "53153",
+      "name": "Churros",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53153.json",
+      "fetchedAt": "2026-09-26T17:17:17.464904+00:00"
+    },
+    {
+      "id": "52891",
+      "name": "Blackberry Fool",
+      "cuisine": "British",
+      "rawFile": "raw/52891.json",
+      "fetchedAt": "2026-09-26T17:17:17.895644+00:00"
+    },
+    {
+      "id": "53229",
+      "name": "Steak & Vietnamese noodle salad",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53229.json",
+      "fetchedAt": "2026-09-26T17:17:18.334631+00:00"
+    },
+    {
+      "id": "53354",
+      "name": "Jamaican Curry Goat",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/53354.json",
+      "fetchedAt": "2026-09-26T17:17:18.761090+00:00"
+    },
+    {
+      "id": "52924",
+      "name": "Nanaimo Bars",
+      "cuisine": "Canadian",
+      "rawFile": "raw/52924.json",
+      "fetchedAt": "2026-09-26T17:17:19.211589+00:00"
+    },
+    {
+      "id": "53295",
+      "name": "Polish chocolate & walnut cake",
+      "cuisine": "Polish",
+      "rawFile": "raw/53295.json",
+      "fetchedAt": "2026-09-26T17:17:19.647213+00:00"
+    },
+    {
+      "id": "53195",
+      "name": "Thai curry noodle soup",
+      "cuisine": "Thai",
+      "rawFile": "raw/53195.json",
+      "fetchedAt": "2026-09-26T17:17:20.084296+00:00"
+    },
+    {
+      "id": "52906",
+      "name": "Flamiche",
+      "cuisine": "French",
+      "rawFile": "raw/52906.json",
+      "fetchedAt": "2026-09-26T17:17:20.514218+00:00"
+    },
+    {
+      "id": "53255",
+      "name": "Grilled aubergines with spicy chickpeas & walnut sauce",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53255.json",
+      "fetchedAt": "2026-09-26T17:17:20.947324+00:00"
+    },
+    {
+      "id": "53154",
+      "name": "Clam, chorizo & white bean stew",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53154.json",
+      "fetchedAt": "2026-09-26T17:17:21.380559+00:00"
+    },
+    {
+      "id": "52792",
+      "name": "Bread and Butter Pudding",
+      "cuisine": "British",
+      "rawFile": "raw/52792.json",
+      "fetchedAt": "2026-09-26T17:17:21.814801+00:00"
+    },
+    {
+      "id": "53246",
+      "name": "Tangy carrot, cabbage & onion salad",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53246.json",
+      "fetchedAt": "2026-09-26T17:17:22.232768+00:00"
+    },
+    {
+      "id": "53362",
+      "name": "Jamaican Curry Shrimp Recipe",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/53362.json",
+      "fetchedAt": "2026-09-26T17:17:22.664961+00:00"
+    },
+    {
+      "id": "52930",
+      "name": "Pate Chinois",
+      "cuisine": "Canadian",
+      "rawFile": "raw/52930.json",
+      "fetchedAt": "2026-09-26T17:17:23.096614+00:00"
+    },
+    {
+      "id": "53298",
+      "name": "Polish doughnuts (Pączki)",
+      "cuisine": "Polish",
+      "rawFile": "raw/53298.json",
+      "fetchedAt": "2026-09-26T17:17:23.531731+00:00"
+    },
+    {
+      "id": "53212",
+      "name": "Thai drumsticks",
+      "cuisine": "Thai",
+      "rawFile": "raw/53212.json",
+      "fetchedAt": "2026-09-26T17:17:23.963476+00:00"
+    },
+    {
+      "id": "52815",
+      "name": "French Lentils With Garlic and Thyme",
+      "cuisine": "French",
+      "rawFile": "raw/52815.json",
+      "fetchedAt": "2026-09-26T17:17:24.383907+00:00"
+    },
+    {
+      "id": "53258",
+      "name": "Hot cumin lamb wrap with crunchy slaw & spicy mayo",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53258.json",
+      "fetchedAt": "2026-09-26T17:17:24.813477+00:00"
+    },
+    {
+      "id": "53148",
+      "name": "Crema Catalana",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53148.json",
+      "fetchedAt": "2026-09-26T17:17:25.249071+00:00"
+    },
+    {
+      "id": "52842",
+      "name": "Broccoli & Stilton soup",
+      "cuisine": "British",
+      "rawFile": "raw/52842.json",
+      "fetchedAt": "2026-09-26T17:17:25.669099+00:00"
+    },
+    {
+      "id": "53240",
+      "name": "Tofu, greens & cashew stir-fry",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53240.json",
+      "fetchedAt": "2026-09-26T17:17:26.096612+00:00"
+    },
+    {
+      "id": "53355",
+      "name": "Jamaican Festival (Sweet Dumpling)",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/53355.json",
+      "fetchedAt": "2026-09-26T17:17:26.530023+00:00"
+    },
+    {
+      "id": "52932",
+      "name": "Pouding chomeur",
+      "cuisine": "Canadian",
+      "rawFile": "raw/52932.json",
+      "fetchedAt": "2026-09-26T17:17:26.949728+00:00"
+    },
+    {
+      "id": "53299",
+      "name": "Polish patties (kotlety)",
+      "cuisine": "Polish",
+      "rawFile": "raw/53299.json",
+      "fetchedAt": "2026-09-26T17:17:27.380064+00:00"
+    },
+    {
+      "id": "53198",
+      "name": "Thai fried rice with prawns & peas",
+      "cuisine": "Thai",
+      "rawFile": "raw/53198.json",
+      "fetchedAt": "2026-09-26T17:17:27.813386+00:00"
+    },
+    {
+      "id": "52915",
+      "name": "French Omelette",
+      "cuisine": "French",
+      "rawFile": "raw/52915.json",
+      "fetchedAt": "2026-09-26T17:17:28.246948+00:00"
+    },
+    {
+      "id": "53269",
+      "name": "Hummus",
+      "cuisine": "Turkish",
+      "rawFile": "raw/53269.json",
+      "fetchedAt": "2026-09-26T17:17:28.694796+00:00"
+    },
+    {
+      "id": "53143",
+      "name": "Easy Spanish chicken",
+      "cuisine": "Spanish",
+      "rawFile": "raw/53143.json",
+      "fetchedAt": "2026-09-26T17:17:29.106340+00:00"
+    },
+    {
+      "id": "52897",
+      "name": "Carrot Cake",
+      "cuisine": "British",
+      "rawFile": "raw/52897.json",
+      "fetchedAt": "2026-09-26T17:17:29.531708+00:00"
+    },
+    {
+      "id": "53249",
+      "name": "Turkey Bánh mì",
+      "cuisine": "Vietnamese",
+      "rawFile": "raw/53249.json",
+      "fetchedAt": "2026-09-26T17:17:29.948912+00:00"
+    },
+    {
+      "id": "53356",
+      "name": "Jamaican Fried Dumplings",
+      "cuisine": "Jamaican",
+      "rawFile": "raw/53356.json",
+      "fetchedAt": "2026-09-26T17:17:30.394420+00:00"
+    }
+  ]
+}

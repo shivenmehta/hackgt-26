@@ -92,3 +92,13 @@ The get-food script supports `<fdcId> <output-file> <display-name>` arguments.
 Twelve catalog wrappers include `nutritionFallbacks.energy` sourced from SR Legacy.
 These are labeled estimates with provenance; preserve the original Foundation
 `food.foodNutrients` and read the match notes before using fallback values.
+
+## Local meal catalog
+
+The 300-recipe MealDB catalog is in `data/mealdb/`. Read
+[data/mealdb/README.md](data/mealdb/README.md) before using dietary fields or
+enriching recipes. `npm run meals:query` searches locally; `npm run meals:build`
+rebuilds offline; `npm run test:meals` checks catalog integrity and filters.
+Use `src/lib/meals/catalog.ts` from Node/server code. Original MealDB categories
+are not reliable dietary guarantees; positive diet filters require explicit
+ingredient-screened flags. Nutrition, pricing, and servings remain unknown.

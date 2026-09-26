@@ -55,3 +55,5 @@ main().catch((error: unknown) => {
   console.error(safeMessage);
   process.exitCode = 1;
 });
+
+export {};

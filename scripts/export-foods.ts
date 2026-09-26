@@ -7,7 +7,7 @@ import {
   sqlJson,
   splitSqlBatches,
   type FoodRow,
-} from "./food-import";
+} from "./usda/food-import";
 
 async function main() {
   const root = fileURLToPath(new URL("../", import.meta.url));
