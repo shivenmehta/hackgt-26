@@ -49,7 +49,7 @@ hard limits describe ONE food at `portion_grams` (default 100 g), not a meal/day
 
 ## How it works
 
-1. `catalog.py` loads the 100 manifest-listed Foundation records. It excludes the
+1. `catalog.py` loads the 300 manifest-listed Foundation records. It excludes the
    experimental brown-rice flour file and validates record identity and paths.
 2. `extract_nutrients` reads `food.foodNutrients` using stable USDA nutrient numbers,
    names in the source, amounts, and units. Unknown values stay unknown.
@@ -98,3 +98,50 @@ Preserve raw/dry/cooked preparation states; callers must select suitable candida
 This algorithm's feature selection and ranking are engineering choices informed by
 those semantics, not a clinically validated diet recommender. KNN does not guarantee
 an adequate diet, affordable meals, suitable servings, or an optimal food combination.
+
+## Read and test the live Supabase catalog
+
+Put `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` in
+`.env.local`. Process environment variables take precedence. Python reads these
+settings directly; no dotenv or Supabase package is required.
+
+```sh
+python -m src.lib.nutrition.test_supabase
+python -m unittest discover -s tests -p "test_*.py" -v
+```
+
+For your own targets:
+
+```python
+from src.lib.nutrition.supabase_catalog import load_supabase_foods
+from src.lib.nutrition.knn import find_nearest_foods
+
+foods = load_supabase_foods()
+result = find_nearest_foods(foods, {"protein": {"amount": 15}}, k=5)
+```
+
+The loader sends only GET requests to `public.foods`, selecting `fdc_id` and
+`source_record`, ordered by FDC ID and paginated with an exact visible row count.
+Empty results, changing counts, duplicate IDs, malformed records, and HTTP failures
+are explicit errors. Credentials stay in request headers and are not logged. It
+reads all rows visible under the configured key and existing RLS policy; it cannot
+prove that hidden rows do not exist. Do not modify the catalog during a test run.
+See the [Supabase REST documentation](https://supabase.com/docs/guides/api/creating-routes).
+
+The live runner saves `test-results/supabase-foods.json` and
+`test-results/supabase-knn-report.json` locally (gitignored). It compares database
+source records with the local manifest, tests each food against its own nutrient
+vector, and checks sample macro, energy, sodium-limit, and dietary-filter queries.
+These are algorithm/data checks, not clinical validation of recommendations.
+
+Use `source_record`, not the denormalized calorie column, to preserve the existing
+KNN energy preference (958, 957, 208). The SQL importer prefers (208, 957, 958), so
+its calorie column can differ without indicating corrupt data. Estimate opt-in,
+unknown values, and all other KNN rules remain unchanged.
+
+The initial live check retrieved 300 records, with no missing/extra IDs or source
+record differences. All 300 exact self-matches passed. Native energy was available
+for 250 foods; opting into 12 estimates raised energy coverage to 262. The sample
+macro target had 241 eligible foods, and protein/fiber/low-sodium had 126. No foods
+passed an unverified vegan restriction. Flour can tie at zero for minimum protein
+and fiber targets: this is nutrient similarity, not a ready-to-eat meal suggestion.

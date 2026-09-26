@@ -111,9 +111,9 @@ class KnnTests(unittest.TestCase):
 
     def test_real_catalog_and_estimated_zero_energy(self):
         records = load_foundation_foods()
-        self.assertEqual(len(records), 100)
+        self.assertEqual(len(records), 300)
         ids = {f["food"]["fdcId"] for f in records}
-        self.assertEqual(len(ids), 100)
+        self.assertEqual(len(ids), 300)
         self.assertNotIn(1104812, ids)
         salt = next(f for f in records if f["food"]["fdcId"] == 746775)
         self.assertNotIn("energy", extract_nutrients(salt)["nutrients"])
@@ -122,10 +122,10 @@ class KnnTests(unittest.TestCase):
         self.assertEqual(estimate["energy_estimate"]["source"]["fdcId"], 173468)
         broccoli = next(f for f in records if f["food"]["fdcId"] == 747447)
         amount = extract_nutrients(broccoli)["nutrients"]["protein"]
-        result = find_nearest_foods(records, {"protein": {"amount": amount}}, k=100)
+        result = find_nearest_foods(records, {"protein": {"amount": amount}}, k=300)
         match = next(f for f in result["matches"] if f["fdc_id"] == 747447)
         self.assertEqual(match["distance"], 0)
-        self.assertEqual(result["eligible_count"] + len(result["excluded"]), 100)
+        self.assertEqual(result["eligible_count"] + len(result["excluded"]), 300)
 
     def test_loader_rejects_paths_outside_catalog(self):
         with tempfile.TemporaryDirectory() as temp:

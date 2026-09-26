@@ -35,7 +35,7 @@ Confirm event rules before reusing pre-event code in a submission.
 - Next.js 16 App Router with React 19 and strict TypeScript.
 - Chakra UI 3 with Emotion; no Tailwind installation.
 - Next.js Route Handlers for backend endpoints.
-- Supabase JavaScript and SSR packages installed; no database or auth connected yet.
+- Supabase JavaScript and SSR packages installed; Python reads the Supabase foods catalog; app auth is not connected.
 - Python 3.10+ for the standalone nutrient matcher; standard library only.
 - Node.js 24 and npm 11; use `.nvmrc` and commit `package-lock.json`.
 - ESLint with Next.js rules, Prettier, and TypeScript checks.
@@ -50,7 +50,7 @@ Open http://localhost:3000. The starter requires no credentials.
 Run `npm run lint`, `npm run typecheck`, `npm run format:check`, and
 `npm run build` for validation. After building, `npm start` serves production.
 Use `npm run format` to format files and `npm run lint:fix` for lint fixes.
-Run `python -m unittest discover -s tests -p "test_knn.py" -v` for offline nutrient-matcher tests.
+Run `python -m unittest discover -s tests -p "test_*.py" -v` for offline nutrient-matcher tests.
 For the standalone manual USDA experiment, set `USDA_API_KEY` in `.env.local`
 and run `npm run test:usda`. This calls the real API and prints food data;
 it is not an automated test or part of the application flow.
@@ -83,7 +83,7 @@ keys in client code. Supabase session refresh and authentication are not wired y
 
 ## Ingredient catalog
 
-The 100-record starter catalog is in `data/usda/foundation/`, indexed by
+The 300-record catalog is in `data/usda/foundation/`, indexed by
 `data/usda/foundation-manifest.json`. Read `data/usda/README.md` before using it.
 All catalog records are Foundation abridged responses; nutrient identifiers use
 `food.foodNutrients[].number`. Preparation states and unknown values matter.
@@ -103,3 +103,9 @@ Dietary compatibility requires caller-verified metadata; no allergy inference.
 
 Run `python -m src.lib.nutrition.example` for editable example targets. The Python
 matcher is standalone and is not called by the Next.js app.
+
+The read-only Python Supabase loader is `src/lib/nutrition/supabase_catalog.py`.
+Run `python -m src.lib.nutrition.test_supabase` with the URL and publishable key
+in `.env.local` for live checks. Food snapshots and reports go in gitignored
+`test-results/`. It reads original `source_record` nutrients, not the SQL calorie
+column; the documented energy-method preferences differ. No database writes.
