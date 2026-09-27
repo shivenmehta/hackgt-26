@@ -141,21 +141,6 @@ export default function AddressAutocomplete({
           : message ||
             "Type at least 3 characters, then select a suggestion. No full address required."}
       </p>
-      <small>
-        Suggestions use{" "}
-        <a href="https://photon.komoot.io" target="_blank" rel="noreferrer">
-          Photon
-        </a>{" "}
-        /{" "}
-        <a
-          href="https://www.openstreetmap.org/copyright"
-          target="_blank"
-          rel="noreferrer"
-        >
-          © OpenStreetMap contributors
-        </a>
-        . Typed location text is sent to this service.
-      </small>
     </div>
   );
 }

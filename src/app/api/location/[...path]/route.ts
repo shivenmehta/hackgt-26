@@ -72,6 +72,14 @@ async function proxy(
       cache: "no-store",
       signal: AbortSignal.timeout(95000),
     });
+    if (route === "suggest" && response.status === 404)
+      return Response.json(
+        {
+          error:
+            "Address autocomplete needs the updated location service. Restart npm run dev, then try again.",
+        },
+        { status: 503, headers: { "Cache-Control": "no-store" } },
+      );
     const data = await response.json();
     return Response.json(data, {
       status: response.status,
