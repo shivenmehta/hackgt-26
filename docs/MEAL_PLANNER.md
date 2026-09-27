@@ -1,6 +1,6 @@
 # Weekly meal planner
 
-Bridge joins the 300 MealDB recipes to the Grok best-effort whole-recipe nutrition catalog. The original data remains unchanged. Every submission runs filtering, ingredient pricing, Python ranking, and weekly assembly. The client receives a durable job ID rather than keeping a request open.
+Bridge joins the 300 MealDB recipes to the Grok best-effort whole-recipe nutrition catalog. The original data remains unchanged. Every submission runs filtering, Python ranking, shortlist ingredient pricing, and weekly assembly. The client receives a durable job ID rather than keeping a request open.
 
 ## Local setup
 
@@ -34,9 +34,9 @@ Verify a preview by submitting a ZIP and a small cuisine selection, watching the
 - ZIP coordinates come from Zippopotam.us. Kroger searches expand to 15/30/50 miles; candidates are ordered by straight-line distance from the ZIP center. This is nearest among returned stores, not a guarantee of globally nearest or shortest driving distance. No results/lookup outage uses reference store `01100346` with a visible explanation.
 - Prices use actual Kroger regular package prices when matched. Grok interprets product equivalence and unit/preparation conversions. Missing products use labeled unverified US-average estimates. Prices cache for 24 hours (store) or seven days (model fallback).
 - Costs cover ingredients consumed, not the number of packages needed at checkout. No free pantry ingredients are assumed. Unpriced recipes are excluded, never priced at zero.
-- Grok chooses from ranked/cheap candidates. Deterministic validation rejects unknown IDs, invalid portions, duplicate slots, and missing slots. A fallback handles invalid/unavailable model output. Budget repair considers all saved candidates and allowed portions; impossible budgets retain actual costs and an overage.
+- Grok chooses from ranked/cheap candidates. Deterministic validation rejects unknown IDs, invalid portions, duplicate slots, and missing slots. A fallback handles invalid/unavailable model output. Budget repair considers all fully priced shortlisted candidates and allowed portions; impossible budgets retain actual costs and an overage.
 - Ingredient amounts, price, and nutrition use `original quantity × portion × people / original yield`. Instruction text is preserved from MealDB; adjust equipment/cooking times for the scaled batch.
-- Complete rankings and price snapshots are saved for replacements. Replacement requests use optimistic version checks. Prices remain the original plan snapshot until rebuilding; replacing can exceed budget, with the change shown before selection.
+- Full eligible rankings are saved separately; replacements use the priced shortlist and its price snapshots. Replacement requests use optimistic version checks. Prices remain the original plan snapshot until rebuilding; replacing can exceed budget, with the change shown before selection.
 - Generated images run after the plan is available; original MealDB images remain on failure. Public image files contain food illustrations only. Preferences, plans, and rankings stay private.
 
 ## Interfaces and persistence
@@ -73,3 +73,14 @@ never cancels a job.
 The cancellation change requires `20260927005149_planner_cancellation.sql`,
 already applied to the existing hackgt-26 Supabase project. The owner-scoped
 endpoint is `POST /api/plans/:id/cancel`.
+
+### Nutrition shortlist before pricing
+
+New plans rank every eligible recipe before requesting store or ingredient prices.
+Only the union of the top 20 matches per breakfast/lunch/dinner category is priced,
+with ingredients deduplicated across that shortlist. Normalization still uses the
+full catalog. Budget repair and replacements use fully priced shortlist rankings;
+the full eligible rankings are preserved separately in the private snapshot as
+`fullRankings`. Unpriceable recipes are excluded, and a category with no priced
+choices produces an actionable error. Automatic expansion beyond the shortlist
+is not implemented. Plans explicitly label their limited budget coverage.

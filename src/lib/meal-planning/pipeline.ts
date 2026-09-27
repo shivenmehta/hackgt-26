@@ -153,7 +153,7 @@ const rankSchema = z.object({
 export async function rankStep(
   id: string,
   all: PreparedMeal[],
-  recipes: PricedMeal[],
+  recipes: PreparedMeal[],
   preferences: Preferences,
 ): Promise<Rankings> {
   "use step";
@@ -206,6 +206,7 @@ export async function assembleStep(
   store: Store,
   warnings: string[],
   weekStart: string,
+  fullRankings?: Rankings,
 ) {
   "use step";
   await updateJob(id, { stage: "Building your week" });
@@ -276,6 +277,7 @@ export async function assembleStep(
     preferences,
     recipes,
     rankings,
+    fullRankings,
     store,
     warnings,
     weekStart,
@@ -284,7 +286,7 @@ export async function assembleStep(
   const plan = buildWeeklyPlan(snapshot);
   if (plan.totalCents > preferences.budget * 100) {
     warnings.push(
-      "The lowest-cost available combination within the allowed portions exceeds your budget. Increase your budget or broaden cuisines.",
+      "The lowest-cost combination in the priced shortlist within the allowed portions exceeds your budget. Increase your budget or broaden cuisines.",
     );
     plan.warnings = warnings;
   }

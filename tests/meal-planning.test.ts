@@ -297,3 +297,44 @@ test("ingredient prices deduplicate quantities without mixing cooked and dry sta
     ingredientPriceKey({ ...a, assumptions: "cooked white rice" }),
   );
 });
+
+test("shortlist limits category leaders, deduplicates meals, and preserves full rankings", async () => {
+  const { shortlistMeals, pricedRankings } =
+    await import("../src/lib/meal-planning/shortlist");
+  const row = rank().breakfast[0];
+  const meals = Array.from({ length: 30 }, (_, i) => ({
+    ...fixture,
+    id: String(i),
+  }));
+  const rows = meals.map((m) => ({ ...row, id: m.id }));
+  const full: Rankings = {
+    breakfast: rows,
+    lunch: rows,
+    dinner: [...rows].reverse(),
+  };
+  const before = JSON.stringify(full);
+  const shortlist = shortlistMeals(meals, full, 5);
+  assert.equal(shortlist.length, 10);
+  assert.deepEqual(
+    shortlist.map((m) => m.id),
+    ["0", "1", "2", "3", "4", "25", "26", "27", "28", "29"],
+  );
+  const priced = pricedRankings(
+    full,
+    shortlist.filter((m) => m.id !== "0"),
+  );
+  assert.equal(priced.breakfast[0].id, "1");
+  assert.equal(priced.dinner[0].id, "29");
+  assert.equal(priced.breakfast[0].options.length, 7);
+  assert.equal(JSON.stringify(full), before);
+  assert.equal(
+    shortlistMeals(meals, { breakfast: rows, lunch: rows, dinner: rows })
+      .length,
+    20,
+  );
+  assert.deepEqual(pricedRankings(full, []), {
+    breakfast: [],
+    lunch: [],
+    dinner: [],
+  });
+});

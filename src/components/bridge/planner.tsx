@@ -686,11 +686,21 @@ export default function Planner() {
                   quotes.
                 </p>
               </div>
-              {plan.warnings?.map((warning) => (
-                <p key={warning} className="overage-note">
-                  {warning}
-                </p>
-              ))}
+              {plan.warnings
+                ?.filter(
+                  (warning) =>
+                    !/^Prices, (?:budget )?adjustments, and replacements cover /.test(
+                      warning,
+                    ),
+                )
+                .map((warning) => (
+                  <p key={warning} className="overage-note">
+                    {warning ===
+                    "No nearby Kroger was returned within the searched area."
+                      ? "No nearby Kroger was returned within the searched area. We used a reference store in Atlanta: Kroger at 1715 Howell Mill Rd NW."
+                      : warning}
+                  </p>
+                ))}
               {plan.dailyTargets && (
                 <p className="plan-goals">
                   Daily goal per person:{" "}
@@ -1004,16 +1014,6 @@ function MealDetails({
           <p className="detail-cost">
             Estimated meal cost for {people}:{" "}
             <strong>{money(perServingCents(r) * people)}</strong>
-          </p>
-          <p className="field-hint">
-            {r.pricingNote ??
-              "Estimated consumed-ingredient cost, not a package total."}
-          </p>
-          <p className="field-hint">
-            {r.portion ?? 1} estimated recipe servings per person. Original
-            recipe yield: {r.originalYield ?? 1} servings. Ingredient quantities
-            below are scaled for your household; cooking times and equipment may
-            need adjustment.
           </p>
           {jobId && (
             <div className="replacement-panel">

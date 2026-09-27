@@ -75,6 +75,7 @@ export interface PlanSnapshot {
   preferences: Preferences;
   recipes: PricedMeal[];
   rankings: Rankings;
+  fullRankings?: Rankings;
   store: Store;
   warnings: string[];
   weekStart: string;

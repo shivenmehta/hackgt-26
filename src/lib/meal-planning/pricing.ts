@@ -75,7 +75,8 @@ export async function findStore(zip: string): Promise<Store> {
     id: "01100346",
     name: "Kroger · 1715 Howell Mill Rd NW",
     reference: true,
-    reason: "No nearby Kroger was returned within the searched area.",
+    reason:
+      "No nearby Kroger was returned within the searched area. We used a reference store in Atlanta: Kroger at 1715 Howell Mill Rd NW.",
   };
   try {
     let center = await cacheGet<{ latitude: number; longitude: number }>(
