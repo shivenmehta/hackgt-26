@@ -45,7 +45,7 @@ Verify a preview by submitting a ZIP and a small cuisine selection, watching the
 
 The Python `POST /rank` contract is schema version 1: full per-serving catalog, eligible IDs/categories, and daily targets. It returns category rankings, portion alternatives, nutrient deviations, and normalization scales. The module has no external I/O.
 
-Supabase `planner_jobs`, `planner_cache`, and `planner_limits` use RLS with no client-role grants. Server routes validate a signed HttpOnly cookie and owner hash before any plan access. Shared metadata/prices contain no personal preferences. Atomic admission enforces idempotency and limits new jobs to five per owner/IP per hour and 30 globally per hour; only one recent active job per owner is allowed. Image storage is public-read, server-write only.
+Supabase `planner_jobs`, `planner_cache`, and `planner_limits` use RLS with no client-role grants. Server routes validate a signed HttpOnly cookie and owner hash before any plan access. Shared metadata/prices contain no personal preferences. Atomic admission enforces idempotency and allows only one recent active job per owner. Hourly owner/IP/global caps have been removed; the legacy planner_limits table is unused. Image storage is public-read, server-write only.
 
 The security advisor's three “RLS enabled, no policy” informational findings are intentional for these server-only tables. Expired cache rows are ignored; periodically remove expired cache entries and old jobs according to your retention policy. Clearing the browser cookie loses access to anonymous plans. Do not log request bodies, private keys, or provider authorization headers.
 

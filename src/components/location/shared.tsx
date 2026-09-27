@@ -28,6 +28,7 @@ export function CommunityShell({ children }: { children: ReactNode }) {
           <nav aria-label="Main navigation">
             <Link href="/">Weekly planner</Link>
             <Link href="/community">Community</Link>
+            <Link href="/mission">Our mission</Link>
           </nav>
         </div>
       </header>

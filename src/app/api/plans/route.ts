@@ -91,7 +91,7 @@ export async function POST(request: NextRequest) {
     }
     if (error)
       throw new Error(
-        /rate limit|already running|Idempotency/.test(error.message)
+        /already running|Idempotency/.test(error.message)
           ? error.message
           : "Planner storage is unavailable. Apply the planner migration.",
       );

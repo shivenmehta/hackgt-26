@@ -343,6 +343,7 @@ export default function Planner() {
             >
               Community
             </button>
+            <Link href="/mission">Our mission</Link>
           </nav>
           <span className="header-note">
             <span /> A little more within reach
