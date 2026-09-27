@@ -13,6 +13,7 @@ from urllib.parse import urlsplit, parse_qs, unquote
 
 from .events import DEFAULT_EVENTS_DB, create_event, cancel_event, get_event, geocode_address
 from .nearby import search_sources
+from .autocomplete import suggest_addresses
 from .deduplicate import reconcile_locations
 from .overpass import validate_search
 
@@ -100,7 +101,7 @@ class Handler(BaseHTTPRequestHandler):
         if not TOKEN or not hmac.compare_digest(self.headers.get("Authorization", ""), "Bearer " + TOKEN):
             self.respond(401, {"error": "Unauthorized service request."})
             return
-        if limited("write" if write else "read") or not SLOTS.acquire(blocking=False):
+        if limited("write" if write and urlsplit(self.path).path != "/suggest" else "read") or not SLOTS.acquire(blocking=False):
             self.respond(429, {"error": "Too many requests. Please wait a minute and retry."})
             return
         try:
@@ -120,6 +121,8 @@ class Handler(BaseHTTPRequestHandler):
                 self.respond(200, {"status": "ok"})
             elif not write and path == "/nearby":
                 self.respond(200, nearby(query))
+            elif write and path == "/suggest":
+                self.respond(200, {"candidates": suggest_addresses(body.get("query"))})
             elif write and path == "/geocode":
                 self.respond(200, {"candidates": geocode_address(body.get("address"))})
             elif write and path == "/events":

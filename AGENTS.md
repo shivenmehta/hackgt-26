@@ -269,3 +269,5 @@ Supabase planner tables are private/server-only. Keep all provider tokens,
 Node I/O into workflow bodies: wrap I/O in `use step` functions. Ignore generated
 `src/app/.well-known/workflow/` files. Test with `npm run test:meal-planning`,
 `npm run test:ranker`, and `npm run test:bridge` plus lint/typecheck/build.
+
+Community location search uses `address-autocomplete.tsx` and the `/suggest` proxy endpoint backed by `autocomplete.py` (Photon/OSM). Preserve debounce, stale-response protection, attribution, and selection invalidation. Host address confirmation remains Census-based. Configure `LOCATION_AUTOCOMPLETE_URL` for a private Photon endpoint at higher traffic.

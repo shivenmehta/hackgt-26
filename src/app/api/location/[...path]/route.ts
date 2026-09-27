@@ -16,7 +16,7 @@ async function proxy(
   }
   const route = path.join("/");
   const allowed =
-    /^(nearby|geocode|events|events\/community_event:[a-f0-9-]+(?:\/cancel)?)$/.test(
+    /^(nearby|geocode|suggest|events|events\/community_event:[a-f0-9-]+(?:\/cancel)?)$/.test(
       route,
     );
   if (!allowed) return Response.json({ error: "Not found." }, { status: 404 });

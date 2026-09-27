@@ -589,3 +589,21 @@ on 8766, using a unique event database in gitignored `test-results/`. They test 
 event API writes/cancellation and use deterministic external-provider fixtures for
 failure/coverage UI cases. Install Chrome for the default browser channel, or set `PLAYWRIGHT_CHANNEL=msedge` to use installed Microsoft Edge.
 Screenshots and traces are written to gitignored test output, never public assets.
+
+### Community location autocomplete
+
+The Community search field suggests US addresses, streets and cities after three
+characters and a 450 ms pause. Select a suggestion with a click or Arrow keys +
+Enter to set the map/search coordinates; editing the text invalidates the previous
+selection. Escape dismisses the menu. Geolocation and manual map pins remain available.
+The separate host address-confirmation form still uses the Census lookup.
+
+`POST /api/location/suggest` accepts `{ "query": "partial address" }`. The server
+uses [Photon](https://github.com/komoot/photon), a search-as-you-type geocoder using
+OSM data. No key is required for the default public demo endpoint. Requests are
+debounced, stale responses ignored, and up to 128 queries cached in memory for
+five minutes. Suggestions use the service's read-request quota rather than its
+event-write quota. Typed text is sent to Photon; the UI discloses this and attribution.
+Coverage is not address validation. For higher traffic, configure
+`LOCATION_AUTOCOMPLETE_URL` with a hosted/private Photon-compatible `/api/` endpoint;
+the public demo has usage limits and no availability guarantee.

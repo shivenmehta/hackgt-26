@@ -453,3 +453,42 @@
   font-size: 15px;
   text-decoration: none;
 }
+
+.address-autocomplete {
+  position: relative;
+  width: 100%;
+}
+.address-autocomplete > label {
+  margin-bottom: 6px;
+}
+.address-autocomplete > small {
+  color: #56665e;
+  font-size: 12px;
+}
+.address-autocomplete ul {
+  position: absolute;
+  top: 72px;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  padding: 4px;
+  margin: 0;
+  list-style: none;
+  background: white;
+  border: 1px solid #bccac0;
+  border-radius: 8px;
+  box-shadow: 0 8px 20px #173b6720;
+  max-height: 280px;
+  overflow-y: auto;
+}
+.address-autocomplete [role="option"] {
+  padding: 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  overflow-wrap: anywhere;
+}
+.address-autocomplete [role="option"]:hover,
+.address-autocomplete [aria-selected="true"] {
+  background: #edf5ee;
+  color: #173b67;
+}
