@@ -2,6 +2,7 @@
 import Link from "next/link";
 import dynamic from "next/dynamic";
 import { useState, type ReactNode } from "react";
+import { BridgeMark } from "@/components/bridge/food-art";
 import {
   api,
   eventTime,
@@ -22,8 +23,9 @@ export function CommunityShell({ children }: { children: ReactNode }) {
       </a>
       <header className="site-header">
         <div className="header-inner">
-          <Link href="/" className="brand">
-            bridge.
+          <Link href="/" className="brand" aria-label="Bridge home">
+            <BridgeMark />
+            bridge<span className="brand-period">.</span>
           </Link>
           <nav aria-label="Main navigation">
             <Link href="/">Weekly planner</Link>

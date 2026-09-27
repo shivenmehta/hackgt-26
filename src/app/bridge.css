@@ -97,6 +97,11 @@ body {
   text-decoration: none;
   letter-spacing: -2px;
 }
+.brand svg {
+  flex-shrink: 0;
+  overflow: visible;
+  display: block;
+}
 .brand-period {
   color: var(--bridge-green);
   margin-left: -8px;

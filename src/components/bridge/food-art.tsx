@@ -103,13 +103,34 @@ export function FoodArt({
 }
 export function BridgeMark() {
   return (
-    <svg viewBox="0 0 40 32" width="37" height="30" aria-hidden="true">
-      <circle cx="29" cy="8" r="6" fill="#F4CE62" />
+    <svg
+      viewBox="0 0 48 40"
+      width="42"
+      height="35"
+      aria-hidden="true"
+      overflow="visible"
+    >
+      <circle cx="36" cy="11" r="6.5" fill="#F4CE62" />
       <path
-        d="M4 27V15a16 16 0 0 1 32 0v12M4 16h32M12 16v11m8-11v11m8-11v11"
+        d="M6 34V21C6 11.5 14.5 6 24 6s18 5.5 18 15v13"
         fill="none"
         stroke="currentColor"
-        strokeWidth="3"
+        strokeWidth="2.6"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M6 21.5h36M14 21.5v11M24 21.5v11M34 21.5v11"
+        fill="none"
+        stroke="currentColor"
+        strokeWidth="2.4"
+        strokeLinecap="round"
+      />
+      <path
+        d="M19 27.5c.5 4 9.5 4 10 0"
+        fill="none"
+        stroke="#237547"
+        strokeWidth="2.2"
         strokeLinecap="round"
       />
     </svg>
