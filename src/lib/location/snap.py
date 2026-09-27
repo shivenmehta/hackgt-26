@@ -1,4 +1,5 @@
 """Import USDA's CURRENT retailer CSV; query nearby SNAP retailers offline."""
+import os
 import argparse
 import csv
 import hashlib
@@ -11,7 +12,7 @@ from pathlib import Path
 
 from .overpass import PROJECT_ROOT, distance_meters, validate_search
 
-DEFAULT_SNAP_DB = PROJECT_ROOT / "test-results/snap-retailers.sqlite3"
+DEFAULT_SNAP_DB = Path(os.environ.get("LOCATION_SNAP_DB", PROJECT_ROOT / "test-results/snap-retailers.sqlite3"))
 SOURCE_URL = "https://www.fna.usda.gov/snap/retailer-locator"
 CSV_URL = "https://hub.arcgis.com/api/download/v1/items/8b260f9a10b0459aa441ad8588c2251c/csv?layers=0"
 

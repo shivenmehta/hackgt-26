@@ -1,3 +1,4 @@
+import { ingredientPriceKey } from "./types";
 import type { WeeklyPlan, Recipe } from "../planner";
 import { dailyTargets, categories } from "./validation";
 import {
@@ -149,6 +150,8 @@ export function buildWeeklyPlan(snapshot: PlanSnapshot): WeeklyPlan {
           originalYield: r.yield,
           ingredients: r.ingredients.map((i, index) => ({
             name: i.name,
+            groceryKey: ingredientPriceKey(i),
+            preparation: i.assumptions,
             grams: i.grams * ratio,
             costCents: i.grams * ratio * r.prices[index].centsPerGram,
           })),

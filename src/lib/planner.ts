@@ -143,6 +143,8 @@ export function parsePreferences(d: PreferenceDraft): Preferences {
   };
 }
 export interface Ingredient {
+  groceryKey?: string;
+  preparation?: string;
   name: string;
   grams: number;
   costCents: number;

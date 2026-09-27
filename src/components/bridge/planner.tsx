@@ -2,6 +2,7 @@
 import { useEffect, useRef, useState, type FormEvent } from "react";
 import { Button } from "@chakra-ui/react";
 import Link from "next/link";
+import GroceryList from "./grocery-list";
 import Community from "@/components/location/community";
 import {
   ALLERGENS,
@@ -674,9 +675,12 @@ export default function Planner() {
                     {plan.preferences.location}
                   </p>
                 </div>
-                <Button unstyled className="secondary-button" onClick={edit}>
-                  Edit preferences
-                </Button>
+                <div className="grocery-tools">
+                  <GroceryList key={jobId ?? plan.days[0]?.date} plan={plan} />
+                  <Button unstyled className="secondary-button" onClick={edit}>
+                    Edit preferences
+                  </Button>
+                </div>
               </div>
               <div className="demo-banner">
                 <span className="demo-tag">Estimated plan</span>

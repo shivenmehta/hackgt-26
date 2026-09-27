@@ -607,3 +607,17 @@ event-write quota. Typed text is sent to Photon; the UI discloses this and attri
 Coverage is not address validation. For higher traffic, configure
 `LOCATION_AUTOCOMPLETE_URL` with a hosted/private Photon-compatible `/api/` endpoint;
 the public demo has usage limits and no availability guarantee.
+
+
+### Vercel hosting
+
+A FastAPI adapter now lives in `services/community/app.py`. Run
+`python3 scripts/prepare-community-deploy.py` before deploying that directory.
+Set `LOCATION_EVENTS_BACKEND=supabase`, the server Supabase key/URL, and
+`LOCATION_SERVICE_TOKEN`. Apply the Community storage migration for new databases.
+This uses durable private event records with atomic retry handling and hashed
+cancellation capabilities; local SQLite remains the development default.
+Set `LOCATION_CACHE_PATH=/tmp/bridge-osm.sqlite3` for disposable provider caching.
+Set `LOCATION_SNAP_DB=snap-retailers.sqlite3` if a public snapshot is bundled.
+A missing SNAP dataset is reported as unavailable, not replaced with invented data.
+See `docs/MEAL_PLANNER.md` for deployment commands and production URLs.

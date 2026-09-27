@@ -236,3 +236,47 @@ test("blocked submissions expose resume and cancel controls for the existing job
   ).toBeEnabled();
   await expect(page.locator(".planner-error")).toHaveCount(0);
 });
+
+test("grocery list supports pantry checks, export, and keyboard dismissal on mobile", async ({
+  page,
+}) => {
+  await mockPlanner(page);
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/");
+  await page.getByRole("button", { name: "Use example preferences" }).click();
+  await page.getByRole("button", { name: "Build my week" }).click();
+  const trigger = page.getByRole("button", {
+    name: "Grocery list",
+    exact: true,
+  });
+  await trigger.click();
+  const dialog = page.getByRole("dialog", { name: "Your weekly grocery list" });
+  await expect(dialog).toBeVisible();
+  await dialog
+    .getByRole("checkbox", { name: /Already have this/ })
+    .first()
+    .check();
+  await expect(
+    dialog.getByRole("checkbox", { name: /Already have this/ }).first(),
+  ).toBeChecked();
+  const download = page.waitForEvent("download");
+  await dialog.getByRole("button", { name: "Download list" }).click();
+  expect((await download).suggestedFilename()).toBe("bridge-grocery-list.txt");
+  await page.screenshot({
+    path: "test-results/playwright-bridge/grocery-mobile.png",
+  });
+  expect(
+    await dialog.evaluate((node) => node.scrollWidth <= node.clientWidth),
+  ).toBe(true);
+  await page.keyboard.press("Escape");
+  await expect(dialog).not.toBeVisible();
+  await expect(trigger).toBeFocused();
+  await page.setViewportSize({ width: 1440, height: 1000 });
+  await trigger.click();
+  await expect(
+    dialog.getByRole("checkbox", { name: /Already have this/ }).first(),
+  ).toBeChecked();
+  await page.screenshot({
+    path: "test-results/playwright-bridge/grocery-desktop.png",
+  });
+});

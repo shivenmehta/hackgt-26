@@ -1,4 +1,5 @@
 """Nearby food access from OpenStreetMap. Standard library; no API key."""
+import os
 import hashlib
 import json
 import math
@@ -12,7 +13,7 @@ from urllib.request import Request, urlopen
 
 ENDPOINT = "https://overpass-api.de/api/interpreter"
 PROJECT_ROOT = Path(__file__).resolve().parents[3]
-DEFAULT_CACHE = PROJECT_ROOT / "test-results/osm-cache.sqlite3"
+DEFAULT_CACHE = Path(os.environ.get("LOCATION_CACHE_PATH", PROJECT_ROOT / "test-results/osm-cache.sqlite3"))
 ATTRIBUTION = "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright"
 SHOP_TYPES = {"supermarket", "grocery", "convenience"}
 ASSISTANCE_TYPES = {"food_bank", "soup_kitchen"}

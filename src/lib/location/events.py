@@ -11,6 +11,7 @@ import uuid
 from urllib.parse import urlencode
 from urllib.request import urlopen
 
+from . import hosted_events
 from .overpass import PROJECT_ROOT, distance_meters, validate_search
 
 DEFAULT_EVENTS_DB = PROJECT_ROOT / ".local/community-events.sqlite3"
@@ -95,6 +96,10 @@ def create_event(data, *, db_path=DEFAULT_EVENTS_DB, now=None, request_id=None):
         request_hash = hashlib.sha256(request_id.encode()).hexdigest()
     token = hashlib.sha256(("event-cancel:" + request_id).encode()).hexdigest() if request_id else secrets.token_urlsafe(32)
     body_hash = hashlib.sha256(json.dumps(data, sort_keys=True, allow_nan=False).encode()).hexdigest()
+    if hosted_events.enabled():
+        stored = hosted_events.create(event, start.timestamp(), end.timestamp(),
+            hashlib.sha256(token.encode()).hexdigest(), request_hash, body_hash)
+        return {"event": stored, "edit_token": token}
     connection = _connect(db_path)
     try:
         with connection:
@@ -121,6 +126,9 @@ def cancel_event(event_id, edit_token, *, db_path=DEFAULT_EVENTS_DB):
     """Idempotent cancellation with an unguessable capability; no unauthenticated edit."""
     if not isinstance(edit_token, str) or not edit_token:
         raise ValueError("A valid private edit token is required.")
+    if hosted_events.enabled():
+        hosted_events.cancel(event_id, hashlib.sha256(edit_token.encode()).hexdigest())
+        return
     connection = _connect(db_path)
     try:
         with connection:
@@ -149,19 +157,22 @@ def search_events(latitude, longitude, radius_m=5000, *, db_path=DEFAULT_EVENTS_
               "until": until.isoformat(), "window_hours": window_hours},
               "event_limitations": ["Community giveaways are host-reported; food availability and hosts are not verified.",
                                     "Event time filters apply only to community events, not external provider hours."]}
-    path = Path(db_path)
-    if not path.exists():
-        return result
-    try:
-        connection = sqlite3.connect(path.resolve().as_uri() + "?mode=ro", uri=True)
+    if hosted_events.enabled():
+        rows = hosted_events.search(current.timestamp(), until.timestamp(), window_hours == 0)
+    else:
+        path = Path(db_path)
+        if not path.exists():
+            return result
         try:
-            operator = "<=" if window_hours == 0 else "<"
-            rows = connection.execute(f"SELECT payload FROM community_events WHERE cancelled=0 AND ends>? AND starts{operator}?",
-                                      (current.timestamp(), until.timestamp())).fetchall()
-        finally:
-            connection.close()
-    except sqlite3.Error as error:
-        raise RuntimeError(f"Community event database could not be read: {error}") from error
+            connection = sqlite3.connect(path.resolve().as_uri() + "?mode=ro", uri=True)
+            try:
+                operator = "<=" if window_hours == 0 else "<"
+                rows = connection.execute(f"SELECT payload FROM community_events WHERE cancelled=0 AND ends>? AND starts{operator}?",
+                                          (current.timestamp(), until.timestamp())).fetchall()
+            finally:
+                connection.close()
+        except sqlite3.Error as error:
+            raise RuntimeError(f"Community event database could not be read: {error}") from error
     for (payload,) in rows:
         event = json.loads(payload)
         distance = distance_meters(latitude, longitude, event["latitude"], event["longitude"])
@@ -199,14 +210,17 @@ def geocode_address(address):
 
 def get_event(event_id, *, db_path=DEFAULT_EVENTS_DB, now=None):
     """Public details remain readable after cancellation/expiration; no token fields."""
-    path = Path(db_path)
-    if not path.exists():
-        return None
-    connection = sqlite3.connect(path.resolve().as_uri() + "?mode=ro", uri=True)
-    try:
-        row = connection.execute("SELECT payload, cancelled FROM community_events WHERE id=?", (event_id,)).fetchone()
-    finally:
-        connection.close()
+    if hosted_events.enabled():
+        row = hosted_events.get(event_id)
+    else:
+        path = Path(db_path)
+        if not path.exists():
+            return None
+        connection = sqlite3.connect(path.resolve().as_uri() + "?mode=ro", uri=True)
+        try:
+            row = connection.execute("SELECT payload, cancelled FROM community_events WHERE id=?", (event_id,)).fetchone()
+        finally:
+            connection.close()
     if not row:
         return None
     event = json.loads(row[0])

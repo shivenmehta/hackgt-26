@@ -338,3 +338,115 @@ test("shortlist limits category leaders, deduplicates meals, and preserves full 
     dinner: [],
   });
 });
+
+test("groceries aggregate repeated slots and household portions while keeping preparations separate", async () => {
+  const { groceryList, groceryText } = await import("../src/lib/groceries");
+  const plan = buildWeeklyPlan(snapshot());
+  const first = plan.days[0].meals[0];
+  first.recipe.ingredients = [
+    { name: "Rice", grams: 100, costCents: 40, groceryKey: "rice:dry" },
+    { name: "Rice", grams: 200, costCents: 50, groceryKey: "rice:cooked" },
+  ];
+  plan.preferences.people = 2;
+  plan.days = [
+    { date: "2026-09-21", meals: [first, { ...first, id: "repeat" }] },
+  ];
+  const items = groceryList(plan);
+  assert.equal(items.length, 2);
+  assert.equal(items.find((i) => i.key === "rice:dry")!.grams, 400);
+  assert.equal(items.find((i) => i.key === "rice:cooked")!.grams, 800);
+  assert.equal(items.find((i) => i.key === "rice:dry")!.costCents, 160);
+  assert.equal(items[0].meals.length, 1);
+  assert.match(groceryText(items, new Set(["rice:dry"])), /\[x\] Rice/);
+  plan.days[0].meals.pop();
+  assert.equal(groceryList(plan).find((i) => i.key === "rice:dry")!.grams, 200);
+});
+
+test("grocery list consolidates legacy cross-recipe duplicates and name variants", async () => {
+  const { groceryList } = await import("../src/lib/groceries");
+  const plan = buildWeeklyPlan(snapshot());
+  const meal = plan.days[0].meals[0];
+  plan.preferences.people = 2;
+  plan.days = [
+    {
+      date: "2026-09-21",
+      meals: [
+        {
+          ...meal,
+          recipe: {
+            ...meal.recipe,
+            id: "a",
+            name: "Meal A",
+            assumptions: [],
+            ingredients: [{ name: " Onions ", grams: 100, costCents: 20 }],
+          },
+        },
+        {
+          ...meal,
+          recipe: {
+            ...meal.recipe,
+            id: "b",
+            name: "Meal B",
+            assumptions: [],
+            ingredients: [{ name: "onion", grams: 50, costCents: 15 }],
+          },
+        },
+      ],
+    },
+  ];
+  const items = groceryList(plan);
+  assert.equal(items.length, 1);
+  assert.equal(items[0].grams, 300);
+  assert.equal(items[0].costCents, 70);
+  assert.deepEqual(items[0].meals, ["Meal A", "Meal B"]);
+});
+
+test("pantry staples exclude basics without hiding produce or specialty ingredients", async () => {
+  const { isPantryStaple } = await import("../src/lib/groceries");
+  for (const name of [
+    "Salt",
+    " Sugar ",
+    "Black pepper",
+    "Extra-virgin olive oil",
+    "Lime juice",
+    "Water",
+  ])
+    assert.equal(isPantryStaple(name), true, name);
+  for (const name of [
+    "Bell pepper",
+    "Lime",
+    "Lemon",
+    "Chili oil",
+    "Sugar snap peas",
+    "Chicken",
+  ])
+    assert.equal(isPantryStaple(name), false, name);
+});
+
+test("essentials shopping hides flavorings but retains main ingredients", async () => {
+  const { isGroceryExtra } = await import("../src/lib/groceries");
+  for (const name of [
+    "Soy sauce",
+    "Oyster sauce",
+    "Garam masala",
+    "Fresh cilantro",
+    "Chicken stock",
+    "Baking powder",
+    "Vinegar",
+  ])
+    assert.equal(isGroceryExtra(name), true, name);
+  for (const name of [
+    "Chicken breast",
+    "Tofu",
+    "Rice",
+    "Black beans",
+    "Bell pepper",
+    "Garlic",
+    "Onion",
+    "Milk",
+    "Tomatoes",
+    "Coconut milk",
+    "Egg",
+  ])
+    assert.equal(isGroceryExtra(name), false, name);
+});

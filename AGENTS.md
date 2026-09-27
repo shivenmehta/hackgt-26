@@ -271,3 +271,13 @@ Node I/O into workflow bodies: wrap I/O in `use step` functions. Ignore generate
 `npm run test:ranker`, and `npm run test:bridge` plus lint/typecheck/build.
 
 Community location search uses `address-autocomplete.tsx` and the `/suggest` proxy endpoint backed by `autocomplete.py` (Photon/OSM). Preserve debounce, stale-response protection, attribution, and selection invalidation. Host address confirmation remains Census-based. Configure `LOCATION_AUTOCOMPLETE_URL` for a private Photon endpoint at higher traffic.
+
+
+## Hosted Community deployment
+
+Community can now use Supabase event persistence when
+`LOCATION_EVENTS_BACKEND=supabase`. Local SQLite remains the default.
+`services/community/app.py` is the authenticated Vercel FastAPI adapter;
+`scripts/prepare-community-deploy.py` stages its Python modules before deployment.
+Never upload `.local/` events, environment files, or management capabilities.
+See `docs/MEAL_PLANNER.md` for all three production projects and redeploy commands.
