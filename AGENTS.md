@@ -250,3 +250,5 @@ Browser output directories must stay under `test-results/playwright-bridge` and
 `test-results/playwright-location`, never the whole `test-results` directory:
 Playwright clears its output directory, while sibling files include SNAP data and
 provider snapshots. Event test databases are isolated from `.local` host posts.
+
+Community location search uses `address-autocomplete.tsx` and the `/suggest` proxy endpoint backed by `autocomplete.py` (Photon/OSM). Preserve debounce, stale-response protection, attribution, and selection invalidation. Host address confirmation remains Census-based. Configure `LOCATION_AUTOCOMPLETE_URL` for a private Photon endpoint at higher traffic.

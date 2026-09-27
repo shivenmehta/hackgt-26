@@ -7,7 +7,9 @@ import {
   type Pin,
   type SearchResult,
 } from "@/lib/location/client";
-import { AddressLookup, Map, PlaceDetails } from "./shared";
+import { Map, PlaceDetails } from "./shared";
+
+import AddressAutocomplete from "./address-autocomplete";
 
 const sourceLabels: Record<string, string> = {
   osm: "OpenStreetMap",
@@ -182,7 +184,16 @@ export default function Community() {
         </Link>
       </div>
       <form className="location-search" onSubmit={submit}>
-        <AddressLookup onChoose={choosePin} />
+        <AddressAutocomplete
+          onChoose={choosePin}
+          onEdit={() => {
+            setPinChosen(false);
+            setResult(null);
+            setQuery("");
+            setBusy(false);
+            setSelected(undefined);
+          }}
+        />
         <div className="location-toolbar">
           <button
             type="button"

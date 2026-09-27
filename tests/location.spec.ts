@@ -111,7 +111,7 @@ test("mobile search, unavailable geolocation, partial sources, map/list and miss
       value: { getCurrentPosition: (_ok: unknown, fail: () => void) => fail() },
     }),
   );
-  await page.route("**/api/location/geocode", (route) =>
+  await page.route("**/api/location/suggest", (route) =>
     route.fulfill({
       json: {
         candidates: [
@@ -150,10 +150,9 @@ test("mobile search, unavailable geolocation, partial sources, map/list and miss
     "Location permission was unavailable",
   );
   await page
-    .getByLabel("Find a US street address")
+    .getByRole("combobox", { name: "Address or place" })
     .fill("10 Test Street, Chicago");
-  await page.getByRole("button", { name: "Find address", exact: true }).click();
-  await page.getByRole("button", { name: "Use Test Chicago venue" }).click();
+  await page.getByRole("option", { name: "Test Chicago venue" }).click();
   await page
     .getByRole("button", { name: "Search nearby", exact: true })
     .click();
@@ -229,4 +228,90 @@ test("past events expire from the visible list without another search", async ({
   await expect(
     page.getByRole("heading", { name: "0 nearby options" }),
   ).toBeVisible();
+});
+
+test("autocomplete keyboard selection and editing invalidates the previous location", async ({
+  page,
+}) => {
+  const requests: string[] = [];
+  await page.route("**/api/location/suggest", (route) => {
+    requests.push(route.request().postDataJSON().query);
+    return route.fulfill({
+      json: {
+        candidates: [
+          {
+            address: "Peachtree Street, Atlanta, Georgia",
+            latitude: 33.7747,
+            longitude: -84.3847,
+          },
+          {
+            address: "Peachtree Road, Atlanta, Georgia",
+            latitude: 33.82,
+            longitude: -84.36,
+          },
+        ],
+      },
+    });
+  });
+  await page.goto("/community");
+  const input = page.getByRole("combobox", { name: "Address or place" });
+  await input.fill("Peachtree Atl");
+  await expect(
+    page
+      .getByRole("listbox", { name: "Location suggestions" })
+      .getByRole("option"),
+  ).toHaveCount(2);
+  expect(requests).toEqual(["Peachtree Atl"]);
+  await input.press("ArrowDown");
+  await input.press("Enter");
+  await expect(input).toHaveValue("Peachtree Street, Atlanta, Georgia");
+  await expect(page.getByText(/Selected pin: 33.77470/)).toBeVisible();
+  await expect(
+    page
+      .getByRole("listbox", { name: "Location suggestions" })
+      .getByRole("option"),
+  ).toHaveCount(0);
+  await input.fill("new location");
+  await page
+    .getByRole("button", { name: "Search nearby", exact: true })
+    .click();
+  await expect(page.locator(".location-error[role=alert]")).toContainText(
+    "Choose your location",
+  );
+});
+
+test("autocomplete ignores a late response and supports Escape", async ({
+  page,
+}) => {
+  let release: () => void = () => {};
+  const gate = new Promise<void>((resolve) => {
+    release = resolve;
+  });
+  let started = false;
+  await page.route("**/api/location/suggest", async (route) => {
+    const query = route.request().postDataJSON().query;
+    if (query === "Old address") {
+      started = true;
+      await gate;
+    }
+    await route
+      .fulfill({
+        json: {
+          candidates: [{ address: query, latitude: 33, longitude: -84 }],
+        },
+      })
+      .catch(() => {});
+  });
+  await page.goto("/community");
+  const input = page.getByRole("combobox", { name: "Address or place" });
+  await input.fill("Old address");
+  await expect.poll(() => started).toBe(true);
+  await input.fill("New address");
+  await expect(page.getByRole("option", { name: "New address" })).toBeVisible();
+  release();
+  await expect(page.getByRole("option", { name: "Old address" })).toHaveCount(
+    0,
+  );
+  await input.press("Escape");
+  await expect(input).toHaveAttribute("aria-expanded", "false");
 });
