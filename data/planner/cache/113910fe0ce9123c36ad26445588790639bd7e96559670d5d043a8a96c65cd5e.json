@@ -1,0 +1,165 @@
+{
+  "id": "53238",
+  "name": "Beef pho",
+  "cuisine": "Vietnamese",
+  "fingerprint": "113910fe0ce9123c36ad26445588790639bd7e96559670d5d043a8a96c65cd5e",
+  "yield": 2,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe instructions indicate it serves two people (noodles and toppings split between two bowls); yield set to 2.",
+    "Total time estimated from sequential and parallel steps: charring ~5 min, toasting ~3 min, simmering 30 min, freezing steak 15 min, boiling stock, cooking noodles per package (~5-10 min assumed), assembly; overall ~60 min.",
+    "Soy sauce presence makes Gluten-free ambiguous (many contain wheat); set to null.",
+    "Wheat presence ambiguous due to soy sauce; set to null.",
+    "No milk, eggs, shellfish, tree nuts, peanuts or sesame listed; all set to false.",
+    "Fish allergen triggered by fish sauce."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nTip the beef stock along with 500ml of water into a large saucepan. Sit the onion and ginger in a frying pan over a high heat and char on all sides, around 3-5 mins (you can also do this under your grill). Once charred, add to the beef stock. In the same pan, toast the spices for 2-3 mins and once they begin to smell fragrant, add them to the beef stock as well. Bring the stock to the boil, then turn to a simmer and cook for 30mins before straining.\r\n\r\nstep 2\r\nMeanwhile, cut the fat from the steak and wrap in cling film, then put into the freezer for 15 mins – this will make your steak really easy to slice! Slice it thinly, then cover with cling film again and pop into the fridge.\r\n\r\nstep 3\r\nTaste the beef stock and use the palm sugar, fish sauce and soy to season. Cook the noodles according to package instructions and split between two bowls, topping each with the sliced beef. Bring the stock to the boil and then pour into the bowls (the heat will cook the beef). Top each with the spring onions, chilli slices and herbs. Serve with the lime wedges to squeeze over.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef Stock",
+      "measurement": "1 L",
+      "grams": 1000,
+      "assumptions": "Standard beef stock/broth values; 1L assumed to weigh ~1000g."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 large",
+      "grams": 150,
+      "assumptions": "1 large onion ~150g raw; typical yellow onion nutrition."
+    },
+    {
+      "position": 3,
+      "name": "Ginger",
+      "measurement": "1 Large Chopped",
+      "grams": 50,
+      "assumptions": "1 large ginger root ~50-60g; values for raw ginger."
+    },
+    {
+      "position": 4,
+      "name": "Cinnamon Stick",
+      "measurement": "1",
+      "grams": 3,
+      "assumptions": "1 standard cinnamon stick ~3g; whole spice nutrition."
+    },
+    {
+      "position": 5,
+      "name": "Star Anise",
+      "measurement": "2",
+      "grams": 10,
+      "assumptions": "2 whole star anise pods ~5g each; typical dried spice values."
+    },
+    {
+      "position": 6,
+      "name": "Coriander Seeds",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp coriander seeds ~2g; whole dried spice."
+    },
+    {
+      "position": 7,
+      "name": "Cloves",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "½ tsp whole cloves ~1g; whole dried spice values."
+    },
+    {
+      "position": 8,
+      "name": "Sirloin steak",
+      "measurement": "225g",
+      "grams": 225,
+      "assumptions": "Raw sirloin steak; lean beef values used as fat is trimmed per instructions."
+    },
+    {
+      "position": 9,
+      "name": "Palm Sugar",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "1 tsp palm sugar ~4g; typical sugar nutrition."
+    },
+    {
+      "position": 10,
+      "name": "Fish Sauce",
+      "measurement": "1 tablespoon",
+      "grams": 18,
+      "assumptions": "1 tbsp fish sauce ~18g; standard liquid values."
+    },
+    {
+      "position": 11,
+      "name": "Soy Sauce",
+      "measurement": "1 ½ tbsp",
+      "grams": 22,
+      "assumptions": "1½ tbsp soy sauce ~22g; typical fermented soy values."
+    },
+    {
+      "position": 12,
+      "name": "Rice Noodles",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Dry rice noodles; standard uncooked values as cooked per package."
+    },
+    {
+      "position": 13,
+      "name": "Spring Onions",
+      "measurement": "2 sliced",
+      "grams": 30,
+      "assumptions": "2 spring onions ~30g total; raw sliced."
+    },
+    {
+      "position": 14,
+      "name": "Birds-eye Chillies",
+      "measurement": "1 small",
+      "grams": 5,
+      "assumptions": "1 small birds-eye chilli ~5g; raw fresh chilli values."
+    },
+    {
+      "position": 15,
+      "name": "Basil",
+      "measurement": "Handful",
+      "grams": 10,
+      "assumptions": "Handful fresh basil leaves ~10g; typical fresh herb values."
+    },
+    {
+      "position": 16,
+      "name": "Coriander",
+      "measurement": "Handful",
+      "grams": 10,
+      "assumptions": "Handful fresh coriander/cilantro ~10g; typical fresh herb values."
+    },
+    {
+      "position": 17,
+      "name": "Lime",
+      "measurement": "1",
+      "grams": 65,
+      "assumptions": "1 whole lime ~65g with peel; values for raw lime."
+    }
+  ],
+  "nutrition": {
+    "calories": 1392.7,
+    "protein": 91.76,
+    "fat": 22.42,
+    "fiber": 15.37,
+    "carbs": 208.21
+  }
+}

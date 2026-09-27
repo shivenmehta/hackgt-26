@@ -1,0 +1,143 @@
+{
+  "id": "53373",
+  "name": "Air Fryer Egg Rolls",
+  "cuisine": "Chinese",
+  "fingerprint": "7d9ab831c7833e7a419899f114702b452a2bdfc2193d97a6f63842d36853627a",
+  "yield": 12,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from explicit instruction that 12 wrappers produce at least a dozen egg rolls, using ~1/4 cup filling each.",
+    "Total time is sum of sequential steps: ~7 min cook filling + ~5 min assemble 12 rolls + ~11 min air-fry first batch (no overlap assumed).",
+    "'Oil for brushing' and serving sauces (duck/plum/soy) treated as optional/condiment and do not alter core classification.",
+    "Egg roll wrappers assumed to contain wheat flour (standard).",
+    "No dairy ingredients present."
+  ],
+  "categories": [],
+  "instructions": "Alternative Pan Fry Method: If you don’t have access to an air fryer, you can make these egg rolls using a traditional pan fry method. Add enough oil to a medium skillet with high walls so the oil is about 1/2 inch up the side of the skillet. Heat oil on medium high heat until it reaches 350°F. Add egg rolls and fry for 3 to 4 minutes, flip, and fry for another 3 to 4 minutes until golden brown. Remove and let them drain and cool on a few paper towels.\r\n\r\nCook the filling:\r\nIn a large skillet over medium heat, add the olive oil along with the ground pork or chicken. Break apart the meat with a spatula or wooden spoon as it cooks. Cook until the meat is cooked through, 6 to 8 minutes.\r\n\r\nAdd garlic, ginger, carrot, scallions, and cabbage. Continue to cook until cabbage wilts down and is soft, another 3 to 4 minutes, stirring regularly. Season the filling with soy sauce and rice wine vinegar, and take off the heat to cool. (This filling can be made in advance.)\r\n\r\nAssemble the egg rolls:\r\nPlace a single egg roll wrapper on a dry surface with one point of the square facing you (like a diamond). Place about 1/4 cup of the egg roll filling mixture in the middle of the wrapper.\r\n\r\nDip your fingers in water and run around the edges of the wrapper. Then fold the edges of the wrapper over the center and start rolling the egg roll away from you to form a tight cylinder. Place on a plate and repeat until you are out of filling. You should get at least a dozen egg rolls.\r\n\r\nAir fry the egg rolls:\r\nPlace the egg rolls in the basket of your air fryer. Spray or brush them lightly with oil. Add as many as you can without stacking the egg rolls, making sure they don’t touch. Air needs to circulate around them. Brush the egg rolls lightly with oil.\r\n\r\nPlace the basket in the air fryer and turn the air fryer to 350°F. Cook for 6 to 7 minutes, then flip the egg rolls, spray or brush with oil a second time on the bottom side, and cook for another 4 to 5 minutes.\r\n\r\nFinished egg rolls should be golden brown and crispy! Serve immediately.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/grhn401765687086.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "1 tablespoon",
+      "grams": 14,
+      "assumptions": "1 tablespoon olive oil; standard density and typical cooking oil values."
+    },
+    {
+      "position": 2,
+      "name": "Ground Pork",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "1 lb raw ground pork; typical 70/30 or similar ground pork nutrition for raw weight."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "1 clove peeled crushed",
+      "grams": 3,
+      "assumptions": "1 peeled crushed garlic clove; average medium clove weight ~3g."
+    },
+    {
+      "position": 4,
+      "name": "Ginger",
+      "measurement": "1 tablespoon",
+      "grams": 6,
+      "assumptions": "1 tablespoon minced or grated ginger; typical density ~6g per tablespoon."
+    },
+    {
+      "position": 5,
+      "name": "Carrots",
+      "measurement": "1 medium",
+      "grams": 61,
+      "assumptions": "1 medium carrot; average peeled weight ~61g, raw values."
+    },
+    {
+      "position": 6,
+      "name": "Scallions",
+      "measurement": "3 chopped",
+      "grams": 45,
+      "assumptions": "3 chopped scallions; average total weight ~45g for 3 medium scallions, raw."
+    },
+    {
+      "position": 7,
+      "name": "Cabbage",
+      "measurement": "3 Cups",
+      "grams": 255,
+      "assumptions": "3 cups shredded cabbage; typical raw weight ~85g per cup, total 255g."
+    },
+    {
+      "position": 8,
+      "name": "Soy Sauce",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tablespoon soy sauce; standard sodium-reduced or regular values, ~15g per tablespoon."
+    },
+    {
+      "position": 9,
+      "name": "Rice Vinegar",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tablespoon rice vinegar; typical values, ~15g per tablespoon."
+    },
+    {
+      "position": 10,
+      "name": "Egg Roll Wrappers",
+      "measurement": "12",
+      "grams": 336,
+      "assumptions": "12 egg roll wrappers; typical ~28g each for standard square wrappers, total 336g."
+    },
+    {
+      "position": 11,
+      "name": "Oil",
+      "measurement": "For brushing",
+      "grams": 15,
+      "assumptions": "Oil for brushing; plausible light brushing total ~1 tablespoon across all rolls for air fryer."
+    },
+    {
+      "position": 12,
+      "name": "Duck Sauce",
+      "measurement": "To serve",
+      "grams": 30,
+      "assumptions": "Duck sauce to serve; estimated total ~2 tablespoons for the recipe yield."
+    },
+    {
+      "position": 13,
+      "name": "Plum Sauce",
+      "measurement": "To serve",
+      "grams": 30,
+      "assumptions": "Plum sauce to serve; estimated total ~2 tablespoons for the recipe yield."
+    },
+    {
+      "position": 14,
+      "name": "Soy Sauce",
+      "measurement": "To serve",
+      "grams": 15,
+      "assumptions": "Soy sauce to serve; estimated total ~1 tablespoon for the recipe yield."
+    }
+  ],
+  "nutrition": {
+    "calories": 2709.34,
+    "protein": 114.13,
+    "fat": 125.39,
+    "fiber": 16.79,
+    "carbs": 274.42
+  }
+}

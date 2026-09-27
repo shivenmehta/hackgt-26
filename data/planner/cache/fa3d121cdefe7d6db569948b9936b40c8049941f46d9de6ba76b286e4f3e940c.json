@@ -1,0 +1,95 @@
+{
+  "id": "53168",
+  "name": "Chorizo & chickpea soup",
+  "cuisine": "Spanish",
+  "fingerprint": "fa3d121cdefe7d6db569948b9936b40c8049941f46d9de6ba76b286e4f3e940c",
+  "yield": 4,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on typical soup recipe volume (one 400g can tomatoes + 400g can chickpeas + 140g cabbage + 110g chorizo + stock produces ~4 adult main portions) and common BBC Good Food scaling for similar one-pan soups.",
+    "Total time estimated at 15 minutes from instructions (heating tomatoes ~3-4 min + chopping chorizo/cabbage ~5 min + simmering 6 min), assuming parallel prep.",
+    "Chicken stock classified as containing possible soy (many commercial cubes list it); left null as ambiguous without specific brand.",
+    "Crusty bread assumed to contain wheat gluten as standard; no gluten-free indication given.",
+    "No milk, eggs, fish, shellfish, tree nuts, peanuts or sesame in listed ingredients.",
+    "Chilli flakes, tinned tomatoes, chickpeas, savoy cabbage and chorizo introduce no listed allergens."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nPut a medium pan on the heat and tip in the tomatoes, followed by a can of water. While the tomatoes are heating, quickly chop the chorizo into chunky pieces (removing any skin) and shred the cabbage.\r\n\r\nstep 2\r\nPile the chorizo and cabbage into the pan with the chilli flakes and chickpeas, then crumble in the stock cube. Stir well, cover and leave to bubble over a high heat for 6 mins or until the cabbage is just tender. Ladle into bowls and eat with crusty or garlic bread.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/kggfo91763288633.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Tinned Tomatos",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Canned tomatoes in tomato juice, drained weight approximated to full 400g can contents as per recipe usage"
+    },
+    {
+      "position": 2,
+      "name": "Chorizo",
+      "measurement": "110g",
+      "grams": 110,
+      "assumptions": "Typical cured Spanish chorizo sausage, edible portion after removing skin"
+    },
+    {
+      "position": 3,
+      "name": "Savoy Cabbage",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "Raw savoy cabbage, fully edible trimmed weight"
+    },
+    {
+      "position": 4,
+      "name": "Chilli Flakes",
+      "measurement": "Sprinkling",
+      "grams": 1,
+      "assumptions": "Dry red chilli flakes; 'sprinkling' estimated at 1g total for the whole recipe based on typical usage in a one-pan soup"
+    },
+    {
+      "position": 5,
+      "name": "Chickpeas",
+      "measurement": "400g can",
+      "grams": 240,
+      "assumptions": "Drained weight from a standard 400g can of chickpeas in water (approx 60% of can weight is drained solids)"
+    },
+    {
+      "position": 6,
+      "name": "Chicken Stock",
+      "measurement": "1",
+      "grams": 4,
+      "assumptions": "One standard chicken stock cube (approx 4-5g each); nutrients based on typical dehydrated bouillon cube"
+    },
+    {
+      "position": 7,
+      "name": "Crusty Bread",
+      "measurement": "To serve",
+      "grams": 50,
+      "assumptions": "Crusty bread to serve; estimated at 50g per serving (one medium slice or small roll equivalent) as the recipe implies serving accompaniment, not a fixed ingredient quantity"
+    }
+  ],
+  "nutrition": {
+    "calories": 1142.82,
+    "protein": 62.54,
+    "fat": 50.78,
+    "fiber": 24.3,
+    "carbs": 102.45
+  }
+}

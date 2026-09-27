@@ -1,0 +1,116 @@
+{
+  "id": "52780",
+  "name": "Potato Gratin with Chicken",
+  "cuisine": "Italian",
+  "fingerprint": "ce2701dfd915cdb5f0bd41b72e3a7dd5ac497e75385a9b5dc86da1b815101497",
+  "yield": 4,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield of 4 based on explicit instruction 'to serve 4' plus 4 chicken breasts and 4 rashers bacon.",
+    "Total time estimated at 30 minutes: 15 min prep/boil/slice per recipe title and text, plus ~10-15 min onion cooking and final grill/broil to golden.",
+    "Creme fraiche, Parmesan, chicken stock, chicken breasts, and bacon confirm non-vegetarian, non-vegan, non-pescatarian, and non-dairy-free.",
+    "Milk allergen present due to creme fraiche (dairy) and Parmesan (cheese); other allergens null as no clear presence or confident absence in unspecified stock or potential cross-contact items.",
+    "Gluten-free marked null due to possible gluten in chicken stock, bacon, or creme fraiche (unspecified if certified gluten-free).",
+    "Spinach and peas treated as side/topping components, not altering core gratin classification."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "15 minute potato gratin with chicken and bacon greens: a gratin always seems more effort and more indulgent than ordinary boiled or roasts, but it doesn't have to take 45mins, it's nice for a change and you can control the calorie content by going with full fat to low fat creme fraiche. (It's always tastes better full fat though obviously!) to serve 4: use 800g of potatoes, finely slice and boil in a pan for about 5-8 mins till firmish, not soft. Finely slice 3 onions and place in an oven dish with 2 tblsp of olive oil and 100ml of chicken stock. Cook till the onions are soft then drain the potatoes and pour onto the onions. Season and spoon over cream or creme fraiche till all is covered but not swimming. Grate Parmesan over the top then finish under the grill till nicely golden. serve with chicken and bacon, peas and spinach.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Potatoes",
+      "measurement": "800g",
+      "grams": 800,
+      "assumptions": "Raw potato weight as given; standard white potato values, peeled or unpeeled similar for gratin."
+    },
+    {
+      "position": 2,
+      "name": "Onions",
+      "measurement": "3",
+      "grams": 300,
+      "assumptions": "3 medium onions estimated at 100g each; raw onion values, cooked in stock/oil but base nutrients used."
+    },
+    {
+      "position": 3,
+      "name": "Olive Oil",
+      "measurement": "2 tblsp",
+      "grams": 27,
+      "assumptions": "2 tablespoons olive oil = 27g standard volume-to-weight conversion."
+    },
+    {
+      "position": 4,
+      "name": "Chicken Stock",
+      "measurement": "100ml",
+      "grams": 100,
+      "assumptions": "100ml chicken stock approximated as 100g; typical low-fat stock values."
+    },
+    {
+      "position": 5,
+      "name": "Creme Fraiche",
+      "measurement": "1 pot",
+      "grams": 200,
+      "assumptions": "1 standard pot creme fraiche estimated at 200g full-fat (recipe notes preference for full fat); typical values."
+    },
+    {
+      "position": 6,
+      "name": "Parmesan",
+      "measurement": "Topping",
+      "grams": 30,
+      "assumptions": "Parmesan 'topping' estimated at 30g for 4 servings; standard grated Parmesan."
+    },
+    {
+      "position": 7,
+      "name": "Chicken Breasts",
+      "measurement": "4",
+      "grams": 600,
+      "assumptions": "4 chicken breasts estimated at 150g each raw; skinless boneless typical values, grilled or pan-fried."
+    },
+    {
+      "position": 8,
+      "name": "Bacon",
+      "measurement": "4",
+      "grams": 120,
+      "assumptions": "4 rashers bacon estimated at 30g each; streaky or back bacon average, cooked and drained."
+    },
+    {
+      "position": 9,
+      "name": "Spinach",
+      "measurement": "Topping",
+      "grams": 100,
+      "assumptions": "Spinach 'topping' or side estimated at 100g total for 4 servings; fresh spinach values, wilted."
+    },
+    {
+      "position": 10,
+      "name": "Peas",
+      "measurement": "Topping",
+      "grams": 200,
+      "assumptions": "Peas 'topping' or side estimated at 200g total (50g per serving); frozen or fresh green peas, cooked."
+    }
+  ],
+  "nutrition": {
+    "calories": 3435.18,
+    "protein": 281.3,
+    "fat": 160.3,
+    "fiber": 36.3,
+    "carbs": 206.28
+  }
+}

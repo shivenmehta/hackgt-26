@@ -1,0 +1,151 @@
+{
+  "id": "52844",
+  "name": "Lasagne",
+  "cuisine": "Italian",
+  "fingerprint": "5b1388b5bab9bbf2a135874606a7507cf49e964664fcb60cfa0ddd0d0def38cb",
+  "yield": 6,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical lasagne recipes using 500g mince and 500g pasta, which usually serve 6 adults.",
+    "Total time is sum of active prep/cooking steps (~45 min) plus 25-30 min bake; rounded to nearest 5 min increment.",
+    "Creme Fraiche, Mozzarella, and Parmesan confirm dairy (Milk allergen).",
+    "Lasagne sheets are wheat pasta (Wheat allergen).",
+    "No explicit egg, fish, shellfish, nuts, peanuts, soy, or sesame; null only for Eggs as pasta could theoretically contain it but not indicated.",
+    "Bacon and minced beef confirm non-vegetarian/vegan/pescatarian."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat the oil in a large saucepan. Use kitchen scissors to snip the bacon into small pieces, or use a sharp knife to chop it on a chopping board. Add the bacon to the pan and cook for just a few mins until starting to turn golden. Add the onion, celery and carrot, and cook over a medium heat for 5 mins, stirring occasionally, until softened.\r\nAdd the garlic and cook for 1 min, then tip in the mince and cook, stirring and breaking it up with a wooden spoon, for about 6 mins until browned all over.\r\nStir in the tomato purée and cook for 1 min, mixing in well with the beef and vegetables. Tip in the chopped tomatoes. Fill each can half full with water to rinse out any tomatoes left in the can, and add to the pan. Add the honey and season to taste. Simmer for 20 mins.\r\nHeat oven to 200C/180C fan/gas 6. To assemble the lasagne, ladle a little of the ragu sauce into the bottom of the roasting tin or casserole dish, spreading the sauce all over the base. Place 2 sheets of lasagne on top of the sauce overlapping to make it fit, then repeat with more sauce and another layer of pasta. Repeat with a further 2 layers of sauce and pasta, finishing with a layer of pasta.\r\nPut the crème fraîche in a bowl and mix with 2 tbsp water to loosen it and make a smooth pourable sauce. Pour this over the top of the pasta, then top with the mozzarella. Sprinkle Parmesan over the top and bake for 25–30 mins until golden and bubbling. Serve scattered with basil, if you like.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "1 tblsp",
+      "grams": 14,
+      "assumptions": "1 tablespoon olive oil, standard density ~0.92 g/ml."
+    },
+    {
+      "position": 2,
+      "name": "Bacon",
+      "measurement": "2",
+      "grams": 60,
+      "assumptions": "2 rashers of typical streaky bacon, ~30 g each including edible portion."
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 finely chopped",
+      "grams": 110,
+      "assumptions": "1 medium onion finely chopped, typical edible weight ~110 g."
+    },
+    {
+      "position": 4,
+      "name": "Celery",
+      "measurement": "1 Stick",
+      "grams": 40,
+      "assumptions": "1 celery stick, typical edible weight ~40 g."
+    },
+    {
+      "position": 5,
+      "name": "Carrots",
+      "measurement": "1 medium",
+      "grams": 60,
+      "assumptions": "1 medium carrot, typical edible weight ~60 g."
+    },
+    {
+      "position": 6,
+      "name": "Garlic",
+      "measurement": "2 cloves chopped",
+      "grams": 6,
+      "assumptions": "2 cloves garlic chopped, typical combined weight ~6 g."
+    },
+    {
+      "position": 7,
+      "name": "Minced Beef",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "500 g raw minced beef (20% fat typical for lasagne)."
+    },
+    {
+      "position": 8,
+      "name": "Tomato Puree",
+      "measurement": "1 tbls",
+      "grams": 15,
+      "assumptions": "1 tablespoon tomato puree/paste, standard density ~1 g/ml."
+    },
+    {
+      "position": 9,
+      "name": "Chopped Tomatoes",
+      "measurement": "800g",
+      "grams": 800,
+      "assumptions": "800 g canned chopped tomatoes including juice (drained weight lower but whole can used per instructions)."
+    },
+    {
+      "position": 10,
+      "name": "Honey",
+      "measurement": "1 tblsp",
+      "grams": 21,
+      "assumptions": "1 tablespoon honey, standard density ~1.4 g/ml."
+    },
+    {
+      "position": 11,
+      "name": "Lasagne Sheets",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "500 g dry lasagne sheets (pasta)."
+    },
+    {
+      "position": 12,
+      "name": "Creme Fraiche",
+      "measurement": "400ml",
+      "grams": 400,
+      "assumptions": "400 ml creme fraiche (~400 g at density ~1 g/ml)."
+    },
+    {
+      "position": 13,
+      "name": "Mozzarella Balls",
+      "measurement": "125g",
+      "grams": 125,
+      "assumptions": "125 g mozzarella balls, drained edible portion."
+    },
+    {
+      "position": 14,
+      "name": "Parmesan Cheese",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "50 g grated parmesan cheese."
+    },
+    {
+      "position": 15,
+      "name": "Basil Leaves",
+      "measurement": "Topping",
+      "grams": 10,
+      "assumptions": "Small handful basil leaves as topping, plausible ~10 g edible portion."
+    }
+  ],
+  "nutrition": {
+    "calories": 5755.64,
+    "protein": 239.36,
+    "fat": 319.6,
+    "fiber": 36.72,
+    "carbs": 478.15
+  }
+}

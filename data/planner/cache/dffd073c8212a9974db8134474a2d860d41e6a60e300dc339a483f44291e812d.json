@@ -1,0 +1,101 @@
+{
+  "id": "53304",
+  "name": "Mini bundt cakes",
+  "cuisine": "Polish",
+  "fingerprint": "dffd073c8212a9974db8134474a2d860d41e6a60e300dc339a483f44291e812d",
+  "yield": 12,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical mini bundt tin (12 holes) and instructions directing batter into each hole of a 'mini bundt tin' (plural tins noted but quantity implies standard 12-cake batch).",
+    "Total time aggregates active prep (~15 min for melting, brushing, mixing, filling) + baking (15-18 min) + cooling (5 min in tin + full cool on rack, conservatively 20-25 min to handleable).",
+    "All ingredients classified conservatively per listed items only; no unlisted compound sauces or hidden allergens assumed present.",
+    "Butter and milk treated as dairy; plain wheat flour as gluten/wheat source; eggs as egg allergen; cocoa, sugars, baking powder introduce no additional required allergens.",
+    "Vegetarian confirmed via eggs/dairy compatibility; vegan incompatible due to butter/egg/milk; pescatarian compatible; gluten-free false due to wheat flour; dairy-free false due to butter/milk."
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nHeat the oven to 180C/160C fan/gas 4. Melt 25g butter and generously brush into the holes of a mini bundt tins. Tip a little flour into each hole and shake to coat, then tip out the excess. Beat the butter, caster sugar and a pinch of salt together using an electric whisk. Add the eggs, one at a time, beating well after each addition. Combine the flour and baking powder in a separate bowl, then sift this into the wet ingredients and stir until smooth. Combine the cocoa powder and milk in a small bowl until smooth.\r\n\r\nstep 2\r\nSpoon 1 tbsp of the plain batter into each hole of the bundt tin. Mix the remaining plain batter with the cocoa powder mixture, then divide this between the holes. Bake for 15-18 mins, or until a skewer inserted into the cakes comes out clean. Leave to cool in the tin for 5 mins, then turn out onto a wire rack and leave to cool completely. Dust with icing sugar to serve.\r\n\r\nstep 3\r\nPour 1 tablespoon of light batter into each mold. Mix the remaining batter with the stirred cocoa mixture and then fill the molds with a tablespoon.\r\n\r\nstep 4\r\nBake the mini Bundt cakes in the preheated oven for 15-18 minutes , depending on the size of the molds. After 15 minutes of baking time, use a toothpick to test with a skewer and, if necessary, bake for another 3 minutes. Let the mini Bundt cakes cool down completely in the tin. Then carefully remove from the mold. Dust with some icing sugar and serve. Enjoy your meal!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/tzt3it1764363293.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Butter",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Standard unsalted butter; full 150g used as listed for the recipe batter plus brushing tins."
+    },
+    {
+      "position": 2,
+      "name": "Plain Flour",
+      "measurement": "175g",
+      "grams": 175,
+      "assumptions": "Standard plain white wheat flour; entire listed amount is incorporated into the batter."
+    },
+    {
+      "position": 3,
+      "name": "Caster Sugar",
+      "measurement": "125g",
+      "grams": 125,
+      "assumptions": "Standard caster sugar (superfine white sugar); full listed amount beaten into batter."
+    },
+    {
+      "position": 4,
+      "name": "Egg",
+      "measurement": "3",
+      "grams": 150,
+      "assumptions": "3 large eggs (approx 50g each, including shell but estimating edible portion only); used raw in batter."
+    },
+    {
+      "position": 5,
+      "name": "Baking Powder",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp baking powder (approx 5g); standard amount sifted into dry ingredients."
+    },
+    {
+      "position": 6,
+      "name": "Cocoa Powder",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 tsp unsweetened cocoa powder (approx 5-6g per tsp, total 10-12g rounded); mixed with milk for chocolate batter."
+    },
+    {
+      "position": 7,
+      "name": "Milk",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "3 tablespoons milk (15ml each, total 45ml, density ~1g/ml); standard semi-skimmed cow's milk mixed with cocoa."
+    },
+    {
+      "position": 8,
+      "name": "Icing Sugar",
+      "measurement": "1 tablespoon",
+      "grams": 12,
+      "assumptions": "1 tablespoon icing sugar (powdered sugar, approx 12g); used for dusting finished cakes, plausible small amount for the batch."
+    }
+  ],
+  "nutrition": {
+    "calories": 2501.54,
+    "protein": 41.24,
+    "fat": 139.32,
+    "fiber": 8.43,
+    "carbs": 280.63
+  }
+}

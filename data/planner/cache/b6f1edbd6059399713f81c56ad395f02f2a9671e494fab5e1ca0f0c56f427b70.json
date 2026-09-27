@@ -1,0 +1,120 @@
+{
+  "id": "53007",
+  "name": "Honey Yogurt Cheesecake",
+  "cuisine": "Greek",
+  "fingerprint": "b6f1edbd6059399713f81c56ad395f02f2a9671e494fab5e1ca0f0c56f427b70",
+  "yield": 8,
+  "minutes": 85,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical cheesecake recipes with this volume of filling and a 23cm dish, serving 8 generously.",
+    "Total active and baking time summed from instructions: 10 min bake for base + 60 min covered bake + 15 min uncovered bake = 85 min (excluding cooling).",
+    "Digestive biscuits contain wheat (gluten).",
+    "Almonds are tree nuts and used in base and as garnish.",
+    "Butter and mascarpone and Greek yogurt are dairy.",
+    "Eggs are present and used in filling.",
+    "Honey is used in filling and as drizzle; assumed pure honey with no additives.",
+    "Fruit mix assumed as fresh fruit for serving, no allergens added.",
+    "Zests from lemon and orange add no allergens.",
+    "No soy, fish, shellfish, peanuts, or sesame indicated in ingredients or instructions."
+  ],
+  "categories": [],
+  "instructions": "Heat oven to 160C/140C fan/gas 3. Crush the biscuits and most of the almonds inside a plastic food bag using a rolling pin. Mix with the butter, then press into the bottom of a deep, oval, 23cm dish (or something similar in size – a roasting tin, baking dish or cake tin will work). Bake for 10 mins until crisp.\r\n\r\nStir or mash together the yogurt and mascarpone, then whisk in the eggs, one at a time. Stir in the lemon and orange zests, then stir in most of the honey, reserving about 3 tbsp. Spread over the biscuit base, cover loosely with foil and cook for 1 hr. Remove the foil and cook for 15 mins more until lightly golden and the top is firm with just the slightest wobble in the middle. Leave to cool. Can be kept in the fridge for up to 2 days.\r\n\r\nTo serve, scatter with almonds, drizzle over the remaining honey, and hand around fresh fruit to go with it.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/y2irzl1585563479.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Digestive Biscuits",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Standard digestive biscuits, plain, used as-is for crust; values based on typical UK digestive biscuit composition."
+    },
+    {
+      "position": 2,
+      "name": "Almonds",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "Whole or flaked almonds, raw, as used in crust and topping; most crushed for base, remainder for garnish."
+    },
+    {
+      "position": 3,
+      "name": "Butter",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "Unsalted butter, melted and mixed into crust; standard butter nutrition."
+    },
+    {
+      "position": 4,
+      "name": "Greek Yogurt",
+      "measurement": "250ml",
+      "grams": 260,
+      "assumptions": "250ml Greek yogurt (assuming density ~1.04 g/ml, typical full-fat strained Greek yogurt); used in filling."
+    },
+    {
+      "position": 5,
+      "name": "Mascarpone",
+      "measurement": "750g",
+      "grams": 750,
+      "assumptions": "Full-fat mascarpone cheese, as listed; forms the bulk of the cheesecake filling."
+    },
+    {
+      "position": 6,
+      "name": "Eggs",
+      "measurement": "2",
+      "grams": 110,
+      "assumptions": "2 large whole eggs (~55g each, edible portion), whisked into filling; standard large egg values."
+    },
+    {
+      "position": 7,
+      "name": "Lemon",
+      "measurement": "Zest of 1",
+      "grams": 6,
+      "assumptions": "Zest of 1 medium lemon (~6g edible zest only); negligible calories, used for flavor."
+    },
+    {
+      "position": 8,
+      "name": "Orange",
+      "measurement": "Zest of 1",
+      "grams": 7,
+      "assumptions": "Zest of 1 medium orange (~7g edible zest only); similar to lemon zest, for flavor."
+    },
+    {
+      "position": 9,
+      "name": "Honey",
+      "measurement": "250ml",
+      "grams": 300,
+      "assumptions": "250ml honey (density ~1.42 g/ml for typical runny honey), most mixed in, 3 tbsp (~45ml) reserved for drizzling; standard floral honey."
+    },
+    {
+      "position": 10,
+      "name": "Fruit Mix",
+      "measurement": "To serve",
+      "grams": 200,
+      "assumptions": "'Fruit mix to serve' assumed as 200g mixed fresh berries or similar (plausible side amount for 8-10 servings); typical mixed fruit like strawberries/berries for topping or serving alongside."
+    }
+  ],
+  "nutrition": {
+    "calories": 6231.56,
+    "protein": 109.84,
+    "fat": 470.96,
+    "fiber": 17.58,
+    "carbs": 401.85
+  }
+}

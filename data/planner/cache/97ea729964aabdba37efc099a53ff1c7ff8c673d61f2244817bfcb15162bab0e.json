@@ -1,0 +1,80 @@
+{
+  "id": "53262",
+  "name": "Adana kebab",
+  "cuisine": "Turkish",
+  "fingerprint": "97ea729964aabdba37efc099a53ff1c7ff8c673d61f2244817bfcb15162bab0e",
+  "yield": 4,
+  "minutes": 210,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 800g lamb mince divided into 12 portions (≈85g each) or 8 skewers, typical for 4 adult servings as a main with sides.",
+    "Total time includes minimum 2hr chill (step 1) + 15min average active prep/cooking (steps 2-3); excludes optional 12hr max chill.",
+    "Red pepper paste assumed free of wheat/soy based on typical Turkish biber salçası composition; ambiguous without brand.",
+    "No gluten-containing ingredients listed; recipe is gluten-free under conservative classification.",
+    "No dairy, eggs, fish, shellfish, tree nuts, peanuts, or soy listed."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nFinely chop the peppers in a food processor, then tip them in a sieve and press into the sieve so that the peppers release all of their juices. Tip into a bowl along with the mince, red pepper paste, pul biber, 1½ tsp flaky sea salt, and 2 tbsp of the oil. Mix together, kneading well for at least 2-3 mins. If you need to, wet your hands with cold water to prevent the mixture from sticking. The mixture should be sticky when ready. Cover and chill for at least 2 hrs, or up to 12 hrs.\r\n\r\nstep 2\r\nWhen ready to cook, heat the grill to high or an oven to 220C/200C fan/gas 6. Divide the mixture into 12 equal portions, around 85g each. If you’d like to skewer them, divide into 8 equal portions and roll into balls. Using wet hands, thread the balls onto the end of the skewers, massaging the mixture down the skewers in between the palms of your hands, until evenly distributed. Ensure that the mixture is fully wrapped tightly around the skewers without any exposed metal. Alternatively, lay them on a large baking tray lined with parchment paper if cooking in the oven, or foil if cooking under the grill. Shape into 20cm-long köfte. Wet your fingers with a little cold water and make indents all along the köfte for the traditional shape.\r\n\r\nstep 3\r\nGently brush each köfte with the remaining 1 tbsp oil and cook under the grill, on the top shelf for 10-12 mins, turning regularly, or cook in the oven for 16-18 mins, until crispy on the outside and juicy in the middle",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/04axct1763793018.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Romano Pepper",
+      "measurement": "2 large",
+      "grams": 300,
+      "assumptions": "2 large Romano peppers ≈ 300g total edible weight after deseeding; typical sweet pepper nutrition used."
+    },
+    {
+      "position": 2,
+      "name": "Lamb Mince",
+      "measurement": "800g",
+      "grams": 800,
+      "assumptions": "Standard raw lamb mince (≈20-25% fat); values reflect typical UK-style lamb mince before cooking."
+    },
+    {
+      "position": 3,
+      "name": "Red Pepper Paste",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "3 tbsp Turkish red pepper paste (biber salçası) ≈ 45g; nutrition based on typical concentrated mild pepper paste."
+    },
+    {
+      "position": 4,
+      "name": "Pul Biber",
+      "measurement": "1 tablespoon",
+      "grams": 8,
+      "assumptions": "1 tbsp pul biber (Aleppo pepper flakes) ≈ 8g; typical dried chili flake nutrition applied."
+    },
+    {
+      "position": 5,
+      "name": "Sunflower Oil",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "3 tbsp sunflower oil ≈ 45g total; standard vegetable oil values used for brushing and mixing."
+    }
+  ],
+  "nutrition": {
+    "calories": 2798.61,
+    "protein": 141.69,
+    "fat": 235.39,
+    "fiber": 10.45,
+    "carbs": 29.6
+  }
+}

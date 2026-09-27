@@ -1,0 +1,79 @@
+{
+  "id": "53075",
+  "name": "Tortang Talong",
+  "cuisine": "Filipino",
+  "fingerprint": "5f7464ce08eaf6f05a338ef3335c1ca819552a8c66f9401cf42aa8e119490065",
+  "yield": 4,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield of 4 servings estimated from 4 eggplants (1 per serving) as a main dish component.",
+    "Total time ~30 min: ~10 min grilling, ~5 min cooling/peeling/flattening, ~5 min egg prep, ~10-15 min frying (3-4 min per side, likely sequential).",
+    "Vegetarian confirmed by source and ingredients (eggs used, no meat).",
+    "Vegan false due to eggs.",
+    "Pescatarian true as compatible with vegetarian plus fish but none present.",
+    "Gluten-free true: no barley, rye, wheat, or oats; all ingredients compatible.",
+    "Dairy-free true: no milk or dairy products.",
+    "No milk, fish, shellfish, tree nuts, peanuts, wheat, soy, or sesame in ingredients.",
+    "Eggs allergen present from listed eggs.",
+    "Olive oil treated as generic; no sesame or other allergens assumed.",
+    "Salt is plain table salt with no additives."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "0.\tGrill the eggplant until the color of skin turns almost black\r\n1.\tLet the eggplant cool for a while then peel off the skin. Set aside.\r\n2.\tCrack the eggs and place in a bowl\r\n3.\tAdd salt and beat\r\n4.\tPlace the eggplant on a flat surface and flatten using a fork.\r\n5.\tDip the flattened eggplant in the beaten egg mixture\r\n6.\tHeat the pan and pour the cooking oil\r\n7.\tFry the eggplant (that was dipped in the beaten mixture). Make sure that both sides are cooked. Frying time will take you about 3 to 4 minutes per side on medium heat.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/va668f1683209318.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Egg Plants",
+      "measurement": "4",
+      "grams": 800,
+      "assumptions": "4 medium eggplants, ~200g each raw with skin; grilled then peeled (edible flesh only)."
+    },
+    {
+      "position": 2,
+      "name": "Eggs",
+      "measurement": "2",
+      "grams": 100,
+      "assumptions": "2 large whole eggs (~50g each)."
+    },
+    {
+      "position": 3,
+      "name": "Salt",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp table salt; negligible macros."
+    },
+    {
+      "position": 4,
+      "name": "Olive Oil",
+      "measurement": "4 tsp",
+      "grams": 18,
+      "assumptions": "4 tsp olive oil for frying (~4.5g per tsp)."
+    }
+  ],
+  "nutrition": {
+    "calories": 502.12,
+    "protein": 20.6,
+    "fat": 29.1,
+    "fiber": 24,
+    "carbs": 48.7
+  }
+}

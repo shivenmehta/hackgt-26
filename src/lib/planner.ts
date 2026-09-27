@@ -1,3 +1,4 @@
+import { presets, type Level, type Nutrient } from "./meal-planning/types";
 export const DIETS = [
   "Vegetarian",
   "Vegan",
@@ -17,11 +18,27 @@ export const ALLERGENS = [
   "Sesame",
 ] as const;
 export const CUISINES = [
-  "Mediterranean",
-  "Mexican",
-  "Indian",
-  "East Asian",
   "American",
+  "British",
+  "Canadian",
+  "Chinese",
+  "Egyptian",
+  "Filipino",
+  "French",
+  "Greek",
+  "Indian",
+  "Italian",
+  "Jamaican",
+  "Japanese",
+  "Mexican",
+  "Moroccan",
+  "Polish",
+  "Portuguese",
+  "Spanish",
+  "Thai",
+  "Tunisian",
+  "Turkish",
+  "Vietnamese",
 ] as const;
 export type Diet = (typeof DIETS)[number];
 export type Allergen = (typeof ALLERGENS)[number];
@@ -37,6 +54,8 @@ export interface PreferenceDraft {
   allergens: Allergen[];
   cuisines: Cuisine[];
   notes: string;
+  nutrientLevels?: Record<Nutrient, Level>;
+  dailyCalories?: string;
 }
 export interface Preferences {
   budget: number;
@@ -49,6 +68,8 @@ export interface Preferences {
   allergens: Allergen[];
   cuisines: Cuisine[];
   notes: string;
+  nutrientLevels?: Record<Nutrient, Level>;
+  dailyCalories?: number;
 }
 export const initialDraft: PreferenceDraft = {
   budget: "75",
@@ -61,9 +82,17 @@ export const initialDraft: PreferenceDraft = {
   allergens: [],
   cuisines: [],
   notes: "",
+  dailyCalories: "2000",
+  nutrientLevels: {
+    calories: "medium",
+    protein: "medium",
+    fat: "medium",
+    fiber: "medium",
+    carbs: "medium",
+  },
 };
 export type InputKey =
-  "budget" | "location" | "age" | "bmi" | "people" | "meals";
+  "budget" | "location" | "age" | "bmi" | "people" | "meals" | "dailyCalories";
 export function validatePreferences(
   d: PreferenceDraft,
 ): Partial<Record<InputKey, string>> {
@@ -84,9 +113,16 @@ export function validatePreferences(
     )
       errors[key] = `Enter a whole number for ${label}.`;
   }
-  if (Number(d.meals) > 6)
-    errors.meals = "Choose between 1 and 6 meals per day.";
-  if (!d.location.trim()) errors.location = "Enter your city or ZIP code.";
+  if (Number(d.meals) !== 3)
+    errors.meals = "This planner includes three meals per day.";
+  if (!/^\d{5}$/.test(d.location.trim()))
+    errors.location = "Enter a five-digit US ZIP code.";
+  if (
+    Number(d.people) === 1 &&
+    d.dailyCalories !== undefined &&
+    (!Number.isFinite(Number(d.dailyCalories)) || Number(d.dailyCalories) <= 0)
+  )
+    errors.dailyCalories = "Enter a daily calorie target greater than zero.";
   return errors;
 }
 export function parsePreferences(d: PreferenceDraft): Preferences {
@@ -94,6 +130,10 @@ export function parsePreferences(d: PreferenceDraft): Preferences {
     throw new Error("Check your preferences before building a plan.");
   return {
     ...d,
+    dailyCalories:
+      Number(d.people) === 1 && d.dailyCalories
+        ? Number(d.dailyCalories)
+        : presets.calories[d.nutrientLevels?.calories ?? "medium"],
     budget: Number(d.budget),
     age: Number(d.age),
     bmi: Number(d.bmi),
@@ -111,7 +151,7 @@ export interface Recipe {
   id: string;
   name: string;
   description: string;
-  cuisine: Cuisine;
+  cuisine: string;
   kind: "vegan" | "vegetarian" | "fish" | "meat";
   allergens: Allergen[];
   occasion: "breakfast" | "main" | "snack";
@@ -126,6 +166,13 @@ export interface Recipe {
     fiber: number;
   };
   art: "bowl" | "toast" | "wrap";
+  imageUrl?: string;
+  aiImage?: boolean;
+  portion?: number;
+  originalYield?: number;
+  pricingNote?: string;
+  assumptions?: string[];
+  estimatedCents?: number;
 }
 export interface PlannedMeal {
   id: string;
@@ -141,9 +188,12 @@ export interface WeeklyPlan {
   preferences: Preferences;
   days: PlannedDay[];
   totalCents: number;
+  warnings?: string[];
+  storeName?: string;
+  dailyTargets?: Record<Nutrient, number>;
 }
 export const perServingCents = (r: Recipe) =>
-  r.ingredients.reduce((n, i) => n + i.costCents, 0);
+  r.estimatedCents ?? r.ingredients.reduce((n, i) => n + i.costCents, 0);
 export const money = (cents: number) =>
   new Intl.NumberFormat("en-US", { style: "currency", currency: "USD" }).format(
     cents / 100,
@@ -168,7 +218,9 @@ export function buildSamplePlan(
   now = new Date(),
 ): WeeklyPlan {
   const eligible = recipes.filter((r) => isEligible(r, p));
-  const preferred = eligible.filter((r) => p.cuisines.includes(r.cuisine));
+  const preferred = eligible.filter((r) =>
+    p.cuisines.some((c) => c === r.cuisine),
+  );
   // Cuisine is a soft preference; supported diet/allergen filters are always hard filters.
   const pool = preferred.length ? preferred : eligible;
   if (!pool.length) return { preferences: p, days: [], totalCents: 0 };

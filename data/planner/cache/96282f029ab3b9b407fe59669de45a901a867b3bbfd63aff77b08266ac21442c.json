@@ -1,0 +1,117 @@
+{
+  "id": "52994",
+  "name": "Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini",
+  "cuisine": "American",
+  "fingerprint": "96282f029ab3b9b407fe59669de45a901a867b3bbfd63aff77b08266ac21442c",
+  "yield": 2,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe explicitly states 'Serves 2' at the start of the instructions.",
+    "Total time estimated from sequential and overlapping steps: preheat + 12 min initial roast + 4-5 min per side pork sear (~9 min) + 12-15 min additional roast + 2-3 min apple cook + 3-5 min sauce simmer + minor prep times; conservatively summed to 45 minutes active and oven time.",
+    "Pork and chicken stock make Vegetarian, Vegan, and Pescatarian false.",
+    "Butter makes Dairy-free false and Milk allergen true.",
+    "No wheat, barley, rye, or oats listed so Gluten-free is true.",
+    "No eggs, fish, shellfish, tree nuts, peanuts, soy, or sesame listed so those allergens are false.",
+    "All ingredients classified conservatively based on explicit listings; no ambiguous compound items."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Serves 2\r\n\r\n\r\n1. \r\n\r\nAdjust racks to top and middle positions and preheat oven to 450 degrees. Wash and dry all produce. Dice sweet potatoes into 1/2-inch pieces. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast on top rack for 12 minutes (we'll roast the zucchini then). \r\n\r\n\r\n2. \r\n\r\nMeanwhile, halve and core apple; thinly slice into half-moons. Peel and finely chop garlic. Quarter lemon. Trim and halve zucchini lengthwise; cut crosswise into 1/2-inch-thick half-moons. Toss on a second baking sheet with a drizzle of oil and a pinch of salt and pepper. Set aside. \r\n\r\n\r\n3. \r\n\r\nPat pork dry with paper towels and season all over with salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add pork and cook until browned and cooked through, 4-5 minutes per side. Turn off heat; transfer to a plate. \r\n\r\n\r\n4. \r\n\r\nOnce sweet potatoes have roasted 12 minutes, transfer baking sheet with zucchini to middle rack and continue roasting until both veggies are browned and softened, 12-15 minutes more. \r\n\r\n\r\n5. \r\n\r\nMeanwhile, melt 1 TBSP butter (2 TBSP for 4 servings) in pan used for pork over medium-high heat. Add apple and season with salt and pepper. Cook, scraping up any browned bits from bottom of pan, until apple is slightly softened, 2-3 minutes. Add garlic; cook until fragrant, 30 seconds. Add 1/z cup water (3/4 cup for 4), stock concentrate, and 11/2 tsp sugar (3 tsp for 4). Cook, stirring, until sauce has thickened and apple is very tender, 3-5 minutes. Season with salt and pepper. \r\n\r\n\r\n6. \r\n\r\nRemove pan with apple from heat; stir in 1 TBSP butter (2 TBSP for 4 servings) and a squeeze of lemon juice. Divide pork, zucchini, and sweet potatoes between plates. Top pork with glazed apple sauce. Top zucchini with a squeeze of lemon juice.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/h3ijwo1581013377.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Potatoes",
+      "measurement": "2",
+      "grams": 300,
+      "assumptions": "2 medium sweet potatoes (about 150g each, raw, with skin); typical for 'dice into 1/2-inch pieces' in a 2-serving sheet-pan recipe"
+    },
+    {
+      "position": 2,
+      "name": "Apples",
+      "measurement": "1",
+      "grams": 182,
+      "assumptions": "1 medium apple (raw, with skin, cored); standard size for 'halve and core, thinly slice into half-moons'"
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "2 cloves",
+      "grams": 6,
+      "assumptions": "2 cloves garlic (peeled, raw, finely chopped); ~3g per clove"
+    },
+    {
+      "position": 4,
+      "name": "Lemon",
+      "measurement": "1",
+      "grams": 58,
+      "assumptions": "1 small-to-medium lemon (raw); used for quarters and squeezes, ~58g average edible portion after minor rind loss"
+    },
+    {
+      "position": 5,
+      "name": "Pork",
+      "measurement": "2",
+      "grams": 340,
+      "assumptions": "2 boneless pork chops (raw, ~170g each); standard size for pan-searing in a 2-serving skillet recipe, lean cut like loin"
+    },
+    {
+      "position": 6,
+      "name": "Zucchini",
+      "measurement": "1",
+      "grams": 196,
+      "assumptions": "1 medium zucchini (raw, trimmed and sliced into half-moons); typical ~196g whole for roasting in 2-serving recipe"
+    },
+    {
+      "position": 7,
+      "name": "Chicken Stock",
+      "measurement": "1",
+      "grams": 5,
+      "assumptions": "1 chicken stock concentrate (e.g. bouillon cube/packet equivalent for 1 cup liquid); ~5g dry weight typical, used to make ~1/2 cup broth in sauce"
+    },
+    {
+      "position": 8,
+      "name": "Vegetable Oil",
+      "measurement": "1 tbsp",
+      "grams": 14,
+      "assumptions": "1 tbsp vegetable oil (for tossing veggies + pan-searing pork); combined total estimated from 'drizzle of oil' uses"
+    },
+    {
+      "position": 9,
+      "name": "Sugar",
+      "measurement": "1 1/2 tsp",
+      "grams": 6,
+      "assumptions": "1 1/2 tsp granulated sugar; ~4.2g per tsp, rounded for recipe total"
+    },
+    {
+      "position": 10,
+      "name": "Butter",
+      "measurement": "2 tbsp",
+      "grams": 28,
+      "assumptions": "2 tbsp butter (total used: 1 tbsp to melt + 1 tbsp stirred in at end); ~14g per tbsp, for 2-serving recipe"
+    }
+  ],
+  "nutrition": {
+    "calories": 1477.61,
+    "protein": 78.41,
+    "fat": 85.45,
+    "fiber": 17.08,
+    "carbs": 104.98
+  }
+}

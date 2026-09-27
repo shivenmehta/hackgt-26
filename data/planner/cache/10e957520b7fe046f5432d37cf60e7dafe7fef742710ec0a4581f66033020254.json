@@ -1,0 +1,97 @@
+{
+  "id": "53248",
+  "name": "Salmon noodle wraps",
+  "cuisine": "Vietnamese",
+  "fingerprint": "10e957520b7fe046f5432d37cf60e7dafe7fef742710ec0a4581f66033020254",
+  "yield": 2,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe serves 2 based on two parcels and 300g salmon split across them",
+    "Total time estimated from instructions: 10 min prep + 15-20 min bake, rounded to 30 min",
+    "Rice noodles classified as gluten-free (no wheat, barley, rye)",
+    "No dairy, eggs, tree nuts, peanuts, soy, sesame, shellfish or wheat listed",
+    "Fish allergen from salmon",
+    "Ingredients like chilli, coriander and lime assumed as listed without sauces or compounds that would introduce ambiguity",
+    "Petit pois are green peas, compatible with all listed diets except those already false",
+    "No substitutions or unlisted ingredients assumed"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat oven to 200C/fan 180C/gas 6. Put the noodles in a bowl and pour over enough boiling water to just cover them. Leave for 2 mins, until they are bendable, but not too soft, then drain well. Return to the bowl with the spring onions, petit pois, salt and pepper and a third of the butter. Mix well until the butter has melted.\r\n\r\nstep 2\r\nPile the noodles and vegetables onto two large squares of baking parchment, then sit the salmon on top. Slice the remaining butter and arrange over the top of the salmon. Bring the ends of the paper over the fish, fold them together to seal, then tuck the ends of the paper underneath so there are no gaps. Put the parcels on a baking sheet and bake for 15-20 mins. Transfer to dinner plates and serve without delay.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/prrirc1763781360.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Rice Noodles",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Standard dry rice noodles; values based on typical uncooked white rice vermicelli."
+    },
+    {
+      "position": 2,
+      "name": "Spring Onions",
+      "measurement": "3 sliced thinly",
+      "grams": 45,
+      "assumptions": "3 medium spring onions (scallions) sliced thinly; typical combined edible weight ~45g."
+    },
+    {
+      "position": 3,
+      "name": "Petit Pois",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Frozen or fresh petit pois (small green peas); standard nutritional profile for cooked peas adjusted for recipe use."
+    },
+    {
+      "position": 4,
+      "name": "Chilli",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "One medium fresh red or green chilli (85g whole weight); includes seeds and stem as typical in Vietnamese recipes; values for raw chilli pepper."
+    },
+    {
+      "position": 5,
+      "name": "Coriander",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "Fresh coriander (cilantro) leaves and stems; 85g is a large bunch, typical values for raw coriander."
+    },
+    {
+      "position": 6,
+      "name": "Lime",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "One large fresh lime (whole weight ~85g including peel); values represent edible flesh/juice portion scaled to whole weight as recipe lists whole fruit."
+    },
+    {
+      "position": 7,
+      "name": "Salmon",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Raw Atlantic salmon fillet; typical farmed salmon values, edible portion only."
+    }
+  ],
+  "nutrition": {
+    "calories": 1107.95,
+    "protein": 75.64,
+    "fat": 42.43,
+    "fiber": 12.06,
+    "carbs": 108.63
+  }
+}

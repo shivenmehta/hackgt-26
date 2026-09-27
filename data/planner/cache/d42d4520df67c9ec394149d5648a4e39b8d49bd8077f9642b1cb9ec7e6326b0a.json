@@ -1,0 +1,150 @@
+{
+  "id": "52843",
+  "name": "Lamb Tagine",
+  "cuisine": "Moroccan",
+  "fingerprint": "d42d4520df67c9ec394149d5648a4e39b8d49bd8077f9642b1cb9ec7e6326b0a",
+  "yield": 4,
+  "minutes": 150,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical lamb tagine recipes with 500g meat plus vegetables and sides, commonly serving 4 people.",
+    "Total time sums active prep (~15 min) and sequential cooking stages (1h covered + 30 min uncovered + 25 min with squash) rounded to nearest 5 min; excludes optional rice/couscous cooking time.",
+    "Couscous treated as wheat-based (standard durum wheat semolina).",
+    "Parsley, pine nuts (optional in instructions but absent from ingredients list), and unspecified stock cube flavoring introduce minor ambiguities for tree nuts/sesame/soy but classified conservatively per schema rules.",
+    "No barley/rye present; gluten-free is false due to couscous."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened.\r\n\r\nAdd the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released.\r\n\r\nAdd the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or enough to cover the meat. Give it a good stir and bring to the boil. Turn down to a simmer, put the lid on and cook for 1 hour.\r\n\r\nRemove the lid and cook for a further 30 mins, then stir in the squash. Cook for 20 – 30 mins more until the squash is soft and the lamb is tender. Serve alongside rice or couscous and sprinkle with parsley and pine nuts, if using.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "2 tblsp",
+      "grams": 27,
+      "assumptions": "Standard olive oil density ~0.91 g/ml; 2 tbsp = 30 ml ≈ 27 g edible."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 finely sliced",
+      "grams": 110,
+      "assumptions": "Medium onion ≈ 110 g when finely sliced; typical raw white onion values."
+    },
+    {
+      "position": 3,
+      "name": "Carrots",
+      "measurement": "2 chopped",
+      "grams": 122,
+      "assumptions": "2 medium carrots ≈ 122 g chopped; typical raw carrot values."
+    },
+    {
+      "position": 4,
+      "name": "Lamb Leg",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Raw boneless lamb leg; trimmed but with typical fat content for stewing."
+    },
+    {
+      "position": 5,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 average cloves ≈ 6 g minced; typical raw garlic values."
+    },
+    {
+      "position": 6,
+      "name": "Cumin",
+      "measurement": "½ tsp",
+      "grams": 1,
+      "assumptions": "½ tsp ground cumin ≈ 1 g; typical dried spice values."
+    },
+    {
+      "position": 7,
+      "name": "Ginger",
+      "measurement": "½ tsp",
+      "grams": 1,
+      "assumptions": "½ tsp ground ginger ≈ 1 g; typical dried spice values."
+    },
+    {
+      "position": 8,
+      "name": "Saffron",
+      "measurement": "¼ tsp",
+      "grams": 0.5,
+      "assumptions": "¼ tsp saffron threads ≈ 0.5 g; typical dried spice values."
+    },
+    {
+      "position": 9,
+      "name": "Cinnamon",
+      "measurement": "1 tsp",
+      "grams": 2.6,
+      "assumptions": "1 tsp ground cinnamon ≈ 2.6 g; typical dried spice values."
+    },
+    {
+      "position": 10,
+      "name": "Honey",
+      "measurement": "1 tblsp",
+      "grams": 21,
+      "assumptions": "1 tbsp honey ≈ 21 g; typical pure honey values."
+    },
+    {
+      "position": 11,
+      "name": "Apricot",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "100 g dried apricots as listed (common in tagines); typical dried fruit values."
+    },
+    {
+      "position": 12,
+      "name": "Vegetable Stock Cube",
+      "measurement": "1",
+      "grams": 11,
+      "assumptions": "1 standard vegetable stock cube ≈ 11 g; typical dehydrated bouillon values."
+    },
+    {
+      "position": 13,
+      "name": "Butternut Squash",
+      "measurement": "1 medium chopped",
+      "grams": 450,
+      "assumptions": "1 medium butternut squash ≈ 450 g edible chopped flesh (peeled, seeded); typical raw values."
+    },
+    {
+      "position": 14,
+      "name": "Couscous",
+      "measurement": "Steamed",
+      "grams": 150,
+      "assumptions": "Typical steamed couscous serving (dry weight basis before cooking) as side; standard dry couscous values."
+    },
+    {
+      "position": 15,
+      "name": "Parsley",
+      "measurement": "Chopped",
+      "grams": 10,
+      "assumptions": "Small bunch fresh parsley chopped ≈ 10 g; typical fresh herb values."
+    }
+  ],
+  "nutrition": {
+    "calories": 2620.15,
+    "protein": 156.76,
+    "fat": 106.85,
+    "fiber": 31.48,
+    "carbs": 285.54
+  }
+}

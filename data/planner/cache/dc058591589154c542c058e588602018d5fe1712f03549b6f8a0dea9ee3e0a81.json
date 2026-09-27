@@ -1,0 +1,122 @@
+{
+  "id": "52823",
+  "name": "Salmon Prawn Risotto",
+  "cuisine": "Italian",
+  "fingerprint": "dc058591589154c542c058e588602018d5fe1712f03549b6f8a0dea9ee3e0a81",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": true,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical risotto recipe quantities (150g rice + 1L stock + proteins/veg yields ~4 adult main-dish portions).",
+    "Preparation time estimated from sequential steps: onion/rice cooking (~15 min), gradual stock absorption with stirring (~20 min), salmon grilling (~8-10 min), plus lemon/seasoning/asparagus prep and final assembly; total active ~45 min.",
+    "Parmesan classified as dairy (milk); butter as dairy (milk); salmon as fish; prawns as shellfish; no wheat, eggs, nuts, peanuts, soy, or sesame listed.",
+    "Asparagus, lemon, onion, stock, wine, pepper, and rice (assuming standard risotto rice) introduce no listed allergens.",
+    "Recipe is pescatarian (includes fish/shellfish but no meat); not vegetarian/vegan due to salmon, prawns, butter, and Parmesan; gluten-free as no barley/rye/wheat/oats; not dairy-free due to butter and Parmesan."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Melt the butter in a thick-based pan and gently cook the onion without colour until it is soft.\r\nAdd the rice and stir to coat all the grains in the butter\r\nAdd the wine and cook gently stirring until it is absorbed\r\nGradually add the hot stock, stirring until each addition is absorbed. Keep stirring until the rice is tender\r\nSeason with the lemon juice and zest, and pepper to taste. (there will probably be sufficient saltiness from the salmon to not need to add salt) Stir gently to heat through\r\nServe scattered with the Parmesan and seasonal vegetables.\r\nGrill the salmon and gently place onto the risotto with the prawns and asparagus",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "butter",
+      "measurement": "50g/2oz",
+      "grams": 50,
+      "assumptions": "Standard unsalted butter; values for pure butterfat with negligible carbs."
+    },
+    {
+      "position": 2,
+      "name": "onion",
+      "measurement": "1 finely chopped",
+      "grams": 110,
+      "assumptions": "Medium onion (approx 110g) finely chopped; typical raw onion nutrition."
+    },
+    {
+      "position": 3,
+      "name": "rice",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Arborio or Carnaroli risotto rice; standard uncooked white rice values."
+    },
+    {
+      "position": 4,
+      "name": "white wine",
+      "measurement": "125ml",
+      "grams": 125,
+      "assumptions": "Dry white wine (125 ml ≈ 125 g); alcohol and sugars contribute to low carbs."
+    },
+    {
+      "position": 5,
+      "name": "vegetable stock",
+      "measurement": "1 litre hot",
+      "grams": 1000,
+      "assumptions": "Vegetable stock (1 litre ≈ 1000 g); typical low-calorie prepared stock."
+    },
+    {
+      "position": 6,
+      "name": "lemon",
+      "measurement": "The juice and zest of one",
+      "grams": 60,
+      "assumptions": "Juice + zest of one average lemon (≈60 g edible portion); standard lemon values."
+    },
+    {
+      "position": 7,
+      "name": "King Prawns",
+      "measurement": "240g large",
+      "grams": 240,
+      "assumptions": "Raw peeled king prawns (240 g edible); typical large prawn nutrition."
+    },
+    {
+      "position": 8,
+      "name": "salmon",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Raw Atlantic salmon fillet (150 g edible); standard farmed salmon values."
+    },
+    {
+      "position": 9,
+      "name": "asparagus",
+      "measurement": "100g tips blanched briefly in boiling water",
+      "grams": 100,
+      "assumptions": "Blanched asparagus tips (100 g edible); typical fresh asparagus values."
+    },
+    {
+      "position": 10,
+      "name": "black pepper",
+      "measurement": "ground",
+      "grams": 2,
+      "assumptions": "Ground black pepper (small pinch estimated 2 g); negligible contribution but included."
+    },
+    {
+      "position": 11,
+      "name": "Parmesan",
+      "measurement": "50g shavings",
+      "grams": 50,
+      "assumptions": "Parmesan cheese shavings (50 g edible); standard hard Parmesan values."
+    }
+  ],
+  "nutrition": {
+    "calories": 1890.6,
+    "protein": 124.22,
+    "fat": 77.28,
+    "fiber": 8.4,
+    "carbs": 151.37
+  }
+}

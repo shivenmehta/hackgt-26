@@ -1,0 +1,121 @@
+{
+  "id": "53295",
+  "name": "Polish chocolate & walnut cake",
+  "cuisine": "Polish",
+  "fingerprint": "b0f77dab70345d3025a1bc3fddc2545f4f7b38213cefff03dab1fc013c390427",
+  "yield": 12,
+  "minutes": 210,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": null,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical layered cake size (30x22cm tin) and rich dessert portions.",
+    "Total time sums active prep (~45 min), baking (35+40 min), cooling (~30 min), assembly (~15 min), and minimum 1 hr fridge set time; excludes optional extra chilling.",
+    "Cocoa powder treated as non-dairy; chocolate chips assumed dairy-free but allergen left null due to possible milk chocolate variants.",
+    "Potato starch treated as distinct from wheat flour."
+  ],
+  "categories": [],
+  "instructions": "Heat the oven to 170C/150C fan/gas 3½. Line a 30 x 22cm shallow baking tin with baking parchment. Sift the flour and mix it with cocoa, then set aside. Beat the egg whites until stiff, then add the sugar to them in small batches. Add the egg yolks, one by one, whisking constantly. Tip in the flour mixture and gently fold everything together with a spatula. Pour the prepared batter into the lined tin and bake for 35 mins. Cool for 5 mins, remove from the tin and re-line the tin with baking parchment.\r\n\r\nstep 2\r\nTo make the meringue, whisk the whites until stiff, then gradually whisk in the sugar, one tablespoon at a time. When you have a stiff and shiny meringue, fold in the finely chopped walnuts, flour and startch. Spread the mixture into the re-lined tin and cook for 40 mins on the same heat. Remove from the oven and leave to cool.\r\n\r\nstep 3\r\nFor the chocolate glaze, heat the cream over low heat, then remove from the heat, pour the chopped chocolate into it and mix it until it melts and becomes shiny.\r\n\r\nstep 4\r\nCut the cooled chocolate sponge cake and meringue into two layers. Put the nut meringue on top of the bottom layer of sponge and sprinkle on some of the reserved walnuts. Add another layer of meringue and then the upper layer of chocolate sponge cake and cover the top with chocolate glaze. Decorate with walnuts. Put the finished cake in the fridge for 1-2 hrs before serving.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/e8ihjp1764123021.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Plain Flour",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Standard plain wheat flour, dry weight as listed."
+    },
+    {
+      "position": 2,
+      "name": "Coco Sugar",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Cocoa powder (unsweetened, typical for baking); name listed as Coco Sugar is interpreted as cocoa based on Polish cake context and instructions to sift with flour."
+    },
+    {
+      "position": 3,
+      "name": "Egg",
+      "measurement": "8",
+      "grams": 400,
+      "assumptions": "8 large whole eggs (approx 50g edible portion each including shell adjustment); used in sponge batter per instructions."
+    },
+    {
+      "position": 4,
+      "name": "Caster Sugar",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Standard caster sugar, fully used in sponge."
+    },
+    {
+      "position": 5,
+      "name": "Egg White",
+      "measurement": "5",
+      "grams": 175,
+      "assumptions": "5 large egg whites (approx 35g each); used for meringue per instructions."
+    },
+    {
+      "position": 6,
+      "name": "Caster Sugar",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Standard caster sugar, fully used in meringue."
+    },
+    {
+      "position": 7,
+      "name": "Walnuts",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Shelled walnuts; 250g listed is total, majority chopped and folded into meringue with some reserved for sprinkling and decoration per instructions; edible kernel weight."
+    },
+    {
+      "position": 8,
+      "name": "Plain Flour",
+      "measurement": "1 tablespoon",
+      "grams": 8,
+      "assumptions": "1 level tablespoon plain flour (approx 8g); folded into meringue per instructions."
+    },
+    {
+      "position": 9,
+      "name": "Potato Starch",
+      "measurement": "1 tablespoon",
+      "grams": 10,
+      "assumptions": "1 level tablespoon potato starch (approx 10g); folded into meringue per instructions."
+    },
+    {
+      "position": 10,
+      "name": "Double Cream",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Double (heavy) cream, fully used to make glaze per instructions."
+    },
+    {
+      "position": 11,
+      "name": "Chocolate Chips",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Dark chocolate chips (typical semi-sweet baking type), melted into cream for glaze per instructions."
+    }
+  ],
+  "nutrition": {
+    "calories": 5531.12,
+    "protein": 131.65,
+    "fat": 274.08,
+    "fiber": 29.34,
+    "carbs": 679.13
+  }
+}

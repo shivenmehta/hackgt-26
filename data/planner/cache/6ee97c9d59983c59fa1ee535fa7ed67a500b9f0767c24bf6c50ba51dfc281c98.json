@@ -1,0 +1,151 @@
+{
+  "id": "53244",
+  "name": "Prawn & noodle salad with crispy shallots",
+  "cuisine": "Vietnamese",
+  "fingerprint": "6ee97c9d59983c59fa1ee535fa7ed67a500b9f0767c24bf6c50ba51dfc281c98",
+  "yield": 2,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": true,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe serves 2 as a main lunch or dinner dish based on typical Vietnamese noodle salad portions with 200g each of noodles and prawns.",
+    "Total active preparation and cooking time estimated at 20 minutes from the described steps (shallot frying ~5 min, noodle soaking ~2 min, mixing ~5 min, plus prep).",
+    "Flour classified as wheat flour, introducing gluten and wheat allergens; fish sauce introduces fish allergen; prawns introduce shellfish allergen; peanuts introduce peanut allergen.",
+    "Oil for frying and flour dusting amounts are estimates as listed; no dairy, eggs, tree nuts, or sesame ingredients present.",
+    "Pescatarian true due to seafood but no meat; vegetarian/vegan false due to prawns and fish sauce; gluten-free null due to flour (possible wheat).",
+    "Cucumber, onion, chilli, herbs, lime, sugar, and garlic introduce no listed allergens or dietary conflicts."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nFor the crispy shallots, heat 5cm of oil until hot in a wok. You will know the oil is hot enough when one piece of shallot sizzles as soon as it’s dropped in. Toss the shallot slices with flour, shake off excess and fry in the oil until golden. They fry quickly, about 1 min. Drain on kitchen paper, sprinkle with salt and set aside.\r\n\r\nstep 2\r\nTo make the dressing, mix the lime juice, sugar, fish sauce and garlic and set aside. In a large mixing bowl, pour boiling water over the noodles. Leave them for 2 mins or until they are just cooked, then rinse under cold water. Drain well, shaking the sieve numerous times to get out the excess water, then place back in the bowl. Add prawns, onion, chilli, cucumber and herbs. Pour the dressing over, mix, then sprinkle with the shallots and peanuts.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/0iryz91763778419.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Rice Noodles",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Standard dried rice vermicelli/noodles; values for uncooked weight as listed in recipe."
+    },
+    {
+      "position": 2,
+      "name": "Prawns",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Cooked peeled prawns (typical for Vietnamese salad); edible portion only."
+    },
+    {
+      "position": 3,
+      "name": "Red Onions",
+      "measurement": "1 sliced",
+      "grams": 110,
+      "assumptions": "1 medium red onion (approx 110 g) sliced; typical household size."
+    },
+    {
+      "position": 4,
+      "name": "Red Chilli",
+      "measurement": "1 sliced",
+      "grams": 20,
+      "assumptions": "1 medium red chilli (approx 20 g) sliced; typical size."
+    },
+    {
+      "position": 5,
+      "name": "Cucumber",
+      "measurement": "1 sliced",
+      "grams": 300,
+      "assumptions": "1 medium cucumber (approx 300 g) sliced; typical size including peel."
+    },
+    {
+      "position": 6,
+      "name": "Coriander",
+      "measurement": "Handful",
+      "grams": 25,
+      "assumptions": "Handful of fresh coriander leaves and stems; approx 25 g typical handful."
+    },
+    {
+      "position": 7,
+      "name": "Mint",
+      "measurement": "Handful",
+      "grams": 25,
+      "assumptions": "Handful of fresh mint leaves; approx 25 g typical handful."
+    },
+    {
+      "position": 8,
+      "name": "Roasted Peanut",
+      "measurement": "2 tablespoons",
+      "grams": 18,
+      "assumptions": "2 tablespoons roasted unsalted peanuts; standard 9 g per tbsp."
+    },
+    {
+      "position": 9,
+      "name": "Lime",
+      "measurement": "Juice of 3",
+      "grams": 120,
+      "assumptions": "Juice of 3 limes; approx 40 ml per lime (total 120 g juice)."
+    },
+    {
+      "position": 10,
+      "name": "Brown Sugar",
+      "measurement": "1 tablespoon",
+      "grams": 12,
+      "assumptions": "1 tablespoon brown sugar; standard 12 g."
+    },
+    {
+      "position": 11,
+      "name": "Fish Sauce",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 tsp fish sauce; standard 5 g per tsp (total 10 g)."
+    },
+    {
+      "position": 12,
+      "name": "Garlic",
+      "measurement": "1 clove peeled crushed",
+      "grams": 3,
+      "assumptions": "1 clove garlic crushed; approx 3 g."
+    },
+    {
+      "position": 13,
+      "name": "Shallots",
+      "measurement": "5 Slices",
+      "grams": 75,
+      "assumptions": "5 shallots sliced (approx 15 g each, total 75 g); typical small shallots."
+    },
+    {
+      "position": 14,
+      "name": "Vegetable Oil",
+      "measurement": "For frying",
+      "grams": 15,
+      "assumptions": "Oil absorbed during shallow frying of shallots; plausible 15 g retained after draining on paper."
+    },
+    {
+      "position": 15,
+      "name": "Flour",
+      "measurement": "Sprinkling",
+      "grams": 5,
+      "assumptions": "Light sprinkling of plain flour to dust shallots before frying; approx 5 g used."
+    }
+  ],
+  "nutrition": {
+    "calories": 1407.93,
+    "protein": 71.65,
+    "fat": 29.99,
+    "fiber": 17.46,
+    "carbs": 228.88
+  }
+}

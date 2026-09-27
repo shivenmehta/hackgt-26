@@ -1,0 +1,125 @@
+{
+  "id": "53209",
+  "name": "Spicy Thai prawn noodles",
+  "cuisine": "Thai",
+  "fingerprint": "97176c73352c1fc7cc14ef260e1e8f1eac26e96a607107fa52e65c1f4506660f",
+  "yield": 2,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": null,
+    "Peanuts": true,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Recipe serves 2 adults as a main dish based on 450g prawns and 200g noodles being typical for 2 portions",
+    "Preparation and cooking time estimated at 15 minutes from instructions (noodle cooking ~5 min + egg omelette ~3 min + stir-fry ~5-7 min)",
+    "Soy sauce assumed to contain wheat (standard unless specified gluten-free)",
+    "Fish allergen null as prawns are crustaceans (shellfish) and no fin fish present",
+    "Tree nuts null as peanuts are legumes and no tree nuts listed",
+    "Gluten-free null due to soy sauce typically containing wheat and lack of certification for noodles or other items",
+    "Pescatarian true as only seafood (prawns) is the animal product, compatible with eggs and no meat",
+    "Dairy-free true as no milk, cheese, or other dairy ingredients"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nCook the noodles following the pack instructions, drain and set aside for later. Heat the oil in a large frying pan and pour in the beaten egg. Swirl around the pan to make a thin omelette, cook for 1-2 mins, then flip over and cook the other side for 1 min. Tip out and slice into thin strips.\r\n\r\nstep 2\r\nAdd the chilli and ginger to the pan, fry for 1-2 mins then tip in the noodles, prawns and egg. Splash in the soy sauce and stir-fry for 1 min more. Throw in the chopped herbs and pour over the lime juice and zest, then sprinkle over the chopped peanuts and serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/568t931763584227.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Rice Noodles",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Dry rice noodles as per pack; typical Asian rice stick noodle values used."
+    },
+    {
+      "position": 2,
+      "name": "Sesame Seed Oil",
+      "measurement": "1 tablespoon",
+      "grams": 14,
+      "assumptions": "1 tbsp sesame oil (14g); assumes all oil is used for cooking the egg."
+    },
+    {
+      "position": 3,
+      "name": "Egg",
+      "measurement": "2 Beaten",
+      "grams": 120,
+      "assumptions": "2 large eggs beaten (~60g each); values for whole raw egg."
+    },
+    {
+      "position": 4,
+      "name": "Red Chilli",
+      "measurement": "1 chopped",
+      "grams": 45,
+      "assumptions": "1 medium red chili (~45g whole, chopped); typical fresh red chili values."
+    },
+    {
+      "position": 5,
+      "name": "Ginger",
+      "measurement": "3cm piece",
+      "grams": 15,
+      "assumptions": "3cm fresh ginger root (~15g peeled and chopped); typical fresh ginger values."
+    },
+    {
+      "position": 6,
+      "name": "Prawns",
+      "measurement": "450g",
+      "grams": 450,
+      "assumptions": "450g raw peeled prawns (edible portion); typical cooked prawn values adjusted for raw weight context."
+    },
+    {
+      "position": 7,
+      "name": "Soy Sauce",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp soy sauce (~15g); typical regular soy sauce values."
+    },
+    {
+      "position": 8,
+      "name": "Coriander",
+      "measurement": "Bunch",
+      "grams": 30,
+      "assumptions": "1 bunch fresh coriander (~30g chopped leaves and stems); typical fresh cilantro values."
+    },
+    {
+      "position": 9,
+      "name": "Mint",
+      "measurement": "1/2 handful",
+      "grams": 15,
+      "assumptions": "Half a handful fresh mint (~15g leaves); typical fresh mint values."
+    },
+    {
+      "position": 10,
+      "name": "Lime",
+      "measurement": "Zest and juice of 1",
+      "grams": 60,
+      "assumptions": "Zest and juice of 1 lime (~60g total edible yield); typical lime values."
+    },
+    {
+      "position": 11,
+      "name": "Peanuts",
+      "measurement": "Handful",
+      "grams": 30,
+      "assumptions": "1 handful roasted peanuts (~30g chopped); typical dry-roasted unsalted peanut values."
+    }
+  ],
+  "nutrition": {
+    "calories": 1637.86,
+    "protein": 124.3,
+    "fat": 50.01,
+    "fiber": 10.53,
+    "carbs": 178.5
+  }
+}

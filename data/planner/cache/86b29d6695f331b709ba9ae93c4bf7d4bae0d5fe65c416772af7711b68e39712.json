@@ -1,0 +1,138 @@
+{
+  "id": "53170",
+  "name": "Chocolate churros with chocolate & salted caramel sauce",
+  "cuisine": "Spanish",
+  "fingerprint": "86b29d6695f331b709ba9ae93c4bf7d4bae0d5fe65c416772af7711b68e39712",
+  "yield": 6,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical churro recipe portions (12-15cm lengths, 4-5 at a time, total dough quantity suggests 6 servings with ice cream).",
+    "Total time is a conservative estimate based on sauce (5-6 min), dough prep and cooling (10 min), frying in batches (~20 min), and optional reheating; active prep and cooking combined.",
+    "Ice cream and sunflower oil quantities are estimates as unspecified; all other ingredients use full listed amounts.",
+    "Plain flour classified as containing wheat; no gluten-free certification mentioned.",
+    "Butter, double cream, melted butter, and ice cream confirm dairy presence.",
+    "No eggs, fish, shellfish, peanuts, or sesame listed.",
+    "Tree nuts and soy are ambiguous due to possible cross-contamination or unspecified chocolate/compound ingredients."
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nTo make the sauce, tip the sugar and butter into a saucepan and bring to a simmer until the sugar has melted, then stir in the cream and simmer until you have a smooth sauce, about 2-3 mins. Remove from the heat, stir through a pinch of sea salt and the chocolate, and continue to stir for 2-3 mins, or until it has completely melted. Keep warm or leave to cool for reheating later. For the coating, mix the sugar with the cinnamon and a small pinch of fine sea salt and set aside.\r\n\r\nstep 2\r\nFor the churros, tip the flour, cocoa, baking powder and a large pinch of salt into a bowl. Add the vanilla extract and melted butter, then carefully pour in 250-300ml boiling water and whisk to make a smooth, very thick batter. Leave to cool for a few minutes, then scrape the mixture into a piping bag fitted with a medium star nozzle.\r\n\r\nstep 3\r\nTip sunflower oil into a deep-fat fryer following the manufacturer’s instructions, or a heavy-based pan, ensuring it is no more than a third full. Heat to 170C, or until a cube of bread dropped in browns in 30 seconds. Pipe 12-15cm lengths of dough into the oil, snipping off the end of each one with a pair of scissors as you go. Pipe four or five at a time and cook for around 4 mins, or until golden and crisp, turning them with tongs or a slotted spoon as they cook. Remove from the oil and place on a wire rack. Repeat with the rest of the dough. Leave to cool if reheating later, otherwise roll the churros in the cinnamon sugar and serve immediately with the warm chocolate sauce and ice cream. To reheat the churros, put on a tray and bake for 5-8 mins, then roll in the sugar coating. Meanwhile, warm the sauce in a pan and serve alongside for dipping.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/erzs951763296201.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sunflower Oil",
+      "measurement": "For frying",
+      "grams": 50,
+      "assumptions": "Typical amount of sunflower oil absorbed by deep-fried churros; recipe uses oil for frying with no specific quantity given, so a conservative recipe-specific estimate for the entire batch based on similar churro recipes."
+    },
+    {
+      "position": 2,
+      "name": "Ice Cream",
+      "measurement": "To serve",
+      "grams": 200,
+      "assumptions": "Standard vanilla ice cream scoop (about 2 medium scoops to serve the batch of churros); quantity not specified so a plausible serving amount for the recipe."
+    },
+    {
+      "position": 3,
+      "name": "Muscovado Sugar",
+      "measurement": "120g",
+      "grams": 120,
+      "assumptions": "Muscovado sugar used in the salted caramel chocolate sauce; full listed quantity."
+    },
+    {
+      "position": 4,
+      "name": "Butter",
+      "measurement": "60g",
+      "grams": 60,
+      "assumptions": "Butter used in the salted caramel chocolate sauce; full listed quantity."
+    },
+    {
+      "position": 5,
+      "name": "Double Cream",
+      "measurement": "250ml",
+      "grams": 250,
+      "assumptions": "Double (heavy) cream used in the salted caramel chocolate sauce; full listed quantity of 250ml converted using density ~1g/ml."
+    },
+    {
+      "position": 6,
+      "name": "Dark Chocolate",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Dark chocolate (70% cocoa) used in the sauce; full listed quantity."
+    },
+    {
+      "position": 7,
+      "name": "Golden Caster Sugar",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Golden caster sugar used for the cinnamon-sugar coating; full listed quantity."
+    },
+    {
+      "position": 8,
+      "name": "Cinnamon",
+      "measurement": "2 teaspoon",
+      "grams": 5,
+      "assumptions": "Ground cinnamon for the coating; 2 tsp converted to ~5g as a typical household measure."
+    },
+    {
+      "position": 9,
+      "name": "Plain Flour",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Plain white flour for the churro dough; full listed quantity."
+    },
+    {
+      "position": 10,
+      "name": "Cocoa Powder",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Unsweetened cocoa powder for the churro dough; full listed quantity."
+    },
+    {
+      "position": 11,
+      "name": "Baking Powder",
+      "measurement": "1 teaspoon",
+      "grams": 4,
+      "assumptions": "Baking powder for the churro dough; 1 tsp converted to ~4g as a typical household measure."
+    },
+    {
+      "position": 12,
+      "name": "Vanilla Extract",
+      "measurement": "1 teaspoon",
+      "grams": 5,
+      "assumptions": "Vanilla extract for the churro dough; 1 tsp converted to ~5g as a typical household measure."
+    },
+    {
+      "position": 13,
+      "name": "Melted Butter",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Melted butter stirred into the churro dough; full listed quantity."
+    }
+  ],
+  "nutrition": {
+    "calories": 4744.72,
+    "protein": 47.66,
+    "fat": 292.55,
+    "fiber": 35.15,
+    "carbs": 502.92
+  }
+}

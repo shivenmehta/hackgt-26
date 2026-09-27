@@ -1,0 +1,118 @@
+{
+  "id": "52871",
+  "name": "Yaki Udon",
+  "cuisine": "Japanese",
+  "fingerprint": "d40812725d997134bcc277f5dd5a2f4ecfe224739a4e45d3b2d26f8f438d6acb",
+  "yield": 2,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": null,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated from typical BBC Good Food / Japanese stir-fry noodle recipes with 250g dry udon (standard 2 adult portions).",
+    "Total time conservatively summed from sequential steps: boiling ~6 min + sauté 5 min + 1 min + final stir-fry ~5-8 min allowing for heating/stickiness; rounded.",
+    "Worcestershire sauce typically contains anchovies (fish) and is not vegan; also often barley malt (gluten).",
+    "Udon noodles are wheat-based (gluten).",
+    "Sesame oil present (sesame allergen).",
+    "Soy sauce present (soy and wheat).",
+    "No dairy, eggs, peanuts, tree nuts, or shellfish ingredients listed.",
+    "Cabbage, onion, mushrooms, spring onions, mirin, and sugar are plant-based and compatible with listed diets where marked true."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Boil some water in a large saucepan. Add 250ml cold water and the udon noodles. (As they are so thick, adding cold water helps them to cook a little bit slower so the middle cooks through). If using frozen or fresh noodles, cook for 2 mins or until al dente; dried will take longer, about 5-6 mins. Drain and leave in the colander.\r\nHeat 1 tbsp of the oil, add the onion and cabbage and sauté for 5 mins until softened. Add the mushrooms and some spring onions, and sauté for 1 more min. Pour in the remaining sesame oil and the noodles. If using cold noodles, let them heat through before adding the ingredients for the sauce – otherwise tip in straight away and keep stir-frying until sticky and piping hot. Sprinkle with the remaining spring onions.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wrustq1511475474.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Udon Noodles",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Standard dried udon noodles; cooked weight would be higher but using dry equivalent as listed."
+    },
+    {
+      "position": 2,
+      "name": "Sesame Seed Oil",
+      "measurement": "2 tbs",
+      "grams": 27,
+      "assumptions": "2 tablespoons sesame oil; 1 tbsp ≈ 13.5 g, typical vegetable oil density applied."
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 sliced",
+      "grams": 110,
+      "assumptions": "1 medium onion, sliced; typical edible weight 110 g."
+    },
+    {
+      "position": 4,
+      "name": "Cabbage",
+      "measurement": "0.25",
+      "grams": 250,
+      "assumptions": "Quarter of a medium cabbage (≈1 kg whole); edible portion after trimming."
+    },
+    {
+      "position": 5,
+      "name": "Shiitake Mushrooms",
+      "measurement": "10",
+      "grams": 100,
+      "assumptions": "10 shiitake mushrooms; average fresh mushroom 10 g each, typical package size."
+    },
+    {
+      "position": 6,
+      "name": "Spring Onions",
+      "measurement": "4",
+      "grams": 60,
+      "assumptions": "4 medium spring onions; ≈15 g each trimmed."
+    },
+    {
+      "position": 7,
+      "name": "Mirin",
+      "measurement": "4 tbsp",
+      "grams": 60,
+      "assumptions": "4 tablespoons mirin; 1 tbsp ≈ 15 g, sweet rice wine."
+    },
+    {
+      "position": 8,
+      "name": "Soy Sauce",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tablespoons soy sauce; 1 tbsp ≈ 15 g, standard sodium type."
+    },
+    {
+      "position": 9,
+      "name": "Caster Sugar",
+      "measurement": "1 tblsp",
+      "grams": 12,
+      "assumptions": "1 tablespoon caster sugar; ≈12 g, typical granulated."
+    },
+    {
+      "position": 10,
+      "name": "Worcestershire Sauce",
+      "measurement": "1 tblsp",
+      "grams": 15,
+      "assumptions": "1 tablespoon Worcestershire sauce; ≈15 g, standard condiment."
+    }
+  ],
+  "nutrition": {
+    "calories": 1475.52,
+    "protein": 39.66,
+    "fat": 31.8,
+    "fiber": 19.68,
+    "carbs": 259.06
+  }
+}

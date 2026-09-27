@@ -1,0 +1,113 @@
+{
+  "id": "53299",
+  "name": "Polish patties (kotlety)",
+  "cuisine": "Polish",
+  "fingerprint": "e8d1dc7571a482776d1c067772d469a9658751e7d20a6ab4009cb898bcfc65d2",
+  "yield": 8,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield of 8 based on explicit instruction to divide meat mixture into 8 patties",
+    "Total time estimated from instructions: ~8 min onion frying + ~15 min for two batches of patties (6-7 min per side) + ~10-12 min estimated for mixing, soaking, shaping = 35 min",
+    "Bread roll classified as containing wheat and gluten",
+    "Breadcrumbs classified as containing wheat and gluten",
+    "Milk classified as dairy",
+    "Egg classified as egg allergen",
+    "Vegetable oil, onion, garlic, marjoram, and ground beef introduce no additional listed allergens",
+    "No vegan/vegetarian/pescatarian compatibility due to ground beef",
+    "No gluten-free compatibility due to bread roll and breadcrumbs",
+    "No dairy-free compatibility due to milk"
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nSoak the bread roll in the milk so it softens completely. Meanwhile, fry the onion in the oil for around 8 mins or until soft and golden. Add the fried onion to the beef mince along with the egg, garlic, marjoram and some seasoning. Squeeze the excess milk from the bread roll and add it to the mince mixture. Mix everything together and season well.\r\n\r\nstep 2\r\nDivide the meat into 8 patties. Tip the dried breadcrumbs into a shallow bowl and coat the patties in it, all over. Heat some oil in a deep frying pan and fry the patties in batches on both sides until browned and cooked through, about 6-7 mins on each side.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vvn5f71764360273.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Bread Rolls",
+      "measurement": "1",
+      "grams": 50,
+      "assumptions": "Standard white bread roll ~50g each; typical size used in Polish recipes for kotlety."
+    },
+    {
+      "position": 2,
+      "name": "Milk",
+      "measurement": "120ml",
+      "grams": 122,
+      "assumptions": "120ml semi-skimmed milk; density ~1.02g/ml, all milk is absorbed then excess squeezed out but full amount used in estimate."
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium onion chopped (~110g raw); typical size for this recipe quantity."
+    },
+    {
+      "position": 4,
+      "name": "Vegetable Oil",
+      "measurement": "100 ml",
+      "grams": 92,
+      "assumptions": "100ml vegetable oil for frying onion (density ~0.92g/ml); full amount included as it is part of the cooked mixture even if some remains in pan."
+    },
+    {
+      "position": 5,
+      "name": "Ground Beef",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "500g raw ground beef (80/20 lean-to-fat typical for patties); remains ~500g after cooking loss accounted in per-100g values."
+    },
+    {
+      "position": 6,
+      "name": "Egg",
+      "measurement": "1",
+      "grams": 50,
+      "assumptions": "1 large egg (~50g edible portion without shell)."
+    },
+    {
+      "position": 7,
+      "name": "Garlic Clove",
+      "measurement": "1",
+      "grams": 3,
+      "assumptions": "1 small garlic clove (~3g); typical weight."
+    },
+    {
+      "position": 8,
+      "name": "Marjoram",
+      "measurement": "Pinch",
+      "grams": 1,
+      "assumptions": "Pinch of dried marjoram estimated at 1g for nutrition purposes; plausible small amount in recipe."
+    },
+    {
+      "position": 9,
+      "name": "Breadcrumbs",
+      "measurement": "75g",
+      "grams": 75,
+      "assumptions": "75g dried breadcrumbs (plain); full amount used for coating, some may not adhere but all included per recipe."
+    }
+  ],
+  "nutrition": {
+    "calories": 2665.94,
+    "protein": 111.23,
+    "fat": 203.25,
+    "fiber": 6.48,
+    "carbs": 98.92
+  }
+}

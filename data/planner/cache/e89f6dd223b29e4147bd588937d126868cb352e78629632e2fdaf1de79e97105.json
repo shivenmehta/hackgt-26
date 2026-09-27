@@ -1,0 +1,127 @@
+{
+  "id": "53195",
+  "name": "Thai curry noodle soup",
+  "cuisine": "Thai",
+  "fingerprint": "e89f6dd223b29e4147bd588937d126868cb352e78629632e2fdaf1de79e97105",
+  "yield": 2,
+  "minutes": 10,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": null,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from instructions that divide the finished soup between two bowls.",
+    "Total active and cooking time summed from the two steps (1 min + 3 min + 5 min plus negligible bring-to-boil time) rounded to nearest 10 min.",
+    "Pescatarian true because the only animal product is shellfish (prawns).",
+    "Vegetarian and Vegan false because of prawns.",
+    "Dairy-free true; no milk or dairy ingredients listed.",
+    "Gluten-free null because udon noodles are typically wheat-based but could be certified gluten-free in some products; not specified here.",
+    "Shellfish true because of Raw King Prawns.",
+    "Wheat true because of Udon Noodles (wheat flour).",
+    "Thai Green Curry Paste left as null for all allergens because it is a compound ingredient whose exact formulation is unspecified.",
+    "No other allergens confidently present or absent."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat the oil in a saucepan over a medium heat and cook the curry paste for 1 min before adding the stir-fry veg and prawns. Cook for 3 mins until the prawns are mostly pink, then add the coconut milk, veg stock and noodles.\r\n\r\nstep 2\r\nBring to the boil, then reduce the heat to a simmer and cook for 5 mins until the noodles are cooked through and the veg is tender but still has a bite. Divide between two bowls and sprinkle over the herbs, chilli and spring onion.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/118oj61763423896.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Vegetable Oil",
+      "measurement": "1 teaspoon",
+      "grams": 5,
+      "assumptions": "Standard vegetable oil; 1 tsp = 4.5-5g."
+    },
+    {
+      "position": 2,
+      "name": "Thai Green Curry Paste",
+      "measurement": "1 tbsp",
+      "grams": 15,
+      "assumptions": "Typical Thai green curry paste nutrition; 1 tbsp ≈ 15g."
+    },
+    {
+      "position": 3,
+      "name": "Stir-fry Vegetables",
+      "measurement": "220g",
+      "grams": 220,
+      "assumptions": "Mixed stir-fry vegetables (broccoli, peppers, carrots, etc.); given as 220g, used directly."
+    },
+    {
+      "position": 4,
+      "name": "Raw King Prawns",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Raw king prawns, peeled; given as 150g, used directly (edible portion)."
+    },
+    {
+      "position": 5,
+      "name": "Coconut Milk",
+      "measurement": "150ml",
+      "grams": 145,
+      "assumptions": "Canned full-fat coconut milk; 150ml ≈ 145g (density ≈0.97g/ml)."
+    },
+    {
+      "position": 6,
+      "name": "Vegetable Stock",
+      "measurement": "225ml",
+      "grams": 225,
+      "assumptions": "Vegetable stock/broth from concentrate or cube; 225ml ≈ 225g, low-calorie."
+    },
+    {
+      "position": 7,
+      "name": "Udon Noodles",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Pre-cooked udon noodles (typical vacuum-packed); given as 250g, used directly."
+    },
+    {
+      "position": 8,
+      "name": "Coriander",
+      "measurement": "10g",
+      "grams": 10,
+      "assumptions": "Fresh coriander (cilantro) leaves; given as 10g, used directly."
+    },
+    {
+      "position": 9,
+      "name": "Basil",
+      "measurement": "10g",
+      "grams": 10,
+      "assumptions": "Fresh basil leaves; given as 10g, used directly."
+    },
+    {
+      "position": 10,
+      "name": "Red Chilli",
+      "measurement": "1 sliced",
+      "grams": 20,
+      "assumptions": "1 medium red chilli, sliced (edible portion ≈20g including seeds)."
+    },
+    {
+      "position": 11,
+      "name": "Spring Onions",
+      "measurement": "1 sliced",
+      "grams": 15,
+      "assumptions": "1 spring onion, sliced (edible portion ≈15g)."
+    }
+  ],
+  "nutrition": {
+    "calories": 951.6,
+    "protein": 49.58,
+    "fat": 40.1,
+    "fiber": 12.08,
+    "carbs": 93.4
+  }
+}

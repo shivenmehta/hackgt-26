@@ -1,0 +1,130 @@
+{
+  "id": "53046",
+  "name": "Portuguese custard tarts",
+  "cuisine": "Portuguese",
+  "fingerprint": "97dab6d65e3131092a664bdc1109a306cf445048e6acfc392b92532225220eda",
+  "yield": 24,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield of 24 tarts based on cutting pastry into 24 wheels and using 2x12-hole tins as stated in instructions.",
+    "Preparation time of 60 minutes is a conservative estimate covering all steps from rolling pastry through baking (15 min) and cooling; exact active time not specified in source.",
+    "Puff pastry assumed to contain wheat (standard unless certified gluten-free).",
+    "Corn flour treated as cornstarch (no gluten).",
+    "No tree nuts or soy explicitly listed; left null due to possible cross-contact in commercial puff pastry or vanilla products.",
+    "No sesame, fish, or shellfish ingredients present."
+  ],
+  "categories": [],
+  "instructions": "STEP 1\r\nRoll the pastry\r\nMix the flour and icing sugar, and use this to dust the work surface. Roll the pastry out to make a 45 x 30cm rectangle. Roll up lengthways to create a long sausage shape.\r\n\r\nSTEP 2\r\nCutting pastry into rounds\r\nCut the pastry into 24 wheels, about 1-2cm thick.\r\n\r\nSTEP 3\r\nRoll out each pastry portion\r\nRoll each wheel lightly with the rolling pin to fit 2 x 12-hole non-stick fairy cake tins.\r\n\r\nSTEP 4\r\nPress pastry into the tin\r\nPress the pastry circles into the tins and mould into the tins to make thin cases. Chill until needed.\r\n\r\nSTEP 5\r\nMake the infused syrup\r\nHeat the oven to 220C/fan 200C/gas 7. Make a sugar syrup by bringing the sugar, 200ml water, lemon zest and cinnamon stick to the boil. Reduce until syrupy, allow to cool, then remove the cinnamon and lemon. Whisk the eggs, egg yolks and cornflour until smooth in another large pan.\r\n\r\nSTEP 6\r\nMaking custard\r\nHeat the milk and vanilla pod seeds in a separate pan until just below the boil. Gradually pour the hot milk over the eggs and cornflour, then cook on a low heat, continually whisking.\r\n\r\nSTEP 7\r\nAdd syrup to custard\r\nAdd the cooled sugar syrup to the custard and whisk until thickened slightly.\r\n\r\nSTEP 8\r\nPour custard into the tins\r\nPour the custard through a sieve. Pour into the pastry cases and bake for 15 minutes until the pastry is golden and the custard has darkened.\r\n\r\nSTEP 9\r\ncool and dust with icing sugar\r\nCool completely in the tins then sift over icing sugar and ground cinnamon to serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vmz7gl1614350221.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Plain Flour",
+      "measurement": "2 tbs",
+      "grams": 16,
+      "assumptions": "2 tbs plain flour is approximately 16g; standard all-purpose flour values used."
+    },
+    {
+      "position": 2,
+      "name": "Icing Sugar",
+      "measurement": "2 tbs",
+      "grams": 16,
+      "assumptions": "2 tbs icing sugar is approximately 16g; treated as powdered sugar."
+    },
+    {
+      "position": 3,
+      "name": "Puff Pastry",
+      "measurement": "375g",
+      "grams": 375,
+      "assumptions": "Full 375g puff pastry block used; typical ready-rolled puff pastry nutrition applied, raw weight."
+    },
+    {
+      "position": 4,
+      "name": "Caster Sugar",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Full 250g caster sugar used; standard granulated sugar values."
+    },
+    {
+      "position": 5,
+      "name": "Lemon Zest",
+      "measurement": "2 strips",
+      "grams": 6,
+      "assumptions": "2 strips lemon zest estimated at 6g total; peel only, typical citrus peel nutrition."
+    },
+    {
+      "position": 6,
+      "name": "Cinnamon",
+      "measurement": "1 Stick",
+      "grams": 6,
+      "assumptions": "1 cinnamon stick estimated at 6g; typical stick size and spice nutrition values."
+    },
+    {
+      "position": 7,
+      "name": "Eggs",
+      "measurement": "2",
+      "grams": 100,
+      "assumptions": "2 large whole eggs total ~100g; standard large egg nutrition."
+    },
+    {
+      "position": 8,
+      "name": "Egg Yolks",
+      "measurement": "4",
+      "grams": 68,
+      "assumptions": "4 large egg yolks total ~68g; standard yolk nutrition values."
+    },
+    {
+      "position": 9,
+      "name": "Corn Flour",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Full 50g cornflour (cornstarch) used; standard values."
+    },
+    {
+      "position": 10,
+      "name": "Whole Milk",
+      "measurement": "500ml",
+      "grams": 500,
+      "assumptions": "Full 500ml whole milk (density ~1.03g/ml so ~515g but rounded to 500g for simplicity); standard whole milk nutrition."
+    },
+    {
+      "position": 11,
+      "name": "Vanilla",
+      "measurement": "Pod of",
+      "grams": 5,
+      "assumptions": "Seeds from 1 vanilla pod estimated at 5g; typical vanilla bean nutrition, seeds only."
+    },
+    {
+      "position": 12,
+      "name": "Cinnamon",
+      "measurement": "To serve",
+      "grams": 2,
+      "assumptions": "Ground cinnamon 'to serve' estimated at 2g total for the whole recipe (small dusting amount); typical spice values."
+    }
+  ],
+  "nutrition": {
+    "calories": 3531.2,
+    "protein": 64.97,
+    "fat": 151.82,
+    "fiber": 11.1,
+    "carbs": 493.73
+  }
+}

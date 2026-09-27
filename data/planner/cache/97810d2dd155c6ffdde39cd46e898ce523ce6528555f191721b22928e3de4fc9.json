@@ -1,0 +1,109 @@
+{
+  "id": "53276",
+  "name": "Apricot & Turkish delight mess",
+  "cuisine": "Turkish",
+  "fingerprint": "97810d2dd155c6ffdde39cd46e898ce523ce6528555f191721b22928e3de4fc9",
+  "yield": 2,
+  "minutes": 10,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield of 2 inferred from dividing mixture between 2 dessert glasses/bowls in instructions.",
+    "Preparation time of 10 minutes estimated for whisking, folding, dividing, and decorating (no cooking involved).",
+    "Meringue nests assumed to contain egg whites (common in standard recipes).",
+    "Turkish delight assumed free of wheat/starch-based coatings unless specified; sesame status ambiguous as some varieties include sesame.",
+    "Mint classified as decoration/folding ingredient with negligible impact on diets/allergens.",
+    "All classifications based strictly on listed ingredients without assuming unlisted additives or processing."
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nPlace the mascarpone, yogurt, sugar and orange flower water into a large bowl and whisk until thickened. Fold the remaining ingredients through, then divide the mix between 2 dessert glasses or bowls and decorate with extra mint, if you like.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/p277uc1764109195.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Mascarpone",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Standard full-fat mascarpone cheese values; entire 100g used as listed."
+    },
+    {
+      "position": 2,
+      "name": "Greek Yogurt",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Plain full-fat Greek yogurt; entire 50g used as listed."
+    },
+    {
+      "position": 3,
+      "name": "Icing Sugar",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "Standard powdered icing sugar; entire 25g used as listed."
+    },
+    {
+      "position": 4,
+      "name": "Orange Blossom Water",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "2 tablespoons orange blossom water estimated at 30g total; negligible macros, treated as water/flavoring."
+    },
+    {
+      "position": 5,
+      "name": "Meringue Nests",
+      "measurement": "1",
+      "grams": 25,
+      "assumptions": "1 standard small meringue nest estimated at 25g (typical single nest weight); high-sugar baked meringue."
+    },
+    {
+      "position": 6,
+      "name": "Apricot",
+      "measurement": "3",
+      "grams": 270,
+      "assumptions": "3 medium fresh apricots estimated at 90g each (edible portion with stone removed); raw state per recipe folding step."
+    },
+    {
+      "position": 7,
+      "name": "Turkish Delight",
+      "measurement": "2 pieces",
+      "grams": 40,
+      "assumptions": "2 standard pieces rose-flavored Turkish delight estimated at 20g each (typical bite-size); high-sugar confectionery."
+    },
+    {
+      "position": 8,
+      "name": "Almonds",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "Toasted or flaked almonds as listed; entire 25g used."
+    },
+    {
+      "position": 9,
+      "name": "Mint",
+      "measurement": "4",
+      "grams": 8,
+      "assumptions": "4 fresh mint leaves estimated at ~2g each (total 8g); used as decoration and folded in, negligible but included for completeness."
+    }
+  ],
+  "nutrition": {
+    "calories": 1082.4,
+    "protein": 14.87,
+    "fat": 62.78,
+    "fiber": 8.17,
+    "carbs": 120.98
+  }
+}

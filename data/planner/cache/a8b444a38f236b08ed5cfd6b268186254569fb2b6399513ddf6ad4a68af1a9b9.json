@@ -1,0 +1,118 @@
+{
+  "id": "53012",
+  "name": "Gigantes Plaki",
+  "cuisine": "Greek",
+  "fingerprint": "a8b444a38f236b08ed5cfd6b268186254569fb2b6399513ddf6ad4a68af1a9b9",
+  "yield": 4,
+  "minutes": 140,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical Greek Gigantes Plaki recipes using ~400g beans plus 800g tomatoes yielding 4 main-dish servings",
+    "Total time sums active prep (~15 min) + bean simmer (50 min) + sauce cook (~15 min) + bake (60 min); excludes overnight soak",
+    "All ingredients plant-based per instructions and screening; no animal products listed",
+    "No gluten-containing ingredients (wheat, barley, rye) or uncertified oats listed",
+    "No dairy, eggs, fish, shellfish, tree nuts, peanuts, or soy listed",
+    "Sesame ambiguous as unspecified compound sauces or cross-contact not addressed",
+    "Parsley, oregano, cinnamon, and tomato products treated as standard without hidden allergens",
+    "Canned tomatoes and puree assumed plain without additives"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Soak the beans overnight in plenty of water. Drain, rinse, then place in a pan covered with water. Bring to the boil, reduce the heat, then simmer for approx 50 mins until slightly tender but not soft. Drain, then set aside.\r\n\r\nHeat oven to 180C/160C fan/gas 4. Heat the olive oil in a large frying pan, tip in the onion and garlic, then cook over a medium heat for 10 mins until softened but not browned. Add the tomato purée, cook for a further min, add remaining ingredients, then simmer for 2-3 mins. Season generously, then stir in the beans. Tip into a large ovenproof dish, then bake for approximately 1 hr, uncovered and without stirring, until the beans are tender. The beans will absorb all the fabulous flavours and the sauce will thicken. Allow to cool, then scatter with parsley and drizzle with a little more olive oil to serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/b79r6f1585566277.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Butter Beans",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Canned butter beans, drained weight as given; typical drained canned values used"
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "3 tbs",
+      "grams": 45,
+      "assumptions": "3 tablespoons olive oil (standard 15 ml per tbsp converted to grams using density ~0.91 g/ml)"
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium chopped onion, typical edible weight ~110 g"
+    },
+    {
+      "position": 4,
+      "name": "Garlic Clove",
+      "measurement": "2 chopped",
+      "grams": 6,
+      "assumptions": "2 typical garlic cloves, total peeled weight ~6 g"
+    },
+    {
+      "position": 5,
+      "name": "Tomato Puree",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tablespoons tomato puree/paste; typical weight 15 g per tbsp"
+    },
+    {
+      "position": 6,
+      "name": "Tomatoes",
+      "measurement": "800g",
+      "grams": 800,
+      "assumptions": "Canned chopped tomatoes with juice, full 800 g weight used as recipe lists 800 g tomatoes"
+    },
+    {
+      "position": 7,
+      "name": "Sugar",
+      "measurement": "1 tbs",
+      "grams": 12,
+      "assumptions": "1 tablespoon granulated sugar; typical weight 12 g"
+    },
+    {
+      "position": 8,
+      "name": "Dried Oregano",
+      "measurement": "1 tbs",
+      "grams": 4,
+      "assumptions": "1 tablespoon dried oregano; typical weight ~3-4 g, rounded to 4 g"
+    },
+    {
+      "position": 9,
+      "name": "Cinnamon",
+      "measurement": "Pinch",
+      "grams": 1,
+      "assumptions": "Pinch of ground cinnamon estimated at 1 g as plausible small amount"
+    },
+    {
+      "position": 10,
+      "name": "Chopped Parsley",
+      "measurement": "2 tbs",
+      "grams": 8,
+      "assumptions": "2 tablespoons chopped fresh parsley; typical weight ~4 g per tbsp"
+    }
+  ],
+  "nutrition": {
+    "calories": 1141.73,
+    "protein": 41.12,
+    "fat": 49.15,
+    "fiber": 42.09,
+    "carbs": 148.75
+  }
+}

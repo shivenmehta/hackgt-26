@@ -1,0 +1,136 @@
+{
+  "id": "52928",
+  "name": "BeaverTails",
+  "cuisine": "Canadian",
+  "fingerprint": "4862e227d06a1551172d64e2e882f472450704765ad56861bc0a5b7806643e8f",
+  "yield": 12,
+  "minutes": 150,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield of 12 inferred from cutting dough into 12 pieces and references to 'across 12' in ingredient assumptions.",
+    "Total time aggregates 10 min mixing/yeast activation + 90 min proofing + 20 min shaping + 20 min frying (12 pieces at ~1.5 min each) + negligible garnish time; rounded up conservatively.",
+    "Vegetarian true: all ingredients compatible with ovo-lacto vegetarian diet.",
+    "Vegan false: contains milk, butter, and eggs.",
+    "Pescatarian true: no meat or seafood.",
+    "Gluten-free false: contains wheat flour.",
+    "Dairy-free false: contains milk and butter.",
+    "Milk allergen true due to listed milk and butter.",
+    "Eggs allergen true due to listed eggs.",
+    "Wheat allergen true due to listed flour.",
+    "All other allergens set to false when confidently absent in listed ingredients or null when ambiguous (e.g. possible cross-contact in oil or unspecified Nutella in optional garnish).",
+    "Lemon, cinnamon, and garnish sugars treated as compatible with all listed diets; optional Nutella/almonds in instructions not treated as core ingredients."
+  ],
+  "categories": [],
+  "instructions": "In the bowl of a stand mixer, add warm water, a big pinch of sugar and yeast. Allow to sit until frothy.\r\nInto the same bowl, add 1/2 cup sugar, warm milk, melted butter, eggs and salt, and whisk until combined.\r\nPlace a dough hook on the mixer, add the flour with the machine on, until a smooth but slightly sticky dough forms.\r\nPlace dough in a bowl, cover with plastic wrap, and allow to proof for 1 1/2 hours.\r\nCut dough into 12 pieces, and roll out into long oval-like shapes about 1/4 inch thick that resemble a beaver’s tail.\r\nIn a large, deep pot, heat oil to 350 degrees. Gently place beavertail dough into hot oil and cook for 30 to 45 seconds on each side until golden brown.\r\nDrain on paper towels, and garnish as desired. Toss in cinnamon sugar, in white sugar with a squeeze of lemon, or with a generous slathering of Nutella and a handful of toasted almonds. Enjoy!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ryppsv1511815505.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Water",
+      "measurement": "1/2 cup",
+      "grams": 118,
+      "assumptions": "Standard tap water at room temperature; 1/2 cup = 118 ml ≈ 118 g; zero macros."
+    },
+    {
+      "position": 2,
+      "name": "Yeast",
+      "measurement": "2 parts",
+      "grams": 14,
+      "assumptions": "Active dry yeast; '2 parts' interpreted as 2 standard 7 g packets typical for this sized recipe (total 14 g); values reflect typical commercial yeast."
+    },
+    {
+      "position": 3,
+      "name": "Sugar",
+      "measurement": "1/2 cup",
+      "grams": 100,
+      "assumptions": "White granulated sugar; 1/2 cup = 100 g; used in dough."
+    },
+    {
+      "position": 4,
+      "name": "Milk",
+      "measurement": "1/2 cup",
+      "grams": 122,
+      "assumptions": "Whole cow's milk; 1/2 cup = 122 g; warmed as per instructions."
+    },
+    {
+      "position": 5,
+      "name": "Butter",
+      "measurement": "6 tblsp",
+      "grams": 85,
+      "assumptions": "Unsalted butter; 6 tablespoons = 85 g; melted as per instructions."
+    },
+    {
+      "position": 6,
+      "name": "Eggs",
+      "measurement": "2",
+      "grams": 100,
+      "assumptions": "Large whole eggs; 2 eggs ≈ 100 g edible portion without shell."
+    },
+    {
+      "position": 7,
+      "name": "Salt",
+      "measurement": "1 ½ tsp",
+      "grams": 9,
+      "assumptions": "Table salt; 1.5 tsp ≈ 9 g; zero macros."
+    },
+    {
+      "position": 8,
+      "name": "Flour",
+      "measurement": "2-1/2 cups",
+      "grams": 313,
+      "assumptions": "All-purpose white wheat flour; 2.5 cups ≈ 313 g; forms the bulk of the dough."
+    },
+    {
+      "position": 9,
+      "name": "Oil",
+      "measurement": "for frying",
+      "grams": 40,
+      "assumptions": "Vegetable frying oil (e.g. canola); 'for frying' estimated at 40 g absorbed per beaver tail across 12 pieces based on typical deep-fried pastry absorption at 350 °F."
+    },
+    {
+      "position": 10,
+      "name": "Lemon",
+      "measurement": "garnish",
+      "grams": 15,
+      "assumptions": "Fresh lemon wedges for garnish/squeeze; estimated 15 g total edible across 12 servings (≈ 1 small lemon)."
+    },
+    {
+      "position": 11,
+      "name": "Sugar",
+      "measurement": "garnish",
+      "grams": 50,
+      "assumptions": "White granulated sugar for post-fry garnish/tossing; estimated 50 g total used across 12 beaver tails."
+    },
+    {
+      "position": 12,
+      "name": "Cinnamon",
+      "measurement": "garnish",
+      "grams": 10,
+      "assumptions": "Ground cinnamon for garnish; estimated 10 g total sprinkled across 12 pieces."
+    }
+  ],
+  "nutrition": {
+    "calories": 2951.96,
+    "protein": 55.52,
+    "fat": 124.77,
+    "fiber": 18.92,
+    "carbs": 410.16
+  }
+}

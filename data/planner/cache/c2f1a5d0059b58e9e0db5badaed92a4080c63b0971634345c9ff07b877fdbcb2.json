@@ -1,0 +1,90 @@
+{
+  "id": "53064",
+  "name": "Fettuccine Alfredo",
+  "cuisine": "Italian",
+  "fingerprint": "c2f1a5d0059b58e9e0db5badaed92a4080c63b0971634345c9ff07b877fdbcb2",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe is a standard fettuccine alfredo for 4 servings based on 1 lb pasta quantity and typical restaurant/home portion sizes.",
+    "Total time estimated from instructions: ~10 min for boiling pasta + ~10 min for sauce and combining.",
+    "Parsley and black pepper treated as garnishes/seasonings with negligible impact on diets/allergens.",
+    "Parmesan classified as containing milk (dairy); rennet type unknown so Vegetarian=true with note but per rules set true.",
+    "Fettuccine assumed standard wheat-based pasta (contains wheat/gluten).",
+    "No eggs, fish, shellfish, nuts, peanuts, soy, or sesame in listed ingredients.",
+    "Heavy cream and butter confirm dairy (milk) presence.",
+    "No compound sauces or ambiguous items beyond standard interpretations."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Cook pasta according to package instructions in a large pot of boiling water and salt. Add heavy cream and butter to a large skillet over medium heat until the cream bubbles and the butter melts. Whisk in parmesan and add seasoning (salt and black pepper). Let the sauce thicken slightly and then add the pasta and toss until coated in sauce. Garnish with parsley, and it's ready.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/0jv5gx1661040802.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Fettuccine",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "Standard dry fettuccine pasta; 1 lb = 454 g; typical values for enriched durum wheat pasta."
+    },
+    {
+      "position": 2,
+      "name": "Heavy Cream",
+      "measurement": "1/2 cup",
+      "grams": 120,
+      "assumptions": "Heavy whipping cream; 1/2 cup = 120 ml ≈ 120 g; values for typical heavy cream (36-40% fat)."
+    },
+    {
+      "position": 3,
+      "name": "Butter",
+      "measurement": "1/2 cup",
+      "grams": 113,
+      "assumptions": "Unsalted butter; 1/2 cup = 113 g (standard stick equivalent); typical butter nutrition."
+    },
+    {
+      "position": 4,
+      "name": "Parmesan",
+      "measurement": "1/2 cup",
+      "grams": 50,
+      "assumptions": "Grated parmesan cheese; 1/2 cup ≈ 50 g (standard grated volume to weight); typical hard parmesan values."
+    },
+    {
+      "position": 5,
+      "name": "Parsley",
+      "measurement": "2 tbsp",
+      "grams": 8,
+      "assumptions": "Fresh chopped parsley; 2 tbsp ≈ 8 g; typical values for fresh parsley leaves."
+    },
+    {
+      "position": 6,
+      "name": "Black Pepper",
+      "measurement": "",
+      "grams": 2,
+      "assumptions": "Ground black pepper; 'to taste' assumed as 2 g (≈ 1 tsp ground, plausible for whole recipe seasoning); typical values for ground black pepper."
+    }
+  ],
+  "nutrition": {
+    "calories": 3126.03,
+    "protein": 82.02,
+    "fat": 157.01,
+    "fiber": 15.3,
+    "carbs": 329.66
+  }
+}

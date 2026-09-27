@@ -1,0 +1,138 @@
+{
+  "id": "53245",
+  "name": "Noodle bowl salad",
+  "cuisine": "Vietnamese",
+  "fingerprint": "a96a78e510113102919531a1c5630cb55d1eee274c4d53924e01a4e446882e51",
+  "yield": 2,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": true,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Recipe serves 2 based on typical noodle bowl portions with 125g dry noodles and 150g salmon total (standard for 2 adult servings).",
+    "Preparation time estimated at 15 minutes: 4 min soak/drain plus ~10 min for chopping, mixing dressing, and assembly; no cooking required.",
+    "'Ground Nut Oil' classified as peanut oil, triggering peanuts allergen.",
+    "'Pretzels' and 'Soy Sauce' introduce wheat (not gluten-free).",
+    "'Hot Smoked Flaked Salmon' confirms fish and pescatarian compatibility; no dairy, eggs, or tree nuts present.",
+    "'Sesame Seed Oil' confirms sesame allergen.",
+    "All ingredients screened conservatively per listed items; no substitutions."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nDrop the noodles into a large bowl, then pour over enough boiling water to cover. Tip in the sliced sugar snaps and leave for 4 minutes. Drain in a colander, put under cold running water to cool off, then drain again. Tip into a bowl and toss in the sesame oil.\r\n\r\nstep 2\r\nMix the dressing ingredients. Pile spring onions, coriander and salmon onto the noodles, pour over the dressing and toss everything together. Serve with a pretzel or bread roll.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/zry07j1763779321.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Rice Noodles",
+      "measurement": "125g",
+      "grams": 125,
+      "assumptions": "Dry rice noodles; standard dry weight as listed, typical Asian vermicelli-style."
+    },
+    {
+      "position": 2,
+      "name": "Sugar Snap Peas",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Raw sugar snap peas; full 200g edible weight as listed, typical fresh values."
+    },
+    {
+      "position": 3,
+      "name": "Sesame Seed Oil",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 tsp sesame oil ≈ 10g; pure oil, standard density."
+    },
+    {
+      "position": 4,
+      "name": "Spring Onions",
+      "measurement": "4 sliced",
+      "grams": 60,
+      "assumptions": "4 medium spring onions sliced ≈ 60g total edible portion; typical bunch size and values for raw green onions."
+    },
+    {
+      "position": 5,
+      "name": "Coriander",
+      "measurement": "Handful",
+      "grams": 25,
+      "assumptions": "Handful fresh coriander (cilantro) ≈ 25g; typical recipe handful, raw leaves and stems."
+    },
+    {
+      "position": 6,
+      "name": "Hot Smoked Flaked Salmon",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Hot smoked flaked salmon; 150g edible weight as listed, typical hot-smoked values (skinless)."
+    },
+    {
+      "position": 7,
+      "name": "Pretzels",
+      "measurement": "To serve",
+      "grams": 40,
+      "assumptions": "Pretzels to serve; assumed 1 medium soft pretzel or equivalent roll ≈ 40g per serving for one person, typical values."
+    },
+    {
+      "position": 8,
+      "name": "Soy Sauce",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "3 tablespoons soy sauce ≈ 45g (15g per tbsp); standard sodium-reduced or regular, typical values."
+    },
+    {
+      "position": 9,
+      "name": "Clear Honey",
+      "measurement": "1 tablespoon",
+      "grams": 20,
+      "assumptions": "1 tablespoon clear honey ≈ 20g; standard density and typical honey values."
+    },
+    {
+      "position": 10,
+      "name": "Lemon Juice",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tablespoon lemon juice ≈ 15g; fresh squeezed, typical values."
+    },
+    {
+      "position": 11,
+      "name": "Ground Nut Oil",
+      "measurement": "1 tablespoon",
+      "grams": 14,
+      "assumptions": "1 tablespoon ground nut (peanut) oil ≈ 14g; standard oil density."
+    },
+    {
+      "position": 12,
+      "name": "Garlic",
+      "measurement": "1 clove finely chopped",
+      "grams": 5,
+      "assumptions": "1 clove garlic finely chopped ≈ 5g; typical medium clove, raw."
+    },
+    {
+      "position": 13,
+      "name": "Ginger",
+      "measurement": "Knob",
+      "grams": 15,
+      "assumptions": "Knob of ginger ≈ 15g; typical small peeled piece used in dressings, raw."
+    }
+  ],
+  "nutrition": {
+    "calories": 1293.71,
+    "protein": 57.64,
+    "fat": 40.32,
+    "fiber": 12.1,
+    "carbs": 175.15
+  }
+}

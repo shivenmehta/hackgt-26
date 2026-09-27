@@ -1,0 +1,112 @@
+{
+  "id": "53148",
+  "name": "Crema Catalana",
+  "cuisine": "Spanish",
+  "fingerprint": "d967f733038c9397a5ed44a7f91178f6ec0416d8e281a74569fa3af0b8bce10a",
+  "yield": 6,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield of 6 inferred from 6 ramekins in instructions.",
+    "Preparation time of 60 minutes is a conservative estimate covering active steps (infusing 30 min, whisking ~15-20 min, cooling 1 hr noted but not fully counted as prep).",
+    "Milk is dairy milk (cow's).",
+    "Double Cream is dairy cream.",
+    "Egg Yolks are from chicken eggs.",
+    "Corn Flour is pure corn starch (no wheat).",
+    "Caster Sugar is pure sucrose with no additives.",
+    "No wheat, barley, rye, or uncertified oats present.",
+    "No tree nuts, peanuts, fish, shellfish, soy, or sesame listed."
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nPut the milk, cream, cinnamon stick and all the citrus zest in a saucepan set over a medium heat. Cook, stirring often, until the milk is just steaming but not boiling, about 3-5 mins. Remove from the heat, cover with a plate and leave to infuse for at least 30 mins.\r\n\r\nstep 2\r\nWhen the cream mixture has infused, whisk the egg yolks, sugar and cornflour together in a separate bowl for 3-5 mins, or until light and pale in colour. Pour the infused milk through a sieve into the egg mixture, whisking continuously. Return the mixture to the saucepan.\r\n\r\nstep 3\r\nPut the saucepan over a medium-high heat and whisk for around 10-12 mins. The mixture should start thickening to a custard-like consistency – you can tell it’s ready by dipping a wooden spoon in the mixture, then running a finger through the mixture on the back of the spoon. If the line holds, it's ready. Sieve the mixture into a jug to remove any froth.\r\n\r\nstep 4\r\nDivide the custard between six 150ml ramekins or small terracotta dishes, then leave to cool for 1 hr at room temperature until set with a slight wobble. Chill overnight.\r\n\r\nstep 5\r\nJust before serving, sprinkle 1 tbsp caster sugar over the top of each ramekin and caramelise using a kitchen blowtorch. Alternatively, slide the ramekins under a hot grill until the sugar turns golden and starts to bubble. Serve straightaway.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/x73ll91763247842.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Milk",
+      "measurement": "400ml",
+      "grams": 408,
+      "assumptions": "Whole cow's milk; 400 ml converted using density ~1.02 g/ml; standard nutritional profile for full-fat milk."
+    },
+    {
+      "position": 2,
+      "name": "Double Cream",
+      "measurement": "150ml",
+      "grams": 153,
+      "assumptions": "Double (heavy) cream; 150 ml converted using density ~1.02 g/ml; typical UK double cream values."
+    },
+    {
+      "position": 3,
+      "name": "Cinnamon Stick",
+      "measurement": "1",
+      "grams": 3,
+      "assumptions": "One standard cinnamon stick (~3 g); contributes negligible macros after infusion and sieving; values approximated from dried cinnamon."
+    },
+    {
+      "position": 4,
+      "name": "Orange Zest",
+      "measurement": "1",
+      "grams": 6,
+      "assumptions": "Zest from one medium orange (~6 g edible zest); standard orange peel nutritional values."
+    },
+    {
+      "position": 5,
+      "name": "Lemon Zest",
+      "measurement": "1",
+      "grams": 4,
+      "assumptions": "Zest from one medium lemon (~4 g edible zest); standard lemon peel nutritional values."
+    },
+    {
+      "position": 6,
+      "name": "Egg Yolks",
+      "measurement": "7",
+      "grams": 119,
+      "assumptions": "7 large egg yolks; average 17 g per yolk; standard raw egg yolk profile."
+    },
+    {
+      "position": 7,
+      "name": "Caster Sugar",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "White caster sugar; used in the custard base; pure sucrose values."
+    },
+    {
+      "position": 8,
+      "name": "Caster Sugar",
+      "measurement": "6 tablespoons",
+      "grams": 75,
+      "assumptions": "6 tablespoons caster sugar for caramelising tops (~12.5 g per tbsp); pure sucrose values."
+    },
+    {
+      "position": 9,
+      "name": "Corn Flour",
+      "measurement": "45g",
+      "grams": 45,
+      "assumptions": "Cornflour (corn starch); standard dry cornflour nutritional profile."
+    }
+  ],
+  "nutrition": {
+    "calories": 2022.45,
+    "protein": 35.39,
+    "fat": 102.96,
+    "fiber": 3.5,
+    "carbs": 248.25
+  }
+}

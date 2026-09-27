@@ -1,0 +1,109 @@
+{
+  "id": "52971",
+  "name": "Kafteji",
+  "cuisine": "Tunisian",
+  "fingerprint": "9fe5f513ec6cadea02dc619e8111977ae6b74537976cbbeb03225a6b107d0069",
+  "yield": 6,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": null,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from total ingredient quantities (esp. 24 eggs + 2kg+ vegetables) as a generous main dish for 6 people",
+    "'24 Skinned' eggs interpreted as 24 whole large eggs (typo for shelled); recipe uses them to bind all vegetables",
+    "Total active + passive time (frying potatoes 20min, grilling peppers ~15min + 15min sweating, frying onions 15min, frying pumpkin 15min, final egg cook ~5-10min) rounded to 60min",
+    "Ras el hanout assumed gluten-free as typical for the spice blend; no wheat listed",
+    "No dairy, meat, fish, or shellfish ingredients; vegetarian confirmed by source and screening",
+    "Sesame left null as Ras el hanout composition unspecified and may occasionally include sesame in blends"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Peel potatoes and cut into 5cm cubes.\r\nPour 1-2 cm of olive oil into a large pan and heat up very hot. Fry potatoes until golden brown for 20 minutes, turning from time to time. Place on kitchen paper to drain.\r\nCut the peppers in half and remove seeds. Rub a little olive oil on them and place the cut side down on a baking tray. Place them under the grill. Grill until the skin is dark and bubbly. While the peppers are still hot, put them into a plastic sandwich bag and seal it. Take them out after 15 minutes and remove skins.\r\nIn the meantime, heat more olive oil another pan. Peel the onions and cut into thin rings. Fry for 15 minutes until golden brown, turning them often. Add the Ras el hanout at the end.\r\nCut the pumpkin into 5cm cubes and fry in the same pan you used for the potatoes for 10-15 minutes until it is soft and slightly browned. Place on kitchen paper.\r\nPour the remaining olive oil out of the pan and put all the cooked vegetables into the pan and mix. Whisk eggs and pour them over the vegetables. Put the lid on the pan so that the eggs cook. Put the contents of the pan onto a large chopping board, add salt and pepper and chopped and mix everything with a big knife.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Potatoes",
+      "measurement": "5 Large",
+      "grams": 1000,
+      "assumptions": "5 large potatoes estimated at 200g each; raw peeled weight used as base before frying"
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tbs olive oil for frying potatoes (initial amount specified); typical density ~15g per tbs"
+    },
+    {
+      "position": 3,
+      "name": "Green Pepper",
+      "measurement": "1",
+      "grams": 120,
+      "assumptions": "1 medium-large green pepper; raw edible portion after deseeding and peeling (grilled/roasted state accounted for in typical nutrient profile)"
+    },
+    {
+      "position": 4,
+      "name": "Onions",
+      "measurement": "5",
+      "grams": 500,
+      "assumptions": "5 medium onions estimated at ~100g each; raw peeled weight before frying"
+    },
+    {
+      "position": 5,
+      "name": "Ras el hanout",
+      "measurement": "1 tbs",
+      "grams": 7,
+      "assumptions": "1 tbs Ras el hanout spice blend; typical average for North African spice mixes (plausible recipe amount; nutrients are approximate for mixed spices)"
+    },
+    {
+      "position": 6,
+      "name": "Pumpkin",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Exactly 500g pumpkin as listed; raw peeled/cubed weight before frying (edible portion)"
+    },
+    {
+      "position": 7,
+      "name": "Eggs",
+      "measurement": "24 Skinned",
+      "grams": 1200,
+      "assumptions": "24 large eggs (assuming 'Skinned' is a typo for shelled/whole eggs); ~50g edible per egg; used throughout the dish"
+    },
+    {
+      "position": 8,
+      "name": "Salt",
+      "measurement": "Pinch",
+      "grams": 2,
+      "assumptions": "Pinch of salt estimated at 2g for the entire recipe; negligible macros"
+    },
+    {
+      "position": 9,
+      "name": "Pepper",
+      "measurement": "Pinch",
+      "grams": 1,
+      "assumptions": "Pinch of pepper estimated at 1g for the entire recipe; negligible macros"
+    }
+  ],
+  "nutrition": {
+    "calories": 3126.2,
+    "protein": 183.51,
+    "fat": 146.59,
+    "fiber": 40.49,
+    "carbs": 270.34
+  }
+}

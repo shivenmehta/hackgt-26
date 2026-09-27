@@ -1,0 +1,131 @@
+{
+  "id": "53249",
+  "name": "Turkey Bánh mì",
+  "cuisine": "Vietnamese",
+  "fingerprint": "ee0462f933486374a0d87bd9dfb90308200750cb0935215e2d29b3b06966f90c",
+  "yield": 2,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": null
+  },
+  "allergens": {
+    "Milk": null,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe makes 2 sandwiches based on 2 baguettes and quantities of fillings.",
+    "Preparation time estimated at 20 minutes including 15 minutes pickling time.",
+    "Pâté from chicken liver assumed to contain eggs (common in pâté recipes).",
+    "Baguette contains wheat; no gluten-free certification indicated.",
+    "Mayonnaise typically contains eggs.",
+    "Dairy-free status ambiguous as pâté and mayonnaise may or may not contain dairy depending on exact formulation.",
+    "No fish, shellfish, tree nuts, peanuts, soy, or sesame ingredients listed."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nTo make the pickled slaw, tip the carrots and cabbage into a large bowl. In a small bowl, combine the ginger, rice vinegar, sugar and a few pinches of salt. Pour over the vegetables and toss together. Set aside for at least 15 mins.\r\n\r\nstep 2\r\nHalve the baguettes lengthways and spread the pâté over the bottom half. Top with the pickled slaw, cucumber and turkey. Mix the mayonnaise with the chopped chilli and dollop over the top. Scatter over the mint leaves and sliced chilli. Sandwich together and dig in.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1wj8w31763781990.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Baguette",
+      "measurement": "2 small",
+      "grams": 300,
+      "assumptions": "2 small 6-inch Vietnamese-style baguettes; typical weight and white bread nutrition"
+    },
+    {
+      "position": 2,
+      "name": "Chicken Liver",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Chicken liver pâté; standard liver pâté values used as proxy for 50g ingredient"
+    },
+    {
+      "position": 3,
+      "name": "Cucumber",
+      "measurement": "1/4",
+      "grams": 75,
+      "assumptions": "1/4 medium cucumber, raw with peel; typical edible portion"
+    },
+    {
+      "position": 4,
+      "name": "Turkey",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "Cooked turkey breast slices; lean poultry values"
+    },
+    {
+      "position": 5,
+      "name": "Mayonnaise",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tablespoon regular mayonnaise"
+    },
+    {
+      "position": 6,
+      "name": "Red Chilli",
+      "measurement": "1 sliced",
+      "grams": 30,
+      "assumptions": "1 medium red chilli, sliced (about 30g total weight with seeds); typical fresh chilli nutrition"
+    },
+    {
+      "position": 7,
+      "name": "Mint",
+      "measurement": "Handful",
+      "grams": 10,
+      "assumptions": "Handful of fresh mint leaves (10g edible leaves)"
+    },
+    {
+      "position": 8,
+      "name": "Carrots",
+      "measurement": "2 small",
+      "grams": 120,
+      "assumptions": "2 small carrots, peeled and shredded; typical weight ~60g each raw"
+    },
+    {
+      "position": 9,
+      "name": "Red Cabbage",
+      "measurement": "75g",
+      "grams": 75,
+      "assumptions": "75g raw red cabbage, shredded"
+    },
+    {
+      "position": 10,
+      "name": "Ground Ginger",
+      "measurement": "1/4 tsp",
+      "grams": 1,
+      "assumptions": "1/4 tsp ground ginger (~0.5-1g); scaled to 1g for estimation"
+    },
+    {
+      "position": 11,
+      "name": "Rice Vinegar",
+      "measurement": "½ tablespoon",
+      "grams": 8,
+      "assumptions": "½ tablespoon rice vinegar; negligible macros, treated as 8g volume"
+    },
+    {
+      "position": 12,
+      "name": "Golden Caster Sugar",
+      "measurement": "1/2 teaspoon",
+      "grams": 3,
+      "assumptions": "1/2 teaspoon golden caster sugar (~2-3g); scaled to 3g for estimation"
+    }
+  ],
+  "nutrition": {
+    "calories": 1311.35,
+    "protein": 70.79,
+    "fat": 29.87,
+    "fiber": 14.24,
+    "carbs": 183.22
+  }
+}

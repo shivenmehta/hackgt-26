@@ -1,0 +1,110 @@
+{
+  "id": "52777",
+  "name": "Mediterranean Pasta Salad",
+  "cuisine": "Italian",
+  "fingerprint": "6e07382c0aeeadfbf2d87b3e83db1e6d8983e750348f8ed9402730ad8bc2a8ac",
+  "yield": 4,
+  "minutes": 50,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical 350g dry pasta pasta salad recipes (85-90g dry per serving).",
+    "Total time is sum of sequential and overlapping steps: pasta boil ~10 min + prep ~15 min + mandatory 30 min rest.",
+    "Mozzarella classified as dairy (Milk allergen).",
+    "Farfalle (bow-tie pasta) classified as wheat-based (Wheat and Gluten-free false).",
+    "Tuna classified as fish (Pescatarian true, Fish allergen).",
+    "No tree nuts, peanuts, shellfish, eggs, soy, or sesame listed.",
+    "Salt and pepper estimates based on provided data; do not affect classifications."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Bring a large saucepan of salted water to the boil\r\nAdd the pasta, stir once and cook for about 10 minutes or as directed on the packet.\r\nMeanwhile, wash the tomatoes and cut into quarters. Slice the olives. Wash the basil.\r\nPut the tomatoes into a salad bowl and tear the basil leaves over them. Add a tablespoon of olive oil and mix.\r\nWhen the pasta is ready, drain into a colander and run cold water over it to cool it quickly.\r\nToss the pasta into the salad bowl with the tomatoes and basil.\r\nAdd the sliced olives, drained mozzarella balls, and chunks of tuna. Mix well and let the salad rest for at least half an hour to allow the flavours to mingle.\r\nSprinkle the pasta with a generous grind of black pepper and drizzle with the remaining olive oil just before serving.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "mozzarella balls",
+      "measurement": "200 g",
+      "grams": 200,
+      "assumptions": "Drained fresh mozzarella balls; typical values for cow's milk mozzarella."
+    },
+    {
+      "position": 2,
+      "name": "baby plum tomatoes",
+      "measurement": "250 g",
+      "grams": 250,
+      "assumptions": "Raw baby plum tomatoes; standard tomato nutrition applied to whole edible weight."
+    },
+    {
+      "position": 3,
+      "name": "fresh basil",
+      "measurement": "1  bunch",
+      "grams": 30,
+      "assumptions": "1 bunch fresh basil estimated at 30 g edible leaves only (stems discarded); typical fresh basil values."
+    },
+    {
+      "position": 4,
+      "name": "farfalle",
+      "measurement": "350 g",
+      "grams": 350,
+      "assumptions": "Dry farfalle pasta as packaged; cooked in salted water but nutrition uses dry basis per standard practice."
+    },
+    {
+      "position": 5,
+      "name": "extra virgin olive oil",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "3 tablespoons extra virgin olive oil (15 ml per tbsp, density ~0.91 g/ml yields ~41-45 g total); pure oil values."
+    },
+    {
+      "position": 6,
+      "name": "Green Olives",
+      "measurement": "40 g",
+      "grams": 40,
+      "assumptions": "Drained green olives; typical pitted olive nutrition."
+    },
+    {
+      "position": 7,
+      "name": "tuna",
+      "measurement": "200 g",
+      "grams": 200,
+      "assumptions": "Drained canned tuna in water or brine (edible portion after draining); typical skipjack values."
+    },
+    {
+      "position": 8,
+      "name": "salt",
+      "measurement": "to taste",
+      "grams": 5,
+      "assumptions": "Salt to taste estimated at 5 g total for the recipe (reasonable for pasta water and seasoning); contributes negligible macros."
+    },
+    {
+      "position": 9,
+      "name": "pepper",
+      "measurement": "to taste",
+      "grams": 2,
+      "assumptions": "Black pepper to taste estimated at 2 g total for generous grind; contributes negligible macros."
+    }
+  ],
+  "nutrition": {
+    "calories": 2566.2,
+    "protein": 135.36,
+    "fat": 100.68,
+    "fiber": 16.93,
+    "carbs": 275.16
+  }
+}

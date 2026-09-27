@@ -1,0 +1,130 @@
+{
+  "id": "52996",
+  "name": "French Onion Chicken with Roasted Carrots & Mashed Potatoes",
+  "cuisine": "American",
+  "fingerprint": "81f6fb8f0ac8d23e6c87a2fb38afb7783cc2e378a5639ec01afe2ff79fb692ea",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe instructions and enriched ingredient data indicate 4 servings (explicit scaling notes for 4 servings in steps 4 and 8).",
+    "Total active and passive time across all steps is approximately 45 minutes (preheat + parallel cooking of carrots 15-20 min, potatoes 12-15 min, onion 10-13 min, chicken 10-12 min).",
+    "Beef stock is a concentrated packet; assumed gluten-free as no wheat is listed in ingredients.",
+    "Mozzarella, sour cream, and butter are dairy-based; no dairy-free alternatives mentioned.",
+    "No wheat, barley, rye, or oats listed, supporting gluten-free classification.",
+    "No explicit egg, fish, shellfish, tree nuts, peanuts, soy, or sesame ingredients; left as null due to possible cross-contact or unspecified sauces."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "1\r\n\r\nPreheat oven to 425 degrees. Wash and dry all produce. Trim, peel, and cut carrots on a diagonal into ¼-inch-thick pieces. Dice potatoes into ½-inch pieces. Halve, peel, and thinly slice onion.\r\n\r\n2\r\n\r\nToss carrots on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 15-20 minutes.\r\n\r\n3\r\n\r\nMeanwhile, place potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until tender, 12-15 minutes. Drain and return potatoes to pot; cover to keep warm.\r\n\r\n4\r\n\r\nWhile potatoes cook, heat a drizzle of oil in a large pan over medium-high heat. Add onion and cook, stirring occasionally, until lightly browned and softened, 8-10 minutes. Sprinkle with 1 tsp sugar (2 tsp for 4 servings). Stir in stock concentrate and 2 TBSP water (¼ cup for 4); season with salt and pepper. Cook until jammy, 2-3 minutes more. Turn off heat; transfer to a small bowl. Wash out pan.\r\n\r\n5\r\n\r\nPat chicken dry with paper towels; season all over with salt and pepper. Heat a drizzle of oil in pan used for onion over medium-high heat. Add chicken and cook until browned and cooked through, 5-6 minutes per side. In the last 1-2 minutes of cooking, top with caramelized onion and cheese. Cover pan until cheese melts. (If your pan doesn’t have a lid, cover with a baking sheet!)\r\n\r\n6\r\n\r\nHeat pot with drained potatoes over low heat; mash with sour cream, 2 TBSP butter (4 TBSP for 4 servings), salt, pepper, and a splash of water (or milk, for extra richness) until smooth. Divide chicken, roasted carrots, and mashed potatoes between plates.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/b5ft861583188991.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Breasts",
+      "measurement": "2",
+      "grams": 340,
+      "assumptions": "2 typical boneless skinless chicken breasts, ~6 oz each raw"
+    },
+    {
+      "position": 2,
+      "name": "Carrots",
+      "measurement": "12 ounces",
+      "grams": 340,
+      "assumptions": "12 oz whole fresh carrots, trimmed/peeled weight used for estimate"
+    },
+    {
+      "position": 3,
+      "name": "Potatoes",
+      "measurement": "5",
+      "grams": 750,
+      "assumptions": "5 medium russet or Yukon gold potatoes, ~150 g each raw with skin"
+    },
+    {
+      "position": 4,
+      "name": "Onion",
+      "measurement": "1",
+      "grams": 110,
+      "assumptions": "1 medium-large yellow onion, raw weight"
+    },
+    {
+      "position": 5,
+      "name": "Beef Stock",
+      "measurement": "1",
+      "grams": 10,
+      "assumptions": "1 beef stock concentrate packet (typical ~10 g, concentrated bouillon-like product)"
+    },
+    {
+      "position": 6,
+      "name": "Mozzarella",
+      "measurement": "1 1/2 cup",
+      "grams": 168,
+      "assumptions": "1.5 cups shredded low-moisture mozzarella cheese (typical density ~112 g/cup)"
+    },
+    {
+      "position": 7,
+      "name": "Sour Cream",
+      "measurement": "2 tbsp",
+      "grams": 30,
+      "assumptions": "2 tbsp full-fat sour cream (typical 15 g per tbsp)"
+    },
+    {
+      "position": 8,
+      "name": "Butter",
+      "measurement": "",
+      "grams": 57,
+      "assumptions": "4 tbsp butter for 4 servings (standard 14 g per tbsp); recipe context implies full 4-serving amount"
+    },
+    {
+      "position": 9,
+      "name": "Sugar",
+      "measurement": "",
+      "grams": 8,
+      "assumptions": "~2 tsp granulated sugar for 4 servings (typical 4 g per tsp)"
+    },
+    {
+      "position": 10,
+      "name": "Vegetable Oil",
+      "measurement": "",
+      "grams": 30,
+      "assumptions": "~3 tbsp total vegetable oil used across roasting, onion, and chicken steps (typical 14 g per tbsp); reasonable recipe volume for pan drizzles"
+    },
+    {
+      "position": 11,
+      "name": "Salt",
+      "measurement": "",
+      "grams": 5,
+      "assumptions": "Salt to taste; estimated total added amount for whole recipe"
+    },
+    {
+      "position": 12,
+      "name": "Pepper",
+      "measurement": "",
+      "grams": 3,
+      "assumptions": "Pepper to taste; estimated total added amount for whole recipe"
+    }
+  ],
+  "nutrition": {
+    "calories": 2610.05,
+    "protein": 164.02,
+    "fat": 132.22,
+    "fiber": 27.89,
+    "carbs": 189.76
+  }
+}

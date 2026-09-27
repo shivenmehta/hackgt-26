@@ -1,0 +1,149 @@
+{
+  "id": "53367",
+  "name": "Chicken Fried Rice",
+  "cuisine": "Chinese",
+  "fingerprint": "dbd7cec37029f54b05333bf68c3287a42c9d91fae0140016da45e687c93d7247",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated from typical fried rice portions (approx 1.5-2 cups per serving based on 4 cups cooked rice + 1 lb chicken + vegetables); original source implies 4 servings.",
+    "Total active preparation and cooking time summed from steps: chicken prep ~10 min, egg scramble ~2 min, chicken cook ~5 min, vegetables ~4 min, rice assembly ~5-7 min, plus rice drying note (not counted in active time).",
+    "Salt split across chicken and vegetables per instructions.",
+    "Canola oil total for all frying steps.",
+    "Eggs are whole large eggs, scrambled.",
+    "Onion, carrots, peas, scallions are fresh/raw unless specified.",
+    "Jasmine rice is cooked/day-old as emphasized in instructions (4 cups cooked).",
+    "Soy sauce assumed standard (contains wheat).",
+    "Sesame oil is toasted sesame seed oil.",
+    "No dairy ingredients present.",
+    "Five-spice powder assumed standard blend without allergens."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Fried rice is best made with leftover rice that's at least a day old. Otherwise it becomes gummy in the skillet.\r\nIf you don’t have any leftover rice from the night before, cook a batch of rice and spread it on a large baking sheet or several large plates. Let the rice dry out for about 1 to 2 hours before using it for fried rice.\r\n\r\nRice sticks to the pan very easily, so make sure to use a wok or pan that doesn’t have a sticky surface. I usually cook stir-fries in my seasoned carbon steel wok, but cast iron or nonstick pans work well, too. You might need to add a little more oil if things aren’t releasing easily.\r\n\r\nPrepare the chicken:\r\nChop the chicken into small 1/4-inch to 1/2-inch cubes. Sprinkle 1/2 teaspoon of salt over the chicken and mix to combine. Set the chicken aside for about 10 minutes (I usually use this time to chop all the vegetables).\r\n\r\nScramble the egg:\r\nHeat a wok or large sauté pan over medium-high heat. Swirl in a tablespoon of oil and add the whisked eggs. Use a spatula to quickly scramble the eggs, breaking the curds into smaller pieces as they come together. Transfer the eggs to a plate.\r\n\r\nCook the chicken:\r\nAdd another tablespoon of oil in the wok or pan. Add the chicken and cook for 4 to 5 minutes, stirring occasionally. Turn off the heat and transfer the cooked chicken to a plate.\r\n\r\nUsing your spatula, scrape off any chicken bits that are still stuck to the wok so they don't burn during the next step. You can also use paper towels to wipe down your wok or pan.\r\n\r\nCook the vegetables:\r\nSwirl 1 tablespoon of oil into the wok over medium-high heat. Add the diced onions and cook them for 1 minute, until they start to soften. Mix in the minced garlic and ginger and cook until fragrant, about 30 seconds. Add the diced carrots and cook for 2 minutes, stirring frequently. Add 1/2 teaspoon salt and the peas, and stir to incorporate.\r\n\r\nCook the rice:\r\nAdd the rice to the wok or pan on top of the vegetables and stir to combine. Using the back of your spatula, smash any large chunks of rice to break them apart. Add the white and green parts of the sliced scallions (save the dark green parts) and five-spice powder. Stir to incorporate. If the rice starts to stick to the pan, stir in a little more oil.\r\n\r\nDrizzle the soy sauce and sesame oil over the rice and stir to incorporate. Stir in the cooked chicken, scrambled eggs, and the dark parts of the scallions. Stir briefly to bring it together, and cook for another 1 to 2 minutes.\r\n\r\nServe:\r\nTaste, and add more soy sauce if necessary. Serve immediately.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Thighs",
+      "measurement": "1 lb",
+      "grams": 453.6,
+      "assumptions": "1 lb boneless skinless chicken thighs, raw weight; standard USDA-like values for boneless skinless chicken thighs."
+    },
+    {
+      "position": 2,
+      "name": "Salt",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp table salt used in total across recipe (part for chicken, part for vegetables); negligible nutrition."
+    },
+    {
+      "position": 3,
+      "name": "Canola Oil",
+      "measurement": "3  tablespoons",
+      "grams": 42,
+      "assumptions": "3 tablespoons canola oil total used for cooking chicken, eggs, and vegetables; standard vegetable oil values."
+    },
+    {
+      "position": 4,
+      "name": "Egg",
+      "measurement": "3 Large",
+      "grams": 150,
+      "assumptions": "3 large whole eggs (approx 50g each without shell); standard large egg nutrition."
+    },
+    {
+      "position": 5,
+      "name": "Onion",
+      "measurement": "2/3 Cup",
+      "grams": 100,
+      "assumptions": "2/3 cup diced onion, approx 100g; standard white onion values."
+    },
+    {
+      "position": 6,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 cloves garlic minced, approx 6g; standard raw garlic values."
+    },
+    {
+      "position": 7,
+      "name": "Ground Ginger",
+      "measurement": "2 tsp",
+      "grams": 4,
+      "assumptions": "2 tsp ground ginger; standard dried ground ginger values."
+    },
+    {
+      "position": 8,
+      "name": "Carrots",
+      "measurement": "1 large",
+      "grams": 110,
+      "assumptions": "1 large carrot diced, approx 110g raw edible portion; standard carrot values."
+    },
+    {
+      "position": 9,
+      "name": "Peas",
+      "measurement": "2/3 Cup",
+      "grams": 100,
+      "assumptions": "2/3 cup frozen green peas, approx 100g; standard cooked/frozen pea values."
+    },
+    {
+      "position": 10,
+      "name": "Jasmine Rice",
+      "measurement": "4 cups",
+      "grams": 800,
+      "assumptions": "4 cups cooked jasmine rice (leftover/day-old as per instructions); approx 200g per cup cooked; standard cooked white rice values adjusted for jasmine."
+    },
+    {
+      "position": 11,
+      "name": "Scallions",
+      "measurement": "2 sliced",
+      "grams": 30,
+      "assumptions": "2 scallions sliced (white + green parts), approx 30g total; standard raw scallion values."
+    },
+    {
+      "position": 12,
+      "name": "Chinese five spice powder",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp Chinese five-spice powder; typical commercial blend values (cinnamon, clove, etc.)."
+    },
+    {
+      "position": 13,
+      "name": "Soy Sauce",
+      "measurement": "2.5 tbsp",
+      "grams": 38,
+      "assumptions": "2.5 tbsp regular soy sauce; standard sodium-reduced not assumed, typical values."
+    },
+    {
+      "position": 14,
+      "name": "Sesame Seed Oil",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp toasted sesame oil; standard sesame oil values."
+    }
+  ],
+  "nutrition": {
+    "calories": 2696.69,
+    "protein": 160.76,
+    "fat": 101.78,
+    "fiber": 15.42,
+    "carbs": 269.34
+  }
+}

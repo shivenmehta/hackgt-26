@@ -9,6 +9,8 @@ export default defineConfig([
   prettier,
   globalIgnores([
     ".next/**",
+    ".venv/**",
+    "src/app/.well-known/workflow/**",
     "out/**",
     "dist/**",
     "coverage/**",

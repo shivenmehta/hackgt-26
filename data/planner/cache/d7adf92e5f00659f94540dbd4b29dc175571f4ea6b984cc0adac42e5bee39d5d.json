@@ -1,0 +1,102 @@
+{
+  "id": "52957",
+  "name": "Fruit and Cream Cheese Breakfast Pastries",
+  "cuisine": "American",
+  "fingerprint": "d7adf92e5f00659f94540dbd4b29dc175571f4ea6b984cc0adac42e5bee39d5d",
+  "yield": 18,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 2 puff pastry sheets cut into 9 squares each (18 total pastries).",
+    "Minutes is sum of ~15 min prep (mixing, rolling, cutting, filling) + 15-20 min bake time (using lower end of range).",
+    "Puff pastry assumed to contain wheat (standard composition).",
+    "Vanilla extract assumed alcohol-based, not containing allergens.",
+    "No compound sauces or ambiguous ingredients beyond noted assumptions.",
+    "Flour is for dusting only and does not change dietary classifications."
+  ],
+  "categories": ["breakfast"],
+  "instructions": "Preheat oven to 400ºF (200ºC), and prepare two cookie sheets with parchment paper. In a bowl, mix cream cheese, sugar, and vanilla until fully combined. Lightly flour the surface and roll out puff pastry on top to flatten. Cut each sheet of puff pastry into 9 equal squares. On the top right and bottom left of the pastry, cut an L shape approximately ½ inch (1 cm) from the edge.\r\nNOTE: This L shape should reach all the way down and across the square, however both L shapes should not meet at the ends. Your pastry should look like a picture frame with two corners still intact.\r\nTake the upper right corner and fold down towards the inner bottom corner. You will now have a diamond shape.\r\nPlace 1 to 2 teaspoons of the cream cheese filling in the middle, then place berries on top.\r\nRepeat with the remaining pastry squares and place them onto the parchment covered baking sheet.\r\nBake for 15-20 minutes or until pastry is golden brown and puffed.\r\nEnjoy!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1543774956.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Cream Cheese",
+      "measurement": "1 1/4 oz",
+      "grams": 35,
+      "assumptions": "1 1/4 oz (35g) full-fat cream cheese block; standard values for brick-style cream cheese"
+    },
+    {
+      "position": 2,
+      "name": "Sugar",
+      "measurement": "1 1/4 cup",
+      "grams": 250,
+      "assumptions": "1 1/4 cups granulated white sugar; standard 200g per cup density"
+    },
+    {
+      "position": 3,
+      "name": "Vanilla Extract",
+      "measurement": "1 teaspoon",
+      "grams": 5,
+      "assumptions": "1 tsp vanilla extract; typical small volume for flavoring entire batch"
+    },
+    {
+      "position": 4,
+      "name": "Flour",
+      "measurement": "",
+      "grams": 10,
+      "assumptions": "Light dusting of all-purpose flour on surface; small plausible amount for rolling out pastry without adding much to final product"
+    },
+    {
+      "position": 5,
+      "name": "Puff Pastry",
+      "measurement": "2",
+      "grams": 980,
+      "assumptions": "2 standard 490g sheets of frozen puff pastry (e.g., Pepperidge Farm size), thawed and used fully"
+    },
+    {
+      "position": 6,
+      "name": "Strawberries",
+      "measurement": "",
+      "grams": 150,
+      "assumptions": "Fresh strawberries, sliced or whole for topping; estimated total used across all 18 pastries based on 1-2 berries each"
+    },
+    {
+      "position": 7,
+      "name": "Raspberries",
+      "measurement": "",
+      "grams": 100,
+      "assumptions": "Fresh raspberries for topping; estimated total used across all pastries based on 1-2 berries per square"
+    },
+    {
+      "position": 8,
+      "name": "Blackberries",
+      "measurement": "",
+      "grams": 100,
+      "assumptions": "Fresh blackberries for topping; estimated total used across all pastries based on 1 berry per square"
+    }
+  ],
+  "nutrition": {
+    "calories": 5200.3,
+    "protein": 55.6,
+    "fat": 288.4,
+    "fiber": 25.1,
+    "carbs": 636.65
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "53355",
+  "name": "Jamaican Festival (Sweet Dumpling)",
+  "cuisine": "Jamaican",
+  "fingerprint": "ed030d37ebec1dcac846e92eb228b8ed22505df3f03a8bcf805736a28c43729b",
+  "yield": 12,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield of 12 dumplings from explicit instruction to 'Make about 12 dumplings' treated as total recipe yield",
+    "Total time estimated from instructions: ~5 min to heat oil to 350F, ~5 min to mix dough, ~5 min to shape 12 pieces, ~5-7 min to fry in batches, plus draining",
+    "Vegetarian: compatible with all listed ingredients",
+    "Vegan: incompatible due to cow's milk",
+    "Pescatarian: compatible (no meat)",
+    "Gluten-free: incompatible due to all-purpose wheat flour",
+    "Dairy-free: incompatible due to milk",
+    "Milk allergen: present from cow's milk",
+    "Wheat allergen: present from all-purpose flour",
+    "Oil for frying conservatively classified as vegetable/canola with no confirmed soy or sesame",
+    "No eggs, fish, shellfish, tree nuts, or peanuts listed or implied"
+  ],
+  "categories": [],
+  "instructions": "Heat a heavy bottom pot of oil that has at least 3 inches of oil in it or use a deep fryer if you have one. Turn the heat over medium heat until the temperature reaches 350 degrees Fahrenheit.\r\nAdd the all-purpose flour, cornmeal, granulated sugar, baking powder, and salt to a large bowl and stir to combine.\r\nAdd the vanilla extract and milk and stir until the dough comes together. Then use your hands to lightly form the mixture into a ball.\r\nPinch off pieces of dough and roll them into long oval shapes. Make about 12 dumplings.\r\nOnce the oil has reached the temperature of 350 degrees Fahrenheit, fry the dough on all sides, until golden brown. This should take about 4-6 minutes.\r\nRemove dough and drain off any excess grease. Serve and enjoy.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/g6xb8m1764875029.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "All purpose flour",
+      "measurement": "1 1/2 cups",
+      "grams": 187.5,
+      "assumptions": "Standard all-purpose flour; 1 cup = 125g so 1.5 cups = 187.5g; values for uncooked white flour."
+    },
+    {
+      "position": 2,
+      "name": "Cornmeal",
+      "measurement": "1/2 cup",
+      "grams": 80,
+      "assumptions": "Standard yellow cornmeal; 1 cup = 160g so 0.5 cup = 80g; values for dry uncooked cornmeal."
+    },
+    {
+      "position": 3,
+      "name": "Sugar",
+      "measurement": "6 tablespoons",
+      "grams": 75,
+      "assumptions": "Granulated white sugar; 1 tbsp = 12.5g so 6 tbsp = 75g; values for sucrose."
+    },
+    {
+      "position": 4,
+      "name": "Baking Powder",
+      "measurement": "2 tsp",
+      "grams": 8,
+      "assumptions": "Baking powder (double-acting); typical 1 tsp ≈ 4g so 2 tsp = 8g; values reflect typical commercial low-sodium baking powder."
+    },
+    {
+      "position": 5,
+      "name": "Vanilla Extract",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "Pure vanilla extract; 1 tsp ≈ 4g; values for typical alcohol-based extract with minimal sugar contribution."
+    },
+    {
+      "position": 6,
+      "name": "Salt",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "Table salt; 0.5 tsp ≈ 3g; provides negligible macros."
+    },
+    {
+      "position": 7,
+      "name": "Milk",
+      "measurement": "3/4 cup",
+      "grams": 183,
+      "assumptions": "Whole cow's milk; 1 cup = 244g so 0.75 cup ≈ 183g; values for typical whole milk."
+    },
+    {
+      "position": 8,
+      "name": "Oil",
+      "measurement": "For frying",
+      "grams": 40,
+      "assumptions": "Vegetable or canola frying oil; plausible recipe-specific estimate of ~40g total oil absorbed by the 12 dumplings during deep frying (typical 10-20% absorption rate for fried dough, adjusted for batch size and 3-inch oil depth)."
+    }
+  ],
+  "nutrition": {
+    "calories": 1714.97,
+    "protein": 32.01,
+    "fat": 45.63,
+    "fiber": 9.3,
+    "carbs": 291.97
+  }
+}

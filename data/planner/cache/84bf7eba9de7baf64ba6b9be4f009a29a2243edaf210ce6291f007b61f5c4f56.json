@@ -1,0 +1,187 @@
+{
+  "id": "53192",
+  "name": "Panang chicken curry (kaeng panang gai)",
+  "cuisine": "Thai",
+  "fingerprint": "84bf7eba9de7baf64ba6b9be4f009a29a2243edaf210ce6291f007b61f5c4f56",
+  "yield": 2,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": true,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from total main ingredients (200g chicken + 100g beans + 400ml coconut milk + rice) as typical for 2 adult servings of Thai curry with rice.",
+    "Preparation time summed from explicit steps (paste ~15 min pounding/processing, cooking ~10-15 min) plus estimated 15-20 min for ingredient prep and simmering; rounded conservatively.",
+    "All curry paste ingredients treated as used in full for the batch in this recipe.",
+    "Gluten-free assumes no hidden wheat in fish sauce or shrimp paste (common but not universal); no wheat-containing items listed.",
+    "Dairy-free confirmed as no milk, butter, or dairy items present.",
+    "Soy ambiguous due to possible fermented soy in shrimp paste or fish sauce but not explicitly listed.",
+    "No tree nuts; peanuts classified separately as peanuts allergen."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nFirst, make the curry paste. Use a pestle and mortar to pound together the dried and fresh chillies, shrimp paste, garlic, galangal, lemongrass, lime zest, white pepper, coriander, cumin, nutmeg and peanuts, plus 1 tsp salt. You should have a rough paste. Alternatively, add all the ingredients to a food processor along with 2-3 tbsp of coconut milk and pulse until you have a paste. Store in a lidded jar in the fridge. Will keep for up to two weeks.\r\n\r\nstep 2\r\nAdd 2-3 tbsp of the thick part of the coconut milk into a saucepan over a medium-high heat. When the coconut milk starts bubbling, add 1-2 tbsp of the curry paste and stir well for about 1 min, until fragrant.\r\n\r\nstep 3\r\nStir in the chicken and let it cook for about 3-4 mins until beginning to brown all over. Follow with the French beans and stir well.\r\n\r\nstep 4\r\nSeason with the fish sauce and sugar, then add the rest of coconut milk. Mix well, add half the makrut lime leaves and simmer for 3-5 mins until the chicken is cooked through. Taste and add more sugar or fish sauce if necessary – it should be salty and nutty, and the sweetness should come through. Add the Thai basil leaves, give it a quick mix and take off the heat. Serve with steamed jasmine rice, garnished with the sliced chilli and the rest of the makrut lime leaves.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/0dhtwr1763371444.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Coconut Milk",
+      "measurement": "400ml",
+      "grams": 400,
+      "assumptions": "Canned full-fat coconut milk; using entire 400 ml can as listed, density ~1 g/ml."
+    },
+    {
+      "position": 2,
+      "name": "Panang Curry Paste",
+      "measurement": "1-2tbsp",
+      "grams": 30,
+      "assumptions": "Homemade panang paste per step 1; ~30 g (1-2 tbsp) used in recipe, estimated from typical Thai curry paste density and ingredients."
+    },
+    {
+      "position": 3,
+      "name": "Chicken Breast",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Raw boneless skinless chicken breast as listed; entire 200 g used."
+    },
+    {
+      "position": 4,
+      "name": "Green Beans",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Raw trimmed green/French beans as listed; entire 100 g used."
+    },
+    {
+      "position": 5,
+      "name": "Fish Sauce",
+      "measurement": "2-3 tbsp",
+      "grams": 36,
+      "assumptions": "Typical fish sauce; 2-3 tbsp averaged to 36 g (density ~1.2 g/ml), sodium-heavy but low macros."
+    },
+    {
+      "position": 6,
+      "name": "Brown Sugar",
+      "measurement": "1-2tbsp",
+      "grams": 18,
+      "assumptions": "Brown sugar; 1-2 tbsp averaged to 18 g."
+    },
+    {
+      "position": 7,
+      "name": "makrut lime leaves",
+      "measurement": "2",
+      "grams": 2,
+      "assumptions": "2 whole makrut lime leaves; negligible edible weight and nutrition."
+    },
+    {
+      "position": 8,
+      "name": "Basil Leaves",
+      "measurement": "Handful",
+      "grams": 15,
+      "assumptions": "Thai/holy basil leaves; handful estimated at 15 g."
+    },
+    {
+      "position": 9,
+      "name": "Jasmine Rice",
+      "measurement": "Boiled",
+      "grams": 200,
+      "assumptions": "Cooked jasmine rice to serve; assumed 200 g boiled (typical single-serve portion from ~70 g dry) as 'boiled' is vague."
+    },
+    {
+      "position": 10,
+      "name": "Red Chilli",
+      "measurement": "6",
+      "grams": 30,
+      "assumptions": "Fresh red chilli for garnish/sauce; 6 chillies estimated at 30 g total."
+    },
+    {
+      "position": 11,
+      "name": "Dried Red Chillies",
+      "measurement": "4",
+      "grams": 12,
+      "assumptions": "Dried red chillies for paste; 4 chillies estimated at 12 g total."
+    },
+    {
+      "position": 12,
+      "name": "Shrimp Paste",
+      "measurement": "1 teaspoon",
+      "grams": 5,
+      "assumptions": "Shrimp paste for curry paste; 1 tsp = 5 g."
+    },
+    {
+      "position": 13,
+      "name": "Garlic",
+      "measurement": "4 Cloves Chopped",
+      "grams": 12,
+      "assumptions": "Garlic cloves for paste; 4 cloves chopped ~12 g."
+    },
+    {
+      "position": 14,
+      "name": "Galangal",
+      "measurement": "1 tblsp",
+      "grams": 6,
+      "assumptions": "Galangal for paste; 1 tbsp ~6 g."
+    },
+    {
+      "position": 15,
+      "name": "Lemongrass",
+      "measurement": "1 tblsp",
+      "grams": 6,
+      "assumptions": "Lemongrass for paste; 1 tbsp ~6 g."
+    },
+    {
+      "position": 16,
+      "name": "Lime",
+      "measurement": "Zest of 2",
+      "grams": 4,
+      "assumptions": "Lime zest of 2 limes for paste; ~4 g total zest."
+    },
+    {
+      "position": 17,
+      "name": "Ground Nutmeg",
+      "measurement": "1 teaspoon",
+      "grams": 2,
+      "assumptions": "Ground nutmeg for paste; 1 tsp ~2 g."
+    },
+    {
+      "position": 18,
+      "name": "Ground Coriander",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Ground coriander for paste; 1 tsp ~2 g."
+    },
+    {
+      "position": 19,
+      "name": "Ground Cumin",
+      "measurement": "1 teaspoon",
+      "grams": 2,
+      "assumptions": "Ground cumin for paste; 1 tsp ~2 g."
+    },
+    {
+      "position": 20,
+      "name": "Peanuts",
+      "measurement": "2 tblsp",
+      "grams": 20,
+      "assumptions": "Peanuts for paste; 2 tbsp ~20 g."
+    }
+  ],
+  "nutrition": {
+    "calories": 1684.85,
+    "protein": 89.93,
+    "fat": 95.74,
+    "fiber": 12.53,
+    "carbs": 119.9
+  }
+}

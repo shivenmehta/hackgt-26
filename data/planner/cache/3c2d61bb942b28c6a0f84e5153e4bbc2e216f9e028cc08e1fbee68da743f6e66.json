@@ -1,0 +1,102 @@
+{
+  "id": "52860",
+  "name": "Chocolate Raspberry Brownies",
+  "cuisine": "American",
+  "fingerprint": "3c2d61bb942b28c6a0f84e5153e4bbc2e216f9e028cc08e1fbee68da743f6e66",
+  "yield": 12,
+  "minutes": 55,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from standard 20x30cm brownie tray cut into 12 equal squares (common for this size and recipe type).",
+    "Preparation time is total active + passive time: ~15 min melting/mixing + 30-35 min bake + 5 min cooling before slicing (per instructions).",
+    "'Cocoa' conservatively classified as unsweetened cocoa powder (no dairy).",
+    "'Plain Flour' is wheat-based; therefore not gluten-free.",
+    "Milk chocolate and salted butter introduce dairy; eggs are present.",
+    "No tree nuts, peanuts, fish, shellfish, soy, or sesame are listed in ingredients."
+  ],
+  "categories": [],
+  "instructions": "Heat oven to 180C/160C fan/gas 4. Line a 20 x 30cm baking tray tin with baking parchment. Put the chocolate, butter and sugar in a pan and gently melt, stirring occasionally with a wooden spoon. Remove from the heat.\r\nStir the eggs, one by one, into the melted chocolate mixture. Sieve over the flour and cocoa, and stir in. Stir in half the raspberries, scrape into the tray, then scatter over the remaining raspberries. Bake on the middle shelf for 30 mins or, if you prefer a firmer texture, for 5 mins more. Cool before slicing into squares. Store in an airtight container for up to 3 days.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Dark Chocolate",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Typical 70% dark chocolate; values reflect average commercial product."
+    },
+    {
+      "position": 2,
+      "name": "Milk Chocolate",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Typical milk chocolate bar; values reflect average commercial product."
+    },
+    {
+      "position": 3,
+      "name": "Salted Butter",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Salted butter; standard butter nutrition with negligible salt impact."
+    },
+    {
+      "position": 4,
+      "name": "Light Brown Soft Sugar",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Light brown soft sugar; nearly identical to white sugar nutritionally."
+    },
+    {
+      "position": 5,
+      "name": "Eggs",
+      "measurement": "4 large",
+      "grams": 200,
+      "assumptions": "4 large eggs ≈ 200 g edible portion (without shells); standard large egg weight used."
+    },
+    {
+      "position": 6,
+      "name": "Plain Flour",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "Plain white wheat flour; standard values for all-purpose flour."
+    },
+    {
+      "position": 7,
+      "name": "Cocoa",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Unsweetened cocoa powder; standard unsweetened baking cocoa."
+    },
+    {
+      "position": 8,
+      "name": "Raspberries",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Fresh whole raspberries; standard values for raw edible raspberries."
+    }
+  ],
+  "nutrition": {
+    "calories": 6029.6,
+    "protein": 78.6,
+    "fat": 335.3,
+    "fiber": 48.7,
+    "carbs": 673.55
+  }
+}

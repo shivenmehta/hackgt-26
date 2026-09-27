@@ -1,0 +1,139 @@
+{
+  "id": "53341",
+  "name": "Flapper Pie",
+  "cuisine": "Canadian",
+  "fingerprint": "6520c09f8d7a8ffae6ad4a11737aa055a245d7e060cfe59e064e02c951bca21f",
+  "yield": 8,
+  "minutes": 50,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": null,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from standard 9-inch deep-dish pie with graham crust, custard filling, and meringue topping (typically 8 slices).",
+    "Total time is sum of explicit steps: 10 min crust bake + ~10-15 min stovetop custard + ~10 min meringue mixing + 10 min bake; plus implicit cooling/assembly time conservatively totaling 50 min prep-to-oven.",
+    "Graham cracker crumbs contain wheat (not gluten-free).",
+    "Milk and butter confirm dairy and are incompatible with dairy-free.",
+    "Egg yolks and whites confirm eggs.",
+    "No tree nuts, peanuts, fish, or shellfish listed.",
+    "Soy ambiguous (possible in some graham crackers but not specified).",
+    "All sugar assumed granulated white; all measurements treated as listed without substitution."
+  ],
+  "categories": [],
+  "instructions": "Preheat the oven to 350˚F.\r\nMix all the crust ingredients (graham cracker crumbs, melted butter, granulated sugar and ground cinnamon) in a medium bowl. Set aside about 2 Tbsp (30 mL) for later and press the mixture into a 9-inch deep-dish pie plate in the bottom and up the sides. Bake crust for 10 minutes, it will only brown slightly.\r\nCombine the vanilla custard filling ingredients (milk, granulated sugar, cornstarch, egg yolks, vanilla extract and salt together) and cook on medium heat, stirring constantly, until it bubbles and thickens to the texture of pudding. Set aside to cool while you make the meringue topping.\r\nIn the bowl of a stand mixer fitted with the beater attachment or in a large bowl using an electric mixer beat the meringue ingredients (egg whites, granulated sugar, cream of tartar) together until it holds stiff and glossy peaks.\r\nTo assemble the pie, pour the filling into the crust and top with a thick layer of the meringue, making little spikes that will brown on top. Sprinkle the reserved crumb over the top and place it into the preheated oven.\r\nBake until the meringue browns, around 10 minutes, making sure to watch it carefully.\r\nChill in the fridge and eat within a few hours of baking. This pie is best eaten the same day as the meringue will soften and liquify.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/6ht8141764786479.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Graham Cracker Crumbs",
+      "measurement": "1 1/2 cups",
+      "grams": 180,
+      "assumptions": "Standard graham cracker crumbs; ~120g per cup, typical nutrition for sweetened crumbs."
+    },
+    {
+      "position": 2,
+      "name": "Melted Butter",
+      "measurement": "6 tablespoons",
+      "grams": 85,
+      "assumptions": "Unsalted butter, melted; standard density ~14g per tablespoon, 6 tbsp = 84-85g."
+    },
+    {
+      "position": 3,
+      "name": "Sugar",
+      "measurement": "1/2 cup",
+      "grams": 100,
+      "assumptions": "Granulated white sugar; 1/2 cup = 100g exactly by standard measure."
+    },
+    {
+      "position": 4,
+      "name": "Ground Cinnamon",
+      "measurement": "1/2 tsp",
+      "grams": 1.3,
+      "assumptions": "Ground cinnamon; 1/2 tsp ≈ 1.3g, typical spice nutrition."
+    },
+    {
+      "position": 5,
+      "name": "Milk",
+      "measurement": "2 1/2 cups",
+      "grams": 610,
+      "assumptions": "Whole milk; 2.5 cups = 610g (standard 244g per cup)."
+    },
+    {
+      "position": 6,
+      "name": "Sugar",
+      "measurement": "1/2 cup",
+      "grams": 100,
+      "assumptions": "Granulated white sugar for filling; 1/2 cup = 100g."
+    },
+    {
+      "position": 7,
+      "name": "Cornstarch",
+      "measurement": "1/4 cup",
+      "grams": 32,
+      "assumptions": "Cornstarch; 1/4 cup = 32g by standard measure."
+    },
+    {
+      "position": 8,
+      "name": "Egg Yolks",
+      "measurement": "3",
+      "grams": 51,
+      "assumptions": "Large egg yolks; 3 yolks ≈ 51g (17g each)."
+    },
+    {
+      "position": 9,
+      "name": "Vanilla Extract",
+      "measurement": "1 tsp",
+      "grams": 4.2,
+      "assumptions": "Pure vanilla extract; 1 tsp ≈ 4.2g, alcohol-based."
+    },
+    {
+      "position": 10,
+      "name": "Salt",
+      "measurement": "1/4 tsp",
+      "grams": 1.5,
+      "assumptions": "Table salt; 1/4 tsp ≈ 1.5g, negligible macros."
+    },
+    {
+      "position": 11,
+      "name": "Egg White",
+      "measurement": "3",
+      "grams": 99,
+      "assumptions": "Egg whites from large eggs; 3 whites ≈ 99g (33g each)."
+    },
+    {
+      "position": 12,
+      "name": "Sugar",
+      "measurement": "1/4 cup",
+      "grams": 50,
+      "assumptions": "Granulated white sugar for meringue; 1/4 cup = 50g."
+    },
+    {
+      "position": 13,
+      "name": "Cream Of Tartar",
+      "measurement": "1/4 tsp",
+      "grams": 0.8,
+      "assumptions": "Cream of tartar; 1/4 tsp ≈ 0.8g, negligible macros."
+    }
+  ],
+  "nutrition": {
+    "calories": 3047.53,
+    "protein": 49.02,
+    "fat": 108.73,
+    "fiber": 6.38,
+    "carbs": 461.39
+  }
+}

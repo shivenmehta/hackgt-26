@@ -1,0 +1,172 @@
+{
+  "id": "52832",
+  "name": "Coq au vin",
+  "cuisine": "French",
+  "fingerprint": "15b928f26b188ce75fca7dcbe9520d57552e12e82e72f8ef642bdfa73deeebf8",
+  "yield": 6,
+  "minutes": 105,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 6 based on total chicken quantity (~1.4 kg bone-in + boneless) plus other ingredients typical for 6 adult portions in classic French coq au vin recipes.",
+    "Total active and passive preparation/cooking time estimated at 105 minutes from instructions (bacon/shallots ~10 min, chicken browning ~15 min, deglazing ~5 min, simmer 50-60 min, mushrooms ~5 min, sauce thickening ~5 min); overlaps and 'until browned' steps conservatively averaged.",
+    "Plain flour classified as containing wheat (not gluten-free).",
+    "Butter classified as containing milk.",
+    "Bacon, chicken, stock classified as non-vegetarian/vegan/pescatarian.",
+    "No tree nuts, peanuts, fish, shellfish, eggs, soy, or sesame listed in ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat 1 tbsp of the oil in a large, heavy-based saucepan or flameproof dish. Tip in the bacon and fry until crisp. Remove and drain on kitchen paper. Add the shallots to the pan and fry, stirring or shaking the pan often, for 5-8 mins until well browned all over. Remove and set aside with the bacon.\r\nPat the chicken pieces dry with kitchen paper. Pour the remaining oil into the pan, then fry half the chicken pieces, turning regularly, for 5-8 mins until well browned. Remove, then repeat with the remaining chicken. Remove and set aside.\r\nScatter in the garlic and fry briefly, then, with the heat medium-high, pour in the brandy or Cognac, stirring the bottom of the pan to deglaze. The alcohol should sizzle and start to evaporate so there is not much left.\r\nReturn the chicken legs and thighs to the pan along with any juices, then pour in a little of the wine, stirring the bottom of the pan again. Stir in the rest of the wine, the stock and tomato purée, drop in the bouquet garni, season with pepper and a pinch of salt, then return the bacon and shallots to the pan. Cover, lower the heat to a gentle simmer, add the chicken breasts and cook for 50 mins-1hr.\r\nJust before ready to serve, heat the oil for the mushrooms in a large non-stick frying pan. Add the mushrooms and fry over a high heat for a few mins until golden. Remove and keep warm.\r\nLift the chicken, shallots and bacon from the pan and transfer to a warmed serving dish. Remove the bouquet garni. To make the thickener, mix the flour, olive oil and butter in a small bowl using the back of a teaspoon. Bring the wine mixture to a gentle boil, then gradually drop in small pieces of the thickener, whisking each piece in using a wire whisk. Simmer for 1-2 mins. Scatter the mushrooms over the chicken, then pour over the wine sauce. Garnish with chopped parsley.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "1½ tbsp",
+      "grams": 20,
+      "assumptions": "1.5 tbsp olive oil (density ~0.92 g/ml)."
+    },
+    {
+      "position": 2,
+      "name": "Bacon",
+      "measurement": "3 rashers (100g) chopped dry-cured",
+      "grams": 100,
+      "assumptions": "100g dry-cured bacon as specified; typical values for streaky/pancetta style."
+    },
+    {
+      "position": 3,
+      "name": "Shallots",
+      "measurement": "12 small",
+      "grams": 240,
+      "assumptions": "12 small shallots ~20g each, peeled and edible portion."
+    },
+    {
+      "position": 4,
+      "name": "Chicken Legs",
+      "measurement": "2 (460g)",
+      "grams": 460,
+      "assumptions": "Raw bone-in chicken legs with skin; typical dark meat values."
+    },
+    {
+      "position": 5,
+      "name": "Chicken Thighs",
+      "measurement": "4 (650g)",
+      "grams": 650,
+      "assumptions": "Raw bone-in chicken thighs with skin; typical values."
+    },
+    {
+      "position": 6,
+      "name": "Chicken Breasts",
+      "measurement": "2 (280g)",
+      "grams": 280,
+      "assumptions": "Raw boneless chicken breasts without skin; typical white meat values."
+    },
+    {
+      "position": 7,
+      "name": "Garlic",
+      "measurement": "3 finely chopped",
+      "grams": 15,
+      "assumptions": "3 garlic cloves, finely chopped ~5g each."
+    },
+    {
+      "position": 8,
+      "name": "Brandy",
+      "measurement": "3 tbsp",
+      "grams": 45,
+      "assumptions": "3 tbsp brandy (density ~0.94 g/ml); alcohol calories included."
+    },
+    {
+      "position": 9,
+      "name": "Red Wine",
+      "measurement": "600ml",
+      "grams": 600,
+      "assumptions": "600ml red wine (density ~1 g/ml); typical dry red wine values."
+    },
+    {
+      "position": 10,
+      "name": "Chicken Stock",
+      "measurement": "150ml",
+      "grams": 150,
+      "assumptions": "150ml chicken stock; typical low-calorie broth values."
+    },
+    {
+      "position": 11,
+      "name": "tomato puree",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 tsp tomato puree/paste; typical concentrated values."
+    },
+    {
+      "position": 12,
+      "name": "thyme",
+      "measurement": "3 sprigs",
+      "grams": 5,
+      "assumptions": "3 sprigs fresh thyme; estimated edible leaves only."
+    },
+    {
+      "position": 13,
+      "name": "Rosemary",
+      "measurement": "2 sprigs",
+      "grams": 5,
+      "assumptions": "2 sprigs fresh rosemary; estimated edible leaves only."
+    },
+    {
+      "position": 14,
+      "name": "bay leaves",
+      "measurement": "2",
+      "grams": 1,
+      "assumptions": "2 bay leaves; negligible edible contribution after removal."
+    },
+    {
+      "position": 15,
+      "name": "parsley",
+      "measurement": "garnish",
+      "grams": 10,
+      "assumptions": "Parsley for garnish; estimated small bunch used as garnish."
+    },
+    {
+      "position": 16,
+      "name": "chestnut mushroom",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "250g chestnut mushrooms; typical fresh values."
+    },
+    {
+      "position": 17,
+      "name": "plain flour",
+      "measurement": "2 tbsp",
+      "grams": 20,
+      "assumptions": "2 tbsp plain flour ~10g each level tbsp."
+    },
+    {
+      "position": 18,
+      "name": "butter",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp butter."
+    }
+  ],
+  "nutrition": {
+    "calories": 4297.15,
+    "protein": 330.6,
+    "fat": 223.74,
+    "fiber": 12.4,
+    "carbs": 85.25
+  }
+}

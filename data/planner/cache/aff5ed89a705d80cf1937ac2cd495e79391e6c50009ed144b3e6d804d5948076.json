@@ -1,0 +1,104 @@
+{
+  "id": "53371",
+  "name": "Sichuan Style Stir-Fried Chinese Long Beans",
+  "cuisine": "Chinese",
+  "fingerprint": "aff5ed89a705d80cf1937ac2cd495e79391e6c50009ed144b3e6d804d5948076",
+  "yield": 2,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": true,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated from typical stir-fry portion sizes using 1/2 lb beans as main ingredient (2 modest side servings or 1-2 light meal servings).",
+    "Preparation time estimated from quick stir-fry method (washing/cutting beans ~5 min, stir-frying ~5-10 min) based on similar recipes, as instructions omit explicit steps.",
+    "Peanut oil introduces peanuts allergen (true).",
+    "Sesame seed oil introduces sesame allergen (true).",
+    "Soy sauce introduces soy allergen (true) and likely wheat (null, as unspecified if tamari or wheat-free).",
+    "No milk, eggs, fish, shellfish, tree nuts confidently absent.",
+    "Gluten-free is null due to potential wheat in soy sauce; recipe is otherwise compatible but not certified gluten-free.",
+    "All other diets true as all ingredients are plant-based with no incompatibilities."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Chinese long beans can be found in both green and purple varieties. Both have similar flavors and textures, and either kind can be used for this recipe.\r\nIf you don't have a wok, use a sturdy, large sauté pan that has at least a two-inch lip.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/i0610h1765659464.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chinese Long Beans",
+      "measurement": "1/2 lb",
+      "grams": 227,
+      "assumptions": "Standard raw Chinese long beans (yardlong beans); 1/2 lb = 227 g edible portion, typical values for raw green beans adjusted for this variety."
+    },
+    {
+      "position": 2,
+      "name": "Peanut Oil",
+      "measurement": "1 tablespoon",
+      "grams": 14,
+      "assumptions": "Peanut oil; 1 tablespoon = 14 g, pure fat oil values."
+    },
+    {
+      "position": 3,
+      "name": "Dried Chillies",
+      "measurement": "6",
+      "grams": 12,
+      "assumptions": "Dried chillies; 6 typical small dried red chillies ≈ 12 g total edible weight (including seeds), standard dried chili pepper nutrition."
+    },
+    {
+      "position": 4,
+      "name": "Sichuan Pepper",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Sichuan peppercorns; 1 tsp whole ≈ 2 g, typical values for dried Sichuan pepper."
+    },
+    {
+      "position": 5,
+      "name": "Salt",
+      "measurement": "1/4 tsp",
+      "grams": 1.5,
+      "assumptions": "Table salt; 1/4 tsp ≈ 1.5 g, sodium chloride contributes zero macros."
+    },
+    {
+      "position": 6,
+      "name": "Sugar",
+      "measurement": "1/2 tsp",
+      "grams": 2,
+      "assumptions": "Granulated sugar; 1/2 tsp ≈ 2 g, pure sucrose values."
+    },
+    {
+      "position": 7,
+      "name": "Sesame Seed Oil",
+      "measurement": "1 tablespoon",
+      "grams": 14,
+      "assumptions": "Sesame seed oil; 1 tablespoon = 14 g, pure fat oil values."
+    },
+    {
+      "position": 8,
+      "name": "Soy Sauce",
+      "measurement": "Splash",
+      "grams": 15,
+      "assumptions": "Soy sauce; 'splash' assumed as 1 tablespoon (15 g) for stir-fry seasoning, typical light soy sauce values."
+    }
+  ],
+  "nutrition": {
+    "calories": 409.8,
+    "protein": 8.31,
+    "fat": 30.94,
+    "fiber": 12.13,
+    "carbs": 29.67
+  }
+}

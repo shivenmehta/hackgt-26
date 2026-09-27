@@ -1,0 +1,160 @@
+{
+  "id": "52820",
+  "name": "Katsu Chicken curry",
+  "cuisine": "Japanese",
+  "fingerprint": "aae25e674d0877486e3f50a2bfdc39f2b74702701fb24000fbefaec510ede99e",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe instructions explicitly state total time of 45 minutes (15 min prep + 30 min cook).",
+    "Yield estimated at 4 based on 4 chicken breasts as primary protein, standard for this dish.",
+    "Plain flour and breadcrumbs classified as containing wheat (not gluten-free).",
+    "Soy sauce classified as containing soy.",
+    "Egg used for coating classified as eggs allergen.",
+    "No dairy ingredients present (dairy-free).",
+    "Chicken stock and chicken breast make vegetarian/vegan/pescatarian false.",
+    "No tree nuts, peanuts, fish, shellfish, sesame, or milk confidently present; set to null where ambiguous."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Prep:15min  ›  Cook:30min  ›  Ready in:45min \r\n\r\nFor the curry sauce: Heat oil in medium non-stick saucepan, add onion and garlic and cook until softened. Stir in carrots and cook over low heat for 10 to 12 minutes.\r\nAdd flour and curry powder; cook for 1 minute. Gradually stir in stock until combined; add honey, soy sauce and bay leaf. Slowly bring to the boil.\r\nTurn down heat and simmer for 20 minutes or until sauce thickens but is still of pouring consistency. Stir in garam masala. Pour the curry sauce through a sieve; return to saucepan and keep on low heat until ready to serve.\r\nFor the chicken: Season both sides of chicken breasts with salt and pepper. Place flour, egg and breadcrumbs in separate bowls and arrange in a row. Coat the chicken breasts in flour, then dip them into the egg, then coat in breadcrumbs, making sure you cover both sides.\r\nHeat oil in large frying pan over medium-high heat. Place chicken into hot oil and cook until golden brown, about 3 or 4 minutes each side. Once cooked, place on kitchen paper to absorb excess oil.\r\nPour curry sauce over chicken, serve with white rice and enjoy!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "chicken breast",
+      "measurement": "4 pounded to 1cm thickness",
+      "grams": 500,
+      "assumptions": "4 average 125g chicken breasts, pounded thin; fully edible lean meat only"
+    },
+    {
+      "position": 2,
+      "name": "plain flour",
+      "measurement": "2 tablespoons",
+      "grams": 15,
+      "assumptions": "2 tbsp plain white flour for dredging chicken"
+    },
+    {
+      "position": 3,
+      "name": "egg",
+      "measurement": "1 beaten",
+      "grams": 50,
+      "assumptions": "1 large beaten egg (~50g edible portion)"
+    },
+    {
+      "position": 4,
+      "name": "breadcrumbs",
+      "measurement": "100g fine",
+      "grams": 100,
+      "assumptions": "100g fine dry breadcrumbs as listed"
+    },
+    {
+      "position": 5,
+      "name": "vegetable oil",
+      "measurement": "230ml frying",
+      "grams": 20,
+      "assumptions": "230ml vegetable frying oil; only ~20g absorbed by the 4 coated breasts during shallow pan-frying"
+    },
+    {
+      "position": 6,
+      "name": "sunflower oil",
+      "measurement": "2 tablespoons",
+      "grams": 28,
+      "assumptions": "2 tbsp sunflower oil for curry sauce base (fully used)"
+    },
+    {
+      "position": 7,
+      "name": "onions",
+      "measurement": "2 sliced",
+      "grams": 220,
+      "assumptions": "2 medium onions (~110g each), sliced and cooked"
+    },
+    {
+      "position": 8,
+      "name": "garlic",
+      "measurement": "5 chopped cloves",
+      "grams": 15,
+      "assumptions": "5 garlic cloves, chopped (~3g each)"
+    },
+    {
+      "position": 9,
+      "name": "carrot",
+      "measurement": "2 sliced",
+      "grams": 120,
+      "assumptions": "2 medium carrots (~60g each), sliced and simmered"
+    },
+    {
+      "position": 10,
+      "name": "plain flour",
+      "measurement": "2 tablespoons",
+      "grams": 15,
+      "assumptions": "2 tbsp plain white flour for thickening curry sauce"
+    },
+    {
+      "position": 11,
+      "name": "curry powder",
+      "measurement": "4 teaspoons",
+      "grams": 8,
+      "assumptions": "4 tsp mild curry powder"
+    },
+    {
+      "position": 12,
+      "name": "chicken stock",
+      "measurement": "600ml",
+      "grams": 600,
+      "assumptions": "600ml chicken stock (typical diluted value; mostly water with flavor)"
+    },
+    {
+      "position": 13,
+      "name": "honey",
+      "measurement": "2 teaspoons",
+      "grams": 14,
+      "assumptions": "2 tsp honey"
+    },
+    {
+      "position": 14,
+      "name": "soy sauce",
+      "measurement": "4 teaspoons",
+      "grams": 20,
+      "assumptions": "4 tsp soy sauce"
+    },
+    {
+      "position": 15,
+      "name": "bay leaf",
+      "measurement": "1",
+      "grams": 0.5,
+      "assumptions": "1 bay leaf; negligible edible contribution after sieving and removal"
+    },
+    {
+      "position": 16,
+      "name": "garam masala",
+      "measurement": "1 teaspoon",
+      "grams": 2,
+      "assumptions": "1 tsp garam masala spice blend"
+    }
+  ],
+  "nutrition": {
+    "calories": 2114.63,
+    "protein": 189.54,
+    "fat": 77.58,
+    "fiber": 14,
+    "carbs": 155.03
+  }
+}

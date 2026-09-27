@@ -1,0 +1,125 @@
+{
+  "id": "53305",
+  "name": "Braised stuffed cabbage",
+  "cuisine": "Polish",
+  "fingerprint": "f4402ed47829223f097425361549e5edc81b5eaf0b51ce9bdf70e15796157a40",
+  "yield": 4,
+  "minutes": 105,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical Polish stuffed cabbage recipes using 6 large leaves (1-2 rolls per serving); source review issues note serving count needs enrichment",
+    "Total time sums active prep (~20 min for boiling, frying, stuffing) + 75 min baking; instructions give explicit oven times",
+    "Vegetarian confirmed by source and all ingredients; Vegan false due to listed honey",
+    "Pescatarian true as no meat/fish but allows honey",
+    "Gluten-free true: no barley/rye/wheat/oats; rice and chestnuts are gluten-free",
+    "Dairy-free true: no milk products",
+    "Tree nuts true for chestnuts (botanically a nut, common allergen flag); all other allergens confidently absent based on ingredients",
+    "Cranberries assumed dried (standard for rice stuffing); rosemary assumed dried; no compound sauces or ambiguous items"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat oven to 180C/fan 160C/gas 4. Remove the tough central stalk from the cabbage leaves. Bring a large pan of salted water to the boil, add the cabbage, then cook for just 1-2 mins until the leaves are starting to wilt. Drain and refresh under cold running water. Drain well, then pat dry with a tea towel.\r\n\r\nstep 2\r\nHeat the oil in a pan, add the onion, then fry for 5 mins until slightly browned. Add the rosemary and celery, then cook for 8 mins more. Stir in the rice, then cook for a min or so until the grains are glistening. Remove from the heat, stir in the chestnuts and cranberries, then season.\r\n\r\nstep 3\r\nSpoon a little stuffing onto a cabbage leaf, roll up and fold in the sides to enclose the filling. Put in a single layer in a large, oiled, shallow ovenproof dish with the join underneath. Fill the remaining leaves in the same way. Mix the stock, vinegar and honey, then pour over the cabbage. Cover the dish tightly with foil, bake for 1 hr, uncover, then cook for a further 15 mins.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/z267f71764364072.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Cabbage Leaves",
+      "measurement": "6 large",
+      "grams": 750,
+      "assumptions": "6 large outer savoy cabbage leaves ~125g each raw weight; typical for Polish stuffed cabbage recipes"
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "2 tablespoons",
+      "grams": 27,
+      "assumptions": "standard 2 tbsp olive oil = 27 g"
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium chopped onion ~110 g raw"
+    },
+    {
+      "position": 4,
+      "name": "Rosemary",
+      "measurement": "2 tsp",
+      "grams": 3,
+      "assumptions": "2 tsp dried rosemary leaves ~3 g; typical dried herb density"
+    },
+    {
+      "position": 5,
+      "name": "Celery",
+      "measurement": "1 chopped",
+      "grams": 40,
+      "assumptions": "1 medium celery stalk chopped ~40 g raw"
+    },
+    {
+      "position": 6,
+      "name": "Basmati Rice",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "dry basmati rice weight as listed; uncooked state before boiling in instructions"
+    },
+    {
+      "position": 7,
+      "name": "Cooked Chestnut",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "vacuum-packed pre-cooked chestnuts as listed; typical drained weight"
+    },
+    {
+      "position": 8,
+      "name": "Cranberry",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "dried cranberries (common in stuffing); 50 g as listed"
+    },
+    {
+      "position": 9,
+      "name": "Vegetable Stock",
+      "measurement": "300ml",
+      "grams": 300,
+      "assumptions": "standard vegetable stock from bouillon; 300 ml ≈ 300 g"
+    },
+    {
+      "position": 10,
+      "name": "Balsamic Vinegar",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp balsamic vinegar ≈ 15 g"
+    },
+    {
+      "position": 11,
+      "name": "Clear Honey",
+      "measurement": "1 tsp",
+      "grams": 7,
+      "assumptions": "1 tsp clear honey ≈ 7 g"
+    }
+  ],
+  "nutrition": {
+    "calories": 1331.66,
+    "protein": 25.85,
+    "fat": 31.41,
+    "fiber": 35.56,
+    "carbs": 244.69
+  }
+}

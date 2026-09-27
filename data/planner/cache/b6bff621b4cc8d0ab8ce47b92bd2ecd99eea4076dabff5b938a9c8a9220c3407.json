@@ -1,0 +1,185 @@
+{
+  "id": "52805",
+  "name": "Lamb Biryani",
+  "cuisine": "Indian",
+  "fingerprint": "b6bff621b4cc8d0ab8ce47b92bd2ecd99eea4076dabff5b938a9c8a9220c3407",
+  "yield": 6,
+  "minutes": 120,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 6 servings based on 2 cups rice + 1 lb lamb quantities standard for biryani recipes serving 4-8; conservatively 6.",
+    "Total time ~120 minutes: ~30 min prep (grinding, frying, chopping), ~60 min lamb simmer, ~15 min rice boil, ~15 min layering/baking; sequential with overlaps.",
+    "Cashews classified as tree nuts allergen (present).",
+    "Milk present via yogurt, saffron-milk, and ghee (dairy).",
+    "No wheat, eggs, fish, shellfish, peanuts, or soy listed; sesame ambiguous as unspecified in compound spice blends like biryani masala."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Grind the cashew, poppy seeds and cumin seeds into a smooth paste, using as little water as possible. Set aside. \r\n\r\nDeep fry the sliced onions when it is hot. Don’t overcrowd the oil. When the onions turn light brown, remove from oil and drain on paper towel. The fried onion will crisp up as it drains. Also fry the cashewnuts till golden brown. Set aside.\r\n\r\nWash the rice and soak in water for twenty minutes.\r\nMeanwhile, take a big wide pan, add oil in medium heat, add the sliced onions, add the blended paste, to it add the green chillies, ginger garlic paste and garlic and fry for a minute.\r\nThen add the tomatoes and sauté them well till they are cooked and not mushy.\r\n\r\nThen to it add the red chilli powder, biryani powder, mint, coriander leaves and sauté them well.\r\nAdd the yogurt and mix well. I always move the skillet away from the heat when adding yogurt which prevents it from curdling.\r\n\r\nNow after returning the skillet back to the stove, add the washed lamb and salt and ½ cup water and mix well. Cook for 1 hour and cook it covered in medium low heat or put it in a pressure cooker for 6 whistles. If the water is not drained totally, heat it by keeping it open.\r\n\r\nTake another big pan, add thrice the cup of rice you use, and boil it. When it is boiling high, add the rice, salt and jeera and mix well. After 7 minutes exact or when the rice is 80% done. Switch off and drain the rice.\r\n\r\nNow, the layering starts. To the lamb, pat and level it. Add the drained hot rice on the top of it. Garnish with fried onions, ghee, mint, coriander leaves and saffron dissolved in milk.\r\n\r\nCover the dish and bake in a 350f oven for 15 minutes or till the cooked but not mushy. Or cook in the stove medium heat for 12 minutes and lowest heat for 5 minutes. And switch off. Mix and serve hot!\r\nNotes\r\n1. If you are cooking in oven, do make sure to cook in a big oven safe pan and cover it tight and then keep in oven for the final step.\r\n2. You can skip biryani masala if you don’t have and add just garam masala (1 tsp and red chilli powder – 3 tsp instead of 1 tsp)\r\n3. If it is spicy in the end, squeeze some lemon, it will reduce the heat and enhance the flavors also.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Cashew nuts",
+      "measurement": "12",
+      "grams": 36,
+      "assumptions": "12 whole cashews estimated at 3g each, typical size for raw cashews used in Indian recipes."
+    },
+    {
+      "position": 2,
+      "name": "Khus khus",
+      "measurement": "½ tbsp",
+      "grams": 5,
+      "assumptions": "½ tbsp poppy seeds (khus khus) estimated at ~5g, standard volume-to-weight for small seeds."
+    },
+    {
+      "position": 3,
+      "name": "Cumin seeds",
+      "measurement": "½ tbsp",
+      "grams": 5,
+      "assumptions": "½ tbsp cumin seeds estimated at ~5g, standard volume-to-weight for cumin seeds."
+    },
+    {
+      "position": 4,
+      "name": "Onions",
+      "measurement": "3 sliced thinly",
+      "grams": 330,
+      "assumptions": "3 medium onions sliced thinly estimated at 110g each (raw weight), common for biryani base."
+    },
+    {
+      "position": 5,
+      "name": "Ginger garlic paste",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 tsp ginger-garlic paste estimated at 10g total, typical commercial or homemade paste density."
+    },
+    {
+      "position": 6,
+      "name": "Garlic",
+      "measurement": "4 whole",
+      "grams": 12,
+      "assumptions": "4 whole garlic cloves estimated at 3g each, raw."
+    },
+    {
+      "position": 7,
+      "name": "Mint",
+      "measurement": "Leaves",
+      "grams": 15,
+      "assumptions": "Mint leaves 'to taste' estimated at 15g (a generous handful for layering and sauce in biryani for 4-6 servings)."
+    },
+    {
+      "position": 8,
+      "name": "Cilantro",
+      "measurement": "Leaves",
+      "grams": 15,
+      "assumptions": "Cilantro (coriander) leaves 'to taste' estimated at 15g (a generous handful for layering and sauce in biryani for 4-6 servings)."
+    },
+    {
+      "position": 9,
+      "name": "Saffron",
+      "measurement": "½ tsp dissolved in ½ cup warm milk",
+      "grams": 2,
+      "assumptions": "½ tsp saffron threads (~1g) dissolved in ½ cup (120g) warm milk; total line estimated at 2g effective saffron contribution for nutrition (milk negligible in small amount but included in context); saffron is calorie dense."
+    },
+    {
+      "position": 10,
+      "name": "Ghee",
+      "measurement": "2 tbsp",
+      "grams": 28,
+      "assumptions": "2 tbsp ghee estimated at 28g (standard 14g per tbsp)."
+    },
+    {
+      "position": 11,
+      "name": "Basmati rice",
+      "measurement": "2 Cups",
+      "grams": 400,
+      "assumptions": "2 cups uncooked basmati rice estimated at 200g per cup (standard dry weight)."
+    },
+    {
+      "position": 12,
+      "name": "Full fat yogurt",
+      "measurement": "½ cup",
+      "grams": 120,
+      "assumptions": "½ cup full-fat yogurt estimated at 120g (standard density)."
+    },
+    {
+      "position": 13,
+      "name": "Cumin Seeds",
+      "measurement": "1 tbsp",
+      "grams": 8,
+      "assumptions": "1 tbsp cumin seeds (jeera) estimated at ~8g for boiling rice."
+    },
+    {
+      "position": 14,
+      "name": "Bay leaf",
+      "measurement": "½",
+      "grams": 0.2,
+      "assumptions": "½ bay leaf estimated at 0.2g (very low weight, typical dried leaf fragment)."
+    },
+    {
+      "position": 15,
+      "name": "Cinnamon",
+      "measurement": "1 thin piece",
+      "grams": 2,
+      "assumptions": "1 thin piece cinnamon (approx. 2-inch stick) estimated at 2g."
+    },
+    {
+      "position": 16,
+      "name": "Cloves",
+      "measurement": "3",
+      "grams": 2,
+      "assumptions": "3 whole cloves estimated at ~0.6g each, total 2g."
+    },
+    {
+      "position": 17,
+      "name": "Cardamom",
+      "measurement": "2",
+      "grams": 1,
+      "assumptions": "2 cardamom pods estimated at 0.5g each, total 1g."
+    },
+    {
+      "position": 18,
+      "name": "Lamb",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "1 lb (454g) raw boneless lamb, typical cut for biryani (shoulder/leg); raw weight used as cooking loss not subtracted per guidelines."
+    },
+    {
+      "position": 19,
+      "name": "Red Chilli powder",
+      "measurement": "1 tsp",
+      "grams": 3,
+      "assumptions": "1 tsp red chilli powder estimated at 3g (standard spice density)."
+    },
+    {
+      "position": 20,
+      "name": "Biryani masala",
+      "measurement": "1 tbsp",
+      "grams": 8,
+      "assumptions": "1 tbsp biryani masala estimated at 8g (standard blended spice powder density)."
+    }
+  ],
+  "nutrition": {
+    "calories": 3408.31,
+    "protein": 141.97,
+    "fat": 139.2,
+    "fiber": 20.3,
+    "carbs": 391.68
+  }
+}

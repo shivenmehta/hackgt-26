@@ -1,0 +1,91 @@
+{
+  "id": "52786",
+  "name": "Rocky Road Fudge",
+  "cuisine": "American",
+  "fingerprint": "2ef0c7b3f7bd60262772d5074fba04f0ecac2169e6079ca181c3ffd48bdcb6fc",
+  "yield": 16,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": null
+  },
+  "allergens": {
+    "Milk": null,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": true,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from standard 8-inch square fudge pan cut into 16 pieces (2x2 inch squares).",
+    "Preparation time estimated from active steps only (microwaving, mixing, spreading); refrigeration time excluded as passive.",
+    "Vegetarian true: all ingredients compatible with lacto-ovo vegetarian diet.",
+    "Vegan false: chocolate chips and marshmallows typically contain non-vegan ingredients (e.g., dairy, gelatin).",
+    "Pescatarian true: no meat or poultry present.",
+    "Gluten-free true: no barley, rye, wheat, or oats listed; assumes certified gluten-free marshmallows/chocolate if needed but no gluten sources present.",
+    "Dairy-free null: chocolate chips may contain milk; unspecified.",
+    "Milk null: chocolate chips may contain milk; unspecified.",
+    "Eggs confidently absent: no egg ingredients listed.",
+    "Fish confidently absent: no fish ingredients listed.",
+    "Shellfish confidently absent: no shellfish ingredients listed.",
+    "Tree nuts null: peanuts listed but tree nuts (e.g., almonds) optional/ambiguous in instructions.",
+    "Peanuts true: peanuts and peanut butter explicitly listed.",
+    "Wheat confidently absent: no wheat ingredients listed.",
+    "Soy null: chocolate chips or peanut butter may contain soy; unspecified.",
+    "Sesame confidently absent: no sesame ingredients listed."
+  ],
+  "categories": [],
+  "instructions": "Line an 8-inch-square baking pan with wax paper or foil, and coat with non-stick spray.\r\nPour ½ cup of the miniature marshmallows into the bottom of the lined baking dish.\r\nIn a microwave-safe bowl, combine the chocolate chips and peanut butter. Microwave the chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.\r\nAdd the vanilla extract and stir well, until smooth.\r\nReserve 2 tablespoons of the chopped almonds or peanuts, and set aside.\r\nFold 1 ½ cups of the miniature marshmallows and the remaining chopped nuts into the chocolate mixture.\r\nTransfer the chocolate mixture into the prepared pan and spread into an even layer. Immediately top with the reserved chopped nuts and the mallow bits or additional miniature marshmallows, if using.\r\nRefrigerate for 4 hours, or until set.\r\nRemove the fudge and wax paper from the pan. Carefully peel all of wax paper from the fudge.\r\nCut the fudge into bite-sized pieces and serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Miniature Marshmallows",
+      "measurement": "2 cups",
+      "grams": 100,
+      "assumptions": "Standard miniature marshmallows; full 2 cups estimated at 100g based on typical density of ~50g per cup."
+    },
+    {
+      "position": 2,
+      "name": "Chocolate Chips",
+      "measurement": "3 cups",
+      "grams": 510,
+      "assumptions": "Semi-sweet chocolate chips; 3 cups estimated at 510g (170g per cup, typical package density)."
+    },
+    {
+      "position": 3,
+      "name": "Peanut Butter",
+      "measurement": "½ cup",
+      "grams": 129,
+      "assumptions": "Creamy peanut butter; ½ cup estimated at 129g based on typical 258g per cup."
+    },
+    {
+      "position": 4,
+      "name": "Vanilla Extract",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "Pure vanilla extract; 1 tsp estimated at 5g based on typical density of ~4.2g/ml."
+    },
+    {
+      "position": 5,
+      "name": "Peanuts",
+      "measurement": "1 ¼ cups",
+      "grams": 180,
+      "assumptions": "Chopped roasted peanuts; full 1¼ cups estimated at 180g (144g per cup, typical for chopped nuts)."
+    }
+  ],
+  "nutrition": {
+    "calories": 4554.42,
+    "protein": 102.48,
+    "fat": 297.23,
+    "fiber": 55.91,
+    "carbs": 462.43
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "53372",
+  "name": "Chinese Tomato Egg Stir Fry",
+  "cuisine": "Chinese",
+  "fingerprint": "0b6333815bced3338c9f8857a1db955aa21dc914acaa0d004b6dec6221678545",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on 5 eggs + 1 lb tomatoes + 2 cups rice as a typical main dish portion with rice for 4 people",
+    "Total time estimated from instruction steps: ~5 min prep + 2-5 min eggs + 3 min tomatoes + 1 min seasonings + 2 min combine = ~15-20 min active cooking",
+    "Chicken bouillon powder treated as non-vegetarian and potential source of wheat/soy (ambiguous without specific brand)",
+    "Sesame seed oil confirms sesame allergen",
+    "No dairy ingredients present",
+    "Eggs confirm egg allergen",
+    "Jasmine rice, salt, sugar, pepper, tomatoes, and spring onions introduce no listed allergens",
+    "Vegetable oil assumed neutral and free of listed allergens",
+    "Gluten-free left null due to possible gluten in bouillon powder or unspecified vegetable oil",
+    "Pescatarian false due to chicken-derived bouillon"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "You can use chicken broth in place of the chicken bouillon powder. Add 1/4 cup of broth followed by 2 teaspoons of cornstarch dissolved in 1 tablespoPrepare the tomatoes:\r\nSlice the tomatoes in half. Remove the tough stem from each half that connects to the vine. Cut each half into equal thirds (you’ll get 6 slices from each tomato).\r\n\r\nMake the soft scrambled eggs:\r\nIn a cold, 8 to 10-inch nonstick skillet, add the vegetable oil and beaten eggs. Turn the heat to medium. Once a thin layer of eggs is just beginning to cook on the bottom, push the eggs in one direction to create layers of scrambled eggs.\r\n\r\nCook, gently stirring the whole time, until the scramble eggs are mostly set but still slightly wet and shiny, 2 to 5 minutes. Remove the eggs to a plate and, if needed, wipe out the pan.\r\n\r\nStir-fry the tomatoes and seasonings:\r\nAdd the sesame oil to the pan followed by the tomatoes and stir-fry over medium heat until the tomatoes are softened but not mushy, about 3 minutes. Add the chicken bouillon powder, sugar, and white pepper. Toss until combined and the sugar and bouillon have dissolved, about 1 minute.\r\n\r\nAdd eggs, stir-fry, and garnish:\r\nAdd the eggs back to the pan with the tomatoes. Stir-fry for about 2 minutes to heat through and combine. Taste, adding salt only if needed. Sprinkle with the green onions and serve with steamed rice.on of water, plus salt to taste.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/rwvw8q1765660071.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Plum Tomatoes",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "1 lb fresh plum (Roma) tomatoes, raw edible portion; standard USDA-like values for fresh tomatoes"
+    },
+    {
+      "position": 2,
+      "name": "Vegetable Oil",
+      "measurement": "1 tablespoon",
+      "grams": 14,
+      "assumptions": "1 tablespoon neutral vegetable oil (e.g. canola); typical cooking oil density and nutrition"
+    },
+    {
+      "position": 3,
+      "name": "Eggs",
+      "measurement": "5 Large",
+      "grams": 250,
+      "assumptions": "5 large whole eggs, raw; ~50 g edible per large egg without shell"
+    },
+    {
+      "position": 4,
+      "name": "Sesame Seed Oil",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp toasted sesame oil; typical oil nutrition"
+    },
+    {
+      "position": 5,
+      "name": "Chicken Bouillon Powder",
+      "measurement": "2 tsp",
+      "grams": 8,
+      "assumptions": "2 tsp chicken bouillon powder; estimated from typical commercial dry bouillon granules (sodium-rich seasoning)"
+    },
+    {
+      "position": 6,
+      "name": "Sugar",
+      "measurement": "2 tsp",
+      "grams": 8,
+      "assumptions": "2 tsp granulated white sugar; standard sugar nutrition"
+    },
+    {
+      "position": 7,
+      "name": "Pepper",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp ground white pepper; negligible mass and macro contribution in small seasoning quantity"
+    },
+    {
+      "position": 8,
+      "name": "Salt",
+      "measurement": "1/4 tsp",
+      "grams": 1.5,
+      "assumptions": "1/4 tsp table salt; negligible macro contribution in small seasoning quantity"
+    },
+    {
+      "position": 9,
+      "name": "Spring Onions",
+      "measurement": "1",
+      "grams": 15,
+      "assumptions": "1 medium spring (green) onion, raw and sliced; typical 15 g edible portion"
+    },
+    {
+      "position": 10,
+      "name": "Jasmine Rice",
+      "measurement": "2 cups",
+      "grams": 360,
+      "assumptions": "2 cups uncooked jasmine rice; standard dry white rice weight and nutrition (recipe context implies dry rice to be steamed)"
+    }
+  ],
+  "nutrition": {
+    "calories": 1976.94,
+    "protein": 60.82,
+    "fat": 46.25,
+    "fiber": 9.8,
+    "carbs": 318.55
+  }
+}

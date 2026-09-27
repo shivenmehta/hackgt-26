@@ -1,0 +1,109 @@
+{
+  "id": "53026",
+  "name": "Tamiya",
+  "cuisine": "Egyptian",
+  "fingerprint": "dfb15b910e43d335832fad62336f88c4c3b4d61bc10476b73620207c1ab1b31f",
+  "yield": 6,
+  "minutes": 510,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical tamiya/falafel recipes using 3 cups dry fava beans, producing 20-30 small patties suitable for 6 servings as a main or meze component.",
+    "Total minutes combines overnight soak (480 min), 30 min refrigeration, plus estimated active prep/frying time of 30 min based on instructions.",
+    "Broad beans classified as fava beans (dry, soaked); flour assumed wheat-based as standard unless specified otherwise.",
+    "Parsley listed in ingredients but cilantro mentioned in instructions; both treated as compatible with all diets here.",
+    "Vegetable oil type unspecified, so soy allergen left null; no dairy, eggs, fish, shellfish, tree nuts, or peanuts in listed ingredients.",
+    "Gluten-free is false due to explicit wheat flour for coating; recipe not certified gluten-free."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "oak the beans in water to cover overnight.Drain. If skinless beans are unavailable, rub to loosen the skins, then discard the skins. Pat the beans dry with a towel.\r\nGrind the beans in a food mill or meat grinder.If neither appliance is available, process them in a food processor but only until the beans form a paste. (If blended too smoothly, the batter tends to fall apart during cooking.) Add the scallions, garlic, cilantro, cumin, baking powder, cayenne, salt, pepper, and coriander, if using.  Refrigerate for at least 30 minutes.\r\nShape the bean mixture into 1-inch balls.Flatten slightly and coat with flour.\r\nHeat at least 1½-inches of oil over medium heat to 365 degrees.\r\nFry the patties in batches, turning once, until golden brown on all sides, about 5 minutes.Remove with a wire mesh skimmer or slotted spoon. Serve as part of a meze or in pita bread with tomato-cucumber salad and tahina sauce.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Broad Beans",
+      "measurement": "3 cups",
+      "grams": 750,
+      "assumptions": "3 cups dry fava/broad beans (standard dried measure ≈250 g per cup); assumes dry weight as recipe starts with soaking overnight, typical for tamiya/falafel; edible portion after soaking and skinning is close to original dry weight for nutrition scaling"
+    },
+    {
+      "position": 2,
+      "name": "Spring Onions",
+      "measurement": "6",
+      "grams": 90,
+      "assumptions": "6 spring onions/scallions, average 15 g each trimmed; typical bunch size and recipe context for Egyptian tamiya"
+    },
+    {
+      "position": 3,
+      "name": "Garlic Clove",
+      "measurement": "4",
+      "grams": 12,
+      "assumptions": "4 garlic cloves, average 3 g each peeled; standard household measure"
+    },
+    {
+      "position": 4,
+      "name": "Parsley",
+      "measurement": "1/4 cup",
+      "grams": 15,
+      "assumptions": "1/4 cup chopped fresh parsley (cilantro in instructions but listed as parsley; assumes flat-leaf parsley); standard volume-to-weight conversion ≈15 g"
+    },
+    {
+      "position": 5,
+      "name": "Cumin",
+      "measurement": "2 tsp",
+      "grams": 4,
+      "assumptions": "2 tsp ground cumin; standard teaspoon is ≈2 g each, total 4 g; typical spice density"
+    },
+    {
+      "position": 6,
+      "name": "Baking Powder",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "1 tsp baking powder; standard teaspoon ≈4 g"
+    },
+    {
+      "position": 7,
+      "name": "Cayenne Pepper",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp cayenne pepper; standard 0.5 tsp ≈1 g; typical ground spice density"
+    },
+    {
+      "position": 8,
+      "name": "Flour",
+      "measurement": "Spinkling",
+      "grams": 10,
+      "assumptions": "Sprinkling of flour for coating (assumed 10 g total across all patties as light dusting; plausible for 20-30 small 1-inch balls in recipe); standard all-purpose flour"
+    },
+    {
+      "position": 9,
+      "name": "Vegetable Oil",
+      "measurement": "As required",
+      "grams": 60,
+      "assumptions": "Vegetable oil as required for frying (assumed 60 g / ≈4 tbsp total absorbed across all batches for deep-frying at 1.5+ inches; typical absorption rate 10-15% for falafel-style patties, adjusted for full recipe yield)"
+    }
+  ],
+  "nutrition": {
+    "calories": 1464.18,
+    "protein": 61.7,
+    "fat": 66.76,
+    "fiber": 44.57,
+    "carbs": 170.23
+  }
+}

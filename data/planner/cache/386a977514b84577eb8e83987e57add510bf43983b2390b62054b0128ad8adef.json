@@ -1,0 +1,149 @@
+{
+  "id": "53067",
+  "name": "Stuffed Bell Peppers with Quinoa and Black Beans",
+  "cuisine": "Mexican",
+  "fingerprint": "386a977514b84577eb8e83987e57add510bf43983b2390b62054b0128ad8adef",
+  "yield": 4,
+  "minutes": 55,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 4 bell pepper halves as primary portions (1 per serving).",
+    "Total time sums active prep (~15 min), baking (15-20 + 15-20 min), and cooling (5 min); rounded to nearest 5 min.",
+    "Cheese is dairy-based and not vegan; recipe otherwise compatible with vegetarian and gluten-free (no wheat/barley/rye).",
+    "No explicit soy, eggs, fish, shellfish, tree nuts, peanuts, or sesame; unspecified if any compound seasonings contain them."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "1. Preheat your oven to 375°F (190°C). Lightly grease a 9x13-inch baking dish or a similar-sized casserole dish.\r\n2. Place the bell pepper halves in the prepared baking dish, cut side up. Bake for 15-20 minutes, or until slightly softened.\r\n3. While the bell peppers are baking, prepare the filling. In a large skillet, heat the olive oil over medium heat. Add the chopped onion, and cook for 3-4 minutes, until softened. Add the garlic, and cook for another 1 minute, until fragrant.\r\n4. Stir in the cooked quinoa, black beans, corn, diced tomatoes, ground cumin, chili powder, smoked paprika, salt, and pepper. Cook for 5-7 minutes, until heated through. Remove the skillet from heat, and stir in 1 cup of the shredded cheese, if using.\r\n5. Remove the bell peppers from the oven, and carefully stuff each pepper half with the quinoa and black bean mixture. Top the stuffed peppers with the remaining 1/2 cup of shredded cheese, if using.\r\n6. Return the stuffed peppers to the oven, and bake for another 15-20 minutes, until the cheese is melted and the peppers are tender.\r\n7. Remove from the oven, and allow the stuffed peppers to cool for 5 minutes before serving. Garnish with fresh chopped cilantro.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/b66myb1683207208.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Green Pepper",
+      "measurement": "4 whole",
+      "grams": 500,
+      "assumptions": "4 medium-large whole green bell peppers (about 125g each raw, including cores and seeds; edible portion after prep is similar as they are roasted whole)."
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "1 tablespoon",
+      "grams": 14,
+      "assumptions": "1 tablespoon olive oil (standard 14g)."
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 small finely diced",
+      "grams": 110,
+      "assumptions": "1 small onion (about 110g raw, finely diced)."
+    },
+    {
+      "position": 4,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 cloves garlic (about 6g total, minced)."
+    },
+    {
+      "position": 5,
+      "name": "Quinoa",
+      "measurement": "1 cups",
+      "grams": 170,
+      "assumptions": "1 cup dry quinoa (standard 170g; cooked volume implied in instructions but dry weight used for nutrient base as typical for recipes; yields ~3 cups cooked)."
+    },
+    {
+      "position": 6,
+      "name": "Black Beans",
+      "measurement": "1 can",
+      "grams": 260,
+      "assumptions": "1 standard 15-oz can black beans, drained and rinsed (net ~260g edible drained weight)."
+    },
+    {
+      "position": 7,
+      "name": "Sweetcorn",
+      "measurement": "1 cup",
+      "grams": 164,
+      "assumptions": "1 cup sweetcorn (standard 164g drained or frozen kernels)."
+    },
+    {
+      "position": 8,
+      "name": "Diced Tomatoes",
+      "measurement": "1 can",
+      "grams": 245,
+      "assumptions": "1 standard 14.5-oz can diced tomatoes, with juice (net ~245g)."
+    },
+    {
+      "position": 9,
+      "name": "Cumin",
+      "measurement": "1 teaspoon",
+      "grams": 2,
+      "assumptions": "1 teaspoon ground cumin (standard 2g)."
+    },
+    {
+      "position": 10,
+      "name": "Chili Powder",
+      "measurement": "½ tsp",
+      "grams": 1.5,
+      "assumptions": "½ teaspoon chili powder (standard 1.5g)."
+    },
+    {
+      "position": 11,
+      "name": "Smoked Paprika",
+      "measurement": "½ tsp",
+      "grams": 1.5,
+      "assumptions": "½ teaspoon smoked paprika (standard 1.5g)."
+    },
+    {
+      "position": 12,
+      "name": "Salt",
+      "measurement": "To taste",
+      "grams": 3,
+      "assumptions": "Salt to taste (estimated 3g typical total for recipe)."
+    },
+    {
+      "position": 13,
+      "name": "Pepper",
+      "measurement": "To taste",
+      "grams": 2,
+      "assumptions": "Pepper to taste (estimated 2g typical total for recipe)."
+    },
+    {
+      "position": 14,
+      "name": "Shredded Mexican Cheese",
+      "measurement": "1 1/2 cup",
+      "grams": 170,
+      "assumptions": "1.5 cups shredded Mexican cheese blend (standard 170g; 1 cup ≈113g)."
+    },
+    {
+      "position": 15,
+      "name": "Cilantro",
+      "measurement": "Chopped",
+      "grams": 10,
+      "assumptions": "Chopped cilantro for garnish (estimated 10g plausible amount for 4 servings)."
+    }
+  ],
+  "nutrition": {
+    "calories": 1639,
+    "protein": 80.42,
+    "fat": 72.82,
+    "fiber": 46.55,
+    "carbs": 180.3
+  }
+}

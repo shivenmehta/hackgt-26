@@ -1,0 +1,144 @@
+{
+  "id": "53362",
+  "name": "Jamaican Curry Shrimp Recipe",
+  "cuisine": "Jamaican",
+  "fingerprint": "895b1645da803d47f7dcc4f94f40f304ac3e224b463916b175312e7dfdd3fef8",
+  "yield": 4,
+  "minutes": 26,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": true,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe serves 4 based on 1 lb shrimp as primary protein (standard 4 oz per serving for seafood entrees); total active and passive time from instructions is ~26 minutes (10 min seasoning + 5 min sauté + 1 min curry stir + 5-6 min simmer + negligible prep).",
+    "Scotch bonnet listed as optional in instructions but included in ingredients; treated as present.",
+    "Ketchup quantity listed as 1/2 tbs (assumed 1/2 tbsp); no wheat or soy confidently confirmed in unspecified commercial ketchup so marked ambiguous.",
+    "All-purpose seasoning and Jamaican curry powder assumed to contain no wheat/soy/sesame/tree nuts based on typical formulations but not explicitly ruled out.",
+    "No dairy, eggs, fish, peanuts, or sesame ingredients listed.",
+    "Thyme treated as fresh sprigs; no allergens."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Season shrimp with 1 Tablespoon of curry powder and all-purpose seasoning and set aside for about 10 minutes while you prepare the other ingredients like chopping your onions, peppers, and garlic.\r\nHeat 2 Tablespoons of olive oil in a large skillet over medium heat. Add sliced yellow onion, red bell pepper, green bell pepper, scotch bonnet pepper, if using, and chopped garlic and stir for 5 minutes, until peppers are slightly softened.\r\nAdd 1.5 Tablespoons of curry powder to the skillet and stir for an additional minute.\r\nThen add coconut milk, seasoned shrimp, ketchup, and thyme, making sure the shrimp is covered in the sauce.\r\nAllow the sauce to come to a simmer and continue to cook over medium heat, stirring occasionally and flipping the shrimp halfway, until the shrimp is fully cooked on both sides. This should take about 5-6 minutes. Salt and pepper to taste.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/n7h5zs1765318909.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Jumbo Shrimp",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "1 lb raw jumbo shrimp, peeled and deveined (edible portion)."
+    },
+    {
+      "position": 2,
+      "name": "Jamaican Curry Powder",
+      "measurement": "2.5 tbsp",
+      "grams": 20,
+      "assumptions": "2.5 tbsp Jamaican curry powder; typical spice blend density ~8g per tbsp."
+    },
+    {
+      "position": 3,
+      "name": "All-purpose Seasoning",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp all-purpose seasoning; typical savory spice blend density ~5g per tsp."
+    },
+    {
+      "position": 4,
+      "name": "Olive Oil",
+      "measurement": "2 tablespoons",
+      "grams": 28,
+      "assumptions": "2 tbsp olive oil; standard 14g per tbsp."
+    },
+    {
+      "position": 5,
+      "name": "Onion",
+      "measurement": "1 sliced",
+      "grams": 110,
+      "assumptions": "1 medium yellow onion, sliced (~110g)."
+    },
+    {
+      "position": 6,
+      "name": "Red Pepper",
+      "measurement": "1 sliced",
+      "grams": 120,
+      "assumptions": "1 medium red bell pepper, sliced (~120g)."
+    },
+    {
+      "position": 7,
+      "name": "Green Pepper",
+      "measurement": "1 sliced",
+      "grams": 120,
+      "assumptions": "1 medium green bell pepper, sliced (~120g)."
+    },
+    {
+      "position": 8,
+      "name": "Scotch Bonnet",
+      "measurement": "1 sliced",
+      "grams": 10,
+      "assumptions": "1 scotch bonnet pepper, sliced (small, ~10g); typical for heat level in Jamaican recipes."
+    },
+    {
+      "position": 9,
+      "name": "Garlic",
+      "measurement": "3 cloves Chopped",
+      "grams": 9,
+      "assumptions": "3 cloves garlic, chopped (~9g total)."
+    },
+    {
+      "position": 10,
+      "name": "Unsweetened Coconut Milk",
+      "measurement": "380g",
+      "grams": 380,
+      "assumptions": "380g unsweetened coconut milk as given; standard canned value."
+    },
+    {
+      "position": 11,
+      "name": "Tomato Ketchup",
+      "measurement": "1/2 tbs",
+      "grams": 8,
+      "assumptions": "1/2 tbsp tomato ketchup (~8g); standard density."
+    },
+    {
+      "position": 12,
+      "name": "Thyme",
+      "measurement": "4 sprigs",
+      "grams": 8,
+      "assumptions": "4 sprigs fresh thyme (~8g total); typical household sprig weight."
+    },
+    {
+      "position": 13,
+      "name": "Salt",
+      "measurement": "To taste",
+      "grams": 2,
+      "assumptions": "Salt to taste; estimated 2g typical usage for the dish."
+    },
+    {
+      "position": 14,
+      "name": "Pepper",
+      "measurement": "To taste",
+      "grams": 1,
+      "assumptions": "Pepper to taste; estimated 1g typical usage for the dish."
+    }
+  ],
+  "nutrition": {
+    "calories": 1593.13,
+    "protein": 96.44,
+    "fat": 115.34,
+    "fiber": 12.85,
+    "carbs": 62.67
+  }
+}

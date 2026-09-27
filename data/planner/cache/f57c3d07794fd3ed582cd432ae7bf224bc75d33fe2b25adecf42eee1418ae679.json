@@ -1,0 +1,130 @@
+{
+  "id": "52806",
+  "name": "Tandoori chicken",
+  "cuisine": "Indian",
+  "fingerprint": "f57c3d07794fd3ed582cd432ae7bf224bc75d33fe2b25adecf42eee1418ae679",
+  "yield": 8,
+  "minutes": 80,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 16 chicken thighs (2 per serving is standard for this style of recipe)",
+    "Total time includes 10 min lemon-paprika step + minimum 1 hr marinating + 16 min grilling; does not include optional longer marinating up to 24 hrs",
+    "Greek yogurt classified as containing milk",
+    "No wheat, barley, rye or oats listed so gluten-free",
+    "No explicit tree-nut or sesame ingredients but ambiguous if any compound spice blend contains them",
+    "All other allergens confidently absent based on listed ingredients"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.\r\nMix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.\r\nHeat the grill. Lift the chicken pieces onto a rack over a baking tray. Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "lemons",
+      "measurement": "2 Juice",
+      "grams": 120,
+      "assumptions": "2 lemons yield about 120g total juice; standard juice content and nutrition for lemon juice."
+    },
+    {
+      "position": 2,
+      "name": "paprika",
+      "measurement": "4 tsp",
+      "grams": 8,
+      "assumptions": "4 tsp paprika weighs ~8g; standard values for ground paprika."
+    },
+    {
+      "position": 3,
+      "name": "red onions",
+      "measurement": "2 finely chopped",
+      "grams": 220,
+      "assumptions": "2 medium red onions finely chopped total ~220g edible portion; standard raw red onion nutrition."
+    },
+    {
+      "position": 4,
+      "name": "chicken thighs",
+      "measurement": "16 skinnless",
+      "grams": 1600,
+      "assumptions": "16 skinless chicken thighs average ~100g each, total 1.6kg; nutrition for raw skinless boneless chicken thigh meat."
+    },
+    {
+      "position": 5,
+      "name": "vegetable oil",
+      "measurement": "For brushing",
+      "grams": 15,
+      "assumptions": "Oil for brushing estimated at 15g total (light brushing on all pieces before grilling); standard vegetable oil nutrition."
+    },
+    {
+      "position": 6,
+      "name": "Greek yogurt",
+      "measurement": "300ml",
+      "grams": 300,
+      "assumptions": "300ml Greek yogurt weighs ~300g; typical full-fat Greek yogurt values."
+    },
+    {
+      "position": 7,
+      "name": "ginger",
+      "measurement": "large piece",
+      "grams": 30,
+      "assumptions": "Large piece of ginger estimated at 30g peeled; standard raw ginger root nutrition."
+    },
+    {
+      "position": 8,
+      "name": "garlic clove",
+      "measurement": "4",
+      "grams": 12,
+      "assumptions": "4 garlic cloves total ~12g peeled; standard raw garlic nutrition."
+    },
+    {
+      "position": 9,
+      "name": "garam masala",
+      "measurement": "¾ tsp",
+      "grams": 2,
+      "assumptions": "¾ tsp garam masala weighs ~2g; typical spice blend nutrition."
+    },
+    {
+      "position": 10,
+      "name": "ground cumin",
+      "measurement": "¾ tsp",
+      "grams": 2,
+      "assumptions": "¾ tsp ground cumin weighs ~2g; standard ground cumin nutrition."
+    },
+    {
+      "position": 11,
+      "name": "chilli powder",
+      "measurement": "½ tsp",
+      "grams": 1,
+      "assumptions": "½ tsp chilli powder weighs ~1g; typical values for ground chili powder."
+    },
+    {
+      "position": 12,
+      "name": "turmeric",
+      "measurement": "¼ tsp",
+      "grams": 1,
+      "assumptions": "¼ tsp turmeric weighs ~1g; standard ground turmeric nutrition."
+    }
+  ],
+  "nutrition": {
+    "calories": 2919.78,
+    "protein": 316.61,
+    "fat": 167.21,
+    "fiber": 12.01,
+    "carbs": 60.13
+  }
+}

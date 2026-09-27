@@ -1,0 +1,152 @@
+{
+  "id": "53031",
+  "name": "Egyptian Fatteh",
+  "cuisine": "Egyptian",
+  "fingerprint": "8ee7c0fbe49835a725ffc55f23fcd274e0ddb9098c0d2077246d3c902fa72b88",
+  "yield": 4,
+  "minutes": 150,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe is for a family-style main dish; yield estimated at 4 adult servings based on 1 lb beef + 2 cups rice quantities and layered assembly typical for Egyptian fatteh.",
+    "Total time estimated from instructions: ~2 hours meat simmer + 35 min rice + multiple frying/sauce steps (~30-45 min active prep and assembly).",
+    "Butter listed once but used in multiple steps; total quantity treated as given.",
+    "Olive oil quantity appears overstated (2 cups listed but interpreted conservatively as frying medium with limited absorption).",
+    "Pita bread (1 unit) treated as wheat-based; not certified gluten-free.",
+    "Chicken stock cube treated as containing possible allergens but not definitively dairy/soy without brand spec.",
+    "No explicit tree nuts, peanuts, fish, shellfish, eggs, or sesame in listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "To prepare bread for bottom of dish: Take pita bread and rip into bite size pieces. In a frying pan, add about a 1/4 stick of butter, add bread pieces and fry until golden brown and crisp. Put these pieces in a glass baking dish, preferably a square sized dish. Set aside.\r\nThen add to same pan, a little more butter, salt, approximately 2 cloves of crushed fresh garlic, and a teaspoon or so of cumin stir around a bit until you can smell aroma, then add fried bread pieces to this mixture, stir to coat bread and put back into glass baking dish. Set aside.\r\nTo prepare meat: put some butter in a pot, stir fry meat until brown, add 1 onion quartered, salt & pepper, 1 cube of chicken bouillon and water to cover meat. Bring to a boil, turn down to simmer, cover and cook until tender, approximately 2 hours. After meat has cooled, take out chunks of meat and put in a bowl, set aside. Reserve soup from the meat separately.\r\nTo prepare the rice: Put some butter into a pot, add shareya (fideo noodles) like a handful or so, keep stirring until golden brown, not too dark, but very golden. Then add two cups of rice, stir a little bit until some of the rice turns an opaque white. Add 2-1/4 cups of water and salt to taste. Bring to a boil, cover and turn down to simmer, cook until tender. Test the rice tenderness after about 35 minutes.\r\nNow take some of the soup from meat and add to the top of the bread pieces in baking dish to saturate.Add cooked rice on top of bread pieces. Slowly spoon remainder of soup onto rice, looking at glass dish sides to see level of soup, should reach just to top of rice, don’t worry, this doesn’t have to be exact. Now you’re ready to make the sauce and fry the meat to put on top.\r\nTo prepare red sauce: In a pan, add a little oil or butter, crushed tomato, a half teaspoon of tomato paste, salt & pepper, 2 cloves of fresh crushed garlic and cumin. Add also approximately 3 tablespoons of vinegar, stir this until you smell aroma and it is a bit smooth. It should be a bit thick, not watery, but if too thick you can add a bit of water. Spread with a wooden spoon atop the rice to cover.\r\nTo fry meat: In a pan add a bit of butter or oil, the meat, just a touch of tomato paste, about a tablespoon of fresh crushed garlic, salt & pepper, a teaspoon of cumin. Cook until meat is golden fried.\r\nSpoon this atop the rice and serve. Enjoy!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/rlwcc51598734603.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef",
+      "measurement": "1lb",
+      "grams": 454,
+      "assumptions": "1 lb raw beef stew meat or similar cut, typical values for boneless beef used in stews"
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1",
+      "grams": 110,
+      "assumptions": "1 medium onion, raw, peeled and quartered as described"
+    },
+    {
+      "position": 3,
+      "name": "Chicken Stock Cube",
+      "measurement": "1",
+      "grams": 4,
+      "assumptions": "1 standard chicken bouillon cube, typical commercial size and nutrition"
+    },
+    {
+      "position": 4,
+      "name": "Tomatoes",
+      "measurement": "2",
+      "grams": 300,
+      "assumptions": "2 medium tomatoes, raw, crushed as per instructions"
+    },
+    {
+      "position": 5,
+      "name": "Garlic Clove",
+      "measurement": "4",
+      "grams": 12,
+      "assumptions": "4 cloves garlic, raw, peeled and crushed (approx 3 g each)"
+    },
+    {
+      "position": 6,
+      "name": "Tomato Puree",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tbs tomato puree/paste, typical commercial value"
+    },
+    {
+      "position": 7,
+      "name": "Rice",
+      "measurement": "2 cups",
+      "grams": 360,
+      "assumptions": "2 cups uncooked white rice (approx 180 g per cup), typical long-grain"
+    },
+    {
+      "position": 8,
+      "name": "Noodles",
+      "measurement": "1/4 cup",
+      "grams": 30,
+      "assumptions": "1/4 cup dry fideo/shareya noodles, typical thin vermicelli-style pasta"
+    },
+    {
+      "position": 9,
+      "name": "Butter",
+      "measurement": "1/4 cup",
+      "grams": 57,
+      "assumptions": "1/4 cup butter (approx 57 g), used across multiple steps in recipe"
+    },
+    {
+      "position": 10,
+      "name": "Olive Oil",
+      "measurement": "2 cups",
+      "grams": 100,
+      "assumptions": "2 cups olive oil listed but interpreted as total frying oil used (realistically ~100 g absorbed/used in all frying steps combined; recipe lists excess for deep-fry context but not all is consumed)"
+    },
+    {
+      "position": 11,
+      "name": "Pita Bread",
+      "measurement": "1",
+      "grams": 60,
+      "assumptions": "1 large pita bread, torn and fried (approx 60 g standard size)"
+    },
+    {
+      "position": 12,
+      "name": "Cumin",
+      "measurement": "1 tbs",
+      "grams": 6,
+      "assumptions": "1 tbs ground cumin, typical commercial value"
+    },
+    {
+      "position": 13,
+      "name": "White Wine Vinegar",
+      "measurement": "3 tbs",
+      "grams": 45,
+      "assumptions": "3 tbs white wine vinegar, typical value"
+    },
+    {
+      "position": 14,
+      "name": "Salt",
+      "measurement": "To taste",
+      "grams": 5,
+      "assumptions": "Salt to taste; estimated total used across recipe steps (5 g plausible total)"
+    },
+    {
+      "position": 15,
+      "name": "Pepper",
+      "measurement": "To taste",
+      "grams": 2,
+      "assumptions": "Pepper to taste; estimated total used across recipe steps (2 g plausible total)"
+    }
+  ],
+  "nutrition": {
+    "calories": 4188.07,
+    "protein": 159.87,
+    "fat": 220.36,
+    "fiber": 14.87,
+    "carbs": 377.2
+  }
+}

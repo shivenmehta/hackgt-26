@@ -11,29 +11,32 @@ current checkout.
 ## Stack
 
 Next.js 16 App Router, React 19, TypeScript, Chakra UI 3, and Next.js Route
-Handlers. Supabase client and SSR dependencies are installed for future database
-and authentication work. ESLint and Prettier provide shared code checks.
+Handlers, Vercel Workflow, a Python FastAPI recipe ranker, and private Supabase
+planner storage. ESLint and Prettier provide shared code checks.
 
 ## Getting started
 
 Use Node.js 24 (`nvm use` if you use nvm) and npm 11. npm ships with Node;
-there is no need to install it as an application dependency. Install Python 3.10+
-for the location backend; set `PYTHON_COMMAND` to its executable path if needed.
+there is no need to install it as an application dependency. Use Python 3.12+
+for local services; set `PYTHON_COMMAND` to its executable path if needed.
 
 ```bash
 npm ci
+python3 -m venv .venv
+.venv/bin/python -m pip install -r services/recipe-ranker/requirements.txt
 npm run dev
 ```
 
-Open http://localhost:3000. `npm run dev` starts both Next.js and the private Python
-location service; Ctrl+C stops both. The Community page needs no account or API key.
+Open http://localhost:3000. `npm run dev` starts Next.js, the private Python
+location service, and the recipe ranker; Ctrl+C stops all three. The Community page needs no account or API key.
 The health endpoint at `/api/health` returns `{ "status": "ok" }`.
 
 Before connecting services, copy `.env.example` to `.env.local` and fill in
 Supabase's project URL/publishable key and your server-only USDA API key.
-Never commit `.env.local` or private keys. Installing Supabase packages does not
-create a hosted project: database tables, Row Level Security, login, and SSR
-session refresh still need to be implemented before user data is stored.
+Never commit `.env.local` or private keys. For live meal planning, configure the
+server-only Supabase, Grok, Kroger, and ranker credentials described in
+[planner setup](docs/MEAL_PLANNER.md). Private planner tables and RLS are included;
+account login is not required for anonymous browser-owned plans.
 
 ## Commands
 
@@ -114,8 +117,8 @@ Confirm event rules on advance preparation before reusing code in a submission.
 
 ## Bridge weekly planner
 
-The frontend now includes an interactive sample meal planner. See [BRIDGE.md](BRIDGE.md)
-for the demo flow, design, limitations, and validation commands.
+The frontend connects to the durable backend planner. See [BRIDGE.md](BRIDGE.md)
+for the user flow and [backend setup](docs/MEAL_PLANNER.md) for deployment.
 
 ## Local meal catalog
 
@@ -157,3 +160,14 @@ configuration, time handling, test examples, and deployment requirements.
 `npm run build` followed by `npm run start:local` to start both services.
 This implementation requires a persistent Python service and storage for public
 hosting; deploying the Next.js frontend alone is insufficient.
+
+## Weekly meal planner backend
+
+The Build my week flow now uses MealDB recipes, prepared Grok nutrition/yields,
+Kroger ingredient pricing, a Python recipe KNN service, and durable Vercel
+workflows. See [planner setup and deployment](docs/MEAL_PLANNER.md).
+
+The cuisine picker includes all 21 cuisines. Nutrition preferences are per
+person; a manual calorie target is available only for a one-person household.
+Generated food images arrive after the plan. Plans and replacement rankings are
+stored privately in Supabase; the original food database is unchanged.

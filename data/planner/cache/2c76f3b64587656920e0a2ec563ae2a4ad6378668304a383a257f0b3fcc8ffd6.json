@@ -1,0 +1,146 @@
+{
+  "id": "53042",
+  "name": "Portuguese prego with green piri-piri",
+  "cuisine": "Portuguese",
+  "fingerprint": "2c76f3b64587656920e0a2ec563ae2a4ad6378668304a383a257f0b3fcc8ffd6",
+  "yield": 2,
+  "minutes": 150,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 2 steaks and 2 ciabatta rolls as 2 servings",
+    "Total time includes 1-2hr marinade (using 2hr max) plus ~30min active prep/cooking",
+    "Parsley listed twice but treated as one herb with stalks separated",
+    "Vinegar assumed to be sherry or wine vinegar based on context",
+    "Jalapeno treated as green piri-piri style pepper",
+    "Ciabatta assumed to contain wheat",
+    "No dairy, eggs, fish, shellfish, nuts, peanuts, soy or sesame ingredients listed",
+    "All ingredients screened conservatively for allergens and diets"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1\r\n\r\nRub the garlic over the steaks then put in a sandwich bag and tip in the olive oil, sherry vinegar and parsley stalks. Smoosh everything together, then use a rolling pin to bash the steaks a few times. Leave for 1-2 hours.\r\n\r\nSTEP 2\r\n\r\nTo make the sauce, put all the ingredients into a blender with 1 tbsp water and whizz until as smooth as possible. This will make more than you’ll need for the recipe but will keep for a week in an airtight jar.\r\n\r\nSTEP 3\r\n\r\nHeat a griddle or frying pan to high. Brush away the garlic and parsley stalks from the steaks and season well. Sear the steaks for 2 minutes on each side then rest on a plate. Put the ciabatta halves onto the plate, toasted-side down, to soak up any juices.\r\n\r\nSTEP 4\r\n\r\nSlice the steaks then stuff into the rolls with the green sauce and rocket.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ewcikl1614348364.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Garlic",
+      "measurement": "1 clove",
+      "grams": 3,
+      "assumptions": "1 small clove garlic, peeled, ~3g edible portion"
+    },
+    {
+      "position": 2,
+      "name": "Beef Fillet",
+      "measurement": "2 small",
+      "grams": 300,
+      "assumptions": "2 small beef fillet steaks; typical small fillet steak ~150g each, raw weight"
+    },
+    {
+      "position": 3,
+      "name": "Olive Oil",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tablespoons olive oil; standard 15ml per tbsp, density ~0.92g/ml"
+    },
+    {
+      "position": 4,
+      "name": "Vinegar",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tablespoon sherry vinegar (or similar wine vinegar); standard 15ml tbsp, mostly water with low nutrients"
+    },
+    {
+      "position": 5,
+      "name": "Parsley",
+      "measurement": "Leaves",
+      "grams": 5,
+      "assumptions": "Parsley stalks only (from 1 small bunch total); ~5g edible stalks used for marinade"
+    },
+    {
+      "position": 6,
+      "name": "Ciabatta",
+      "measurement": "2",
+      "grams": 200,
+      "assumptions": "2 ciabatta rolls; typical 100g each, as used for sandwiches"
+    },
+    {
+      "position": 7,
+      "name": "Rocket",
+      "measurement": "2 handfulls",
+      "grams": 40,
+      "assumptions": "2 handfuls rocket/arugula; typical small handful ~20g each, fresh edible weight"
+    },
+    {
+      "position": 8,
+      "name": "Basil Leaves",
+      "measurement": "Small bunch",
+      "grams": 25,
+      "assumptions": "Small bunch fresh basil leaves; ~25g edible leaves only"
+    },
+    {
+      "position": 9,
+      "name": "Parsley",
+      "measurement": "Small bunch",
+      "grams": 25,
+      "assumptions": "Small bunch fresh parsley leaves; ~25g edible leaves only (separate from stalks in pos 5)"
+    },
+    {
+      "position": 10,
+      "name": "Jalapeno",
+      "measurement": "1",
+      "grams": 45,
+      "assumptions": "1 medium fresh jalapeño pepper, ~45g whole trimmed weight with seeds"
+    },
+    {
+      "position": 11,
+      "name": "Vinegar",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tablespoon vinegar (for sauce); standard 15ml tbsp, similar to pos 4"
+    },
+    {
+      "position": 12,
+      "name": "Spring Onions",
+      "measurement": "2 chopped",
+      "grams": 30,
+      "assumptions": "2 spring onions, chopped; typical 15g each trimmed"
+    },
+    {
+      "position": 13,
+      "name": "Garlic",
+      "measurement": "1/2",
+      "grams": 1.5,
+      "assumptions": "1/2 small garlic clove; ~1.5g edible portion"
+    },
+    {
+      "position": 14,
+      "name": "Caster Sugar",
+      "measurement": "1/2 tsp",
+      "grams": 2,
+      "assumptions": "1/2 teaspoon caster sugar; standard 4g per tsp, so ~2g total"
+    }
+  ],
+  "nutrition": {
+    "calories": 1260.4,
+    "protein": 81.75,
+    "fat": 53.93,
+    "fiber": 10.53,
+    "carbs": 109.25
+  }
+}

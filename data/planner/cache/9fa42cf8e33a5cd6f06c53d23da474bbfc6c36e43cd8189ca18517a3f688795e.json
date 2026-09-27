@@ -1,0 +1,81 @@
+{
+  "id": "53369",
+  "name": "Silken Tofu with Sesame Soy Sauce",
+  "cuisine": "Chinese",
+  "fingerprint": "9fa42cf8e33a5cd6f06c53d23da474bbfc6c36e43cd8189ca18517a3f688795e",
+  "yield": 2,
+  "minutes": 10,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated from typical silken tofu appetizer/side portion size (about 8 oz tofu per serving); recipe serves 2 as a light lunch or 4 as a small side but 2 is conservative for a standalone meal.",
+    "Total time is estimate for minimal-prep no-cook recipe: ~5 min draining/slicing + ~5 min garnishing/serving; no explicit times given.",
+    "Chinese Sesame Sauce treated as containing sesame (allergen true) and conservatively as possibly containing wheat/soy compounds (ambiguous).",
+    "Gluten-free is null due to unspecified soy sauce (often contains wheat) and possible wheat in compound sesame sauce.",
+    "Vegan/vegetarian confirmed via all plant-based ingredients with no animal products listed.",
+    "Scallions treated as fully edible with no allergens."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Prepare the tofu: \r\nDrain the tofu and gently remove it from its packaging onto a large plate. Carefully slice the tofu into 1/2-inch slabs widthwise. With the palm of your hands, gently push the sliced tofu sidewise so that they fan out over the plate.\r\n\r\nGarnish with toppings and serve:\r\nDrizzle the soy sauce and sesame sauce on top. Then garnish it with scallions and sesame seeds, and serve.\r\n\r\nTightly cover leftovers and refrigerate for up to 2 days. You can enjoy it cold straight out of the fridge or you can reheat it by microwaving in 30-second increments until warmed through",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Silken Tofu",
+      "measurement": "16 ounces",
+      "grams": 454,
+      "assumptions": "Standard 16 oz (454 g) package of silken tofu; typical values for soft/silken tofu, drained and fully edible."
+    },
+    {
+      "position": 2,
+      "name": "Soy Sauce",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "3 tbsp regular soy sauce; density ~1 g/ml, typical sodium-reduced not assumed."
+    },
+    {
+      "position": 3,
+      "name": "Chinese Sesame Sauce",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "2 tbsp Chinese sesame paste/sauce (tahini-like sesame condiment); typical values for pure sesame sauce used in Chinese recipes, not sweetened."
+    },
+    {
+      "position": 4,
+      "name": "Scallions",
+      "measurement": "1 sliced",
+      "grams": 15,
+      "assumptions": "1 sliced scallion (green onion); typical weight for one medium scallion including green and white parts, fully edible."
+    },
+    {
+      "position": 5,
+      "name": "Sesame Seed",
+      "measurement": "2 tsp",
+      "grams": 7,
+      "assumptions": "2 tsp sesame seeds; typical weight ~3.5 g per tsp, toasted or raw not specified but values similar."
+    }
+  ],
+  "nutrition": {
+    "calories": 480.61,
+    "protein": 31.92,
+    "fat": 32.38,
+    "fiber": 3.34,
+    "carbs": 18.99
+  }
+}

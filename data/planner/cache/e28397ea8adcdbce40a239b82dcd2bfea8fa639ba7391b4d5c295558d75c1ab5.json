@@ -1,0 +1,179 @@
+{
+  "id": "52796",
+  "name": "Chicken Alfredo Primavera",
+  "cuisine": "Italian",
+  "fingerprint": "e28397ea8adcdbce40a239b82dcd2bfea8fa639ba7391b4d5c295558d75c1ab5",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe instructions imply 4 servings based on typical pasta + protein + vegetable skillet meal scaling (16 oz dry pasta, 5 chicken breasts, large volume of vegetables).",
+    "Total active and passive time summed from sequential steps: chicken sauté (~15 min), pasta boil (~12 min overlapping), vegetable sauté and sauce (~12 min).",
+    "Butter and heavy cream and milk and Parmesan confirm dairy.",
+    "Bowtie pasta is wheat-based.",
+    "No eggs, fish, shellfish, tree nuts, peanuts, soy, or sesame listed.",
+    "Parsley, wine, and vegetables introduce no additional allergens."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat 1 tablespoon of butter and 2 tablespoons of olive oil in a large skillet over medium-high heat. Season both sides of each chicken breast with seasoned salt and a pinch of pepper. Add the chicken to the skillet and cook for 5-7 minutes on each side, or until cooked through.  While the chicken is cooking, bring a large pot of water to a boil. Season the boiling water with a few generous pinches of kosher salt. Add the pasta and give it a stir. Cook, stirring occasionally, until al dente, about 12 minutes. Reserve 1/2 cup of  pasta water before draining the pasta.  Remove the chicken from the pan and transfer it to a cutting board; allow it to rest. Turn the heat down to medium and dd the remaining 1 tablespoon of butter and olive oil to the same pan you used to cook the chicken. Add the veggies (minus the garlic) and red pepper flakes to the pan and stir to coat with the oil and butter (refrain from seasoning with salt until the veggies are finished browning). Cook, stirring often, until the veggies are tender, about 5 minutes. Add the garlic and a generous pinch of salt and pepper to the pan and cook for 1 minute.  Deglaze the pan with the white wine. Continue to cook until the wine has reduced by half, about 3 minutes. Stir in the milk, heavy cream, and reserved pasta water. Bring the mixture to a gentle boil and allow to simmer and reduce for 2-3 minutes. Turn off the heat and add the Parmesan cheese and cooked pasta. Season with salt and pepper to taste. Garnish with Parmesan cheese and chopped parsley, if desired.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Butter",
+      "measurement": "2 tablespoons",
+      "grams": 28,
+      "assumptions": "Standard butter; 1 tbsp = 14g so 2 tbsp total."
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "3 tablespoons",
+      "grams": 41,
+      "assumptions": "Olive oil; 1 tbsp ≈ 13.6g so 3 tbsp total."
+    },
+    {
+      "position": 3,
+      "name": "Chicken",
+      "measurement": "5 boneless",
+      "grams": 1000,
+      "assumptions": "5 boneless, skinless chicken breasts; typical total raw weight ~1000g (≈200g each)."
+    },
+    {
+      "position": 4,
+      "name": "Salt",
+      "measurement": "1 teaspoon",
+      "grams": 6,
+      "assumptions": "Table salt; 1 tsp ≈ 6g; negligible macros."
+    },
+    {
+      "position": 5,
+      "name": "Squash",
+      "measurement": "1 cut into 1/2-inch cubes",
+      "grams": 200,
+      "assumptions": "1 medium yellow squash, raw, cubed; ≈200g edible portion."
+    },
+    {
+      "position": 6,
+      "name": "Broccoli",
+      "measurement": "1 Head chopped",
+      "grams": 600,
+      "assumptions": "1 large head broccoli, chopped; typical edible raw weight ≈600g."
+    },
+    {
+      "position": 7,
+      "name": "mushrooms",
+      "measurement": "8-ounce sliced",
+      "grams": 227,
+      "assumptions": "8 oz (227g) white mushrooms, raw, sliced; full package weight used."
+    },
+    {
+      "position": 8,
+      "name": "Pepper",
+      "measurement": "1 red",
+      "grams": 150,
+      "assumptions": "1 medium red bell pepper, raw; ≈150g edible portion after seeding."
+    },
+    {
+      "position": 9,
+      "name": "onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium onion, raw, chopped; ≈110g."
+    },
+    {
+      "position": 10,
+      "name": "garlic",
+      "measurement": "3 cloves",
+      "grams": 9,
+      "assumptions": "3 cloves garlic, raw; ≈3g each."
+    },
+    {
+      "position": 11,
+      "name": "red pepper flakes",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "Crushed red pepper flakes; ½ tsp ≈ 1g; negligible macros."
+    },
+    {
+      "position": 12,
+      "name": "white wine",
+      "measurement": "1/2 cup",
+      "grams": 118,
+      "assumptions": "Dry white wine; ½ cup = 118 ml, density ≈1 g/ml."
+    },
+    {
+      "position": 13,
+      "name": "milk",
+      "measurement": "1/2 cup",
+      "grams": 122,
+      "assumptions": "2% milk; ½ cup = 122g."
+    },
+    {
+      "position": 14,
+      "name": "heavy cream",
+      "measurement": "1/2 cup",
+      "grams": 119,
+      "assumptions": "Heavy (whipping) cream; ½ cup = 119g."
+    },
+    {
+      "position": 15,
+      "name": "Parmesan cheese",
+      "measurement": "1 cup grated",
+      "grams": 100,
+      "assumptions": "Grated Parmesan cheese; 1 cup ≈ 100g."
+    },
+    {
+      "position": 16,
+      "name": "bowtie pasta",
+      "measurement": "16 ounces",
+      "grams": 454,
+      "assumptions": "Dry bowtie (farfalle) pasta; 16 oz = 454g; values for uncooked as added to recipe."
+    },
+    {
+      "position": 17,
+      "name": "Salt",
+      "measurement": "pinch",
+      "grams": 1,
+      "assumptions": "Pinch of kosher salt; ≈1g; negligible macros."
+    },
+    {
+      "position": 18,
+      "name": "Pepper",
+      "measurement": "pinch",
+      "grams": 1,
+      "assumptions": "Pinch of black pepper; ≈1g; negligible macros."
+    },
+    {
+      "position": 19,
+      "name": "Parsley",
+      "measurement": "chopped",
+      "grams": 10,
+      "assumptions": "Chopped fresh parsley for garnish; typical small bunch portion ≈10g."
+    }
+  ],
+  "nutrition": {
+    "calories": 5284.59,
+    "protein": 443.74,
+    "fat": 184.54,
+    "fiber": 39.94,
+    "carbs": 436.16
+  }
+}

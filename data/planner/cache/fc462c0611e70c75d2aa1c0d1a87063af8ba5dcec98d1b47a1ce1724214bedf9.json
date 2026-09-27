@@ -1,0 +1,145 @@
+{
+  "id": "52809",
+  "name": "Recheado Masala Fish",
+  "cuisine": "Indian",
+  "fingerprint": "fc462c0611e70c75d2aa1c0d1a87063af8ba5dcec98d1b47a1ce1724214bedf9",
+  "yield": 4,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from 4 whole mackerel as primary ingredient; typical recipe serves 4 people.",
+    "Total time is conservative estimate: 10 min soak, 5 min mix, 40 min marinate, 5 min grind, 30 min fish marinate, 10 min fry, plus 10 min prep/rinsing/incising; instructions lack explicit total so summed from steps.",
+    "Cinnamon stick measurement missing in original but grams provided; treated as present per ingredient list.",
+    "Vinegar type unspecified but recipe allows white or coconut; both gluten-free and compatible with listed diets.",
+    "Oil is for frying with grams estimate provided; type unspecified but assumed neutral vegetable oil with no allergens.",
+    "No wheat, gluten, dairy, eggs, nuts, soy, sesame, or shellfish in ingredients.",
+    "Tamarind pulp, spices, and sugar assumed pure with no additives."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Soak all the spices, ginger, garlic, tamarind pulp and kashmiri chilies except oil in vinegar.\r\nAdd sugar and salt.\r\nAlso add turmeric powder.\r\nCombine all nicely and marinate for 35-40 mins.\r\nGrind the mixture until soft and smooth. Add more vinegar if required but ensure the paste has to be thick so add vinegar accordingly. If the masala paste is thin then it would not stick to the fish.\r\nRinse the fish slit from the center and give some incision from the top. You could see the fish below for clarity.\r\nNow stuff the paste into the center and into the incision. Coat the entire fish with this paste. Marinate the fish for 30 mins.\r\nPlace oil in a shallow pan, once oil is quite hot shallow fry the stuffed mackerels.\r\nFry until golden brown from both sides\r\nServe the recheado mackerels hot with salad, lime wedges, rice and curry.\r\nNotes\r\n1. Ensure the masala paste is thick else the result won't be good.\r\n2. If you aren't able to find kashmiri chilies then use bedgi chilies or kashmiri red chili powder.\r\n3. You could use white vinegar or coconut vinegar.\r\n4. Any left over paste could be stored in the fridge for future use.\r\n5. Cinnamon could be avoided as it's a strong spice used generally for meat or chicken.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Mackerel",
+      "measurement": "4",
+      "grams": 1200,
+      "assumptions": "4 whole mackerel estimated at 300 g each including head/bones/skin; typical edible portion considered in raw state for nutrition"
+    },
+    {
+      "position": 2,
+      "name": "Red Chilli",
+      "measurement": "18 dried",
+      "grams": 54,
+      "assumptions": "18 dried Kashmiri red chilies; average 3 g per dried chili based on typical small dried chili size"
+    },
+    {
+      "position": 3,
+      "name": "Ginger",
+      "measurement": "1 inch",
+      "grams": 10,
+      "assumptions": "1 inch fresh ginger root, peeled weight estimate"
+    },
+    {
+      "position": 4,
+      "name": "Garlic",
+      "measurement": "8 cloves",
+      "grams": 24,
+      "assumptions": "8 average garlic cloves, total peeled weight estimate"
+    },
+    {
+      "position": 5,
+      "name": "Pepper",
+      "measurement": "1.5 tsp",
+      "grams": 4,
+      "assumptions": "1.5 tsp whole black peppercorns; 1 tsp ≈ 2.7 g"
+    },
+    {
+      "position": 6,
+      "name": "Cumin",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp whole cumin seeds; 1 tsp ≈ 2 g"
+    },
+    {
+      "position": 7,
+      "name": "Turmeric",
+      "measurement": "½ tsp",
+      "grams": 1,
+      "assumptions": "½ tsp turmeric powder; 1 tsp ≈ 2 g"
+    },
+    {
+      "position": 8,
+      "name": "Cinnamon stick",
+      "measurement": "",
+      "grams": 3,
+      "assumptions": "1 small cinnamon stick (assumed 3 g as optional spice per recipe note); typical household measure"
+    },
+    {
+      "position": 9,
+      "name": "Cloves",
+      "measurement": "4",
+      "grams": 2,
+      "assumptions": "4 whole cloves; average 0.5 g each"
+    },
+    {
+      "position": 10,
+      "name": "Cardamom",
+      "measurement": "2",
+      "grams": 1,
+      "assumptions": "2 whole cardamom pods; average 0.5 g each"
+    },
+    {
+      "position": 11,
+      "name": "Sugar",
+      "measurement": "1 tbsp",
+      "grams": 13,
+      "assumptions": "1 tbsp granulated sugar; 1 tbsp ≈ 12.5 g"
+    },
+    {
+      "position": 12,
+      "name": "Tamarind ball",
+      "measurement": "2 marble sized",
+      "grams": 30,
+      "assumptions": "2 marble-sized tamarind pulp balls; total 30 g plausible estimate for pulp used in marinade"
+    },
+    {
+      "position": 13,
+      "name": "Vinegar",
+      "measurement": "2.5 tbsp",
+      "grams": 38,
+      "assumptions": "2.5 tbsp vinegar (white or coconut); 1 tbsp ≈ 15 g, negligible macros"
+    },
+    {
+      "position": 14,
+      "name": "Oil",
+      "measurement": "for frying",
+      "grams": 60,
+      "assumptions": "Oil for shallow frying; plausible 60 ml/54 g total absorbed/used for 4 fish based on typical recipe pan-fry amount"
+    }
+  ],
+  "nutrition": {
+    "calories": 3353.25,
+    "protein": 232.2,
+    "fat": 235.17,
+    "fiber": 18.04,
+    "carbs": 79.62
+  }
+}

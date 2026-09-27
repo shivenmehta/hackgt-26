@@ -1,0 +1,101 @@
+{
+  "id": "52824",
+  "name": "Beef Sunday Roast",
+  "cuisine": "British",
+  "fingerprint": "1482cce12e6c6905bc3b713102d034bf8784fa130e0e05a5e186246053be02a4",
+  "yield": 4,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe serves 4 people based on 8 slices of roast beef (~200g/person), 1kg potatoes, 500g carrots, 360g broccoli, and 12 Yorkshire puddings (3 per person).",
+    "Total time estimated from instructions: ~45 min oven roast + 20-25 min Yorkshire puddings + vegetable boiling time, rounded to nearest 15 min increment.",
+    "Plain flour classified as containing wheat (not gluten-free).",
+    "Milk and eggs explicitly listed, so dairy and egg allergens true; no tree nuts, peanuts, fish, shellfish, soy, or sesame in listed ingredients.",
+    "No gravy ingredients provided in list, so not factored into classifications despite mention in instructions."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Cook the Broccoli and Carrots in a pan of boiling water until tender.\r\n\r\nRoast the Beef and Potatoes in the oven for 45mins, the potatoes may need to be checked regularly to not overcook.\r\n\r\nTo make the Yorkshire puddings:\r\nHeat oven to 230C/fan 210C/gas 8. Drizzle a little sunflower oil evenly into 2 x 4-hole Yorkshire pudding tins or a 12-hole non-stick muffin tin and place in the oven to heat through\r\nTo make the batter, tip 140g plain flour into a bowl and beat in four eggs until smooth. Gradually add 200ml milk and carry on beating until the mix is completely lump-free. Season with salt and pepper. Pour the batter into a jug, then remove the hot tins from the oven. Carefully and evenly pour the batter into the holes. Place the tins back in the oven and leave undisturbed for 20-25 mins until the puddings have puffed up and browned. Serve immediately.\r\n\r\nPlate up and add the Gravy as desired.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef",
+      "measurement": "8 slices",
+      "grams": 800,
+      "assumptions": "8 typical roast beef slices from a 1.6-2kg joint; assumes roasted, lean+fat British beef cuts like topside or rib; ~100g per slice based on standard Sunday roast portions"
+    },
+    {
+      "position": 2,
+      "name": "Broccoli",
+      "measurement": "12 florets",
+      "grams": 360,
+      "assumptions": "12 medium broccoli florets; ~30g each after trimming, boiled until tender as per instructions"
+    },
+    {
+      "position": 3,
+      "name": "Potatoes",
+      "measurement": "1 Packet",
+      "grams": 1000,
+      "assumptions": "1 standard 1kg packet of roasting potatoes (e.g. Maris Piper), peeled or unpeeled, roasted in oven as per instructions; common UK packet size for Sunday roast"
+    },
+    {
+      "position": 4,
+      "name": "Carrots",
+      "measurement": "1 Packet",
+      "grams": 500,
+      "assumptions": "1 standard 500g packet of carrots, peeled and boiled until tender as per instructions; typical UK fresh carrot packet size"
+    },
+    {
+      "position": 5,
+      "name": "plain flour",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "Exactly 140g plain white flour as specified for Yorkshire pudding batter"
+    },
+    {
+      "position": 6,
+      "name": "Eggs",
+      "measurement": "4",
+      "grams": 200,
+      "assumptions": "4 large eggs (UK medium-large ~50g each without shell); used in Yorkshire pudding batter"
+    },
+    {
+      "position": 7,
+      "name": "milk",
+      "measurement": "200ml",
+      "grams": 200,
+      "assumptions": "Exactly 200ml semi-skimmed milk (density ~1.03g/ml) as specified for Yorkshire pudding batter"
+    },
+    {
+      "position": 8,
+      "name": "sunflower oil",
+      "measurement": "drizzle (for cooking)",
+      "grams": 30,
+      "assumptions": "Drizzle of sunflower oil for 12 Yorkshire pudding tin holes; assumes ~2-3ml per hole (total ~30ml, density 0.92g/ml) to coat bottoms as per instructions; typical amount to prevent sticking without excess"
+    }
+  ],
+  "nutrition": {
+    "calories": 4242.2,
+    "protein": 289.38,
+    "fat": 176.84,
+    "fiber": 47.56,
+    "carbs": 361.56
+  }
+}

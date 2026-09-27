@@ -1,0 +1,160 @@
+{
+  "id": "53045",
+  "name": "Portuguese fish stew (Caldeirada de peixe)",
+  "cuisine": "Portuguese",
+  "fingerprint": "6ad494708253711e7bd60ff7d2d0987abff1f19ea335d2d7dc8b98e9045ebe41",
+  "yield": 4,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe serves 4 adults as a main course based on total seafood quantity (~2kg raw) plus potatoes and bread; typical for similar stews from original source style.",
+    "Total active and passive time estimated from steps: ~15 min prep/frying, 20-25 min simmer, 6-8 min covered cook, plus toasting; rounded to 60 min overall.",
+    "Coriander classified as herb (no allergen impact); no tree nuts or peanuts mentioned.",
+    "No milk, eggs, soy, or sesame in listed ingredients.",
+    "Baguette is wheat-based bread (gluten and wheat present); no gluten-free claim.",
+    "Clams, mussels, prawns, squid, and cod confirm fish and shellfish allergens present.",
+    "Plum tomatoes assumed canned in juice (common for 400g listings) but no added ingredients affecting classifications.",
+    "Wine and saffron are compatible with all listed diets except vegetarian/vegan due to seafood."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1\r\n\r\nHeat a drizzle of oil in a large, deep-sided frying pan, and fry the onion and pepper on a medium heat until softened but not browned. Finely chop the coriander stalks (keep the leaves for later), and add to the pan with the chilli and chopped garlic. Fry for another few minutes. Add the wine, saffron and bay leaf and let it simmer until reduced by half.\r\n\r\nSTEP 2\r\n\r\nAdd the potatoes, tomatoes, and 300ml water and bring to a gentle boil. Break up the tomatoes with a spoon on the side of the pan and simmer for 20-25 minutes until the potatoes are just tender, and the tomatoes have broken down.\r\n\r\nSTEP 3\r\n\r\nSeason well, then gently push the fish into the sauce, and arrange the squid, prawns, clams and mussels on the surface. Put the lid on and cook for 6-8 minutes until the mussel and clam shells have opened, the prawns are cooked and the fish is flaky. Toast the bread, rub lightly with the halved garlic clove and drizzle with olive oil. Serve the stew scatted with chopped coriander leaves, and the toasts for dunking.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/do7zps1614349775.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Onions",
+      "measurement": "2 finely chopped",
+      "grams": 220,
+      "assumptions": "2 medium onions at 110g each, raw weight, finely chopped as per recipe; standard onion nutrition."
+    },
+    {
+      "position": 2,
+      "name": "Red Pepper",
+      "measurement": "1 Diced",
+      "grams": 120,
+      "assumptions": "1 medium-large red bell pepper, diced, edible portion ~120g after deseeding; standard red pepper values."
+    },
+    {
+      "position": 3,
+      "name": "Coriander",
+      "measurement": "Small bunch",
+      "grams": 25,
+      "assumptions": "Small bunch fresh coriander (~25g total weight used, stalks in base, leaves as garnish); standard cilantro nutrition."
+    },
+    {
+      "position": 4,
+      "name": "Red Chilli",
+      "measurement": "1 small",
+      "grams": 15,
+      "assumptions": "1 small red chilli (~15g whole, deseeded if preferred but nutrition includes typical edible part); standard red chili pepper values."
+    },
+    {
+      "position": 5,
+      "name": "Garlic",
+      "measurement": "3 cloves",
+      "grams": 15,
+      "assumptions": "3 average garlic cloves (~5g each, total 15g), chopped; standard raw garlic nutrition."
+    },
+    {
+      "position": 6,
+      "name": "Dry White Wine",
+      "measurement": "400ml",
+      "grams": 360,
+      "assumptions": "400ml dry white wine (density ~0.9g/ml, total 360g); standard dry white wine values, alcohol contributes to calories."
+    },
+    {
+      "position": 7,
+      "name": "Saffron",
+      "measurement": "Pinch",
+      "grams": 0.1,
+      "assumptions": "Pinch of saffron threads estimated at 0.1g (typical small pinch in recipes); standard saffron nutrition, negligible impact but included per guidelines."
+    },
+    {
+      "position": 8,
+      "name": "Bay Leaf",
+      "measurement": "1",
+      "grams": 0.5,
+      "assumptions": "1 dried bay leaf (~0.5g); standard bay leaf nutrition, used whole and typically removed but weight included."
+    },
+    {
+      "position": 9,
+      "name": "Potatoes",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "300g potatoes as specified, peeled and cut (edible raw weight); standard potato nutrition, raw state as added before cooking."
+    },
+    {
+      "position": 10,
+      "name": "Plum Tomatoes",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "400g canned or fresh plum tomatoes as listed (recipe breaks them up); standard canned plum tomato values in juice, drained weight approximated but using whole line as 400g."
+    },
+    {
+      "position": 11,
+      "name": "Cod",
+      "measurement": "600g",
+      "grams": 600,
+      "assumptions": "600g cod fillets (raw, edible portion); standard Atlantic cod raw nutrition, pushed into sauce as per instructions."
+    },
+    {
+      "position": 12,
+      "name": "Squid",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "300g squid (raw, cleaned edible weight); standard mixed species squid raw nutrition."
+    },
+    {
+      "position": 13,
+      "name": "Tiger Prawns",
+      "measurement": "8",
+      "grams": 200,
+      "assumptions": "8 tiger prawns estimated at ~25g each raw with shell (total 200g edible after minor prep); standard prawn/shrimp raw values, arranged on surface."
+    },
+    {
+      "position": 14,
+      "name": "Clams",
+      "measurement": "500g",
+      "grams": 250,
+      "assumptions": "500g clams in shell; edible drained meat portion ~50% or 250g after cooking/opening per typical yield; standard raw clam meat nutrition."
+    },
+    {
+      "position": 15,
+      "name": "Mussels",
+      "measurement": "500g",
+      "grams": 250,
+      "assumptions": "500g mussels in shell; edible drained meat portion ~50% or 250g after cooking/opening per typical yield; standard raw mussel meat nutrition."
+    },
+    {
+      "position": 16,
+      "name": "Baguette",
+      "measurement": "1 sliced",
+      "grams": 250,
+      "assumptions": "1 medium baguette (~250g total, sliced and toasted for serving); standard French baguette nutrition, entire loaf used as per recipe for dunking."
+    }
+  ],
+  "nutrition": {
+    "calories": 2787.88,
+    "protein": 300,
+    "fat": 25.79,
+    "fiber": 25.29,
+    "carbs": 270.06
+  }
+}

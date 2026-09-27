@@ -1,0 +1,95 @@
+{
+  "id": "53265",
+  "name": "Chilli ginger lamb chops",
+  "cuisine": "Turkish",
+  "fingerprint": "be33769b9d871701628424148899cd6f5978a11ffb5636376d480bcd30b25fc6",
+  "yield": 4,
+  "minutes": 150,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 8 lamb loin chops at ~200g raw weight per serving (typical restaurant portion for lamb chops); total ~800g lamb yields 4 servings",
+    "Marinate time taken as 2 hours (minimum stated); excludes optional overnight",
+    "All ingredients screened as listed; no compound sauces or hidden allergens",
+    "Gluten-free assumed true as no gluten-containing grains or additives listed",
+    "Sesame left null due to possible cross-contamination in unspecified spice powders or shared kitchen equipment",
+    "No substitutions applied per dietary notes; lamb is the only animal-derived ingredient"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nPut the garlic in a bowl with the ginger, lemon juice, oil, spices and seasoning. Blitz with a hand blender until smooth, then use to coat the lamb chops on both sides. Leave to marinate in the fridge for a couple of hours or overnight.\r\n\r\nstep 2\r\nHeat a barbecue until hot. Barbecue the chops over the coals for 3 mins on each side until cooked but still pink and juicy in the centre.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/8xuvhj1763794991.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Garlic",
+      "measurement": "4 Cloves Crushed",
+      "grams": 12,
+      "assumptions": "4 average garlic cloves crushed, edible portion ~12g total"
+    },
+    {
+      "position": 2,
+      "name": "Ginger",
+      "measurement": "1 tblsp",
+      "grams": 6,
+      "assumptions": "1 tablespoon grated fresh ginger ~6g"
+    },
+    {
+      "position": 3,
+      "name": "Lemon Juice",
+      "measurement": "1 tblsp",
+      "grams": 15,
+      "assumptions": "1 tablespoon lemon juice ~15g"
+    },
+    {
+      "position": 4,
+      "name": "Olive Oil",
+      "measurement": "1 tblsp",
+      "grams": 14,
+      "assumptions": "1 tablespoon olive oil ~14g"
+    },
+    {
+      "position": 5,
+      "name": "Chili Powder",
+      "measurement": "1/2 tsp",
+      "grams": 1.5,
+      "assumptions": "1/2 teaspoon chili powder ~1.5g"
+    },
+    {
+      "position": 6,
+      "name": "Cumin",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 teaspoon ground cumin ~2g"
+    },
+    {
+      "position": 7,
+      "name": "Lamb Loin Chops",
+      "measurement": "8",
+      "grams": 800,
+      "assumptions": "8 average lamb loin chops, total raw edible meat ~800g (100g each)"
+    }
+  ],
+  "nutrition": {
+    "calories": 2377.95,
+    "protein": 201.48,
+    "fat": 174.76,
+    "fiber": 1.16,
+    "carbs": 7.85
+  }
+}

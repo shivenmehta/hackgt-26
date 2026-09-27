@@ -1,0 +1,110 @@
+{
+  "id": "52792",
+  "name": "Bread and Butter Pudding",
+  "cuisine": "British",
+  "fingerprint": "b6d48d86510ada6af03b4f0e6857c9f9e69a0ed606d7bceff2129af7e5abce74",
+  "yield": 6,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical bread-and-butter-pudding recipes using 8 slices bread and 500 ml dairy; standard 6 servings.",
+    "Total time aggregates active prep (~20 min), 30 min standing, and 30-40 min bake (using 35 min midpoint) plus oven preheat (~5 min).",
+    "Butter classified as dairy and potential milk allergen source.",
+    "Bread assumed wheat-based white bread (common for this recipe); crusts removed but still contains gluten.",
+    "Sultanas, cinnamon, sugar, and nutmeg introduce no listed allergens or diet conflicts.",
+    "Milk, double cream, and eggs are explicitly dairy and egg ingredients; used in custard.",
+    "No fish, shellfish, tree nuts, peanuts, soy, or sesame appear in ingredients or instructions."
+  ],
+  "categories": [],
+  "instructions": "Grease a 1 litre/2 pint pie dish with butter.\r\nCut the crusts off the bread. Spread each slice with on one side with butter, then cut into triangles.\r\nArrange a layer of bread, buttered-side up, in the bottom of the dish, then add a layer of sultanas. Sprinkle with a little cinnamon, then repeat the layers of bread and sultanas, sprinkling with cinnamon, until you have used up all of the bread. Finish with a layer of bread, then set aside.\r\nGently warm the milk and cream in a pan over a low heat to scalding point. Don't let it boil.\r\nCrack the eggs into a bowl, add three quarters of the sugar and lightly whisk until pale.\r\nAdd the warm milk and cream mixture and stir well, then strain the custard into a bowl.\r\nPour the custard over the prepared bread layers and sprinkle with nutmeg and the remaining sugar and leave to stand for 30 minutes.\r\nPreheat the oven to 180C/355F/Gas 4.\r\nPlace the dish into the oven and bake for 30-40 minutes, or until the custard has set and the top is golden-brown.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "butter",
+      "measurement": "25g/1oz",
+      "grams": 25,
+      "assumptions": "Standard unsalted butter; entire 25 g quantity used to grease dish and spread on bread."
+    },
+    {
+      "position": 2,
+      "name": "bread",
+      "measurement": "8 thin slices",
+      "grams": 200,
+      "assumptions": "8 thin slices white bread (approx 25 g per slice including crusts); crusts removed but weight is for whole slices before trimming as is typical in such estimates."
+    },
+    {
+      "position": 3,
+      "name": "sultanas",
+      "measurement": "50g/2oz",
+      "grams": 50,
+      "assumptions": "Standard sultanas (golden raisins); entire listed quantity used across layers."
+    },
+    {
+      "position": 4,
+      "name": "cinnamon",
+      "measurement": "2 tsp",
+      "grams": 5,
+      "assumptions": "2 tsp ground cinnamon (≈5 g total); used for sprinkling between layers."
+    },
+    {
+      "position": 5,
+      "name": "milk",
+      "measurement": "350ml/12fl",
+      "grams": 350,
+      "assumptions": "Whole cow's milk; entire 350 ml volume (density ≈1.03 g/ml) gently warmed and used in custard."
+    },
+    {
+      "position": 6,
+      "name": "double cream",
+      "measurement": "50ml/2fl oz",
+      "grams": 50,
+      "assumptions": "Standard double (heavy) cream; entire 50 ml volume (density ≈1 g/ml) warmed with milk."
+    },
+    {
+      "position": 7,
+      "name": "eggs",
+      "measurement": "2 free-range",
+      "grams": 100,
+      "assumptions": "2 large free-range eggs (≈50 g each edible portion); cracked and whisked into custard base."
+    },
+    {
+      "position": 8,
+      "name": "sugar",
+      "measurement": "25g/1oz",
+      "grams": 25,
+      "assumptions": "White granulated sugar; 25 g total split between whisking into eggs and sprinkling on top."
+    },
+    {
+      "position": 9,
+      "name": "nutmeg",
+      "measurement": "grated, to taste",
+      "grams": 2,
+      "assumptions": "Fresh grated nutmeg to taste (small plausible amount for sprinkling); negligible weight and nutrients in context of whole recipe."
+    }
+  ],
+  "nutrition": {
+    "calories": 1427.85,
+    "protein": 45.35,
+    "fat": 57.41,
+    "fiber": 9.05,
+    "carbs": 186.23
+  }
+}

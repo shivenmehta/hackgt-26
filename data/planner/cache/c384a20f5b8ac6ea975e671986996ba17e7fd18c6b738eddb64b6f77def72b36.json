@@ -1,0 +1,118 @@
+{
+  "id": "53040",
+  "name": "Spring onion and prawn empanadas",
+  "cuisine": "Portuguese",
+  "fingerprint": "c384a20f5b8ac6ea975e671986996ba17e7fd18c6b738eddb64b6f77def72b36",
+  "yield": 8,
+  "minutes": 70,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe makes 8 empanadas as per step 3 dividing dough into eight balls; this is the natural yield.",
+    "Total time estimate sums 30 min dough rest + ~10 min filling prep/cook + ~10 min assembly + 30 min bake; active prep ~40 min but overall process ~70 min.",
+    "'Dash' of olive oil conservatively classified as present for dietary/allergen review.",
+    "Prawns classified as shellfish allergen and compatible with pescatarian but not vegetarian/vegan.",
+    "Feta and butter establish dairy presence (Milk allergen).",
+    "Plain flour and dough handling establish wheat (and thus gluten).",
+    "Egg is explicitly listed and used (Eggs allergen).",
+    "No tree nuts, peanuts, fish, soy, or sesame in listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1\r\n\r\nTo make the dough, rub the butter into the flour and then add the egg white and half the yolk (keep the rest), vinegar, a pinch of salt and enough cold water to make a soft dough. Knead on a floured surface until smooth and then wrap and rest for 30 minutes.\r\n\r\nSTEP 2\r\n\r\nHeat the oven to 180c/fan 160c/gas 4. Trim the green ends of the spring onions and then finely slice the rest. Heat a little oil in a pan and fry them gently until soft but not browned. Add the chilli and garlic, stir and then add the prawns and cook until they are opaque. Season well. Scoop out the prawns and bubble the juices until they thicken, then add back the prawns.\r\n\r\nSTEP 3\r\n\r\nDivide the empanada dough into eight balls and roll out to thin circles on a floured surface. Put some filling on one half of the dough, sprinkle the feta on top and fold the other half over. Trim the edge and then fold and crimp the dough together so the empanada is tightly sealed, put it on an oiled baking sheet either on its side or sitting on its un-crimped edge like a cornish pasty. Repeat with the remaining dough and mixture. Mix the leftover egg yolk with a splash of water and brush the top of the empanadas.\r\n\r\nSTEP 4\r\n\r\nBake for 30 minutes or until golden and slightly crisp around the edges.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1c5oso1614347493.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Spring Onions",
+      "measurement": "1  bunch",
+      "grams": 120,
+      "assumptions": "1 bunch trimmed spring onions estimated at 120g edible portion after trimming green ends as per instructions"
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "Dash",
+      "grams": 15,
+      "assumptions": "Dash of olive oil for frying estimated at 15ml/13.5g (1 tablespoon equivalent in recipe context)"
+    },
+    {
+      "position": 3,
+      "name": "Red Chilli",
+      "measurement": "1 finely sliced",
+      "grams": 30,
+      "assumptions": "1 medium red chilli finely sliced estimated at 30g whole weight including seeds"
+    },
+    {
+      "position": 4,
+      "name": "Garlic",
+      "measurement": "1 clove",
+      "grams": 6,
+      "assumptions": "1 clove garlic estimated at 6g peeled weight"
+    },
+    {
+      "position": 5,
+      "name": "Prawns",
+      "measurement": "350g",
+      "grams": 350,
+      "assumptions": "Raw prawns at listed 350g; cooked in recipe but nutrition uses raw edible values as standard for seafood"
+    },
+    {
+      "position": 6,
+      "name": "Feta",
+      "measurement": "75g",
+      "grams": 75,
+      "assumptions": "Crumbled feta cheese at listed 75g; typical block style"
+    },
+    {
+      "position": 7,
+      "name": "Butter",
+      "measurement": "15g",
+      "grams": 15,
+      "assumptions": "Butter at listed 15g for dough"
+    },
+    {
+      "position": 8,
+      "name": "Plain Flour",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Plain white flour at listed 250g for dough"
+    },
+    {
+      "position": 9,
+      "name": "Egg",
+      "measurement": "1 Seperated",
+      "grams": 55,
+      "assumptions": "1 large egg (approx 55g edible without shell) separated; whole egg values used as yolk/white split is for dough and glaze"
+    },
+    {
+      "position": 10,
+      "name": "White Wine Vinegar",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "1/2 tsp white wine vinegar estimated at 3g; negligible nutrition but included"
+    }
+  ],
+  "nutrition": {
+    "calories": 1783.82,
+    "protein": 110.53,
+    "fat": 54.74,
+    "fiber": 10.42,
+    "carbs": 209.41
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "52785",
+  "name": "Dal fry",
+  "cuisine": "Indian",
+  "fingerprint": "77551bdd44c4843a473ce6c171021e714d6eef7eafeb44946143cd16e8facfce",
+  "yield": 4,
+  "minutes": 70,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical dal fry recipes using 1 cup dry dal, which commonly serves 4 people as a main dish with accompaniments like naan.",
+    "Total time sums soaking (60 min), cooking dal (~30 min), and tadka/prep steps (~10 min); overlaps possible but conservatively added per instructions.",
+    "Ghee classified as dairy (Milk allergen true, Dairy-free false); no eggs, meat, fish, or wheat listed.",
+    "Gluten-free true as no barley/rye/wheat/oats; all spices/herbs assumed gluten-free.",
+    "Vegan false due to ghee (dairy); Vegetarian true per source and ingredients; Pescatarian true as no meat/fish but dairy present.",
+    "No tree nuts, peanuts, soy, or sesame confidently detected; null for sesame due to possible cross-contact in unspecified spice blends like garam masala."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Wash and soak toor dal in approx. 3 cups of water, for at least one hours. Dal will be double in volume after soaking. Drain the water.\r\nCook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup.\r\nIn a frying pan, heat the ghee. Add cumin seeds, and mustard seeds. After the seeds crack, add bay leaves, green chili, ginger and chili powder. Stir for a few seconds.\r\nAdd tomatoes, salt and sugar stir and cook until tomatoes are tender and mushy.\r\nAdd cilantro and garam masala cook for about one minute.\r\nPour the seasoning over dal mix it well and cook for another minute.\r\nServe with Naan.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Toor dal",
+      "measurement": "1 cup",
+      "grams": 200,
+      "assumptions": "Standard dry toor dal (pigeon peas); 1 cup dry weighs ~200g; nutrients for uncooked dry state as used in recipe start."
+    },
+    {
+      "position": 2,
+      "name": "Water",
+      "measurement": "2-1/2 cups",
+      "grams": 600,
+      "assumptions": "Cooking water for dal; plain water contributes zero macros; volume converted using 1 cup = 240 ml."
+    },
+    {
+      "position": 3,
+      "name": "Salt",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "Table salt; negligible calories/macros; 1 tsp ≈ 5 g."
+    },
+    {
+      "position": 4,
+      "name": "Turmeric",
+      "measurement": "1/4 tsp",
+      "grams": 1,
+      "assumptions": "Ground turmeric; very small quantity estimated at 1 g for 1/4 tsp; typical spice nutrition values."
+    },
+    {
+      "position": 5,
+      "name": "Ghee",
+      "measurement": "3 tbs",
+      "grams": 45,
+      "assumptions": "Clarified butter (ghee); 3 tbs ≈ 45 g (density ~15 g per tbs); nearly pure fat."
+    },
+    {
+      "position": 6,
+      "name": "Chopped tomatoes",
+      "measurement": "1 cup",
+      "grams": 180,
+      "assumptions": "Chopped fresh tomatoes; 1 cup ≈ 180 g; raw red tomato values, suitable for cooking down."
+    },
+    {
+      "position": 7,
+      "name": "Cumin seeds",
+      "measurement": "1/2 tsp",
+      "grams": 2,
+      "assumptions": "Whole cumin seeds; 1/2 tsp ≈ 2 g; typical whole cumin seed nutrition."
+    },
+    {
+      "position": 8,
+      "name": "Mustard Seeds",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "Mustard seeds; 1/2 tsp ≈ 3 g; standard mustard seed values."
+    },
+    {
+      "position": 9,
+      "name": "Bay Leaf",
+      "measurement": "2",
+      "grams": 1,
+      "assumptions": "Dried bay leaves; 2 leaves ≈ 1 g total; typical dried herb/spice profile."
+    },
+    {
+      "position": 10,
+      "name": "Green Chilli",
+      "measurement": "1 tbs chopped",
+      "grams": 10,
+      "assumptions": "Chopped green chili; 1 tbs chopped ≈ 10 g; fresh green chili pepper values."
+    },
+    {
+      "position": 11,
+      "name": "Ginger",
+      "measurement": "2 tsp shredded",
+      "grams": 4,
+      "assumptions": "Shredded fresh ginger; 2 tsp ≈ 4 g; raw ginger root nutrition."
+    },
+    {
+      "position": 12,
+      "name": "Cilantro",
+      "measurement": "2 tbs",
+      "grams": 5,
+      "assumptions": "Chopped fresh cilantro (coriander leaves); 2 tbs ≈ 5 g; typical fresh herb values."
+    },
+    {
+      "position": 13,
+      "name": "Red Pepper",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "Red chili powder (cayenne or similar); 1/2 tsp ≈ 1 g; standard dried chili powder nutrition."
+    },
+    {
+      "position": 14,
+      "name": "Salt",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "Additional table salt; 1/2 tsp ≈ 3 g; negligible macros."
+    },
+    {
+      "position": 15,
+      "name": "Sugar",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "Granulated sugar; 1 tsp ≈ 4 g; pure sucrose values."
+    },
+    {
+      "position": 16,
+      "name": "Garam Masala",
+      "measurement": "1/4 tsp",
+      "grams": 1,
+      "assumptions": "Garam masala spice blend; 1/4 tsp ≈ 1 g; averaged typical Indian spice mix values."
+    }
+  ],
+  "nutrition": {
+    "calories": 1195.95,
+    "protein": 47.65,
+    "fat": 50.67,
+    "fiber": 33.87,
+    "carbs": 136.75
+  }
+}

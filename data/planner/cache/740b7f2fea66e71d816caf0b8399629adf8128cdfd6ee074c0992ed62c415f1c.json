@@ -1,0 +1,95 @@
+{
+  "id": "53072",
+  "name": "Crispy Eggplant",
+  "cuisine": "Filipino",
+  "fingerprint": "740b7f2fea66e71d816caf0b8399629adf8128cdfd6ee074c0992ed62c415f1c",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": null,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated from typical 1 large eggplant yielding 4 side-dish or appetizer servings (about 4-6 slices per person after prep).",
+    "Total time aggregates explicit 30 min salting + estimated 10 min active prep (slicing, washing, drying, breading) + 5 min frying in batches.",
+    "Breadcrumbs assumed to contain wheat unless certified gluten-free (standard commercial type).",
+    "Vegetable oil assumed neutral (e.g. canola/soy); soy content ambiguous as it may or may not be soybean oil.",
+    "No dairy ingredients present; dairy-free classification holds.",
+    "Recipe is explicitly vegetarian per source and ingredients; vegan false due to eggs."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Slice eggplant into 1 cm (0.4-inch) slices. Place them in a bowl and sprinkle them with salt. allow them to sit for 30 minutes to render some of their liquid and bitterness.\r\n2. After 30 minutes wash eggplant slices from salt and pat dry with a kitchen towel.\r\n3. In a large bowl/plate place breadcrumbs and sesame seeds. In another bowl beat 2 eggs with pinch salt and pepper.\r\n4. Heal oil in a large skillet over high heat.\r\n5. Dip eggplant slices in egg, then in crumbs, and place in hot oil. Fry 2 to 3 minutes on each side, or until golden brown. Drain on a paper towel.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/c7lzrl1683208757.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Egg Plants",
+      "measurement": "1 large",
+      "grams": 450,
+      "assumptions": "1 large eggplant ≈ 450g edible flesh; raw state as prepped before frying; typical values for eggplant."
+    },
+    {
+      "position": 2,
+      "name": "Breadcrumbs",
+      "measurement": "1 cup",
+      "grams": 120,
+      "assumptions": "1 cup dry breadcrumbs ≈ 120g; standard plain breadcrumbs."
+    },
+    {
+      "position": 3,
+      "name": "Sesame Seed",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Exactly 50g sesame seeds as listed; typical hulled sesame seed values."
+    },
+    {
+      "position": 4,
+      "name": "Eggs",
+      "measurement": "2",
+      "grams": 100,
+      "assumptions": "2 large eggs ≈ 100g total edible portion without shell; standard large egg nutrition."
+    },
+    {
+      "position": 5,
+      "name": "Salt",
+      "measurement": "To taste",
+      "grams": 5,
+      "assumptions": "Pinch to taste salt used in egg wash + initial salting; ≈5g total estimated for the recipe; sodium not modeled in macros."
+    },
+    {
+      "position": 6,
+      "name": "Pepper",
+      "measurement": "To taste",
+      "grams": 2,
+      "assumptions": "Pinch to taste black pepper in egg wash; ≈2g total; negligible macros."
+    },
+    {
+      "position": 7,
+      "name": "Vegetable Oil",
+      "measurement": "For frying",
+      "grams": 60,
+      "assumptions": "Oil for frying: plausible 60ml/≈55-60g absorbed or used in skillet for 4-6 slices (typical shallow-fry amount for this recipe); standard vegetable oil (soy/canola)."
+    }
+  ],
+  "nutrition": {
+    "calories": 1546.4,
+    "protein": 42.1,
+    "fat": 101.9,
+    "fiber": 24.3,
+    "carbs": 125.9
+  }
+}

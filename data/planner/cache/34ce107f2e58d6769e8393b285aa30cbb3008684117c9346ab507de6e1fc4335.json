@@ -1,0 +1,88 @@
+{
+  "id": "53185",
+  "name": "Chorizo & tomato salad",
+  "cuisine": "Spanish",
+  "fingerprint": "34ce107f2e58d6769e8393b285aa30cbb3008684117c9346ab507de6e1fc4335",
+  "yield": 2,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical side-salad portion size for 2 people given the listed ingredient quantities",
+    "Preparation time estimated from quick assembly and brief pan-frying steps",
+    "Gluten-free assumes no hidden gluten in chorizo (standard cured chorizo is usually GF)",
+    "Dairy-free based on absence of any dairy ingredients",
+    "No tree nuts, peanuts, sesame, soy, fish, shellfish, eggs or milk ingredients present",
+    "Thyme listed as fresh sprigs; conservatively treated as leaves only for classification"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nPut the tomatoes in a bowl with the onion and thyme. Season, then drizzle with the vinegar and oil. Let the flavours mingle while you cook the chorizo.\r\n\r\nstep 2\r\nIn a hot, dry pan, fry the chorizo slices until browned on both sides. Serve the tomatoes with the fried chorizo, drizzled with a little oil from the pan.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/6cskio1763338156.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef tomatoes",
+      "measurement": "3",
+      "grams": 450,
+      "assumptions": "Medium-large beefsteak tomatoes, ~150g each; raw edible flesh only"
+    },
+    {
+      "position": 2,
+      "name": "Red Onions",
+      "measurement": "1/2",
+      "grams": 55,
+      "assumptions": "Half a medium red onion, ~110g total; raw"
+    },
+    {
+      "position": 3,
+      "name": "Thyme",
+      "measurement": "Sprigs of fresh",
+      "grams": 5,
+      "assumptions": "A few sprigs of fresh thyme leaves stripped (~5g usable leaves); typical fresh herb estimate"
+    },
+    {
+      "position": 4,
+      "name": "Sherry vinegar",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tablespoon sherry vinegar, standard 15 ml volume"
+    },
+    {
+      "position": 5,
+      "name": "Extra Virgin Olive Oil",
+      "measurement": "2 tblsp",
+      "grams": 30,
+      "assumptions": "2 tablespoons extra virgin olive oil, 15 ml each; full fat value for oil"
+    },
+    {
+      "position": 6,
+      "name": "Chorizo",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "100g chorizo sausage as given; typical cured Spanish-style values; pan-fried with fat rendered but total ingredient weight retained"
+    }
+  ],
+  "nutrition": {
+    "calories": 831.45,
+    "protein": 29.14,
+    "fat": 69.79,
+    "fiber": 7.03,
+    "carbs": 25.4
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "53199",
+  "name": "Thai beef stir-fry",
+  "cuisine": "Thai",
+  "fingerprint": "4bec4b4c0dbec96a32cd5fcdb55b66305ddf4ce1b83fae4c9ac0fa51a61333b5",
+  "yield": 2,
+  "minutes": 10,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Original recipe serves 2 adults (standard for 400g beef stir-fry with rice accompaniment as described)",
+    "Preparation and cooking time estimated at 10 minutes based on instructions (heat wok, stir-fry 3 mins, add sauce and basil)",
+    "Oyster sauce classified as containing shellfish (oysters) and potentially wheat/soy (common in commercial varieties, hence null for those)",
+    "Thai holy basil assumed; no gluten-containing ingredients listed but oyster sauce ambiguity prevents confident gluten-free classification",
+    "No dairy, eggs, tree nuts, or peanuts in listed ingredients"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat a wok or large frying pan until smoking hot. Pour in the oil and swirl around the pan, then tip in the beef strips and chilli. Cook, stirring all the time, until the meat is lightly browned, about 3 mins, then pour over the oyster sauce. Cook until heated through and the sauce coats the meat. stir in the basil leaves and serve with plain rice.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/kyuxew1763479470.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Vegetable Oil",
+      "measurement": "2 tbsp",
+      "grams": 28,
+      "assumptions": "2 tbsp vegetable oil (standard density ~14 g per tbsp); used for stir-frying as per instructions"
+    },
+    {
+      "position": 2,
+      "name": "Beef",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "400 g raw beef strips (typical for stir-fry; ~20% fat content common for this cut and cuisine)"
+    },
+    {
+      "position": 3,
+      "name": "Red Chilli",
+      "measurement": "1 sliced",
+      "grams": 20,
+      "assumptions": "1 medium red chilli (~20 g whole, sliced; typical Thai bird's eye or similar size)"
+    },
+    {
+      "position": 4,
+      "name": "Oyster Sauce",
+      "measurement": "2 tblsp",
+      "grams": 30,
+      "assumptions": "2 tbsp oyster sauce (~15 g per tbsp; common bottled variety)"
+    },
+    {
+      "position": 5,
+      "name": "Basil Leaves",
+      "measurement": "Handful",
+      "grams": 20,
+      "assumptions": "Handful fresh basil leaves (standard Thai holy basil handful ~20 g)"
+    }
+  ],
+  "nutrition": {
+    "calories": 1281.12,
+    "protein": 105.6,
+    "fat": 88.37,
+    "fiber": 0.85,
+    "carbs": 6.6
+  }
+}

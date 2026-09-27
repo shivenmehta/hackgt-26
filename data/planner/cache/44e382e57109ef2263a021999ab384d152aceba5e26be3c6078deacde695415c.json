@@ -1,0 +1,102 @@
+{
+  "id": "53027",
+  "name": "Koshari",
+  "cuisine": "Egyptian",
+  "fingerprint": "44e382e57109ef2263a021999ab384d152aceba5e26be3c6078deacde695415c",
+  "yield": 4,
+  "minutes": 65,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated at 4 main-dish servings based on total dry starch volume (rice + lentils + pasta ≈ 5 cups dry, typical for 4 portions of koshari).",
+    "Total active + passive time summed from sequential/parallel steps: lentil par-cook (17 min), rice/lentil simmer (23 min), pasta boil (≈10 min), onion fry (20 min), plus overlaps and 5 min rest.",
+    "Macaroni and rice classified as containing wheat (standard durum wheat pasta and possible cross-contact for rice).",
+    "Vegetable oil type unspecified so soy allergen left null.",
+    "No animal products, dairy, eggs, or tree nuts present.",
+    "Chickpeas assumed from a plain canned variety with no added allergens."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Cook the lentils. Bring lentils and 4 cups of water to a boil in a medium pot or saucepan over high heat. Reduce the heat to low and cook until lentils are just tender (15-17 minutes). Drain from water and season with a little salt. (Note: when the lentils are ready, they should not be fully cooked. They should be only par-cooked and still have a bite to them as they need to finish cooking with the rice).\r\nNow, for the rice. Drain the rice from its soaking water. Combine the par-cooked lentils and the rice in the saucepan over medium-high heat with 1 tbsp cooking oil, salt, pepper, and coriander. Cook for 3 minutes, stirring regularly. Add warm water to cover the rice and lentil mixture by about 1 1/2 inches (you’ll probably use about 3 cups of water here). Bring to a boil; the water should reduce a bit. Now cover and cook until all the liquid has been absorbed and both the rice and lentils are well cooked through (about 20 minutes).  Keep covered and undisturbed for 5 minutes or so.\r\nNow make the pasta. While the rice and lentils are cooking, make the pasta according to package instructions by adding the elbow pasta to boiling water with a dash of salt and a little oil. Cook until the pasta is al dente. Drain.\r\nCover the chickpeas and warm in the microwave briefly before serving.\r\n\r\nMake the crispy onion topping. \r\n\r\nSprinkle the onion rings with salt, then toss them in the flour to coat. Shake off excess flour.\r\nIn a large skillet, heat the cooking oil over medium-high heat, cook the onion rings, stirring often, until they turn a nice caramelized brown. Onions must be crispy, but not burned (15-20 minutes).",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Brown Lentils",
+      "measurement": "1 1/2 cups",
+      "grams": 300,
+      "assumptions": "1 1/2 cups dry brown lentils (standard 200 g/cup density); par-cooked but nutrients based on dry state as recipe starts with dry lentils; typical values for brown lentils"
+    },
+    {
+      "position": 2,
+      "name": "Rice",
+      "measurement": "1 1/2 cups",
+      "grams": 300,
+      "assumptions": "1 1/2 cups uncooked white rice (standard 200 g/cup density); typical long-grain white rice values"
+    },
+    {
+      "position": 3,
+      "name": "Coriander",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp ground coriander; negligible total weight but scaled to ~1 g for estimation; typical ground coriander values"
+    },
+    {
+      "position": 4,
+      "name": "Macaroni",
+      "measurement": "2 cups",
+      "grams": 240,
+      "assumptions": "2 cups dry elbow macaroni (standard 120 g/cup density for dry pasta); cooked al dente but nutrients based on dry as recipe starts with dry pasta; typical durum wheat pasta values"
+    },
+    {
+      "position": 5,
+      "name": "Chickpeas",
+      "measurement": "Can",
+      "grams": 240,
+      "assumptions": "One standard 15 oz / 425 g can of chickpeas, drained (edible portion ~240 g after draining liquid); typical canned chickpeas values"
+    },
+    {
+      "position": 6,
+      "name": "Onion",
+      "measurement": "1 large",
+      "grams": 150,
+      "assumptions": "1 large onion (~150 g edible portion after peeling); typical raw yellow onion values; used for crispy topping"
+    },
+    {
+      "position": 7,
+      "name": "Salt",
+      "measurement": "Sprinking",
+      "grams": 5,
+      "assumptions": "Sprinkling of salt for seasoning and onions (assumed ~1 tsp total / 5 g); salt contributes negligible macros"
+    },
+    {
+      "position": 8,
+      "name": "Vegetable Oil",
+      "measurement": "1/2 cup",
+      "grams": 110,
+      "assumptions": "1/2 cup vegetable oil (standard 220 g/cup density) used for cooking rice/lentils and frying onions (partial absorption assumed but full ingredient weight used for estimation); typical vegetable oil values"
+    }
+  ],
+  "nutrition": {
+    "calories": 4473.51,
+    "protein": 153.51,
+    "fat": 125.56,
+    "fiber": 64.76,
+    "carbs": 690.46
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "52972",
+  "name": "Tunisian Lamb Soup",
+  "cuisine": "Tunisian",
+  "fingerprint": "cdf931fea1fc6d30028827785aa92d5a72365bfa30bbe1900c762fe5357871be",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical soup recipes with 500g meat + 1L stock + vegetables/pasta yielding 4 adult main-dish servings",
+    "Total time is sum of sequential steps: browning lamb (~5 min) + sautéing aromatics (~5 min) + simmering (~20 min) + cooking pasta (~15 min); no parallel timing or passive time assumed",
+    "Chicken stock classified as non-vegetarian/vegan/pescatarian due to animal origin",
+    "Macaroni classified as containing wheat (durum wheat pasta)",
+    "Harissa spice blend left ambiguous for sesame (possible in some blends but not specified)",
+    "No milk, eggs, fish, shellfish, tree nuts, peanuts, or soy ingredients listed",
+    "Spinach, tomato puree, chickpeas, and lemon juice compatible with all listed diets except where meat/stock conflict",
+    "Salt, pepper, cumin, and garlic have no impact on diet or allergen flags"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Add the lamb to a casserole and cook over high heat. When browned, remove from the heat and set aside.\r\nKeep a tablespoon of fat in the casserole and discard the rest. Reduce to medium heat then add the garlic, onion and spinach and cook until the onion is translucent and the spinach wilted or about 5 minutes.\r\nReturn the lamb to the casserole with the onion-spinach mixture, add the tomato puree, cumin, harissa, chicken, chickpeas, lemon juice, salt and pepper in the pan. Simmer over low heat for about 20 minutes.\r\nAdd the pasta and cook for 15 minutes or until pasta is cooked.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/t8mn9g1560460231.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Lamb Mince",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Raw lamb mince, typical 20% fat content; values for uncooked weight as added to casserole."
+    },
+    {
+      "position": 2,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves minced; standard raw garlic nutrient profile."
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1",
+      "grams": 110,
+      "assumptions": "1 medium onion (approx 110g), peeled and chopped; raw onion values."
+    },
+    {
+      "position": 4,
+      "name": "Spinach",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Fresh spinach leaves as added; raw spinach nutrient density before wilting."
+    },
+    {
+      "position": 5,
+      "name": "Tomato Puree",
+      "measurement": "3 tbs",
+      "grams": 45,
+      "assumptions": "3 tablespoons tomato puree/paste (approx 15g per tbsp); concentrated tomato values."
+    },
+    {
+      "position": 6,
+      "name": "Cumin",
+      "measurement": "1 tbs",
+      "grams": 6,
+      "assumptions": "1 tablespoon ground cumin; standard dry spice nutrition per teaspoon scaled."
+    },
+    {
+      "position": 7,
+      "name": "Chicken Stock",
+      "measurement": "1 Litre",
+      "grams": 1000,
+      "assumptions": "1 litre chicken stock; low-calorie broth values assuming standard commercial or homemade without added fat."
+    },
+    {
+      "position": 8,
+      "name": "Harissa Spice",
+      "measurement": "3 tsp",
+      "grams": 9,
+      "assumptions": "3 teaspoons harissa spice blend (approx 3g per tsp); typical North African chili-garlic-spice mix values."
+    },
+    {
+      "position": 9,
+      "name": "Chickpeas",
+      "measurement": "400g",
+      "grams": 246,
+      "assumptions": "400g can chickpeas, drained weight approx 246g after discarding liquid; standard drained canned values."
+    },
+    {
+      "position": 10,
+      "name": "Lemon Juice",
+      "measurement": "1/2",
+      "grams": 30,
+      "assumptions": "Juice from 1/2 average lemon (approx 30g); raw lemon juice nutrient profile."
+    },
+    {
+      "position": 11,
+      "name": "Macaroni",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Dry macaroni pasta as added before boiling; uncooked durum wheat values."
+    },
+    {
+      "position": 12,
+      "name": "Salt",
+      "measurement": "Pinch",
+      "grams": 1,
+      "assumptions": "Pinch of salt; negligible contribution to total weight and macros, estimated at 1g for calculation."
+    },
+    {
+      "position": 13,
+      "name": "Pepper",
+      "measurement": "Pinch",
+      "grams": 1,
+      "assumptions": "Pinch of pepper; negligible contribution to total weight and macros, estimated at 1g for calculation."
+    }
+  ],
+  "nutrition": {
+    "calories": 2410.52,
+    "protein": 164.29,
+    "fat": 104.86,
+    "fiber": 31.44,
+    "carbs": 208.02
+  }
+}

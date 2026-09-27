@@ -1,0 +1,165 @@
+{
+  "id": "52826",
+  "name": "Braised Beef Chilli",
+  "cuisine": "Mexican",
+  "fingerprint": "85ec07b4c0cb8e567c2b9b0b1ca6f4a9682dd61878b4ca6a15c27e05f97f9587",
+  "yield": 6,
+  "minutes": 210,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from 1.3kg total meat plus beans and sauce volume, typical for 6 hearty adult portions",
+    "Total time is 30 min active prep/searing plus 3 hours oven braising (2h + 1h)",
+    "Gluten-free assumes no hidden gluten in ketchup or chorizo; some commercial versions may contain traces",
+    "Soy null because unspecified ketchup and chorizo brands may contain soy",
+    "All other allergens confidently absent based on listed ingredients only",
+    "Balsamic vinegar, ketchup and chorizo treated as standard commercial products without additional undisclosed allergens"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Preheat the oven to 120C/225F/gas mark 1.\r\n\r\nTake the meat out of the fridge to de-chill. Pulse the onions and garlic in a food processor until finely chopped. Heat 2 tbsp olive oil in a large casserole and sear the meat on all sides until golden.\r\n\r\nSet to one side and add another small slug of oil to brown the chorizo. Remove and add the onion and garlic, spices, herbs and chillies then cook until soft in the chorizo oil. Season with salt and pepper and add the vinegar, tomatoes, ketchup and sugar.\r\n\r\nPut all the meat back into the pot with 400ml water (or red wine if you prefer), bring up to a simmer and cook, covered, in the low oven.\r\n\r\nAfter 2 hours, check the meat and add the beans. Cook for a further hour and just before serving, pull the meat apart with a pair of forks.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef",
+      "measurement": "1kg",
+      "grams": 1000,
+      "assumptions": "Raw beef chuck roast, typical for braising; values reflect average for boneless beef shoulder."
+    },
+    {
+      "position": 2,
+      "name": "Onions",
+      "measurement": "3",
+      "grams": 300,
+      "assumptions": "Medium yellow onions, raw weight; 3 onions estimated at ~100g each based on standard recipe use."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "4 cloves",
+      "grams": 20,
+      "assumptions": "4 average garlic cloves, raw; total ~20g as typical household measure."
+    },
+    {
+      "position": 4,
+      "name": "Olive oil",
+      "measurement": "Dash",
+      "grams": 30,
+      "assumptions": "Dash of olive oil for searing and cooking estimated at 2 tbsp total (~30g) based on recipe context of 'dash' plus 'small slug'."
+    },
+    {
+      "position": 5,
+      "name": "Chorizo",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Cured chorizo sausage, typical Spanish-style; fully edible weight as given."
+    },
+    {
+      "position": 6,
+      "name": "Cumin",
+      "measurement": "2 tsp",
+      "grams": 4,
+      "assumptions": "Ground cumin; 2 tsp estimated at ~4g using standard spice density."
+    },
+    {
+      "position": 7,
+      "name": "Allspice",
+      "measurement": "2 tsp",
+      "grams": 4,
+      "assumptions": "Ground allspice; 2 tsp estimated at ~4g using standard spice density."
+    },
+    {
+      "position": 8,
+      "name": "Cloves",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Ground cloves; 1 tsp estimated at ~2g using standard spice density."
+    },
+    {
+      "position": 9,
+      "name": "Cinnamon stick",
+      "measurement": "1 large",
+      "grams": 6,
+      "assumptions": "1 large cinnamon stick; estimated edible portion ~6g as whole spice used for infusion but partially consumed."
+    },
+    {
+      "position": 10,
+      "name": "Bay Leaves",
+      "measurement": "3",
+      "grams": 2,
+      "assumptions": "3 bay leaves; negligible edible weight and nutrition as typically removed before serving."
+    },
+    {
+      "position": 11,
+      "name": "Oregano",
+      "measurement": "2 tsp dried",
+      "grams": 2,
+      "assumptions": "Dried oregano; 2 tsp estimated at ~2g using standard spice density."
+    },
+    {
+      "position": 12,
+      "name": "Ancho Chillies",
+      "measurement": "2 ancho",
+      "grams": 30,
+      "assumptions": "2 dried ancho chillies; total ~30g based on typical dried chile size and recipe use (rehydrated in cooking)."
+    },
+    {
+      "position": 13,
+      "name": "Balsamic Vinegar",
+      "measurement": "3 tbsp",
+      "grams": 45,
+      "assumptions": "Balsamic vinegar; 3 tbsp estimated at ~45g using standard liquid measure."
+    },
+    {
+      "position": 14,
+      "name": "Plum Tomatoes",
+      "measurement": "2 x 400g",
+      "grams": 800,
+      "assumptions": "Canned plum tomatoes in juice; 2 x 400g tins including liquid as added to stew (drained solids would be lower but full can weight used per context)."
+    },
+    {
+      "position": 15,
+      "name": "Tomato Ketchup",
+      "measurement": "2 tbsp",
+      "grams": 30,
+      "assumptions": "Tomato ketchup; 2 tbsp estimated at ~30g using standard condiment measure."
+    },
+    {
+      "position": 16,
+      "name": "Dark Brown Sugar",
+      "measurement": "2 tbsp",
+      "grams": 25,
+      "assumptions": "Dark brown sugar; 2 tbsp estimated at ~25g using standard measure."
+    },
+    {
+      "position": 17,
+      "name": "Borlotti Beans",
+      "measurement": "2 x 400g tins",
+      "grams": 800,
+      "assumptions": "Canned borlotti beans; 2 x 400g tins including drained weight approximation (full can weight used as typical in chili recipes, assuming ~half liquid)."
+    }
+  ],
+  "nutrition": {
+    "calories": 5444.62,
+    "protein": 398.67,
+    "fat": 324.47,
+    "fiber": 75.63,
+    "carbs": 272.19
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "53345",
+  "name": "Jamaican Curry Chicken Recipe",
+  "cuisine": "Jamaican",
+  "fingerprint": "a6d7d30138d30986fc07bef94492b25e295753bde834df7ebcb525cc56279962",
+  "yield": 4,
+  "minutes": 75,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on 2 lbs chicken plus potato and typical Jamaican curry chicken portion sizes (about 6-8 oz chicken per serving).",
+    "Total time is sum of minimums: 60 min marinate + 1 min curry bloom + 5 min saute + 35 min simmer (including last 15 min with potato).",
+    "All-purpose seasoning assumed free of wheat, soy, sesame as unspecified; conservative null for sesame.",
+    "Scotch bonnet and thyme treated as included despite 'if using' note.",
+    "No barley/rye/wheat ingredients present; recipe is gluten-free by ingredient screening.",
+    "No dairy, eggs, fish, shellfish, tree nuts, or peanuts listed."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Equipment\r\n\r\nDutch Oven\r\n\r\nInstructions\r\n \r\nAdd chicken thighs, all-purpose seasoning, 1 tablespoon of curry powder, onion, green onions, green pepper, garlic cloves, scotch bonnet pepper (if using), and thyme to a large bowl and combine, making sure all chicken pieces are covered with the seasoning. Cover and refrigerate for at least 1 hour or up to overnight.\r\nOne the chicken is done marinating, remove onions, peppers, and garlic cloves from chicken and set aside.\r\nHeat olive oil in a large heavy bottom pot over medium heat. Add remaining curry powder and stir, cooking for about 20-30 seconds. Add onions, green pepper, garlic cloves, thyme, and scotch bonnet pepper (if using) to pot and stir until onions have softened, about 3-5 minutes. If your onions and peppers are looking dry, add about 1 tablespoon of water.\r\nAdd chicken and ¼ cup of water to the pot. Cover and reduce heat to medium low. Cook, stirring occasionally, for 30-35 minutes.\r\nWhen there is about 15 minutes remaining, stir in potato and continue to cook covered.\r\nOnce chicken is cooked and potatoes are softened, remove from heat. Salt and pepper to taste.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/o5fuq51764789643.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Thighs",
+      "measurement": "2 Lbs",
+      "grams": 907,
+      "assumptions": "2 lbs bone-in skin-on chicken thighs; raw edible portion estimated at full weight as typical for recipe context"
+    },
+    {
+      "position": 2,
+      "name": "Curry Powder",
+      "measurement": "2 1/2 Tbs",
+      "grams": 15,
+      "assumptions": "2.5 tablespoons curry powder; standard density ~6 g/Tbsp, typical Jamaican blend"
+    },
+    {
+      "position": 3,
+      "name": "All-purpose Seasoning",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp all-purpose seasoning; typical blend density ~5 g/tsp"
+    },
+    {
+      "position": 4,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium chopped onion; ~110 g edible raw portion"
+    },
+    {
+      "position": 5,
+      "name": "Spring Onions",
+      "measurement": "3 chopped",
+      "grams": 45,
+      "assumptions": "3 chopped spring/green onions; ~15 g each edible raw portion"
+    },
+    {
+      "position": 6,
+      "name": "Green Pepper",
+      "measurement": "1/2",
+      "grams": 60,
+      "assumptions": "1/2 medium green bell pepper; ~60 g edible raw portion"
+    },
+    {
+      "position": 7,
+      "name": "Garlic",
+      "measurement": "4 Cloves Chopped",
+      "grams": 12,
+      "assumptions": "4 chopped garlic cloves; ~3 g each, raw"
+    },
+    {
+      "position": 8,
+      "name": "Scotch Bonnet",
+      "measurement": "1 chopped",
+      "grams": 10,
+      "assumptions": "1 chopped scotch bonnet pepper; typical small pepper ~10 g edible raw, assumed included despite 'if using'"
+    },
+    {
+      "position": 9,
+      "name": "Thyme",
+      "measurement": "3 sprigs",
+      "grams": 6,
+      "assumptions": "3 sprigs fresh thyme; ~2 g per sprig, leaves and tender stem edible portion"
+    },
+    {
+      "position": 10,
+      "name": "Olive Oil",
+      "measurement": "3  tablespoons",
+      "grams": 40,
+      "assumptions": "3 tablespoons olive oil; standard 13.3 g per Tbsp"
+    },
+    {
+      "position": 11,
+      "name": "Water",
+      "measurement": "1/4 cup",
+      "grams": 60,
+      "assumptions": "1/4 cup water plus 1 Tbsp as needed for saute; total estimated 60 g, contributes negligible macros"
+    },
+    {
+      "position": 12,
+      "name": "Russet Potato",
+      "measurement": "1 large",
+      "grams": 300,
+      "assumptions": "1 large russet potato; ~300 g peeled edible raw portion, added late in cooking"
+    },
+    {
+      "position": 13,
+      "name": "Salt",
+      "measurement": "To taste",
+      "grams": 2,
+      "assumptions": "Salt to taste; estimated 2 g typical usage, negligible macros"
+    },
+    {
+      "position": 14,
+      "name": "Pepper",
+      "measurement": "To taste",
+      "grams": 1,
+      "assumptions": "Pepper to taste; estimated 1 g typical usage, negligible macros"
+    }
+  ],
+  "nutrition": {
+    "calories": 2346.4,
+    "protein": 230,
+    "fat": 116.46,
+    "fiber": 16.4,
+    "carbs": 85.9
+  }
+}

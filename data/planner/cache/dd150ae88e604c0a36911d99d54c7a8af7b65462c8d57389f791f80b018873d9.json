@@ -1,0 +1,117 @@
+{
+  "id": "53234",
+  "name": "Salmon noodle soup",
+  "cuisine": "Vietnamese",
+  "fingerprint": "dd150ae88e604c0a36911d99d54c7a8af7b65462c8d57389f791f80b018873d9",
+  "yield": 4,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield of 4 inferred from explicit instruction to ladle into 4 bowls",
+    "Total time is sum of sequential cooking steps (8 min + 2 min + 3 min) plus negligible time to bring stock to boil",
+    "Gluten-free is null because soy sauce is typically brewed with wheat and rice noodles are sometimes processed with wheat starch; no certification mentioned",
+    "Shellfish is null because Thai red curry paste sometimes contains shrimp paste but is not explicitly listed as an ingredient",
+    "Peanuts is null because some Thai curry pastes contain trace peanuts but not declared here",
+    "Wheat is null because soy sauce usually contains wheat but some brands are wheat-free; rice noodles are usually but not always wheat-free",
+    "Sesame is null because some commercial curry pastes or soy sauces may contain trace sesame"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nPour the stock into a large pan, bring to the boil, then stir in the curry paste. Add the noodles and cook for 8 mins. Tip in the mushrooms and corn and cook for 2 mins more.\r\n\r\nstep 2\r\nAdd the salmon to the pan and cook for 3 mins or until cooked through. Remove from the heat and stir in the lime juice, soy sauce and a pinch of sugar. Ladle into 4 bowls and sprinkle over the coriander just before you serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ikizdm1763760862.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Stock",
+      "measurement": "1 L",
+      "grams": 1000,
+      "assumptions": "Standard chicken stock values for 1 L; negligible calories from fat and carbs in clear stock."
+    },
+    {
+      "position": 2,
+      "name": "Thai Red Curry Paste",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "Typical red Thai curry paste density ~5 g per tsp; values reflect average commercial paste."
+    },
+    {
+      "position": 3,
+      "name": "Rice Noodles",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Dry rice noodles as added before boiling; standard uncooked values."
+    },
+    {
+      "position": 4,
+      "name": "Shiitake Mushrooms",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Fresh shiitake mushrooms; typical raw edible portion."
+    },
+    {
+      "position": 5,
+      "name": "Sweetcorn",
+      "measurement": "125g",
+      "grams": 125,
+      "assumptions": "Canned or frozen sweetcorn kernels, drained weight; standard values."
+    },
+    {
+      "position": 6,
+      "name": "Salmon",
+      "measurement": "2",
+      "grams": 300,
+      "assumptions": "2 typical salmon fillets ~150 g each raw edible weight; Atlantic farmed salmon averages."
+    },
+    {
+      "position": 7,
+      "name": "Lime",
+      "measurement": "Juice of 2",
+      "grams": 30,
+      "assumptions": "Juice of 2 limes ≈ 60 ml / 60 g total; values for lime juice."
+    },
+    {
+      "position": 8,
+      "name": "Soy Sauce",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "Standard soy sauce, 1 tbsp ≈ 15 g; typical fermented values."
+    },
+    {
+      "position": 9,
+      "name": "Brown Sugar",
+      "measurement": "Pinch",
+      "grams": 2,
+      "assumptions": "Pinch of brown sugar assumed as 2 g for subtle sweetness; nearly pure sucrose."
+    },
+    {
+      "position": 10,
+      "name": "Coriander",
+      "measurement": "Bunch",
+      "grams": 25,
+      "assumptions": "A bunch of fresh coriander assumed as 25 g usable leaves and stems; typical herb values."
+    }
+  ],
+  "nutrition": {
+    "calories": 1049.35,
+    "protein": 88.23,
+    "fat": 25.29,
+    "fiber": 10.03,
+    "carbs": 121.65
+  }
+}

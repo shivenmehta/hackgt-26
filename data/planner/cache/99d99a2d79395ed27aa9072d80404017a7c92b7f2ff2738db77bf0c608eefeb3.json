@@ -1,0 +1,137 @@
+{
+  "id": "53008",
+  "name": "Stuffed Lamb Tomatoes",
+  "cuisine": "Greek",
+  "fingerprint": "99d99a2d79395ed27aa9072d80404017a7c92b7f2ff2738db77bf0c608eefeb3",
+  "yield": 4,
+  "minutes": 70,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 4 people (one large stuffed tomato per serving, standard for this style of Greek dish)",
+    "Total active and passive time estimated from instructions: ~10 min prep + 10 min onion/garlic cook + 15 min simmer + 35 min bake = 70 minutes",
+    "Gluten-free: all ingredients compatible; rice is assumed plain uncooked rice with no additives",
+    "Dairy-free: no milk or dairy products listed",
+    "No tree nuts, peanuts, sesame, fish, shellfish, eggs, milk, soy, or wheat listed or implied",
+    "Chicken stock assumed to be a basic stock without wheat/soy/sesame additives"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat oven to 180C/160C fan/gas 4. Slice the tops off the tomatoes and reserve. Scoop out most of the pulp with a teaspoon, being careful not to break the skin. Finely chop the pulp, and keep any juices. Sprinkle the insides of the tomatoes with a little sugar to take away the acidity, then place them on a baking tray.\r\n\r\nHeat 2 tbsp olive oil in a large frying pan, add the onion and garlic, then gently cook for about 10 mins until soft but not coloured. Add the lamb, cinnamon and tomato purée, turn up the heat, then fry until the meat is browned. Add the tomato pulp and juice, the rice and the stock. Season generously. Bring to the boil, then simmer for 15 mins or until the rice is tender and the liquid has been absorbed. Set aside to cool a little, then stir in the herbs.\r\n\r\nStuff the tomatoes up to the brim, top tomatoes with their lids, drizzle with 2 tbsp more olive oil, sprinkle 3 tbsp water into the tray, then bake for 35 mins. Serve with salad and crusty bread, hot or cold.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/u55lbp1585564013.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Tomatoes",
+      "measurement": "4 large",
+      "grams": 800,
+      "assumptions": "4 large tomatoes, each ~200g raw; standard medium-large tomato size used for Greek stuffed tomato recipes"
+    },
+    {
+      "position": 2,
+      "name": "Sugar",
+      "measurement": "Pinch",
+      "grams": 2,
+      "assumptions": "Pinch of sugar estimated at 2g; typical small pinch amount for 4 tomatoes to reduce acidity"
+    },
+    {
+      "position": 3,
+      "name": "Olive Oil",
+      "measurement": "4 tbs",
+      "grams": 54,
+      "assumptions": "4 tbsp olive oil total (2 tbsp for frying + 2 tbsp for drizzling); 1 tbsp = 13.5g"
+    },
+    {
+      "position": 4,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 chopped medium onion, standard 110g raw weight"
+    },
+    {
+      "position": 5,
+      "name": "Garlic Clove",
+      "measurement": "2 finely chopped",
+      "grams": 6,
+      "assumptions": "2 finely chopped garlic cloves, each ~3g raw"
+    },
+    {
+      "position": 6,
+      "name": "Lamb",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "200g raw minced/ground lamb as listed; typical values for raw lamb shoulder mince"
+    },
+    {
+      "position": 7,
+      "name": "Cinnamon",
+      "measurement": "1 tbs",
+      "grams": 8,
+      "assumptions": "1 tbsp ground cinnamon; typical density ~8g per tbsp"
+    },
+    {
+      "position": 8,
+      "name": "Tomato Puree",
+      "measurement": "2 tbs chopped",
+      "grams": 30,
+      "assumptions": "2 tbsp tomato puree/paste; 1 tbsp ~15g, typical concentrated values"
+    },
+    {
+      "position": 9,
+      "name": "Rice",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "50g uncooked white rice as listed; typical long-grain rice values"
+    },
+    {
+      "position": 10,
+      "name": "Chicken Stock",
+      "measurement": "100ml",
+      "grams": 100,
+      "assumptions": "100ml chicken stock; typical ready-to-use stock values, ~1:1 ml-to-g density"
+    },
+    {
+      "position": 11,
+      "name": "Dill",
+      "measurement": "4 tbs",
+      "grams": 20,
+      "assumptions": "4 tbsp chopped fresh dill; 1 tbsp ~5g, typical fresh herb density"
+    },
+    {
+      "position": 12,
+      "name": "Chopped Parsley",
+      "measurement": "2 tbs",
+      "grams": 10,
+      "assumptions": "2 tbsp chopped fresh parsley; 1 tbsp ~5g, typical fresh herb density"
+    },
+    {
+      "position": 13,
+      "name": "Mint",
+      "measurement": "1 tbs",
+      "grams": 5,
+      "assumptions": "1 tbsp chopped fresh mint; 1 tbsp ~5g, typical fresh herb density"
+    }
+  ],
+  "nutrition": {
+    "calories": 1336.3,
+    "protein": 49.41,
+    "fat": 86.54,
+    "fiber": 18.68,
+    "carbs": 100.24
+  }
+}

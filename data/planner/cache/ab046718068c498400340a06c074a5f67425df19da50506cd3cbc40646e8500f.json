@@ -1,0 +1,180 @@
+{
+  "id": "52873",
+  "name": "Beef Dumpling Stew",
+  "cuisine": "British",
+  "fingerprint": "ab046718068c498400340a06c074a5f67425df19da50506cd3cbc40646e8500f",
+  "yield": 4,
+  "minutes": 160,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 4 as indicated by 'four serving plates' in instructions.",
+    "Total time estimated from instructions: ~10 min prep + 5 min browning + 5 min veg + 120 min oven stew + 5 min dumpling prep + 20 min final oven = 165 min; rounded conservatively to 160 min active+passive prep/cook time.",
+    "Butter classified as dairy (Milk allergen true).",
+    "Plain flour (wheat) in both stew and dumplings (Wheat allergen true).",
+    "Suet is animal-derived beef fat (incompatible with Vegetarian/Vegan).",
+    "Beef and beef stock are animal-derived (incompatible with Vegetarian/Vegan/Pescatarian).",
+    "No eggs, fish, shellfish, tree nuts, peanuts, soy, or sesame listed; set to null where presence is ambiguous or unmentioned."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Preheat the oven to 180C/350F/Gas 4.\r\n\r\nFor the beef stew, heat the oil and butter in an ovenproof casserole and fry the beef until browned on all sides.\r\n\r\nSprinkle over the flour and cook for a further 2-3 minutes.\r\n\r\nAdd the garlic and all the vegetables and fry for 1-2 minutes.\r\n\r\nStir in the wine, stock and herbs, then add the Worcestershire sauce and balsamic vinegar, to taste. Season with salt and freshly ground black pepper.\r\n\r\nCover with a lid, transfer to the oven and cook for about two hours, or until the meat is tender.\r\n\r\nFor the dumplings, sift the flour, baking powder and salt into a bowl.\r\nAdd the suet and enough water to form a thick dough.\r\n\r\nWith floured hands, roll spoonfuls of the dough into small balls.\r\n\r\nAfter two hours, remove the lid from the stew and place the balls on top of the stew. Cover, return to the oven and cook for a further 20 minutes, or until the dumplings have swollen and are tender. (If you prefer your dumplings with a golden top, leave the lid off when returning to the oven.)\r\n\r\nTo serve, place a spoonful of mashed potato onto each of four serving plates and top with the stew and dumplings. Sprinkle with chopped parsley.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/uyqrrv1511553350.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "2 tbs",
+      "grams": 27,
+      "assumptions": "2 tbs olive oil estimated at 27g using standard tablespoon density of ~13.5g per tbs for oil; fully used in frying."
+    },
+    {
+      "position": 2,
+      "name": "Butter",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "Butter given as 25g; standard butter nutrition applied directly."
+    },
+    {
+      "position": 3,
+      "name": "Beef",
+      "measurement": "750g",
+      "grams": 750,
+      "assumptions": "750g beef stewing/chuck (raw weight) used in casserole; typical British stewing beef values for raw edible portion."
+    },
+    {
+      "position": 4,
+      "name": "Plain Flour",
+      "measurement": "2 tblsp",
+      "grams": 16,
+      "assumptions": "2 tblsp plain flour estimated at ~16g (8g per level tbsp); standard white wheat flour values."
+    },
+    {
+      "position": 5,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 cloves garlic minced estimated at 6g total; standard raw garlic nutrition."
+    },
+    {
+      "position": 6,
+      "name": "Onions",
+      "measurement": "175g",
+      "grams": 175,
+      "assumptions": "175g onions (raw weight); typical yellow onion values, peeled and chopped as per instructions."
+    },
+    {
+      "position": 7,
+      "name": "Celery",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "150g celery (raw weight); standard raw celery nutrition, trimmed."
+    },
+    {
+      "position": 8,
+      "name": "Carrots",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "150g carrots (raw weight); standard raw carrot values, peeled and chopped."
+    },
+    {
+      "position": 9,
+      "name": "Leek",
+      "measurement": "2 chopped",
+      "grams": 180,
+      "assumptions": "2 chopped leeks estimated at 180g total (90g per medium leek); raw edible portion after trimming."
+    },
+    {
+      "position": 10,
+      "name": "Swede",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "200g swede/rutabaga (raw weight); standard raw swede nutrition, peeled and chopped."
+    },
+    {
+      "position": 11,
+      "name": "Red Wine",
+      "measurement": "150ml",
+      "grams": 150,
+      "assumptions": "150ml red wine (density ~1g/ml so 150g); typical dry red wine values, alcohol contributes to calories."
+    },
+    {
+      "position": 12,
+      "name": "Beef Stock",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "500g beef stock interpreted as prepared liquid stock (500ml ~500g); low-calorie stock values typical for British beef stock."
+    },
+    {
+      "position": 13,
+      "name": "Bay Leaf",
+      "measurement": "2",
+      "grams": 1,
+      "assumptions": "2 bay leaves estimated at ~1g total; negligible nutrition contribution, treated as 0 per100g."
+    },
+    {
+      "position": 14,
+      "name": "Thyme",
+      "measurement": "3 tbs",
+      "grams": 9,
+      "assumptions": "3 tbs dried thyme estimated at 9g (3g per tbsp for dried herb); typical dried thyme values."
+    },
+    {
+      "position": 15,
+      "name": "Parsley",
+      "measurement": "3 tblsp chopped",
+      "grams": 12,
+      "assumptions": "3 tblsp chopped parsley estimated at 12g (4g per tbsp chopped fresh); standard fresh parsley nutrition, added to taste at end."
+    },
+    {
+      "position": 16,
+      "name": "Plain Flour",
+      "measurement": "125g",
+      "grams": 125,
+      "assumptions": "125g plain flour for dumplings; standard white wheat flour values."
+    },
+    {
+      "position": 17,
+      "name": "Baking Powder",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "1 tsp baking powder estimated at 4g; typical values for baking powder."
+    },
+    {
+      "position": 18,
+      "name": "Suet",
+      "measurement": "60g",
+      "grams": 60,
+      "assumptions": "60g suet (beef suet); standard shredded suet nutrition for British dumplings."
+    },
+    {
+      "position": 19,
+      "name": "Water",
+      "measurement": "Splash",
+      "grams": 60,
+      "assumptions": "Splash of water for dumpling dough estimated at 60g (plausible amount to form thick dough from 125g flour + 60g suet); water adds 0 nutrients."
+    }
+  ],
+  "nutrition": {
+    "calories": 3854.09,
+    "protein": 226.26,
+    "fat": 221.26,
+    "fiber": 25.72,
+    "carbs": 197.43
+  }
+}

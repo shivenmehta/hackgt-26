@@ -1,0 +1,164 @@
+{
+  "id": "52952",
+  "name": "Beef Lo Mein",
+  "cuisine": "Chinese",
+  "fingerprint": "719acda7544b341fe723a0cd771eac91bd5d91e288c6da561f7bb0d462a2eb7d",
+  "yield": 2,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated at 2 servings based on total quantities of beef (0.5 lb) and noodles (0.25 lb dry), typical for stir-fry recipes of this scale serving 2 adults.",
+    "Preparation time estimated at 30 minutes: ~5 min marinade, ~10 min boil/rinse noodles, ~15 min stir-fry and sauce assembly; video and steps indicate quick high-heat cooking.",
+    "Oyster sauce classified as shellfish allergen (true) due to typical oyster content; null for fish as no explicit fish ingredients.",
+    "Egg classified as present (true) from 1/2 egg in marinade; wheat from noodles and soy sauce; sesame from sesame oil; soy from soy sauce.",
+    "Dairy-free true as no milk, cheese, or dairy-derived items listed; vegetarian/vegan/pescatarian false due to beef and oyster sauce."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1 - MARINATING THE BEEF\r\nIn a bowl, add the beef, salt, 1 pinch white pepper, 1 Teaspoon sesame seed oil, 1/2 egg, corn starch,1 Tablespoon of oil and mix together.\r\nSTEP 2 - BOILING THE THE NOODLES\r\nIn a 6 qt pot add your noodles to boiling water until the noodles are submerged and boil on high heat for 10 seconds. After your noodles is done boiling strain and cool with cold water.\r\nSTEP 3 - STIR FRY\r\nAdd 2 Tablespoons of oil, beef and cook on high heat untill beef is medium cooked.\r\nSet the cooked beef aside\r\nIn a wok add 2 Tablespoon of oil, onions, minced garlic, minced ginger, bean sprouts, mushrooms, peapods and 1.5 cups of water or until the vegetables are submerged in water.\r\nAdd the noodles to wok\r\nTo make the sauce, add oyster sauce, 1 pinch white pepper, 1 teaspoon sesame seed oil, sugar, and 1 Teaspoon of soy sauce.\r\nNext add the beef to wok and stir-fry",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef",
+      "measurement": "1/2 lb",
+      "grams": 227,
+      "assumptions": "1/2 lb raw beef (flank or similar cut for stir-fry); typical values for raw beef used in Chinese recipes"
+    },
+    {
+      "position": 2,
+      "name": "Salt",
+      "measurement": "pinch",
+      "grams": 1,
+      "assumptions": "pinch of salt estimated at 1g; contributes negligible macros"
+    },
+    {
+      "position": 3,
+      "name": "Pepper",
+      "measurement": "pinch",
+      "grams": 1,
+      "assumptions": "pinch of white pepper estimated at 1g; contributes negligible macros"
+    },
+    {
+      "position": 4,
+      "name": "Sesame Seed Oil",
+      "measurement": "2 tsp",
+      "grams": 9,
+      "assumptions": "total 2 tsp sesame oil across recipe (1 tsp in marinade + 1 tsp in sauce); standard density ~4.5g per tsp"
+    },
+    {
+      "position": 5,
+      "name": "Egg",
+      "measurement": "1/2",
+      "grams": 25,
+      "assumptions": "1/2 large egg ~25g edible portion; typical large egg is 50g without shell"
+    },
+    {
+      "position": 6,
+      "name": "Starch",
+      "measurement": "3 tbs",
+      "grams": 24,
+      "assumptions": "3 tbs cornstarch ~24g; standard 8g per tablespoon"
+    },
+    {
+      "position": 7,
+      "name": "Oil",
+      "measurement": "5 tbs",
+      "grams": 60,
+      "assumptions": "total 5 tbs neutral cooking oil (1 tbs in marinade + 2 tbs for beef + 2 tbs for vegetables); ~12g per tablespoon assumed"
+    },
+    {
+      "position": 8,
+      "name": "Noodles",
+      "measurement": "1/4 lb",
+      "grams": 113,
+      "assumptions": "1/4 lb dry wheat lo mein noodles; typical dry Chinese egg/wheat noodle values"
+    },
+    {
+      "position": 9,
+      "name": "Onion",
+      "measurement": "1/2 cup",
+      "grams": 80,
+      "assumptions": "1/2 cup sliced onion ~80g; standard volume-to-weight for raw onion"
+    },
+    {
+      "position": 10,
+      "name": "Minced Garlic",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp minced garlic ~5g; typical density for fresh minced garlic"
+    },
+    {
+      "position": 11,
+      "name": "Ginger",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp minced ginger ~2g; typical density for fresh minced ginger root"
+    },
+    {
+      "position": 12,
+      "name": "Bean Sprouts",
+      "measurement": "1 cup",
+      "grams": 105,
+      "assumptions": "1 cup mung bean sprouts ~105g; standard volume-to-weight for fresh bean sprouts"
+    },
+    {
+      "position": 13,
+      "name": "Mushrooms",
+      "measurement": "1 cup",
+      "grams": 70,
+      "assumptions": "1 cup sliced fresh mushrooms (shiitake or button) ~70g; typical for stir-fry context"
+    },
+    {
+      "position": 14,
+      "name": "Water",
+      "measurement": "1 cup",
+      "grams": 237,
+      "assumptions": "1.5 cups water estimated at 355ml/355g but adjusted to listed 1 cup (237g) for vegetables; water adds 0 macros"
+    },
+    {
+      "position": 15,
+      "name": "Oyster Sauce",
+      "measurement": "1 tbs",
+      "grams": 18,
+      "assumptions": "1 tbs oyster sauce ~18g; typical bottled values"
+    },
+    {
+      "position": 16,
+      "name": "Sugar",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "1 tsp granulated sugar ~4g; standard density"
+    },
+    {
+      "position": 17,
+      "name": "Soy Sauce",
+      "measurement": "1 tsp",
+      "grams": 6,
+      "assumptions": "1 tsp regular soy sauce ~6g; typical density for thin soy sauce"
+    }
+  ],
+  "nutrition": {
+    "calories": 1813.06,
+    "protein": 82.94,
+    "fat": 108.54,
+    "fiber": 7.95,
+    "carbs": 124.23
+  }
+}

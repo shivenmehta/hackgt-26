@@ -1,0 +1,152 @@
+{
+  "id": "52849",
+  "name": "Spinach & Ricotta Cannelloni",
+  "cuisine": "Italian",
+  "fingerprint": "93c7dee7c0c27e2de242628bb20279be1571d7fcb5e4795720a3a7b7538eaf65",
+  "yield": 6,
+  "minutes": 80,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical cannelloni recipes using ~1kg spinach + 750g ricotta filling for 18-24 tubes, divided across 2+ dishes, yielding 6 adult portions",
+    "Preparation time summed from explicit steps (tomato sauce simmer 20 min + wilting/chopping/mixing + oven preheat/bake 30-35 min + 5 min stand) plus ~15 min estimated for frying, dividing sauces, filling tubes, and assembly",
+    "'Cannellini Beans' treated as listed but conservatively assumed non-core to dish (possible error for cannelloni tubes); does not affect vegetarian classification",
+    "Wheat: null because cannelloni tubes are traditional durum wheat pasta but not explicitly listed in ingredients",
+    "Eggs: null because pasta may contain egg but not explicitly listed",
+    "Mascarpone, milk, Parmesan (x2), mozzarella, and ricotta confirm dairy presence",
+    "No tree nuts, peanuts, fish, shellfish, or sesame in listed ingredients"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "First make the tomato sauce. Heat the oil in a large pan and fry the garlic for 1 min. Add the sugar, vinegar, tomatoes and some seasoning and simmer for 20 mins, stirring occasionally, until thick. Add the basil and divide the sauce between 2 or more shallow ovenproof dishes (see Tips for freezing, below). Set aside. Make a sauce by beating the mascarpone with the milk until smooth, season, then set aside.\r\n\r\nPut the spinach in a large colander and pour over a kettle of boiling water to wilt it (you may need to do this in batches). When cool enough to handle squeeze out the excess water. Roughly chop the spinach and mix in a large bowl with 100g Parmesan and ricotta. Season well with salt, pepper and the nutmeg.\r\n\r\nHeat oven to 200C/180C fan/gas 6. Using a piping bag or plastic food bag with the corner snipped off, squeeze the filling into the cannelloni tubes. Lay the tubes, side by side, on top of the tomato sauce and spoon over the mascarpone sauce. Top with Parmesan and mozzarella. You can now freeze the cannelloni, uncooked, or you can cook it first and then freeze. Bake for 30-35 mins until golden and bubbling. Remove from oven and let stand for 5 mins before serving.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "3 tbsp",
+      "grams": 40.5,
+      "assumptions": "3 tbsp olive oil (standard 13.5g per tbsp)"
+    },
+    {
+      "position": 2,
+      "name": "Garlic",
+      "measurement": "8 cloves chopped",
+      "grams": 24,
+      "assumptions": "8 cloves garlic (approx 3g per clove)"
+    },
+    {
+      "position": 3,
+      "name": "Caster Sugar",
+      "measurement": "3 tbsp",
+      "grams": 37.5,
+      "assumptions": "3 tbsp caster sugar (standard 12.5g per tbsp)"
+    },
+    {
+      "position": 4,
+      "name": "Red Wine Vinegar",
+      "measurement": "2 tblsp",
+      "grams": 30,
+      "assumptions": "2 tbsp red wine vinegar (standard 15g per tbsp)"
+    },
+    {
+      "position": 5,
+      "name": "Chopped Tomatoes",
+      "measurement": "3 400g Cans",
+      "grams": 1200,
+      "assumptions": "3 x 400g cans chopped tomatoes (total net weight)"
+    },
+    {
+      "position": 6,
+      "name": "Basil Leaves",
+      "measurement": "Bunch",
+      "grams": 30,
+      "assumptions": "1 bunch fresh basil leaves (typical 30g bunch)"
+    },
+    {
+      "position": 7,
+      "name": "Mascarpone",
+      "measurement": "2 tubs",
+      "grams": 500,
+      "assumptions": "2 standard 250g tubs mascarpone (total 500g)"
+    },
+    {
+      "position": 8,
+      "name": "Milk",
+      "measurement": "3 tbsp",
+      "grams": 45,
+      "assumptions": "3 tbsp milk (standard 15g per tbsp)"
+    },
+    {
+      "position": 9,
+      "name": "Parmesan",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "85g Parmesan (as listed)"
+    },
+    {
+      "position": 10,
+      "name": "Mozzarella",
+      "measurement": "2 sliced",
+      "grams": 250,
+      "assumptions": "2 standard 125g balls mozzarella, sliced (total 250g)"
+    },
+    {
+      "position": 11,
+      "name": "Spinach",
+      "measurement": "1kg",
+      "grams": 1000,
+      "assumptions": "1kg fresh spinach (raw weight; wilting reduces volume but edible weight approx same after squeezing)"
+    },
+    {
+      "position": 12,
+      "name": "Parmesan",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "100g Parmesan (as listed)"
+    },
+    {
+      "position": 13,
+      "name": "Ricotta",
+      "measurement": "3 tubs",
+      "grams": 750,
+      "assumptions": "3 standard 250g tubs ricotta (total 750g)"
+    },
+    {
+      "position": 14,
+      "name": "Nutmeg",
+      "measurement": "pinch",
+      "grams": 2,
+      "assumptions": "pinch nutmeg estimated as 2g ground (plausible small amount for seasoning)"
+    },
+    {
+      "position": 15,
+      "name": "Cannellini Beans",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "400g cannellini beans (drained weight; plausible total for recipe despite unusual placement)"
+    }
+  ],
+  "nutrition": {
+    "calories": 6572.11,
+    "protein": 315.74,
+    "fat": 470.95,
+    "fiber": 65.38,
+    "carbs": 283.35
+  }
+}

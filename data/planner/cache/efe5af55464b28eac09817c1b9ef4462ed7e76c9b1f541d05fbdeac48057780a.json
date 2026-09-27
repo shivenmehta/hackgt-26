@@ -1,0 +1,95 @@
+{
+  "id": "53041",
+  "name": "Grilled Portuguese sardines",
+  "cuisine": "Portuguese",
+  "fingerprint": "efe5af55464b28eac09817c1b9ef4462ed7e76c9b1f541d05fbdeac48057780a",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 4 based on 8 sardines (2 per person, standard for main course seafood dish)",
+    "Total preparation and cooking time estimated at 20 minutes (10 min active steps + 4-5 min per side grilling; chilling time excluded as not active prep)",
+    "All ingredients screened as listed; no barley/rye/wheat/oats present for gluten-free classification",
+    "No dairy, eggs, tree nuts, peanuts, soy, or sesame listed",
+    "Fish allergen present due to sardines; shellfish absent as sardines are finfish",
+    "Chilli assumed to be fresh red chilli with no compound sauce or hidden allergens"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1\r\n\r\nPut all of the ingredients, except the sardines, into a bowl and mix together with some seasoning. Pour into a baking dish, add the sardines and toss really well. Cover and chill for a few hours.\r\n\r\nSTEP 2\r\n\r\nHeat a BBQ or griddle pan until hot. Cook the sardines for 4-5 minutes on each side or until really caramelised and charred. Put onto a serving plate, drizzle with oil, sprinkle with a little more paprika and squeeze over the lemon wedges.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sardines",
+      "measurement": "8",
+      "grams": 800,
+      "assumptions": "8 whole fresh sardines, each ~100g raw edible weight including bones (common package size for this recipe); nutrition for raw sardines"
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "2 tbs",
+      "grams": 27,
+      "assumptions": "2 tbs olive oil = 27g (standard tablespoon is ~13.5g)"
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "3 cloves",
+      "grams": 9,
+      "assumptions": "3 cloves garlic = 9g peeled weight"
+    },
+    {
+      "position": 4,
+      "name": "Paprika",
+      "measurement": "1 tbs",
+      "grams": 7,
+      "assumptions": "1 tbs paprika = 7g (standard tablespoon for ground spice)"
+    },
+    {
+      "position": 5,
+      "name": "Lemon",
+      "measurement": "1/2",
+      "grams": 50,
+      "assumptions": "1/2 lemon = 50g with peel (typical small lemon half used for zest/juice and wedges); whole recipe usage"
+    },
+    {
+      "position": 6,
+      "name": "Rosemary",
+      "measurement": "4 sprigs",
+      "grams": 8,
+      "assumptions": "4 sprigs fresh rosemary = 8g (plausible small sprigs for marinade)"
+    },
+    {
+      "position": 7,
+      "name": "Red Chilli",
+      "measurement": "1",
+      "grams": 30,
+      "assumptions": "1 whole red chilli = 30g (medium fresh chilli, fully used in marinade)"
+    }
+  ],
+  "nutrition": {
+    "calories": 1972.81,
+    "protein": 202.8,
+    "fat": 120.69,
+    "fiber": 5.5,
+    "carbs": 15.91
+  }
+}

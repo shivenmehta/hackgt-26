@@ -1,0 +1,176 @@
+{
+  "id": "53368",
+  "name": "Singapore Noodles with Shrimp",
+  "cuisine": "Chinese",
+  "fingerprint": "a0000daf8c32f5ad68631d0ad96bd4a257cf330e6e299ee4e6497704224f961a",
+  "yield": 4,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Recipe instructions describe a single skillet preparation for the full listed ingredient quantities, indicating one complete batch.",
+    "Yield estimated at 4 servings based on typical stir-fry noodle recipes with 6oz dry noodles + 0.5lb shrimp + substantial vegetables for 4 moderate adult portions.",
+    "Preparation time summed from explicit instruction timings (sauce 1min, boil noodles 2min, scramble eggs 2min, vegetables 2min, remaining ingredients 4min, combine noodles 2min) plus estimated prep (chopping vegetables, whisking, draining) totaling ~30 minutes active time.",
+    "Ground ginger listed as 2 tblsp interpreted conservatively as 2 tsp to align with realistic usage and provided 12g estimate; does not affect classification.",
+    "Peanut or canola oil mentioned in instructions but not in ingredients list; conservatively classified as ambiguous for peanut allergen (null).",
+    "Soy sauce classified as containing wheat (ambiguous without 'tamari' or 'gluten-free' label).",
+    "Curry powder classified as ambiguous for wheat (possible anti-caking agents).",
+    "Shrimp classified as shellfish; fish allergen left null as not all fish are shellfish and no specific fish present.",
+    "Ham classified as pork (incompatible with vegetarian/vegan).",
+    "No dairy ingredients present."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "For the sweet onion, look for Vidalia, OSO Sweet, or Walla Walla. The super-sweet varieties are more suited to this stir-fry because at the end of cooking, the onion still has a slight crunch.\r\n\r\nMake the sauce:\r\nIn a bowl, combine the sesame oil, soy sauce, and rice vinegar.\r\n\r\nCook the rice noodles:\r\nBring a large saucepan of water to a boil, add the noodles, and use tongs to turn them so they are submerged. Cook for 2 minutes, or until they are tender but still have some bite (they will cook a little more once you add them to the skillet).\r\n\r\nDrain, rinse with cold water, and use scissors to snip the noodles several times to break them up into shorter lengths.\r\n\r\nScramble the eggs:\r\nIn a small bowl whisk together the eggs. Heat the skillet or Dutch oven over medium heat. Add 1 tablespoon of the peanut or canola oil. Add the eggs and scramble them for 2 minutes, or until they form large, soft curds. Transfer them from the pan to a plate or bowl.\r\n\r\nCook the vegetables:\r\nAdd 1 tablespoon of the remaining oil to the pan. When it is hot, add the ginger, garlic, carrots, jalapeño, onion, and salt. Cook, stirring constantly, for 2 minutes or until the vegetables start to soften.\r\n\r\nAdd the remaining ingredients:\r\nSprinkle the vegetable mixture with the remaining 1 tablespoon peanut or canola oil. When the oil is hot, add the ham, cabbage, scallions, red pepper, and curry powder to the pan. Cook, stirring constantly, for 1 minute.\r\n\r\nAdd the shrimp and cook, stirring, for 3 more minutes or until the shrimp are bright pink and cooked through.\r\n\r\nAdd the noodles in batches:\r\nAdd the eggs, the sauce mixture, and half the noodles to the pan. Toss for 1 minute.\r\n\r\nAdd the remaining noodles and continue tossing for 1 minute more until they are thoroughly combined and the mixture is heated through.\r\n\r\nServe:\r\nTaste for seasoning and add more salt or soy sauce, if you like. Sprinkle with cilantro leaves and serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/f3cxnc1765656994.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sesame Seed Oil",
+      "measurement": "2 tsp",
+      "grams": 9,
+      "assumptions": "2 tsp sesame oil estimated at 9g using standard oil density; full fat oil values."
+    },
+    {
+      "position": 2,
+      "name": "Soy Sauce",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "2 tbsp regular soy sauce estimated at 30g using typical bottle nutrition for Chinese-style soy sauce."
+    },
+    {
+      "position": 3,
+      "name": "Seasoned Rice Vinegar",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "2 tbsp seasoned rice vinegar estimated at 30g; assumes typical sweetened variety with added sugar."
+    },
+    {
+      "position": 4,
+      "name": "Vermicelli Rice Noodles",
+      "measurement": "6 oz",
+      "grams": 170,
+      "assumptions": "6 oz (170g) dry vermicelli rice noodles; standard uncooked rice noodle package values used as recipe starts with dry noodles."
+    },
+    {
+      "position": 5,
+      "name": "Egg",
+      "measurement": "2 large",
+      "grams": 100,
+      "assumptions": "2 large eggs estimated at 100g total edible portion using standard large egg nutrition."
+    },
+    {
+      "position": 6,
+      "name": "Ground Ginger",
+      "measurement": "2 tblsp",
+      "grams": 12,
+      "assumptions": "2 tbsp ground ginger estimated at 12g using typical dried spice density and nutrition."
+    },
+    {
+      "position": 7,
+      "name": "Garlic",
+      "measurement": "1 clove finely chopped",
+      "grams": 3,
+      "assumptions": "1 clove garlic finely chopped estimated at 3g using average clove size."
+    },
+    {
+      "position": 8,
+      "name": "Carrots",
+      "measurement": "2",
+      "grams": 122,
+      "assumptions": "2 medium carrots estimated at 122g total raw edible weight."
+    },
+    {
+      "position": 9,
+      "name": "Jalapeno",
+      "measurement": "1 sliced",
+      "grams": 45,
+      "assumptions": "1 sliced jalapeño estimated at 45g using average whole pepper weight including seeds."
+    },
+    {
+      "position": 10,
+      "name": "Onion",
+      "measurement": "1/2",
+      "grams": 55,
+      "assumptions": "1/2 sweet onion (Vidalia-type) estimated at 55g raw edible portion."
+    },
+    {
+      "position": 11,
+      "name": "Salt",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "1/2 tsp salt estimated at 3g; pure salt contributes zero macros."
+    },
+    {
+      "position": 12,
+      "name": "Ham",
+      "measurement": "4 oz",
+      "grams": 113,
+      "assumptions": "4 oz ham estimated at 113g using typical cooked ham slice values."
+    },
+    {
+      "position": 13,
+      "name": "Napa Cabbage",
+      "measurement": "1/2",
+      "grams": 340,
+      "assumptions": "1/2 head napa cabbage estimated at 340g raw edible weight based on average small head size."
+    },
+    {
+      "position": 14,
+      "name": "Scallions",
+      "measurement": "4",
+      "grams": 60,
+      "assumptions": "4 scallions estimated at 60g total raw weight using typical bunch portions."
+    },
+    {
+      "position": 15,
+      "name": "Red Pepper",
+      "measurement": "1/2",
+      "grams": 60,
+      "assumptions": "1/2 red bell pepper estimated at 60g raw edible weight."
+    },
+    {
+      "position": 16,
+      "name": "Curry Powder",
+      "measurement": "2 tsp",
+      "grams": 4,
+      "assumptions": "2 tsp curry powder estimated at 4g using standard spice blend nutrition."
+    },
+    {
+      "position": 17,
+      "name": "Shrimp",
+      "measurement": "1/2 lb",
+      "grams": 227,
+      "assumptions": "1/2 lb (227g) raw shrimp; assumes peeled, deveined, edible tail-off portion with standard raw shrimp values."
+    },
+    {
+      "position": 18,
+      "name": "Cilantro Leaves",
+      "measurement": "2 tablespoons",
+      "grams": 5,
+      "assumptions": "2 tbsp cilantro leaves estimated at 5g using typical fresh herb volume-to-weight conversion."
+    }
+  ],
+  "nutrition": {
+    "calories": 1426.85,
+    "protein": 103.77,
+    "fat": 33.34,
+    "fiber": 19,
+    "carbs": 188.56
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "52850",
+  "name": "Chicken Couscous",
+  "cuisine": "Moroccan",
+  "fingerprint": "103f30bda0a7d994f600d84da6404fc78604d4aff47155dce30b3f50f64924cd",
+  "yield": 2,
+  "minutes": 25,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from total dry ingredients (approx. 200g couscous + 200g chicken + vegetables) and typical one-pan Moroccan couscous portion size of 350-450g cooked per serving for a main meal.",
+    "Preparation time summed from explicit instruction steps (onion 2 min + chicken 10 min + harissa 1 min + soak 5 min) plus 7 min for prep/chopping/ grating, rounded to nearest 5 min interval.",
+    "Couscous contains wheat (durum semolina); wheat allergen true, gluten-free false.",
+    "Harissa may contain sesame or other undeclared allergens in some blends, left null.",
+    "No dairy, eggs, fish, shellfish, tree nuts or peanuts in listed ingredients.",
+    "Chicken stock assumed to be a prepared liquid without undisclosed allergens or animal products beyond chicken."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat the olive oil in a large frying pan and cook the onion for 1-2 mins just until softened. Add the chicken and fry for 7-10 mins until cooked through and the onions have turned golden. Grate over the ginger, stir through the harissa to coat everything and cook for 1 min more.\r\n\r\nTip in the apricots, chickpeas and couscous, then pour over the stock and stir once. Cover with a lid or tightly cover the pan with foil and leave for about 5 mins until the couscous has soaked up all the stock and is soft. Fluff up the couscous with a fork and scatter over the coriander to serve. Serve with extra harissa, if you like.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "1 tbsp",
+      "grams": 13.6,
+      "assumptions": "Standard olive oil density ~0.91 g/ml; 1 tbsp = 13.6 g. Pure fat, so protein/carbs/fiber zero."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "Medium onion ~110 g when chopped; typical raw white/yellow onion values used."
+    },
+    {
+      "position": 3,
+      "name": "Chicken Breast",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Raw boneless skinless chicken breast; values reflect typical raw state before cooking."
+    },
+    {
+      "position": 4,
+      "name": "Ginger",
+      "measurement": "pinch",
+      "grams": 2,
+      "assumptions": "Pinch of grated fresh ginger estimated at 2 g (small amount for flavor in one-pan dish); typical raw ginger root values."
+    },
+    {
+      "position": 5,
+      "name": "Harissa Spice",
+      "measurement": "2 tblsp",
+      "grams": 30,
+      "assumptions": "2 tablespoons harissa paste/spice blend estimated at ~15 g per tbsp; typical North African harissa values used (calories from oil/spices)."
+    },
+    {
+      "position": 6,
+      "name": "Dried Apricots",
+      "measurement": "10",
+      "grams": 40,
+      "assumptions": "10 dried apricots average ~4 g each (small/medium size common in recipes); typical unsulfured dried apricot values."
+    },
+    {
+      "position": 7,
+      "name": "Chickpeas",
+      "measurement": "220g",
+      "grams": 220,
+      "assumptions": "220 g canned chickpeas, drained weight (common can size yields ~220-240 g drained); values for drained chickpeas."
+    },
+    {
+      "position": 8,
+      "name": "Couscous",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Dry couscous (absorbs the 200 ml stock); standard uncooked durum wheat couscous values."
+    },
+    {
+      "position": 9,
+      "name": "Chicken Stock",
+      "measurement": "200ml",
+      "grams": 200,
+      "assumptions": "200 ml chicken stock ~200 g (density ~1 g/ml); typical low-sodium prepared stock values (mostly water)."
+    },
+    {
+      "position": 10,
+      "name": "Coriander",
+      "measurement": "Handful",
+      "grams": 10,
+      "assumptions": "Handful of fresh coriander (cilantro) estimated at 10 g (typical garnish amount); standard fresh herb values."
+    }
+  ],
+  "nutrition": {
+    "calories": 1810.66,
+    "protein": 114.74,
+    "fat": 31.8,
+    "fiber": 35.65,
+    "carbs": 263.24
+  }
+}

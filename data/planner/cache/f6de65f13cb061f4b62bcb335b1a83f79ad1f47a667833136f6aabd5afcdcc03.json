@@ -1,0 +1,108 @@
+{
+  "id": "53044",
+  "name": "Portuguese barbecued pork (Febras assadas)",
+  "cuisine": "Portuguese",
+  "fingerprint": "f6de65f13cb061f4b62bcb335b1a83f79ad1f47a667833136f6aabd5afcdcc03",
+  "yield": 5,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": null
+  },
+  "allergens": {
+    "Milk": null,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 2 pork tenderloins cut into 5 equal pieces (5 servings total) plus 1kg potatoes for chips.",
+    "Mayonnaise assumed to contain egg (common in standard recipes); no dairy specified so left null.",
+    "No wheat, barley, rye or oats listed so gluten-free is true.",
+    "No explicit dairy ingredients but mayonnaise type is ambiguous so dairy-free left null.",
+    "Preparation time summed from all steps: marinating 20-30min, chip soaking 10min, blanching/frying ~20min, pork grilling ~5min, plus prep/cutting ~15min; rounded to nearest 5min increment."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1\r\n\r\nCut the tenderloins into 5 equal-size pieces leaving the tail ends a little longer. Take a clear plastic bag and slip one of the pieces in. Bash it into an escalope the size of a side-plate with a rolling pin and repeat with the remaining pieces.\r\n\r\nSTEP 2\r\n\r\nPut the wine, paprika, some salt and pepper and the juice of ½ a lemon in a bowl and add the pork. Leave to marinate for 20-30 minutes, while you get your barbecue to the stage where the coals are glowing but there are no flames.\r\n\r\nSTEP 3\r\n\r\nTo make the chips, fill a basin with cool water and cut the potatoes into 3cm-thick chips. Soak them in the water for 5 minutes and then change the water. Leave for 5 more minutes. Drain and then pat dry on a towel or with kitchen paper.\r\n\r\nSTEP 4\r\n\r\nHeat the oil in a deep fryer or a deep heavy-based pan with a lid to 130C and lower the chips into the oil (in batches). Blanch for 8-10 minutes. Remove from the oil and drain well. Place on a tray to cool. Reheat the oil to 180C (make sure it’s hot or your chips will be soggy) and lower the basket of chips into the oil (again, do this in batches). Leave to cook for 2 minutes and then give them a little shake. Cook for another minute or so until they are well coloured and crisp to the touch. Drain well for a few minutes, tip into a bowl and sprinkle with sea salt.\r\n\r\nSTEP 5\r\n\r\nThe pork will cook quickly so do it in 2 batches. Take the pieces out of the marinade, rub them with oil, and drop them onto the barbecue (you could also use a chargrill). Cook for 1 minute on each side – they may flare up as you do so. This should really be enough time as they will keep on cooking. Take them off the barbecue and pile onto a plate. Repeat with the remaining batch.\r\n\r\nSTEP 6\r\n\r\nServe by piling a plate with chips, drop the pork on top of each pile and pouring the juices from the plate over so the chips take up the flavours. Top with a spoon of mayonnaise and a wedge of lemon.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/cybyue1614349443.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Pork",
+      "measurement": "2",
+      "grams": 1000,
+      "assumptions": "2 pork tenderloins estimated at ~500g each edible raw weight; typical pork tenderloin nutrition used."
+    },
+    {
+      "position": 2,
+      "name": "White Wine",
+      "measurement": "200ml",
+      "grams": 200,
+      "assumptions": "200ml white wine assumed to weigh ~200g; typical dry white wine values used."
+    },
+    {
+      "position": 3,
+      "name": "Paprika",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "1/2 tsp paprika estimated at 3g; typical smoked or sweet paprika values used."
+    },
+    {
+      "position": 4,
+      "name": "Lemon",
+      "measurement": "2",
+      "grams": 200,
+      "assumptions": "2 whole lemons estimated at 200g total edible portion (pulp/juice/zest); typical lemon nutrition used."
+    },
+    {
+      "position": 5,
+      "name": "Lemon Juice",
+      "measurement": "1/2",
+      "grams": 24,
+      "assumptions": "Juice of 1/2 lemon estimated at ~24g (typical half-lemon yield); lemon juice nutrition used."
+    },
+    {
+      "position": 6,
+      "name": "Olive Oil",
+      "measurement": "Dash",
+      "grams": 15,
+      "assumptions": "Dash of olive oil for rubbing estimated at 15g (1 tbsp plausible amount for 5 pork pieces); typical olive oil values used."
+    },
+    {
+      "position": 7,
+      "name": "Mayonnaise",
+      "measurement": "To serve",
+      "grams": 60,
+      "assumptions": "Mayonnaise to serve estimated at 60g total (12g per portion for 5 servings); typical full-fat mayonnaise values used."
+    },
+    {
+      "position": 8,
+      "name": "Potatoes",
+      "measurement": "1 kg",
+      "grams": 1000,
+      "assumptions": "1 kg potatoes used as raw weight before peeling/cutting (edible portion ~90-100%); typical raw potato nutrition used."
+    },
+    {
+      "position": 9,
+      "name": "Vegetable Oil",
+      "measurement": "For frying",
+      "grams": 40,
+      "assumptions": "Vegetable oil for frying estimated at 40g absorbed across all chips (typical 4% absorption for double-fried chips from 1kg potatoes); typical vegetable oil values used."
+    }
+  ],
+  "nutrition": {
+    "calories": 3329.94,
+    "protein": 233.52,
+    "fat": 164.99,
+    "fiber": 28.72,
+    "carbs": 197.8
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "52976",
+  "name": "Cashew Ghoriba Biscuits",
+  "cuisine": "Tunisian",
+  "fingerprint": "5e9408c9cd2be60b71058be9afcf0d2a9e69d2be33f2bca265cdad3f3864eb29",
+  "yield": 12,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical Tunisian ghoriba/ghoriba biscuit recipes using ~500g total nuts for 12-24 pieces; conservatively 12 servings assuming 2 biscuits per serving.",
+    "Preparation time is sum of explicit bake (20 min) plus estimated mixing/shaping/rolling steps (~15 min).",
+    "Vegetarian: compatible with all ingredients including eggs.",
+    "Vegan: incompatible due to egg yolks.",
+    "Pescatarian: compatible (no meat/fish).",
+    "Gluten-free: no barley/rye/wheat/oats present.",
+    "Dairy-free: no milk/dairy ingredients.",
+    "Allergens: Eggs from listed yolks; Tree nuts from cashews and almonds (confidently present); others confidently absent or null if trace risk possible but unlisted.",
+    "Icing sugar for glaze conservatively classified as additional sugar, not altering classifications.",
+    "Orange blossom water treated as non-allergenic flavoring."
+  ],
+  "categories": [],
+  "instructions": "Preheat the oven at 180 C / Gas 4. Line a baking tray with greaseproof paper.\r\nIn a bowl, mix the cashews and icing sugar. Add the egg yolks and orange blossom water and mix to a smooth homogeneous paste.\r\nTake lumps of the cashew paste and shape into small balls. Roll the balls in icing sugar and transfer to the baking tray. Push an almond in the centre of each ghribia.\r\nBake until the biscuits are lightly golden, about 20 minutes. Keep an eye on them, they burn quickly.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/t3r3ka1560461972.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Cashew Nuts",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Raw cashew nuts, as listed; standard USDA-like values for whole cashews."
+    },
+    {
+      "position": 2,
+      "name": "Icing Sugar",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Standard powdered white sugar (icing sugar); nearly 100% carbohydrate."
+    },
+    {
+      "position": 3,
+      "name": "Egg Yolks",
+      "measurement": "2",
+      "grams": 34,
+      "assumptions": "2 large egg yolks ≈ 34 g total; typical values for raw egg yolk."
+    },
+    {
+      "position": 4,
+      "name": "Orange Blossom Water",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tablespoons orange blossom water ≈ 30 g; treated as water with negligible macros (aromatic, zero-calorie)."
+    },
+    {
+      "position": 5,
+      "name": "Icing Sugar",
+      "measurement": "To Glaze",
+      "grams": 50,
+      "assumptions": "Extra icing sugar for glazing/rolling; plausible 50 g used based on typical cookie recipes (not listed as exact quantity)."
+    },
+    {
+      "position": 6,
+      "name": "Almonds",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Whole almonds, as listed; standard values for raw almonds with skin."
+    }
+  ],
+  "nutrition": {
+    "calories": 2649.78,
+    "protein": 72.11,
+    "fat": 168.66,
+    "fiber": 20.75,
+    "carbs": 248.32
+  }
+}

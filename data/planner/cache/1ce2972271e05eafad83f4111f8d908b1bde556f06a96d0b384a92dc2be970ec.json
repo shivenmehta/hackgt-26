@@ -1,0 +1,137 @@
+{
+  "id": "52940",
+  "name": "Brown Stew Chicken",
+  "cuisine": "Jamaican",
+  "fingerprint": "1ce2972271e05eafad83f4111f8d908b1bde556f06a96d0b384a92dc2be970ec",
+  "yield": 6,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated at 6 servings based on 1 whole chicken (typical for family-sized Jamaican stew recipes) plus vegetables and sauce volume.",
+    "Total time is sum of minimum 60 min marination + active prep/browning ~10 min + 10 min simmer + 20 min final cook; passive marination included as preparation.",
+    "Gluten-free is null because cornstarch is used but soy sauce is typically fermented with wheat (not certified gluten-free).",
+    "Dairy-free is true as no milk, butter, or dairy-derived ingredients are present.",
+    "Tree nuts is null because 'vegetable oil' type is unspecified and could include peanut or tree-nut oils in some contexts, though unlikely.",
+    "Wheat is null because soy sauce commonly contains wheat but is not explicitly labeled as such here."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Squeeze lime over chicken and rub well. Drain off excess lime juice.\r\nCombine tomato, scallion, onion, garlic, pepper, thyme, pimento and soy sauce in a large bowl with the chicken pieces. Cover and marinate at least one hour.\r\nHeat oil in a dutch pot or large saucepan. Shake off the seasonings as you remove each piece of chicken from the marinade. Reserve the marinade for sauce.\r\nLightly brown the chicken a few pieces at a time in very hot oil. Place browned chicken pieces on a plate to rest while you brown the remaining pieces.\r\nDrain off excess oil and return the chicken to the pan. Pour the marinade over the chicken and add the carrots. Stir and cook over medium heat for 10 minutes.\r\nMix flour and coconut milk and add to stew, stirring constantly. Turn heat down to minimum and cook another 20 minutes or until tender.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken",
+      "measurement": "1 whole",
+      "grams": 1150,
+      "assumptions": "1 whole chicken estimated at 2.5 lb / 1134 g raw edible yield after removing giblets and excess bone; typical broiler chicken values used, raw with skin."
+    },
+    {
+      "position": 2,
+      "name": "Tomato",
+      "measurement": "1 chopped",
+      "grams": 123,
+      "assumptions": "1 medium tomato chopped, typical weight 123 g raw."
+    },
+    {
+      "position": 3,
+      "name": "Onions",
+      "measurement": "2 chopped",
+      "grams": 220,
+      "assumptions": "2 medium onions chopped, 110 g each, raw."
+    },
+    {
+      "position": 4,
+      "name": "Garlic Clove",
+      "measurement": "2 chopped",
+      "grams": 6,
+      "assumptions": "2 cloves garlic, typical 6 g total, raw."
+    },
+    {
+      "position": 5,
+      "name": "Red Pepper",
+      "measurement": "1 chopped",
+      "grams": 119,
+      "assumptions": "1 medium red bell pepper chopped, typical 119 g raw."
+    },
+    {
+      "position": 6,
+      "name": "Carrots",
+      "measurement": "1 chopped",
+      "grams": 61,
+      "assumptions": "1 medium carrot chopped, typical 61 g raw."
+    },
+    {
+      "position": 7,
+      "name": "Lime",
+      "measurement": "1",
+      "grams": 67,
+      "assumptions": "1 whole lime, typical 67 g with some juice squeezed and discarded per instructions."
+    },
+    {
+      "position": 8,
+      "name": "Thyme",
+      "measurement": "2 tsp",
+      "grams": 4,
+      "assumptions": "2 tsp dried thyme leaves, typical 4 g total."
+    },
+    {
+      "position": 9,
+      "name": "Allspice",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp ground allspice (pimento), typical 2 g."
+    },
+    {
+      "position": 10,
+      "name": "Soy Sauce",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tbs regular soy sauce, typical 30 g total."
+    },
+    {
+      "position": 11,
+      "name": "Cornstarch",
+      "measurement": "2 tsp",
+      "grams": 5,
+      "assumptions": "2 tsp cornstarch (listed as such despite instructions mentioning flour), typical 5 g total; used as thickener."
+    },
+    {
+      "position": 12,
+      "name": "Coconut Milk",
+      "measurement": "2 cups",
+      "grams": 480,
+      "assumptions": "2 cups canned full-fat coconut milk, typical 480 g total."
+    },
+    {
+      "position": 13,
+      "name": "Vegetable Oil",
+      "measurement": "1 tbs",
+      "grams": 14,
+      "assumptions": "1 tbs vegetable oil for browning, typical 14 g; all oil assumed absorbed or retained in final dish per recipe context."
+    }
+  ],
+  "nutrition": {
+    "calories": 3276.02,
+    "protein": 231.95,
+    "fat": 224.8,
+    "fiber": 13.59,
+    "carbs": 72.74
+  }
+}

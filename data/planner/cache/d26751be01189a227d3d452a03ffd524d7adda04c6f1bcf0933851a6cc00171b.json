@@ -1,0 +1,88 @@
+{
+  "id": "53261",
+  "name": "Chicken wings with cumin, lemon & garlic",
+  "cuisine": "Turkish",
+  "fingerprint": "d26751be01189a227d3d452a03ffd524d7adda04c6f1bcf0933851a6cc00171b",
+  "yield": 4,
+  "minutes": 70,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 4 as a starter or light main (3 wings per person); typical for similar BBC Good Food chicken wing recipes",
+    "Total time includes minimum 1hr marinating + 45-50min oven baking (using the longer oven method as primary instruction); excludes optional overnight marinating or barbecue alternative",
+    "No gluten-containing ingredients listed; assumes no cross-contamination",
+    "No dairy, eggs, fish, or shellfish listed",
+    "Tree nuts and sesame left null due to suggested serving accompaniments (pistachios/almonds, flatbreads) that are not in the core recipe ingredients",
+    "Honey treated as non-vegan"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nUsing a pair of sharp kitchen scissors, cut each wing at the knuckle into two pieces. Mix the garlic, lemon zest and juice, cumin and oil with plenty of seasoning, then tip into a dish with the chicken wings and toss to coat. Cover and put in the fridge to marinate for at least 1 hr, or overnight if you have time.\r\n\r\nstep 2\r\nHeat oven to 200C/180C fan/gas 6, or heat an outdoor barbecue. Bake the chicken wings on an oven tray for 45-50 mins until crisp, or barbecue for 20 mins, drizzling over the honey for the final 10 mins of each method. Serve on a platter with plenty of paper napkins. Fill small bowls with olives, pistachios or almonds, dates and pickled chillies and flatbreads to serve alongside, along with the dishes below.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/4hzyvq1763792564.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Wings",
+      "measurement": "12",
+      "grams": 1200,
+      "assumptions": "12 whole raw chicken wings at ~100g each including bone and skin; typical value for raw chicken wing with skin"
+    },
+    {
+      "position": 2,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves minced; ~3g per clove"
+    },
+    {
+      "position": 3,
+      "name": "Lemon",
+      "measurement": "Zest and juice of 1",
+      "grams": 100,
+      "assumptions": "Zest and juice of 1 medium lemon; whole lemon ~100g edible portion estimate for combined zest/juice contribution"
+    },
+    {
+      "position": 4,
+      "name": "Cumin Seeds",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp cumin seeds; ~2g per tsp"
+    },
+    {
+      "position": 5,
+      "name": "Olive Oil",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "2 tablespoons olive oil; standard 15g per tbsp"
+    },
+    {
+      "position": 6,
+      "name": "Honey",
+      "measurement": "1 tablespoon",
+      "grams": 21,
+      "assumptions": "1 tablespoon honey; standard 21g per tbsp"
+    }
+  ],
+  "nutrition": {
+    "calories": 2774.48,
+    "protein": 217.91,
+    "fat": 198.77,
+    "fiber": 3.19,
+    "carbs": 29.39
+  }
+}

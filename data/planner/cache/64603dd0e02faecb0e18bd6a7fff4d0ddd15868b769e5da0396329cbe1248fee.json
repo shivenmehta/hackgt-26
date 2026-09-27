@@ -1,0 +1,105 @@
+{
+  "id": "52771",
+  "name": "Spicy Arrabiata Penne",
+  "cuisine": "Italian",
+  "fingerprint": "64603dd0e02faecb0e18bd6a7fff4d0ddd15868b769e5da0396329cbe1248fee",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical pasta recipe proportions (1 lb dry pasta yields ~4 main-dish servings).",
+    "Total time is sum of sequential steps: pasta boil ~9 min + sauce ~6 min, with overlap assumed; prep ~5 min added conservatively.",
+    "'1 tin' chopped tomatoes classified as 400g standard can (tomatoes only, no added non-vegan ingredients).",
+    "Italian seasoning and red chilli flakes assumed spice-only (no hidden allergens or animal products).",
+    "Basil is fresh leaves (no allergens).",
+    "'Sprinkling' Parmigiano-Reggiano conservatively classified as dairy cheese (milk allergen present).",
+    "Penne rigate classified as wheat-based pasta (gluten and wheat present).",
+    "Olive oil, garlic classified as vegan/vegetarian with no allergens.",
+    "No fish, shellfish, tree nuts, peanuts, soy, sesame, or eggs in listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes.\r\nIn a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil.\r\nDrain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "penne rigate",
+      "measurement": "1 pound",
+      "grams": 454,
+      "assumptions": "Standard dry penne rigate; 1 lb = 454 g dry weight before cooking."
+    },
+    {
+      "position": 2,
+      "name": "olive oil",
+      "measurement": "1/4 cup",
+      "grams": 54,
+      "assumptions": "1/4 cup olive oil weighs approximately 54 g; pure olive oil values used."
+    },
+    {
+      "position": 3,
+      "name": "garlic",
+      "measurement": "3 cloves",
+      "grams": 9,
+      "assumptions": "3 average garlic cloves total ~9 g; raw garlic values."
+    },
+    {
+      "position": 4,
+      "name": "chopped tomatoes",
+      "measurement": "1 tin",
+      "grams": 400,
+      "assumptions": "Standard 400 g tin of chopped tomatoes (undrained weight used as typical for recipe)."
+    },
+    {
+      "position": 5,
+      "name": "red chilli flakes",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "1/2 tsp red chilli flakes ≈ 1 g; typical dried chili flake nutrition."
+    },
+    {
+      "position": 6,
+      "name": "italian seasoning",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "1/2 tsp Italian seasoning ≈ 1 g; typical dried herb blend values."
+    },
+    {
+      "position": 7,
+      "name": "basil",
+      "measurement": "6 leaves",
+      "grams": 6,
+      "assumptions": "6 fresh basil leaves total ≈ 6 g; fresh basil values."
+    },
+    {
+      "position": 8,
+      "name": "Parmigiano-Reggiano",
+      "measurement": "sprinkling",
+      "grams": 10,
+      "assumptions": "Sprinkling of Parmigiano-Reggiano estimated at 10 g (about 2 tbsp flakes); typical hard cheese values."
+    }
+  ],
+  "nutrition": {
+    "calories": 2349.52,
+    "protein": 69.62,
+    "fat": 64.51,
+    "fiber": 23.36,
+    "carbs": 373.17
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "53255",
+  "name": "Grilled aubergines with spicy chickpeas & walnut sauce",
+  "cuisine": "Turkish",
+  "fingerprint": "6bd21254c25225265b570c01f66c67ffd73faf9fd8a3f145f2cfe0957b66632c",
+  "yield": 4,
+  "minutes": 40,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical BBC Good Food / similar Turkish mezze-style recipes with 2 aubergines + 400g chickpeas serving 4 as a light main or substantial starter",
+    "Total time is sum of sequential steps (onion/chickpea sauce ~20 min + aubergine grilling ~10-15 min + sauce mixing ~5 min); parallel prep possible but conservatively totalled",
+    "Greek yogurt definitively contains milk",
+    "Walnuts definitively contain tree nuts",
+    "No wheat, eggs, fish, shellfish, peanuts, soy or sesame listed or implied",
+    "Coriander, tomatoes, lemon, aubergine, chickpeas, spices and olive oil are compatible with all listed diets except where dairy conflicts",
+    "'Handful' coriander conservatively classified as leaves only (no stalks that might introduce ambiguity)",
+    "Red chilli assumed fresh, not a compound sauce",
+    "All gram weights from provided data used only for classification, not for yield or time"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat 2 tbsp oil in a pan, add the onion and fry until soft and lightly browned, about 10 mins. Add the chilli, ginger and spices and mix well. Stir in the chickpeas, tomatoes and 5 tbsp water, bring to the boil, then simmer for 10 mins. Add a little salt and pepper and the lemon juice.\r\n\r\nstep 2\r\nArrange the aubergines over a grill pan. Brush lightly with oil, sprinkle with salt and pepper, then grill until golden. Flip them over, brush again with oil, season and grill again until tender and golden.\r\n\r\nstep 3\r\nMix the yogurt with the garlic, most of the walnuts and coriander and a little salt and pepper. Arrange the aubergine slices over a warm platter and spoon over the chickpea mix. Drizzle with the walnut sauce and scatter with the remaining walnuts and coriander.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ctw3ba1763788978.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "4 tablespoons",
+      "grams": 54,
+      "assumptions": "4 tbsp olive oil (standard 13.5g per tbsp; used in both onion/chickpea fry and aubergine brushing per instructions)."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium chopped onion, typical edible weight ~110g."
+    },
+    {
+      "position": 3,
+      "name": "Red Chilli",
+      "measurement": "1 chopped",
+      "grams": 45,
+      "assumptions": "1 chopped red chilli, typical medium size ~45g."
+    },
+    {
+      "position": 4,
+      "name": "Ginger",
+      "measurement": "2cm piece",
+      "grams": 10,
+      "assumptions": "2cm piece of ginger, typical peeled weight ~10g."
+    },
+    {
+      "position": 5,
+      "name": "Ground Cumin",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "1/2 tsp ground cumin; standard density ~2g per tsp so 1g total."
+    },
+    {
+      "position": 6,
+      "name": "Chickpeas",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "400g chickpeas, drained weight from standard can as used in recipe."
+    },
+    {
+      "position": 7,
+      "name": "Tomato",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "200g tomatoes (canned or fresh chopped per context)."
+    },
+    {
+      "position": 8,
+      "name": "Lemon",
+      "measurement": "Juice of 1/2",
+      "grams": 15,
+      "assumptions": "Juice of 1/2 lemon; typical yield ~15-20g, using 15g."
+    },
+    {
+      "position": 9,
+      "name": "Aubergine",
+      "measurement": "2",
+      "grams": 600,
+      "assumptions": "2 medium aubergines; typical whole edible weight 300g each, total 600g (grilled with minimal oil already counted in pos 1)."
+    },
+    {
+      "position": 10,
+      "name": "Greek Yogurt",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "200g Greek yogurt (full-fat standard)."
+    },
+    {
+      "position": 11,
+      "name": "Garlic Clove",
+      "measurement": "1",
+      "grams": 3,
+      "assumptions": "1 garlic clove, typical peeled weight ~3g."
+    },
+    {
+      "position": 12,
+      "name": "Walnuts",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "25g walnuts (as measured; split between sauce and garnish per instructions)."
+    },
+    {
+      "position": 13,
+      "name": "Coriander",
+      "measurement": "Handful",
+      "grams": 15,
+      "assumptions": "Handful of coriander leaves; typical fresh herb handful ~10-20g, using 15g for both mixing and scattering."
+    }
+  ],
+  "nutrition": {
+    "calories": 1658.88,
+    "protein": 68.21,
+    "fat": 93,
+    "fiber": 53.45,
+    "carbs": 164.73
+  }
+}

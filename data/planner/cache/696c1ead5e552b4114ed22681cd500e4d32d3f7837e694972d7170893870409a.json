@@ -1,0 +1,124 @@
+{
+  "id": "52862",
+  "name": "Peach & Blueberry Grunt",
+  "cuisine": "American",
+  "fingerprint": "696c1ead5e552b4114ed22681cd500e4d32d3f7837e694972d7170893870409a",
+  "yield": 6,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical fruit grunt/cobbler recipes with ~1.5kg fruit and biscuit topping yielding 6 moderate dessert portions",
+    "Total time is sum of prep (sauce ~10min, dough/rolling ~10min) and bake (20-25min) rounded to nearest 5min; instructions imply sequential steps",
+    "Self-raising flour contains wheat; not certified gluten-free",
+    "Milk and butter present, so not vegan or dairy-free",
+    "No eggs, fish, shellfish, tree nuts, peanuts, soy, or sesame listed",
+    "Cornflour treated as corn starch (no wheat); caster/muscovado sugars are vegan",
+    "Orange zest/juice, peaches, blueberries, and cinnamon are plant-based and compatible with all listed diets where not already false"
+  ],
+  "categories": [],
+  "instructions": "Heat oven to 190C/170C fan/gas 5. Butter a wide shallow ovenproof dish. Blend the cornflour with the orange zest and juice, and put in a large pan with the sugar. Halve, stone and slice the peaches and add to the pan. Bring slowly to the boil, stirring gently until the sauce is shiny and thickened, about 3-4 mins. Remove from the heat, stir in the blueberries and tip into the prepared dish.\r\nTip the flour into a mixing bowl and add the 50g butter. Rub the butter into the flour until it resembles fine breadcrumbs, then stir in half the sugar. Mix the remaining sugar with the cinnamon and set aside.\r\nAdd the milk to the dry ingredients and mix to a soft dough. Turn out onto a lightly floured surface and knead briefly. Roll out to an oblong roughly 16 x 24cm. Brush with melted butter and sprinkle evenly with the spicy sugar. Roll up from one long side and cut into 12 slices. Arrange around the top of the dish, leaving the centre uncovered.\r\nBake for 20-25 mins, until the topping is crisp and golden. Serve warm.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ssxvup1511387476.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Corn Flour",
+      "measurement": "1 tsp",
+      "grams": 3,
+      "assumptions": "1 tsp cornflour (corn starch) weighs ~3g; typical dry values used."
+    },
+    {
+      "position": 2,
+      "name": "Orange",
+      "measurement": "Juice of 2",
+      "grams": 200,
+      "assumptions": "Juice of 2 medium oranges ≈ 200 ml / 200 g; typical orange juice values used."
+    },
+    {
+      "position": 3,
+      "name": "Orange",
+      "measurement": "Zest of 1",
+      "grams": 6,
+      "assumptions": "Zest of 1 medium orange ≈ 6 g; nutrients approximated from orange peel data, low contribution."
+    },
+    {
+      "position": 4,
+      "name": "Caster Sugar",
+      "measurement": "2 tbs",
+      "grams": 25,
+      "assumptions": "2 tablespoons caster sugar ≈ 25 g; pure sucrose values used."
+    },
+    {
+      "position": 5,
+      "name": "Peaches",
+      "measurement": "6",
+      "grams": 900,
+      "assumptions": "6 medium peaches (halved, stoned, sliced) ≈ 900 g total edible portion; typical raw peach values, assuming flesh only."
+    },
+    {
+      "position": 6,
+      "name": "Blueberries",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "250 g blueberries as listed; typical raw values used."
+    },
+    {
+      "position": 7,
+      "name": "Self-raising Flour",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "200 g self-raising flour as listed; typical UK self-raising flour values used."
+    },
+    {
+      "position": 8,
+      "name": "Butter",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "50 g butter as listed; typical unsalted butter values used."
+    },
+    {
+      "position": 9,
+      "name": "Muscovado Sugar",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "100 g muscovado sugar as listed; typical dark brown sugar values used."
+    },
+    {
+      "position": 10,
+      "name": "Cinnamon",
+      "measurement": "1 tsp",
+      "grams": 3,
+      "assumptions": "1 tsp ground cinnamon ≈ 3 g; typical spice values used."
+    },
+    {
+      "position": 11,
+      "name": "Milk",
+      "measurement": "6 tblsp",
+      "grams": 90,
+      "assumptions": "6 tablespoons milk (whole) ≈ 90 g / ml; typical whole milk values used."
+    }
+  ],
+  "nutrition": {
+    "calories": 2190.3,
+    "protein": 33.31,
+    "fat": 48.15,
+    "fiber": 31.06,
+    "carbs": 425.97
+  }
+}

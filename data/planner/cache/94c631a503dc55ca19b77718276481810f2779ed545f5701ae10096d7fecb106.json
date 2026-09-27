@@ -1,0 +1,114 @@
+{
+  "id": "52973",
+  "name": "Leblebi Soup",
+  "cuisine": "Tunisian",
+  "fingerprint": "94c631a503dc55ca19b77718276481810f2779ed545f5701ae10096d7fecb106",
+  "yield": 4,
+  "minutes": 75,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical chickpea soup recipes using 250g dry chickpeas and 1.5L stock, which usually serves 4 adults as a main dish.",
+    "Total time is sum of active prep (onion dicing, toasting/grinding cumin, garlic paste, seasoning ~15 min) plus two sequential 30-min simmering periods; no overlap assumed.",
+    "Harissa classified as ambiguous for sesame (many blends contain it, but not specified here).",
+    "All other classifications based strictly on listed ingredients with no unlisted sauces or compounds assumed present."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat the oil in a large pot. Add the onion and cook until translucent.\r\nDrain the soaked chickpeas and add them to the pot together with the vegetable stock. Bring to the boil, then reduce the heat and cover. Simmer for 30 minutes.\r\nIn the meantime toast the cumin in a small ungreased frying pan, then grind them in a mortar. Add the garlic and salt and pound to a fine paste.\r\nAdd the paste and the harissa to the soup and simmer until the chickpeas are tender, about 30 minutes.\r\nSeason to taste with salt, pepper and lemon juice and serve hot.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "2 tbs",
+      "grams": 27,
+      "assumptions": "Standard olive oil; 1 tbsp = 13.5g so 2 tbsp = 27g."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 medium finely diced",
+      "grams": 110,
+      "assumptions": "Medium onion is ~110g edible portion after peeling and dicing."
+    },
+    {
+      "position": 3,
+      "name": "Chickpeas",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Dry chickpeas (soaked then cooked in soup); nutrition for dry weight as listed."
+    },
+    {
+      "position": 4,
+      "name": "Vegetable Stock",
+      "measurement": "1.5L",
+      "grams": 1500,
+      "assumptions": "Standard vegetable stock/broth; low-calorie commercial or homemade average."
+    },
+    {
+      "position": 5,
+      "name": "Cumin",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Ground cumin seeds; 1 tsp ≈ 2g."
+    },
+    {
+      "position": 6,
+      "name": "Garlic",
+      "measurement": "5 cloves",
+      "grams": 15,
+      "assumptions": "5 average garlic cloves ≈ 15g peeled."
+    },
+    {
+      "position": 7,
+      "name": "Salt",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "Table salt; 1/2 tsp ≈ 3g, contributes negligible macros."
+    },
+    {
+      "position": 8,
+      "name": "Harissa Spice",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Harissa spice blend (chili-based); 1 tsp ≈ 2g, typical dry mix values."
+    },
+    {
+      "position": 9,
+      "name": "Pepper",
+      "measurement": "Pinch",
+      "grams": 0.5,
+      "assumptions": "Pinch of black pepper ≈ 0.5g, contributes negligible macros."
+    },
+    {
+      "position": 10,
+      "name": "Lime",
+      "measurement": "1/2",
+      "grams": 45,
+      "assumptions": "Half a lime (juice only, ~45g juice from 90g fruit); typical citrus values."
+    }
+  ],
+  "nutrition": {
+    "calories": 1381.03,
+    "protein": 61.8,
+    "fat": 44.42,
+    "fiber": 35.96,
+    "carbs": 189.6
+  }
+}

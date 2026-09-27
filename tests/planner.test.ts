@@ -13,7 +13,7 @@ import { sampleRecipes } from "../src/lib/sample-recipes";
 const prefs: Preferences = {
   ...parsePreferences({
     ...initialDraft,
-    location: "Atlanta",
+    location: "30318",
     age: "24",
     bmi: "22",
   }),
@@ -23,7 +23,7 @@ test("validates required fields, positivity, finite numbers and whole numbers", 
   assert.deepEqual(
     validatePreferences({
       ...initialDraft,
-      location: "Atlanta",
+      location: "30318",
       age: "24",
       bmi: "22",
     }),
@@ -40,7 +40,7 @@ test("validates required fields, positivity, finite numbers and whole numbers", 
     assert.ok(
       validatePreferences({
         ...initialDraft,
-        location: "Atlanta",
+        location: "30318",
         age: "24",
         bmi: "22",
         [key]: "",
@@ -71,7 +71,7 @@ test("hard dietary and allergen filters never relax for cuisine", () => {
     ...prefs,
     diets: ["Vegan", "Gluten-free"],
     allergens: ["Soy", "Sesame", "Tree nuts"],
-    cuisines: ["Mediterranean"],
+    cuisines: ["Greek"],
   };
   const plan = buildSamplePlan(p, sampleRecipes, now);
   assert.equal(plan.days.length, 7);

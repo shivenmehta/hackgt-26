@@ -1,0 +1,119 @@
+{
+  "id": "53154",
+  "name": "Clam, chorizo & white bean stew",
+  "cuisine": "Spanish",
+  "fingerprint": "8c4ce8ff52c990a2ecdd93104a5696f379656687343d01fd85df4b4044420573",
+  "yield": 4,
+  "minutes": 25,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield of 4 based on standard BBC Good Food recipe scaling for this dish (chorizo, 600g clams, 400g each tomatoes/beans, 200ml stock) and 'to serve' bread quantity implying multiple portions.",
+    "Total time estimated from instructions: ~5 min chorizo/onion, +1 min garlic/parsley, +10 min simmer, +2-4 min clams = ~20 min active plus ~5 min prep, rounded to 25 min.",
+    "Parsley bunch split between cooking and garnish but counted as single ingredient line.",
+    "Clams classified as shellfish allergen source; no dairy, eggs, fish, nuts, peanuts, or soy detected.",
+    "Wheat from 'crusty bread to serve' (standard wheat bread assumed); recipe otherwise wheat-free but not gluten-free due to bread and possible chorizo/bean processing.",
+    "No tree nuts, peanuts, soy, milk, eggs, or fish in listed ingredients.",
+    "Vegetable stock assumed standard commercial or homemade without animal/fish additives.",
+    "Sherry vinegar treated as vinegar with no allergens.",
+    "Butter beans and tinned tomatoes are plain canned items without additives that would introduce allergens."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nFry the chorizo in a large frying pan with a lid, over a medium heat until it is starting to crisp up and release its oil. Add the onion and cook for 5 mins until starting to soften. Then add the garlic and finely chopped parsley, and fry for 1 min more.\r\n\r\nstep 2\r\nPour on the stock and tomatoes. Bring to the boil, reduce the heat, then add the beans and sherry vinegar. Simmer for 10 mins until the liquid is slightly reduced.\r\n\r\nstep 3\r\nScatter over the clams, cover with the lid and steam for 2-4 mins, shaking the pan occasionally until the clams are open. Have a little taste before seasoning, as the clams can be quite salty. Then scatter over the chopped parsley. Eat with lots of crusty bread.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/92wbmf1763252334.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chorizo",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Standard cured Spanish chorizo sausage, typical values for 50g portion used as starting ingredient."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "Medium onion (approx 110g), chopped; standard raw onion values."
+    },
+    {
+      "position": 3,
+      "name": "Garlic Clove",
+      "measurement": "1",
+      "grams": 6,
+      "assumptions": "One average garlic clove weighing ~6g; raw garlic values."
+    },
+    {
+      "position": 4,
+      "name": "Parsley",
+      "measurement": "Bunch",
+      "grams": 25,
+      "assumptions": "A typical 'bunch' of fresh parsley used in cooking (approx 25g total, including stalks); values for fresh parsley leaves and stems. Half is fried early, half scattered at end but entire amount is the ingredient line."
+    },
+    {
+      "position": 5,
+      "name": "Vegetable Stock",
+      "measurement": "200ml",
+      "grams": 200,
+      "assumptions": "200ml vegetable stock made from concentrate or cube; typical low-calorie stock values."
+    },
+    {
+      "position": 6,
+      "name": "Tinned Tomatos",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "400g tin of chopped/plum tomatoes including juice; standard drained weight approx 360g but entire can contents used as listed."
+    },
+    {
+      "position": 7,
+      "name": "Butter Beans",
+      "measurement": "400g",
+      "grams": 260,
+      "assumptions": "400g tin of butter beans, drained weight approx 260g (standard for this size can); values for cooked/drained beans."
+    },
+    {
+      "position": 8,
+      "name": "Sherry vinegar",
+      "measurement": "1 teaspoon",
+      "grams": 5,
+      "assumptions": "1 teaspoon sherry vinegar (approx 5g); negligible macros, treated as vinegar."
+    },
+    {
+      "position": 9,
+      "name": "Clams",
+      "measurement": "600g",
+      "grams": 600,
+      "assumptions": "600g fresh clams in shell (typical for stew); values for raw clams (edible portion after cooking/opening, but entire line weight used per instruction). Recipe context implies live clams steamed until open."
+    },
+    {
+      "position": 10,
+      "name": "Crusty Bread",
+      "measurement": "To serve",
+      "grams": 100,
+      "assumptions": "Crusty bread 'to serve' for 4 people; plausible assumption of 100g total bread (e.g. 25g per serving of French-style bread) used to mop up stew as described."
+    }
+  ],
+  "nutrition": {
+    "calories": 1502.94,
+    "protein": 138.66,
+    "fat": 32.4,
+    "fiber": 29.56,
+    "carbs": 167.3
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "53298",
+  "name": "Polish doughnuts (Pączki)",
+  "cuisine": "Polish",
+  "fingerprint": "ed3252d00b377500b7a84eb4b1cc66354f0dc2e87f30ae46953d6122f32d9f4e",
+  "yield": 16,
+  "minutes": 210,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield of 16 doughnuts taken directly from step 5 instruction to divide dough into 16 pieces.",
+    "Total time is sum of explicit timed steps (30 min leaven + 10 min machine knead + 60-90 min first rise + 30 min second rise) plus conservative estimates for heating, frying 16 doughnuts in batches (~20 min), whisking, shaping, and glazing; rounded to nearest 10 min.",
+    "Vanilla sugar in step 2 interpreted as the listed vanilla extract + caster sugar.",
+    "Jam assumed to be a standard fruit jam with no specific allergens beyond possible trace wheat (ambiguous).",
+    "Oil for frying and lemon juice classified conservatively for allergens and diets.",
+    "Almonds/ground almonds/almond essence trigger tree nuts but not peanuts.",
+    "No barley/rye/oats listed so gluten-free is confidently false due to wheat flour; wheat is true.",
+    "No fish, shellfish, or sesame ingredients."
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nTo make the leaven, mix the yeast with the sugar and flour, and stir in the warm milk. Set aside in a warm place for 30 minutes.\r\n\r\nstep 2\r\nFor the dough, put egg yolks into a heatproof bowl and add the sugar and vanilla sugar. Set the bowl over a pan of simmering water and whisk until smooth and thick.\r\n\r\nstep 3\r\nSift the flour into the bowl of a stand mixer, add the beaten yolks and the warm cream, mix thoroughly, then add a pinch of salt and the leaven. Bring together to make a dough and knead for 10 minutes (or 15-20 if doing this by hand).\r\n\r\nstep 4\r\nWhen the dough stops sticking to your hands, pour in the cooled melted butter and knead for a few more minutes. Cover with a cloth and leave in a warm place to rise for at least 1 hr-1 hr 30 mins.\r\n\r\nstep 5\r\nMix the jam with the ground almonds and spoon into a piping bag or jam syringe. Divide the dough into 16 pieces and shape them into doughnuts. Cover and leave to rise for 30 mins.\r\n\r\nstep 6\r\nFill a deep pan or a deep fat fryer one third full of oil or melted lard and heat it until it is 180C – if you don’t have a thermometer, drop in a small chunk of bread. The oil is ready when it browns in about 30 secs. Add the doughnuts and fry, turning them once for about 1-2 mins on each side (a thin lighter ring should form in the middle). After removing, drain the doughnuts of excess fat on some kitchen paper.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/x6jqog1764359857.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Yeast",
+      "measurement": "10g",
+      "grams": 10,
+      "assumptions": "Typical active dry yeast values; 10g as given."
+    },
+    {
+      "position": 2,
+      "name": "Caster Sugar",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "1 tsp caster sugar ≈ 4g; pure sucrose values."
+    },
+    {
+      "position": 3,
+      "name": "Flour",
+      "measurement": "1 tablespoon",
+      "grams": 8,
+      "assumptions": "1 tablespoon plain white flour ≈ 8g; standard wheat flour."
+    },
+    {
+      "position": 4,
+      "name": "Milk",
+      "measurement": "125ml",
+      "grams": 129,
+      "assumptions": "Whole milk; 125ml ≈ 129g using density ≈1.03 g/ml."
+    },
+    {
+      "position": 5,
+      "name": "Egg Yolks",
+      "measurement": "7",
+      "grams": 119,
+      "assumptions": "7 large egg yolks; ≈17g each, total 119g; typical raw yolk nutrition."
+    },
+    {
+      "position": 6,
+      "name": "Sugar",
+      "measurement": "15g",
+      "grams": 15,
+      "assumptions": "15g caster sugar as given; pure sucrose values."
+    },
+    {
+      "position": 7,
+      "name": "Caster Sugar",
+      "measurement": "10g",
+      "grams": 10,
+      "assumptions": "10g caster sugar as given; pure sucrose values."
+    },
+    {
+      "position": 8,
+      "name": "Vanilla Extract",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp vanilla extract ≈5g; typical alcohol-based extract."
+    },
+    {
+      "position": 9,
+      "name": "Flour",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Plain white wheat flour as given; standard values."
+    },
+    {
+      "position": 10,
+      "name": "Double Cream",
+      "measurement": "200ml",
+      "grams": 200,
+      "assumptions": "Double (heavy) cream; 200ml ≈200g using density ≈1.0 g/ml."
+    },
+    {
+      "position": 11,
+      "name": "Butter",
+      "measurement": "15g",
+      "grams": 15,
+      "assumptions": "Unsalted butter as given; standard values."
+    },
+    {
+      "position": 12,
+      "name": "Jam",
+      "measurement": "125ml",
+      "grams": 140,
+      "assumptions": "Typical fruit jam (e.g. plum/rosehip common in Polish pączki); 125ml ≈140g using density ≈1.12 g/ml; values for sweetened jam."
+    },
+    {
+      "position": 13,
+      "name": "Ground Almonds",
+      "measurement": "10g",
+      "grams": 10,
+      "assumptions": "Ground almonds as given; typical blanched almond meal."
+    },
+    {
+      "position": 14,
+      "name": "Oil",
+      "measurement": "For frying",
+      "grams": 35,
+      "assumptions": "Vegetable oil for deep frying; plausible absorbed amount ≈35g total for 16 doughnuts (≈2g each after draining on paper as instructed); pure oil values."
+    },
+    {
+      "position": 15,
+      "name": "Icing Sugar",
+      "measurement": "75g",
+      "grams": 75,
+      "assumptions": "Icing (powdered) sugar as given; pure sucrose values."
+    },
+    {
+      "position": 16,
+      "name": "Lemon",
+      "measurement": "Juice of 1/2",
+      "grams": 25,
+      "assumptions": "Juice of 1/2 lemon ≈25g; typical lemon juice values."
+    },
+    {
+      "position": 17,
+      "name": "Almond Essence",
+      "measurement": "Dash",
+      "grams": 1,
+      "assumptions": "Dash of almond essence/extract ≈1g (negligible volume); typical values."
+    },
+    {
+      "position": 18,
+      "name": "Almonds",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Chopped or flaked almonds as given; typical almond values."
+    }
+  ],
+  "nutrition": {
+    "calories": 4548.51,
+    "protein": 96.48,
+    "fat": 186.76,
+    "fiber": 25.47,
+    "carbs": 614.18
+  }
+}

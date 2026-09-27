@@ -1,0 +1,94 @@
+{
+  "id": "53247",
+  "name": "Sea bass with sizzled ginger, chilli & spring onions",
+  "cuisine": "Vietnamese",
+  "fingerprint": "385f05a45c90711060b16f4035b7c3a9f2a80e6707967f06da87d2c290135596",
+  "yield": 6,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 6 sea bass fillets as primary protein (1 fillet per serving).",
+    "Total active time ~20 min based on sequential pan-frying (2 batches), aromatics stir-fry, and minimal prep; excludes passive time.",
+    "Soy sauce assumed to contain wheat (standard unless specified gluten-free); hence gluten-free=null.",
+    "Soy sauce presence makes Vegan=false despite no animal products in other ingredients.",
+    "No dairy, eggs, tree nuts, peanuts, sesame, or shellfish ingredients listed; Fish confirmed via sea bass."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nSeason 6 sea bass fillets with salt and pepper, then slash the skin 3 times.\r\n\r\nstep 2\r\nHeat a heavy-based frying pan and add 1 tbsp sunflower oil.\r\n\r\nstep 3\r\nOnce hot, fry the sea bass fillets, skin-side down, for 5 mins or until the skin is very crisp and golden. The fish will be almost cooked through.\r\n\r\nstep 4\r\nTurn over, cook for another 30 seconds - 1 minute, then transfer to a serving plate and keep warm. You’ll need to fry the sea bass fillets in 2 batches.\r\n\r\nstep 5\r\nHeat 2 tbsp sunflower oil, then fry the large knob of peeled ginger, cut into matchsticks, 3 thinly sliced garlic cloves and 3 thinly shredded red chillies for about 2 mins until golden.\r\n\r\nstep 6\r\nTake off the heat and toss in the bunch of shredded spring onions. Splash the fish with 1 tbsp soy sauce and spoon over the contents of the pan.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/tqd7s21763780609.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sea Bass Fillets",
+      "measurement": "6",
+      "grams": 900,
+      "assumptions": "6 medium sea bass fillets, ~150 g each raw edible portion (skin-on); typical white fish values used"
+    },
+    {
+      "position": 2,
+      "name": "Sunflower Oil",
+      "measurement": "3  tablespoons",
+      "grams": 42,
+      "assumptions": "Total 3 tbsp sunflower oil (1 tbsp for pan + 2 tbsp for aromatics); standard vegetable oil density ~14 g/tbsp"
+    },
+    {
+      "position": 3,
+      "name": "Ginger",
+      "measurement": "Knob",
+      "grams": 30,
+      "assumptions": "Large knob of fresh ginger (~30 g peeled weight); typical raw ginger values"
+    },
+    {
+      "position": 4,
+      "name": "Garlic Clove",
+      "measurement": "3 sliced thinly",
+      "grams": 9,
+      "assumptions": "3 medium garlic cloves thinly sliced, ~9 g total edible weight; standard raw garlic values"
+    },
+    {
+      "position": 5,
+      "name": "Red Chilli",
+      "measurement": "3 Large",
+      "grams": 90,
+      "assumptions": "3 large red chillies shredded, ~30 g each including seeds; typical raw red chili values"
+    },
+    {
+      "position": 6,
+      "name": "Spring Onions",
+      "measurement": "Bunch",
+      "grams": 100,
+      "assumptions": "1 bunch spring onions shredded, ~100 g trimmed edible weight; standard raw scallion values"
+    },
+    {
+      "position": 7,
+      "name": "Soy Sauce",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp regular soy sauce (~15 g); typical values for Chinese-style soy sauce"
+    }
+  ],
+  "nutrition": {
+    "calories": 1357.64,
+    "protein": 194.6,
+    "fat": 60.83,
+    "fiber": 4.86,
+    "carbs": 24.55
+  }
+}

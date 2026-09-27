@@ -1,0 +1,81 @@
+{
+  "id": "53307",
+  "name": "Beetroot & red cabbage sauerkraut",
+  "cuisine": "Polish",
+  "fingerprint": "3933bacd08d49127f4ecbec7e19a5c6b2a443e71c8094db85a2980ce25e3b5d0",
+  "yield": 8,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical sauerkraut recipes using ~850g total vegetables yielding 8 side-dish servings of ~100-110g each after fermentation and packing.",
+    "Preparation time sums active steps (scrunching 5 min + weighing/pressing ~5 min + checking/stirring ~5 min + jar transfer ~5-10 min) plus minimum 5-day ferment counted as passive; total active prep rounded to 35 min as conservative estimate from instructions.",
+    "All ingredients plant-based with no animal products, confirming vegetarian/vegan/pescatarian/dairy-free.",
+    "No wheat, barley, rye, or oats; all ingredients inherently gluten-free.",
+    "No listed or implied milk, eggs, fish, shellfish, tree nuts, peanuts, soy, or sesame; all allergens false.",
+    "Onion size assumed as 70g per provided data; caraway and salt quantities standard conversions."
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nTip all the ingredients into a large bowl, add 1-1½ tsp freshly ground black pepper, then scrunch it all together with your hands for 5 mins. You might want to wear gloves to avoid staining your skin with the beetroot juices.\r\n\r\nstep 2\r\nPress the veg down in the bowl with your hands, then cover the surface and up the side of the bowl with a large sheet of compostable cling film or something reusable like a beeswax wrap. Now place another similar-sized bowl on top. Press down hard and add anything heavy (packs of rice or cans work well) to weigh it down so the juices rise to cover the surface. Cover again.\r\n\r\nstep 3\r\nLeave to ferment at room temperature for at least five days, but for maximum flavour, leave for one-five weeks (until the bubbling subsides).\r\n\r\nstep 4\r\nCheck the sauerkraut. After a few days, you will see bubbles that have built up as it ferments. Give it a stir, then cover and weigh it down again as before. The cabbage will become increasingly sour the longer it’s fermented, so taste it now and again. When you like the flavour, transfer it to sterilised jars and keep chilled. Will keep chilled for up to six months.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ra2k8a1764365055.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beetroot",
+      "measurement": "320g",
+      "grams": 320,
+      "assumptions": "Raw beetroot, peeled and grated as typical for sauerkraut; full 320g used as edible portion."
+    },
+    {
+      "position": 2,
+      "name": "Red Cabbage",
+      "measurement": "450g",
+      "grams": 450,
+      "assumptions": "Raw red cabbage, shredded; full 450g used as edible portion."
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 small",
+      "grams": 70,
+      "assumptions": "1 small onion estimated at 70g (typical size for recipes); raw and thinly sliced or grated."
+    },
+    {
+      "position": 4,
+      "name": "Caraway Seed",
+      "measurement": "2 tsp",
+      "grams": 4,
+      "assumptions": "2 tsp caraway seeds ≈ 4g (standard density for whole seeds); full amount used."
+    },
+    {
+      "position": 5,
+      "name": "Sea Salt",
+      "measurement": "1 tsp",
+      "grams": 6,
+      "assumptions": "1 tsp sea salt ≈ 6g; negligible calories/macros as pure salt."
+    }
+  ],
+  "nutrition": {
+    "calories": 318.42,
+    "protein": 12.98,
+    "fat": 2.64,
+    "fiber": 22.91,
+    "carbs": 72.53
+  }
+}

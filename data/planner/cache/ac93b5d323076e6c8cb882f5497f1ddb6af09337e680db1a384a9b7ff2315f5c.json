@@ -1,0 +1,138 @@
+{
+  "id": "53254",
+  "name": "Ezme",
+  "cuisine": "Turkish",
+  "fingerprint": "ac93b5d323076e6c8cb882f5497f1ddb6af09337e680db1a384a9b7ff2315f5c",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on typical Turkish meze/salad portion sizes for 4 people as a side or starter; original source implies shared dish but does not specify servings",
+    "Total active preparation time estimated at 20 minutes: ~10 min for chopping/blitzing in food processor, ~5-10 min for straining, whisking sauce, and combining; no cooking involved",
+    "All ingredients screened as compatible with listed diets; no animal products, no gluten sources, no dairy",
+    "Sesame left as null due to possible cross-contamination in commercial red pepper paste, pomegranate molasses, or shared processing equipment (ambiguous without specific labels)",
+    "Pomegranate molasses classified conservatively as vegan/vegetarian (fruit-based, no added animal ingredients assumed)",
+    "Red pepper paste (biber salcasi) assumed free of wheat/gluten and animal products based on typical Turkish varieties",
+    "No explicit compound sauces listed that would introduce ambiguity beyond noted items"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nPut the tomatoes and all of the peppers in a food processor and blitz until finely chopped. Tip out into a sieve, set over a bowl and leave to strain. Add the onions, garlic and parsley to the food processor and blitz until finely chopped, then set aside.\r\n\r\nstep 2\r\nAdd red pepper paste, tomato purée, pomegranate molasses, pul biber, sumac, dried mint and most of the extra virgin olive oil to a serving bowl and whisk well so everything comes together as a sauce. Tip in the blitzed onion mixture and the strained pepper mixture along with 1 tsp flaky sea salt . Stir well, then drizzle with the remaining extra virgin olive oil to serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/pb6mj11763788331.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Tomato",
+      "measurement": "3 Large",
+      "grams": 450,
+      "assumptions": "3 large tomatoes ≈ 450g total; typical medium-large tomato is 150g; raw, edible portion only"
+    },
+    {
+      "position": 2,
+      "name": "Romano Pepper",
+      "measurement": "1 medium",
+      "grams": 120,
+      "assumptions": "1 medium Romano (sweet red) pepper ≈ 120g; raw, edible portion after deseeding"
+    },
+    {
+      "position": 3,
+      "name": "Green Chilli",
+      "measurement": "1 medium",
+      "grams": 20,
+      "assumptions": "1 medium green chilli ≈ 20g; raw, edible portion"
+    },
+    {
+      "position": 4,
+      "name": "Onion",
+      "measurement": "1 small",
+      "grams": 70,
+      "assumptions": "1 small onion ≈ 70g; raw, edible portion"
+    },
+    {
+      "position": 5,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 cloves garlic ≈ 6g total; raw, minced"
+    },
+    {
+      "position": 6,
+      "name": "Parsley",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "Exactly 25g fresh parsley as listed; raw, edible leaves and stems"
+    },
+    {
+      "position": 7,
+      "name": "Red Pepper Paste",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "2 tablespoons Turkish red pepper paste (biber salcasi) ≈ 30g; typical density and commercial product values"
+    },
+    {
+      "position": 8,
+      "name": "Tomato Puree",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tablespoon tomato puree/paste ≈ 15g; standard commercial value"
+    },
+    {
+      "position": 9,
+      "name": "Pomegranate Molasses",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "2 tablespoons pomegranate molasses ≈ 30g; typical commercial product, high-sugar syrup"
+    },
+    {
+      "position": 10,
+      "name": "Pul Biber",
+      "measurement": "1 tablespoon",
+      "grams": 6,
+      "assumptions": "1 tablespoon pul biber (Aleppo pepper flakes) ≈ 6g; standard spice density"
+    },
+    {
+      "position": 11,
+      "name": "Sumac",
+      "measurement": "2 tsp",
+      "grams": 4,
+      "assumptions": "2 tsp sumac ≈ 4g; typical spice values yield negligible macros per small quantity"
+    },
+    {
+      "position": 12,
+      "name": "Dried Mint",
+      "measurement": "1 tablespoon",
+      "grams": 3,
+      "assumptions": "1 tablespoon dried mint ≈ 3g; standard dried herb density"
+    },
+    {
+      "position": 13,
+      "name": "Extra Virgin Olive Oil",
+      "measurement": "60 ml",
+      "grams": 55,
+      "assumptions": "60 ml extra virgin olive oil ≈ 55g (density 0.91 g/ml); entire amount used in recipe"
+    }
+  ],
+  "nutrition": {
+    "calories": 783.11,
+    "protein": 10.06,
+    "fat": 57.95,
+    "fiber": 14.64,
+    "carbs": 64.45
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "52837",
+  "name": "Pilchard puttanesca",
+  "cuisine": "Italian",
+  "fingerprint": "19b0fcae529b7b189a73a5f9905731c7640f241d7157d0e8cc2443bd6a4f41ab",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 4 based on standard pasta recipe scaling (300g dry spaghetti typically serves 4 adults) and common BBC Good Food portioning for similar dishes.",
+    "Total time estimated at 20 minutes: ~10 min for pasta boiling + ~10 min for sauce preparation and combining, derived from explicit instruction times (3-4 min softening, 1 min puree, 'few more mins' for fish/olives) plus typical pasta cook time.",
+    "Pilchards classified as fish (true allergen) due to being a type of small oily fish like sardines; Pescatarian true as it includes fish but no meat.",
+    "Wheat true for gluten and wheat allergens due to spaghetti (durum wheat pasta); not gluten-free.",
+    "Dairy from Parmesan (milk allergen); not dairy-free.",
+    "No explicit eggs, shellfish, tree nuts, peanuts, soy, or sesame in ingredients; set to null as ambiguous without full label disclosure.",
+    "Tomato puree, olives, and other items assumed free of major allergens unless inherently containing them."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Cook the pasta following pack instructions. Heat the oil in a non-stick frying pan and cook the onion, garlic and chilli for 3-4 mins to soften. Stir in the tomato purée and cook for 1 min, then add the pilchards with their sauce. Cook, breaking up the fish with a wooden spoon, then add the olives and continue to cook for a few more mins.\r\n\r\nDrain the pasta and add to the pan with 2-3 tbsp of the cooking water. Toss everything together well, then divide between plates and serve, scattered with Parmesan.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Spaghetti",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Dry spaghetti weight as specified; standard durum wheat pasta values."
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "1 tbls",
+      "grams": 14,
+      "assumptions": "1 tablespoon olive oil weighs ~14g; pure olive oil."
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 finely chopped",
+      "grams": 110,
+      "assumptions": "1 medium onion finely chopped ≈110g raw; typical white onion."
+    },
+    {
+      "position": 4,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves minced ≈6g raw."
+    },
+    {
+      "position": 5,
+      "name": "Red Chilli",
+      "measurement": "1",
+      "grams": 20,
+      "assumptions": "1 medium red chilli ≈20g whole (edible portion after trimming)."
+    },
+    {
+      "position": 6,
+      "name": "Tomato Puree",
+      "measurement": "1 tbls",
+      "grams": 15,
+      "assumptions": "1 tablespoon tomato puree ≈15g; standard concentrated tomato paste."
+    },
+    {
+      "position": 7,
+      "name": "Pilchards",
+      "measurement": "425g",
+      "grams": 425,
+      "assumptions": "425g can of pilchards in tomato sauce, entire edible contents including sauce (typical drained + sauce weight used)."
+    },
+    {
+      "position": 8,
+      "name": "Black Olives",
+      "measurement": "70g",
+      "grams": 70,
+      "assumptions": "70g pitted black olives as specified; standard cured olive values."
+    },
+    {
+      "position": 9,
+      "name": "Parmesan",
+      "measurement": "Shaved",
+      "grams": 20,
+      "assumptions": "Shaved Parmesan estimated at 20g total for the dish (plausible amount for scattering over 4 servings); hard cheese values."
+    }
+  ],
+  "nutrition": {
+    "calories": 2085.15,
+    "protein": 134.16,
+    "fat": 63.06,
+    "fiber": 14.07,
+    "carbs": 249.38
+  }
+}

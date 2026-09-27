@@ -1,0 +1,138 @@
+{
+  "id": "52995",
+  "name": "BBQ Pork Sloppy Joes",
+  "cuisine": "American",
+  "fingerprint": "df69092feb5ce8d2315a485c91992d420f4db4e4e46479a8f9e201b67281c7e8",
+  "yield": 2,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": null
+  },
+  "allergens": {
+    "Milk": null,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe instructions scaled for 2 servings (explicitly references 'for 4 servings' quantities in parentheses).",
+    "Yield estimated from 1 lb pork and 2 buns as primary components for 2 sandwiches.",
+    "Total time is sum of overlapping steps: ~25 min roast + concurrent pan and prep work; conservative estimate of active + passive time.",
+    "BBQ sauce, ketchup, hot sauce, sugar, oil, salt, pepper, and butter (in instructions) assumed to be standard commercial or generic forms.",
+    "Bread assumed to be standard wheat hamburger buns based on usage as buns in sloppy joes.",
+    "Dairy-free left null due to butter in instructions but not in listed ingredients.",
+    "No tree nuts, peanuts, fish, shellfish, eggs, or soy confidently detectable in listed ingredients or instructions."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "1\r\n\r\nPreheat oven to 450 degrees. Wash and dry all produce. Cut sweet potatoes into ½-inch-thick wedges. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 20-25 minutes.\r\n\r\n2\r\n\r\nMeanwhile, halve and peel onion. Slice as thinly as possible until you have ¼ cup (½ cup for 4 servings); finely chop remaining onion. Peel and finely chop garlic. Halve lime; squeeze juice into a small bowl. Halve buns. Add 1 TBSP butter (2 TBSP for 4) to a separate small microwave-safe bowl; microwave until melted, 30 seconds. Brush onto cut sides of buns.\r\n\r\n3\r\n\r\nTo bowl with lime juice, add sliced onion, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. Stir to combine; set aside to quick-pickle.\r\n\r\n4\r\n\r\nHeat a drizzle of oil in a large pan over medium-high heat. Add chopped onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add garlic and cook until fragrant, 30 seconds more. Add pork and season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes.\r\n\r\n5\r\n\r\nWhile pork cooks, in a third small bowl, combine BBQ sauce, pickling liquid from onion, 3 TBSP ketchup (6 TBSP for 4 servings), ½ tsp sugar (1 tsp for 4), and ¼ cup water (⅓ cup for 4). Once pork is cooked through, add BBQ sauce mixture to pan. Cook, stirring, until sauce is thickened, 2-3 minutes. Taste and season with salt and pepper.\r\n\r\n6\r\n\r\nMeanwhile, toast buns in oven or toaster oven until golden, 3-5 minutes. Divide toasted buns between plates and fill with as much BBQ pork as you’d like. Top with pickled onion and hot sauce. Serve with sweet potato wedges on the side.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Potatoes",
+      "measurement": "2",
+      "grams": 454,
+      "assumptions": "2 medium sweet potatoes (assuming 'Potatoes' refers to the sweet potatoes mentioned in instructions), total edible weight ~1 lb / 454g; raw, unpeeled but only flesh nutrients."
+    },
+    {
+      "position": 2,
+      "name": "Red Onions",
+      "measurement": "1",
+      "grams": 150,
+      "assumptions": "1 medium red onion, total ~150g edible portion after peeling."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "2 cloves",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves, total ~6g peeled."
+    },
+    {
+      "position": 4,
+      "name": "Lime",
+      "measurement": "1",
+      "grams": 67,
+      "assumptions": "1 medium lime, total ~67g edible flesh and juice after peeling."
+    },
+    {
+      "position": 5,
+      "name": "Bread",
+      "measurement": "2",
+      "grams": 100,
+      "assumptions": "2 standard hamburger buns (~50g each), total 100g edible."
+    },
+    {
+      "position": 6,
+      "name": "Pork",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "1 lb raw ground pork, 80/20 typical; fully cooked in recipe but nutrients reported on raw weight basis per standard practice."
+    },
+    {
+      "position": 7,
+      "name": "Barbeque Sauce",
+      "measurement": "",
+      "grams": 120,
+      "assumptions": "Plausible recipe amount of BBQ sauce used in sloppy joe style (about ½ cup / 120g); typical commercial values."
+    },
+    {
+      "position": 8,
+      "name": "Hotsauce",
+      "measurement": "",
+      "grams": 10,
+      "assumptions": "'To taste' hot sauce; small plausible drizzle total ~10g across servings, negligible macros."
+    },
+    {
+      "position": 9,
+      "name": "Tomato Ketchup",
+      "measurement": "",
+      "grams": 90,
+      "assumptions": "Plausible recipe amount of ketchup (3-6 TBSP scaled to ~90g total); typical values."
+    },
+    {
+      "position": 10,
+      "name": "Sugar",
+      "measurement": "",
+      "grams": 8,
+      "assumptions": "Small total sugar for pickling/sauce (~2 tsp / 8g); pure carbohydrate."
+    },
+    {
+      "position": 11,
+      "name": "Vegetable Oil",
+      "measurement": "",
+      "grams": 15,
+      "assumptions": "Oil for roasting, pan-frying and drizzling; estimated total ~1 TBSP (15g) absorbed/used."
+    },
+    {
+      "position": 12,
+      "name": "Salt",
+      "measurement": "",
+      "grams": 5,
+      "assumptions": "Salt to taste; estimated total used ~5g across recipe, zero macros."
+    },
+    {
+      "position": 13,
+      "name": "Pepper",
+      "measurement": "",
+      "grams": 2,
+      "assumptions": "Pepper to taste; estimated total ~2g, zero macros."
+    }
+  ],
+  "nutrition": {
+    "calories": 2043.96,
+    "protein": 96.91,
+    "fat": 83.98,
+    "fiber": 21.5,
+    "carbs": 227.63
+  }
+}

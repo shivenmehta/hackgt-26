@@ -1,0 +1,101 @@
+{
+  "id": "53266",
+  "name": "Falafel",
+  "cuisine": "Turkish",
+  "fingerprint": "7d8badc1c1b266be6ffc8ee6765c17d19813fc8ea61f394ce50228279789ae5b",
+  "yield": 6,
+  "minutes": 25,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from explicit instruction to mould mixture into 6 balls/patties; typical single-serving falafel count.",
+    "Total time is sum of explicit instruction times (5 min fry onion/garlic + 6 min fry falafels) plus ~14 min estimated for mashing, mixing, seasoning, shaping (standard for this style of recipe).",
+    "No wheat, gluten-containing grains, dairy, fish, shellfish, tree nuts or peanuts appear in ingredients list.",
+    "Sesame left null because tahini or sesame seeds are common in falafel but not listed here; ambiguous without explicit absence.",
+    "Recipe is vegetarian per explicit egg use and source label; not vegan due to egg; pescatarian incompatible with no fish but presence of egg in some definitions; gluten-free and dairy-free compatible with listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat 1 tbsp oil in a large pan, then fry the onion and garlic over a low heat for 5 mins until softened. Tip into a large mixing bowl with the chickpeas and spices, then mash together with a fork or potato masher until the chickpeas are totally broken down. Stir in the parsley or dried herbs, with seasoning to taste. Add the egg, then squish the mixture together with your hands.\r\n\r\nstep 2\r\nMould the mix into 6 balls, then flatten into patties. Heat the remaining oil in the pan, then fry the falafels on a medium heat for 3 mins on each side, until golden brown and firm. Serve hot or cold with couscous, pitta bread or salad.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/u5e9qq1763795441.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sunflower Oil",
+      "measurement": "2 tablespoons",
+      "grams": 27,
+      "assumptions": "Standard sunflower oil density ~0.92 g/ml; 1 tbsp = 14 ml so 2 tbsp ~27g total; all oil is included even if some remains in pan."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "Medium onion ~110g after peeling and chopping; standard raw onion values."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "1 clove peeled crushed",
+      "grams": 3,
+      "assumptions": "Typical peeled garlic clove ~3g; standard raw garlic values."
+    },
+    {
+      "position": 4,
+      "name": "Chickpeas",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Drained weight of 400g can chickpeas; values for drained/canned chickpeas."
+    },
+    {
+      "position": 5,
+      "name": "Ground Cumin",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp ground cumin ~2g; standard ground cumin values."
+    },
+    {
+      "position": 6,
+      "name": "Ground Coriander",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp ground coriander ~2g; standard ground coriander values."
+    },
+    {
+      "position": 7,
+      "name": "Parsley",
+      "measurement": "Handful",
+      "grams": 20,
+      "assumptions": "'Handful' fresh parsley estimated at 20g; standard fresh parsley values."
+    },
+    {
+      "position": 8,
+      "name": "Egg",
+      "measurement": "1 beaten",
+      "grams": 50,
+      "assumptions": "Medium beaten egg ~50g edible portion; standard raw egg values."
+    }
+  ],
+  "nutrition": {
+    "calories": 855.31,
+    "protein": 37.73,
+    "fat": 43.24,
+    "fiber": 33.39,
+    "carbs": 77.61
+  }
+}

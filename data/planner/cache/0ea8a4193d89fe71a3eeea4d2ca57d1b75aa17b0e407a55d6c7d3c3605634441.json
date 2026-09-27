@@ -1,0 +1,125 @@
+{
+  "id": "52797",
+  "name": "Spicy North African Potato Salad",
+  "cuisine": "Moroccan",
+  "fingerprint": "0ea8a4193d89fe71a3eeea4d2ca57d1b75aa17b0e407a55d6c7d3c3605634441",
+  "yield": 4,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from total ~1.2 kg ingredients (650 g potatoes + 550 g others) as typical 4 modest side-salad or light-lunch portions",
+    "Preparation time summed from explicit 20 min boil plus ~10 min for chopping, whisking, assembly and tossing",
+    "Feta listed as dairy cheese so Vegetarian=true but Vegan=false and Dairy-free=false",
+    "Pine nuts classified as tree nuts so Tree nuts=true",
+    "Harissa spice assumed wheat-free; no barley/rye/wheat detected so Gluten-free=true",
+    "No explicit egg, fish, shellfish, peanut, soy or sesame ingredients; Sesame left null because compound spice blends can occasionally contain it",
+    "Mint, lemon juice, olive oil, salt, pepper, spring onions, rocket and potatoes introduce no listed allergens",
+    "SourceDietLabels and tags treated only as hints; final flags derived strictly from enumerated ingredients"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Cook potatoes - place potatoes in a pot of cold water, and bring to the boil. Boil 20 minutes, or until potatoes are tender. You know they are cooked when you can stick a knife in them and the knife goes straight through.\r\nCombine harissa spice, olive oil, salt and pepper and lemon juice in a small bowl and whisk until combined.\r\nOnce potatoes are cooked, drain water and roughly chop potatoes in half.\r\nAdd harissa mix and spring onions/green onions to potatoes and stir.\r\nIn a large salad bowl, lay out arugula/rocket.\r\nTop with potato mix and toss.\r\nAdd fetta, mint and sprinkle over pine nuts.\r\nAdjust salt and pepper to taste.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Small Potatoes",
+      "measurement": "650g/1lb 8 oz",
+      "grams": 650,
+      "assumptions": "Boiled potatoes, drained; typical waxy potato values used for new/small potatoes"
+    },
+    {
+      "position": 2,
+      "name": "Harissa Spice",
+      "measurement": "1 tsp",
+      "grams": 3,
+      "assumptions": "Typical harissa spice blend (chili-based); ~3 g per teaspoon; high fiber from dried peppers and spices"
+    },
+    {
+      "position": 3,
+      "name": "olive oil",
+      "measurement": "2 tsp",
+      "grams": 9,
+      "assumptions": "Extra virgin olive oil; ~4.5 g per teaspoon"
+    },
+    {
+      "position": 4,
+      "name": "Lemon",
+      "measurement": "juice of half",
+      "grams": 25,
+      "assumptions": "Juice only from half a medium lemon (~25 g juice); no zest or pulp included"
+    },
+    {
+      "position": 5,
+      "name": "Spring onions",
+      "measurement": "4",
+      "grams": 60,
+      "assumptions": "4 medium spring onions, trimmed and sliced; ~15 g each"
+    },
+    {
+      "position": 6,
+      "name": "Rocket",
+      "measurement": "150g/6oz",
+      "grams": 150,
+      "assumptions": "Fresh arugula/rocket leaves, raw weight as given"
+    },
+    {
+      "position": 7,
+      "name": "Feta",
+      "measurement": "80g/3oz",
+      "grams": 80,
+      "assumptions": "Crumbled feta cheese, typical full-fat sheep/goat milk variety"
+    },
+    {
+      "position": 8,
+      "name": "Mint",
+      "measurement": "20 chopped",
+      "grams": 20,
+      "assumptions": "Fresh mint leaves, chopped; 20 g total as implied by '20 chopped'"
+    },
+    {
+      "position": 9,
+      "name": "Pine nuts",
+      "measurement": "2 tablespoons",
+      "grams": 18,
+      "assumptions": "Toasted pine nuts; 2 level tablespoons ≈ 18 g"
+    },
+    {
+      "position": 10,
+      "name": "Salt",
+      "measurement": "Pinch",
+      "grams": 1,
+      "assumptions": "Pinch of table salt; negligible contribution rounded to 1 g for calculation"
+    },
+    {
+      "position": 11,
+      "name": "Pepper",
+      "measurement": "Pinch",
+      "grams": 1,
+      "assumptions": "Pinch of ground black pepper; negligible contribution rounded to 1 g for calculation"
+    }
+  ],
+  "nutrition": {
+    "calories": 994.15,
+    "protein": 32.83,
+    "fat": 40.74,
+    "fiber": 22.17,
+    "carbs": 130.76
+  }
+}

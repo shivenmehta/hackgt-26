@@ -1,0 +1,160 @@
+{
+  "id": "53300",
+  "name": "Bigos (Polish hunter's stew)",
+  "cuisine": "Polish",
+  "fingerprint": "248c0260c038013f676ed044ce7448afa42dc010a3f9f0ec442696535c057b9f",
+  "yield": 6,
+  "minutes": 170,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from total meat volume (1.4 kg) plus cabbage and other ingredients, typical for 6 hearty adult servings of hunter's stew",
+    "Mushrooms assumed dried and soaked per instructions, typical in bigos",
+    "German sausages assumed to be smoked kielbasa-style pork sausages without wheat fillers",
+    "No wheat, barley, rye or oats listed; gluten-free status left null due to possible unlisted fillers in stock/sausages",
+    "No dairy ingredients present",
+    "No tree nuts, peanuts, sesame, fish, shellfish, eggs or soy present",
+    "Spices and tomato puree assumed pure without additives",
+    "Beef stock assumed meat-based without wheat/soy additives"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nPut the cabbage in a heavy casserole dish, add the stock and cook over a low heat for about 50 mins, until tender.\r\n\r\nstep 2\r\nCut the soaked mushrooms into strips and save the soaking water. Heat the lard and fry the sausages and bacon, then scoop out, leaving the fat in the pan. Fry the onion in the same pan for 5-8 mins until lightly browned.\r\n\r\nstep 3\r\nAdd the mushrooms and their liquid along with all the cooked meat, onions and prunes, then cover and cook for 20 mins. Add the spices, red wine and tomato purée and bring to a simmer, then cover and cook for 1 hr. Season well and leave to cool. Will keep covered and chilled for up to two days. Bigos improves in flavour over a couple of days. Leave to cool first. Reheat until piping hot before serving.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/fl4brj1764361323.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "White Cabbage",
+      "measurement": "1 sliced",
+      "grams": 1000,
+      "assumptions": "1 medium head of white cabbage, trimmed and sliced, ~1kg edible portion"
+    },
+    {
+      "position": 2,
+      "name": "Beef Stock",
+      "measurement": "250ml",
+      "grams": 250,
+      "assumptions": "Beef stock, typical homemade or low-sodium variety"
+    },
+    {
+      "position": 3,
+      "name": "Mushrooms",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Dried mushrooms (soaked), typical for Polish bigos recipes"
+    },
+    {
+      "position": 4,
+      "name": "Lard",
+      "measurement": "2 tablespoons",
+      "grams": 25,
+      "assumptions": "Lard, 2 tbsp ≈ 25g"
+    },
+    {
+      "position": 5,
+      "name": "German Sausages",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Polish-style smoked sausages (kielbasa), typical values"
+    },
+    {
+      "position": 6,
+      "name": "Bacon",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Smoked pork bacon, typical values"
+    },
+    {
+      "position": 7,
+      "name": "Onion",
+      "measurement": "2 chopped",
+      "grams": 220,
+      "assumptions": "2 medium onions, chopped, ~110g each"
+    },
+    {
+      "position": 8,
+      "name": "Beef",
+      "measurement": "750g",
+      "grams": 750,
+      "assumptions": "Stewing beef, typical raw values, trimmed"
+    },
+    {
+      "position": 9,
+      "name": "Prunes",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Dried prunes, typical values"
+    },
+    {
+      "position": 10,
+      "name": "Bay Leaf",
+      "measurement": "1",
+      "grams": 1,
+      "assumptions": "1 bay leaf, negligible nutrition"
+    },
+    {
+      "position": 11,
+      "name": "Cloves",
+      "measurement": "2",
+      "grams": 1,
+      "assumptions": "2 whole cloves, negligible nutrition"
+    },
+    {
+      "position": 12,
+      "name": "Peppercorns",
+      "measurement": "12",
+      "grams": 5,
+      "assumptions": "12 black peppercorns, ~5g total, negligible nutrition"
+    },
+    {
+      "position": 13,
+      "name": "Juniper Berries",
+      "measurement": "4",
+      "grams": 2,
+      "assumptions": "4 juniper berries, ~2g total, negligible nutrition"
+    },
+    {
+      "position": 14,
+      "name": "Allspice Berries",
+      "measurement": "4",
+      "grams": 2,
+      "assumptions": "4 allspice berries, ~2g total, negligible nutrition"
+    },
+    {
+      "position": 15,
+      "name": "Red Wine",
+      "measurement": "90 ml",
+      "grams": 90,
+      "assumptions": "Dry red wine, typical values"
+    },
+    {
+      "position": 16,
+      "name": "Tomato Puree",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "Tomato puree/paste, 2 tbsp ≈ 30g"
+    }
+  ],
+  "nutrition": {
+    "calories": 5302.9,
+    "protein": 306.08,
+    "fat": 363.57,
+    "fiber": 46.37,
+    "carbs": 229.07
+  }
+}

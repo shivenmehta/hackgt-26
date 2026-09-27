@@ -1,0 +1,94 @@
+{
+  "id": "53009",
+  "name": "Lamb and Lemon Souvlaki",
+  "cuisine": "Greek",
+  "fingerprint": "bc7764bf511ca1bbeb92b5e944a0abd842ea24921e33d08493b8685a9686ba88",
+  "yield": 4,
+  "minutes": 150,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on 750g lamb leg (standard ~180-200g meat per souvlaki serving) plus accompaniments.",
+    "Total time is 30 min active (prep + cook) + minimum 2 hr marinating; 150 min used as conservative total prep-to-serve estimate using minimum marination.",
+    "Pita bread assumed to contain wheat (standard unless certified gluten-free).",
+    "No dairy, eggs, fish, shellfish, tree nuts, or peanuts in listed ingredients; soy and sesame ambiguous due to possible presence in unspecified commercial pitas or compound sauces.",
+    "Dill, lemon, garlic, oil, and salt are plant-based and compatible with all listed diets where not blocked by other components."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Pound the garlic with sea salt in a pestle and mortar (or use a small food processor), until the garlic forms a paste. Whisk together the oil, lemon juice, zest, dill and garlic. Mix in the lamb and combine well. Cover and marinate for at least 2 hrs or overnight in the fridge. If you’re going to use bamboo skewers, soak them in cold water.\r\n\r\nIf you’ve prepared the lamb the previous day, take it out of the fridge 30 mins before cooking. Thread the meat onto the soaked or metal skewers. Heat the grill to high or have a hot griddle pan or barbecue ready. Cook the skewers for 2-3 mins on each side, basting with the remaining marinade. Heat the pitta or flatbreads briefly, then stuff with the souvlaki. Add Greek salad (see 'Goes well with', right) and Tzatziki (below), if you like.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Garlic",
+      "measurement": "2 cloves",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves ≈6g total; standard garlic nutrient profile used."
+    },
+    {
+      "position": 2,
+      "name": "Sea Salt",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 tsp sea salt ≈10g; salt contributes negligible macros."
+    },
+    {
+      "position": 3,
+      "name": "Olive Oil",
+      "measurement": "4 tbs",
+      "grams": 54,
+      "assumptions": "4 tbs olive oil ≈54g (13.5g per tbs); pure olive oil values."
+    },
+    {
+      "position": 4,
+      "name": "Lemon",
+      "measurement": "Zest and juice of 1",
+      "grams": 110,
+      "assumptions": "Zest and juice of 1 average lemon ≈110g edible portion (≈60g juice + zest from 50g peel); standard lemon nutrient profile."
+    },
+    {
+      "position": 5,
+      "name": "Dill",
+      "measurement": "1 tbs",
+      "grams": 3,
+      "assumptions": "1 tbs fresh dill ≈3g; standard fresh dill nutrient profile."
+    },
+    {
+      "position": 6,
+      "name": "Lamb Leg",
+      "measurement": "750g",
+      "grams": 750,
+      "assumptions": "750g boneless lamb leg (raw weight); typical raw lamb leg steak nutrient profile used."
+    },
+    {
+      "position": 7,
+      "name": "Pita Bread",
+      "measurement": "To serve",
+      "grams": 200,
+      "assumptions": "Pita bread 'to serve' estimated at 4 average pitas (≈200g total) to accompany 750g lamb; standard white pita nutrient profile."
+    }
+  ],
+  "nutrition": {
+    "calories": 2780.79,
+    "protein": 207.95,
+    "fat": 161.89,
+    "fiber": 8.93,
+    "carbs": 123.89
+  }
+}

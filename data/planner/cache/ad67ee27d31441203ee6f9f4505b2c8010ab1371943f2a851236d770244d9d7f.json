@@ -1,0 +1,101 @@
+{
+  "id": "53267",
+  "name": "Aubergine couscous salad",
+  "cuisine": "Turkish",
+  "fingerprint": "ad67ee27d31441203ee6f9f4505b2c8010ab1371943f2a851236d770244d9d7f",
+  "yield": 2,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 2 main-course servings based on total dry couscous (140g) and vegetable quantities typical for 2 portions in similar salad recipes.",
+    "Preparation time summed from explicit instruction times (15 min grilling + 10 min couscous soaking) plus ~5 min for prep/mixing, rounded conservatively.",
+    "Goat's cheese classified as dairy (Milk allergen true) and incompatible with Vegan/Dairy-free.",
+    "Couscous from durum wheat classified as containing Wheat (Gluten-free false).",
+    "No explicit barley/rye; Vegetarian confirmed by source and ingredients; Pescatarian compatible as no meat/fish."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat grill to high. Put the aubergine on a baking sheet, brush with oil and season. Grill for about 15 mins, turning and brushing with more oil halfway, until browned and softened.\r\n\r\nstep 2\r\nMeanwhile, tip the couscous into a large bowl, pour over the stock, then cover and leave for 10 mins. Mix the tomatoes, mint, goat’s cheese and remaining oil together. Fluff the couscous up with a fork, then stir in the aubergines, tomato mixture and lemon juice.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/02s6gc1763799560.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Aubergine",
+      "measurement": "1 sliced",
+      "grams": 300,
+      "assumptions": "Medium aubergine (300g whole) sliced; edible portion after trimming ends, typical for grilling in salad recipes."
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "3  tablespoons",
+      "grams": 40,
+      "assumptions": "3 tablespoons olive oil (standard 13-14g per tbsp); fully used for brushing and in the final mix per instructions."
+    },
+    {
+      "position": 3,
+      "name": "Couscous",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "Dry couscous as specified; standard nutritional profile for uncooked durum wheat couscous before absorbing stock."
+    },
+    {
+      "position": 4,
+      "name": "Vegetable Stock",
+      "measurement": "225g",
+      "grams": 225,
+      "assumptions": "Prepared vegetable stock/broth; low-calorie liquid fully absorbed by couscous, typical commercial or homemade values."
+    },
+    {
+      "position": 5,
+      "name": "Cherry Tomatoes",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Whole cherry tomatoes as listed; standard fresh values, halved or mixed per instructions but weighed raw."
+    },
+    {
+      "position": 6,
+      "name": "Mint",
+      "measurement": "Handful",
+      "grams": 15,
+      "assumptions": "'Handful' of fresh mint leaves estimated at 15g (common recipe volume for a generous handful in salads); typical fresh herb nutrition."
+    },
+    {
+      "position": 7,
+      "name": "Goats Cheese",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Soft goat's cheese as listed; standard values for fresh/chevre style commonly crumbled into salads."
+    },
+    {
+      "position": 8,
+      "name": "Lemon",
+      "measurement": "Juice of 1/2",
+      "grams": 15,
+      "assumptions": "Juice of 1/2 lemon estimated at 15g (standard yield per half); typical fresh lemon juice values, stirred in at end."
+    }
+  ],
+  "nutrition": {
+    "calories": 1281.95,
+    "protein": 41.32,
+    "fat": 63.96,
+    "fiber": 19.48,
+    "carbs": 141.76
+  }
+}

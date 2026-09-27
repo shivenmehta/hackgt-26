@@ -1,0 +1,131 @@
+{
+  "id": "52858",
+  "name": "New York cheesecake",
+  "cuisine": "American",
+  "fingerprint": "01c06ee029b9ab72ef35fe504d7841e8f59195d0c9a870a41c3163f9a9ae0f46",
+  "yield": 10,
+  "minutes": 780,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe is for one 23cm springform cheesecake; standard yield for this style is 10 slices based on similar BBC Good Food / New York cheesecake recipes.",
+    "Total active and passive time (including minimum 8hr refrigeration) conservatively estimated at 13 hours; oven times, cooling, and chilling aggregated from instructions.",
+    "All listed ingredients used as given; no omissions.",
+    "Plain flour and biscuit crumbs (implied in instructions but not in listed ingredients) introduce wheat.",
+    "Sour cream, butter, cream cheese, and eggs introduce dairy and eggs.",
+    "No tree nuts, peanuts, fish, shellfish, or sesame indicated.",
+    "Soy ambiguous due to possible lecithin in biscuits or unspecified compounds but not explicitly listed."
+  ],
+  "categories": [],
+  "instructions": "Position an oven shelf in the middle of the oven. Preheat the oven to fan 160C/conventional 180C/gas 4. Line the base of a 23cm springform cake tin with parchment paper. For the crust, melt the butter in a medium pan. Stir in the biscuit crumbs and sugar so the mixture is evenly moistened. Press the mixture into the bottom of the pan and bake for 10 minutes. Cool on a wire rack while preparing the filling.\r\nFor the filling, increase the oven temperature to fan 200C/conventional 240C/gas 9. In a table top mixer fitted with the paddle attachment, beat the soft cheese at medium-low speed until creamy, about 2 minutes. With the mixer on low, gradually add the sugar, then the flour and a pinch of salt, scraping down the sides of the bowl and the paddle twice.\r\nSwap the paddle attachment for the whisk. Continue by adding the vanilla, lemon zest and juice. Whisk in the eggs and yolk, one at a time, scraping the bowl and whisk at least twice. Stir the 284ml carton of soured cream until smooth, then measure 200ml/7fl oz (just over 3⁄4 of the carton). Continue on low speed as you add the measured soured cream (reserve the rest). Whisk to blend, but don't over-beat. The batter should be smooth, light and somewhat airy.\r\nBrush the sides of the springform tin with melted butter and put on a baking sheet. Pour in the filling - if there are any lumps, sink them using a knife - the top should be as smooth as possible. Bake for 10 minutes. Reduce oven temperature to fan 90C/conventional 110C/gas 1⁄4 and bake for 25 minutes more. If you gently shake the tin, the filling should have a slight wobble. Turn off the oven and open the oven door for a cheesecake that's creamy in the centre, or leave it closed if you prefer a drier texture. Let cool in the oven for 2 hours. The cheesecake may get a slight crack on top as it cools.\r\nCombine the reserved soured cream with the 142ml carton, the sugar and lemon juice for the topping. Spread over the cheesecake right to the edges. Cover loosely with foil and refrigerate for at least 8 hours or overnight.\r\nRun a round-bladed knife around the sides of the tin to loosen any stuck edges. Unlock the side, slide the cheesecake off the bottom of the tin onto a plate, then slide the parchment paper out from underneath.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/swttys1511385853.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Butter",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "Standard unsalted butter; full 85g used in crust."
+    },
+    {
+      "position": 2,
+      "name": "Sour Cream",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "Standard full-fat sour cream; full amount used in crust per recipe context (measurement listed as 140g)."
+    },
+    {
+      "position": 3,
+      "name": "Sugar",
+      "measurement": "1tbsp",
+      "grams": 12,
+      "assumptions": "Granulated white sugar; 1 tbsp estimated at 12g."
+    },
+    {
+      "position": 4,
+      "name": "Cream Cheese",
+      "measurement": "900g",
+      "grams": 900,
+      "assumptions": "Full-fat cream cheese (e.g. Philadelphia style); entire 900g block used in filling."
+    },
+    {
+      "position": 5,
+      "name": "Caster Sugar",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Caster sugar (superfine white sugar); full 250g used in filling."
+    },
+    {
+      "position": 6,
+      "name": "Plain Flour",
+      "measurement": "3 tbs",
+      "grams": 24,
+      "assumptions": "Plain/all-purpose white flour; 3 tablespoons estimated at 24g (8g per tbsp)."
+    },
+    {
+      "position": 7,
+      "name": "Lemon Juice",
+      "measurement": "1 ½ teaspoons",
+      "grams": 8,
+      "assumptions": "Fresh lemon juice; 1.5 tsp estimated at ~8g (5.3g per tsp)."
+    },
+    {
+      "position": 8,
+      "name": "Eggs",
+      "measurement": "3 Large",
+      "grams": 200,
+      "assumptions": "3 large eggs (whole, raw/edible portion); total ~200g including shells discarded."
+    },
+    {
+      "position": 9,
+      "name": "Sour Cream",
+      "measurement": "250ml",
+      "grams": 200,
+      "assumptions": "Full-fat sour cream; measured 200ml from carton estimated at 200g density ~1g/ml, used in filling (recipe specifies 200ml/7fl oz)."
+    },
+    {
+      "position": 10,
+      "name": "Sour Cream",
+      "measurement": "150ml",
+      "grams": 142,
+      "assumptions": "Full-fat sour cream; full 142ml carton estimated at 142g density ~1g/ml, reserved for topping."
+    },
+    {
+      "position": 11,
+      "name": "Caster Sugar",
+      "measurement": "1 tbsp",
+      "grams": 12,
+      "assumptions": "Caster sugar; 1 tbsp estimated at 12g, used in topping."
+    },
+    {
+      "position": 12,
+      "name": "Lemon Juice",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "Fresh lemon juice; 2 tsp estimated at ~10g (5.3g per tsp), used in topping."
+    }
+  ],
+  "nutrition": {
+    "calories": 6055.41,
+    "protein": 92.3,
+    "fat": 483.28,
+    "fiber": 0.7,
+    "carbs": 349.77
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "53166",
+  "name": "Chickpea, chorizo & spinach stew",
+  "cuisine": "Spanish",
+  "fingerprint": "e29567981e63aefc7a2915a058c61b0e38ba170d014b0a73e8fc866bafe74117",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical BBC Good Food / similar stew recipes with these quantities (serves 4 adults as a main with bread).",
+    "Total time is sum of explicit step times (onion 3-4 min + veg 2-3 min + simmer 1-2 min) plus ~5 min for chopping/prep and ~3 min for wilting/seasoning; rounded conservatively.",
+    "Gluten-free is null because recipe specifies serving with crusty bread (wheat unless certified GF) and sherry vinegar is sometimes aged in wheat barrels; no explicit gluten ingredients but cross-contact possible.",
+    "Dairy-free true: no milk, cheese, butter or other dairy listed.",
+    "Chorizo makes it non-vegetarian/vegan/pescatarian; all other ingredients plant-based.",
+    "No tree nuts, peanuts, soy, eggs, fish, shellfish, milk or sesame in listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat the oil in a large pan, then gently fry the onion for 3-4 mins until it begins to soften. Stir in the carrot, celery, thyme and bay leaves. Season, then cook for 2-3 mins, stirring occasionally. Add the garlic, chorizo, cinnamon and smoked paprika. Gently fry until the vegetables soften and the chorizo starts to release its oils and crisp up.\r\n\r\nstep 2\r\nStir in the chickpeas, vinegar and 150ml water, then bring to a simmer for 1-2 mins until the chickpeas have heated up. Add the spinach, then stir through the chickpeas until it wilts a little. Remove from the heat, season to taste, then serve warm with crusty bread.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xvnx8j1763287209.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Extra Virgin Olive Oil",
+      "measurement": "4 tablespoons",
+      "grams": 54,
+      "assumptions": "4 tbsp olive oil (standard 13.5g per tbsp)"
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium onion, chopped (edible portion)"
+    },
+    {
+      "position": 3,
+      "name": "Carrots",
+      "measurement": "1 Diced",
+      "grams": 61,
+      "assumptions": "1 medium carrot, diced (edible portion)"
+    },
+    {
+      "position": 4,
+      "name": "Celery",
+      "measurement": "1 Diced",
+      "grams": 40,
+      "assumptions": "1 medium celery stalk, diced (edible portion)"
+    },
+    {
+      "position": 5,
+      "name": "Thyme",
+      "measurement": "3",
+      "grams": 3,
+      "assumptions": "3 sprigs fresh thyme, leaves and stem (typical small bunch per sprig)"
+    },
+    {
+      "position": 6,
+      "name": "Bay Leaves",
+      "measurement": "2",
+      "grams": 1,
+      "assumptions": "2 dried bay leaves (typical weight)"
+    },
+    {
+      "position": 7,
+      "name": "Garlic",
+      "measurement": "2 cloves chopped",
+      "grams": 6,
+      "assumptions": "2 cloves garlic, chopped (edible portion)"
+    },
+    {
+      "position": 8,
+      "name": "Chorizo",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "200g chorizo sausage as listed (cured, typical cured Spanish variety)"
+    },
+    {
+      "position": 9,
+      "name": "Cinnamon",
+      "measurement": "1/4 tsp",
+      "grams": 0.6,
+      "assumptions": "1/4 tsp ground cinnamon (standard 2.6g per tsp)"
+    },
+    {
+      "position": 10,
+      "name": "Paprika",
+      "measurement": "1 teaspoon",
+      "grams": 2.3,
+      "assumptions": "1 tsp smoked paprika (standard 2.3g per tsp)"
+    },
+    {
+      "position": 11,
+      "name": "Chickpeas",
+      "measurement": "800g",
+      "grams": 480,
+      "assumptions": "800g can chickpeas, drained weight approx 60% of can (standard drained yield)"
+    },
+    {
+      "position": 12,
+      "name": "Sherry vinegar",
+      "measurement": "2 tblsp",
+      "grams": 30,
+      "assumptions": "2 tbsp sherry vinegar (standard 15ml per tbsp, low-calorie vinegar)"
+    },
+    {
+      "position": 13,
+      "name": "Spinach",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "400g fresh spinach (edible raw weight)"
+    }
+  ],
+  "nutrition": {
+    "calories": 2158.49,
+    "protein": 96.29,
+    "fat": 143.71,
+    "fiber": 44,
+    "carbs": 129.42
+  }
+}

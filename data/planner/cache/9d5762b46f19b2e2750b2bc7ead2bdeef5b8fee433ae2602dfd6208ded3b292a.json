@@ -1,0 +1,138 @@
+{
+  "id": "53374",
+  "name": "Sichuan Eggplant",
+  "cuisine": "Chinese",
+  "fingerprint": "9d5762b46f19b2e2750b2bc7ead2bdeef5b8fee433ae2602dfd6208ded3b292a",
+  "yield": 4,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": true,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on 1.5 lb eggplant as primary ingredient, typical for 4 side or 2-3 main portions in Chinese stir-fry recipes; conservative classification used.",
+    "Peanut oil classifies as peanuts allergen present.",
+    "Soy sauce and chili bean paste (containing soybeans) classify as soy allergen present.",
+    "Wheat allergen null due to possible wheat in soy sauce or chili bean paste but not explicitly confirmed in all variants.",
+    "Fish allergen null due to possible fish sauce in some chicken stocks or pastes but not listed.",
+    "Minutes estimated from mise en place (10 min) + sauté and simmer steps (20 min total active cooking).",
+    "Chicken stock makes vegetarian/vegan false per dietary screening; no gluten-free confirmation as soy sauce and pastes often contain wheat."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "This recipe calls for asian eggplants, or Japanese eggplants. They are long and thin compared to a European or globe eggplant, and much more tender and delicate. If you can't find them you can substitute globe eggplant, but the dish is really best with the asian eggplant.\r\n\r\n*A lot of grocery stores have Asian ingredient aisles now. You should be able to find chili-bean paste, a mixture of preserved chilies mixed with mashed soybeans, there or at any Asian market. (Do not confuse with black bean paste or chili-garlic paste.)\r\n\r\n**Sichuan peppercorns are available at some stores and online for quite cheap. They aren't spicy like other peppers but rather have a citrusy flavor and induce a tingly, numbing sensation like a carbonated drink.\r\n\r\nPrep eggplant, chili sauce, cornstarch slurry, vinegar and scallions:\r\nBegin your mise en place. Quarter the eggplant lengthwise and chop into large batons and set aside.\r\n\r\nIn a small bowl, mix together the chicken stock, sugar, and soy sauce and set it aside.\r\n\r\nIn a second bowl, mix together the chili bean paste, garlic, ginger, and sichuan peppercorns and set it aside.\r\n\r\nIn a third bowl, mix together the cornstarch with a tablespoon of water and set it aside.\r\n\r\nLastly, in a fourth bowl, mix together the scallions and vinegar and set it aside.\r\n\r\nSauté eggplant:\r\nPlace the oil in a wok or large sauté pan over medium-high heat until the oil is almost smoking. Add the eggplant and sauté, allowing it to sit for a few seconds each time you move it to allow it to brown and blister. If the eggplant absorbs all the oil and some pieces don't get any then add a little more oil.\r\n\r\nAdd the chili bean paste, garlic, ginger, and sichuan peppercorns and sauté:\r\nuntil fragrant, about 30 seconds.\r\n\r\nAdd the chicken stock mixture:\r\nturn the heat to medium-low and simmer for 90 seconds.\r\n\r\nAdd the cornstarch mixture:\r\nand stir together until the sauce thickens a bit.\r\n\r\nAdd the scallions and vinegar:\r\nand cook for 15 seconds to diffuse their harsh flavors a bit.\r\n\r\nGarnish with cilantro and serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Egg Plants",
+      "measurement": "1.5 pounds sliced",
+      "grams": 680,
+      "assumptions": "1.5 lb = 680g raw Asian/Japanese eggplant (edible portion); typical nutrition for raw eggplant adjusted for long thin variety."
+    },
+    {
+      "position": 2,
+      "name": "Peanut Oil",
+      "measurement": "2 tablespoons",
+      "grams": 28,
+      "assumptions": "2 tbsp peanut oil = 28g; standard cooking oil density and full fat content."
+    },
+    {
+      "position": 3,
+      "name": "Chicken Stock",
+      "measurement": "1/4 cup",
+      "grams": 60,
+      "assumptions": "1/4 cup chicken stock ≈ 60g; typical low-sodium broth values, mostly water with minimal macros."
+    },
+    {
+      "position": 4,
+      "name": "Sugar",
+      "measurement": "2 tsp",
+      "grams": 8,
+      "assumptions": "2 tsp granulated sugar = 8g; pure carbohydrate."
+    },
+    {
+      "position": 5,
+      "name": "Soy Sauce",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "1/2 tsp soy sauce ≈ 3g; standard fermented soy sauce nutrition."
+    },
+    {
+      "position": 6,
+      "name": "Chilli Bean Paste",
+      "measurement": "1 ½ tbsp",
+      "grams": 24,
+      "assumptions": "1.5 tbsp chili bean paste (doubanjiang) ≈ 24g; typical values for fermented chili-soybean paste, estimated from similar condiments."
+    },
+    {
+      "position": 7,
+      "name": "Sichuan Pepper",
+      "measurement": "2 tsp",
+      "grams": 4,
+      "assumptions": "2 tsp ground Sichuan peppercorns ≈ 4g; low-calorie spice with typical pepper nutrition."
+    },
+    {
+      "position": 8,
+      "name": "Ginger",
+      "measurement": "2 tsp",
+      "grams": 4,
+      "assumptions": "2 tsp minced fresh ginger ≈ 4g; standard raw ginger root values."
+    },
+    {
+      "position": 9,
+      "name": "Garlic",
+      "measurement": "5 cloves",
+      "grams": 15,
+      "assumptions": "5 cloves garlic ≈ 15g; typical raw garlic nutrition."
+    },
+    {
+      "position": 10,
+      "name": "Cornstarch",
+      "measurement": "1 tsp",
+      "grams": 3,
+      "assumptions": "1 tsp cornstarch ≈ 3g; nearly pure carbohydrate starch."
+    },
+    {
+      "position": 11,
+      "name": "Apple Cider Vinegar",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 tsp apple cider vinegar ≈ 10g; typical vinegar nutrition, mostly water with trace carbs."
+    },
+    {
+      "position": 12,
+      "name": "Scallions",
+      "measurement": "4 Chopped",
+      "grams": 60,
+      "assumptions": "4 chopped scallions ≈ 60g (about 4 medium); raw green onion values."
+    },
+    {
+      "position": 13,
+      "name": "Cilantro",
+      "measurement": "Garnish",
+      "grams": 10,
+      "assumptions": "Cilantro garnish estimated at 10g (small handful); typical raw cilantro leaves nutrition for a plated garnish."
+    }
+  ],
+  "nutrition": {
+    "calories": 539.65,
+    "protein": 10.84,
+    "fat": 30.93,
+    "fiber": 23.47,
+    "carbs": 65.06
+  }
+}

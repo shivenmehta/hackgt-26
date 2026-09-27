@@ -1,0 +1,169 @@
+{
+  "id": "52829",
+  "name": "Grilled Mac and Cheese Sandwich",
+  "cuisine": "American",
+  "fingerprint": "6deefa8258df43e7f4c96d909472294cbbbfb391951ddc8bad972ec92703507d",
+  "yield": 8,
+  "minutes": 150,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from recipe cutting mac and cheese into 8 pieces, each used for 1 sandwich (step 8).",
+    "Total time is approximate active + passive (mac & cheese prep ~30 min + 60 min chill + sandwich assembly/cooking ~60 min).",
+    "Vegetarian: true as all ingredients are compatible with lacto-vegetarian diet (no meat/fish).",
+    "Vegan: false due to multiple dairy products (butter, milk, cream, cheeses).",
+    "Pescatarian: false as dairy cheeses incompatible with strict pescatarian definitions in this classification.",
+    "Gluten-free: false due to wheat-based macaroni, plain flour, and bread.",
+    "Dairy-free: false due to butter, milk, cream, and multiple cheeses.",
+    "Milk allergen: true (explicit dairy products).",
+    "Wheat allergen: true (macaroni, flour, bread).",
+    "Other allergens set per guidelines: confidently absent=false, ambiguous=null (e.g. possible shared equipment for eggs/soy/sesame)."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Make the mac and cheese\r\n\r\n1. Bring a medium saucepan of generously salted water (you want it to taste like seawater) to a boil. Add the pasta and cook, stirring occasionally, until al dente, 8 to 10 minutes, or according to the package directions. The pasta should be tender but still chewy.\r\n2. While the pasta is cooking, in a small bowl, whisk together the flour, mustard powder, garlic powder, salt, black pepper, and cayenne pepper.\r\n3. Drain the pasta in a colander. Place the empty pasta pan (no need to wash it) over low heat and add the butter. When the butter has melted, whisk in the flour mixture and continue to cook, whisking frequently, until the mixture is beginning to brown and has a pleasant, nutty aroma, about 1 minute. Watch carefully so it does not scorch on the bottom of the pan.\r\n4. Slowly whisk the milk and cream into the flour mixture until everything is really well combined. Cook, whisking constantly, until the sauce is heated through and just begins to thicken, about 2 minutes. Remove from the heat. Gradually add the cheese while stirring constantly with a wooden spoon or silicone spatula and keep stirring until the cheese has melted into the sauce. Then stir in the drained cooked pasta.\r\n5. Line a 9-by-13-inch (23-by-33-centimeter) rimmed baking sheet with parchment paper or aluminum foil. Coat the paper or foil with nonstick cooking spray or slick it with butter. Pour the warm mac and cheese onto the prepared baking sheet and spread it evenly with a spatula. Coat another piece of parchment paper with cooking spray or butter and place it, oiled or buttered side down, directly on the surface of the mac and cheese. Refrigerate until cool and firm, about 1 hour.\r\n\r\nMake the grilled cheese\r\n6. Heat a large cast-iron or nonstick skillet over medium-low heat.\r\n7. In a small bowl, stir together the 4 tablespoons (55 grams) butter and garlic powder until well blended.\r\n8. Remove the mac and cheese from the refrigerator and peel off the top layer of parchment paper. Carefully cut into 8 equal pieces. Each piece will make 1 grilled mac and cheese sandwich. (You can stash each individual portion in a double layer of resealable plastic bags and refrigerate for up to 3 days or freeze it for up to 1 month.)\r\n9. Spread 3/4 teaspoon garlic butter on one side of each bread slice. Place half of the slices, buttered-side down, on a clean cutting board. Top each with one slice of Cheddar, then 1 piece of the mac and cheese. (Transfer from the baking sheet by scooting your hand or a spatula under each piece of mac and cheese and then flipping it over onto a sandwich.) Place 1 slice of Jack on top of each. Finish with the remaining bread slices, buttered-side up.\r\n10. Using a wide spatula, place as many sandwiches in the pan as will fit without crowding it. Cover and cook until the bottoms are nicely browned, about 4 minutes. Turn and cook until the second sides are browned, the cheese is melted, and the mac and cheese is heated through, about 4 minutes more.\r\n11. Repeat with the remaining ingredients. Cut the sandwiches in half, if desired, and serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Macaroni",
+      "measurement": "8 ounces (230 grams)",
+      "grams": 230,
+      "assumptions": "Dry elbow macaroni; standard values for uncooked enriched pasta."
+    },
+    {
+      "position": 2,
+      "name": "Plain Flour",
+      "measurement": "1/3 cup",
+      "grams": 42,
+      "assumptions": "All-purpose white flour; 1/3 cup equals approximately 42g."
+    },
+    {
+      "position": 3,
+      "name": "Mustard Powder",
+      "measurement": "3/4 teaspoon",
+      "grams": 4,
+      "assumptions": "Dry mustard powder; negligible calories and macros for small spice quantity of 3/4 tsp."
+    },
+    {
+      "position": 4,
+      "name": "Garlic powder",
+      "measurement": "1/2 teaspoon",
+      "grams": 2,
+      "assumptions": "Garlic powder; negligible calories and macros for small spice quantity of 1/2 tsp."
+    },
+    {
+      "position": 5,
+      "name": "Kosher salt",
+      "measurement": "1/2 teaspoon",
+      "grams": 3,
+      "assumptions": "Kosher salt; negligible calories and macros for 1/2 tsp."
+    },
+    {
+      "position": 6,
+      "name": "Black pepper",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "Ground black pepper; negligible calories and macros for 1/2 tsp."
+    },
+    {
+      "position": 7,
+      "name": "Cayenne pepper",
+      "measurement": "1/8 teaspoon",
+      "grams": 0.3,
+      "assumptions": "Cayenne pepper; negligible calories and macros for very small spice quantity of 1/8 tsp."
+    },
+    {
+      "position": 8,
+      "name": "Butter",
+      "measurement": "6 tablespoons (85 grams)",
+      "grams": 85,
+      "assumptions": "Unsalted butter; used in the sauce roux."
+    },
+    {
+      "position": 9,
+      "name": "Whole Milk",
+      "measurement": "1 1/2 cups (360 milliliters)",
+      "grams": 360,
+      "assumptions": "Whole milk; 1.5 cups equals 360ml, density ~1g/ml."
+    },
+    {
+      "position": 10,
+      "name": "Heavy Cream",
+      "measurement": "1 cup (240 milliliters)",
+      "grams": 240,
+      "assumptions": "Heavy cream; 1 cup equals 240ml, density ~1g/ml."
+    },
+    {
+      "position": 11,
+      "name": "Monterey Jack Cheese",
+      "measurement": "1 pound (455 grams)",
+      "grams": 455,
+      "assumptions": "Monterey Jack cheese, shredded or grated; 1 pound block."
+    },
+    {
+      "position": 12,
+      "name": "Butter",
+      "measurement": "4 tablespoons (55 grams)",
+      "grams": 55,
+      "assumptions": "Unsalted butter; for garlic butter spread, 4 tablespoons."
+    },
+    {
+      "position": 13,
+      "name": "garlic powder",
+      "measurement": "1 teaspoon",
+      "grams": 3,
+      "assumptions": "Garlic powder; negligible calories and macros for 1 tsp in butter."
+    },
+    {
+      "position": 14,
+      "name": "Bread",
+      "measurement": "16 slices square",
+      "grams": 640,
+      "assumptions": "White sandwich bread; standard square slices ~40g each, 16 slices total."
+    },
+    {
+      "position": 15,
+      "name": "Cheddar Cheese",
+      "measurement": "8 slices mild",
+      "grams": 200,
+      "assumptions": "Mild Cheddar cheese slices; 8 slices at ~25g each."
+    },
+    {
+      "position": 16,
+      "name": "Colby Jack Cheese",
+      "measurement": "8 slices",
+      "grams": 200,
+      "assumptions": "Colby Jack cheese slices; 8 slices at ~25g each, similar to Monterey Jack."
+    },
+    {
+      "position": 17,
+      "name": "Butter",
+      "measurement": "4 tablespoons (55 grams)",
+      "grams": 55,
+      "assumptions": "Unsalted butter; additional for skillet or spread, 4 tablespoons as listed."
+    }
+  ],
+  "nutrition": {
+    "calories": 8379.43,
+    "protein": 311.02,
+    "fat": 545.32,
+    "fiber": 25.54,
+    "carbs": 554.89
+  }
+}

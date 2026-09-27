@@ -1,0 +1,124 @@
+{
+  "id": "53377",
+  "name": "Napa Cabbage with Dried Shrimp",
+  "cuisine": "Chinese",
+  "fingerprint": "e63d55d0f10f386018cfc36fe1116bf5443a76f4cfb3ab27e202ae21eebdda57",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": true,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on typical stir-fry volume from 1 head napa cabbage plus add-ins, consistent with similar recipes and the provided ingredient gram assumptions noting 'yielding 4 servings'.",
+    "Total time estimated at 45 minutes: 30 min shrimp rehydration + 5 min cabbage prep + 10 min active cooking/stirring (1 min aromatics, 3-4 min white cabbage, 2 min greens, 1-2 min sauce).",
+    "Peanut oil present so peanuts allergen true; soy sauce present so soy true; dried shrimp present so fish and shellfish true.",
+    "Gluten-free null because soy sauce type unspecified (may contain wheat); wheat null for same reason.",
+    "No milk, eggs, tree nuts, or sesame listed so those allergens false.",
+    "Vegetarian and vegan false due to dried shrimp (animal-derived).",
+    "Pescatarian true as only seafood (shrimp) is the animal ingredient; no meat or dairy."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Dried shrimp gives this Chinese dish a punch of salty umami flavor. You can find it at an Asian grocery store in the frozen or refrigerated section. Look for small-sized dried shrimp, about a 1/4-inch in size. If you use medium or large dried shrimp, hydrate the shrimp with more water (1 cup for medium-sized shrimp, 1 1/4 cup for large) and for longer time (45 to 60 minutes), then chop it up into smaller 1/4-inch chunks. To make this recipe vegetarian, omit the dried shrimp and use four or five dried shiitake mushrooms, rehydrated, and sliced thin.\r\n\r\nRehydrate the dried shrimp:\r\nPlace the dried shrimp in a small bowl and pour the boiling water over it. Cover with a small plate and let sit for 30 minutes so the shrimp can rehydrate. The shrimp will be lighter in color and plump up slightly.\r\n\r\nPrep the cabbage:\r\nMeanwhile, split the napa cabbage in half lengthwise. Rinse the cabbage and shake it dry. Cut out the core of the cabbage and discard.\r\n\r\nSet out two large bowls. Cut the remaining cabbage into 1-inch pieces, putting the thicker white pieces at the bottom of the cabbage into one bowl and the top thinner leafy green pieces into the other bowl.\r\n\r\nDrain the shrimp:\r\nOnce the shrimp has rehydrated, drain it and discard the liquid.\r\n\r\nCook the shrimp and cabbage:\r\nIn a large wok or skillet over high heat add the peanut oil, swirling it around to coat the pan.\r\n\r\nHeat until the oil looks shimmering hot, then carefully add the scallions, ginger, and rehydrated shrimp, paying specially attention as the wet ingredients may cause the hot oil to splatter. Toss with a spatula until the scallions are bright green and the entire mixture is fragrant, about 1 minute.\r\n\r\nAdd the thicker white part of the napa cabbage to the pan and lower the heat to medium high. Continue to cook and stir for 3 to 4 minutes, or until the edges of the cabbage pieces start to look slightly translucent but the center of the cabbage pieces are still opaque white.\r\n\r\nReduce the heat to medium low and add the leafy green pieces of cabbage into the pan. Cook until the leaves are wilted, about 2 minutes.\r\n\r\nMake a cornstarch slurry:\r\nIn a small bowl, combine the soy sauce, cold water, and cornstarch, stirring to make a slurry. Then pour over the cabbage and continue to cook and stir until a sauce has thickened slightly to the consistency of whole milk.\r\n\r\nSeason the stir fry:\r\nSeason the stir fry with salt and pepper, then taste and add more salt and pepper if you wish. The cabbage will be translucent and silky looking, with specks of dried shrimp all over.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/9nh4dl1766435484.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Dried Shrimp",
+      "measurement": "2 tablespoons",
+      "grams": 18,
+      "assumptions": "2 tbsp small dried shrimp ≈ 18g based on typical Asian market package density for rehydrated size specified"
+    },
+    {
+      "position": 2,
+      "name": "Boiling Water",
+      "measurement": "3/4 cup",
+      "grams": 177,
+      "assumptions": "3/4 cup boiling water = 177 ml; water contributes 0 macros"
+    },
+    {
+      "position": 3,
+      "name": "Napa Cabbage",
+      "measurement": "1 head",
+      "grams": 800,
+      "assumptions": "1 medium napa cabbage head ≈ 800g edible portion after core removal, typical for stir-fry recipe yielding 4 servings"
+    },
+    {
+      "position": 4,
+      "name": "Peanut Oil",
+      "measurement": "2 tablespoons",
+      "grams": 28,
+      "assumptions": "2 tbsp peanut oil = 28g standard volume-to-weight conversion for cooking oil"
+    },
+    {
+      "position": 5,
+      "name": "Scallions",
+      "measurement": "4 Chopped",
+      "grams": 60,
+      "assumptions": "4 chopped scallions ≈ 60g (about 1 bunch portion used in stir-fry)"
+    },
+    {
+      "position": 6,
+      "name": "Ginger",
+      "measurement": "1 tablespoon",
+      "grams": 6,
+      "assumptions": "1 tbsp minced ginger ≈ 6g standard measure for fresh ginger root"
+    },
+    {
+      "position": 7,
+      "name": "Soy Sauce",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp regular soy sauce ≈ 15g; typical sodium-inclusive values"
+    },
+    {
+      "position": 8,
+      "name": "Water",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp cold water = 15 ml; contributes 0 macros"
+    },
+    {
+      "position": 9,
+      "name": "Cornstarch",
+      "measurement": "2 tsp",
+      "grams": 5,
+      "assumptions": "2 tsp cornstarch ≈ 5g standard volume-to-weight for thickener"
+    },
+    {
+      "position": 10,
+      "name": "Kosher Salt",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp kosher salt ≈ 5g; contributes 0 macros"
+    },
+    {
+      "position": 11,
+      "name": "Pepper",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp ground pepper ≈ 1g; contributes 0 macros"
+    }
+  ],
+  "nutrition": {
+    "calories": 443.74,
+    "protein": 19.66,
+    "fat": 30.2,
+    "fiber": 11.43,
+    "carbs": 29.14
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "53343",
+  "name": "Classic Tourtière",
+  "cuisine": "Canadian",
+  "fingerprint": "ec6187334455545eba6af700185716c8999a23a8ab86a79097e9bd0c9c7c5be2",
+  "yield": 9,
+  "minutes": 80,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": null
+  },
+  "allergens": {
+    "Milk": null,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from instructions stating 'Serves: 8-10 (makes 2 9-inch pies)' using midpoint of 9 servings total",
+    "Total time is sum of active and passive steps: ~5 min sauté + ~20 min browning/simmer + ~15 min cooling prep + ~5 min assembly + 45 min bake + 15 min rest (instructions specify 'let the mixture cool completely' and 'let cool for 15 minutes before slicing' but full cooling time not quantified so using explicit times only)",
+    "Shortcrust pastry assumed to contain wheat flour (standard composition)",
+    "Egg used for wash so Eggs allergen present",
+    "No explicit dairy in listed ingredients but Shortcrust Pastry may contain butter (ambiguous without full recipe so Dairy-free null)",
+    "Beef stock assumed meat-based (not vegetarian/vegan)",
+    "No tree nuts, peanuts, fish, shellfish, soy, or sesame listed or implied",
+    "Bay leaf removed before filling so negligible impact"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat oil on medium-high heat in a large sauté pan or skillet, then sauté the onion and garlic until softened, about 5 minutes. Add the ground beef, pork, and spices and cook until the meat is browned.\r\nAdd the beef broth and bring it up to a simmer then reduce heat to medium low. Add the grated potato and stir it in. Cook until liquid is almost absorbed, about 15 min. Remove the bay leaves and add salt to taste. Remove the pan from the heat and let the mixture cool completely — it bakes best if the filling is chilled.\r\nPreheat the oven to 375 °F (190 °C). On a lightly floured surface, roll out one disc of the pie dough to less than the 1/4-inch thickness and line the 9-inch pie plate. Fill this with the cooled tourtière mixture and spread out evenly. Roll out the remaining dough to the same thickness, cut a hole in the centre (for steam to escape) and place on top of the filling. Trim the dough to 1/2-inch beyond the edge of the pie plate and pinch the edges of the crust together. Brush the crust with the egg wash.\r\nBake tourtière for about 45 minutes or until the pastry is a rich golden brown. Let cool for 15 minutes before slicing to serve.\r\nServes: 8-10 (makes 2 9-inch pies)",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/0sd7ac1764787957.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Canola Oil",
+      "measurement": "2 tablespoons",
+      "grams": 28,
+      "assumptions": "Standard canola oil nutrition; 1 tbsp = 14g so 2 tbsp = 28g."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium onion chopped ≈ 110g raw weight."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves minced ≈ 6g raw."
+    },
+    {
+      "position": 4,
+      "name": "Ground Beef",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "1 lb raw ground beef (80/20); standard raw values used as added early and moisture evaporates."
+    },
+    {
+      "position": 5,
+      "name": "Ground Pork",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "1 lb raw ground pork; typical raw values as cooked in recipe."
+    },
+    {
+      "position": 6,
+      "name": "Dried Leaves Of Summer Savoury",
+      "measurement": "1 tsp",
+      "grams": 1,
+      "assumptions": "1 tsp dried summer savory ≈ 1g; typical dried herb nutrition."
+    },
+    {
+      "position": 7,
+      "name": "Salt",
+      "measurement": "To taste",
+      "grams": 2,
+      "assumptions": "To taste salt; estimated ½ tsp added for whole recipe (≈2g)."
+    },
+    {
+      "position": 8,
+      "name": "Pepper",
+      "measurement": "To taste",
+      "grams": 1,
+      "assumptions": "To taste black pepper; estimated ½ tsp ground (≈1g)."
+    },
+    {
+      "position": 9,
+      "name": "Ground Clove",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "½ tsp ground cloves ≈ 1g; typical dried spice nutrition."
+    },
+    {
+      "position": 10,
+      "name": "Ground Nutmeg",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "½ tsp ground nutmeg ≈ 1g; typical dried spice nutrition."
+    },
+    {
+      "position": 11,
+      "name": "Bay Leaf",
+      "measurement": "1",
+      "grams": 1,
+      "assumptions": "1 whole dried bay leaf; negligible edible weight and nutrition after removal."
+    },
+    {
+      "position": 12,
+      "name": "Beef Stock",
+      "measurement": "1 cup",
+      "grams": 240,
+      "assumptions": "1 cup beef stock/broth; typical low-sodium canned or homemade values."
+    },
+    {
+      "position": 13,
+      "name": "Russet Potato",
+      "measurement": "1 small",
+      "grams": 125,
+      "assumptions": "1 small russet potato (grated) ≈ 125g raw; remains in filling."
+    },
+    {
+      "position": 14,
+      "name": "Shortcrust Pastry",
+      "measurement": "4",
+      "grams": 500,
+      "assumptions": "4 shortcrust pastry discs for 2 pies (≈125g each raw dough); typical homemade or store-bought pie crust nutrition, total weight estimated for two 9-inch double-crust pies."
+    },
+    {
+      "position": 15,
+      "name": "Egg",
+      "measurement": "1 beaten",
+      "grams": 50,
+      "assumptions": "1 large egg beaten for wash; ≈50g edible portion used on crusts."
+    }
+  ],
+  "nutrition": {
+    "calories": 5092.9,
+    "protein": 196.03,
+    "fat": 370.44,
+    "fiber": 15.54,
+    "carbs": 247.45
+  }
+}

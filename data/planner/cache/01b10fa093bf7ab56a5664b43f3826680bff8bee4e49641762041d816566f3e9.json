@@ -1,0 +1,96 @@
+{
+  "id": "52920",
+  "name": "Chicken Marengo",
+  "cuisine": "French",
+  "fingerprint": "01b10fa093bf7ab56a5664b43f3826680bff8bee4e49641762041d816566f3e9",
+  "yield": 4,
+  "minutes": 55,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from 4 chicken legs as primary protein, typical for 4 adult servings",
+    "Total time is 15 min active (stir-fry, add ingredients) + 40 min simmer",
+    "Gluten-free is null because chicken stock cube composition is unspecified and may contain wheat",
+    "Fish is null because Worcestershire sauce or anchovies are sometimes in stock cubes but not listed",
+    "Parsley classified as herb, not introducing allergens",
+    "No dairy, eggs, tree nuts, peanuts, sesame, or shellfish ingredients present",
+    "Chicken stock cube treated as containing chicken but no additional animal products confirmed"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat the oil in a large flameproof casserole dish and stir-fry the mushrooms until they start to soften. Add the chicken legs and cook briefly on each side to colour them a little.\r\nPour in the passata, crumble in the stock cube and stir in the olives. Season with black pepper – you shouldn’t need salt. Cover and simmer for 40 mins until the chicken is tender. Sprinkle with parsley and serve with pasta and a salad, or mash and green veg, if you like.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "1 tbs",
+      "grams": 14,
+      "assumptions": "1 tbs olive oil is approximately 14g; standard cooking oil values used."
+    },
+    {
+      "position": 2,
+      "name": "Mushrooms",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "White button or mixed mushrooms; raw weight as added; typical values for common mushrooms."
+    },
+    {
+      "position": 3,
+      "name": "Chicken Legs",
+      "measurement": "4",
+      "grams": 1200,
+      "assumptions": "4 average chicken legs (drumstick+thigh) total ~1.2kg raw with skin and bone; typical skin-on poultry values."
+    },
+    {
+      "position": 4,
+      "name": "Passata",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Tomato passata (strained tomatoes); values for unsweetened commercial passata."
+    },
+    {
+      "position": 5,
+      "name": "Chicken Stock Cube",
+      "measurement": "1",
+      "grams": 5,
+      "assumptions": "1 standard chicken stock cube ~5g; values for typical dry bouillon cube, assuming full dissolution."
+    },
+    {
+      "position": 6,
+      "name": "Black Olives",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Pitted black olives (canned in brine, drained weight); typical Mediterranean black olive nutrition."
+    },
+    {
+      "position": 7,
+      "name": "Parsley",
+      "measurement": "Chopped",
+      "grams": 15,
+      "assumptions": "'Chopped' parsley assumed as a small bunch garnish ~15g fresh; standard fresh herb values."
+    }
+  ],
+  "nutrition": {
+    "calories": 2552.66,
+    "protein": 247.8,
+    "fat": 147.51,
+    "fiber": 16.7,
+    "carbs": 56.1
+  }
+}

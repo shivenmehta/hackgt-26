@@ -1,0 +1,138 @@
+{
+  "id": "53153",
+  "name": "Churros",
+  "cuisine": "Spanish",
+  "fingerprint": "927576924ef1b9f1df3ed2074c75f992b7adc72080e6f58f926f24ca8af06d33",
+  "yield": 6,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical churros recipes using ~250g flour yielding 6 servings of 4-5 churros each.",
+    "Total time is sum of active prep, resting, frying in batches, and sauce making; conservative estimate based on steps (10-15 min rest, multiple fry batches, sauce melting).",
+    "Bread used only for oil temperature test and is not consumed; excluded from final dish calculations.",
+    "Sunflower oil is frying medium; only absorbed portion (~30g) is in the final product per provided data.",
+    "All ingredients classified conservatively per listed items; no substitutions proposed.",
+    "Dark chocolate assumed dairy-free unless specified; milk/cream/butter are separate dairy sources.",
+    "No eggs, fish, shellfish, peanuts, sesame, or tree nuts explicitly listed."
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nBoil the kettle, then measure 300ml boiling water into a jug and add the melted butter and vanilla extract. Sift the flour and baking powder into a big mixing bowl with a big pinch of salt. Make a well in the centre, then pour in the contents of the jug and very quickly beat into the flour with a wooden spoon until lump-free. Rest for 10-15 mins while you make the sauce.\r\n\r\nstep 2\r\nPut all the sauce ingredients into a pan and gently melt together, stirring occasionally until you have a smooth shiny sauce. Keep warm on a low heat.\r\n\r\nstep 3\r\nFill a large deep saucepan one-third full of oil. Cooking with hot oil can be dangerous – before you start, read up on how to deep-fry safely to avoid accidents in the kitchen. Heat until a cube of bread browns in 45 seconds to 1 min. Cover a tray with kitchen paper and mix the caster sugar and cinnamon together.\r\n\r\nstep 4\r\nFit a star nozzle to a piping bag – 1.5-2cm wide is a good size. Fill with the rested dough, then pipe 2-3 strips directly into the pan, snipping off each dough strip with a pair of kitchen scissors. Fry until golden brown and crisp. Be very careful here – if air bubbles form in the churros they can explode, especially if the oil overheats or you use old flour. Cooking with hot oil can be dangerous – before you start, read up on how to deep-fry safely to avoid accidents in the kitchen. Keep children out of the kitchen and protect yourself by wearing long sleeves and eye protection, and keeping your face away from the pan.\r\n\r\nstep 5\r\nOnce the churros are crisp and golden brown, remove them from the oil with a slotted spoon and drain on the kitchen paper-lined tray. Carry on cooking the rest of the dough in batches, sprinkling the cooked churros with some cinnamon sugar as you go. When you’ve cooked all the churros, toss with any remaining cinnamon sugar and serve with the chocolate sauce, for dipping.\r\nTo see a video of how to prepare churros, take a look at our churros ice cream sandwich recipe.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/nxnny61763250596.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Butter",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Standard unsalted butter; fully used in dough."
+    },
+    {
+      "position": 2,
+      "name": "Vanilla Extract",
+      "measurement": "1/2 teaspoon",
+      "grams": 2,
+      "assumptions": "Typical vanilla extract density ~0.9 g/ml; 1/2 tsp ≈ 2g; negligible impact."
+    },
+    {
+      "position": 3,
+      "name": "Plain Flour",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Standard plain white wheat flour; used as-is."
+    },
+    {
+      "position": 4,
+      "name": "Baking Powder",
+      "measurement": "1 teaspoon",
+      "grams": 4,
+      "assumptions": "Typical baking powder; 1 tsp ≈ 4g; used in dough."
+    },
+    {
+      "position": 5,
+      "name": "Sunflower Oil",
+      "measurement": "1 L",
+      "grams": 30,
+      "assumptions": "Sunflower oil for deep-frying; estimated 30g absorbed per typical batch of churros based on similar fried dough recipes (not the full 1L which is the frying medium)."
+    },
+    {
+      "position": 6,
+      "name": "Bread",
+      "measurement": "2 chopped",
+      "grams": 30,
+      "assumptions": "Cube of white bread used only as oil-temperature test; ≈30g bread; not consumed in final dish."
+    },
+    {
+      "position": 7,
+      "name": "Dark Chocolate",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Standard 70% dark chocolate; fully used in sauce."
+    },
+    {
+      "position": 8,
+      "name": "Double Cream",
+      "measurement": "100 ml",
+      "grams": 100,
+      "assumptions": "Standard double (heavy) cream; fully used in sauce."
+    },
+    {
+      "position": 9,
+      "name": "Milk",
+      "measurement": "100 ml",
+      "grams": 100,
+      "assumptions": "Standard whole milk; fully used in sauce."
+    },
+    {
+      "position": 10,
+      "name": "Golden Syrup",
+      "measurement": "3  tablespoons",
+      "grams": 60,
+      "assumptions": "Golden syrup (invert sugar syrup); 3 tbsp ≈ 60g; fully used in sauce."
+    },
+    {
+      "position": 11,
+      "name": "Vanilla Extract",
+      "measurement": "1/2 teaspoon",
+      "grams": 2,
+      "assumptions": "Second vanilla extract for sauce; 1/2 tsp ≈ 2g; negligible impact."
+    },
+    {
+      "position": 12,
+      "name": "Caster Sugar",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Standard caster sugar; fully used for coating."
+    },
+    {
+      "position": 13,
+      "name": "Cinnamon",
+      "measurement": "2 teaspoon",
+      "grams": 5,
+      "assumptions": "Ground cinnamon; 2 tsp ≈ 5g; used in coating mix."
+    }
+  ],
+  "nutrition": {
+    "calories": 3801.34,
+    "protein": 49.1,
+    "fat": 196.76,
+    "fiber": 32.61,
+    "carbs": 435.68
+  }
+}

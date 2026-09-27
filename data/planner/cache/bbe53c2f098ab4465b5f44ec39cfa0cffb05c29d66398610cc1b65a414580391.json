@@ -1,0 +1,131 @@
+{
+  "id": "52770",
+  "name": "Spaghetti Bolognese",
+  "cuisine": "Italian",
+  "fingerprint": "bbe53c2f098ab4465b5f44ec39cfa0cffb05c29d66398610cc1b65a414580391",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on 500g beef + 350g dry pasta quantities, standard for this classic recipe.",
+    "Total time is sum of sequential steps: ~5 min onion/garlic, ~5 min browning mince/mushrooms, 30 min simmer, ~10-12 min pasta cook (overlapping with simmer), plus minimal drain/mix time.",
+    "Worcestershire sauce treated as containing fish (anchovies) but left null due to possible vegetarian variants and lack of explicit confirmation.",
+    "Parmesan topping classified as dairy (milk) but quantity too small/optional to affect vegetarian status.",
+    "Gluten-free is false due to wheat-based spaghetti and likely gluten in stock/sauce; no gluten-free labeling present.",
+    "Beef stock and mince make all meat-based diets false.",
+    "No tree nuts, peanuts, shellfish, eggs, or sesame appear in ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Put the onion and oil in a large pan and fry over a fairly high heat for 3-4 mins. Add the garlic and mince and fry until they both brown. Add the mushrooms and herbs, and cook for another couple of mins.\r\n\r\nStir in the tomatoes, beef stock, tomato ketchup or purée, Worcestershire sauce and seasoning. Bring to the boil, then reduce the heat, cover and simmer, stirring occasionally, for 30 mins.\r\n\r\nMeanwhile, cook the spaghetti in a large pan of boiling, salted water, according to packet instructions. Drain well, run hot water through it, put it back in the pan and add a dash of olive oil, if you like, then stir in the meat sauce. Serve in hot bowls and hand round Parmesan cheese, for sprinkling on top.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "onions",
+      "measurement": "2",
+      "grams": 220,
+      "assumptions": "Medium onions, approx 110g each; raw weight used as added early and cooked down."
+    },
+    {
+      "position": 2,
+      "name": "olive oil",
+      "measurement": "1tbsp",
+      "grams": 14,
+      "assumptions": "1 tbsp olive oil weighs ~14g; standard density for cooking oil."
+    },
+    {
+      "position": 3,
+      "name": "garlic",
+      "measurement": "1 clove",
+      "grams": 3,
+      "assumptions": "1 average garlic clove ~3g; raw, as minced and fried."
+    },
+    {
+      "position": 4,
+      "name": "lean minced beef",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Raw lean minced beef (5% fat typical for 'lean'); entire 500g line used as-is."
+    },
+    {
+      "position": 5,
+      "name": "mushrooms",
+      "measurement": "90g",
+      "grams": 90,
+      "assumptions": "Fresh white mushrooms; raw weight as added and cooked."
+    },
+    {
+      "position": 6,
+      "name": "dried oregano",
+      "measurement": "1tsp",
+      "grams": 1,
+      "assumptions": "1 tsp dried oregano ~1g; typical dried herb density."
+    },
+    {
+      "position": 7,
+      "name": "tomatoes",
+      "measurement": "400g can",
+      "grams": 400,
+      "assumptions": "400g can chopped tomatoes including juice; standard canned value, drained weight not applicable as used whole."
+    },
+    {
+      "position": 8,
+      "name": "hot beef stock",
+      "measurement": "300ml",
+      "grams": 300,
+      "assumptions": "Hot beef stock from concentrate or cube; typical low-calorie prepared stock values."
+    },
+    {
+      "position": 9,
+      "name": "tomato puree",
+      "measurement": "1tbsp",
+      "grams": 16,
+      "assumptions": "1 tbsp tomato puree ~16g; standard density for thick paste."
+    },
+    {
+      "position": 10,
+      "name": "worcestershire sauce",
+      "measurement": "1tbsp",
+      "grams": 15,
+      "assumptions": "1 tbsp Worcestershire sauce ~15g; typical thin sauce density."
+    },
+    {
+      "position": 11,
+      "name": "spaghetti",
+      "measurement": "350g",
+      "grams": 350,
+      "assumptions": "Dry spaghetti; entire 350g package weight as boiled per instructions."
+    },
+    {
+      "position": 12,
+      "name": "parmesan",
+      "measurement": "Topping",
+      "grams": 20,
+      "assumptions": "Parmesan as topping; plausible 20g total for sprinkling across servings (not per person)."
+    }
+  ],
+  "nutrition": {
+    "calories": 2671.8,
+    "protein": 173.73,
+    "fat": 78.47,
+    "fiber": 20.83,
+    "carbs": 323.8
+  }
+}

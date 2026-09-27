@@ -1,0 +1,119 @@
+{
+  "id": "52767",
+  "name": "Bakewell tart",
+  "cuisine": "British",
+  "fingerprint": "75b39ae501798ebc8c2ed24ccda66c5c1aa00c44ff914437fcd228e08845993f",
+  "yield": 8,
+  "minutes": 110,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from standard 20cm/8in flan tin Bakewell tart recipes (typically 6-10 servings); selected 8 as conservative central value.",
+    "Total time sums explicit instruction steps: pastry rub/mix ~5 min + chill 30 min + blind bake 20 min + filling prep ~5 min + final bake 35 min + implicit cooling/handling ~15 min = ~110 min; does not include optional resting.",
+    "Plain flour classified as wheat-containing (not gluten-free).",
+    "Butter (multiple instances) classified as dairy (not dairy-free).",
+    "Egg classified as non-vegan and allergen.",
+    "Ground almonds and flaked almonds classified as tree nuts allergen; compatible with vegetarian/pescatarian.",
+    "Raspberry jam assumed free of animal-derived pectin or other non-vegetarian additives.",
+    "Almond extract assumed free of non-vegetarian carriers.",
+    "No fish, shellfish, peanuts, soy, or sesame ingredients listed."
+  ],
+  "categories": [],
+  "instructions": "To make the pastry, measure the flour into a bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs. Add the water, mixing to form a soft dough.\r\nRoll out the dough on a lightly floured work surface and use to line a 20cm/8in flan tin. Leave in the fridge to chill for 30 minutes.\r\nPreheat the oven to 200C/400F/Gas 6 (180C fan).\r\nLine the pastry case with foil and fill with baking beans. Bake blind for about 15 minutes, then remove the beans and foil and cook for a further five minutes to dry out the base.\r\nFor the filing, spread the base of the flan generously with raspberry jam.\r\nMelt the butter in a pan, take off the heat and then stir in the sugar. Add ground almonds, egg and almond extract. Pour into the flan tin and sprinkle over the flaked almonds.\r\nBake for about 35 minutes. If the almonds seem to be browning too quickly, cover the tart loosely with foil to prevent them burning.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "plain flour",
+      "measurement": "175g/6oz",
+      "grams": 175,
+      "assumptions": "Standard plain white wheat flour; values reflect typical UK plain flour composition."
+    },
+    {
+      "position": 2,
+      "name": "chilled butter",
+      "measurement": "75g/2½oz",
+      "grams": 75,
+      "assumptions": "Chilled unsalted butter; standard butter nutrition used, assuming fully edible."
+    },
+    {
+      "position": 3,
+      "name": "cold water",
+      "measurement": "2-3 tbsp",
+      "grams": 38,
+      "assumptions": "Cold water; 2.5 tbsp average of the 2-3 tbsp range (15 ml per tbsp); water contributes zero macros."
+    },
+    {
+      "position": 4,
+      "name": "raspberry jam",
+      "measurement": "1 tbsp",
+      "grams": 20,
+      "assumptions": "1 heaped tbsp raspberry jam (typical jam density ~20 g per tbsp); standard seedless raspberry jam values."
+    },
+    {
+      "position": 5,
+      "name": "butter",
+      "measurement": "125g/4½oz",
+      "grams": 125,
+      "assumptions": "Unsalted butter for filling; standard butter nutrition, fully edible."
+    },
+    {
+      "position": 6,
+      "name": "caster sugar",
+      "measurement": "125g/4½oz",
+      "grams": 125,
+      "assumptions": "Caster sugar (superfine white sugar); 100% carbohydrate."
+    },
+    {
+      "position": 7,
+      "name": "ground almonds",
+      "measurement": "125g/4½oz",
+      "grams": 125,
+      "assumptions": "Ground almonds (almond meal); standard values for blanched ground almonds."
+    },
+    {
+      "position": 8,
+      "name": "free-range egg, beaten",
+      "measurement": "1",
+      "grams": 50,
+      "assumptions": "One large free-range egg (~50 g edible portion without shell); standard large egg nutrition."
+    },
+    {
+      "position": 9,
+      "name": "almond extract",
+      "measurement": "½ tsp",
+      "grams": 3,
+      "assumptions": "½ tsp almond extract (~3 g, typical density for liquid extracts); negligible nutritional contribution assumed as flavoring."
+    },
+    {
+      "position": 10,
+      "name": "flaked almonds",
+      "measurement": "50g/1¾oz",
+      "grams": 50,
+      "assumptions": "Flaked almonds; standard sliced almond nutrition, fully edible."
+    }
+  ],
+  "nutrition": {
+    "calories": 3695,
+    "protein": 62.06,
+    "fat": 256.42,
+    "fiber": 20.9,
+    "carbs": 286.83
+  }
+}

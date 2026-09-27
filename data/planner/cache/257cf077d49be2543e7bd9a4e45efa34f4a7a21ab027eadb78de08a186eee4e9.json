@@ -1,0 +1,97 @@
+{
+  "id": "53204",
+  "name": "Red curry chicken kebabs",
+  "cuisine": "Thai",
+  "fingerprint": "257cf077d49be2543e7bd9a4e45efa34f4a7a21ab027eadb78de08a186eee4e9",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical BBC Good Food / similar skewer recipes using ~400g chicken plus vegetables, divided into 4 adult portions",
+    "Preparation + cooking time conservatively totalled from the single instruction paragraph (mix, thread, cook 5-8 min); no separate prep step listed",
+    "Thai Red Curry Paste treated as gluten-free (most commercial brands are, no wheat listed in ingredients)",
+    "No explicit wheat, barley, rye or oats anywhere in the recipe",
+    "Coconut milk, vegetables, chicken, lime and paste contain no dairy",
+    "Fish allergen left null because many Thai curry pastes contain anchovies or fish sauce but this is not explicitly confirmed in the given ingredients",
+    "Tree nuts, peanuts, soy, sesame left null because they are common in some curry pastes but not declared here",
+    "Lime listed only 'to serve' so counted as part of the dish for classification purposes"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nFire up the barbecue or heat a griddle pan to high. Tip chicken, curry paste and coconut milk into a bowl, then mix well until the chicken is evenly coated. Thread vegetables and chicken onto skewers. Cook the skewers on the barbecue or griddle for 5-8 mins, turning every so often, until the chicken is cooked through and charred. Serve with herby rice, salad and a lime half to squeeze over.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/prjve31763486864.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Breasts",
+      "measurement": "2",
+      "grams": 400,
+      "assumptions": "2 typical skinless chicken breasts, ~200g each, raw edible portion"
+    },
+    {
+      "position": 2,
+      "name": "Thai Red Curry Paste",
+      "measurement": "2 tblsp",
+      "grams": 30,
+      "assumptions": "2 tablespoons Thai red curry paste, typical commercial brand density and nutrition"
+    },
+    {
+      "position": 3,
+      "name": "Coconut Milk",
+      "measurement": "2 tblsp",
+      "grams": 30,
+      "assumptions": "2 tablespoons full-fat coconut milk, typical canned variety"
+    },
+    {
+      "position": 4,
+      "name": "Red Pepper",
+      "measurement": "1 chopped",
+      "grams": 120,
+      "assumptions": "1 medium red bell pepper, chopped, edible raw weight ~120g"
+    },
+    {
+      "position": 5,
+      "name": "Courgettes",
+      "measurement": "1 chopped",
+      "grams": 120,
+      "assumptions": "1 medium courgette/zucchini, chopped, edible raw weight ~120g"
+    },
+    {
+      "position": 6,
+      "name": "Red Onions",
+      "measurement": "1 cut thin wedges",
+      "grams": 110,
+      "assumptions": "1 medium red onion, cut into thin wedges, edible raw weight ~110g"
+    },
+    {
+      "position": 7,
+      "name": "Lime",
+      "measurement": "To serve",
+      "grams": 60,
+      "assumptions": "1 whole lime to serve (juice from one lime), typical whole fruit weight ~60g edible portion"
+    }
+  ],
+  "nutrition": {
+    "calories": 884.6,
+    "protein": 129.77,
+    "fat": 24.05,
+    "fiber": 8.05,
+    "carbs": 31.95
+  }
+}

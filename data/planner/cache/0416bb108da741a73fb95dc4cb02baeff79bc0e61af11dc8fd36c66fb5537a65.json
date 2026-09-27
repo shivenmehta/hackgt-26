@@ -1,0 +1,125 @@
+{
+  "id": "52840",
+  "name": "Clam chowder",
+  "cuisine": "American",
+  "fingerprint": "0416bb108da741a73fb95dc4cb02baeff79bc0e61af11dc8fd36c66fb5537a65",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical BBC Good Food / chowder portion size (recipe makes ~1.6-1.8 L finished soup); 4 generous main servings",
+    "Total active + passive time summed from sequential steps in instructions (≈45 min); does not include extra time to open clams or optional bread rolls",
+    "Clams treated as shellfish (allergen true); no fish stock or other fish listed",
+    "Wheat from plain flour (allergen true); not gluten-free",
+    "Dairy from butter/milk/cream (allergen and diet false)",
+    "Bacon treated as meat (non-vegetarian, non-vegan)",
+    "No tree nuts, peanuts, soy, sesame, eggs or fish ingredients present",
+    "Parsley, thyme, bay, onion, potatoes are plant ingredients"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Rinse the clams in several changes of cold water and drain well. Tip the clams into a large pan with 500ml of water. Cover, bring to the boil and simmer for 2 mins until the clams have just opened. Tip the contents of the pan into a colander over a bowl to catch the clam stock. When cool enough to handle, remove the clams from their shells – reserving a handful of empty shells for presentation if you want. Strain the clam stock into a jug, leaving any grit in the bottom of the bowl. You should have around 800ml stock.\r\nHeat the butter in the same pan and sizzle the bacon for 3-4 mins until it starts to brown. Stir in the onion, thyme and bay and cook everything gently for 10 mins until the onion is soft and golden. Scatter over the flour and stir in to make a sandy paste, cook for 2 mins more, then gradually stir in the clam stock then the milk and the cream.\r\nThrow in the potatoes, bring everything to a simmer and leave to bubble away gently for 10 mins or until the potatoes are cooked. Use a fork to crush a few of the potato chunks against the side of the pan to help thicken – you still want lots of defined chunks though. Stir through the clam meat and the few clam shells, if you've gone down that route, and simmer for a minute to reheat. Season with plenty of black pepper and a little salt, if needed, then stir through the parsley just before ladling into bowls or hollowed-out crusty rolls.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Clams",
+      "measurement": "1½ kg",
+      "grams": 1500,
+      "assumptions": "1.5 kg fresh hard-shell clams in shell; typical mixed meat+liquid yield ~25-30% after cooking and shelling but full ingredient line used as purchased weight"
+    },
+    {
+      "position": 2,
+      "name": "Butter",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "standard unsalted butter"
+    },
+    {
+      "position": 3,
+      "name": "Bacon",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "streaky bacon or pancetta style, typical American chowder cut"
+    },
+    {
+      "position": 4,
+      "name": "Onion",
+      "measurement": "1 finely chopped",
+      "grams": 110,
+      "assumptions": "1 medium-large onion finely chopped ≈110 g"
+    },
+    {
+      "position": 5,
+      "name": "Thyme",
+      "measurement": "sprigs of fresh",
+      "grams": 5,
+      "assumptions": "a few fresh thyme sprigs ≈5 g edible leaves and tender stem"
+    },
+    {
+      "position": 6,
+      "name": "Bay Leaf",
+      "measurement": "1",
+      "grams": 1,
+      "assumptions": "1 dried bay leaf, negligible weight and nutrition"
+    },
+    {
+      "position": 7,
+      "name": "Plain Flour",
+      "measurement": "1 tbls",
+      "grams": 8,
+      "assumptions": "1 level tablespoon plain white flour ≈8 g"
+    },
+    {
+      "position": 8,
+      "name": "Milk",
+      "measurement": "150ml",
+      "grams": 150,
+      "assumptions": "semi-skimmed or whole milk; typical chowder uses whole but 150 ml = 150 g"
+    },
+    {
+      "position": 9,
+      "name": "Double Cream",
+      "measurement": "150ml",
+      "grams": 150,
+      "assumptions": "heavy/double cream, 48 % fat typical UK/EU style"
+    },
+    {
+      "position": 10,
+      "name": "Potatoes",
+      "measurement": "2 medium",
+      "grams": 300,
+      "assumptions": "2 medium floury potatoes (e.g. Maris Piper) ≈150 g each, peeled weight estimate"
+    },
+    {
+      "position": 11,
+      "name": "Parsley",
+      "measurement": "Chopped",
+      "grams": 10,
+      "assumptions": "small handful chopped fresh parsley ≈10 g"
+    }
+  ],
+  "nutrition": {
+    "calories": 3323.27,
+    "protein": 261.19,
+    "fat": 192.65,
+    "fiber": 9.72,
+    "carbs": 137.89
+  }
+}

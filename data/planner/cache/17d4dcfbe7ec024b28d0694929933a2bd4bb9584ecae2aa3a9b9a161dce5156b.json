@@ -1,0 +1,85 @@
+{
+  "id": "52866",
+  "name": "Squash linguine",
+  "cuisine": "Italian",
+  "fingerprint": "17d4dcfbe7ec024b28d0694929933a2bd4bb9584ecae2aa3a9b9a161dce5156b",
+  "yield": 2,
+  "minutes": 50,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": null,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield of 2 servings based on total dry pasta quantity (350g) being typical for 2 adult main portions in Italian recipes.",
+    "Total time of 50 minutes estimated from instructions: ~10 min prep + 35-40 min roast (using upper end) + ~10 min pasta cook/fry (overlapping with roast).",
+    "Vegetarian true per source label and no meat; Vegan null due to potential rennet in any unreferenced cheese (though none listed) and unresolved notes.",
+    "Pescatarian true as compatible with vegetarian and no meat/fish issues.",
+    "Gluten-free false due to wheat-based linguine pasta.",
+    "Dairy-free true as no milk, cheese, or dairy ingredients listed.",
+    "Allergens: Wheat true from pasta; others false or confidently absent based on listed ingredients only.",
+    "Garlic '3 parts' interpreted as 3 cloves per provided data.",
+    "Olive oil split between roasting and frying per instructions; sage fried in oil.",
+    "No compound sauces or hidden allergens assumed beyond listed items."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat oven to 200C/180C fan/gas 6. Put the squash and garlic on a baking tray and drizzle with the olive oil. Roast for 35-40 mins until soft. Season.\r\nCook the pasta according to pack instructions. Drain, reserving the water. Use a stick blender to whizz the squash with 400ml cooking water. Heat some oil in a frying pan, fry the sage until crisp, then drain on kitchen paper. Tip the pasta and sauce into the pan and warm through. Scatter with sage.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Butternut Squash",
+      "measurement": "350g",
+      "grams": 350,
+      "assumptions": "Raw butternut squash, peeled and cubed as typical for roasting; standard values for edible portion."
+    },
+    {
+      "position": 2,
+      "name": "Garlic",
+      "measurement": "3 parts",
+      "grams": 9,
+      "assumptions": "3 average garlic cloves (approx 3g each); peeled weight used for roasting."
+    },
+    {
+      "position": 3,
+      "name": "Olive Oil",
+      "measurement": "3 tbs",
+      "grams": 41,
+      "assumptions": "3 tablespoons olive oil (standard 13.6g per tbsp); used for roasting and later frying."
+    },
+    {
+      "position": 4,
+      "name": "Linguine Pasta",
+      "measurement": "350g",
+      "grams": 350,
+      "assumptions": "Dry linguine pasta weight before boiling; standard durum wheat values."
+    },
+    {
+      "position": 5,
+      "name": "Sage",
+      "measurement": "Small bunch",
+      "grams": 15,
+      "assumptions": "Small bunch fresh sage leaves (approx 15g usable leaves); used for frying until crisp."
+    }
+  ],
+  "nutrition": {
+    "calories": 1879.1,
+    "protein": 51.23,
+    "fat": 50.35,
+    "fiber": 22.14,
+    "carbs": 299.03
+  }
+}

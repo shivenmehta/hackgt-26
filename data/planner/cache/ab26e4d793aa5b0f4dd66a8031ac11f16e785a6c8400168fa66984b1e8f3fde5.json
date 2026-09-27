@@ -1,0 +1,80 @@
+{
+  "id": "53353",
+  "name": "Jamaican Boiled Dumplings",
+  "cuisine": "Jamaican",
+  "fingerprint": "ab26e4d793aa5b0f4dd66a8031ac11f16e785a6c8400168fa66984b1e8f3fde5",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical Jamaican boiled dumpling recipes using 2 cups flour, which commonly serve 4 as a side dish.",
+    "Total time is sum of active prep (mixing, shaping ~15 min) and passive boiling (20 min max from instructions); excludes bringing pot to boil.",
+    "All-purpose flour confirmed as wheat-based, making it not gluten-free.",
+    "No animal products, dairy, eggs, or nuts listed, supporting vegan/vegetarian/dairy-free.",
+    "Water and salt for boiling are partially discarded and not primary allergens."
+  ],
+  "categories": [],
+  "instructions": "Instructions\r\n \r\nIn a large pot, bring water and salt to a boil to boil the dumplings.\r\nIn a large mixing bowl, combine the all-purpose flour and salt, stirring to distribute the salt evenly throughout the flour. Gradually add water to the flour mixture, mixing with your hands until a dough forms.\r\nDivide the dough into equal-sized pieces, rolling each into a smooth ball. Flatten each ball slightly with the palm of your hand to form a round, circular dumpling. It should look like a thick disk.\r\nCarefully drop the dumplings into the boiling water, one at a time, ensuring that they don't stick together. You can use a wooden spoon to stir the dumplings in the water.\r\nBoil the dumplings for 15-20 minutes, or until they are cooked through and have risen to the surface of the water. Stir occasionally to prevent sticking.\r\nUse a slotted spoon to remove the cooked dumplings from the pot, allowing any excess water to drain.\r\nServe with your favorite recipes.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/tsdbcq1764795636.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Water",
+      "measurement": "8 cups",
+      "grams": 1920,
+      "assumptions": "8 cups water = 1920 g (standard density 1 g/ml; used for boiling and discarded after cooking)"
+    },
+    {
+      "position": 2,
+      "name": "Salt",
+      "measurement": "1/2 tbs",
+      "grams": 9,
+      "assumptions": "1/2 tablespoon table salt = 9 g (salt contributes negligible macros when dissolved and mostly discarded with boiling water)"
+    },
+    {
+      "position": 3,
+      "name": "All purpose flour",
+      "measurement": "2 cups",
+      "grams": 250,
+      "assumptions": "2 cups all-purpose flour = 250 g (standard volume-to-weight conversion for unsifted AP flour; fully incorporated into final edible dumplings)"
+    },
+    {
+      "position": 4,
+      "name": "Salt",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 teaspoon table salt = 5 g (salt contributes negligible macros; remains in the cooked dumplings)"
+    },
+    {
+      "position": 5,
+      "name": "Water",
+      "measurement": "1/2 cup",
+      "grams": 120,
+      "assumptions": "1/2 cup water = 120 g (standard density 1 g/ml; fully absorbed into dough and remains in final edible dumplings)"
+    }
+  ],
+  "nutrition": {
+    "calories": 910,
+    "protein": 25.75,
+    "fat": 2.5,
+    "fiber": 6.75,
+    "carbs": 190.75
+  }
+}

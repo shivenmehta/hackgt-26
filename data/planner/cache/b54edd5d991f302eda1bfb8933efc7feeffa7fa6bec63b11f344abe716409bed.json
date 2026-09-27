@@ -1,0 +1,103 @@
+{
+  "id": "53383",
+  "name": "Ramen Noodles with Boiled Egg",
+  "cuisine": "Chinese",
+  "fingerprint": "b54edd5d991f302eda1bfb8933efc7feeffa7fa6bec63b11f344abe716409bed",
+  "yield": 1,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from single egg and single packet of noodles as primary components; instructions appear written for 1 serving.",
+    "Preparation minutes is a conservative estimate covering boiling (7 min), ice bath (5 min), optional quick marinate reference (ignored for min time), noodle cooking (~5 min), and assembly; full marination would be 4+ hours but is labeled optional.",
+    "Mirin and sugar mentioned in instructions but absent from listed ingredients, treated as unlisted/optional and not affecting classifications.",
+    "Chilli sauce treated as ambiguous for allergens (could contain wheat/soy/sesame/fish in some varieties) and diets.",
+    "Spring onions, salt, pepper, and water are neutral to all diets and allergens.",
+    "Noodles assumed to be standard wheat-based ramen (hence wheat and gluten).",
+    "Soy sauce confirms soy and likely wheat presence."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Boil: Bring water to a boil, gently add eggs, and cook for exactly 6½ to 7 minutes.\r\nIce Bath: Immediately transfer the eggs to a bowl of ice water for 3–5 minutes to stop cooking.\r\nMarinate (Optional but recommended): Peel the eggs and marinate in a mix of 2 tbsp soy sauce, 2 tbsp mirin, 1 tsp sugar, and 4 tbsp water for at least 4 hours (or overnight).\r\nServe: Slice in half, letting the yolk flow into the broth",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Noodles",
+      "measurement": "1 Packet",
+      "grams": 85,
+      "assumptions": "Standard single-serve instant ramen noodle packet, dry weight ~85g; typical for a quick Chinese-style ramen dish."
+    },
+    {
+      "position": 2,
+      "name": "Water",
+      "measurement": "2 cups",
+      "grams": 475,
+      "assumptions": "2 cups water used for boiling noodles and/or broth base; water contributes zero macros."
+    },
+    {
+      "position": 3,
+      "name": "Egg",
+      "measurement": "1 large",
+      "grams": 50,
+      "assumptions": "1 large egg (~50g edible portion); boiled as per instructions, using whole egg with yolk."
+    },
+    {
+      "position": 4,
+      "name": "Soy Sauce",
+      "measurement": "1 tbsp",
+      "grams": 15,
+      "assumptions": "1 tbsp soy sauce (~15g); used in marinate or as seasoning, typical sodium-rich Chinese variety."
+    },
+    {
+      "position": 5,
+      "name": "Chilli Sauce",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "1/2 tsp chilli sauce (~3g); small amount for heat, assuming typical Asian chilli/garlic sauce with minor carbs."
+    },
+    {
+      "position": 6,
+      "name": "Spring Onions",
+      "measurement": "1 tbls",
+      "grams": 10,
+      "assumptions": "1 tbls chopped spring onions (~10g); used as garnish, typical green onion values."
+    },
+    {
+      "position": 7,
+      "name": "Salt",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "1/2 tsp table salt (~3g); pure sodium chloride, zero caloric contribution."
+    },
+    {
+      "position": 8,
+      "name": "Pepper",
+      "measurement": "1/2 tbs",
+      "grams": 2,
+      "assumptions": "1/2 tbs ground black pepper (~2-3g); negligible macros, used for seasoning."
+    }
+  ],
+  "nutrition": {
+    "calories": 407.3,
+    "protein": 16.13,
+    "fat": 6.7,
+    "fiber": 2.93,
+    "carbs": 65.87
+  }
+}

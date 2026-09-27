@@ -1,0 +1,108 @@
+{
+  "id": "52965",
+  "name": "Breakfast Potatoes",
+  "cuisine": "Canadian",
+  "fingerprint": "db583c876c2d6dd7692e04d6720b7d3b4f9c3ef4760537bf2a38c889aa54be76",
+  "yield": 2,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated at 2 servings based on 3 medium potatoes + 2 bacon strips as a breakfast side or main for 2 adults, consistent with typical hash/skillet potato recipes and the instruction to serve with 1 egg per bowl",
+    "Total time ~30 min: 10 min potato cook + 5-6 min bacon + 1-2 min garlic/syrup + ~10 min prep (washing/dicing bacon/garlic/seasoning); bacon-freeze step is advance prep not counted in active time",
+    "Bacon (animal-derived) makes Vegetarian/Vegan/Pescatarian false; no dairy, no gluten sources (Old Bay/Allspice, maple, oil, parsley are GF); Eggs null as optional serving suggestion only, not in listed ingredients",
+    "Allspice treated as listed (instructions mention Old Bay but no gluten confirmed in either); parsley, garlic, potatoes, oil, salt, pepper, maple all compatible with listed diets",
+    "No tree nuts, peanuts, sesame, fish, shellfish, soy, milk, or wheat in ingredients; garlic clove assumed 1 based on context"
+  ],
+  "categories": ["breakfast"],
+  "instructions": "Before you do anything, freeze your bacon slices that way when you're ready to prep, it'll be so much easier to chop!\r\nWash the potatoes and cut medium dice into square pieces. To prevent any browning, place the already cut potatoes in a bowl filled with water.\r\nIn the meantime, heat 1-2 tablespoons of oil in a large skillet over medium-high heat. Tilt the skillet so the oil spreads evenly.\r\nOnce the oil is hot, drain the potatoes and add to the skillet. Season with salt, pepper, and Old Bay as needed.\r\nCook for 10 minutes, stirring the potatoes often, until brown. If needed, add a tablespoon more of oil.\r\nChop up the bacon and add to the potatoes. The bacon will start to render and the fat will begin to further cook the potatoes. Toss it up a bit! The bacon will take 5-6 minutes to crisp.\r\nOnce the bacon is cooked, reduce the heat to medium-low, add the minced garlic and toss. Season once more. Add dried or fresh parsley. Control heat as needed.\r\nLet the garlic cook until fragrant, about one minute.\r\nJust before serving, drizzle over the maple syrup and toss. Let that cook another minute, giving the potatoes a caramelized effect.\r\nServe in a warm bowl with a sunny side up egg!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1550441882.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Potatoes",
+      "measurement": "3 Medium",
+      "grams": 450,
+      "assumptions": "3 medium russet potatoes, raw, unpeeled, typical edible weight ~150 g each; matches diced hash-brown style prep"
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "1 tbs",
+      "grams": 14,
+      "assumptions": "1 tablespoon olive oil; standard density ~14 g per tbsp used for initial frying"
+    },
+    {
+      "position": 3,
+      "name": "Bacon",
+      "measurement": "2 strips",
+      "grams": 60,
+      "assumptions": "2 strips thick-cut bacon, frozen then chopped; typical raw weight 30 g per strip, fully rendered in skillet"
+    },
+    {
+      "position": 4,
+      "name": "Garlic Clove",
+      "measurement": "Minced",
+      "grams": 6,
+      "assumptions": "1 medium garlic clove, minced; typical peeled weight ~6 g"
+    },
+    {
+      "position": 5,
+      "name": "Maple Syrup",
+      "measurement": "1 tbs",
+      "grams": 20,
+      "assumptions": "1 tablespoon pure maple syrup; standard density ~20 g per tbsp drizzled at end"
+    },
+    {
+      "position": 6,
+      "name": "Parsley",
+      "measurement": "Garnish",
+      "grams": 5,
+      "assumptions": "Fresh parsley garnish, small handful chopped; plausible ~5 g for final sprinkle"
+    },
+    {
+      "position": 7,
+      "name": "Salt",
+      "measurement": "Pinch",
+      "grams": 1,
+      "assumptions": "Pinch of salt; negligible weight ~1 g for seasoning estimate"
+    },
+    {
+      "position": 8,
+      "name": "Pepper",
+      "measurement": "Pinch",
+      "grams": 1,
+      "assumptions": "Pinch of pepper; negligible weight ~1 g for seasoning estimate"
+    },
+    {
+      "position": 9,
+      "name": "Allspice",
+      "measurement": "To taste",
+      "grams": 2,
+      "assumptions": "Allspice to taste (listed as Old Bay in instructions but Allspice here); small pinch ~2 g total, negligible macros"
+    }
+  ],
+  "nutrition": {
+    "calories": 857.6,
+    "protein": 31.73,
+    "fat": 39.74,
+    "fiber": 10.19,
+    "carbs": 95.28
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "52918",
+  "name": "Fish Stew with Rouille",
+  "cuisine": "French",
+  "fingerprint": "39241b79efa951181d4930d881a16add21bc1c8605f6db685f3e53de0f50d78c",
+  "yield": 4,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": null,
+    "Fish": true,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on typical BBC Good Food recipe scaling, ingredient quantities (e.g. 200g fish, 6 prawns, handful mussels for 4 portions), and 'serve in bowls' plural with bread for mopping up.",
+    "Total time ~60 minutes: ~5 min prawn prep, 5 min shell fry, 10 min veg cook, 5 min potato parboil, 10 min simmer sauce, 5 min reheat/add seafood, 5 min final cook; plus ~10-15 min for rouille (mayo + harissa) and other prep integrated.",
+    "Mayonnaise in rouille introduces possible egg (common in standard mayo); left as null since not explicitly listed in ingredients.",
+    "Bread listed 'to serve' implies wheat-based unless specified otherwise, triggering Wheat true and Gluten-free null (not certified GF).",
+    "No dairy ingredients listed or implied; Dairy-free true.",
+    "Harissa assumed spice blend without undisclosed allergens.",
+    "Orange zest, star anise, bay, thyme are whole spices/herbs with no allergens."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Twist the heads from the prawns, then peel away the legs and shells, but leave the tails intact. Devein each prawn. Fry the shells in 1 tbsp oil for 5 mins, until dark pink and golden in patches. Add the wine, boil down by two thirds, then pour in the stock. Strain into a jug, discarding the shells.\r\nHeat the rest of the oil in a deep frying pan or casserole. Add the fennel, onion and garlic, season, then cover and gently cook for 10 mins until softened. Meanwhile, peel the potato and cut into 2cm-ish chunks. Put into a pan of cold water, bring to the boil and cook for 5 mins until almost tender. Drain in a colander.\r\nPeel a strip of zest from the orange. Put the zest, star anise, bay and ½ tsp harissa into the pan. Fry gently, uncovered, for 5-10 mins, until the vegetables are soft, sweet and golden.\r\nStir in the tomato purée, cook for 2 mins, then add the tomatoes and stock. Simmer for 10 mins until the sauce thickens slightly. Season to taste. The sauce can be made ahead, then reheated later in the day. Meantime, scrub the mussels or clams and pull away any stringy beards. Any that are open should be tapped sharply on the worktop – if they don’t close after a few seconds, discard them.\r\nReheat the sauce if necessary, then stir the potato, chunks of fish and prawns very gently into the stew. Bring back to the boil, then cover and gently simmer for 3 mins. Scatter the mussels or clams over the stew, then cover and cook for 2 mins more or until the shells have opened wide. Discard any that remain closed. The chunks of fish should flake easily and the prawns should be pink through. Scatter with the thyme leaves.\r\nTo make the quick rouille, stir the rest of the harissa through the mayonnaise. Serve the stew in bowls, topped with spoonfuls of rouille, which will melt into the sauce and enrich it. Have some good bread ready, as you’ll definitely want to mop up the juices.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Prawns",
+      "measurement": "6 large",
+      "grams": 300,
+      "assumptions": "6 large raw prawns, approx 50g each including shell; edible tail meat portion estimated at 300g total after deveining and peeling (shells used separately for stock)."
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "3 tbs",
+      "grams": 41,
+      "assumptions": "3 tablespoons olive oil; standard tablespoon is ~13.6g, total 40.8g rounded to 41g for frying prawns and vegetables."
+    },
+    {
+      "position": 3,
+      "name": "Dry White Wine",
+      "measurement": "150ml",
+      "grams": 150,
+      "assumptions": "150ml dry white wine; density ~1g/ml, used to deglaze prawn shells and reduced by 2/3 in instructions."
+    },
+    {
+      "position": 4,
+      "name": "Fish Stock",
+      "measurement": "200ml",
+      "grams": 200,
+      "assumptions": "200ml fish stock from carton or homemade; density ~1g/ml, strained into the stew base."
+    },
+    {
+      "position": 5,
+      "name": "Fennel",
+      "measurement": "1 small finely diced",
+      "grams": 150,
+      "assumptions": "1 small fennel bulb finely diced, approx 150g edible trimmed weight (typical small bulb 120-180g)."
+    },
+    {
+      "position": 6,
+      "name": "Onion",
+      "measurement": "1 small finely diced",
+      "grams": 110,
+      "assumptions": "1 small onion finely diced, approx 110g edible weight after peeling."
+    },
+    {
+      "position": 7,
+      "name": "Garlic",
+      "measurement": "3 cloves Chopped",
+      "grams": 9,
+      "assumptions": "3 garlic cloves chopped; average clove 3g, total 9g."
+    },
+    {
+      "position": 8,
+      "name": "Potatoes",
+      "measurement": "1 large",
+      "grams": 200,
+      "assumptions": "1 large potato peeled and cut into chunks; typical large potato ~200g edible peeled weight, parboiled per instructions."
+    },
+    {
+      "position": 9,
+      "name": "Orange",
+      "measurement": "1",
+      "grams": 15,
+      "assumptions": "Zest strip from 1 orange; only the outer peel used (~15g estimated), negligible impact but included for completeness."
+    },
+    {
+      "position": 10,
+      "name": "Star Anise",
+      "measurement": "1",
+      "grams": 3,
+      "assumptions": "1 whole star anise; typical dried pod weight ~2-4g, used as whole spice and discarded."
+    },
+    {
+      "position": 11,
+      "name": "Bay Leaf",
+      "measurement": "1",
+      "grams": 1,
+      "assumptions": "1 bay leaf; typical dried leaf ~0.5-1g, used as whole spice and discarded."
+    },
+    {
+      "position": 12,
+      "name": "Harissa Spice",
+      "measurement": "1 1/2 tsp",
+      "grams": 4,
+      "assumptions": "1.5 tsp harissa spice (1/2 tsp in stew + 1 tsp in rouille); typical density ~2.7g/tsp, total ~4g, split between stew and rouille."
+    },
+    {
+      "position": 13,
+      "name": "Tomato Puree",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tablespoons tomato puree/paste; standard tablespoon ~15g, total 30g."
+    },
+    {
+      "position": 14,
+      "name": "Chopped Tomatoes",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "400g can chopped tomatoes, entire contents used including juice."
+    },
+    {
+      "position": 15,
+      "name": "Mussels",
+      "measurement": "Handful",
+      "grams": 150,
+      "assumptions": "Handful of mussels or clams (scrubbed, beards removed); plausible recipe quantity ~150g live weight with shells, edible meat yield lower but total line weight used; any unopened discarded but not subtracted here."
+    },
+    {
+      "position": 16,
+      "name": "White Fish",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "200g white fish (e.g. cod/hake/monkfish), cut into chunks; raw edible weight as specified."
+    },
+    {
+      "position": 17,
+      "name": "Thyme",
+      "measurement": "2",
+      "grams": 2,
+      "assumptions": "2 sprigs fresh thyme (leaves scattered); typical small sprig ~1g, total 2g leaves and tender stems."
+    },
+    {
+      "position": 18,
+      "name": "Bread",
+      "measurement": "to serve",
+      "grams": 200,
+      "assumptions": "Bread to serve (mop up juices); plausible per-person amount for 4 servings, ~50g slice each, total 200g; standard white bread values used."
+    }
+  ],
+  "nutrition": {
+    "calories": 2056.51,
+    "protein": 149.85,
+    "fat": 60.8,
+    "fiber": 29.01,
+    "carbs": 205.25
+  }
+}

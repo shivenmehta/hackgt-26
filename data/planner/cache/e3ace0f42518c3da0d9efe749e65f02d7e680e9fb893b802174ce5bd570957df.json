@@ -1,0 +1,118 @@
+{
+  "id": "53034",
+  "name": "Japanese Katsudon",
+  "cuisine": "Japanese",
+  "fingerprint": "e3ace0f42518c3da0d9efe749e65f02d7e680e9fb893b802174ce5bd570957df",
+  "yield": 2,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 2 as written (rice for two bowls, ingredients scaled for two portions).",
+    "Total active time estimated from steps: ~5 min frying onion/tonkatsu, ~5 min simmering with sauce, ~3 min with eggs, plus assumed rice cooking time of ~12 min not explicitly listed but required; rounded conservatively to 20 min total prep/cook.",
+    "Tonkatsu assumed pre-made per instructions (not detailed in steps); '1 chopped' pork interpreted as 1 cutlet for 2 servings total.",
+    "Dashi treated as vegetable stock per provided ingredients; no dairy used.",
+    "Gluten-free: false due to standard soy sauce (contains wheat) and likely wheat in tonkatsu breading.",
+    "Wheat allergen: true from soy sauce and breaded pork coating.",
+    "Mirin, sugar, oil, onion, chives, rice: no allergens.",
+    "Fish/Shellfish/Sesame: null as not listed and dashi type ambiguous (could be bonito-based)."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1\r\nHeat the oil in a pan, fry the sliced onion until golden brown, then add the tonkatsu (see recipe here), placing it in the middle of the pan. Mix the dashi, soy, mirin and sugar together and tip three-quarters of the mixture around the tonkatsu. Sizzle for a couple of mins so the sauce thickens a little and the tonkatsu reheats.\r\n\r\nSTEP 2\r\nTip the beaten eggs around the tonkatsu and cook for 2-3 mins until the egg is cooked through but still a little runny. Divide the rice between two bowls, then top each with half the egg and tonkatsu mix, sprinkle over the chives and serve immediately, drizzling with a little more soy if you want an extra umami kick.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/d8f6qx1604182128.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Vegetable Oil",
+      "measurement": "1 tbs",
+      "grams": 14,
+      "assumptions": "Standard vegetable oil; 1 tbs = 14g; used for frying onion and implicitly the tonkatsu."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 large",
+      "grams": 150,
+      "assumptions": "1 large onion, peeled and sliced; typical edible weight ~150g; raw values as cooked down in recipe."
+    },
+    {
+      "position": 3,
+      "name": "Pork",
+      "measurement": "1 chopped",
+      "grams": 120,
+      "assumptions": "1 pre-made tonkatsu pork cutlet (breaded and fried); '1 chopped' interpreted as 1 standard ~120g serving of breaded pork cutlet; values reflect typical breaded fried pork cutlet including coating."
+    },
+    {
+      "position": 4,
+      "name": "Vegetable Stock",
+      "measurement": "150ml",
+      "grams": 150,
+      "assumptions": "Vegetable stock/dashi; 150ml ≈ 150g; low-calorie stock values."
+    },
+    {
+      "position": 5,
+      "name": "Soy Sauce",
+      "measurement": "1 tbs",
+      "grams": 18,
+      "assumptions": "1 tbs regular soy sauce ≈ 18g; typical Japanese soy values."
+    },
+    {
+      "position": 6,
+      "name": "Mirin",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp mirin ≈ 5g; sweet rice wine values."
+    },
+    {
+      "position": 7,
+      "name": "Sugar",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "1 tsp granulated sugar ≈ 4g; pure sugar values."
+    },
+    {
+      "position": 8,
+      "name": "Eggs",
+      "measurement": "2 Beaten",
+      "grams": 100,
+      "assumptions": "2 large beaten eggs ≈ 100g total edible; standard large egg nutrition."
+    },
+    {
+      "position": 9,
+      "name": "Sushi Rice",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Uncooked sushi rice as listed; 200g dry weight; typical short-grain white rice values (cooked in recipe but dry basis given)."
+    },
+    {
+      "position": 10,
+      "name": "Chives",
+      "measurement": "Chopped",
+      "grams": 10,
+      "assumptions": "Chopped chives to taste; plausible small handful ~10g for garnish over 2 servings."
+    }
+  ],
+  "nutrition": {
+    "calories": 939.04,
+    "protein": 45.81,
+    "fat": 45.92,
+    "fiber": 3.74,
+    "carbs": 80.67
+  }
+}

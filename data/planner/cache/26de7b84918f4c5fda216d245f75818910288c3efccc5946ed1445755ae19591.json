@@ -1,0 +1,110 @@
+{
+  "id": "52962",
+  "name": "Salmon Eggs Eggs Benedict",
+  "cuisine": "American",
+  "fingerprint": "26de7b84918f4c5fda216d245f75818910288c3efccc5946ed1445755ae19591",
+  "yield": 2,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from 2 English muffins split into 4 halves, each topped with salmon, one poached egg, and hollandaise (standard Eggs Benedict portioning for 2 servings).",
+    "Preparation time estimated from detailed steps: ~10 min for hollandaise, ~10 min for poaching 4 eggs, ~5-10 min for toasting/buttering/assembling, totaling ~30 min active time.",
+    "'Butter to serve' conservatively classified as dairy (milk).",
+    "English muffins contain wheat (gluten).",
+    "Smoked salmon classified as fish allergen; no shellfish present.",
+    "No tree nuts, peanuts, soy, or sesame in listed ingredients.",
+    "Chives mentioned in instructions but not in ingredients list; ignored for classification."
+  ],
+  "categories": ["breakfast"],
+  "instructions": "First make the Hollandaise sauce. Put the lemon juice and vinegar in a small bowl, add the egg yolks and whisk with a balloon whisk until light and frothy. Place the bowl over a pan of simmering water and whisk until mixture thickens. Gradually add the butter, whisking constantly until thick – if it looks like it might be splitting, then whisk off the heat for a few mins. Season and keep warm.\r\n\r\nTo poach the eggs, bring a large pan of water to the boil and add the vinegar. Lower the heat so that the water is simmering gently. Stir the water so you have a slight whirlpool, then slide in the eggs one by one. Cook each for about 4 mins, then remove with a slotted spoon.\r\n\r\nLightly toast and butter the muffins, then put a couple of slices of salmon on each half. Top each with an egg, spoon over some Hollandaise and garnish with chopped chives.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1550440197.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Eggs",
+      "measurement": "4",
+      "grams": 200,
+      "assumptions": "4 large whole eggs for poaching, ~50g each"
+    },
+    {
+      "position": 2,
+      "name": "White Wine Vinegar",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tbs white wine vinegar for poaching water, typical density ~1 g/ml"
+    },
+    {
+      "position": 3,
+      "name": "English Muffins",
+      "measurement": "2",
+      "grams": 130,
+      "assumptions": "2 standard English muffins, ~65g each"
+    },
+    {
+      "position": 4,
+      "name": "Butter",
+      "measurement": "To serve",
+      "grams": 20,
+      "assumptions": "Butter to serve the toasted muffins; plausible recipe amount ~10g per muffin half"
+    },
+    {
+      "position": 5,
+      "name": "Smoked Salmon",
+      "measurement": "8 slices",
+      "grams": 200,
+      "assumptions": "8 slices smoked salmon, typical 25g per slice"
+    },
+    {
+      "position": 6,
+      "name": "Lemon Juice",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 tsp lemon juice for hollandaise, typical density ~1 g/ml"
+    },
+    {
+      "position": 7,
+      "name": "White Wine Vinegar",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 tsp white wine vinegar for hollandaise, typical density ~1 g/ml"
+    },
+    {
+      "position": 8,
+      "name": "Egg",
+      "measurement": "3 Yolkes",
+      "grams": 50,
+      "assumptions": "3 egg yolks only, ~17g each"
+    },
+    {
+      "position": 9,
+      "name": "Unsalted Butter",
+      "measurement": "125g",
+      "grams": 125,
+      "assumptions": "125g unsalted butter for hollandaise as listed"
+    }
+  ],
+  "nutrition": {
+    "calories": 1937.25,
+    "protein": 81.02,
+    "fat": 152.03,
+    "fiber": 3.54,
+    "carbs": 60.75
+  }
+}

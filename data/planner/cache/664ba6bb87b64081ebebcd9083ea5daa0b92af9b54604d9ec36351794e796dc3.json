@@ -1,0 +1,95 @@
+{
+  "id": "53309",
+  "name": "Cucumber & fennel salad",
+  "cuisine": "Polish",
+  "fingerprint": "664ba6bb87b64081ebebcd9083ea5daa0b92af9b54604d9ec36351794e796dc3",
+  "yield": 4,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical salad recipe scaling with ~1kg total ingredients for 4 side servings",
+    "Prep time estimated as 15 minutes based on 10 min salting wait plus quick mixing steps; no cooking involved",
+    "Sour cream classified as dairy (Milk allergen present) and non-vegan",
+    "All other ingredients compatible with listed diets and absent of other allergens",
+    "No gluten sources (e.g. no barley/rye/wheat/oats) detected",
+    "Sugar, vinegar, and lemon juice treated as pure and allergen-free"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nPut cucumber in a sieve. Sprinkle with 1 tsp salt and the sugar, then leave for 10 mins. Add fennel.\r\n\r\nstep 2\r\nMix soured cream, lemon juice, vinegar and dill, then season with black pepper and add to fennel mix.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ei21r61764365935.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Cucumber",
+      "measurement": "1 large",
+      "grams": 400,
+      "assumptions": "1 large cucumber ≈ 400g edible portion, raw, unpeeled"
+    },
+    {
+      "position": 2,
+      "name": "Sugar",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "1 tsp granulated sugar ≈ 4g"
+    },
+    {
+      "position": 3,
+      "name": "Fennel Bulb",
+      "measurement": "1 sliced",
+      "grams": 250,
+      "assumptions": "1 medium fennel bulb, trimmed and sliced ≈ 250g edible portion, raw"
+    },
+    {
+      "position": 4,
+      "name": "Sour Cream",
+      "measurement": "150ml",
+      "grams": 150,
+      "assumptions": "150ml soured cream weighs ≈ 150g (density ≈ 1 g/ml)"
+    },
+    {
+      "position": 5,
+      "name": "Lemon",
+      "measurement": "Juice of 1",
+      "grams": 30,
+      "assumptions": "Juice of 1 medium lemon ≈ 30g, typical yield"
+    },
+    {
+      "position": 6,
+      "name": "White Wine Vinegar",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tablespoon white wine vinegar ≈ 15g"
+    },
+    {
+      "position": 7,
+      "name": "Dill",
+      "measurement": "Bunch",
+      "grams": 25,
+      "assumptions": "1 bunch fresh dill ≈ 25g edible leaves and stems"
+    }
+  ],
+  "nutrition": {
+    "calories": 464.63,
+    "protein": 9.94,
+    "fat": 29.76,
+    "fiber": 11.12,
+    "carbs": 46.87
+  }
+}

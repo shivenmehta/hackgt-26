@@ -1,0 +1,120 @@
+{
+  "id": "53186",
+  "name": "Chicken with saffron, raisins & pine nuts",
+  "cuisine": "Spanish",
+  "fingerprint": "0911313375288e1c29a41a24c6882cc523366c31e069f6a9e59ca60fec585124",
+  "yield": 4,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe serves 4 people based on 1.25 kg chicken plus other ingredients yielding typical main-course portions for lunch/dinner",
+    "Total active and passive time sums to approximately 60 minutes (browning 10 min + onion/garlic/sherry ~12 min + covered simmer 30 min + pine nut toasting 10 min, with overlaps)",
+    "Chicken is the primary protein and is incompatible with vegetarian/vegan/pescatarian diets",
+    "No gluten-containing ingredients (no wheat, barley, rye, or oats); sherry, stock, and all others are compatible with gluten-free",
+    "No dairy ingredients present",
+    "Pine nuts are tree nuts, triggering the allergen",
+    "No milk, eggs, fish, shellfish, peanuts, wheat, soy, or sesame ingredients or derivatives detected",
+    "Onions are listed in instructions but omitted from the provided ingredients list; conservatively treated as present but do not affect classifications",
+    "Chicken stock treated as compatible with listed diets/allergens (no dairy, gluten, etc.)",
+    "Parsley, thyme, saffron, garlic, olive oil, raisins, sherry, and pine nuts are all plant-based and compatible where applicable"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat a large frying pan on a high heat and season the chicken. Add the olive oil to the pan, then the chicken. Brown for about 5 mins on each side, remove onto a plate, then set aside.\r\n\r\nstep 2\r\nLower the heat to medium. In the remaining fat, fry the onions for 3 mins, then add the garlic and saffron. Cook for 3-4 mins more. Add the sherry, then simmer for 3-5 mins until syrupy.\r\n\r\nstep 3\r\nPut the chicken leg pieces back into the pan, tip in the stock, thyme and raisins, cover, then gently cook on a low heat for 20 mins. Add the breast meat and any juices left on the plate. Simmer for 10 mins more until cooked through and the sauce in the pan has reduced.\r\n\r\nstep 4\r\nWhile the chicken is cooking, heat oven to 200C/180C fan/gas 6. Scatter the pine nuts over a baking sheet, then roast for 10 mins until golden and toasted. Once the chicken has cooked through, season to taste, scatter with pine nuts and parsley, then serve with rice.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/4mhr3u1763481087.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken",
+      "measurement": "1.25kg",
+      "grams": 1150,
+      "assumptions": "1.25 kg whole chicken with bone; ~1150 g edible raw meat after estimating ~8% bone/skin waste for a cut-up chicken"
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "2 tblsp",
+      "grams": 28,
+      "assumptions": "2 tbsp olive oil using standard 14 g per tbsp"
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "3 cloves Chopped",
+      "grams": 9,
+      "assumptions": "3 cloves garlic ≈ 9 g chopped, raw"
+    },
+    {
+      "position": 4,
+      "name": "Saffron",
+      "measurement": "Pinch",
+      "grams": 0.2,
+      "assumptions": "Pinch of saffron threads estimated at 0.2 g (typical small pinch amount used in recipes)"
+    },
+    {
+      "position": 5,
+      "name": "Dry sherry",
+      "measurement": "125ml",
+      "grams": 102,
+      "assumptions": "125 ml dry sherry; density ≈ 0.816 g/ml, alcohol contributes to calories"
+    },
+    {
+      "position": 6,
+      "name": "Chicken Stock",
+      "measurement": "200ml",
+      "grams": 200,
+      "assumptions": "200 ml chicken stock using typical low-sodium broth values"
+    },
+    {
+      "position": 7,
+      "name": "Thyme",
+      "measurement": "1 tbsp",
+      "grams": 3,
+      "assumptions": "1 tbsp fresh thyme leaves ≈ 3 g"
+    },
+    {
+      "position": 8,
+      "name": "Raisins",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "50 g raisins used as-is"
+    },
+    {
+      "position": 9,
+      "name": "Pine Nuts",
+      "measurement": "2 tbsp",
+      "grams": 18,
+      "assumptions": "2 tbsp pine nuts ≈ 18 g (standard 9 g per tbsp)"
+    },
+    {
+      "position": 10,
+      "name": "Parsley",
+      "measurement": "Handful",
+      "grams": 15,
+      "assumptions": "Handful of fresh parsley ≈ 15 g chopped"
+    }
+  ],
+  "nutrition": {
+    "calories": 2583.7,
+    "protein": 363.63,
+    "fat": 82.57,
+    "fiber": 4.17,
+    "carbs": 51.42
+  }
+}

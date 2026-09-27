@@ -34,3 +34,9 @@ __pycache__/
 
 # Local community posts and private host tokens
 .local/
+/.swc
+
+# Workflow SDK generated routes and local run state
+src/app/.well-known/workflow/
+.workflow-data/
+supabase/.temp/

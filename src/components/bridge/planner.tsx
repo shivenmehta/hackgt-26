@@ -5,12 +5,10 @@ import Link from "next/link";
 import Community from "@/components/location/community";
 import {
   ALLERGENS,
-  CUISINES,
   DIETS,
   initialDraft,
   validatePreferences,
   parsePreferences,
-  buildSamplePlan,
   money,
   perServingCents,
   type PreferenceDraft,
@@ -18,7 +16,7 @@ import {
   type PlannedMeal,
   type WeeklyPlan,
 } from "@/lib/planner";
-import { sampleRecipes } from "@/lib/sample-recipes";
+import { CuisineDropdown, NutrientControls } from "./planner-controls";
 import { BridgeMark, FoodArt } from "./food-art";
 
 function Arrow() {
@@ -50,12 +48,90 @@ export default function Planner() {
   const [errors, setErrors] = useState<Partial<Record<InputKey, string>>>({});
   const [plan, setPlan] = useState<WeeklyPlan | null>(null);
   const [editing, setEditing] = useState(true);
+  const [jobId, setJobId] = useState<string | null>(null);
+  const [busy, setBusy] = useState(false);
+  const [stage, setStage] = useState("");
+  const [serverError, setServerError] = useState("");
+  const [cancelling, setCancelling] = useState(false);
+  const [blockedJob, setBlockedJob] = useState<string | null>(null);
+  const [version, setVersion] = useState(1);
+  const requestKey = useRef<string | null>(null);
+  const heading = useRef<HTMLHeadingElement>(null);
+  const focusedJob = useRef<string | null>(null);
+  useEffect(() => {
+    const stored = localStorage.getItem("bridge-plan-id");
+    if (stored)
+      Promise.resolve().then(() => {
+        setJobId(stored);
+        setBusy(true);
+      });
+  }, []);
+  useEffect(() => {
+    if (!jobId) return;
+    let stopped = false;
+    let timer: ReturnType<typeof setTimeout>;
+    async function poll() {
+      try {
+        const response = await fetch(`/api/plans/${jobId}`, {
+          cache: "no-store",
+        });
+        const data = await response.json();
+        if (stopped) return;
+        if (!response.ok)
+          throw new Error(data.error || "Could not load your plan.");
+        setStage(data.stage);
+        setVersion(data.version);
+        if (data.status === "failed" || data.status === "cancelled") {
+          setServerError(
+            data.error || "Plan cancelled. You can build a new week.",
+          );
+          setBlockedJob(null);
+          setBusy(false);
+          return;
+        }
+        if (data.plan) {
+          if (focusedJob.current !== jobId) {
+            focusedJob.current = jobId;
+            requestAnimationFrame(() => heading.current?.focus());
+          }
+          setPlan(data.plan);
+          setEditing(false);
+          setBusy(false);
+          const p = data.plan.preferences;
+          setDraft({
+            ...p,
+            budget: String(p.budget),
+            age: String(p.age),
+            bmi: String(p.bmi),
+            people: String(p.people),
+            meals: "3",
+            dailyCalories: String(p.dailyCalories),
+          });
+        }
+        if (data.status !== "ready" || !data.imagesDone)
+          timer = setTimeout(poll, 2500);
+      } catch (error) {
+        if (!stopped) {
+          setServerError(
+            error instanceof Error
+              ? error.message
+              : "Could not load your plan.",
+          );
+          setBusy(false);
+        }
+      }
+    }
+    void poll();
+    return () => {
+      stopped = true;
+      clearTimeout(timer);
+    };
+  }, [jobId]);
   const [activeDay, setActiveDay] = useState(0);
   const [selected, setSelected] = useState<{
     meal: PlannedMeal;
     date: string;
   } | null>(null);
-  const heading = useRef<HTMLHeadingElement>(null);
   const form = useRef<HTMLFormElement>(null);
   const focusHeading = () =>
     requestAnimationFrame(() => heading.current?.focus());
@@ -74,24 +150,87 @@ export default function Planner() {
       };
     });
   }
-  function submit(event: FormEvent) {
+  async function submit(event: FormEvent) {
     event.preventDefault();
     const issues = validatePreferences(draft);
     setErrors(issues);
     if (Object.keys(issues).length) {
       const key = (
-        ["budget", "location", "people", "meals", "age", "bmi"] as const
+        [
+          "budget",
+          "location",
+          "people",
+          "meals",
+          "age",
+          "bmi",
+          "dailyCalories",
+        ] as const
       ).find((k) => issues[k]);
       form.current?.querySelector<HTMLInputElement>(`[name="${key}"]`)?.focus();
       return;
     }
-    setPlan(buildSamplePlan(parsePreferences(draft), sampleRecipes));
-    setEditing(false);
-    setActiveDay(0);
-    focusHeading();
+    if (busy) return;
+    setBusy(true);
+    setServerError("");
+    setStage("Starting your plan");
+    try {
+      requestKey.current ||= crypto.randomUUID();
+      const now = new Date();
+      const localDate = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
+      const response = await fetch("/api/plans", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          preferences: parsePreferences(draft),
+          localDate,
+          idempotencyKey: requestKey.current,
+        }),
+      });
+      const data = await response.json();
+      if (!response.ok) {
+        if (data.activeJobId) setBlockedJob(data.activeJobId);
+        throw new Error(data.error || "Could not start your plan.");
+      }
+      localStorage.setItem("bridge-plan-id", data.id);
+      setJobId(data.id);
+      setActiveDay(0);
+      requestKey.current = null;
+    } catch (error) {
+      setServerError(
+        error instanceof Error ? error.message : "Could not start your plan.",
+      );
+      setBusy(false);
+      requestKey.current = null;
+    }
+  }
+  async function cancelPlan(id: string) {
+    setCancelling(true);
+    try {
+      const response = await fetch(`/api/plans/${id}/cancel`, {
+        method: "POST",
+      });
+      const data = await response.json();
+      if (!response.ok) throw new Error(data.error);
+      setJobId(null);
+      setBlockedJob(null);
+      setBusy(false);
+      setEditing(true);
+      setServerError("");
+      setStage("Plan cancelled. Cached prices are saved for your next plan.");
+      localStorage.removeItem("bridge-plan-id");
+    } catch (error) {
+      setServerError(
+        error instanceof Error ? error.message : "Could not cancel this plan.",
+      );
+    } finally {
+      setCancelling(false);
+    }
   }
   function edit() {
+    setJobId(null);
+    setBusy(false);
     setEditing(true);
+    setServerError("");
     focusHeading();
   }
   function field(
@@ -122,7 +261,7 @@ export default function Planner() {
             step={["budget", "bmi"].includes(key) ? "any" : "1"}
             min={props.type === "text" ? undefined : "0"}
             required
-            value={draft[key]}
+            value={draft[key] ?? ""}
             placeholder={props.placeholder}
             onChange={(e) => update(key, e.target.value)}
             aria-invalid={!!errors[key]}
@@ -211,6 +350,65 @@ export default function Planner() {
         </div>
       </header>
       <main id="main" className="page-shell">
+        {serverError && (
+          <div className="planner-error" role="alert">
+            <strong>We couldn’t complete that request.</strong>
+            <p>{serverError}</p>
+            {blockedJob && (
+              <div>
+                <button
+                  className="secondary-button"
+                  onClick={() => {
+                    localStorage.setItem("bridge-plan-id", blockedJob);
+                    setJobId(blockedJob);
+                    setBusy(true);
+                    setServerError("");
+                    setBlockedJob(null);
+                  }}
+                >
+                  Resume existing plan
+                </button>
+                <button
+                  className="secondary-button"
+                  disabled={cancelling}
+                  onClick={() => cancelPlan(blockedJob)}
+                >
+                  {cancelling ? "Cancelling…" : "Cancel existing plan"}
+                </button>
+              </div>
+            )}
+            <button
+              className="text-button"
+              onClick={() => {
+                localStorage.removeItem("bridge-plan-id");
+                setJobId(null);
+                setServerError("");
+                setBusy(false);
+                setEditing(true);
+              }}
+            >
+              Return to preferences
+            </button>
+          </div>
+        )}
+        {busy && (
+          <div className="planner-progress" role="status" aria-live="polite">
+            <strong>{stage || "Loading your plan"}</strong>
+            {jobId && (
+              <button
+                className="secondary-button"
+                disabled={cancelling}
+                onClick={() => cancelPlan(jobId)}
+              >
+                {cancelling ? "Cancelling…" : "Cancel plan"}
+              </button>
+            )}
+            <p>
+              First runs take longer while we price eligible recipes. You can
+              return to this page while we work.
+            </p>
+          </div>
+        )}
         {tab === "community" ? (
           <>
             <Community />
@@ -243,7 +441,7 @@ export default function Planner() {
                 onClick={() => {
                   setDraft({
                     ...initialDraft,
-                    location: "Atlanta, GA",
+                    location: "30318",
                     age: "24",
                     bmi: "22",
                   });
@@ -276,8 +474,8 @@ export default function Planner() {
                     })}
                     {field("location", "Where are you planning?", {
                       type: "text",
-                      placeholder: "City or ZIP code",
-                      hint: "Location won’t change prices in this demo.",
+                      placeholder: "e.g. 30318",
+                      hint: "Five-digit US ZIP code for nearby Kroger prices.",
                     })}
                     {field("people", "People to feed", {
                       hint: "Including you.",
@@ -298,7 +496,7 @@ export default function Planner() {
                             errors.meals ? "meals-error" : undefined
                           }
                         >
-                          {[1, 2, 3, 4, 5, 6].map((n) => (
+                          {[3].map((n) => (
                             <option key={n} value={n}>
                               {n} {n === 1 ? "meal" : "meals"}
                             </option>
@@ -311,7 +509,7 @@ export default function Planner() {
                         </p>
                       )}
                       <p className="field-hint">
-                        We’ll make space for each one.
+                        Breakfast, lunch, and dinner.
                       </p>
                     </div>
                   </div>
@@ -333,25 +531,32 @@ export default function Planner() {
                     </legend>
                     {chips("allergens", ALLERGENS)}
                     <p className="field-hint">
-                      Filters use sample recipe tags, not verified product
-                      allergen labels.
+                      Recipe classifications are estimates. Check actual product
+                      labels for allergens.
                     </p>
                   </fieldset>
                   <fieldset>
                     <legend>
                       Favorite cuisines <span>Optional</span>
                     </legend>
-                    {chips("cuisines", CUISINES)}
+                    <CuisineDropdown
+                      values={draft.cuisines}
+                      onToggle={(value) => toggle("cuisines", value)}
+                    />
                     <p className="field-hint">
                       Choose a few, or leave open for a mix of everything.
                     </p>
                   </fieldset>
+                  <NutrientControls draft={draft} onChange={setDraft} />
+                  {Number(draft.people) === 1 &&
+                    field("dailyCalories", "Daily calorie target", {
+                      hint: "An editable personal goal, not calculated from age or BMI.",
+                    })}
                 </section>
                 <section className="form-section">
                   <h2>A little about you</h2>
                   <p className="section-copy">
-                    Collected for the profile preview. Age and BMI do not set
-                    nutrition targets here.
+                    Age and BMI do not automatically set nutrition targets here.
                   </p>
                   <div className="field-grid personal-fields">
                     {field("age", "Age", { placeholder: "Years" })}
@@ -371,8 +576,8 @@ export default function Planner() {
                       placeholder="I have 20 minutes to cook, love spicy food, and already have rice…"
                     />
                     <p className="field-hint">
-                      Saved while this page is open. Interpreting these notes is
-                      coming later.
+                      We’ll consider these needs when selecting meals and flag
+                      requirements we cannot verify.
                     </p>
                   </div>
                 </section>
@@ -382,10 +587,15 @@ export default function Planner() {
                       A plan to explore, not a final grocery bill.
                     </strong>
                     <br />
-                    Sample meals, illustrative prices. Your information stays on
-                    this page.
+                    Estimated nutrition and ingredient prices. Your plan is
+                    saved privately for this browser.
                   </p>
-                  <Button unstyled type="submit" className="primary-button">
+                  <Button
+                    unstyled
+                    type="submit"
+                    className="primary-button"
+                    disabled={busy}
+                  >
                     Build my week <Arrow />
                   </Button>
                 </div>
@@ -451,7 +661,7 @@ export default function Planner() {
               <div className="page-intro plan-intro">
                 <div>
                   <div className="breadcrumb">
-                    Weekly planner <span>/</span> Your sample plan
+                    Weekly planner <span>/</span> Your plan
                   </div>
                   <h1 ref={heading} tabIndex={-1}>
                     A week at your table.
@@ -468,20 +678,36 @@ export default function Planner() {
                 </Button>
               </div>
               <div className="demo-banner">
-                <span className="demo-tag">Demo plan</span>
+                <span className="demo-tag">Estimated plan</span>
                 <p>
-                  Sample recipes and nutrition. Prices estimate ingredients
-                  used, not whole packages or live local prices.
+                  MealDB recipes with estimated nutrition. Prices cover
+                  ingredients used; some use model estimates rather than store
+                  quotes.
                 </p>
               </div>
+              {plan.warnings?.map((warning) => (
+                <p key={warning} className="overage-note">
+                  {warning}
+                </p>
+              ))}
+              {plan.dailyTargets && (
+                <p className="plan-goals">
+                  Daily goal per person:{" "}
+                  {Math.round(plan.dailyTargets.calories)} kcal ·{" "}
+                  {Math.round(plan.dailyTargets.protein)} g protein ·{" "}
+                  {Math.round(plan.dailyTargets.fat)} g fat ·{" "}
+                  {Math.round(plan.dailyTargets.fiber)} g fiber ·{" "}
+                  {Math.round(plan.dailyTargets.carbs)} g carbs
+                </p>
+              )}
               {!plan.days.length ? (
                 <div className="empty-plan">
                   <FoodArt />
-                  <h2>No matching sample meals yet</h2>
+                  <h2>No matching meals</h2>
                   <p>
-                    Our small sample collection doesn’t cover this combination.
-                    Edit your selections, or wait for a larger recipe
-                    collection. Your restrictions haven’t been relaxed.
+                    The recipe collection doesn’t cover this combination. Edit
+                    your selections, or wait for a larger recipe collection.
+                    Your restrictions haven’t been relaxed.
                   </p>
                   <Button unstyled className="primary-button" onClick={edit}>
                     Edit preferences
@@ -533,9 +759,9 @@ export default function Planner() {
                   </div>
                   {plan.totalCents > plan.preferences.budget * 100 && (
                     <p className="overage-note" role="status">
-                      This sample plan exceeds your budget. Edit your
-                      preferences to explore a different plan; the demo does not
-                      optimize costs.
+                      This plan exceeds your budget. Broaden cuisines or
+                      increase your budget to explore other options. Costs
+                      reflect the portions shown.
                     </p>
                   )}
                   <div className="mobile-days" aria-label="Choose a day">
@@ -576,10 +802,12 @@ export default function Planner() {
                             aria-label={`${meal.slot}, ${meal.recipe.name}, ${money(perServingCents(meal.recipe))} per serving`}
                           >
                             <span className="meal-slot">{meal.slot}</span>
-                            <FoodArt
-                              kind={meal.recipe.art}
-                              variant={i + meal.slotIndex}
-                            />
+                            <MealImage recipe={meal.recipe} />
+                            {meal.recipe.aiImage && (
+                              <span className="image-caption">
+                                AI-generated
+                              </span>
+                            )}
                             <h4>{meal.recipe.name}</h4>
                             <div className="meal-card-bottom">
                               <span>
@@ -609,11 +837,11 @@ export default function Planner() {
                     <p>
                       <span className="meal-dot slot-1" />
                       Same ingredients, different possibilities. Repeated meals
-                      keep this small demo practical.
+                      can keep the week affordable.
                     </p>
                     <p>
-                      Profile and additional notes are retained but don’t affect
-                      nutrition targets or prices.
+                      Costs and quantities scale with portions and household
+                      size. Nutrition remains an estimate.
                     </p>
                   </div>
                 </>
@@ -625,14 +853,25 @@ export default function Planner() {
       <footer className="site-footer">
         <span className="footer-brand">bridge.</span>
         <p>Good food should feel within reach.</p>
-        <span>Interactive prototype · Resets on refresh</span>
+        <span>Recipes: TheMealDB · Nutrition estimated by Grok</span>
       </footer>
       {selected && plan && (
         <MealDetails
-          meal={selected.meal}
+          meal={
+            plan.days
+              .flatMap((d) => d.meals)
+              .find((m) => m.id === selected.meal.id) ?? selected.meal
+          }
           date={selected.date}
           people={plan.preferences.people}
           onDismiss={() => setSelected(null)}
+          jobId={jobId}
+          version={version}
+          onReplace={(next, nextVersion) => {
+            setPlan(next);
+            setVersion(nextVersion);
+            setSelected(null);
+          }}
         />
       )}
     </div>
@@ -643,12 +882,63 @@ function MealDetails({
   date,
   people,
   onDismiss,
+  jobId,
+  version,
+  onReplace,
 }: {
   meal: PlannedMeal;
   date: string;
   people: number;
   onDismiss: () => void;
+  jobId: string | null;
+  version: number;
+  onReplace: (plan: WeeklyPlan, version: number) => void;
 }) {
+  const [choices, setChoices] = useState<
+    | {
+        id: string;
+        name: string;
+        portion: number;
+        costDeltaCents: number;
+        nutritionDelta: Record<string, number>;
+      }[]
+    | null
+  >(null);
+  const [replacementError, setReplacementError] = useState("");
+  const [replacing, setReplacing] = useState(false);
+  async function replacements() {
+    try {
+      const response = await fetch(
+        `/api/plans/${jobId}/replacements?slotId=${meal.id}`,
+      );
+      const data = await response.json();
+      if (!response.ok) throw new Error(data.error);
+      setChoices(data.choices);
+    } catch (e) {
+      setReplacementError(
+        e instanceof Error ? e.message : "Could not load alternatives.",
+      );
+    }
+  }
+  async function replace(recipeId: string) {
+    setReplacing(true);
+    try {
+      const response = await fetch(`/api/plans/${jobId}/replacements`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ slotId: meal.id, recipeId, version }),
+      });
+      const data = await response.json();
+      if (!response.ok) throw new Error(data.error);
+      onReplace(data.plan, data.version);
+    } catch (e) {
+      setReplacementError(
+        e instanceof Error ? e.message : "Could not replace this meal.",
+      );
+    } finally {
+      setReplacing(false);
+    }
+  }
   const ref = useRef<HTMLDialogElement>(null);
   const close = useRef<HTMLButtonElement>(null);
   useEffect(() => {
@@ -690,7 +980,7 @@ function MealDetails({
           </button>
         </header>
         <div className={`detail-art slot-${meal.slotIndex % 3}`}>
-          <FoodArt kind={r.art} />
+          <MealImage recipe={r} />
           <span className="status-pill">{r.cuisine}</span>
         </div>
         <div className="detail-content">
@@ -715,12 +1005,60 @@ function MealDetails({
             <strong>{money(perServingCents(r) * people)}</strong>
           </p>
           <p className="field-hint">
-            Illustrative ingredient cost, not a store quote or package total.
+            {r.pricingNote ??
+              "Estimated consumed-ingredient cost, not a package total."}
           </p>
+          <p className="field-hint">
+            {r.portion ?? 1} estimated recipe servings per person. Original
+            recipe yield: {r.originalYield ?? 1} servings. Ingredient quantities
+            below are scaled for your household; cooking times and equipment may
+            need adjustment.
+          </p>
+          {jobId && (
+            <div className="replacement-panel">
+              <button className="secondary-button" onClick={replacements}>
+                Find a replacement
+              </button>
+              {replacementError && <p role="alert">{replacementError}</p>}
+              {choices && (
+                <div>
+                  {!choices.length && (
+                    <p>No other eligible meals for this slot.</p>
+                  )}
+                  {choices.map((c) => (
+                    <div className="replacement-choice" key={c.id}>
+                      <strong>{c.name}</strong>
+                      <p>
+                        {c.portion} servings/person · Household cost change:{" "}
+                        {c.costDeltaCents >= 0 ? "+" : "−"}
+                        {money(Math.abs(c.costDeltaCents))}
+                      </p>
+                      <p>
+                        Per-person change:{" "}
+                        {Object.entries(c.nutritionDelta)
+                          .map(
+                            ([k, v]) =>
+                              `${v >= 0 ? "+" : ""}${v} ${k === "calories" ? "kcal" : `g ${k}`}`,
+                          )
+                          .join(" · ")}
+                      </p>
+                      <button
+                        disabled={replacing}
+                        className="text-button"
+                        onClick={() => replace(c.id)}
+                      >
+                        Choose this meal
+                      </button>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          )}
           <h3>What you’ll need</h3>
           <ul className="ingredient-list">
             {r.ingredients.map((i) => (
-              <li key={i.name}>
+              <li key={i.name + i.grams}>
                 <span>{i.name}</span>
                 <strong>{Math.round(i.grams * people * 10) / 10} g</strong>
               </li>
@@ -733,7 +1071,7 @@ function MealDetails({
             ))}
           </ol>
           <h3>
-            Sample nutrition <span>Per serving</span>
+            Estimated nutrition <span>Per person’s portion</span>
           </h3>
           <div className="nutrition-grid">
             {Object.entries(r.nutrition).map(([key, value]) => (
@@ -746,16 +1084,51 @@ function MealDetails({
               </div>
             ))}
           </div>
+          <p className="field-hint">
+            Household nutrition:{" "}
+            {Object.entries(r.nutrition)
+              .map(
+                ([key, value]) =>
+                  `${Math.round(value * people * 10) / 10} ${key === "calories" ? "kcal" : `g ${key}`}`,
+              )
+              .join(" · ")}
+          </p>
+          {r.assumptions && (
+            <details className="recipe-assumptions">
+              <summary>Portion, ingredient and pricing assumptions</summary>
+              <ul>
+                {r.assumptions.map((a, i) => (
+                  <li key={i}>{a}</li>
+                ))}
+              </ul>
+            </details>
+          )}
           <p className="detail-disclaimer">
-            Illustrative estimates, not calculated from your age or BMI. Always
-            check the actual ingredients and product labels for allergens.
+            Grok estimates, not calculated from your age or BMI. Always check
+            the actual ingredients and product labels for allergens.
           </p>
           <div className="allergen-info">
-            <strong>Sample allergen tags:</strong>{" "}
+            <strong>Estimated allergen tags:</strong>{" "}
             {r.allergens.length ? r.allergens.join(", ") : "None listed"}
           </div>
         </div>
       </div>
     </dialog>
+  );
+}
+
+function MealImage({ recipe }: { recipe: PlannedMeal["recipe"] }) {
+  const [failed, setFailed] = useState(false);
+  if (!recipe.imageUrl || failed) return <FoodArt kind={recipe.art} />;
+  // Remote catalog and generated images have dynamic origins and their own caching.
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      className="meal-photo"
+      src={recipe.imageUrl}
+      alt={recipe.name}
+      loading="lazy"
+      onError={() => setFailed(true)}
+    />
   );
 }

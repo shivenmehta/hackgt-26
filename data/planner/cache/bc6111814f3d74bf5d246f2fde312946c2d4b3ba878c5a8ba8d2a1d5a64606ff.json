@@ -1,0 +1,108 @@
+{
+  "id": "53274",
+  "name": "Griddled aubergines with sesame dressing",
+  "cuisine": "Turkish",
+  "fingerprint": "bc6111814f3d74bf5d246f2fde312946c2d4b3ba878c5a8ba8d2a1d5a64606ff",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated from typical 2 large aubergines (800 g total) providing 4 modest side or starter portions when griddled and dressed; original source implies 4 servings.",
+    "Total time is active prep and cooking only (no passive time); griddling in batches may extend slightly but base estimate is 20 min.",
+    "Greek yogurt confirms dairy and non-vegan; tahini confirms sesame; herbs and lemon juice introduce no allergens with certainty.",
+    "No wheat, barley, rye or oats used; recipe is gluten-free by ingredients.",
+    "No tree nuts, peanuts, eggs, fish or shellfish appear in listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nBrush each aubergine slice with some oil, then season. Heat a griddle pan or barbecue. When hot, griddle the aubergine slices for 2-3 mins on each side until golden brown and tender.\r\n\r\nstep 2\r\nMix the yogurt with the tahini, garlic, lemon juice and herbs, then season. Top the aubergines with the dressing and scatter over extra herb leaves.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/yoj48r1763817100.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Aubergine",
+      "measurement": "2 large",
+      "grams": 800,
+      "assumptions": "2 large aubergines ≈800g total raw weight; edible flesh only (skin is included in weight but not subtracted as it is eaten)."
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "2 tablespoons",
+      "grams": 28,
+      "assumptions": "2 tbsp olive oil; standard 14 g per tbsp, used for brushing and griddling."
+    },
+    {
+      "position": 3,
+      "name": "Greek Yogurt",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "250 g Greek yogurt as given; typical full-fat strained variety."
+    },
+    {
+      "position": 4,
+      "name": "Tahini Paste",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "3 tbsp tahini paste; ≈15 g per tbsp, standard sesame paste."
+    },
+    {
+      "position": 5,
+      "name": "Garlic",
+      "measurement": "1 clove peeled crushed",
+      "grams": 5,
+      "assumptions": "1 clove garlic crushed ≈5 g; typical peeled weight."
+    },
+    {
+      "position": 6,
+      "name": "Lemon",
+      "measurement": "Juice of 1",
+      "grams": 30,
+      "assumptions": "Juice of 1 lemon ≈30 g (≈2 tbsp); typical yield from a medium lemon, only the juice is used."
+    },
+    {
+      "position": 7,
+      "name": "Coriander",
+      "measurement": "Handful",
+      "grams": 15,
+      "assumptions": "Handful fresh coriander ≈15 g; typical loose bunch handful for mixing and scattering."
+    },
+    {
+      "position": 8,
+      "name": "Parsley",
+      "measurement": "Handful",
+      "grams": 15,
+      "assumptions": "Handful fresh parsley ≈15 g; typical loose bunch handful for mixing and scattering."
+    },
+    {
+      "position": 9,
+      "name": "Mint",
+      "measurement": "Handful",
+      "grams": 15,
+      "assumptions": "Handful fresh mint ≈15 g; typical loose bunch handful for mixing and scattering."
+    }
+  ],
+  "nutrition": {
+    "calories": 990.12,
+    "protein": 39.88,
+    "fat": 66.82,
+    "fiber": 30.63,
+    "carbs": 74.55
+  }
+}

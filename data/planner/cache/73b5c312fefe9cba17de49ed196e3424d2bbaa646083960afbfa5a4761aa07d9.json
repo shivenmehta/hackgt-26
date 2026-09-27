@@ -1,0 +1,90 @@
+{
+  "id": "53159",
+  "name": "Chorizo, potato & cheese omelette",
+  "cuisine": "Spanish",
+  "fingerprint": "73b5c312fefe9cba17de49ed196e3424d2bbaa646083960afbfa5a4761aa07d9",
+  "yield": 1,
+  "minutes": 25,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated at 1 serving based on single omelette cooked in an omelette pan with listed ingredients scaled for one person",
+    "Total time is sum of explicit cooking steps (8-10 min potato + 2 min chorizo + 5 min potato/chorizo + omelette cooking ~5 min + 1 min final cook) rounded to nearest 5 min; prep time not separately stated but included conservatively",
+    "Parsley quantity conservatively classified as present but not affecting allergen/diet flags",
+    "No wheat, gluten-containing grains, or barley/rye present; gluten-free classification holds",
+    "Dairy present via cheddar cheese",
+    "Eggs explicitly listed and used as primary ingredient",
+    "No fish, shellfish, tree nuts, peanuts, soy, or sesame in listed ingredients",
+    "Chorizo treated as pork sausage with no ambiguous compounds"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nCook the potato in boiling water for 8-10 mins or until tender. Drain and allow to steam-dry. Heat oil in an omelette pan, add chorizo and cook for 2 mins. Add the potato and cook for a further 5 mins until the potato starts to crisp. Spoon pan contents out, wipe pan and cook a 2 or 3-egg omelette in the same pan. When almost cooked, scatter with the chorizo and potato, parsley and cheese. Fold the omelette in the pan and cook for 1 min more to melt the cheese.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/0y6uvc1763258983.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Potatoes",
+      "measurement": "1 small",
+      "grams": 120,
+      "assumptions": "1 small potato estimated at 120g raw, peeled weight; standard white potato values"
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "1 teaspoon",
+      "grams": 5,
+      "assumptions": "1 tsp olive oil = 5g; typical extra virgin olive oil"
+    },
+    {
+      "position": 3,
+      "name": "Chorizo",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "50g chorizo sausage as given; cured pork sausage typical values"
+    },
+    {
+      "position": 4,
+      "name": "Egg",
+      "measurement": "3",
+      "grams": 150,
+      "assumptions": "3 large eggs estimated at 50g each edible portion (150g total); standard large chicken eggs, raw"
+    },
+    {
+      "position": 5,
+      "name": "Parsley",
+      "measurement": "Chopped",
+      "grams": 5,
+      "assumptions": "'Chopped' parsley estimated at 5g (small handful for garnish); typical fresh parsley leaves"
+    },
+    {
+      "position": 6,
+      "name": "Cheddar Cheese",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "25g cheddar cheese as given; typical mature cheddar block"
+    }
+  ],
+  "nutrition": {
+    "calories": 681.15,
+    "protein": 40.3,
+    "fat": 47.42,
+    "fiber": 2.79,
+    "carbs": 23.45
+  }
+}

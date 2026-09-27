@@ -1,0 +1,108 @@
+{
+  "id": "52893",
+  "name": "Apple & Blackberry Crumble",
+  "cuisine": "British",
+  "fingerprint": "f75dfc15bffd318c57a497cdaa6f189a8f25962890f8f29a09ec69eb607670c7",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical crumble recipes and BBC Good Food similar dishes (4 servings).",
+    "Total time is sum of active prep/cook steps plus baking (approx. 45 min).",
+    "Ice cream assumed dairy-based (standard vanilla).",
+    "Cinnamon quantity rounded per provided data; no impact on classifications.",
+    "Plain flour confirmed as wheat-based."
+  ],
+  "categories": [],
+  "instructions": "Heat oven to 190C/170C fan/gas 5. Tip the flour and sugar into a large bowl. Add the butter, then rub into the flour using your fingertips to make a light breadcrumb texture. Do not overwork it or the crumble will become heavy. Sprinkle the mixture evenly over a baking sheet and bake for 15 mins or until lightly coloured.\r\nMeanwhile, for the compote, peel, core and cut the apples into 2cm dice. Put the butter and sugar in a medium saucepan and melt together over a medium heat. Cook for 3 mins until the mixture turns to a light caramel. Stir in the apples and cook for 3 mins. Add the blackberries and cinnamon, and cook for 3 mins more. Cover, remove from the heat, then leave for 2-3 mins to continue cooking in the warmth of the pan.\r\nTo serve, spoon the warm fruit into an ovenproof gratin dish, top with the crumble mix, then reheat in the oven for 5-10 mins. Serve with vanilla ice cream.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Plain Flour",
+      "measurement": "120g",
+      "grams": 120,
+      "assumptions": "Standard plain white wheat flour; values for uncooked flour."
+    },
+    {
+      "position": 2,
+      "name": "Caster Sugar",
+      "measurement": "60g",
+      "grams": 60,
+      "assumptions": "Standard caster sugar (sucrose); 100% carbohydrate."
+    },
+    {
+      "position": 3,
+      "name": "Butter",
+      "measurement": "60g",
+      "grams": 60,
+      "assumptions": "Unsalted butter; standard dairy butter values."
+    },
+    {
+      "position": 4,
+      "name": "Braeburn Apples",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Braeburn apples, raw, with peel, cored and diced as per instructions; typical apple edible portion values."
+    },
+    {
+      "position": 5,
+      "name": "Butter",
+      "measurement": "30g",
+      "grams": 30,
+      "assumptions": "Unsalted butter; standard dairy butter values."
+    },
+    {
+      "position": 6,
+      "name": "Demerara Sugar",
+      "measurement": "30g",
+      "grams": 30,
+      "assumptions": "Demerara sugar; typical raw cane sugar values, nearly identical to white sugar nutritionally."
+    },
+    {
+      "position": 7,
+      "name": "Blackberries",
+      "measurement": "120g",
+      "grams": 120,
+      "assumptions": "Fresh blackberries; raw values, as they are cooked lightly."
+    },
+    {
+      "position": 8,
+      "name": "Cinnamon",
+      "measurement": "¼ teaspoon",
+      "grams": 1,
+      "assumptions": "Ground cinnamon; ¼ tsp ≈ 0.6-0.8 g rounded to 1 g for estimation; high-fiber spice."
+    },
+    {
+      "position": 9,
+      "name": "Ice Cream",
+      "measurement": "to serve",
+      "grams": 100,
+      "assumptions": "Vanilla ice cream 'to serve'; typical commercial vanilla ice cream values, assuming ~100 g portion as a plausible single-serving amount for the whole crumble (recipe makes 4-6 servings)."
+    }
+  ],
+  "nutrition": {
+    "calories": 1845.37,
+    "protein": 19.02,
+    "fat": 86.55,
+    "fiber": 18.03,
+    "carbs": 258.38
+  }
+}

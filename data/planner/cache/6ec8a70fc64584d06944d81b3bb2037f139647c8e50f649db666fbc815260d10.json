@@ -1,0 +1,131 @@
+{
+  "id": "52897",
+  "name": "Carrot Cake",
+  "cuisine": "British",
+  "fingerprint": "6ec8a70fc64584d06944d81b3bb2037f139647c8e50f649db666fbc815260d10",
+  "yield": 10,
+  "minutes": 105,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from standard 26cm springform carrot cake size (typically 8-12 slices); conservatively 10 servings.",
+    "Total time is active prep (~15 min) + bake (75 min) + initial cool (10 min) + icing; excludes final cooling to room temperature.",
+    "Plain Flour classified as containing wheat/gluten.",
+    "Walnuts classified as tree nuts.",
+    "Caster sugar and granulated sugar treated as equivalent for classification.",
+    "No fish, shellfish, peanuts, soy, or sesame explicitly listed; ambiguous items set to null.",
+    "Vegetarian confirmed (no meat/fish); vegan incompatible due to eggs, dairy, butter."
+  ],
+  "categories": [],
+  "instructions": "For the carrot cake, preheat the oven to 160C/325F/Gas 3. Grease and line a 26cm/10in springform cake tin.\r\nMix all of the ingredients for the carrot cake, except the carrots and walnuts, together in a bowl until well combined. Stir in the carrots and walnuts.\r\nSpoon the mixture into the cake tin and bake for 1 hour 15 minutes, or until a skewer inserted into the middle comes out clean. Remove the cake from the oven and set aside to cool for 10 minutes, then carefully remove the cake from the tin and set aside to cool completely on a cooling rack.\r\nMeanwhile, for the icing, beat the cream cheese, caster sugar and butter together in a bowl until fluffy. Spread the icing over the top of the cake with a palette knife.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vrspxv1511722107.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Vegetable Oil",
+      "measurement": "450ml",
+      "grams": 414,
+      "assumptions": "450ml vegetable oil converted using density of ~0.92 g/ml; fully edible as recipe fat."
+    },
+    {
+      "position": 2,
+      "name": "Plain Flour",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Plain white flour; standard dry weight as listed."
+    },
+    {
+      "position": 3,
+      "name": "Bicarbonate Of Soda",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 tsp bicarbonate of soda (~10g total); negligible macros, treated as zero."
+    },
+    {
+      "position": 4,
+      "name": "Sugar",
+      "measurement": "550ml",
+      "grams": 440,
+      "assumptions": "550ml granulated sugar converted using density of ~0.8 g/ml; assumes white sugar."
+    },
+    {
+      "position": 5,
+      "name": "Eggs",
+      "measurement": "5",
+      "grams": 250,
+      "assumptions": "5 large eggs (~50g each edible portion without shell)."
+    },
+    {
+      "position": 6,
+      "name": "Salt",
+      "measurement": "½ tsp",
+      "grams": 3,
+      "assumptions": "½ tsp table salt (~3g); negligible macros, treated as zero."
+    },
+    {
+      "position": 7,
+      "name": "Cinnamon",
+      "measurement": "2 tsp",
+      "grams": 5,
+      "assumptions": "2 tsp ground cinnamon (~5g); typical spice values."
+    },
+    {
+      "position": 8,
+      "name": "Carrots",
+      "measurement": "500g grated",
+      "grams": 500,
+      "assumptions": "500g grated carrots; raw weight as specified, edible portion."
+    },
+    {
+      "position": 9,
+      "name": "Walnuts",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "150g chopped walnuts; standard edible weight."
+    },
+    {
+      "position": 10,
+      "name": "Cream Cheese",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Full-fat cream cheese; standard values."
+    },
+    {
+      "position": 11,
+      "name": "Caster Sugar",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "150g caster sugar; standard white sugar values."
+    },
+    {
+      "position": 12,
+      "name": "Butter",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "100g butter; standard unsalted butter values."
+    }
+  ],
+  "nutrition": {
+    "calories": 10356.06,
+    "protein": 113.2,
+    "fat": 690.15,
+    "fiber": 39.15,
+    "carbs": 978
+  }
+}

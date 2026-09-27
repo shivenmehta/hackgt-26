@@ -11,3 +11,7 @@ next-env.d.ts
 !.env.example
 
 .local/
+
+.venv/
+src/app/.well-known/workflow/
+.workflow-data/

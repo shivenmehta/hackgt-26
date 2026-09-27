@@ -1,0 +1,116 @@
+{
+  "id": "53073",
+  "name": "Eggplant Adobo",
+  "cuisine": "Filipino",
+  "fingerprint": "7890391f6bb514019b2a0e76a542a4502d1242a6df4d018f927af91d0e68c097",
+  "yield": 4,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical Filipino adobo main-dish portions (≈1/4 of total cooked eggplant + pork + sauce per serving) served with rice; original recipe does not specify servings.",
+    "Total active and passive time summed from all steps: eggplant salting (20 min), garlic frying (5 min), pork browning (5 min), eggplant frying (≈12 min for batches), simmering (22 min average), plus minimal prep time; rounded to nearest 5 min increment.",
+    "Ground pork makes Vegetarian/Vegan/Pescatarian false.",
+    "Soy sauce makes Gluten-free false and Soy true; wheat is present in standard soy sauce.",
+    "No dairy, eggs, tree nuts, peanuts, or sesame listed; Fish/Shellfish left null as no explicit fish sauce or seafood but ambiguous with possible fermented soy sauce ingredients.",
+    "Olive oil treated as the listed vegetable oil; bay leaves and vinegar are compatible with all listed diets."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "1.\tSlice 1 lb. small Japanese or Italian eggplant (about 3) into quarters lengthwise, then cut crosswise into 2\"-wide pieces. Place in a medium bowl. Add 1 Tbsp. sugar, 1 tsp. Diamond Crystal or ½ tsp. Morton kosher salt, and ½ tsp. freshly ground black pepper. Toss to evenly coat eggplant and let sit at room temperature at least 20 minutes and up to 2 hours.\r\n2.\tPeel and thinly slice 8 garlic cloves. Add 3 Tbsp. vegetable oil and half of garlic to a medium Dutch oven or other heavy pot. Cook over medium-high heat, stirring constantly with a wooden spoon, until light golden and crisp, about 5 minutes. Using a slotted spoon, transfer garlic chips to a plate; season lightly with salt.\r\n3. Place 4 oz. ground pork in same pot and break up into small pieces with wooden spoon. Season with ¼ tsp. Diamond Crystal or Morton kosher salt and cook, undisturbed, until deeply browned underneath, about 5 minutes. Using a slotted spoon, transfer to another plate, leaving fat behind in the pot.\r\n4. Place eggplant on a clean kitchen towel and blot away any moisture the salt has drawn out.\r\n5. Working in batches and adding more oil if needed, cook eggplant in the same pot until lightly browned, about 3 minutes per side. Transfer to a plate with pork.\r\n6. Pour 1½ cups of water into the pot and scrape up browned bits from the bottom with a wooden spoon. Add remaining garlic, 3 Tbsp. coconut vinegar or unseasoned rice vinegar, 2 Tbsp. soy sauce, 2 bay leaves, 1 tsp. freshly ground black pepper, and remaining 1 Tbsp. sugar. Bring to a simmer, then return pork and eggplant to pot. Reduce heat to medium-low, partially cover, and simmer until eggplant is tender and silky and sauce is reduced by half, 20–25 minutes. Taste and season with more salt and pepper and add a little more sugar if needed.\r\n7. Top with garlic chips and serve with cooked white rice.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/y7h0lq1683208991.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Egg Plants",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "1 lb Japanese/Italian eggplants; raw edible portion; typical nutrition for eggplant."
+    },
+    {
+      "position": 2,
+      "name": "Sugar",
+      "measurement": "2 tbs",
+      "grams": 25,
+      "assumptions": "2 Tbsp granulated white sugar (25 g); recipe uses 1 Tbsp in marinade + 1 Tbsp later."
+    },
+    {
+      "position": 3,
+      "name": "Salt",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp total Diamond Crystal kosher salt (≈5 g); split across steps; sodium not counted as carbohydrate."
+    },
+    {
+      "position": 4,
+      "name": "Pepper",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp total freshly ground black pepper (≈2 g); negligible macros."
+    },
+    {
+      "position": 5,
+      "name": "Garlic",
+      "measurement": "1 whole",
+      "grams": 24,
+      "assumptions": "8 garlic cloves (1 whole bulb equivalent ≈24 g peeled); typical raw garlic nutrition."
+    },
+    {
+      "position": 6,
+      "name": "Olive Oil",
+      "measurement": "3 tbs",
+      "grams": 42,
+      "assumptions": "3 Tbsp vegetable oil listed as Olive Oil in JSON (42 g); used for frying garlic, pork, and eggplant in batches; typical vegetable/canola oil macros."
+    },
+    {
+      "position": 7,
+      "name": "Ground Pork",
+      "measurement": "4 oz",
+      "grams": 113,
+      "assumptions": "4 oz raw ground pork (113 g); typical 70-80% lean pork mince nutrition."
+    },
+    {
+      "position": 8,
+      "name": "Rice Vinegar",
+      "measurement": "3 tbs",
+      "grams": 45,
+      "assumptions": "3 Tbsp coconut or unseasoned rice vinegar (45 g); negligible macros, typical for vinegar."
+    },
+    {
+      "position": 9,
+      "name": "Soy Sauce",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 Tbsp soy sauce (30 g); typical regular soy sauce nutrition."
+    },
+    {
+      "position": 10,
+      "name": "Bay Leaf",
+      "measurement": "2",
+      "grams": 1,
+      "assumptions": "2 bay leaves (≈1 g total); negligible contribution, used for flavor only."
+    }
+  ],
+  "nutrition": {
+    "calories": 906.87,
+    "protein": 26.94,
+    "fat": 64.53,
+    "fiber": 14.33,
+    "carbs": 61.79
+  }
+}

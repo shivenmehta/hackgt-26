@@ -1,0 +1,182 @@
+{
+  "id": "52782",
+  "name": "Lamb tomato and sweet spices",
+  "cuisine": "Moroccan",
+  "fingerprint": "5db48b86e2d9e027c20b94cea07287ecafb244a6ac69a1e3a06e1d98f4f83b99",
+  "yield": 4,
+  "minutes": 120,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe explicitly states \"Serves four.\"",
+    "Total time estimate includes 10 min blanching leaves + 20 min sauce simmer + 70 min covered simmer + ~20 min prep for filling/sauce/leaves (sequential overlap accounted for)",
+    "All listed ingredients screened conservatively for classifications",
+    "No wheat, barley, rye or oats present → gluten-free",
+    "No milk or dairy products listed → dairy-free",
+    "Lamb is incompatible with vegetarian/vegan/pescatarian",
+    "No tree nuts, peanuts, eggs, fish, shellfish, soy, sesame, or wheat explicitly listed (sesame left null due to possible unlisted tahini-like compound but none indicated)",
+    "Vine leaves treated as preserved in brine only (no ambiguous sauces)",
+    "Tomatoes listed twice but both used (sauce + filling)"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Use pickled vine leaves here, preserved in brine. Small delicate leaves are better than the large bristly ones but, if only large leaves are to hand, then trim them to roughly 12 by 12 cms so that you don't get too many layers of leaves around the filling. And remove any stalks. Drain the preserved leaves, immerse them in boiling water for 10 minutes and then leave to dry on a tea towel before use. \r\nBasmati rice with butter and pine nuts is an ideal accompaniment. Couscous is great, too. Serves four.\r\nFirst make the filling. Put all the ingredients, apart from the tomatoes, in a bowl. Cut the tomatoes in half, coarsely grate into the bowl and discard the skins. Add half a teaspoon of salt and some black pepper, and stir. Leave on the side, or in the fridge, for up to a day. Before using, gently squeeze with your hands and drain away any juices that come out.\r\nTo make the sauce, heat the oil in a medium pan. Add the ginger and garlic, cook for a minute or two, taking care not to burn them, then add the tomato, lemon juice and sugar. Season, and simmer for 20 minutes.\r\nWhile the sauce is bubbling away, prepare the vine leaves. Use any torn or broken leaves to line the base of a wide, heavy saucepan. Trim any leaves from the fennel, cut it vertically into 0.5cm-thick slices and spread over the base of the pan to cover completely.\r\nLay a prepared vine leaf (see intro) on a work surface, veiny side up. Put two teaspoons of filling at the base of the leaf in a 2cm-long by 1cm-wide strip. Fold the sides of the leaf over the filling, then roll it tightly from bottom to top, in a cigar shape. Place in the pan, seam down, and repeat with the remaining leaves, placing them tightly next to each other in lines or circles (in two layers if necessary).\r\nPour the sauce over the leaves (and, if needed, add water just to cover). Place a plate on top, to weigh the leaves down, then cover with a lid. Bring to a boil, reduce the heat and cook on a bare simmer for 70 minutes. Most of the liquid should evaporate. Remove from the heat, and leave to cool a little - they are best served warm. When serving, bring to the table in the pan - it looks great. Serve a few vine leaves and fennel slices with warm rice. Spoon the braising juices on top and garnish with coriander.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "olive oil",
+      "measurement": "2 tbsp",
+      "grams": 27,
+      "assumptions": "2 tbsp olive oil (standard 13.5g per tbsp)"
+    },
+    {
+      "position": 2,
+      "name": "ginger",
+      "measurement": "4cm piece finely chopped",
+      "grams": 20,
+      "assumptions": "4cm piece of fresh ginger root, peeled weight estimate"
+    },
+    {
+      "position": 3,
+      "name": "garlic",
+      "measurement": "2 cloves peeled and chopped",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves, peeled"
+    },
+    {
+      "position": 4,
+      "name": "tomatoes",
+      "measurement": "800g peeled and chopped",
+      "grams": 800,
+      "assumptions": "800g canned peeled chopped tomatoes (drained weight approx. equals given amount)"
+    },
+    {
+      "position": 5,
+      "name": "lemon juice",
+      "measurement": "2 tbsp",
+      "grams": 30,
+      "assumptions": "2 tbsp bottled lemon juice (15g per tbsp)"
+    },
+    {
+      "position": 6,
+      "name": "caster sugar",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "1 tsp caster sugar (4g)"
+    },
+    {
+      "position": 7,
+      "name": "vine leaves",
+      "measurement": "50",
+      "grams": 120,
+      "assumptions": "50 small preserved vine leaves, drained and blanched (approx 2.4g edible each after stems removed)"
+    },
+    {
+      "position": 8,
+      "name": "fennel bulb",
+      "measurement": "1 large",
+      "grams": 300,
+      "assumptions": "1 large fennel bulb trimmed and sliced (edible portion after trimming)"
+    },
+    {
+      "position": 9,
+      "name": "lamb mince",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "400g raw lamb mince (typical 20% fat)"
+    },
+    {
+      "position": 10,
+      "name": "onion",
+      "measurement": "1 medium",
+      "grams": 110,
+      "assumptions": "1 medium onion, peeled and chopped (110g typical)"
+    },
+    {
+      "position": 11,
+      "name": "potatoes",
+      "measurement": "1 small peeled and coarsely grated",
+      "grams": 80,
+      "assumptions": "1 small peeled potato, coarsely grated (80g typical edible)"
+    },
+    {
+      "position": 12,
+      "name": "basmati rice",
+      "measurement": "2 tbsp",
+      "grams": 25,
+      "assumptions": "2 tbsp uncooked basmati rice (approx 12.5g per tbsp)"
+    },
+    {
+      "position": 13,
+      "name": "chopped parsley",
+      "measurement": "2 tbsp",
+      "grams": 8,
+      "assumptions": "2 tbsp chopped fresh parsley (8g typical)"
+    },
+    {
+      "position": 14,
+      "name": "coriander",
+      "measurement": "2 tbsp chopped",
+      "grams": 8,
+      "assumptions": "2 tbsp chopped fresh coriander (8g typical)"
+    },
+    {
+      "position": 15,
+      "name": "lemon juice",
+      "measurement": "1 tbsp",
+      "grams": 15,
+      "assumptions": "1 tbsp bottled lemon juice (15g)"
+    },
+    {
+      "position": 16,
+      "name": "garlic",
+      "measurement": "2 cloves",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves, peeled"
+    },
+    {
+      "position": 17,
+      "name": "clove",
+      "measurement": "½ tsp ground",
+      "grams": 1,
+      "assumptions": "½ tsp ground cloves (1g)"
+    },
+    {
+      "position": 18,
+      "name": "cinnamon",
+      "measurement": "½ tsp ground",
+      "grams": 1,
+      "assumptions": "½ tsp ground cinnamon (1g)"
+    },
+    {
+      "position": 19,
+      "name": "tomatoes",
+      "measurement": "2 medium",
+      "grams": 240,
+      "assumptions": "2 medium fresh tomatoes (120g each, raw, for filling)"
+    }
+  ],
+  "nutrition": {
+    "calories": 1946.17,
+    "protein": 92.18,
+    "fat": 123.66,
+    "fiber": 30.27,
+    "carbs": 125.12
+  }
+}

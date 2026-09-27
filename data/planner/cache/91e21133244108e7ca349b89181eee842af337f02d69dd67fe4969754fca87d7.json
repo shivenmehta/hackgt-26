@@ -1,0 +1,155 @@
+{
+  "id": "52954",
+  "name": "Hot and Sour Soup",
+  "cuisine": "Chinese",
+  "fingerprint": "91e21133244108e7ca349b89181eee842af337f02d69dd67fe4969754fca87d7",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated from typical Chinese hot-and-sour soup recipes using ~2.5 cups stock plus add-ins, commonly yielding 4 modest servings.",
+    "Egg is added in the instructions (beaten egg stirred in), so Eggs=true even though not in the provided ingredients list.",
+    "Vinegar quantity (1.5 cups) appears unusually high relative to 2.5 cups stock and is treated as listed without alteration.",
+    "Wheat=true because soy sauce is typically brewed with wheat unless certified gluten-free; cornstarch is gluten-free but does not override soy sauce.",
+    "Gluten-free=false due to wheat in soy sauce and lack of any gluten-free certification.",
+    "Dairy-free=true: no milk, butter, cheese or other dairy ingredients listed or implied.",
+    "Pescatarian=false due to explicit pork ingredient.",
+    "Mushrooms, wood ear, tofu, and spring onions treated as plant-based; chicken stock and pork treated as animal-derived per dietary notes.",
+    "Hot pepper sauce treated as ambiguous for fish (some contain fermented fish); left null.",
+    "No tree nuts, peanuts, shellfish, or milk present."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1 - MAKING THE SOUP\r\nIn a wok add chicken broth and wait for it to boil.\r\nNext add salt, sugar, sesame seed oil, white pepper, hot pepper sauce, vinegar and soy sauce and stir for few seconds.\r\nAdd Tofu, mushrooms, black wood ear mushrooms to the wok.\r\nTo thicken the sauce, whisk together 1 Tablespoon of cornstarch and 2 Tablespoon of water in a bowl and slowly add to your soup until it's the right thickness.\r\nNext add 1 egg slightly beaten with a knife or fork and add it to the soup and stir for 8 seconds\r\nServe the soup in a bowl and add the bbq pork and sliced green onions on top.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Mushrooms",
+      "measurement": "1/3 cup",
+      "grams": 27,
+      "assumptions": "Shiitake or button mushrooms; 1/3 cup chopped mushrooms ≈27g based on typical density of 80-85g per cup."
+    },
+    {
+      "position": 2,
+      "name": "Wood Ear Mushrooms",
+      "measurement": "1/3 cup",
+      "grams": 10,
+      "assumptions": "Dried wood ear mushrooms rehydrated; 1/3 cup sliced ≈10g dry weight equivalent, using standard rehydrated density in Chinese soups."
+    },
+    {
+      "position": 3,
+      "name": "Tofu",
+      "measurement": "2/3 Cup",
+      "grams": 160,
+      "assumptions": "Silken or firm tofu; 2/3 cup cubed ≈160g (density ~240g per cup)."
+    },
+    {
+      "position": 4,
+      "name": "Pork",
+      "measurement": "1/2 cup",
+      "grams": 75,
+      "assumptions": "BBQ/char siu pork; 1/2 cup diced ≈75g using typical cooked pork density ~150g/cup."
+    },
+    {
+      "position": 5,
+      "name": "Chicken Stock",
+      "measurement": "2-1/2 cups",
+      "grams": 600,
+      "assumptions": "Chicken broth/stock; 2.5 cups ≈600ml/600g (density ~1g/ml)."
+    },
+    {
+      "position": 6,
+      "name": "Salt",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "Table salt; 1/2 tsp ≈3g; all values zeroed as pure mineral."
+    },
+    {
+      "position": 7,
+      "name": "Sugar",
+      "measurement": "1/4 tsp",
+      "grams": 1,
+      "assumptions": "Granulated sugar; 1/4 tsp ≈1g."
+    },
+    {
+      "position": 8,
+      "name": "Sesame Seed Oil",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "Sesame oil; 1 tsp ≈5g (density ~0.92g/ml)."
+    },
+    {
+      "position": 9,
+      "name": "Pepper",
+      "measurement": "1/4 tsp",
+      "grams": 1,
+      "assumptions": "White pepper; 1/4 tsp ≈0.6g rounded to 1g; negligible macros treated as zero."
+    },
+    {
+      "position": 10,
+      "name": "Hotsauce",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "Chili/hot pepper sauce; 1/2 tsp ≈3g using typical Asian chili sauce density."
+    },
+    {
+      "position": 11,
+      "name": "Vinegar",
+      "measurement": "1-½ cups",
+      "grams": 360,
+      "assumptions": "Rice vinegar or black vinegar; 1.5 cups ≈360ml/360g (density ~1g/ml); adjusted for typical vinegar composition."
+    },
+    {
+      "position": 12,
+      "name": "Soy Sauce",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "Light or regular soy sauce; 1 tsp ≈5g (density ~1.1g/ml)."
+    },
+    {
+      "position": 13,
+      "name": "Cornstarch",
+      "measurement": "1 tbs",
+      "grams": 8,
+      "assumptions": "Cornstarch; 1 tbs ≈8g."
+    },
+    {
+      "position": 14,
+      "name": "Water",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Tap water; 2 tbs ≈30g; all values zeroed."
+    },
+    {
+      "position": 15,
+      "name": "Spring Onions",
+      "measurement": "1/4 cup",
+      "grams": 25,
+      "assumptions": "Green/spring onions sliced; 1/4 cup ≈25g using typical density ~100g per cup."
+    }
+  ],
+  "nutrition": {
+    "calories": 521.44,
+    "protein": 44.31,
+    "fat": 23.48,
+    "fiber": 1.96,
+    "carbs": 22.39
+  }
+}

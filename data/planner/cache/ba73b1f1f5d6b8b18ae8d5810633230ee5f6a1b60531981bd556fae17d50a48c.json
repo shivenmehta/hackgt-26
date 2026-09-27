@@ -1,0 +1,134 @@
+{
+  "id": "52779",
+  "name": "Cream Cheese Tart",
+  "cuisine": "American",
+  "fingerprint": "ba73b1f1f5d6b8b18ae8d5810633230ee5f6a1b60531981bd556fae17d50a48c",
+  "yield": 6,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical tart/quiche recipes with similar crust (375g flour+butter+egg) and filling volume (cream cheese, milk, 4 eggs, parmesan); serves 6 as a side/starter",
+    "Total time estimated as 15 min prep (crust dough, filling mix, tomato prep) + 5 min assembly + 25 min bake + 15 min estimated cooling/decorating",
+    "Flour classified as wheat-containing (plain/spelt mix)",
+    "Butter classified as dairy",
+    "All eggs classified as eggs",
+    "Cream cheese, milk, and parmesan all classified as dairy",
+    "Honey classified as non-vegan",
+    "No tree nuts, peanuts, fish, shellfish, soy, or sesame in listed ingredients",
+    "Salt, vinegar, tomatoes, and basil introduce no allergens or diet conflicts",
+    "Olive oil mentioned in instructions but absent from ingredients list; treated as non-impacting for classifications"
+  ],
+  "categories": [],
+  "instructions": "Crust: make a dough from 250g flour (I like mixing different flours like plain and wholegrain spelt flour), 125g butter, 1 egg and a pinch of salt, press it into a tart form and place it in the fridge. Filling: stir 300g cream cheese and 100ml milk until smooth, add in 3 eggs, 100g grated parmesan cheese and season with salt, pepper and nutmeg. Take the crust out of the fridge and prick the bottom with a fork. Pour in the filling and bake at 175 degrees C for about 25 minutes. Cover the tart with some aluminium foil after half the time. In the mean time, slice about 350g mini tomatoes. In a small pan heat 3tbsp olive oil, 3tbsp white vinegar, 1 tbsp honey, salt and pepper and combine well. Pour over the tomato slices and mix well. With a spoon, place the tomato slices on the tart, avoiding too much liquid on it. Decorate with basil leaves and enjoy",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Flour",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Standard all-purpose wheat flour; mixed with spelt as noted but using average values"
+    },
+    {
+      "position": 2,
+      "name": "Butter",
+      "measurement": "125g",
+      "grams": 125,
+      "assumptions": "Unsalted butter, typical values"
+    },
+    {
+      "position": 3,
+      "name": "Egg",
+      "measurement": "1",
+      "grams": 50,
+      "assumptions": "One large whole egg ~50g edible portion"
+    },
+    {
+      "position": 4,
+      "name": "Salt",
+      "measurement": "Pinch",
+      "grams": 1,
+      "assumptions": "Pinch of table salt estimated at 1g; contributes negligible macros"
+    },
+    {
+      "position": 5,
+      "name": "Cheese",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Full-fat cream cheese, typical brick style"
+    },
+    {
+      "position": 6,
+      "name": "Milk",
+      "measurement": "100ml milk",
+      "grams": 103,
+      "assumptions": "Cow's milk, 2% fat; 100ml converted using density ~1.03 g/ml"
+    },
+    {
+      "position": 7,
+      "name": "Eggs",
+      "measurement": "3",
+      "grams": 150,
+      "assumptions": "Three large whole eggs ~50g each, total edible portion 150g"
+    },
+    {
+      "position": 8,
+      "name": "Parmesan Cheese",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Grated hard parmesan cheese, typical values"
+    },
+    {
+      "position": 9,
+      "name": "Plum tomatoes",
+      "measurement": "350g",
+      "grams": 350,
+      "assumptions": "Mini/plum tomatoes, raw, edible portion; typical cherry/plum variety values"
+    },
+    {
+      "position": 10,
+      "name": "White Vinegar",
+      "measurement": "3tbsp",
+      "grams": 45,
+      "assumptions": "White vinegar; 3 tbsp = 45ml, density ~1 g/ml, negligible macros"
+    },
+    {
+      "position": 11,
+      "name": "Honey",
+      "measurement": "1 tbsp",
+      "grams": 21,
+      "assumptions": "Liquid honey; 1 tbsp = 21g"
+    },
+    {
+      "position": 12,
+      "name": "Basil",
+      "measurement": "Topping",
+      "grams": 10,
+      "assumptions": "Fresh basil leaves as topping; estimated 10g plausible amount for decoration"
+    }
+  ],
+  "nutrition": {
+    "calories": 3755.1,
+    "protein": 115.07,
+    "fat": 256.52,
+    "fiber": 11.9,
+    "carbs": 244
+  }
+}

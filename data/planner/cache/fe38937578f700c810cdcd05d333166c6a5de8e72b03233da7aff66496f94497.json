@@ -1,0 +1,66 @@
+{
+  "id": "52958",
+  "name": "Peanut Butter Cookies",
+  "cuisine": "American",
+  "fingerprint": "fe38937578f700c810cdcd05d333166c6a5de8e72b03233da7aff66496f94497",
+  "yield": 12,
+  "minutes": 25,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": true,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from standard 3-ingredient PB cookie recipes using 1 cup PB + 1 egg, which reliably produce 10-14 cookies; conservatively using 12 servings of 1 cookie each.",
+    "Preparation time is estimated as 15 minutes active (mixing, scooping, forking) plus 8-10 minutes bake time, totaling 25 minutes; no chilling or other steps indicated.",
+    "Peanut butter classified as containing peanuts (true) but ambiguous for tree nuts or soy (null) due to possible cross-contact or additives in unspecified brands.",
+    "Sugar and baking sheet assumed free of animal products for vegetarian/pescatarian compatibility.",
+    "No wheat, milk, fish, shellfish, or sesame ingredients listed or implied."
+  ],
+  "categories": [],
+  "instructions": "Preheat oven to 350ºF (180ºC).\r\nIn a large bowl, mix together the peanut butter, sugar, and egg.\r\nScoop out a spoonful of dough and roll it into a ball. Place the cookie balls onto a nonstick baking sheet.\r\nFor extra decoration and to make them cook more evenly, flatten the cookie balls by pressing a fork down on top of them, then press it down again at a 90º angle to make a criss-cross pattern.\r\nBake for 8-10 minutes or until the bottom of the cookies are golden brown.\r\nRemove from baking sheet and cool.\r\nEnjoy!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1544384070.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Peanut Butter",
+      "measurement": "1 cup",
+      "grams": 250,
+      "assumptions": "Standard creamy peanut butter; 1 cup ≈ 250 g; values for unsweetened natural style common in recipes."
+    },
+    {
+      "position": 2,
+      "name": "Sugar",
+      "measurement": "1/2 cup",
+      "grams": 100,
+      "assumptions": "Granulated white sugar; 1/2 cup ≈ 100 g; essentially pure sucrose."
+    },
+    {
+      "position": 3,
+      "name": "Egg",
+      "measurement": "1",
+      "grams": 50,
+      "assumptions": "Large whole egg; 1 large ≈ 50 g edible portion (without shell)."
+    }
+  ],
+  "nutrition": {
+    "calories": 1933.5,
+    "protein": 69,
+    "fat": 130,
+    "fiber": 20,
+    "carbs": 150.5
+  }
+}

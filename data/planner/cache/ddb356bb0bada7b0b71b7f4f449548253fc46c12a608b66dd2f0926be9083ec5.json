@@ -1,0 +1,164 @@
+{
+  "id": "53039",
+  "name": "Piri-piri chicken and slaw",
+  "cuisine": "Portuguese",
+  "fingerprint": "ddb356bb0bada7b0b71b7f4f449548253fc46c12a608b66dd2f0926be9083ec5",
+  "yield": 4,
+  "minutes": 200,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical 1.5 kg whole roasted chicken (about 300-400 g edible meat per person after bone/skin loss) plus slaw volume for 4 adult portions as a main meal with sides.",
+    "Total time sums active prep (marinade ~10 min, slaw ~10 min) + passive times (1 h marinade + 80 min roast + 20 min rest) rounded to nearest 10; oven pre-heat included in roast time.",
+    "Mayonnaise assumed to contain egg (standard); Greek yogurt contains milk; no wheat, fish, shellfish, nuts, peanuts, soy, or sesame detected in listed ingredients.",
+    "Gluten-free true because no barley/rye/wheat/oats listed and all spices/herbs are single-ingredient; dairy-free false due to yogurt (and possibly mayo).",
+    "Oil type unspecified but treated as neutral (no allergen impact); vinegar and all vegetables/spices compatible with listed diets where marked true."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1\r\n\r\nWhizz together all of the marinade ingredients in a small food processor. Rub the marinade onto the chicken and leave for 1 hour at room temperature.\r\n\r\nSTEP 2\r\n\r\nHeat the oven to 190C/fan 170C/gas 5. Put the chicken in a roasting tray and cook for 1 hour 20 minutes. Rest under loose foil for 20 minutes. While the chicken is resting, mix together the slaw ingredients and season. Serve the chicken with slaw, fries and condiments.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/hglsbl1614346998.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken",
+      "measurement": "1.5kg",
+      "grams": 1500,
+      "assumptions": "Raw whole chicken with skin and bone; typical values for a 1.5 kg bird including skin as the recipe roasts it whole."
+    },
+    {
+      "position": 2,
+      "name": "Red Chilli",
+      "measurement": "3 chopped",
+      "grams": 120,
+      "assumptions": "3 medium red chillies (about 40 g each) chopped; raw edible portion."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "2 cloves",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves (3 g each), raw."
+    },
+    {
+      "position": 4,
+      "name": "Ginger",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp grated fresh ginger root, raw."
+    },
+    {
+      "position": 5,
+      "name": "Dried Oregano",
+      "measurement": "1 tsp",
+      "grams": 1,
+      "assumptions": "1 tsp dried oregano leaves."
+    },
+    {
+      "position": 6,
+      "name": "Coriander",
+      "measurement": "1 tsp",
+      "grams": 1,
+      "assumptions": "1 tsp ground coriander seed (spice)."
+    },
+    {
+      "position": 7,
+      "name": "Paprika",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp smoked or sweet paprika powder."
+    },
+    {
+      "position": 8,
+      "name": "Red Wine Vinegar",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tbs red wine vinegar (15 ml per tbs)."
+    },
+    {
+      "position": 9,
+      "name": "Oil",
+      "measurement": "2 tbs",
+      "grams": 28,
+      "assumptions": "2 tbs neutral oil for the marinade (14 g per tbs); olive or vegetable oil."
+    },
+    {
+      "position": 10,
+      "name": "Red Onions",
+      "measurement": "1 sliced",
+      "grams": 110,
+      "assumptions": "1 medium red onion (110 g), raw and sliced; entire edible portion used in slaw."
+    },
+    {
+      "position": 11,
+      "name": "Carrots",
+      "measurement": "2",
+      "grams": 122,
+      "assumptions": "2 medium carrots (61 g each), raw; peeled and grated for slaw."
+    },
+    {
+      "position": 12,
+      "name": "Beetroot",
+      "measurement": "1",
+      "grams": 82,
+      "assumptions": "1 medium beetroot (82 g), raw; peeled and grated for slaw."
+    },
+    {
+      "position": 13,
+      "name": "Cabbage",
+      "measurement": "4 leaves",
+      "grams": 120,
+      "assumptions": "4 large outer leaves of white cabbage (30 g each), raw and shredded for slaw."
+    },
+    {
+      "position": 14,
+      "name": "Mayonnaise",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tbs mayonnaise (15 g per tbs); full-fat standard variety."
+    },
+    {
+      "position": 15,
+      "name": "Greek Yogurt",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tbs plain Greek yogurt (15 g per tbs); full-fat."
+    },
+    {
+      "position": 16,
+      "name": "Red Wine Vinegar",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tbs red wine vinegar for the slaw dressing (15 ml per tbs)."
+    },
+    {
+      "position": 17,
+      "name": "Cumin Seeds",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp whole cumin seeds."
+    }
+  ],
+  "nutrition": {
+    "calories": 3203.42,
+    "protein": 311.7,
+    "fat": 181.61,
+    "fiber": 14.18,
+    "carbs": 54.81
+  }
+}

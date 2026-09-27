@@ -1,0 +1,67 @@
+{
+  "id": "53076",
+  "name": "Bread omelette",
+  "cuisine": "Indian",
+  "fingerprint": "853e731efa7f41adc2cdbe9d8de1e3da93b698b04321843be24c4a335e4f65ed",
+  "yield": 1,
+  "minutes": 10,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": null,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 1 serving based on 2 bread slices and 2 eggs as a single-portion Indian street-style bread omelette.",
+    "Preparation time estimated at 10 minutes for a simple omelette with minimal instructions provided.",
+    "Bread classified as containing wheat (standard assumption for unspecified bread).",
+    "No dairy ingredients listed, so dairy-free is true.",
+    "Salt is treated as non-allergenic and compatible with all diets.",
+    "No tree nuts, peanuts, fish, shellfish, soy, sesame, or milk confidently present."
+  ],
+  "categories": ["breakfast"],
+  "instructions": "Make and enjoy",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/hqaejl1695738653.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Bread",
+      "measurement": "2",
+      "grams": 60,
+      "assumptions": "Standard white bread slices; ~30 g per slice, typical for Indian bread omelette recipes using 2 slices as base."
+    },
+    {
+      "position": 2,
+      "name": "Egg",
+      "measurement": "2",
+      "grams": 100,
+      "assumptions": "2 large whole eggs; ~50 g edible portion each, raw, as used in omelette."
+    },
+    {
+      "position": 3,
+      "name": "Salt",
+      "measurement": "0.5",
+      "grams": 3,
+      "assumptions": "0.5 tsp table salt; negligible calories/macros, standard estimate for seasoning in Indian bread omelette."
+    }
+  ],
+  "nutrition": {
+    "calories": 302,
+    "protein": 18.4,
+    "fat": 12.1,
+    "fiber": 1.8,
+    "carbs": 30.4
+  }
+}

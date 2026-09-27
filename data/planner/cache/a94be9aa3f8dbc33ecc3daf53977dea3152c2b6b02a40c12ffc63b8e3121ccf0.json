@@ -1,0 +1,67 @@
+{
+  "id": "53580",
+  "name": "Biss Jaggery Modak",
+  "cuisine": "Indian",
+  "fingerprint": "a94be9aa3f8dbc33ecc3daf53977dea3152c2b6b02a40c12ffc63b8e3121ccf0",
+  "yield": 12,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical modak recipes using ~410 g total mixture (2 cups coconut flakes + 1 cup brown sugar/jaggery + 50 g dried fruit), producing 10-15 pieces; conservatively set at 12 servings (1-2 modaks per serving).",
+    "Preparation time estimated from simple no-cook instructions (mixing and shaping); assumes 15 minutes total active time for a small batch.",
+    "Brown sugar treated as jaggery per review issues and ingredient notes; compatible with all listed diets.",
+    "Dried fruit left ambiguous for allergens (could contain tree nuts, peanuts, or sesame depending on specific type); no wheat, milk, eggs, fish, or shellfish indicated.",
+    "No barley, rye, wheat, or oats present, supporting gluten-free classification.",
+    "All ingredients plant-based, supporting vegetarian, vegan, pescatarian, and dairy-free classifications."
+  ],
+  "categories": [],
+  "instructions": "Jaggery Modak\n\n1. Take the grated coconut in a bowl.\n2. Add jaggery to the grated coconut.\n3. Mix the coconut and jaggery thoroughly until they are evenly combined.\n4. Take small portions of the mixture and shape them into modaks using your hands or a modak mould.\n5. Repeat until all the mixture has been used.\n6. Serve the freshly prepared jaggery coconut modaks.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/gl92ih1789802951.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Coconut Flakes",
+      "measurement": "2 cups",
+      "grams": 160,
+      "assumptions": "2 cups unsweetened coconut flakes ≈ 160 g edible weight; standard density for dried coconut flakes; values reflect unsweetened desiccated coconut."
+    },
+    {
+      "position": 2,
+      "name": "Brown Sugar",
+      "measurement": "1 cups",
+      "grams": 200,
+      "assumptions": "1 cup jaggery/brown sugar ≈ 200 g; treated as typical Indian jaggery (solid form broken or grated) with near-100 % carbohydrate content; calories and macros based on common jaggery profiles."
+    },
+    {
+      "position": 3,
+      "name": "Dried Fruit",
+      "measurement": "",
+      "grams": 50,
+      "assumptions": "'Dried Fruit' is vague with no quantity; plausible assumption of 50 g mixed dried fruit (e.g., raisins, dates or chopped apricots) added to the 3-cup total mixture for a typical sweet modak variation; macros averaged from common dried fruits."
+    }
+  ],
+  "nutrition": {
+    "calories": 1486.4,
+    "protein": 7.03,
+    "fat": 53.3,
+    "fiber": 17.9,
+    "carbs": 257.5
+  }
+}

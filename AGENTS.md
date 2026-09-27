@@ -2,10 +2,10 @@
 
 ## Project status
 
-The `main` branch contains the shared application foundation for an affordable
-food planner: a starter page, Chakra provider, health Route Handler, manual USDA
-scripts, and a curated USDA ingredient catalog. Meal planning, authentication,
-and payments are not implemented.
+The application contains the Bridge weekly planner, community food-access tools,
+manual USDA scripts, and curated ingredient and recipe catalogs. The planner
+backend requires the server credentials described in `docs/MEAL_PLANNER.md`.
+Account login and payments are not implemented.
 Remote: `https://github.com/shivenmehta/hackgt-26.git`.
 The foundation and preparation materials were imported from `hackgt-2026`;
 creating this repository does not change their original preparation dates.
@@ -36,7 +36,7 @@ Confirm event rules before reusing pre-event code in a submission.
 - Chakra UI 3 with Emotion; no Tailwind installation.
 - Next.js Route Handlers for backend endpoints.
 - Supabase JavaScript and SSR packages installed; Python reads the Supabase foods catalog; app auth is not connected.
-- Python 3.10+ for the standalone nutrient matcher and OSM location lookup; standard library only.
+- Python 3.12 for the FastAPI recipe ranker; existing standalone nutrient matching and location tools use the standard library.
 - Node.js 24 and npm 11; use `.nvmrc` and commit `package-lock.json`.
 - ESLint with Next.js rules, Prettier, and TypeScript checks.
 - Webpack dev/build scripts avoid the Emotion/Turbopack hydration issue documented
@@ -250,3 +250,22 @@ Browser output directories must stay under `test-results/playwright-bridge` and
 `test-results/playwright-location`, never the whole `test-results` directory:
 Playwright clears its output directory, while sibling files include SNAP data and
 provider snapshots. Event test databases are isolated from `.local` host posts.
+
+## Live weekly planner
+
+The weekly planner now uses Next.js Route Handlers plus Vercel Workflow and a
+separate Python FastAPI recipe ranker in `services/recipe-ranker`. Read
+`docs/MEAL_PLANNER.md` before changing the pipeline. `npm run dev` starts all
+three local processes and prefers the repo `.venv` Python interpreter.
+Install its pinned requirements before starting development.
+
+MealDB and Grok best-effort source catalogs stay immutable. Prepared yields and
+classifications live in `data/planner/`; regenerate with `npm run planner:prepare`
+when source fingerprints change. Labels and nutrition are estimates. Never turn
+missing prices into zero or relax explicit dietary/allergen restrictions.
+
+Supabase planner tables are private/server-only. Keep all provider tokens,
+`SUPABASE_SECRET_KEY`, and signing secrets out of browser code. Do not import
+Node I/O into workflow bodies: wrap I/O in `use step` functions. Ignore generated
+`src/app/.well-known/workflow/` files. Test with `npm run test:meal-planning`,
+`npm run test:ranker`, and `npm run test:bridge` plus lint/typecheck/build.

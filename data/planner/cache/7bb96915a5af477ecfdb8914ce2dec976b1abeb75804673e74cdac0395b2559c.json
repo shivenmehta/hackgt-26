@@ -1,0 +1,123 @@
+{
+  "id": "53340",
+  "name": "Hodge Podge",
+  "cuisine": "Canadian",
+  "fingerprint": "7bb96915a5af477ecfdb8914ce2dec976b1abeb75804673e74cdac0395b2559c",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical Hodgepodge / vegetable chowder portion sizes (roughly 2.5-3 cups finished soup per serving)",
+    "Total time is sum of explicit instruction steps (par-cook 5 min + blanch 1 min + melt/warm + bring to boil + simmer 10 min) plus estimated 5 min prep and 5 min miscellaneous; rounded conservatively",
+    "All vegetables, herbs, salt and pepper treated as gluten-free and free of the listed allergens",
+    "Milk, heavy cream and butter unambiguously introduce dairy",
+    "No eggs, fish, shellfish, tree nuts, peanuts, wheat, soy or sesame appear in ingredients",
+    "Recipe is lacto-vegetarian but not vegan due to explicit dairy ingredients"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "First, cook your vegetables. Bring a large pot of salted water to boil. Par-cook carrots and potatoes for five minutes until carrots and potatoes are fork tender, then blanch the peas and beans for about a minute in the same pot. Strain vegetables and set aside.\r\nIn a heavy-bottomed pot or Dutch oven, melt butter over medium heat, add vegetables, and cook to warm through.\r\nAdd milk and cream and bring the soup to a boil. Turn the heat down to low and season with salt and pepper.\r\nAdd dill and chives and let simmer for at least 10 minutes. Serve warm.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xihv0c1764447887.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "New Potatoes",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "New potatoes, raw, unpeeled weight; typical values for small red or white new potatoes"
+    },
+    {
+      "position": 2,
+      "name": "Carrots",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "Carrots, raw, peeled weight; standard value for fresh carrots"
+    },
+    {
+      "position": 3,
+      "name": "Green Beans",
+      "measurement": "1 cup",
+      "grams": 125,
+      "assumptions": "Green beans, raw, trimmed; 1 cup chopped/sliced is approximately 125g"
+    },
+    {
+      "position": 4,
+      "name": "Peas",
+      "measurement": "1/2 cup",
+      "grams": 67,
+      "assumptions": "Green peas, fresh or frozen; 1/2 cup is approximately 67g"
+    },
+    {
+      "position": 5,
+      "name": "Dill",
+      "measurement": "1 tablespoon",
+      "grams": 3,
+      "assumptions": "Fresh dill weed; 1 tablespoon chopped is approximately 3g"
+    },
+    {
+      "position": 6,
+      "name": "Chives",
+      "measurement": "1 tablespoon",
+      "grams": 3,
+      "assumptions": "Fresh chives; 1 tablespoon chopped is approximately 3g"
+    },
+    {
+      "position": 7,
+      "name": "Milk",
+      "measurement": "3 Cups",
+      "grams": 732,
+      "assumptions": "Whole milk; 3 US cups = 732g"
+    },
+    {
+      "position": 8,
+      "name": "Heavy Cream",
+      "measurement": "1/2 cup",
+      "grams": 119,
+      "assumptions": "Heavy cream (36-40% fat); 1/2 US cup = 119g"
+    },
+    {
+      "position": 9,
+      "name": "Butter",
+      "measurement": "1/2 cup",
+      "grams": 114,
+      "assumptions": "Butter; 1/2 US cup (1 stick) = 114g"
+    },
+    {
+      "position": 10,
+      "name": "Salt",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "Table salt; 1/2 tsp ≈ 3g, contributes negligible macros"
+    },
+    {
+      "position": 11,
+      "name": "Black Pepper",
+      "measurement": "1/4 tsp",
+      "grams": 0.6,
+      "assumptions": "Ground black pepper; 1/4 tsp ≈ 0.6g, contributes negligible macros"
+    }
+  ],
+  "nutrition": {
+    "calories": 2160.35,
+    "protein": 47.53,
+    "fat": 145.38,
+    "fiber": 29.63,
+    "carbs": 182.13
+  }
+}

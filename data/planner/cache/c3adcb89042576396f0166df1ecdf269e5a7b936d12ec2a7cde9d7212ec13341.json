@@ -1,0 +1,96 @@
+{
+  "id": "52854",
+  "name": "Pancakes",
+  "cuisine": "American",
+  "fingerprint": "c3adcb89042576396f0166df1ecdf269e5a7b936d12ec2a7cde9d7212ec13341",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from standard pancake recipe scaling (100g flour yields ~4 medium pancakes or 2 servings of 2 each; common for this BBC-style recipe).",
+    "Preparation time includes 30 min rest + ~15 min active cooking for 4 pancakes.",
+    "Flour assumed plain white wheat flour.",
+    "Milk assumed cow's milk.",
+    "Oil is sunflower (not sesame).",
+    "'To serve' items (sugar, berries) treated as optional toppings, not core batter; do not affect core diet/allergen flags.",
+    "No barley/rye; wheat present so not gluten-free."
+  ],
+  "categories": ["breakfast"],
+  "instructions": "Put the flour, eggs, milk, 1 tbsp oil and a pinch of salt into a bowl or large jug, then whisk to a smooth batter. Set aside for 30 mins to rest if you have time, or start cooking straight away.\r\nSet a medium frying pan or crêpe pan over a medium heat and carefully wipe it with some oiled kitchen paper. When hot, cook your pancakes for 1 min on each side until golden, keeping them warm in a low oven as you go.\r\nServe with lemon wedges and sugar, or your favourite filling. Once cold, you can layer the pancakes between baking parchment, then wrap in cling film and freeze for up to 2 months.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Flour",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Plain white flour, standard values"
+    },
+    {
+      "position": 2,
+      "name": "Eggs",
+      "measurement": "2 large",
+      "grams": 100,
+      "assumptions": "2 large eggs ≈ 100 g edible portion (without shell)"
+    },
+    {
+      "position": 3,
+      "name": "Milk",
+      "measurement": "300ml",
+      "grams": 300,
+      "assumptions": "Cow's milk, semi-skimmed (most common default)"
+    },
+    {
+      "position": 4,
+      "name": "Sunflower Oil",
+      "measurement": "1 tbls",
+      "grams": 14,
+      "assumptions": "1 tablespoon sunflower oil ≈ 14 g"
+    },
+    {
+      "position": 5,
+      "name": "Sugar",
+      "measurement": "to serve",
+      "grams": 10,
+      "assumptions": "White sugar; 'to serve' estimated as 10 g total for the batch"
+    },
+    {
+      "position": 6,
+      "name": "Raspberries",
+      "measurement": "to serve",
+      "grams": 50,
+      "assumptions": "Fresh raspberries; 'to serve' estimated as 50 g total for the batch"
+    },
+    {
+      "position": 7,
+      "name": "Blueberries",
+      "measurement": "to serve",
+      "grams": 50,
+      "assumptions": "Fresh blueberries; 'to serve' estimated as 50 g total for the batch"
+    }
+  ],
+  "nutrition": {
+    "calories": 849.96,
+    "protein": 34.15,
+    "fat": 28.5,
+    "fiber": 7.5,
+    "carbs": 115
+  }
+}

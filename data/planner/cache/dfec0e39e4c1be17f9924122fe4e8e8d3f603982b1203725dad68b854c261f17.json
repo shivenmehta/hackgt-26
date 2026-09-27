@@ -1,0 +1,136 @@
+{
+  "id": "53339",
+  "name": "Jam jam cookies",
+  "cuisine": "Canadian",
+  "fingerprint": "dfec0e39e4c1be17f9924122fe4e8e8d3f603982b1203725dad68b854c261f17",
+  "yield": 24,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical cookie recipes using ~4.5 cups flour + 2 cups jam filling, producing ~24 sandwich cookies (2 dozen)",
+    "Preparation time estimated from instructions: ~15 min mixing/forming + 12 min bake + 10 min cool + 8 min assembly = ~45 min total",
+    "Butter classified as dairy source (Milk allergen true)",
+    "Egg listed and used (Eggs allergen true)",
+    "Flour assumed wheat-based (Wheat and Gluten-free false)",
+    "Jam assumed standard fruit jam without unspecified additives",
+    "Baking powder/soda and other minor ingredients introduce no additional major allergens or diet conflicts",
+    "Recipe instructions reference 'baking soda' but ingredients list only 'baking powder'; used listed ingredients for classification",
+    "Vegetarian true as no meat/fish but includes egg and dairy",
+    "Pescatarian true for same reason",
+    "Vegan false due to egg and butter",
+    "Dairy-free false due to butter"
+  ],
+  "categories": [],
+  "instructions": "Preheat the oven to 350 °F (180 °C) and line a large baking sheet with parchment paper.\r\nIn a stand mixer with the paddle attachment, cream the butter, white sugar and egg until combined, then add the molasses and vanilla and mix until smooth.\r\nOnce combined, add the baking soda water mixture and mix for another minute to combine.\r\nCombine dry ingredients; mix baking powder, cinnamon, flour and salt in a separate bowl then add to the wet ingredients a little at a time, mixing on low until fully combined and scraping down the sides to ensure everything is incorporated. The dough should be easily shaped.\r\nPortion dough with a small spoon, roll them into balls and place them on the lined cookie sheet, press them into flat discs using a floured glass or your moistened palm.\r\nPlace cookies on parchment-lined baking sheets and bake for 10-12 mins. Remove from the oven and let them cool for at least 10 minutes.\r\nOnce cooled the cookie sandwiches by spreading at least two teaspoons of your favourite jam between the two cookies. Repeat and enjoy with a cup of tea.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/sktequ1764447186.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Egg",
+      "measurement": "1",
+      "grams": 50,
+      "assumptions": "1 large whole egg, typical edible portion ~50g"
+    },
+    {
+      "position": 2,
+      "name": "Butter",
+      "measurement": "1 cup",
+      "grams": 227,
+      "assumptions": "1 cup butter = 227g, standard salted or unsalted butter"
+    },
+    {
+      "position": 3,
+      "name": "Sugar",
+      "measurement": "1 cup",
+      "grams": 200,
+      "assumptions": "1 cup granulated white sugar = 200g"
+    },
+    {
+      "position": 4,
+      "name": "Molasses",
+      "measurement": "1/2 cup",
+      "grams": 160,
+      "assumptions": "1/2 cup molasses = 160g, typical blackstrap or cooking molasses"
+    },
+    {
+      "position": 5,
+      "name": "Vanilla",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp vanilla extract = 5g"
+    },
+    {
+      "position": 6,
+      "name": "Baking Powder",
+      "measurement": "2 tsp",
+      "grams": 8,
+      "assumptions": "2 tsp baking powder = ~8g, standard double-acting"
+    },
+    {
+      "position": 7,
+      "name": "Water",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "3 tablespoons water = 45g (used to dissolve baking soda; listed measurement used despite instructions referencing baking soda)"
+    },
+    {
+      "position": 8,
+      "name": "Baking Powder",
+      "measurement": "2 tablespoons",
+      "grams": 18,
+      "assumptions": "2 tablespoons baking powder (or likely baking soda per instructions) = ~18g"
+    },
+    {
+      "position": 9,
+      "name": "Cinnamon",
+      "measurement": "1 tsp",
+      "grams": 2.6,
+      "assumptions": "1 tsp ground cinnamon = 2.6g"
+    },
+    {
+      "position": 10,
+      "name": "Salt",
+      "measurement": "2 tsp",
+      "grams": 12,
+      "assumptions": "2 tsp table salt = 12g"
+    },
+    {
+      "position": 11,
+      "name": "Flour",
+      "measurement": "4 cups",
+      "grams": 500,
+      "assumptions": "4 cups all-purpose flour = 500g, standard unsifted weight"
+    },
+    {
+      "position": 12,
+      "name": "Jam",
+      "measurement": "2 cups",
+      "grams": 640,
+      "assumptions": "2 cups typical fruit jam (e.g. strawberry or raspberry) = 640g, used as sandwich filling"
+    }
+  ],
+  "nutrition": {
+    "calories": 6391.69,
+    "protein": 61.87,
+    "fat": 194.45,
+    "fiber": 24.49,
+    "carbs": 1128.01
+  }
+}

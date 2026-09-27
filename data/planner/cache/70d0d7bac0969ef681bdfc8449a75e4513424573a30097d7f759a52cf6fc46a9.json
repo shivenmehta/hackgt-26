@@ -1,0 +1,87 @@
+{
+  "id": "52907",
+  "name": "Duck Confit",
+  "cuisine": "French",
+  "fingerprint": "70d0d7bac0969ef681bdfc8449a75e4513424573a30097d7f759a52cf6fc46a9",
+  "yield": 4,
+  "minutes": 150,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from 4 duck legs as primary protein, typically 1 leg per serving.",
+    "Total active and passive preparation/cooking time summed from instructions: overnight cure (not counted in minutes), 2hr simmer + 30-40min roast = ~150min; uses conservative midpoint for roast step.",
+    "Sea salt, bay leaves, garlic, thyme, white wine, and duck legs are the only ingredients; all are compatible with listed diets where marked true.",
+    "No wheat, gluten-containing grains, dairy, eggs, fish, shellfish, tree nuts, peanuts, soy or sesame in listed ingredients; gluten-free conservatively true as no barley/rye/wheat/oats present.",
+    "Assumptions treat 'handful' measurements via provided gram estimates; duck legs assumed skin-on bone-in as standard for confit."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "The day before you want to make the dish, scatter half the salt, half the garlic and half of the herbs over the base of a small shallow dish. Lay the duck legs, skin-side up, on top, then scatter over the remaining salt, garlic and herbs. Cover the duck and refrigerate overnight. This can be done up to 2 days ahead.\r\nPour the wine into a saucepan that will snugly fit the duck legs in a single layer. Brush the salt off the duck legs and place them, skin-side down, in the wine. Cover the pan with a lid and place over a medium heat. As soon as the wine starts to bubble, turn the heat down to the lowest setting and cook for 2 hours, checking occasionally that the liquid is just barely simmering. (If you own a heat diffuser, it would be good to use it here.) After 2 hours, the duck legs should be submerged in their own fat and the meat should feel incredibly tender when prodded. Leave to cool.\r\nThe duck legs are now cooked and can be eaten immediately – or you can follow the next step if you like them crisp. If you are preparing ahead, pack the duck legs tightly into a plastic container or jar and pour over the fat, but not the liquid at the bottom of the pan. Cover and leave in the fridge for up to a month, or freeze for up to 3 months. The liquid you are left with makes a tasty gravy, which can be chilled or frozen until needed.\r\nTo reheat and crisp up the duck legs, heat oven to 220C/fan 200C/gas 7. Remove the legs from the fat and place them, skin-side down, in an ovenproof frying pan. Roast for 30-40 mins, turning halfway through, until brown and crisp. Serve with the reheated gravy, a crisp salad and some crisp golden ptoatoes.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wvpvsu1511786158.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sea Salt",
+      "measurement": "Handful",
+      "grams": 15,
+      "assumptions": "Handful of sea salt estimated at 15g; used for curing so negligible edible contribution after brushing off."
+    },
+    {
+      "position": 2,
+      "name": "Bay Leaf",
+      "measurement": "4",
+      "grams": 3,
+      "assumptions": "4 bay leaves estimated at ~0.75g each totaling 3g; typical dried bay leaf nutrient profile."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "4 cloves",
+      "grams": 12,
+      "assumptions": "4 garlic cloves estimated at 3g each totaling 12g; standard raw garlic nutrients."
+    },
+    {
+      "position": 4,
+      "name": "Thyme",
+      "measurement": "Handful",
+      "grams": 5,
+      "assumptions": "Handful of fresh thyme estimated at 5g; typical fresh thyme nutrient profile."
+    },
+    {
+      "position": 5,
+      "name": "Duck Legs",
+      "measurement": "4",
+      "grams": 1200,
+      "assumptions": "4 duck legs estimated at 300g each (typical whole leg weight including skin/bone); raw skin-on values used as base before cooking in own fat."
+    },
+    {
+      "position": 6,
+      "name": "White Wine",
+      "measurement": "100ml",
+      "grams": 100,
+      "assumptions": "100ml white wine equals ~100g; standard dry white wine nutrient profile."
+    }
+  ],
+  "nutrition": {
+    "calories": 2343.07,
+    "protein": 277.91,
+    "fat": 115.88,
+    "fiber": 2.88,
+    "carbs": 11.81
+  }
+}

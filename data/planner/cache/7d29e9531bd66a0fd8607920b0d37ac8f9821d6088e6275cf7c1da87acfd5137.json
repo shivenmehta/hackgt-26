@@ -1,0 +1,124 @@
+{
+  "id": "53350",
+  "name": "Corned Beef and Cabbage – Jamaican Style",
+  "cuisine": "Jamaican",
+  "fingerprint": "7d29e9531bd66a0fd8607920b0d37ac8f9821d6088e6275cf7c1da87acfd5137",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on total ingredient quantities (approx. 1.35 kg) typical for a main dish serving 4 adults with rice/bread as suggested.",
+    "Minutes estimated from summed instruction times (3-5 min sauté + 1 min garlic + 3-5 min cabbage + 3-5 min final simmer) using midpoints, excluding negligible 'to taste' seasoning and serving steps.",
+    "'Corned Beef' conservatively classified as containing possible wheat (from potential curing agents or fillers in canned products) and soy (common in some processed meats), hence null for those allergens.",
+    "Ketchup classified as containing possible soy (from potential additives), hence null for soy allergen.",
+    "Thyme, salt, and pepper treated as single-ingredient items with no allergens.",
+    "No barley, rye, or wheat explicitly listed, but gluten-free left null due to processed meat uncertainty; recipe is wheat-free if corned beef has no wheat but not certified gluten-free.",
+    "All other diets and allergens assigned true/false only when ingredients allow confident classification without ambiguity."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat olive oil in a skillet or Dutch pot over medium-high heat. Add onion and green pepper and sauté for about 3-5 minutes.\r\nAdd garlic and stir for about 1 minute.\r\nAdd shredded cabbage and stir. Cook for about about 3-5 minutes, stirring often until softened.\r\nAdd corned beef, Roma tomatoes, and thyme and stir. Add ketchup and scotch bonnet pepper sauce and stir. Reduce heat and cook on medium for about 3-5 minutes, until the corned beef is heated through. Remove from heat.\r\nServe with white rice, bread, or on its own.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/kdz63q1764793442.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "1 tablespoon",
+      "grams": 13.5,
+      "assumptions": "1 tbsp olive oil is 13.5 g; standard density for olive oil."
+    },
+    {
+      "position": 2,
+      "name": "Cabbage",
+      "measurement": "1/2",
+      "grams": 500,
+      "assumptions": "1/2 medium head of cabbage estimated at 500 g raw edible portion; typical size used in recipes."
+    },
+    {
+      "position": 3,
+      "name": "Green Pepper",
+      "measurement": "1 chopped",
+      "grams": 120,
+      "assumptions": "1 chopped green bell pepper estimated at 120 g; standard medium pepper weight."
+    },
+    {
+      "position": 4,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 chopped onion estimated at 110 g; standard medium onion weight, raw."
+    },
+    {
+      "position": 5,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 cloves garlic estimated at 6 g total; typical small clove size."
+    },
+    {
+      "position": 6,
+      "name": "Corned Beef",
+      "measurement": "12 ounces",
+      "grams": 340,
+      "assumptions": "12 oz can of corned beef estimated at 340 g drained/usable; standard canned corned beef nutrition."
+    },
+    {
+      "position": 7,
+      "name": "Plum Tomatoes",
+      "measurement": "2 chopped",
+      "grams": 240,
+      "assumptions": "2 chopped plum (Roma) tomatoes estimated at 240 g total; standard medium tomato size, raw."
+    },
+    {
+      "position": 8,
+      "name": "Thyme",
+      "measurement": "2 sprigs",
+      "grams": 8,
+      "assumptions": "2 sprigs fresh thyme estimated at 8 g total leaves and tender stems; typical herb sprig weight in cooking."
+    },
+    {
+      "position": 9,
+      "name": "Tomato Ketchup",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp ketchup estimated at 15 g; standard tablespoon weight."
+    },
+    {
+      "position": 10,
+      "name": "Salt",
+      "measurement": "To taste",
+      "grams": 2,
+      "assumptions": "Salt to taste estimated at 2 g (about 1/3 tsp); negligible calories/macros but included for completeness."
+    },
+    {
+      "position": 11,
+      "name": "Pepper",
+      "measurement": "To taste",
+      "grams": 1,
+      "assumptions": "Pepper to taste estimated at 1 g (about 1/4 tsp ground black pepper); negligible macros."
+    }
+  ],
+  "nutrition": {
+    "calories": 1241.26,
+    "protein": 59.53,
+    "fat": 79.61,
+    "fiber": 20.58,
+    "carbs": 61.78
+  }
+}

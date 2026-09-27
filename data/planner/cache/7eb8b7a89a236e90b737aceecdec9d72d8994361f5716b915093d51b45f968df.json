@@ -1,0 +1,82 @@
+{
+  "id": "53269",
+  "name": "Hummus",
+  "cuisine": "Turkish",
+  "fingerprint": "7eb8b7a89a236e90b737aceecdec9d72d8994361f5716b915093d51b45f968df",
+  "yield": 4,
+  "minutes": 10,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated at 4 side-dish servings based on standard hummus recipes using one 400g can of chickpeas",
+    "Total preparation time estimated at 10 minutes from quick blending and mixing steps with no cooking",
+    "Greek yogurt confirms presence of milk (dairy) and makes it non-vegan",
+    "Tahini confirms presence of sesame",
+    "No wheat, eggs, fish, shellfish, tree nuts, peanuts or soy ingredients listed",
+    "All ingredients are compatible with vegetarian and pescatarian diets",
+    "Gluten-free classification based on absence of barley, rye, wheat or uncertified oats"
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nDrain the chickpeas into a sieve set over a bowl or jug to catch the liquid. Tip the chickpeas, tahini, garlic and yogurt into a food processor or blender and whizz to smooth.\r\n\r\nstep 2\r\nWhizz in a tbsp of the chickpea liquid at a time until you have a nice consistency, then scrape into a bowl.\r\n\r\nstep 3\r\nStir in a squeeze of lemon juice and season to taste.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chickpeas",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Canned chickpeas, drained weight approximately 240-260g but using full 400g can contents as listed; standard drained chickpea nutrition applied to whole line"
+    },
+    {
+      "position": 2,
+      "name": "Tahini Paste",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tablespoon tahini paste is approximately 15g; standard tahini values"
+    },
+    {
+      "position": 3,
+      "name": "Garlic Clove",
+      "measurement": "1 large",
+      "grams": 6,
+      "assumptions": "1 large garlic clove is approximately 6g; standard raw garlic nutrition"
+    },
+    {
+      "position": 4,
+      "name": "Greek Yogurt",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "3 tablespoons Greek yogurt is approximately 45g; nonfat/plain Greek yogurt values"
+    },
+    {
+      "position": 5,
+      "name": "Lemon",
+      "measurement": "Juice of half",
+      "grams": 25,
+      "assumptions": "Juice of half a lemon is approximately 25-30ml/25g; standard lemon juice nutrition"
+    }
+  ],
+  "nutrition": {
+    "calories": 787.99,
+    "protein": 43.22,
+    "fat": 18.76,
+    "fiber": 32.65,
+    "carbs": 118.68
+  }
+}

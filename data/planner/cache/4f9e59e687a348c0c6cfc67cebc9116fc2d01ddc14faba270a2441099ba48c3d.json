@@ -1,0 +1,74 @@
+{
+  "id": "53033",
+  "name": "Japanese gohan rice",
+  "cuisine": "Japanese",
+  "fingerprint": "4f9e59e687a348c0c6cfc67cebc9116fc2d01ddc14faba270a2441099ba48c3d",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": null,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from 300g uncooked rice at ~75g per serving (standard for Japanese gohan as a side dish, yielding ~4 portions after cooking and absorption); mirin, pickle juice, and spring onions are flavorings/garnishes not affecting serving count.",
+    "Total time is sum of explicit steps: ~5-7 min rinsing/soaking + 15 min simmer + 15 min rest + ~5 min final stir/serve, conservatively rounded to 45 min total prep/cook.",
+    "Mirin classified as potentially containing alcohol (not strictly vegan in all definitions, but treated as compatible here per common recipe usage); sushi rice, spring onions, and pickle juice assumed fully plant-based.",
+    "Gluten-free is null due to unspecified mirin and pickle juice (some brands use barley or wheat-derived ingredients); soy is null due to possible dashi option in instructions (could contain soy sauce).",
+    "No explicit animal products, dairy, eggs, tree nuts, peanuts, sesame, or shellfish in listed ingredients or instructions.",
+    "Assumes 'pickle juice' is from vegetable pickles (e.g., not fish-based) and spring onions are standard green onions."
+  ],
+  "categories": [],
+  "instructions": "STEP 1\r\nRinsing and soaking your rice is key to achieving the perfect texture. Measure the rice into a bowl, cover with cold water, then use your fingers to massage the grains of rice – the water will become cloudy. Drain and rinse again with fresh water. Repeat five more times until the water stays clear.\r\n\r\nSTEP 2\r\nTip the rinsed rice into a saucepan with 400ml water, or 200ml dashi and 200ml water, bring to the boil, then turn down the heat to a low simmer, cover with a tight-fitting lid with a steam hole and cook for 15 mins. Remove from the heat and leave to sit for another 15 mins, then stir through the mirin. Remove the lid and give it a good stir. Serve with any or all of the optional toppings.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sushi Rice",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Standard uncooked sushi rice (short-grain Japanese rice); values for raw/dry state before rinsing and cooking as per typical package data."
+    },
+    {
+      "position": 2,
+      "name": "Mirin",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tbs mirin ≈ 15 g (typical tablespoon weight for sweet rice wine); values typical for mirin."
+    },
+    {
+      "position": 3,
+      "name": "Pickle Juice",
+      "measurement": "Garnish",
+      "grams": 10,
+      "assumptions": "Garnish pickle juice assumed as ~10 g (small drizzle/splash for flavoring a rice dish); values approximated from typical Japanese pickle brine such as takuan or similar light vegetable brine."
+    },
+    {
+      "position": 4,
+      "name": "Spring Onions",
+      "measurement": "Garnish",
+      "grams": 20,
+      "assumptions": "Garnish spring onions assumed as ~20 g chopped (a small handful sprinkled on top); values for raw edible portion."
+    }
+  ],
+  "nutrition": {
+    "calories": 1122.45,
+    "protein": 19.88,
+    "fat": 1.55,
+    "fiber": 3.52,
+    "carbs": 250.4
+  }
+}

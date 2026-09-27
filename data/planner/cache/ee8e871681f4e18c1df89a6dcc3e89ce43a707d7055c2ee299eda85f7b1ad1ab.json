@@ -1,0 +1,87 @@
+{
+  "id": "53212",
+  "name": "Thai drumsticks",
+  "cuisine": "Thai",
+  "fingerprint": "ee8e871681f4e18c1df89a6dcc3e89ce43a707d7055c2ee299eda85f7b1ad1ab",
+  "yield": 4,
+  "minutes": 50,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Original recipe serves 4 based on 8 chicken drumsticks (2 per person, standard for drumstick recipes).",
+    "Total time estimated as 10 min prep + 35-40 min cooking, using the upper end of cooking time.",
+    "Sweet chilli sauce may contain wheat, soy, or sesame depending on brand (ambiguous without specific brand).",
+    "Thai red curry paste may contain fish, wheat, or soy depending on brand (ambiguous without specific brand).",
+    "No explicit gluten sources but not confidently gluten-free due to possible ingredients in sauces/paste."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat oven to 200C/180C fan/gas 6 and line a baking tray with foil. Mix the chilli sauce with the orange zest and juice, garlic, curry paste and ¼ tsp salt. Add the chicken and coat really well.\r\n\r\nstep 2\r\nArrange the drumsticks on the foil, spaced apart. Coat the chicken with any marinade left in the bowl, then roast for 35-40 mins until tender. Wrap in foil or pack into a food container.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ittake1763586925.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "sweet chilli sauce",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "Standard sweet chilli sauce; 1 tbsp ≈ 15g, typical bottled product."
+    },
+    {
+      "position": 2,
+      "name": "Orange",
+      "measurement": "Zest of 1",
+      "grams": 6,
+      "assumptions": "Zest from 1 medium orange; ≈6g edible zest only."
+    },
+    {
+      "position": 3,
+      "name": "Orange",
+      "measurement": "2 tblsp",
+      "grams": 30,
+      "assumptions": "2 tbsp orange juice from a medium orange; ≈30g, typical juiced weight."
+    },
+    {
+      "position": 4,
+      "name": "Garlic",
+      "measurement": "1 clove peeled crushed",
+      "grams": 3,
+      "assumptions": "1 medium peeled crushed garlic clove; ≈3g edible portion."
+    },
+    {
+      "position": 5,
+      "name": "Thai Red Curry Paste",
+      "measurement": "1 tblsp",
+      "grams": 15,
+      "assumptions": "1 tbsp Thai red curry paste; typical commercial jarred product, ≈15g."
+    },
+    {
+      "position": 6,
+      "name": "Chicken drumsticks",
+      "measurement": "8",
+      "grams": 800,
+      "assumptions": "8 raw chicken drumsticks with skin and bone; ≈100g each edible raw weight based on typical supermarket size and recipe context (roasted with marinade)."
+    }
+  ],
+  "nutrition": {
+    "calories": 1315.39,
+    "protein": 153.07,
+    "fat": 69,
+    "fiber": 1.56,
+    "carbs": 15.51
+  }
+}

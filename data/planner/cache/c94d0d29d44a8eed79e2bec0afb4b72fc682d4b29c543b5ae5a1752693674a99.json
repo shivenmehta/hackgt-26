@@ -1,0 +1,130 @@
+{
+  "id": "52865",
+  "name": "Matar Paneer",
+  "cuisine": "Indian",
+  "fingerprint": "c94d0d29d44a8eed79e2bec0afb4b72fc682d4b29c543b5ae5a1752693674a99",
+  "yield": 2,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield of 2 based on explicit instruction to divide between two bowls and serve with naan bread (one per person assumed).",
+    "Total time estimated at 20 minutes from sequential steps: ~5 min frying paneer, ~1 min spices, ~5 min tomatoes, ~2 min peas, plus minimal prep.",
+    "Paneer classified as dairy (milk) product making it vegetarian but not vegan or dairy-free.",
+    "Naan bread introduces possible wheat (gluten) but left null as 'to serve' is optional and unspecified type.",
+    "No explicit egg, fish, shellfish, nuts, peanuts, soy, or sesame; all set false or null per conservative rules.",
+    "Ginger listed as '2' interpreted as 2 cm piece per provided data; tomatoes as 4 large ~500g; all other weights from supplied grams."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat the oil in a frying pan over high heat until it’s shimmering hot. Add the paneer, then turn the heat down a little. Fry until it starts to brown at the edges, then turn it over and brown on each side – the paneer will brown faster than you think, so don’t walk away. Remove the paneer from the pan and drain on kitchen paper.\r\nPut the ginger, cumin, turmeric, ground coriander and chilli in the pan, and fry everything for 1 min. Add the tomatoes, mashing them with the back of a spoon and simmer everything for 5 mins until the sauce smells fragrant. Add a splash of water if it’s too thick. Season well. Add the peas and simmer for a further 2 mins, then stir in the paneer and sprinkle over the garam masala. Divide between two bowls, top with coriander leaves and serve with naan bread, roti or rice.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sunflower Oil",
+      "measurement": "1 tbls",
+      "grams": 15,
+      "assumptions": "1 tablespoon sunflower oil, typical density ~0.92 g/ml"
+    },
+    {
+      "position": 2,
+      "name": "Paneer",
+      "measurement": "225g",
+      "grams": 225,
+      "assumptions": "225 g paneer as given, standard Indian cottage cheese values"
+    },
+    {
+      "position": 3,
+      "name": "Ginger",
+      "measurement": "2",
+      "grams": 10,
+      "assumptions": "2 cm piece of fresh ginger root (~10 g), peeled and grated"
+    },
+    {
+      "position": 4,
+      "name": "Cumin",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp cumin seeds, typical teaspoon weight ~2 g"
+    },
+    {
+      "position": 5,
+      "name": "Turmeric",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp ground turmeric, typical teaspoon weight ~2 g"
+    },
+    {
+      "position": 6,
+      "name": "Coriander",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp ground coriander, typical teaspoon weight ~2 g"
+    },
+    {
+      "position": 7,
+      "name": "Green Chilli",
+      "measurement": "1",
+      "grams": 15,
+      "assumptions": "1 medium green chilli, typical weight ~15 g, seeds in"
+    },
+    {
+      "position": 8,
+      "name": "Tomato",
+      "measurement": "4 large",
+      "grams": 500,
+      "assumptions": "4 large tomatoes, estimated total 500 g, fresh and chopped"
+    },
+    {
+      "position": 9,
+      "name": "Peas",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "150 g green peas as given, frozen or fresh, cooked in sauce"
+    },
+    {
+      "position": 10,
+      "name": "Garam Masala",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp garam masala powder, typical teaspoon weight ~2 g"
+    },
+    {
+      "position": 11,
+      "name": "Coriander",
+      "measurement": "Small bunch",
+      "grams": 15,
+      "assumptions": "Small bunch fresh coriander leaves, estimated 15 g for garnish"
+    },
+    {
+      "position": 12,
+      "name": "Naan Bread",
+      "measurement": "to serve",
+      "grams": 90,
+      "assumptions": "Naan bread to serve, estimated 1 medium piece (~90 g) per the two-bowl recipe yield"
+    }
+  ],
+  "nutrition": {
+    "calories": 1237,
+    "protein": 62.98,
+    "fat": 71.51,
+    "fiber": 17.79,
+    "carbs": 96.73
+  }
+}

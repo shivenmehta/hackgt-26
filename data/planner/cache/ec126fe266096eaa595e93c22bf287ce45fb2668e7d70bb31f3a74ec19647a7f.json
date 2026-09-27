@@ -1,0 +1,153 @@
+{
+  "id": "53227",
+  "name": "Rice paper dumplings",
+  "cuisine": "Vietnamese",
+  "fingerprint": "ec126fe266096eaa595e93c22bf287ce45fb2668e7d70bb31f3a74ec19647a7f",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Recipe makes 20 dumplings; typical serving is 5 dumplings per person yielding 4 servings",
+    "Total active and passive time (including 15 min salting) estimated at 45 minutes",
+    "Wheat present due to possible wheat in soy sauce and unspecified rice paper composition",
+    "Fish ambiguous as some soy sauces contain anchovy; conservatively null",
+    "Shellfish null as no explicit crustacean but possible cross-contact in sauces",
+    "Peanuts null due to unspecified shared manufacturing risk",
+    "Dairy-free as no milk ingredients listed",
+    "Vegetarian/Vegan/Pescatarian false due to ground pork"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nTip the cabbage into a food processor and blitz until finely chopped. Season with ½ tsp salt, toss well and set aside for 15 mins. Tip into a clean tea towel and squeeze out as much water as you can. Tip into a bowl with the carrot, mushrooms, pork mince, garlic, ginger, soy sauce, sesame oil and spring onions. Season with black pepper. Scrunch everything together using your hands, mixing well until everything is combined.\r\n\r\nstep 2\r\nSoak the spring roll sheets for a couple of seconds in a shallow dish of warm water, then transfer to an oiled chopping board. Working with one sheet at a time, spoon 1 heaped tbsp of the filling into the middle, then fold the bottom up and over the filling. Fold down the top of the sheet, then the sides to fully encase and make a neat square. If the dumpling feels a little fragile, soak another sheet and wrap it again. Repeat with the remaining sheets and filling, transferring the dumplings to an oiled plate as you go.\r\n\r\nstep 3\r\nHeat the oil in a large, non-stick frying pan (ensuring it is no more than a third full) over a medium-high heat and fry the dumplings for 3-5 mins until golden brown. Use a slotted spoon or spider to turn them, then cover with a lid and cook for another 3-4 mins until golden. Remove the lid and cook for 1-2 mins.\r\n\r\nstep 4\r\nMeanwhile, combine all the dipping sauce ingredients in small bowl. Serve the dumplings with the dipping sauce on the side.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/sfahy01763752319.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "White Cabbage",
+      "measurement": "1/4",
+      "grams": 250,
+      "assumptions": "1/4 of a medium white cabbage, about 250g raw edible portion"
+    },
+    {
+      "position": 2,
+      "name": "Carrots",
+      "measurement": "1",
+      "grams": 80,
+      "assumptions": "1 medium carrot, peeled and grated, ~80g edible"
+    },
+    {
+      "position": 3,
+      "name": "Shiitake Mushrooms",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Given 100g fresh shiitake mushrooms, raw weight"
+    },
+    {
+      "position": 4,
+      "name": "Ground Pork",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Given 400g raw ground pork (typical 20% fat)"
+    },
+    {
+      "position": 5,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 cloves garlic minced, ~6g total raw"
+    },
+    {
+      "position": 6,
+      "name": "Ginger",
+      "measurement": "20g",
+      "grams": 20,
+      "assumptions": "Given 20g fresh ginger, raw peeled weight"
+    },
+    {
+      "position": 7,
+      "name": "Soy Sauce",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 tsp soy sauce (~10g), typical sodium-reduced variety"
+    },
+    {
+      "position": 8,
+      "name": "Sesame Seed Oil",
+      "measurement": "2 tsp",
+      "grams": 9,
+      "assumptions": "2 tsp sesame oil (~9g)"
+    },
+    {
+      "position": 9,
+      "name": "Spring Onions",
+      "measurement": "3 sliced thinly",
+      "grams": 45,
+      "assumptions": "3 spring onions sliced thinly, ~45g total raw"
+    },
+    {
+      "position": 10,
+      "name": "Rice Paper Sheets",
+      "measurement": "20",
+      "grams": 200,
+      "assumptions": "20 standard 22cm rice paper sheets; each ~10g dry weight (typical package size)"
+    },
+    {
+      "position": 11,
+      "name": "Vegetable Oil",
+      "measurement": "75 ml",
+      "grams": 69,
+      "assumptions": "75ml vegetable oil for shallow-frying; density ~0.92 g/ml, all oil is absorbed or used in estimation"
+    },
+    {
+      "position": 12,
+      "name": "Soy Sauce",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "2 tbsp soy sauce (~30g), typical sodium-reduced variety"
+    },
+    {
+      "position": 13,
+      "name": "Rice Vinegar",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "2 tbsp rice vinegar (~30g)"
+    },
+    {
+      "position": 14,
+      "name": "Sesame Seed",
+      "measurement": "1/2 tbs",
+      "grams": 4,
+      "assumptions": "1/2 tbsp toasted sesame seeds (~4g)"
+    },
+    {
+      "position": 15,
+      "name": "Spring Onions",
+      "measurement": "2 sliced",
+      "grams": 30,
+      "assumptions": "2 spring onions sliced for sauce, ~30g total raw"
+    }
+  ],
+  "nutrition": {
+    "calories": 2557.98,
+    "protein": 91.17,
+    "fat": 159.14,
+    "fiber": 19.03,
+    "carbs": 203.39
+  }
+}

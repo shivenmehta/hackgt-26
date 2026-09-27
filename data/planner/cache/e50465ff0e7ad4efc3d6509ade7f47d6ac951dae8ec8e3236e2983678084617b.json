@@ -1,0 +1,126 @@
+{
+  "id": "52969",
+  "name": "Chakchouka",
+  "cuisine": "Tunisian",
+  "fingerprint": "e50465ff0e7ad4efc3d6509ade7f47d6ac951dae8ec8e3236e2983678084617b",
+  "yield": 4,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 4 eggs as primary protein source, consistent with 4 craters/instructions and typical serving size for egg-based skillet dish",
+    "Total time summed from sequential steps: 2-3 min onion + 3-5 min peppers/garlic + 10-15 min simmer + 5-7 min eggs = ~20-30 min active/passive; rounded up conservatively to 30 min including prep",
+    "No wheat, gluten, dairy, meat, fish, shellfish, nuts, peanuts, soy or sesame in listed ingredients or instructions",
+    "Eggs clearly listed and used, confirming non-vegan and egg allergen",
+    "Vegetarian confirmed per source dietary note and ingredients",
+    "Pescatarian compatible as no meat/fish but eggs present",
+    "Gluten-free as no barley/rye/wheat/oats and no bread included in core recipe",
+    "Dairy-free with no milk products",
+    "Sesame left null due to possible cross-contact in spices or unlisted tahini-like compounds but none explicitly present"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "In a large cast iron skillet or sauté pan with a lid, heat oil over medium high heat. Add the onion and sauté for 2-3 minutes, until softened. Add the peppers and garlic, and sauté for an additional 3-5 minutes. Add the tomatoes, cumin, paprika, salt, and chili powder. Mix well and bring the mixture to a simmer. Reduce the heat to medium low and continue to simmer, uncovered, 10-15 minutes until the mixture has thickened to your desired consistency. (Taste the sauce at this point and adjust for salt and spice, as desired.) Using the back of a spoon, make four craters in the mixture, large enough to hold an egg. Crack one egg into each of the craters. Cover the skillet and simmer for 5-7 minutes, until the eggs have set. Serve immediately with crusty bread or pita.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Tomatoes",
+      "measurement": "4",
+      "grams": 600,
+      "assumptions": "4 medium whole raw tomatoes (edible portion ~150g each)"
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tbs olive oil (standard 15ml per tbs)"
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 Diced",
+      "grams": 110,
+      "assumptions": "1 medium diced onion (~110g)"
+    },
+    {
+      "position": 4,
+      "name": "Red Pepper",
+      "measurement": "1 sliced",
+      "grams": 119,
+      "assumptions": "1 medium red bell pepper, sliced (~119g edible)"
+    },
+    {
+      "position": 5,
+      "name": "Green Pepper",
+      "measurement": "1 sliced",
+      "grams": 119,
+      "assumptions": "1 medium green bell pepper, sliced (~119g edible)"
+    },
+    {
+      "position": 6,
+      "name": "Garlic",
+      "measurement": "3 Cloves Crushed",
+      "grams": 9,
+      "assumptions": "3 cloves crushed garlic (~3g each)"
+    },
+    {
+      "position": 7,
+      "name": "Cumin",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp ground cumin (~2g)"
+    },
+    {
+      "position": 8,
+      "name": "Paprika",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp paprika (~2g)"
+    },
+    {
+      "position": 9,
+      "name": "Salt",
+      "measurement": "3/4 teaspoon",
+      "grams": 4,
+      "assumptions": "3/4 tsp table salt (~4g); sodium not modeled in macros"
+    },
+    {
+      "position": 10,
+      "name": "Chili Powder",
+      "measurement": "1/2 teaspoon",
+      "grams": 1.5,
+      "assumptions": "1/2 tsp chili powder (~1.5g)"
+    },
+    {
+      "position": 11,
+      "name": "Eggs",
+      "measurement": "4",
+      "grams": 200,
+      "assumptions": "4 large raw eggs (~50g each, whole, edible)"
+    }
+  ],
+  "nutrition": {
+    "calories": 788.72,
+    "protein": 35.35,
+    "fat": 51.86,
+    "fiber": 15.26,
+    "carbs": 53.4
+  }
+}

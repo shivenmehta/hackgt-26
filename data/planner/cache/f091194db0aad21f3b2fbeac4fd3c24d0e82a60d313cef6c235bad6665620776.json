@@ -1,0 +1,146 @@
+{
+  "id": "53015",
+  "name": "Krispy Kreme Donut",
+  "cuisine": "American",
+  "fingerprint": "f091194db0aad21f3b2fbeac4fd3c24d0e82a60d313cef6c235bad6665620776",
+  "yield": 12,
+  "minutes": 150,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from standard Krispy Kreme-style yeast-raised donut recipes using similar total flour (5 cups) and producing ~1 dozen full-sized donuts plus holes.",
+    "Total time aggregates instruction steps: ~55 min first rise, ~35 min second rise, ~10 min mixing/rolling/cutting, ~20 min frying in batches, ~10 min glazing; rounded conservatively.",
+    "Flour measurement corrected from erroneous '5 drops' to 5 cups per provided ingredient assumptions and standard recipes.",
+    "Oil measurement corrected from erroneous 'Sprinking' to deep-frying quantity with absorption estimate per provided assumptions.",
+    "Vanilla measurement corrected from erroneous '1 1/2 cups' to 1.5 tsp per provided assumptions.",
+    "Shortening classified as vegetable (no dairy).",
+    "No tree nuts, peanuts, fish, shellfish, soy, or sesame in listed ingredients; ambiguous for possible cross-contact or unspecified 'shortening' variants hence null.",
+    "All classifications based strictly on explicitly listed ingredients without assuming unlisted items or substitutions."
+  ],
+  "categories": [],
+  "instructions": "Dissolve yeast in warm water in 2 1/2-quart bowl. Add milk, sugar, salt, eggs, shortening and 2 cups flour. Beat on low for 30 seconds, scraping bowl constantly. Beat on medium speed for 2 minutes, scraping bowl occasionally. Stir in remaining flour until smooth. Cover and let rise until double, 50-60 minutes. (Dough is ready when indentation remains when touched.) Turn dough onto floured surface; roll around lightly to coat with flour. Gently roll dough 1/2-inch thick with floured rolling pin. Cut with floured doughnut cutter. Cover and let rise until double, 30-40 minutes.\r\nHeat vegetable oil in deep fryer to 350°. Slide doughnuts into hot oil with wide spatula. Turn doughnuts as they rise to the surface. Fry until golden brown, about 1 minute on each side. Remove carefully from oil (do not prick surface); drain. Dip the doughnuts into creamy glaze set on rack.\r\n\r\n\r\nGlaze: \r\nHeat butter until melted. Remove from heat. Stir in powdered sugar and vanilla until smooth. Stir in water, 1 tablespoon at a time, until desired consistency.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/4i5cnx1587672171.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Yeast",
+      "measurement": "1/4 ounce",
+      "grams": 7,
+      "assumptions": "Active dry yeast; standard 7g packet equivalent for 1/4 oz; typical values for dry yeast."
+    },
+    {
+      "position": 2,
+      "name": "Water",
+      "measurement": "1/4 cup",
+      "grams": 59,
+      "assumptions": "Warm water for dissolving yeast; 1/4 cup = 59 ml assumed density 1g/ml."
+    },
+    {
+      "position": 3,
+      "name": "Water",
+      "measurement": "1 1/2 cups",
+      "grams": 355,
+      "assumptions": "Additional water in dough; 1 1/2 cups = 355 ml assumed density 1g/ml."
+    },
+    {
+      "position": 4,
+      "name": "Sugar",
+      "measurement": "1/2 cup",
+      "grams": 100,
+      "assumptions": "Granulated white sugar; 1/2 cup = 100g standard measure."
+    },
+    {
+      "position": 5,
+      "name": "Salt",
+      "measurement": "1 tsp",
+      "grams": 6,
+      "assumptions": "Table salt; 1 tsp = 6g standard measure."
+    },
+    {
+      "position": 6,
+      "name": "Eggs",
+      "measurement": "2",
+      "grams": 100,
+      "assumptions": "Large whole eggs; 2 eggs ≈ 100g edible portion."
+    },
+    {
+      "position": 7,
+      "name": "Shortening",
+      "measurement": "1/3 cup",
+      "grams": 65,
+      "assumptions": "Vegetable shortening; 1/3 cup ≈ 65g standard measure."
+    },
+    {
+      "position": 8,
+      "name": "Flour",
+      "measurement": "5 drops",
+      "grams": 650,
+      "assumptions": "All-purpose flour; measurement listed as '5 drops' is clearly erroneous (likely OCR/copy-paste error from glaze section); assumed 5 cups based on standard Krispy Kreme-style yeast donut recipes that use ~5-5.25 cups total flour to match the rise, beating and rolling instructions; ~650g total."
+    },
+    {
+      "position": 9,
+      "name": "Canola Oil",
+      "measurement": "Sprinking",
+      "grams": 40,
+      "assumptions": "Canola oil for deep frying; 'Sprinking' is erroneous/vague; plausible assumption of ~40g absorbed oil per batch of ~12 donuts based on typical fried donut absorption rates (recipe context implies enough for deep fryer at 350°F)."
+    },
+    {
+      "position": 10,
+      "name": "Milk",
+      "measurement": "1/2 cup",
+      "grams": 120,
+      "assumptions": "Whole milk; 1/2 cup = 120 ml/g standard measure (listed out of order but used in dough)."
+    },
+    {
+      "position": 11,
+      "name": "Sugar",
+      "measurement": "2 cups",
+      "grams": 200,
+      "assumptions": "Powdered sugar for glaze; 2 cups = 200g standard measure (listed out of order)."
+    },
+    {
+      "position": 12,
+      "name": "Vanilla",
+      "measurement": "1 1/2 cups",
+      "grams": 15,
+      "assumptions": "Vanilla extract; 1 1/2 tsp assumed (measurement listed as 1 1/2 cups is clearly erroneous given context and typical glaze recipes; 1.5 tsp ≈ 6-7g but using 15g to reflect plausible total liquid); negligible impact but estimated."
+    },
+    {
+      "position": 13,
+      "name": "Boiling Water",
+      "measurement": "6 tablespoons",
+      "grams": 90,
+      "assumptions": "Boiling water for glaze; 6 tablespoons = 90 ml assumed density 1g/ml."
+    },
+    {
+      "position": 14,
+      "name": "Butter",
+      "measurement": "1/3 cup",
+      "grams": 75,
+      "assumptions": "Butter for glaze; 1/3 cup = 75g standard measure."
+    }
+  ],
+  "nutrition": {
+    "calories": 5252.3,
+    "protein": 85.15,
+    "fat": 185.21,
+    "fiber": 20.9,
+    "carbs": 804.55
+  }
+}

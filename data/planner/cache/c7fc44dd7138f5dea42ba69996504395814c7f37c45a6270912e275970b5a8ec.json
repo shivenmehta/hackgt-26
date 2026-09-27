@@ -1,0 +1,123 @@
+{
+  "id": "52992",
+  "name": "Soy-Glazed Meatloaves with Wasabi Mashed Potatoes & Roasted Carrots",
+  "cuisine": "American",
+  "fingerprint": "c7fc44dd7138f5dea42ba69996504395814c7f37c45a6270912e275970b5a8ec",
+  "yield": 2,
+  "minutes": 40,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe is for 2 servings based on forming two 1-inch-tall loaves, using 1 lb ground beef, and explicit scaling notes for 4 servings in instructions.",
+    "Total active and passive time is approximately 40 minutes (prep ~15 min + 25 min cook/bake).",
+    "Bread assumed to be wheat-based sandwich bread as typical for meatloaf binder.",
+    "Butter is dairy.",
+    "Soy sauce contains wheat and soy.",
+    "No explicit egg, fish, shellfish, nuts, peanuts, or sesame in listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "1. Preheat oven to 425 degrees. Wash and dry all produce. Dice potatoes into 1/2-inch pieces. Trim, peel, and cut carrots on a diagonal into 1/2-inch-thick pieces. Trim and thinly slice scallions, separating whites from greens; finely chop whites. Peel and finely chop garlic.\r\n\r\n2. In a medium bowl, soak bread with 2 TBSP water (4 TBSP for 4 servings); break up with your hands until pasty. Stir in beef, sriracha, scallion whites, half the garlic, salt (we used 3/4 tsp kosher salt; 11/2 tsp for 4), and pepper. Form into two 1-inch-tall loaves (four loaves for 4). Place on one side of a baking sheet. Toss carrots on empty side of same sheet with a drizzle of oil, salt, and pepper. (For 4, spread meatloaves out across whole sheet and add carrots to a second sheet.) Bake for 20 minutes (we'll glaze the meatloaves then).\r\n\r\n3. Meanwhile, place potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until very\r\ntender, 12-15 minutes. Reserve 1/2 cup potato cooking liquid, then drain. While potatoes cook, in a small bowl, combine soy sauce, garlic powder, 1/4 cup ketchup (1/2 cup for 4 servings), and 2 tsp sugar (4 tsp for 4).\r\n\r\n4. Once meatloaves and carrots have baked 20 minutes, remove from oven. Spoon half the ketchup glaze over meatloaves (save\r\nthe rest for serving); return to oven until carrots are browned and tender, meatloaves are cooked through, and glaze is tacky, 4-5 minutes more.\r\n\r\n5. Meanwhile, melt 2 TBSP butter (4 TBSP for 4 servings) in pot used for potatoes over medium heat. Add remaining garlic and cook\r\nuntil fragrant, 30 seconds. Add potatoes and 1/4 tsp wasabi. Mash, adding splashes of reserved potato cooking liquid as necessary until smooth. Season with salt and pepper. (If you like things spicy, stir in more wasabi!)\r\n\r\n6. Divide meatloaves, mashed potatoes, and roasted carrots between plates. Sprinkle with scallion greens and serve with remaining ketchup glaze on the side for dipping.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/o2wb6p1581005243.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Potatoes",
+      "measurement": "5",
+      "grams": 1134,
+      "assumptions": "5 medium russet potatoes, ~8oz each raw with skin, total raw weight before peeling/dicing; typical for mashed potatoes recipe."
+    },
+    {
+      "position": 2,
+      "name": "Carrots",
+      "measurement": "12 ounces",
+      "grams": 340,
+      "assumptions": "12oz fresh whole carrots, raw weight before trimming/peeling; standard edible portion after prep is nearly the full amount."
+    },
+    {
+      "position": 3,
+      "name": "Scallions",
+      "measurement": "1",
+      "grams": 15,
+      "assumptions": "1 medium bunch scallions (~15g usable sliced whites + greens); typical small bunch used in recipe."
+    },
+    {
+      "position": 4,
+      "name": "Garlic",
+      "measurement": "2 cloves",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves, peeled and chopped; standard weight ~3g per clove."
+    },
+    {
+      "position": 5,
+      "name": "Bread",
+      "measurement": "1 Slice",
+      "grams": 25,
+      "assumptions": "1 standard slice white sandwich bread (~25g), used as binder and soaked; typical for meatloaf recipes."
+    },
+    {
+      "position": 6,
+      "name": "Garlic Powder",
+      "measurement": "1",
+      "grams": 3,
+      "assumptions": "1 tsp garlic powder (~3g); standard household measure for the amount listed."
+    },
+    {
+      "position": 7,
+      "name": "Soy Sauce",
+      "measurement": "2",
+      "grams": 30,
+      "assumptions": "2 tbsp regular soy sauce (~30g total); typical volume-to-weight for the glaze component."
+    },
+    {
+      "position": 8,
+      "name": "Ground Beef",
+      "measurement": "1",
+      "grams": 454,
+      "assumptions": "1 lb (454g) raw 80/20 ground beef; standard package size implied by forming 2-4 loaves and typical US recipe scaling."
+    },
+    {
+      "position": 9,
+      "name": "Vegetable Oil",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp vegetable oil for tossing carrots; standard small drizzle amount for sheet-pan roasting."
+    },
+    {
+      "position": 10,
+      "name": "Sugar",
+      "measurement": "2 tsp",
+      "grams": 8,
+      "assumptions": "2 tsp granulated sugar (~8g); standard measure for the glaze."
+    },
+    {
+      "position": 11,
+      "name": "Butter",
+      "measurement": "2 tbsp",
+      "grams": 28,
+      "assumptions": "2 tbsp butter (~28g); standard amount melted into the mashed potatoes."
+    }
+  ],
+  "nutrition": {
+    "calories": 2547.48,
+    "protein": 107.92,
+    "fat": 121.2,
+    "fiber": 36.23,
+    "carbs": 258.97
+  }
+}

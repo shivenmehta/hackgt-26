@@ -1,0 +1,94 @@
+{
+  "id": "53157",
+  "name": "Chorizo & soft-boiled egg salad",
+  "cuisine": "Spanish",
+  "fingerprint": "ec0da0d369f608a0ff10265b68c48dfd6c3e858636115f2a3e4f50f7dfb235e1",
+  "yield": 4,
+  "minutes": 25,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical main-course salad portion sizes for 4 adults given total ingredient weight ~1.2kg.",
+    "Preparation time summed from explicit instruction timings (potato/egg/bean boil 12 min + chorizo fry 2 min + garlic cook 1 min) plus ~10 min for prep, draining, cooling, shelling, tossing and seasoning.",
+    "Sherry vinegar and parsley assumed to contain no allergens or animal products beyond what's explicitly listed.",
+    "No hidden gluten, dairy, or other allergens in listed ingredients; all are single-item or simple.",
+    "Chorizo is pork-based, confirming non-vegetarian/vegan/pescatarian status."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nCook the potatoes in a large pan of boiling salted water for 12 mins, adding the eggs after 6 mins, and the beans for the final 2 mins. Drain everything and cool the eggs under cold running water.\r\n\r\nstep 2\r\nMeanwhile fry chorizo slices for 1-2 mins, until beginning to crisp. Remove from the pan with a slotted spoon and set aside, leaving the oil from the chorizo in the pan. Add the garlic to the pan and cook gently for 1 min.\r\n\r\nstep 3\r\nRemove the pan from the heat, stir in the vinegar and parsley, then toss with the potatoes, beans, chorizo and seasoning. Shell the eggs, cut into quarters and add to the salad.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/v8eaed1763257313.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Baby New Potatoes",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Raw baby new potatoes, skin on; typical values for new potatoes."
+    },
+    {
+      "position": 2,
+      "name": "Egg",
+      "measurement": "4",
+      "grams": 200,
+      "assumptions": "4 large whole eggs (approx 50g each edible portion); standard large chicken eggs."
+    },
+    {
+      "position": 3,
+      "name": "Green Beans",
+      "measurement": "225g",
+      "grams": 225,
+      "assumptions": "Raw trimmed green beans; typical fresh green bean values."
+    },
+    {
+      "position": 4,
+      "name": "Chorizo",
+      "measurement": "225g",
+      "grams": 225,
+      "assumptions": "Cured Spanish chorizo sausage, typical cured pork values; fully edible."
+    },
+    {
+      "position": 5,
+      "name": "Garlic Clove",
+      "measurement": "1 sliced",
+      "grams": 3,
+      "assumptions": "1 medium garlic clove, sliced; approx 3g edible portion."
+    },
+    {
+      "position": 6,
+      "name": "Sherry vinegar",
+      "measurement": "2 tbsp",
+      "grams": 30,
+      "assumptions": "2 tbsp sherry vinegar; typical vinegar values, approx 15g per tbsp."
+    },
+    {
+      "position": 7,
+      "name": "Parsley",
+      "measurement": "2 tbsp chopped",
+      "grams": 8,
+      "assumptions": "2 tbsp chopped fresh parsley; approx 4g per tbsp, typical fresh herb values."
+    }
+  ],
+  "nutrition": {
+    "calories": 1776.05,
+    "protein": 93.68,
+    "fat": 106.53,
+    "fiber": 17.4,
+    "carbs": 108.33
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "53201",
+  "name": "Stir-fried chicken with chillies & basil",
+  "cuisine": "Thai",
+  "fingerprint": "1f088a3e1738c2dc4ccaed67d9e42699d7e5c04a6276fe83b49ba47981d0152f",
+  "yield": 4,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 4 as a main with rice (standard for 450g chicken stir-fry per BBC Good Food/Thai style)",
+    "Total active time estimated from sequential stir-fry steps (8-10 min + 3 min + 8-10 min) plus reheating, rounded to 30 min",
+    "'Soy Sauce' treated as containing wheat/soy (standard unless specified gluten-free)",
+    "Fish sauce treated as containing fish (standard fermented fish product)",
+    "No explicit dairy, eggs, tree nuts, peanuts, sesame, shellfish, or milk in listed ingredients",
+    "Chillies, shallots, garlic, basil, oil, and sugar introduce no listed allergens",
+    "Gluten-free left null due to unspecified soy sauce type and possible cross-contamination in fish sauce"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat a wok or large frying pan until it is very hot, then add 1 tbsp of the oil. When it is very hot, add the chicken and stir-fry over a high heat for 8-10 minutes, until browned all over. Using a slotted spoon, take the chicken from the pan and set aside.\r\n\r\nstep 2\r\nReheat the wok and add the remaining oil. Toss in the garlic and shallots and stir fry for 3 minutes, until golden brown.\r\n\r\nstep 3\r\nReturn the chicken to the wok and add the chillies, fish sauce, dark soy sauce and sugar. Stir fry over a high heat for a further 8-10 minutes or until the chicken is cooked through. Stir in the basil leaves and serve at once.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/el64dy1763483009.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Vegetable Oil",
+      "measurement": "2 tablespoons",
+      "grams": 28,
+      "assumptions": "Standard vegetable oil; 1 tbsp ≈ 14 g, total 2 tbsp used in recipe for stir-frying chicken and aromatics."
+    },
+    {
+      "position": 2,
+      "name": "Chicken",
+      "measurement": "450g",
+      "grams": 450,
+      "assumptions": "Raw boneless skinless chicken breast/thigh meat as typical for Thai stir-fry; entire 450 g line used, cooked in recipe but nutrition on raw basis per standard practice."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "3 tblsp chopped",
+      "grams": 27,
+      "assumptions": "Chopped raw garlic cloves; 1 tbsp chopped garlic ≈ 9 g, total 3 tbsp based on typical density."
+    },
+    {
+      "position": 4,
+      "name": "Shallots",
+      "measurement": "3 tblsp chopped",
+      "grams": 30,
+      "assumptions": "Chopped raw shallots; 1 tbsp chopped shallots ≈ 10 g, total 3 tbsp based on typical density and moisture."
+    },
+    {
+      "position": 5,
+      "name": "Red Chilli",
+      "measurement": "3",
+      "grams": 60,
+      "assumptions": "3 whole fresh red Thai chillies (≈20 g each including stems); edible portion after trimming assumed at 60 g total for stir-fry use."
+    },
+    {
+      "position": 6,
+      "name": "Fish Sauce",
+      "measurement": "2 tablespoons",
+      "grams": 36,
+      "assumptions": "Standard fish sauce; 1 tbsp ≈ 18 g, total 2 tbsp as liquid seasoning added directly."
+    },
+    {
+      "position": 7,
+      "name": "Soy Sauce",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "Dark soy sauce; 1 tsp ≈ 5 g, total 2 tsp (recipe says 'Soy Sauce' but context is dark soy); typical density used."
+    },
+    {
+      "position": 8,
+      "name": "Sugar",
+      "measurement": "2 tsp",
+      "grams": 8,
+      "assumptions": "Granulated white sugar; 1 tsp ≈ 4 g, total 2 tsp as sweetener added directly."
+    },
+    {
+      "position": 9,
+      "name": "Basil Leaves",
+      "measurement": "Handful",
+      "grams": 20,
+      "assumptions": "Fresh Thai holy basil leaves (handful); typical handful ≈ 20 g for final stir-in, using standard fresh basil leaf density."
+    }
+  ],
+  "nutrition": {
+    "calories": 1113.63,
+    "protein": 146.04,
+    "fat": 43.05,
+    "fiber": 2.83,
+    "carbs": 29.99
+  }
+}

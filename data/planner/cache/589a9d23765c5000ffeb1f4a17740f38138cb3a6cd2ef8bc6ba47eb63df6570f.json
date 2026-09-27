@@ -1,0 +1,142 @@
+{
+  "id": "53354",
+  "name": "Jamaican Curry Goat",
+  "cuisine": "Jamaican",
+  "fingerprint": "589a9d23765c5000ffeb1f4a17740f38138cb3a6cd2ef8bc6ba47eb63df6570f",
+  "yield": 6,
+  "minutes": 270,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 3 lb goat meat + 1 large potato + braising liquid, typical for 6 adult dinner portions (≈0.5 lb meat/serving).",
+    "Total time is sum of explicit steps: 4 hr (240 min) minimum marination + ≈30 min active sauté/browning + 40 min pressure cook + 10 min natural release + 10-15 min final simmer; rounded conservatively to nearest 30 min increment as 270 min (4.5 hr).",
+    "Gluten-free assumes all-purpose seasoning and Jamaican curry powder contain no wheat (common but not guaranteed; conservative true classification).",
+    "No explicit compound sauces or ambiguous allergens; sesame null as possible in unspecified seasoning blends."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Equipment\r\n\r\n6QT Pressure cooker\r\n\r\nInstructions\r\n \r\nRinse goat meat with vinegar and water.\r\nSeason goat meat with 1 ½ tablespoon curry powder, all-purpose seasoning, ground ginger, allspice, onion, garlic cloves, and thyme. Marinate for at least 4 hours or up to overnight.\r\nRemove onion and garlic from goat and set aside.\r\nSet an electric pressure cooker, like an Instant Pot, on high sauté and add oil. Add goat meat and brown, about 2-3 minutes per side. Remove goat from insert and add 1 tablespoon oil and remaining curry powder and sauté for about 10 seconds. Then add onions and garlic and sauté until softened. About 4 minutes. If the onions look dry, add a little water and continue to sauté.\r\nAdd goat and water to the pressure cooker and cover the pressure cooker. Cook for 40 minutes on high pressure. Allow to naturally release for 10 minutes, then release the remaining pressure.\r\nOnce all the pressure has been released, open the pressure cooker. Place on sauté for 10-15 minutes, add potatoes and a whole scotch bonnet pepper. Cook until potatoes have softened. Remove scotch bonnet pepper.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/uc9qp11764796575.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Goat Meat",
+      "measurement": "3 Lbs",
+      "grams": 1361,
+      "assumptions": "3 lbs raw boneless goat meat (typical for curry recipes; ~20% fat trim assumed, edible portion only)"
+    },
+    {
+      "position": 2,
+      "name": "Jamaican Curry Powder",
+      "measurement": "2.5 tbsp",
+      "grams": 15,
+      "assumptions": "2.5 tbsp Jamaican curry powder (typical density ~6 g/tbsp; spice blend values)"
+    },
+    {
+      "position": 3,
+      "name": "Ground Ginger",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp ground ginger (~1 g typical density for ground spice)"
+    },
+    {
+      "position": 4,
+      "name": "All-purpose Seasoning",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp all-purpose seasoning (~1 g; typical commercial blend estimate)"
+    },
+    {
+      "position": 5,
+      "name": "Allspice",
+      "measurement": "1/4 tsp",
+      "grams": 1,
+      "assumptions": "1/4 tsp ground allspice (~0.5 g rounded to 1 g for minimum plausible; typical spice density)"
+    },
+    {
+      "position": 6,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium chopped onion (~110 g raw edible portion)"
+    },
+    {
+      "position": 7,
+      "name": "Garlic",
+      "measurement": "6 cloves sliced",
+      "grams": 18,
+      "assumptions": "6 cloves garlic (~18 g total raw, peeled)"
+    },
+    {
+      "position": 8,
+      "name": "Thyme",
+      "measurement": "3 sprigs",
+      "grams": 3,
+      "assumptions": "3 fresh thyme sprigs (~3 g total leaves and soft stems; typical small sprig weight)"
+    },
+    {
+      "position": 9,
+      "name": "Oil",
+      "measurement": "2 tablespoons",
+      "grams": 28,
+      "assumptions": "2 tbsp neutral cooking oil (14 g/tbsp typical)"
+    },
+    {
+      "position": 10,
+      "name": "Water",
+      "measurement": "1 1/4 cup",
+      "grams": 296,
+      "assumptions": "1 1/4 cups water (296 ml = 296 g; used for braising, no nutrients)"
+    },
+    {
+      "position": 11,
+      "name": "Scotch Bonnet",
+      "measurement": "1",
+      "grams": 5,
+      "assumptions": "1 whole scotch bonnet pepper (~5 g; typical small hot pepper weight, added whole then removed)"
+    },
+    {
+      "position": 12,
+      "name": "Russet Potato",
+      "measurement": "1 large",
+      "grams": 300,
+      "assumptions": "1 large russet potato (~300 g raw, peeled weight assumed for stew context)"
+    },
+    {
+      "position": 13,
+      "name": "Salt",
+      "measurement": "To taste",
+      "grams": 5,
+      "assumptions": "Salt to taste (estimated 5 g plausible for full recipe seasoning; sodium not modeled in macros)"
+    },
+    {
+      "position": 14,
+      "name": "Pepper",
+      "measurement": "To taste",
+      "grams": 2,
+      "assumptions": "Pepper to taste (estimated 2 g plausible for full recipe; black pepper or similar)"
+    }
+  ],
+  "nutrition": {
+    "calories": 2555.8,
+    "protein": 378.21,
+    "fat": 71.67,
+    "fiber": 14.05,
+    "carbs": 79.49
+  }
+}

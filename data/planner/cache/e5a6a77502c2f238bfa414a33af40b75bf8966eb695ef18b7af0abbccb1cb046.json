@@ -1,0 +1,152 @@
+{
+  "id": "52838",
+  "name": "Venetian Duck Ragu",
+  "cuisine": "Italian",
+  "fingerprint": "e5a6a77502c2f238bfa414a33af40b75bf8966eb695ef18b7af0abbccb1cb046",
+  "yield": 4,
+  "minutes": 165,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 4 duck legs + 600g pasta as main components for 4 adult servings",
+    "Total time sums active prep (~20 min) + 2hr covered simmer + 10-15 min uncovered simmer + pasta cook time (~10 min) + final 1 min, rounded to nearest 5 min",
+    "Milk present via 2 tbs dairy milk and Parmesan cheese",
+    "Wheat present via plain flour and durum wheat pasta",
+    "Parmesan classified as dairy (milk allergen) but not as vegetarian in some strict definitions; here diets use conservative ingredient compatibility",
+    "Chicken stock cube treated as non-vegetarian per recipe dietary note",
+    "No tree nuts, peanuts, fish, shellfish, eggs, soy, or sesame detected in listed ingredients"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat the oil in a large pan. Add the duck legs and brown on all sides for about 10 mins. Remove to a plate and set aside. Add the onions to the pan and cook for 5 mins until softened. Add the garlic and cook for a further 1 min, then stir in the cinnamon and flour and cook for a further min. Return the duck to the pan, add the wine, tomatoes, stock, herbs, sugar and seasoning. Bring to a simmer, then lower the heat, cover with a lid and cook for 2 hrs, stirring every now and then.\r\nCarefully lift the duck legs out of the sauce and place on a plate – they will be very tender so try not to lose any of the meat. Pull off and discard the fat, then shred the meat with 2 forks and discard the bones. Add the meat back to the sauce with the milk and simmer, uncovered, for a further 10-15 mins while you cook the pasta.\r\nCook the pasta following pack instructions, then drain, reserving a cup of the pasta water, and add the pasta to the ragu. Stir to coat all the pasta in the sauce and cook for 1 min more, adding a splash of cooking liquid if it looks dry. Serve with grated Parmesan, if you like.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "1 tbls",
+      "grams": 14,
+      "assumptions": "Standard olive oil density ~0.91 g/ml; 1 tbsp = 14 g edible oil."
+    },
+    {
+      "position": 2,
+      "name": "Duck Legs",
+      "measurement": "4",
+      "grams": 1200,
+      "assumptions": "Typical raw duck leg with skin and bone ~300 g each; 4 legs total 1200 g; nutrients for raw duck leg meat+skin."
+    },
+    {
+      "position": 3,
+      "name": "Onions",
+      "measurement": "2 finely chopped",
+      "grams": 220,
+      "assumptions": "Medium onions ~110 g each; 2 onions = 220 g raw edible portion."
+    },
+    {
+      "position": 4,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "Standard garlic cloves ~3 g each; 2 cloves = 6 g raw."
+    },
+    {
+      "position": 5,
+      "name": "Cinnamon",
+      "measurement": "2 tsp ground",
+      "grams": 5,
+      "assumptions": "Ground cinnamon; typical small recipe amount of 2 tsp ≈ 5 g."
+    },
+    {
+      "position": 6,
+      "name": "Plain Flour",
+      "measurement": "2 tsp",
+      "grams": 5,
+      "assumptions": "Plain white wheat flour; typical small recipe amount of 2 tsp ≈ 5 g."
+    },
+    {
+      "position": 7,
+      "name": "Red Wine",
+      "measurement": "250ml",
+      "grams": 250,
+      "assumptions": "Red wine; 250 ml ≈ 250 g (density ~1 g/ml)."
+    },
+    {
+      "position": 8,
+      "name": "Chopped Tomatoes",
+      "measurement": "800g",
+      "grams": 800,
+      "assumptions": "Canned chopped tomatoes; 800 g can drained weight used as given (includes liquid)."
+    },
+    {
+      "position": 9,
+      "name": "Chicken Stock Cube",
+      "measurement": "1",
+      "grams": 5,
+      "assumptions": "1 chicken stock cube dissolved; ~5 g cube contributes negligible macros when used as seasoning in large volume."
+    },
+    {
+      "position": 10,
+      "name": "Rosemary",
+      "measurement": "3 sprigs",
+      "grams": 5,
+      "assumptions": "3 rosemary sprigs ≈ 5 g leaves; herbs contribute negligible calories/macros in this quantity."
+    },
+    {
+      "position": 11,
+      "name": "Bay Leaves",
+      "measurement": "2",
+      "grams": 1,
+      "assumptions": "2 bay leaves ≈ 1 g total; herbs contribute negligible calories/macros."
+    },
+    {
+      "position": 12,
+      "name": "Sugar",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "Granulated sugar; 1 tsp ≈ 4 g."
+    },
+    {
+      "position": 13,
+      "name": "Milk",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Whole milk; 2 tbsp ≈ 30 g."
+    },
+    {
+      "position": 14,
+      "name": "Paccheri Pasta",
+      "measurement": "600g",
+      "grams": 600,
+      "assumptions": "Dry paccheri pasta (durum wheat); 600 g as given, uncooked weight."
+    },
+    {
+      "position": 15,
+      "name": "Parmesan Cheese",
+      "measurement": "Grated",
+      "grams": 30,
+      "assumptions": "Grated Parmesan; 'grated to serve' estimated at typical 30 g total for the recipe (2 tbsp)."
+    }
+  ],
+  "nutrition": {
+    "calories": 5363.93,
+    "protein": 334.07,
+    "fat": 177.06,
+    "fiber": 39.47,
+    "carbs": 549.5
+  }
+}

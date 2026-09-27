@@ -1,0 +1,93 @@
+{
+  "id": "52970",
+  "name": "Tunisian Orange Cake",
+  "cuisine": "Tunisian",
+  "fingerprint": "db72c2d4f77bc8e05d0d79f79214813d3eb6a51e3fe11483b2698a96c2e11bac",
+  "yield": 8,
+  "minutes": 65,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from standard springform tin cake size and similar orange cake recipes (8 servings).",
+    "Total time is sum of explicit instruction times: 5 min beating + 50 min baking; excludes prep like pureeing, folding, greasing (assumed ~10 min but not added as not explicit).",
+    "Ingredients classified conservatively: wheat from 'Flour' (assumed plain wheat flour); eggs present; no dairy, fish, shellfish, peanuts, soy; tree nuts and sesame ambiguous as not mentioned.",
+    "Vegetarian: all ingredients compatible; Vegan: incompatible due to eggs; Pescatarian: compatible; Gluten-free: incompatible due to wheat flour; Dairy-free: compatible as no milk products."
+  ],
+  "categories": [],
+  "instructions": "Preheat oven to 190 C / Gas 5. Grease a 23cm round springform tin.\r\nCut off the hard bits from the top and bottom of the orange. Slice the orange and remove all seeds. Puree the orange with its peel in a food processor. Add one third of the sugar and the olive oil and continue to mix until well combined.\r\nSieve together flour and baking powder.\r\nBeat the eggs and the remaining sugar with an electric hand mixer for at least five minutes until very fluffy. Fold in half of the flour mixture, then the orange and the vanilla, then fold in the remaining flour. Mix well but not for too long.\r\nPour cake mixture into prepared tin and smooth out. Bake in preheated oven for 20 minutes. Reduce the oven temperature to 160 C / Gas 2 and bake again for 30 minutes Bake until the cake is golden brown and a skewer comes out clean. Cool on a wire cake rack.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/y4jpgq1560459207.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Orange",
+      "measurement": "1 large",
+      "grams": 250,
+      "assumptions": "1 large whole orange with peel, approx 250g edible portion after trimming hard ends and seeds; raw state as pureed in recipe"
+    },
+    {
+      "position": 2,
+      "name": "Caster Sugar",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Full 300g caster sugar as listed; standard granulated sugar values"
+    },
+    {
+      "position": 3,
+      "name": "Olive Oil",
+      "measurement": "75 ml",
+      "grams": 69,
+      "assumptions": "75ml olive oil converted using density of 0.92 g/ml; pure olive oil values"
+    },
+    {
+      "position": 4,
+      "name": "Flour",
+      "measurement": "280g",
+      "grams": 280,
+      "assumptions": "Full 280g plain white flour as listed; standard all-purpose flour values"
+    },
+    {
+      "position": 5,
+      "name": "Baking Powder",
+      "measurement": "1 tbs",
+      "grams": 14,
+      "assumptions": "1 tbs baking powder approx 14g; typical commercial baking powder values"
+    },
+    {
+      "position": 6,
+      "name": "Eggs",
+      "measurement": "4 large",
+      "grams": 200,
+      "assumptions": "4 large eggs approx 50g each edible portion without shell; raw whole egg values"
+    },
+    {
+      "position": 7,
+      "name": "Vanilla Extract",
+      "measurement": "2 tsp",
+      "grams": 8,
+      "assumptions": "2 tsp vanilla extract approx 8g; standard vanilla extract values"
+    }
+  ],
+  "nutrition": {
+    "calories": 3224.12,
+    "protein": 56.25,
+    "fat": 92.05,
+    "fiber": 14.4,
+    "carbs": 549.68
+  }
+}

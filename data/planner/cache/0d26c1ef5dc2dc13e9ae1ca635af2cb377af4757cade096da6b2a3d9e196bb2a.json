@@ -1,0 +1,108 @@
+{
+  "id": "52963",
+  "name": "Shakshuka",
+  "cuisine": "Egyptian",
+  "fingerprint": "0d26c1ef5dc2dc13e9ae1ca635af2cb377af4757cade096da6b2a3d9e196bb2a",
+  "yield": 4,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": null,
+    "Gluten-free": null,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield of 4 inferred from 4 eggs and typical shakshuka serving size (one egg per person); original recipe does not specify servings.",
+    "Total time of 30 minutes is sum of sequential steps (5 min softening + 8-10 min bubbling + 6-8 min eggs) using midpoint values and allowing for minor overlap/heat adjustments; does not include optional bread toasting.",
+    "Gluten-free is null because recipe suggests serving with crusty bread (typically contains wheat) but bread is not an explicit listed ingredient.",
+    "Wheat is null because bread is mentioned in instructions but not in the provided ingredients list.",
+    "Pescatarian is null because it is compatible with listed ingredients but source is categorized as vegetarian and no fish/seafood is present."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat the oil in a frying pan that has a lid, then soften the onions, chilli, garlic and coriander stalks for 5 mins until soft. Stir in the tomatoes and sugar, then bubble for 8-10 mins until thick. Can be frozen for 1 month.\r\n\r\nUsing the back of a large spoon, make 4 dips in the sauce, then crack an egg into each one. Put a lid on the pan, then cook over a low heat for 6-8 mins, until the eggs are done to your liking. Scatter with the coriander leaves and serve with crusty bread.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "1 tbs",
+      "grams": 14,
+      "assumptions": "Standard tablespoon of olive oil is 14g; 100% fat."
+    },
+    {
+      "position": 2,
+      "name": "Red Onions",
+      "measurement": "2 chopped",
+      "grams": 220,
+      "assumptions": "2 medium red onions (approx 110g each) chopped; values for raw red onion."
+    },
+    {
+      "position": 3,
+      "name": "Red Chilli",
+      "measurement": "1 finely chopped",
+      "grams": 45,
+      "assumptions": "1 medium red chilli (approx 45g) finely chopped; values for raw red chili pepper."
+    },
+    {
+      "position": 4,
+      "name": "Garlic",
+      "measurement": "1 clove",
+      "grams": 3,
+      "assumptions": "1 average garlic clove (approx 3g); values for raw garlic."
+    },
+    {
+      "position": 5,
+      "name": "Coriander",
+      "measurement": "Chopped",
+      "grams": 20,
+      "assumptions": "Coriander listed as 'Chopped' with no quantity; plausible assumption of 20g total (stalks in base + leaves to finish) based on typical shakshuka recipes; values for raw coriander/cilantro."
+    },
+    {
+      "position": 6,
+      "name": "Cherry Tomatoes",
+      "measurement": "800g",
+      "grams": 800,
+      "assumptions": "800g cherry tomatoes used as given; values for raw cherry tomatoes (similar to standard tomatoes)."
+    },
+    {
+      "position": 7,
+      "name": "Caster Sugar",
+      "measurement": "1 tbs",
+      "grams": 12,
+      "assumptions": "1 tablespoon caster sugar is approx 12g; values for granulated sugar."
+    },
+    {
+      "position": 8,
+      "name": "Eggs",
+      "measurement": "4",
+      "grams": 200,
+      "assumptions": "4 large eggs (approx 50g each, edible portion); values for raw whole egg."
+    },
+    {
+      "position": 9,
+      "name": "Feta",
+      "measurement": "Spinkling",
+      "grams": 30,
+      "assumptions": "'Spinkling' of feta interpreted as a light 30g garnish on top (typical for 4 servings); values for feta cheese."
+    }
+  ],
+  "nutrition": {
+    "calories": 794.47,
+    "protein": 40.55,
+    "fat": 41.51,
+    "fiber": 14.64,
+    "carbs": 72.5
+  }
+}

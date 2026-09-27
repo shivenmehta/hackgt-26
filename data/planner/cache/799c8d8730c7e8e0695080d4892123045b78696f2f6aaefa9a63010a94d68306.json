@@ -1,0 +1,74 @@
+{
+  "id": "52765",
+  "name": "Chicken Enchilada Casserole",
+  "cuisine": "Mexican",
+  "fingerprint": "799c8d8730c7e8e0695080d4892123045b78696f2f6aaefa9a63010a94d68306",
+  "yield": 6,
+  "minutes": 50,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 2 chicken breasts + 6 tortillas scaled to 6 modest adult portions of layered casserole",
+    "Total time sums active prep/shredding/layering (~20 min) + covered simmer (20 min) + bake (20-30 min, using 25 min midpoint)",
+    "Enchilada sauce treated as tomato-based with possible thickeners; no explicit wheat/soy but null for soy due to common commercial additives",
+    "Cheese confirms milk allergen and dairy incompatibility",
+    "Corn tortillas and plain chicken confirm absence of wheat, fish, shellfish, peanuts, tree nuts",
+    "No eggs or sesame listed or implied"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Cut each chicken breast in about 3 pieces, so that it cooks faster and put it in a small pot. Pour Enchilada sauce over it and cook covered on low to medium heat until chicken is cooked through, about 20 minutes. No water is needed, the chicken will cook in the Enchilada sauce. Make sure you stir occasionally so that it doesn't stick to the bottom.\r\nRemove chicken from the pot and shred with two forks.\r\nPreheat oven to 375 F degrees.\r\nStart layering the casserole. Start with about ¼ cup of the leftover Enchilada sauce over the bottom of a baking dish. I used a longer baking dish, so that I can put 2 corn tortillas across. Place 2 tortillas on the bottom, top with ⅓ of the chicken and ⅓ of the remaining sauce. Sprinkle with ⅓ of the cheese and repeat starting with 2 more tortillas, then chicken, sauce, cheese. Repeat with last layer with the remaining ingredients, tortillas, chicken, sauce and cheese.\r\nBake for 20 to 30 minutes uncovered, until bubbly and cheese has melted and started to brown on top.\r\nServe warm.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Enchilada sauce",
+      "measurement": "14 oz jar",
+      "grams": 397,
+      "assumptions": "14 oz (397g) jar of red enchilada sauce; typical canned/jarred values used as no water added and most is absorbed or remains in dish"
+    },
+    {
+      "position": 2,
+      "name": "shredded Monterey Jack cheese",
+      "measurement": "3 Cups",
+      "grams": 340,
+      "assumptions": "3 US cups (340g) shredded Monterey Jack cheese; standard packaged shredded cheese density and nutrition"
+    },
+    {
+      "position": 3,
+      "name": "corn tortillas",
+      "measurement": "6",
+      "grams": 240,
+      "assumptions": "6 standard 6-inch corn tortillas (40g each); typical yellow corn tortilla values"
+    },
+    {
+      "position": 4,
+      "name": "chicken breasts",
+      "measurement": "2",
+      "grams": 340,
+      "assumptions": "2 boneless skinless chicken breasts (approx 170g each raw); typical USDA raw chicken breast values; cooked and shredded in sauce but base nutrition from raw edible portion"
+    }
+  ],
+  "nutrition": {
+    "calories": 2704.3,
+    "protein": 209.34,
+    "fat": 141.29,
+    "fiber": 18.37,
+    "carbs": 151.1
+  }
+}

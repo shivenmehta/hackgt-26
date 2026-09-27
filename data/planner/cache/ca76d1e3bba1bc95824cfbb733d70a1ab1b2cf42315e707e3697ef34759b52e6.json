@@ -1,0 +1,95 @@
+{
+  "id": "53378",
+  "name": "Sesame Cucumber Salad",
+  "cuisine": "Chinese",
+  "fingerprint": "ca76d1e3bba1bc95824cfbb733d70a1ab1b2cf42315e707e3697ef34759b52e6",
+  "yield": 4,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated at 4 side-dish servings based on 2 medium cucumbers (≈600g) as primary ingredient, typical for similar cucumber salad recipes.",
+    "Total time estimated at 15 minutes: ≈10 min for peeling, quartering, seeding if needed, and crosswise cutting plus ≈5 min for tossing with seasonings; no cooking required.",
+    "Seasoned rice vinegar treated as containing possible trace soy from fermentation/seasoning but not explicitly listed, hence null for Soy allergen.",
+    "All other ingredients are plant-based with no animal products, confirming vegetarian/vegan/pescatarian/dairy-free compatibility.",
+    "Gluten-free confirmed as no barley/rye/wheat or uncertified oats; rice vinegar is gluten-free by nature.",
+    "Sesame present via sesame oil and seeds; no other allergens explicitly listed or implied."
+  ],
+  "categories": [],
+  "instructions": "Prep the cucumbers:\r\nPeel the cucumbers. Cut them into quarters, lengthwise. (If the seeds are bitter, scrape out the seeds and discard.) Cut the cucumbers again, crosswise, into 1/2-inch thick pieces.\r\n\r\nToss the salad:\r\nPlace cucumbers into a serving bowl. Sprinkle with salt. Toss with sesame oil, seasoned rice vinegar, basil (if using), and chili flakes. Sprinkle with toasted sesame seeds if using.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/93iok31766436070.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Cucumber",
+      "measurement": "2 medium",
+      "grams": 600,
+      "assumptions": "2 medium cucumbers ≈ 600g total edible weight after peeling and seeding if needed; standard values for raw cucumber."
+    },
+    {
+      "position": 2,
+      "name": "Salt",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "1/2 tsp table salt weighs ≈3g; sodium chloride contributes zero macros."
+    },
+    {
+      "position": 3,
+      "name": "Sesame Seed Oil",
+      "measurement": "2 tsp",
+      "grams": 9,
+      "assumptions": "2 tsp sesame oil weighs ≈9g; typical pure sesame oil values."
+    },
+    {
+      "position": 4,
+      "name": "Rice Vinegar",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "2 Tbsp seasoned rice vinegar ≈30g (slightly sweetened/salted variety); low-calorie estimate based on typical Asian seasoned vinegar."
+    },
+    {
+      "position": 5,
+      "name": "Basil Leaves",
+      "measurement": "6",
+      "grams": 10,
+      "assumptions": "6 fresh basil leaves ≈10g; standard fresh basil leaf nutrition, optional but included as listed."
+    },
+    {
+      "position": 6,
+      "name": "Red Chilli Flakes",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp red chili flakes weighs ≈1g; typical dried chili flake values."
+    },
+    {
+      "position": 7,
+      "name": "Sesame Seed",
+      "measurement": "2 tsp",
+      "grams": 6,
+      "assumptions": "2 tsp toasted sesame seeds weighs ≈6g; standard toasted sesame seed nutrition."
+    }
+  ],
+  "nutrition": {
+    "calories": 215.06,
+    "protein": 5.69,
+    "fat": 12.79,
+    "fiber": 4.23,
+    "carbs": 25.27
+  }
+}

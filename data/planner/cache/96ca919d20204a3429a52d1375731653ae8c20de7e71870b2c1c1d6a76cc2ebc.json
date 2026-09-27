@@ -1,0 +1,108 @@
+{
+  "id": "53278",
+  "name": "Aubergine & hummus grills",
+  "cuisine": "Turkish",
+  "fingerprint": "96ca919d20204a3429a52d1375731653ae8c20de7e71870b2c1c1d6a76cc2ebc",
+  "yield": 4,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": null,
+    "Pescatarian": null,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated from typical BBC Good Food / Turkish meze-style recipe with 2 aubergines producing 8-12 slices total, allowing 2-3 grills per serving plus side salad.",
+    "Total time is sum of active and passive steps: ~15 min initial grilling + ~3 min second grilling + ~10-12 min prep and assembly.",
+    "Hummus assumed to contain sesame (tahini) and possibly chickpeas/soy; bread assumed to be wheat-based; walnuts are tree nuts; no dairy, eggs, fish, or shellfish listed.",
+    "Vegan status null due to potential honey or non-vegan bread/hummus in commercial products; gluten-free is false due to bread and possible cross-contamination in hummus.",
+    "Parsley, tomatoes, lemon, oils, and aubergine introduce no listed allergens."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nLay the aubergine out in one layer on a large baking sheet. Brush sparingly with vegetable oil, then season generously. Grill for 15 mins, turning twice and brushing with oil until the slices are softened and cooked through. Meanwhile, whizz the bread into crumbs. Add 2 tsp oil and whizz briefly again, to coat.\r\n\r\nstep 2\r\nSpread a couple of tsps of hummus on top of each slice of aubergine. Tip the breadcrumbs onto a large plate, then press the hummus side of the aubergines into the crumbs to coat. Grill again, crumb-side up, for about 3 mins until golden.\r\n\r\nstep 3\r\nToss the walnuts, parsley and cherry tomatoes in a bowl, season, then add the lemon juice and olive oil and toss again. Serve the grills with the salad, a dollop more hummus and some pitta bread.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/zub3s91764110535.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Aubergine",
+      "measurement": "2",
+      "grams": 600,
+      "assumptions": "2 medium aubergines, each ~300g raw edible portion"
+    },
+    {
+      "position": 2,
+      "name": "Vegetable Oil",
+      "measurement": "2 tablespoons",
+      "grams": 28,
+      "assumptions": "2 tbsp vegetable oil for brushing aubergine slices"
+    },
+    {
+      "position": 3,
+      "name": "Bread",
+      "measurement": "3 sliced thinly",
+      "grams": 75,
+      "assumptions": "3 thin slices white bread (~25g each) turned into crumbs"
+    },
+    {
+      "position": 4,
+      "name": "Hummus",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "300g plain hummus (used in two parts: most for topping, remainder as serving dollop)"
+    },
+    {
+      "position": 5,
+      "name": "Walnuts",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "100g shelled walnuts for the salad"
+    },
+    {
+      "position": 6,
+      "name": "Parsley",
+      "measurement": "40g",
+      "grams": 40,
+      "assumptions": "40g fresh flat-leaf parsley, leaves and stems"
+    },
+    {
+      "position": 7,
+      "name": "Cherry Tomatoes",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "200g raw cherry tomatoes, halved for salad"
+    },
+    {
+      "position": 8,
+      "name": "Lemon",
+      "measurement": "Juice of 1/2",
+      "grams": 25,
+      "assumptions": "Juice from half a medium lemon (~25g juice only, no peel or pith)"
+    },
+    {
+      "position": 9,
+      "name": "Extra Virgin Olive Oil",
+      "measurement": "Splash",
+      "grams": 10,
+      "assumptions": "Splash of extra virgin olive oil for dressing (~10g / 2 tsp plausible for light salad toss)"
+    }
+  ],
+  "nutrition": {
+    "calories": 1906.32,
+    "protein": 52.08,
+    "fat": 137.31,
+    "fiber": 43.07,
+    "carbs": 135.4
+  }
+}

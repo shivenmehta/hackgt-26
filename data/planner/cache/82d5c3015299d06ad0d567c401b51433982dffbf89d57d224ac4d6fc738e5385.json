@@ -1,0 +1,131 @@
+{
+  "id": "53161",
+  "name": "Chicken & chorizo rice pot",
+  "cuisine": "Spanish",
+  "fingerprint": "82d5c3015299d06ad0d567c401b51433982dffbf89d57d224ac4d6fc738e5385",
+  "yield": 4,
+  "minutes": 78,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 4 adult servings based on total quantities (1.2 kg chicken + 400 g rice + 800 ml stock is typical for 4 portions in a one-pot rice casserole).",
+    "Total active and passive time summed from instructions: ~3 min browning + 13 min sofrito + 1 min puree + 30 min simmer + 15 min rice + 10 min rest + ~6 min estimated prep = 78 min; prep time conservatively included as not separately stated.",
+    "Oil conservatively classified as generic (could be olive/vegetable); no dairy, gluten, or top allergens introduced.",
+    "Chicken stock and chorizo classified as potentially containing trace wheat/soy (common in commercial stock cubes or sausage casings/seasonings) hence null for Wheat/Soy; no fish/shellfish ingredients listed so null.",
+    "Thyme, parsley, tomato puree, wine, garlic, onion, pepper classified as allergen-free.",
+    "No barley/rye/wheat/oats listed so Gluten-free is null (stock/chorizo could introduce gluten).",
+    "Dairy-free confirmed true: no milk, butter, cheese or dairy-derived items present."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat the oil in a large flameproof casserole dish and brown the chicken pieces on all sides – you may have to do this in batches. Remove from the dish and put to one side.\r\n\r\nstep 2\r\nLower the heat, add the onion and pepper, and gently cook for 10 mins until softened. Add the garlic and chorizo, and cook for a further 2 mins until the chorizo has released some of its oils into the dish. Stir in the tomato purée and cook for 1 min more.\r\n\r\nstep 3\r\nReturn the chicken pieces to the dish along with the thyme, white wine and stock. Bring the liquid to a boil, cover the dish with a tight-fitting lid and lower the heat. Cook for 30 mins.\r\n\r\nstep 4\r\nTip in the rice and stir everything together. Cover, set over a low heat and cook for a further 15 mins, or until the rice is cooked and has absorbed most of the cooking liquid. Remove from the heat and leave the dish to sit for 10 mins to absorb any remaining liquid. Season to taste and scatter with parsley to serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/fk80jp1763280767.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Oil",
+      "measurement": "1 tblsp",
+      "grams": 14,
+      "assumptions": "1 tbsp olive oil (typical for Spanish recipes; assumed olive as common in cuisine)"
+    },
+    {
+      "position": 2,
+      "name": "Chicken",
+      "measurement": "1 whole",
+      "grams": 1200,
+      "assumptions": "1 whole chicken estimated at 1.2kg raw edible yield (meat + skin, typical medium bird for casserole); raw state as added early in recipe"
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 Large Chopped",
+      "grams": 150,
+      "assumptions": "1 large onion, typical 150g raw chopped weight"
+    },
+    {
+      "position": 4,
+      "name": "Red Pepper",
+      "measurement": "1 chopped",
+      "grams": 120,
+      "assumptions": "1 medium-large red bell pepper, typical 120g raw chopped weight"
+    },
+    {
+      "position": 5,
+      "name": "Garlic",
+      "measurement": "3 Cloves Crushed",
+      "grams": 9,
+      "assumptions": "3 average garlic cloves, total ~9g raw crushed"
+    },
+    {
+      "position": 6,
+      "name": "Chorizo",
+      "measurement": "225g",
+      "grams": 225,
+      "assumptions": "225g chorizo sausage as specified; cured/ready-to-eat type typical for Spanish dish"
+    },
+    {
+      "position": 7,
+      "name": "Tomato Puree",
+      "measurement": "1 tblsp",
+      "grams": 16,
+      "assumptions": "1 tbsp tomato puree/paste, typical 16g"
+    },
+    {
+      "position": 8,
+      "name": "Thyme",
+      "measurement": "1 tablespoon chopped",
+      "grams": 4,
+      "assumptions": "1 tbsp chopped fresh thyme leaves, typical 4g (herb weight is low but nutrient-dense)"
+    },
+    {
+      "position": 9,
+      "name": "White Wine",
+      "measurement": "150ml",
+      "grams": 150,
+      "assumptions": "150ml dry white wine (density ~1g/ml; alcohol contributes to calories)"
+    },
+    {
+      "position": 10,
+      "name": "Chicken Stock",
+      "measurement": "800ml",
+      "grams": 800,
+      "assumptions": "800ml chicken stock, typical low-sodium prepared stock (density ~1g/ml)"
+    },
+    {
+      "position": 11,
+      "name": "Rice",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "400g uncooked white long-grain rice (typical for Spanish rice pot); raw/dry weight as added to absorb liquid"
+    },
+    {
+      "position": 12,
+      "name": "Parsley",
+      "measurement": "2 tbs chopped",
+      "grams": 8,
+      "assumptions": "2 tbsp chopped fresh parsley, typical 8g total (herb weight is low but nutrient-dense)"
+    }
+  ],
+  "nutrition": {
+    "calories": 4891.16,
+    "protein": 463.01,
+    "fat": 148.67,
+    "fiber": 11.93,
+    "carbs": 363.6
+  }
+}

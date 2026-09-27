@@ -1,0 +1,105 @@
+{
+  "id": "52923",
+  "name": "Canadian Butter Tarts",
+  "cuisine": "Canadian",
+  "fingerprint": "1f65b6c529b9171e14c79a51820613f5eee8e6e6987b58ce072e5bddffd15b86",
+  "yield": 18,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from instructions specifying 18-20 rounds with a 7.5cm cutter to line tart tins; using 18 as the conservative original serving count.",
+    "Total time is sum of explicit instruction times (3-4 min stirring + 15-18 min baking) plus estimated 10 min for preheating, rolling, cutting, and filling; rounded to nearest 5.",
+    "Shortcrust pastry contains wheat and butter (dairy), making it non-vegan, non-gluten-free, and non-dairy-free.",
+    "Butter and single cream confirm dairy presence.",
+    "Eggs confirm egg allergen and non-vegan status.",
+    "Walnuts confirm tree nut allergen.",
+    "No fish, shellfish, peanuts, soy, or sesame ingredients listed.",
+    "Muscovado sugar, raisins, and vanilla extract are compatible with all listed diets.",
+    "Recipe is vegetarian as all ingredients are compatible with ovo-lacto vegetarian diet."
+  ],
+  "categories": [],
+  "instructions": "Preheat the oven to fan 170C/ conventional 190C/gas 5. Roll out the pastry on a lightly floured surface so it’s slightly thinner than straight from the pack. Then cut out 18-20 rounds with a 7.5cm fluted cutter, re-rolling the trimmings. Use the rounds to line two deep 12-hole tart tins (not muffin tins). If you only have a regular-sized, 12-hole tart tin you will be able to make a few more slightly shallower tarts.\r\nBeat the eggs in a large bowl and combine with the rest of the ingredients except the walnuts. Tip this mixture into a pan and stir continuously for 3-4 minutes until the butter melts, and the mixture bubbles and starts to thicken. It should be thick enough to coat the back of a wooden spoon. Don’t overcook, and be sure to stir all the time as the mixture can easily burn. Remove from the heat and stir in the nuts.\r\nSpoon the filling into the unbaked tart shells so it’s level with the pastry. Bake for 15-18 minutes until set and pale golden. Leave in the tin to cool for a few minutes before lifting out on to a wire rack. Serve warm or cold.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Shortcrust Pastry",
+      "measurement": "375g",
+      "grams": 375,
+      "assumptions": "Standard shortcrust pastry; values based on typical retail butter shortcrust."
+    },
+    {
+      "position": 2,
+      "name": "Eggs",
+      "measurement": "2 large",
+      "grams": 100,
+      "assumptions": "Two large eggs ≈100 g total edible portion (raw, without shells)."
+    },
+    {
+      "position": 3,
+      "name": "Muscovado Sugar",
+      "measurement": "175g",
+      "grams": 175,
+      "assumptions": "Muscovado sugar treated as typical dark brown sugar."
+    },
+    {
+      "position": 4,
+      "name": "Raisins",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Standard seedless raisins; 100 g as listed."
+    },
+    {
+      "position": 5,
+      "name": "Vanilla Extract",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp vanilla extract ≈5 g; typical alcohol-based extract."
+    },
+    {
+      "position": 6,
+      "name": "Butter",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Unsalted butter; 50 g as listed."
+    },
+    {
+      "position": 7,
+      "name": "Single Cream",
+      "measurement": "4 tsp",
+      "grams": 20,
+      "assumptions": "4 tsp single cream (light cream) ≈20 g total; typical 18-20% fat cream."
+    },
+    {
+      "position": 8,
+      "name": "Walnuts",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Chopped walnuts; 50 g as listed."
+    }
+  ],
+  "nutrition": {
+    "calories": 3458.4,
+    "protein": 48.03,
+    "fat": 181.05,
+    "fiber": 15,
+    "carbs": 434.75
+  }
+}

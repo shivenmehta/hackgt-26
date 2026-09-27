@@ -1,0 +1,124 @@
+{
+  "id": "53019",
+  "name": "Pierogi (Polish Dumplings)",
+  "cuisine": "Polish",
+  "fingerprint": "38ce773d60a766e1341386adaa27c35689eef74dc1d835f890391df630b28e21",
+  "yield": 8,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical pierogi recipes using ~3 cups flour yielding 24-40 pieces, conservatively 8 side-dish servings (3-5 pierogi each).",
+    "Total time estimated from instructions: ~10 min each for two fillings (20 min), ~20 min for dough and rolling/cutting, ~20 min for filling/sealing two batches, ~10-15 min boiling in batches; rounded up to 90 min allowing for cooling, kneading, and overlaps.",
+    "'1 pot' sour cream conservatively classified as dairy (milk) source; assumed standard 8oz container.",
+    "Flour classified as wheat-containing (all-purpose).",
+    "No meat, fish, shellfish, tree nuts, peanuts, soy, or sesame listed; soy left null due to possible baking powder additives but confidently absent in core ingredients.",
+    "Onions, sauerkraut, potatoes, salt, and baking powder introduce no listed allergens or diet conflicts.",
+    "Recipe is lacto-ovo vegetarian but not vegan due to eggs, butter, and sour cream."
+  ],
+  "categories": [],
+  "instructions": "To prepare the sauerkraut filling, melt the butter in a skillet over medium heat. Stir in the onion, and cook until translucent, about 5 minutes. Add the drained sauerkraut and cook for an additional 5 minutes. Season to taste with salt and pepper, then remove to a plate to cool.\r\n\r\nFor the mashed potato filling, melt the butter in a skillet over medium heat. Stir in the onion, and cook until translucent, about 5 minutes. Stir into the mashed potatoes, and season with salt and white pepper.\r\n\r\nTo make the dough, beat together the eggs and sour cream until smooth. Sift together the flour, salt, and baking powder; stir into the sour cream mixture until dough comes together. Knead the dough on a lightly floured surface until firm and smooth. Divide the dough in half, then roll out one half to 1/8 inch thickness. Cut into 3 inch rounds using a biscuit cutter.\r\n\r\nPlace a small spoonful of the mashed potato filling into the center of each round. Moisten the edges with water, fold over, and press together with a fork to seal. Repeat procedure with the remaining dough and the sauerkraut filling.\r\n\r\nBring a large pot of lightly salted water to a boil. Add perogies and cook for 3 to 5 minutes or until pierogi float to the top. Remove with a slotted spoon.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/45xxr21593348847.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Butter",
+      "measurement": "2 tbs",
+      "grams": 28,
+      "assumptions": "Standard unsalted butter; 2 tbs = 28g."
+    },
+    {
+      "position": 2,
+      "name": "Chopped Onion",
+      "measurement": "1/3 cup",
+      "grams": 53,
+      "assumptions": "Chopped raw onion; 1/3 cup = ~53g."
+    },
+    {
+      "position": 3,
+      "name": "Sauerkraut",
+      "measurement": "1 1/2 cups",
+      "grams": 210,
+      "assumptions": "Drained sauerkraut from 1 1/2 cups; typical drained weight ~210g with low calories from fermentation."
+    },
+    {
+      "position": 4,
+      "name": "Butter",
+      "measurement": "3 tbs",
+      "grams": 42,
+      "assumptions": "Standard unsalted butter; 3 tbs = 42g."
+    },
+    {
+      "position": 5,
+      "name": "Chopped Onion",
+      "measurement": "1/2 cup",
+      "grams": 80,
+      "assumptions": "Chopped raw onion; 1/2 cup = ~80g."
+    },
+    {
+      "position": 6,
+      "name": "Potatoes",
+      "measurement": "2 cups",
+      "grams": 420,
+      "assumptions": "Plain mashed potatoes (boiled, peeled, no added fat/milk); 2 cups = ~420g based on typical recipe yield from ~450-500g raw potatoes."
+    },
+    {
+      "position": 7,
+      "name": "Eggs",
+      "measurement": "3",
+      "grams": 150,
+      "assumptions": "3 large whole eggs; ~50g each edible portion."
+    },
+    {
+      "position": 8,
+      "name": "Sour Cream",
+      "measurement": "1 pot",
+      "grams": 230,
+      "assumptions": "'1 pot' sour cream interpreted as standard 8oz/227g container (common in recipes); adjusted slightly for typical use."
+    },
+    {
+      "position": 9,
+      "name": "Flour",
+      "measurement": "3 cups",
+      "grams": 375,
+      "assumptions": "All-purpose white flour; 3 cups = ~375g (standard density)."
+    },
+    {
+      "position": 10,
+      "name": "Salt",
+      "measurement": "1/4 tsp",
+      "grams": 1.5,
+      "assumptions": "Table salt; 1/4 tsp = ~1.5g, negligible macros."
+    },
+    {
+      "position": 11,
+      "name": "Baking Powder",
+      "measurement": "1 tbs",
+      "grams": 14,
+      "assumptions": "Baking powder (double-acting); 1 tbs = ~14g."
+    }
+  ],
+  "nutrition": {
+    "calories": 2960.72,
+    "protein": 74.74,
+    "fat": 119.46,
+    "fiber": 27.32,
+    "carbs": 396.81
+  }
+}

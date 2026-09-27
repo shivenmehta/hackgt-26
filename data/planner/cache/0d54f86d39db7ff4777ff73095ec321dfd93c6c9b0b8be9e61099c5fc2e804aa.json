@@ -1,0 +1,104 @@
+{
+  "id": "53047",
+  "name": "Moroccan Carrot Soup",
+  "cuisine": "Moroccan",
+  "fingerprint": "0d54f86d39db7ff4777ff73095ec321dfd93c6c9b0b8be9e61099c5fc2e804aa",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical soup recipes using ~750g vegetables plus water/stock to produce 4 modest servings",
+    "Total time is sum of explicit roast (12 min), plus conservative estimates for preheat (5 min), mixing/transfer (3 min), cooling/grinding/straining (8 min), simmering (5 min), and final seasoning (2 min)",
+    "All ingredients plant-based with no animal products listed",
+    "No gluten-containing grains or wheat products listed",
+    "No dairy, eggs, fish, shellfish, tree nuts, or peanuts listed",
+    "Sesame ambiguous as some garam masala blends can optionally include sesame but not specified here",
+    "Cumin and coriander interpreted as whole seeds per instructions; garam masala as powder per instructions",
+    "No compound sauces or ambiguous processed items beyond listed spices"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Step 1\r\nPreheat oven to 180° C.\r\nStep 2\r\nCombine carrots, onion, garlic, cumin seeds, coriander seeds, salt and olive oil in a bowl and mix well. Transfer on a baking tray.\r\nStep 3\r\nPut the baking tray in preheated oven and roast for 10-12 minutes or till carrots soften. Remove from heat and cool.\r\nStep 4\r\nGrind the baked carrot mixture along with some water to make a smooth paste and strain in a bowl.\r\nStep 5\r\nHeat the carrot mixture in a non-stick pan. Add two cups of water and bring to a boil. Add garam masala powder and mix. Add salt and mix well.\r\nStep 6\r\nRemove from heat, add lemon juice and mix well.\r\nStep 7\r\nServe hot.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Carrots",
+      "measurement": "6 chopped",
+      "grams": 600,
+      "assumptions": "6 medium carrots, chopped, total edible weight ~600g; raw values used as roasted without added fat beyond listed oil"
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 sliced",
+      "grams": 110,
+      "assumptions": "1 medium onion, sliced, ~110g edible portion; raw values"
+    },
+    {
+      "position": 3,
+      "name": "Garlic Clove",
+      "measurement": "4",
+      "grams": 12,
+      "assumptions": "4 typical garlic cloves, total ~12g; raw values"
+    },
+    {
+      "position": 4,
+      "name": "Cumin",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp whole cumin seeds, ~2g; typical spice nutrition"
+    },
+    {
+      "position": 5,
+      "name": "Coriander",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp coriander seeds, ~1g; typical spice nutrition"
+    },
+    {
+      "position": 6,
+      "name": "Olive Oil",
+      "measurement": "1 tbs",
+      "grams": 14,
+      "assumptions": "1 tbs olive oil, ~14g; standard oil values"
+    },
+    {
+      "position": 7,
+      "name": "Garam Masala",
+      "measurement": "1/4 tsp",
+      "grams": 0.5,
+      "assumptions": "1/4 tsp garam masala powder, ~0.5g; typical blended spice estimate"
+    },
+    {
+      "position": 8,
+      "name": "Lemon Juice",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp fresh lemon juice, ~5g; standard citrus juice values"
+    }
+  ],
+  "nutrition": {
+    "calories": 445.07,
+    "protein": 7.94,
+    "fat": 16.07,
+    "fiber": 19.5,
+    "carbs": 73.9
+  }
+}

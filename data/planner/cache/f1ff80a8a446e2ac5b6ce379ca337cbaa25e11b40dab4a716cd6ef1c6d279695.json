@@ -1,0 +1,117 @@
+{
+  "id": "52869",
+  "name": "Tahini Lentils",
+  "cuisine": "Moroccan",
+  "fingerprint": "f1ff80a8a446e2ac5b6ce379ca337cbaa25e11b40dab4a716cd6ef1c6d279695",
+  "yield": 2,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated from typical BBC Good Food / similar lentil-vegetable stir-fry recipes that serve 2 adults as a main dish with these quantities (e.g. 250g lentils + 500g+ vegetables).",
+    "Preparation time summed from explicit instruction timings (2 min onion + 5 min vegetables + 2 min final mix) plus ~6 min estimated for chopping, measuring, and mixing tahini dressing; rounded conservatively.",
+    "All ingredients screened as listed; no unlisted sauces, stocks, or accompaniments assumed present.",
+    "Tahini classified as containing sesame; no tree-nut, soy, or other allergen ingredients appear in the provided list.",
+    "Gluten-free confirmed: no barley/rye/wheat/oats listed and all components (lentils, vegetables, tahini, oil) are naturally gluten-free when uncontaminated.",
+    "Vegan/vegetarian/dairy-free confirmed by source labels and ingredient list (no animal products).",
+    "Pescatarian true because recipe contains no meat but is compatible with fish/seafood consumption."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "In a jug, mix the tahini with the zest and juice of the lemon and 50ml of cold water to make a runny dressing. Season to taste, then set aside.\r\nHeat the oil in a wok or large frying pan over a medium-high heat. Add the red onion, along with a pinch of salt, and fry for 2 mins until starting to soften and colour. Add the garlic, pepper, green beans and courgette and fry for 5 min, stirring frequently.\r\nTip in the kale, lentils and the tahini dressing. Keep the pan on the heat for a couple of mins, stirring everything together until the kale is wilted and it’s all coated in the creamy dressing.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vpxyqt1511464175.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Tahini",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Standard tahini nutrition for roasted sesame paste; full 50g line used as listed."
+    },
+    {
+      "position": 2,
+      "name": "Lemon",
+      "measurement": "zest and juice of 1",
+      "grams": 58,
+      "assumptions": "Medium lemon (approx 58g whole fruit with peel); zest and juice of 1 uses entire edible portion including some peel for zest."
+    },
+    {
+      "position": 3,
+      "name": "Olive Oil",
+      "measurement": "2 tblsp",
+      "grams": 27,
+      "assumptions": "2 tablespoons olive oil = 27g (standard 13.5g per tbsp); full amount used for frying."
+    },
+    {
+      "position": 4,
+      "name": "Red Onions",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium red onion (approx 110g) chopped; typical whole onion weight for 1 chopped unit."
+    },
+    {
+      "position": 5,
+      "name": "Garlic",
+      "measurement": "1 clove peeled crushed",
+      "grams": 3,
+      "assumptions": "1 average garlic clove (3g) peeled and crushed; standard small clove weight."
+    },
+    {
+      "position": 6,
+      "name": "Yellow Pepper",
+      "measurement": "1 thinly sliced",
+      "grams": 119,
+      "assumptions": "1 medium yellow bell pepper (119g) thinly sliced; typical edible weight without stem/seeds."
+    },
+    {
+      "position": 7,
+      "name": "Green Beans",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Green beans as listed 200g; standard raw trimmed values, assuming trimmed but full weight used."
+    },
+    {
+      "position": 8,
+      "name": "Courgettes",
+      "measurement": "1 sliced",
+      "grams": 124,
+      "assumptions": "1 medium courgette/zucchini (124g) sliced; typical whole edible weight for 1 unit."
+    },
+    {
+      "position": 9,
+      "name": "Kale",
+      "measurement": "100g shredded",
+      "grams": 100,
+      "assumptions": "Kale as listed 100g shredded; standard raw values for curly kale."
+    },
+    {
+      "position": 10,
+      "name": "Lentils",
+      "measurement": "250g pack",
+      "grams": 250,
+      "assumptions": "250g pack pre-cooked lentils (typical vacuum pack weight); values for cooked lentils, assuming drained ready-to-eat product common in such recipes."
+    }
+  ],
+  "nutrition": {
+    "calories": 1055.68,
+    "protein": 43.62,
+    "fat": 57.21,
+    "fiber": 39.87,
+    "carbs": 111.26
+  }
+}

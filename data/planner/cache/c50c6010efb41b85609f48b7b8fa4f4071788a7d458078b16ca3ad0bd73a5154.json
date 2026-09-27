@@ -1,0 +1,111 @@
+{
+  "id": "52956",
+  "name": "Chicken Congee",
+  "cuisine": "Chinese",
+  "fingerprint": "c50c6010efb41b85609f48b7b8fa4f4071788a7d458078b16ca3ad0bd73a5154",
+  "yield": 4,
+  "minutes": 55,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical congee recipes using 1/2 cup rice and 8 oz chicken (4 modest adult servings).",
+    "Total time summed from explicit instruction intervals (20-25 min simmer + 10 min chicken + negligible prep/stir times) plus ~10 min estimated for marinating/rinsing/setup; rounded to nearest 5 min.",
+    "Ginger cordial treated as ginger juice (no allergens added).",
+    "Spring onions, coriander, and ginger are fresh produce (no allergens).",
+    "No wheat, barley, rye, oats, or gluten-containing sauces listed; rice is plain white rice.",
+    "No dairy, eggs, fish, shellfish, tree nuts, peanuts, or soy listed.",
+    "Sesame left null (possible in some Chinese kitchens but not listed here).",
+    "All classifications based strictly on listed ingredients with no substitutions."
+  ],
+  "categories": ["breakfast", "lunch", "dinner"],
+  "instructions": "STEP 1 - MARINATING THE CHICKEN\r\nIn a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well.\r\nSet the chicken aside.\r\nSTEP 2 - RINSE THE WHITE RICE\r\nRinse the rice in a metal bowl or pot a couple times and then drain the water.\r\nSTEP 2 - BOILING THE WHITE RICE\r\nNext add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.\r\nAfter 25 minutes, this is optional but you can add a little bit more water to make rice porridge to make it less thick or to your preference.\r\nNext add the marinated chicken to the rice porridge and leave the stove on low heat for another 10 minutes.\r\nAfter an additional 10 minutes add the green onions, sliced ginger, 1 pinch of salt, 1 pinch of white pepper and stir for 10 seconds.\r\nServe the rice porridge in a bowl\r\nOptional: add Coriander on top of the rice porridge.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken",
+      "measurement": "8 oz",
+      "grams": 227,
+      "assumptions": "8 oz raw boneless skinless chicken breast, typical for congee; values for raw poultry meat."
+    },
+    {
+      "position": 2,
+      "name": "Salt",
+      "measurement": "pinch",
+      "grams": 1,
+      "assumptions": "Pinch of table salt used in marinade; negligible mass but included as 1 g for position completeness."
+    },
+    {
+      "position": 3,
+      "name": "Pepper",
+      "measurement": "pinch",
+      "grams": 1,
+      "assumptions": "Pinch of white pepper used in marinade; negligible mass but included as 1 g for position completeness."
+    },
+    {
+      "position": 4,
+      "name": "Ginger Cordial",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp ginger cordial/juice; treated as sweetened ginger extract with modest sugar content."
+    },
+    {
+      "position": 5,
+      "name": "Ginger",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp grated fresh ginger added during cooking; typical density and nutrient profile for raw ginger root."
+    },
+    {
+      "position": 6,
+      "name": "Spring Onions",
+      "measurement": "1 tbs",
+      "grams": 6,
+      "assumptions": "1 tbs chopped spring onions/green onions added at end; typical for garnish in congee."
+    },
+    {
+      "position": 7,
+      "name": "Rice",
+      "measurement": "1/2 cup",
+      "grams": 100,
+      "assumptions": "1/2 cup uncooked white rice (standard long-grain); ~100 g dry weight before rinsing and boiling."
+    },
+    {
+      "position": 8,
+      "name": "Water",
+      "measurement": "8 cups",
+      "grams": 1900,
+      "assumptions": "8 cups water used to cook rice into porridge; standard US cup = 237 ml each, total ~1.9 L, treated as pure water with zero macros."
+    },
+    {
+      "position": 9,
+      "name": "Coriander",
+      "measurement": "2 oz",
+      "grams": 57,
+      "assumptions": "2 oz fresh coriander/cilantro as optional topping; typical raw leafy herb values."
+    }
+  ],
+  "nutrition": {
+    "calories": 757.18,
+    "protein": 78.77,
+    "fat": 9.18,
+    "fiber": 3.09,
+    "carbs": 83.16
+  }
+}

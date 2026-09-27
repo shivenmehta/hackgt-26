@@ -1,0 +1,181 @@
+{
+  "id": "52934",
+  "name": "Chicken Basquaise",
+  "cuisine": "French",
+  "fingerprint": "3cf3fe4decbe8d03ed62db5e8109a6f25721074c94118887fdcc9c7f10ec92e4",
+  "yield": 4,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 4 based on 1.5 kg chicken + 300 g rice quantities standard for 4 adult portions in similar casseroles",
+    "Total time estimated from instructions: ~20 min browning/frying + 10 min onions + 5 min peppers + 3 min chorizo mix + 50 min oven = ~88 min rounded to 90",
+    "Butter listed so dairy present",
+    "No wheat, barley, rye or oats so gluten-free",
+    "No obvious tree nuts, peanuts, fish, shellfish, eggs, soy or sesame",
+    "Chicken, chorizo, chicken stock and butter confirm non-vegetarian/vegan/pescatarian",
+    "Sun-dried tomatoes assumed oil-packed but no ambiguous sauces",
+    "All measurements and classifications derived only from listed ingredients and steps"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Preheat the oven to 180°C/Gas mark 4. Have the chicken joints ready to cook. Heat the butter and 3 tbsp olive oil in a flameproof casserole or large frying pan. Brown the chicken pieces in batches on both sides, seasoning them with salt and pepper as you go. Don't crowd the pan - fry the chicken in small batches, removing the pieces to kitchen paper as they are done.\r\n\r\nAdd a little more olive oil to the casserole and fry the onions over a medium heat for 10 minutes, stirring frequently, until softened but not browned. Add the rest of the oil, then the peppers and cook for another 5 minutes.\r\n\r\nAdd the chorizo, sun-dried tomatoes and garlic and cook for 2-3 minutes. Add the rice, stirring to ensure it is well coated in the oil. Stir in the tomato paste, paprika, bay leaves and chopped thyme. Pour in the stock and wine. When the liquid starts to bubble, turn the heat down to a gentle simmer. Press the rice down into the liquid if it isn't already submerged and place the chicken on top. Add the lemon wedges and olives around the chicken.\r\n\r\nCover and cook in the oven for 50 minutes. The rice should be cooked but still have some bite, and the chicken should have juices that run clear when pierced in the thickest part with a knife. If not, cook for another 5 minutes and check again.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken",
+      "measurement": "1.5kg",
+      "grams": 1500,
+      "assumptions": "Raw chicken joints with skin and bone; standard broiler values for whole bird edible portion."
+    },
+    {
+      "position": 2,
+      "name": "Butter",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "Standard unsalted butter."
+    },
+    {
+      "position": 3,
+      "name": "Olive Oil",
+      "measurement": "6 tblsp",
+      "grams": 81,
+      "assumptions": "6 tbsp olive oil (14 g per tbsp standard measure); entire amount used for browning and frying."
+    },
+    {
+      "position": 4,
+      "name": "Red Onions",
+      "measurement": "2 sliced",
+      "grams": 300,
+      "assumptions": "2 medium-large red onions, sliced; typical edible weight after peeling."
+    },
+    {
+      "position": 5,
+      "name": "Red Pepper",
+      "measurement": "3 Large",
+      "grams": 600,
+      "assumptions": "3 large red bell peppers; typical whole trimmed edible weight after deseeding."
+    },
+    {
+      "position": 6,
+      "name": "Chorizo",
+      "measurement": "130g",
+      "grams": 130,
+      "assumptions": "Firm chorizo sausage, typical cured Spanish-style values."
+    },
+    {
+      "position": 7,
+      "name": "Sun-Dried Tomatoes",
+      "measurement": "8",
+      "grams": 80,
+      "assumptions": "8 typical oil-packed sun-dried tomato halves, drained weight estimate from standard jar portion."
+    },
+    {
+      "position": 8,
+      "name": "Garlic",
+      "measurement": "6 cloves sliced",
+      "grams": 18,
+      "assumptions": "6 medium garlic cloves, sliced; standard peeled weight ~3 g each."
+    },
+    {
+      "position": 9,
+      "name": "Basmati Rice",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Uncooked white basmati rice, dry weight as listed."
+    },
+    {
+      "position": 10,
+      "name": "Tomato Puree",
+      "measurement": "drizzle",
+      "grams": 15,
+      "assumptions": "'Drizzle' of tomato puree estimated as 1 tbsp (15 g) based on typical recipe use for coating rice."
+    },
+    {
+      "position": 11,
+      "name": "Paprika",
+      "measurement": "½ tsp",
+      "grams": 1,
+      "assumptions": "½ tsp smoked or sweet paprika; standard teaspoon weight ~1 g."
+    },
+    {
+      "position": 12,
+      "name": "Bay Leaves",
+      "measurement": "4",
+      "grams": 2,
+      "assumptions": "4 whole dried bay leaves; negligible edible weight and nutrition when used as flavoring."
+    },
+    {
+      "position": 13,
+      "name": "Thyme",
+      "measurement": "Handful",
+      "grams": 10,
+      "assumptions": "Handful of fresh thyme sprigs; typical small bunch weight used as herb, mostly leaves."
+    },
+    {
+      "position": 14,
+      "name": "Chicken Stock",
+      "measurement": "350ml",
+      "grams": 350,
+      "assumptions": "Prepared chicken stock; standard low-sodium values per ml (density ~1 g/ml)."
+    },
+    {
+      "position": 15,
+      "name": "Dry White Wine",
+      "measurement": "180g",
+      "grams": 180,
+      "assumptions": "Dry white wine; standard values, weight given directly."
+    },
+    {
+      "position": 16,
+      "name": "Lemons",
+      "measurement": "2",
+      "grams": 200,
+      "assumptions": "2 medium lemons cut into wedges; typical whole edible weight including peel."
+    },
+    {
+      "position": 17,
+      "name": "Black Olives",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Pitted or whole black olives, drained; typical cured values."
+    },
+    {
+      "position": 18,
+      "name": "Salt",
+      "measurement": "to serve",
+      "grams": 5,
+      "assumptions": "Salt 'to serve'; estimated small total amount used in recipe and at table, nutrition negligible."
+    },
+    {
+      "position": 19,
+      "name": "Pepper",
+      "measurement": "to serve",
+      "grams": 3,
+      "assumptions": "Pepper 'to serve'; estimated small total amount used in recipe and at table, nutrition negligible."
+    }
+  ],
+  "nutrition": {
+    "calories": 5930.33,
+    "protein": 543.88,
+    "fat": 233.17,
+    "fiber": 37.25,
+    "carbs": 363.65
+  }
+}

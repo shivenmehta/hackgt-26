@@ -1,0 +1,95 @@
+{
+  "id": "52915",
+  "name": "French Omelette",
+  "cuisine": "French",
+  "fingerprint": "21d183496df9eb12ac20146ce3171bfe7db64ec8f67b44db4c23669649a9cc41",
+  "yield": 1,
+  "minutes": 10,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe is for a single omelette based on 3 eggs and the described cooking method in a 20cm pan, which is a standard single-serving size.",
+    "Preparation and cooking time estimated from the sequential instructions (prep of ingredients, heating pan, cooking with stirring/shaking/folding steps); total active time is short and under 15 minutes.",
+    "Herbs (tarragon, parsley, chives) are treated as compatible with all listed diets and absent from all listed allergens.",
+    "Cheeses (Parmesan, Gruyère) and butter classified as dairy, making the recipe non-vegan and non-dairy-free.",
+    "No gluten-containing ingredients (e.g., no wheat, barley, rye, or uncertified oats) are present.",
+    "No fish, shellfish, tree nuts, peanuts, soy, or sesame are present in the ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Get everything ready. Warm a 20cm (measured across the top) non-stick frying pan on a medium heat. Crack the eggs into a bowl and beat them with a fork so they break up and mix, but not as completely as you would for scrambled egg. With the heat on medium-hot, drop one knob of butter into the pan. It should bubble and sizzle, but not brown. Season the eggs with the Parmesan and a little salt and pepper, and pour into the pan.\r\nLet the eggs bubble slightly for a couple of seconds, then take a wooden fork or spatula and gently draw the mixture in from the sides of the pan a few times, so it gathers in folds in the centre. Leave for a few seconds, then stir again to lightly combine uncooked egg with cooked. Leave briefly again, and when partly cooked, stir a bit faster, stopping while there’s some barely cooked egg left. With the pan flat on the heat, shake it back and forth a few times to settle the mixture. It should slide easily in the pan and look soft and moist on top. A quick burst of heat will brown the underside.\r\nGrip the handle underneath. Tilt the pan down away from you and let the omelette fall to the edge. Fold the side nearest to you over by a third with your fork, and keep it rolling over, so the omelette tips onto a plate – or fold it in half, if that’s easier. For a neat finish, cover the omelette with a piece of kitchen paper and plump it up a bit with your fingers. Rub the other knob of butter over to glaze. Serve immediately.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Eggs",
+      "measurement": "3",
+      "grams": 150,
+      "assumptions": "Standard large whole eggs; 50 g each including shell but using edible portion only."
+    },
+    {
+      "position": 2,
+      "name": "Butter",
+      "measurement": "2 knobs",
+      "grams": 20,
+      "assumptions": "Two typical knobs of butter; each knob assumed as 10 g (common household measure for cooking)."
+    },
+    {
+      "position": 3,
+      "name": "Parmesan",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp finely grated Parmesan cheese; standard teaspoon volume converted to weight."
+    },
+    {
+      "position": 4,
+      "name": "Tarragon Leaves",
+      "measurement": "3 chopped",
+      "grams": 3,
+      "assumptions": "3 g fresh tarragon leaves (plausible small amount for '3 chopped' in an omelette; typical fresh herb density)."
+    },
+    {
+      "position": 5,
+      "name": "Parsley",
+      "measurement": "1 tbs chopped",
+      "grams": 4,
+      "assumptions": "4 g fresh parsley (1 tbs chopped converted to weight; standard density for chopped fresh parsley)."
+    },
+    {
+      "position": 6,
+      "name": "Chives",
+      "measurement": "1 tbs chopped",
+      "grams": 4,
+      "assumptions": "4 g fresh chives (1 tbs chopped converted to weight; similar density to parsley)."
+    },
+    {
+      "position": 7,
+      "name": "Gruyère",
+      "measurement": "4 tbs",
+      "grams": 30,
+      "assumptions": "4 tbs grated Gruyère cheese; standard tablespoon volume for grated cheese converted to weight (approx 7–8 g per tbs)."
+    }
+  ],
+  "nutrition": {
+    "calories": 506.74,
+    "protein": 30.29,
+    "fat": 42.18,
+    "fiber": 0.29,
+    "carbs": 1.94
+  }
+}

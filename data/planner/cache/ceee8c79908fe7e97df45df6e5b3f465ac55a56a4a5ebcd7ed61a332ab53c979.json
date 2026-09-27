@@ -1,0 +1,144 @@
+{
+  "id": "52808",
+  "name": "Lamb Rogan josh",
+  "cuisine": "Indian",
+  "fingerprint": "ceee8c79908fe7e97df45df6e5b3f465ac55a56a4a5ebcd7ed61a332ab53c979",
+  "yield": 4,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 1kg lamb plus other ingredients, typical for 4 adult main-dish servings of Indian curry.",
+    "Total time is sum of active prep (~30 min for chopping, frying, simmering start) plus 40-60 min covered simmer; rounded to 90 min as conservative midpoint estimate from instructions.",
+    "Greek yogurt confirms dairy (milk) allergen present.",
+    "Madras paste is a compound ingredient whose exact composition is unspecified; conservatively null for ambiguous allergens (e.g. possible fish, wheat, soy, sesame in some commercial pastes).",
+    "No explicit gluten sources (barley/rye/wheat) listed; Madras paste ambiguity leaves gluten-free as null rather than confidently true.",
+    "No substitutions or external data used; classification based solely on listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Put the onions in a food processor and whizz until very finely chopped. Heat the oil in a large heavy-based pan, then fry the onion with the lid on, stirring every now and then, until it is really golden and soft. Add the garlic and ginger, then fry for 5 mins more.\r\nTip the curry paste, all the spices and the bay leaves into the pan, with the tomato purée. Stir well over the heat for about 30 secs, then add the meat and 300ml water. Stir to mix, turn down the heat, then add the yogurt.\r\nCover the pan, then gently simmer for 40-60 mins until the meat is tender and the sauce nice and thick. Serve scattered with coriander, with plain basmati or pilau rice.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Onion",
+      "measurement": "2 quartered",
+      "grams": 300,
+      "assumptions": "2 medium onions, approx 150g each, raw weight; typical for quartered onions in curry base."
+    },
+    {
+      "position": 2,
+      "name": "Sunflower Oil",
+      "measurement": "4 tbsp",
+      "grams": 60,
+      "assumptions": "4 tbsp sunflower oil; standard density ~15ml/tbsp, total 60ml, nearly 100% fat."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "4 cloves",
+      "grams": 20,
+      "assumptions": "4 average garlic cloves, ~5g each, raw; typical for Indian recipes."
+    },
+    {
+      "position": 4,
+      "name": "Ginger",
+      "measurement": "Thumb sized peeled and very finely grated",
+      "grams": 20,
+      "assumptions": "Thumb-sized piece of fresh ginger (~20g peeled); standard estimate for grated ginger in curry."
+    },
+    {
+      "position": 5,
+      "name": "Madras Paste",
+      "measurement": "2 tbsp",
+      "grams": 40,
+      "assumptions": "2 tbsp Madras curry paste; typical commercial Indian paste values, ~20g/tbsp."
+    },
+    {
+      "position": 6,
+      "name": "Paprika",
+      "measurement": "2 tsp",
+      "grams": 5,
+      "assumptions": "2 tsp paprika; standard spice density ~2.5g/tsp, total 5g."
+    },
+    {
+      "position": 7,
+      "name": "cinnamon stick",
+      "measurement": "1",
+      "grams": 3,
+      "assumptions": "1 cinnamon stick, typical 3g whole spice; nutrients based on ground cinnamon as proxy."
+    },
+    {
+      "position": 8,
+      "name": "Cardamom",
+      "measurement": "6 bashed to break shells",
+      "grams": 4,
+      "assumptions": "6 cardamom pods, bashed, ~0.7g each total ~4g; typical whole spice values."
+    },
+    {
+      "position": 9,
+      "name": "Cloves",
+      "measurement": "4",
+      "grams": 3,
+      "assumptions": "4 whole cloves, ~0.7g each total ~3g; typical whole spice values."
+    },
+    {
+      "position": 10,
+      "name": "Bay Leaf",
+      "measurement": "2",
+      "grams": 1,
+      "assumptions": "2 bay leaves, ~0.5g each total 1g; typical dried herb values."
+    },
+    {
+      "position": 11,
+      "name": "Tomato Purée",
+      "measurement": "1 tbsp",
+      "grams": 15,
+      "assumptions": "1 tbsp tomato purée/paste; standard ~15g, concentrated tomato values."
+    },
+    {
+      "position": 12,
+      "name": "Lamb",
+      "measurement": "1kg cubed",
+      "grams": 1000,
+      "assumptions": "1kg boneless lamb shoulder/leg cubes, raw; typical values for stewing lamb with moderate fat."
+    },
+    {
+      "position": 13,
+      "name": "Greek yogurt",
+      "measurement": "150ml",
+      "grams": 150,
+      "assumptions": "150ml Greek yogurt; density ~1g/ml, full-fat strained yogurt values."
+    },
+    {
+      "position": 14,
+      "name": "Coriander",
+      "measurement": "Garnish chopped",
+      "grams": 10,
+      "assumptions": "Chopped fresh coriander (cilantro) as garnish; typical small bunch portion used for scattering."
+    }
+  ],
+  "nutrition": {
+    "calories": 3513.6,
+    "protein": 223.53,
+    "fat": 275.96,
+    "fiber": 15.73,
+    "carbs": 68.01
+  }
+}

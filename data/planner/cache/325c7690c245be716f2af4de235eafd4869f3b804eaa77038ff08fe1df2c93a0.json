@@ -1,0 +1,138 @@
+{
+  "id": "52924",
+  "name": "Nanaimo Bars",
+  "cuisine": "Canadian",
+  "fingerprint": "325c7690c245be716f2af4de235eafd4869f3b804eaa77038ff08fe1df2c93a0",
+  "yield": 16,
+  "minutes": 150,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": true,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from standard Nanaimo bar recipes using a 20cm square tin, typically cut into 16 squares.",
+    "Preparation time is sum of active steps (melting, mixing, whisking, spreading) plus minimum chilling times (10 min base + 10 min middle + 120 min top) rounded to nearest 10; actual elapsed time may vary.",
+    "Custard and custard powder treated as non-dairy dry powder (e.g. Bird's brand).",
+    "Digestive biscuits assumed to contain wheat flour.",
+    "Almonds treated as tree nuts; no other nuts specified.",
+    "Dark chocolate assumed dairy-free but not guaranteed; conservative dairy-free classification is false due to butter and cream elsewhere.",
+    "No sesame, fish, shellfish, peanuts, or soy ingredients listed."
+  ],
+  "categories": [],
+  "instructions": "Start by making the biscuit base. In a bowl, over a pan of simmering water, melt the butter with the sugar and cocoa powder, stirring occasionally until smooth. Whisk in the egg for 2 to 3 mins until the mixture has thickened. Remove from heat and mix in the biscuit crumbs, coconut and almonds if using, then press into the base of a lined 20cm square tin. Chill for 10 mins.\r\nFor the middle layer, make the custard icing; whisk together the butter, cream and custard powder until light and fluffy, then gradually add the icing sugar until fully incorporated. Spread over the bottom layer and chill in the fridge for at least 10 mins until the custard is no longer soft.\r\nMelt the chocolate and butter together in the microwave, then spread over the chilled bars and put back in the fridge. Leave until the chocolate has fully set (about 2 hrs). Take the mixture out of the tin and slice into squares to serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vwuprt1511813703.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Custard",
+      "measurement": "125g",
+      "grams": 125,
+      "assumptions": "Standard vanilla custard powder (e.g. Bird's); values for dry powder only."
+    },
+    {
+      "position": 2,
+      "name": "Caster Sugar",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Granulated caster sugar."
+    },
+    {
+      "position": 3,
+      "name": "Cocoa",
+      "measurement": "5 tbs",
+      "grams": 30,
+      "assumptions": "Unsweetened cocoa powder; 5 tbs ≈ 30 g."
+    },
+    {
+      "position": 4,
+      "name": "Egg",
+      "measurement": "1 beaten",
+      "grams": 50,
+      "assumptions": "1 large beaten egg ≈ 50 g edible portion."
+    },
+    {
+      "position": 5,
+      "name": "Digestive Biscuits",
+      "measurement": "200g shredded",
+      "grams": 200,
+      "assumptions": "Digestive biscuits, crushed/shredded; typical sweet biscuit values."
+    },
+    {
+      "position": 6,
+      "name": "Desiccated Coconut",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Unsweetened desiccated coconut."
+    },
+    {
+      "position": 7,
+      "name": "Almonds",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Chopped or ground almonds."
+    },
+    {
+      "position": 8,
+      "name": "Butter",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Unsalted butter for base layer."
+    },
+    {
+      "position": 9,
+      "name": "Double Cream",
+      "measurement": "4 tbs",
+      "grams": 60,
+      "assumptions": "Heavy/double cream; 4 tbs ≈ 60 ml (density ≈ 1 g/ml)."
+    },
+    {
+      "position": 10,
+      "name": "Custard Powder",
+      "measurement": "3 tbs",
+      "grams": 23,
+      "assumptions": "Custard powder (same as position 1); 3 tbs ≈ 23 g."
+    },
+    {
+      "position": 11,
+      "name": "Icing Sugar",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Powdered/icing sugar."
+    },
+    {
+      "position": 12,
+      "name": "Dark Chocolate",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Dark/semi-sweet chocolate (≈50-60 % cocoa)."
+    },
+    {
+      "position": 13,
+      "name": "Butter",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Unsalted butter for chocolate topping layer."
+    }
+  ],
+  "nutrition": {
+    "calories": 5877.3,
+    "protein": 61.6,
+    "fat": 348.12,
+    "fiber": 49.6,
+    "carbs": 679.7
+  }
+}

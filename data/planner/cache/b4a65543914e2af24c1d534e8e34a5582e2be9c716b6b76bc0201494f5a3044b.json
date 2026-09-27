@@ -1,0 +1,109 @@
+{
+  "id": "52987",
+  "name": "Lasagna Sandwiches",
+  "cuisine": "American",
+  "fingerprint": "b4a65543914e2af24c1d534e8e34a5582e2be9c716b6b76bc0201494f5a3044b",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 8 slices of bread making 4 closed sandwiches, consistent with nutrition facts stating '1 sandwich'.",
+    "Total time estimated from quick assembly (step 1) and skillet toasting/melting (step 2); no explicit prep or cook times given.",
+    "Sour cream, mozzarella, and butter confirm dairy.",
+    "Bread assumed to contain wheat gluten (standard sandwich bread).",
+    "Bacon confirms non-vegetarian/vegan.",
+    "No egg, fish, shellfish, nuts, peanuts, soy, or sesame listed; ambiguous items marked null."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "1. In a small bowl, combine the first four ingredients; spread on four slices of bread. Layer with bacon, tomato and cheese; top with remaining bread.\r\n\r\n2. In a large skillet or griddle, melt 2 tablespoons butter. Toast sandwiches until lightly browned on both sides and cheese is melted, adding butter if necessary.\r\n\r\nNutrition Facts\r\n1 sandwich: 445 calories, 24g fat (12g saturated fat), 66mg cholesterol, 1094mg sodium, 35g carbohydrate (3g sugars, 2g fiber), 21g protein.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xr0n4r1576788363.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sour Cream",
+      "measurement": "1/4 cup",
+      "grams": 60,
+      "assumptions": "Standard full-fat sour cream; 1/4 cup = 60g."
+    },
+    {
+      "position": 2,
+      "name": "Chopped Onion",
+      "measurement": "2 tbs",
+      "grams": 20,
+      "assumptions": "Chopped raw onion; 2 Tbsp = 20g."
+    },
+    {
+      "position": 3,
+      "name": "Dried Oregano",
+      "measurement": "1/2 tbs",
+      "grams": 3,
+      "assumptions": "Dried oregano leaves; 1/2 Tbsp ≈ 3g (small volume spice)."
+    },
+    {
+      "position": 4,
+      "name": "Salt",
+      "measurement": "1/4 tsp",
+      "grams": 1.5,
+      "assumptions": "Table salt; 1/4 tsp ≈ 1.5g (negligible macros)."
+    },
+    {
+      "position": 5,
+      "name": "Bread",
+      "measurement": "8 slices",
+      "grams": 200,
+      "assumptions": "Typical white sandwich bread; 8 slices ≈ 200g total (25g/slice)."
+    },
+    {
+      "position": 6,
+      "name": "Bacon",
+      "measurement": "8 slices",
+      "grams": 240,
+      "assumptions": "Cooked pork bacon; 8 slices ≈ 240g total (30g/slice after cooking)."
+    },
+    {
+      "position": 7,
+      "name": "Tomato",
+      "measurement": "8 slices",
+      "grams": 120,
+      "assumptions": "Raw red tomato slices; 8 slices ≈ 120g total (15g/slice)."
+    },
+    {
+      "position": 8,
+      "name": "Mozzarella",
+      "measurement": "4 slices",
+      "grams": 112,
+      "assumptions": "Low-moisture part-skim mozzarella cheese; 4 slices ≈ 112g total (28g/slice)."
+    },
+    {
+      "position": 9,
+      "name": "Butter",
+      "measurement": "2 1/2 Tbs",
+      "grams": 35,
+      "assumptions": "Butter for toasting; 2.5 Tbsp ≈ 35g (recipe calls for 2 Tbsp plus extra as needed; plausible total used)."
+    }
+  ],
+  "nutrition": {
+    "calories": 2568.7,
+    "protein": 135.39,
+    "fat": 172.37,
+    "fiber": 8.46,
+    "carbs": 115.23
+  }
+}

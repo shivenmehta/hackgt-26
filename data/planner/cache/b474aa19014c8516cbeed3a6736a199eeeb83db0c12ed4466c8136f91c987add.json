@@ -1,0 +1,108 @@
+{
+  "id": "52842",
+  "name": "Broccoli & Stilton soup",
+  "cuisine": "British",
+  "fingerprint": "b474aa19014c8516cbeed3a6736a199eeeb83db0c12ed4466c8136f91c987add",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on 1.5-2L total liquid + vegetables typical for soup recipes of this type from BBC Good Food.",
+    "Preparation time of 35 minutes estimated from sequential instruction steps (onion ~5min, sweat ~5min, simmer 10-15min, broccoli 5min, blending/seasoning ~5min) excluding any parallel activity.",
+    "Stilton cheese confirms dairy/milk allergen and is incompatible with vegan and dairy-free diets.",
+    "No wheat, barley, rye or oats listed; gluten-free classified true.",
+    "No explicit egg, fish, shellfish, tree nuts, peanuts, soy or sesame ingredients; classified null where presence cannot be ruled out due to potential cross-contact in stock or unspecified processing."
+  ],
+  "categories": [],
+  "instructions": "Heat the rapeseed oil in a large saucepan and then add the onions. Cook on a medium heat until soft. Add a splash of water if the onions start to catch.\r\n\r\nAdd the celery, leek, potato and a knob of butter. Stir until melted, then cover with a lid. Allow to sweat for 5 minutes. Remove the lid.\r\n\r\nPour in the stock and add any chunky bits of broccoli stalk. Cook for 10 – 15 minutes until all the vegetables are soft.\r\n\r\nAdd the rest of the broccoli and cook for a further 5 minutes. Carefully transfer to a blender and blitz until smooth. Stir in the stilton, allowing a few lumps to remain. Season with black pepper and serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Rapeseed Oil",
+      "measurement": "2 tblsp",
+      "grams": 28,
+      "assumptions": "2 tbsp rapeseed oil estimated at 28g total using standard tablespoon conversion (14g per tbsp); typical vegetable oil values used as proxy for rapeseed."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 finely chopped",
+      "grams": 110,
+      "assumptions": "1 medium onion finely chopped estimated at 110g edible portion (raw weight)."
+    },
+    {
+      "position": 3,
+      "name": "Celery",
+      "measurement": "1",
+      "grams": 40,
+      "assumptions": "1 celery stalk estimated at 40g edible raw weight."
+    },
+    {
+      "position": 4,
+      "name": "Leek",
+      "measurement": "1 sliced",
+      "grams": 90,
+      "assumptions": "1 leek sliced estimated at 90g edible raw portion (white and light green parts)."
+    },
+    {
+      "position": 5,
+      "name": "Potatoes",
+      "measurement": "1 medium",
+      "grams": 150,
+      "assumptions": "1 medium potato estimated at 150g raw peeled weight; values for raw potato."
+    },
+    {
+      "position": 6,
+      "name": "Butter",
+      "measurement": "1 knob",
+      "grams": 15,
+      "assumptions": "1 knob of butter estimated at 15g (common recipe amount for 'knob'); standard butter nutrition used."
+    },
+    {
+      "position": 7,
+      "name": "Vegetable Stock",
+      "measurement": "1 litre hot",
+      "grams": 1000,
+      "assumptions": "1 litre hot vegetable stock estimated at 1000g total weight; typical low-calorie commercial stock values used."
+    },
+    {
+      "position": 8,
+      "name": "Broccoli",
+      "measurement": "1 Head chopped",
+      "grams": 400,
+      "assumptions": "1 head broccoli chopped estimated at 400g total edible raw weight (florets + stalks); standard raw broccoli values."
+    },
+    {
+      "position": 9,
+      "name": "Stilton Cheese",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "Stilton cheese given directly as 140g; typical blue cheese values used (fiber rounded to 0)."
+    }
+  ],
+  "nutrition": {
+    "calories": 1286.87,
+    "protein": 52.45,
+    "fat": 87.74,
+    "fiber": 17.83,
+    "carbs": 84.92
+  }
+}

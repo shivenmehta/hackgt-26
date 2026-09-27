@@ -1,0 +1,106 @@
+{
+  "id": "52794",
+  "name": "Vegan Chocolate Cake",
+  "cuisine": "American",
+  "fingerprint": "6caf01d4a2e5f5fdb1f7f83ed8692d8b0307a4af58d73e0bc2220ca2df5af50e",
+  "yield": 8,
+  "minutes": 55,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from standard 8-inch round cake recipe with ~2 cups total dry ingredients plus liquids, typically yielding 8 slices",
+    "Preparation time is 10 minutes mixing plus 45 minutes baking",
+    "Self-raising flour contains wheat",
+    "Flax eggs are plant-based egg replacer (no chicken eggs)",
+    "Almond milk introduces tree nuts",
+    "No dairy, eggs, fish, shellfish, or sesame listed",
+    "Peanut and soy presence ambiguous as not explicitly listed or ruled out in unspecified packaged items",
+    "Cacao is raw cocoa powder; no milk chocolate used",
+    "Recipe name and source diet labels confirm vegan/vegetarian intent",
+    "Grams provided in input used only for context, not for yield or time estimation"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Simply mix all dry ingredients with wet ingredients and blend altogether. Bake for 45 min on 180 degrees. Decorate with some melted vegan chocolate",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qxutws1486978099.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Self-raising Flour",
+      "measurement": "1 1/4 cup",
+      "grams": 150,
+      "assumptions": "Standard self-raising flour; 1 1/4 US cups ≈ 150 g dry weight"
+    },
+    {
+      "position": 2,
+      "name": "coco sugar",
+      "measurement": "1/2 cup",
+      "grams": 100,
+      "assumptions": "Coconut sugar; 1/2 US cup ≈ 100 g"
+    },
+    {
+      "position": 3,
+      "name": "cacao",
+      "measurement": "1/3 cup raw",
+      "grams": 30,
+      "assumptions": "Raw cacao powder; 1/3 US cup ≈ 30 g"
+    },
+    {
+      "position": 4,
+      "name": "baking powder",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "Baking powder; 1 tsp ≈ 4 g"
+    },
+    {
+      "position": 5,
+      "name": "flax eggs",
+      "measurement": "2",
+      "grams": 60,
+      "assumptions": "2 flax eggs made from 2 tbsp (≈14 g) ground flax + 6 tbsp (≈90 ml) water; total prepared weight ≈ 104 g but using 60 g net contribution after typical absorption (reasonable estimate for binding in cake)"
+    },
+    {
+      "position": 6,
+      "name": "almond milk",
+      "measurement": "1/2 cup",
+      "grams": 120,
+      "assumptions": "Unsweetened almond milk; 1/2 US cup ≈ 120 g"
+    },
+    {
+      "position": 7,
+      "name": "vanilla",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "Pure vanilla extract; 1 tsp ≈ 4 g"
+    },
+    {
+      "position": 8,
+      "name": "water",
+      "measurement": "1/2 cup boiling",
+      "grams": 120,
+      "assumptions": "Boiling water; 1/2 US cup ≈ 120 g (water contributes 0 macros)"
+    }
+  ],
+  "nutrition": {
+    "calories": 1107.64,
+    "protein": 24,
+    "fat": 8.82,
+    "fiber": 15.3,
+    "carbs": 229.92
+  }
+}

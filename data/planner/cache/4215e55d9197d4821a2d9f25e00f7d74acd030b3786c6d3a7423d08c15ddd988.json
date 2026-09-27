@@ -1,0 +1,150 @@
+{
+  "id": "53028",
+  "name": "Shawarma",
+  "cuisine": "Egyptian",
+  "fingerprint": "4215e55d9197d4821a2d9f25e00f7d74acd030b3786c6d3a7423d08c15ddd988",
+  "yield": 6,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 6 pita breads listed as the serving vehicle plus typical shawarma wrap portions.",
+    "Total active prep and cook time summed from instructions (marinade mix ~5 min, sauce ~3 min, grilling ~10 min, resting ~5 min, assembly variable); overnight marination excluded as passive.",
+    "Greek yogurt classified as containing milk.",
+    "Pita bread classified as containing wheat.",
+    "No explicit tree nuts, peanuts, fish, shellfish, eggs, soy, or sesame in listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Combine the marinade ingredients in a large ziplock bag (or bowl).\r\nAdd the chicken and use your hands to make sure each piece is coated. If using a ziplock bag, I find it convenient to close the bag then massage the bag to disperse the rub all over each chicken piece.\r\nMarinate overnight or up to 24 hours.\r\nCombine the Yoghurt Sauce ingredients in a bowl and mix. Cover and put in the fridge until required (it will last for 3 days in the fridge).\r\nHeat grill/BBQ (or large heavy based pan on stove) on medium high. You should not need to oil it because the marinade has oil in it and also thigh fillets have fat. But if you are worried then oil your hotplate/grill. (See notes for baking)\r\nPlace chicken on the grill and cook the first side for 4 to 5 minutes until nicely charred, then turn and cook the other side for 3 to 4 minutes (the 2nd side takes less time).\r\nRemove chicken from the grill and cover loosely with foil. Set aside to rest for 5 minutes.\r\nTO SERVE\r\nSlice chicken and pile onto platter alongside flatbreads, Salad and the Yoghurt Sauce.\r\nTo make a wrap, get a piece of flatbread and smear with Yoghurt Sauce. Top with a bit of lettuce and tomato and Chicken Shawarma. Roll up and enjoy!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Thighs",
+      "measurement": "1 kg",
+      "grams": 1000,
+      "assumptions": "Boneless skinless chicken thighs, raw weight as listed; typical values for raw thigh meat."
+    },
+    {
+      "position": 2,
+      "name": "Coriander",
+      "measurement": "1 tbs",
+      "grams": 5,
+      "assumptions": "Ground coriander seed; 1 tbs ≈ 5 g typical spice density."
+    },
+    {
+      "position": 3,
+      "name": "Cumin",
+      "measurement": "1 tbs",
+      "grams": 6,
+      "assumptions": "Ground cumin; 1 tbs ≈ 6 g typical spice density."
+    },
+    {
+      "position": 4,
+      "name": "Cardamom",
+      "measurement": "1 tbs",
+      "grams": 6,
+      "assumptions": "Ground cardamom; 1 tbs ≈ 6 g typical spice density."
+    },
+    {
+      "position": 5,
+      "name": "Cayenne Pepper",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Ground cayenne pepper; 1 tsp ≈ 2 g typical spice density."
+    },
+    {
+      "position": 6,
+      "name": "Paprika",
+      "measurement": "2 tsp",
+      "grams": 5,
+      "assumptions": "Ground paprika; 2 tsp ≈ 5 g typical spice density."
+    },
+    {
+      "position": 7,
+      "name": "Lemon Juice",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Fresh lemon juice; 2 tbs = 30 ml ≈ 30 g."
+    },
+    {
+      "position": 8,
+      "name": "Olive Oil",
+      "measurement": "3 tbs",
+      "grams": 45,
+      "assumptions": "Olive oil; 3 tbs = 45 ml ≈ 45 g (density ≈1 g/ml)."
+    },
+    {
+      "position": 9,
+      "name": "Greek Yogurt",
+      "measurement": "1 cup",
+      "grams": 245,
+      "assumptions": "Plain Greek yogurt, non-fat typical; 1 cup ≈ 245 g standard weight."
+    },
+    {
+      "position": 10,
+      "name": "Garlic Clove",
+      "measurement": "1",
+      "grams": 3,
+      "assumptions": "Fresh garlic clove, peeled; 1 average clove ≈ 3 g."
+    },
+    {
+      "position": 11,
+      "name": "Cumin",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Ground cumin; 1 tsp ≈ 2 g typical spice density."
+    },
+    {
+      "position": 12,
+      "name": "Lemon Juice",
+      "measurement": "Splash",
+      "grams": 15,
+      "assumptions": "Fresh lemon juice splash; assumed 1 tbs (15 ml ≈ 15 g) as plausible for sauce."
+    },
+    {
+      "position": 13,
+      "name": "Lettuce",
+      "measurement": "Sliced",
+      "grams": 100,
+      "assumptions": "Shredded lettuce (e.g. iceberg or romaine); assumed 100 g total for 'sliced' serving amount in recipe context."
+    },
+    {
+      "position": 14,
+      "name": "Tomato",
+      "measurement": "Sliced",
+      "grams": 150,
+      "assumptions": "Sliced fresh tomato; assumed 150 g total (≈1 medium-large tomato) for 'sliced' serving amount."
+    },
+    {
+      "position": 15,
+      "name": "Pita Bread",
+      "measurement": "6",
+      "grams": 360,
+      "assumptions": "Pita bread; 6 average 60 g pitas (standard size) = 360 g total edible."
+    }
+  ],
+  "nutrition": {
+    "calories": 3441.04,
+    "protein": 304.04,
+    "fat": 135.96,
+    "fiber": 19.06,
+    "carbs": 235.24
+  }
+}

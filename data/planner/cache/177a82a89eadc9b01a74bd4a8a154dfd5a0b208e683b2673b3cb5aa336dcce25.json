@@ -1,0 +1,124 @@
+{
+  "id": "53010",
+  "name": "Lamb Tzatziki Burgers",
+  "cuisine": "Greek",
+  "fingerprint": "177a82a89eadc9b01a74bd4a8a154dfd5a0b208e683b2673b3cb5aa336dcce25",
+  "yield": 4,
+  "minutes": 25,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from explicit instruction to shape mixture into 4 burgers and serve in 4 buns.",
+    "Total time is sum of explicit instruction times (10 min bulgur boil + ~10 min for two-sided frying/barbecuing) plus ~5 min estimated for tzatziki prep, mixing, shaping, and assembly; no explicit total given.",
+    "Bulgur wheat classified as containing wheat (not gluten-free).",
+    "Greek yogurt classified as containing milk (dairy).",
+    "Buns classified as containing wheat (not gluten-free); assumed standard wheat-based buns with no contrary specification.",
+    "Olive oil, spices, garlic, cucumber, lamb mince, and mint introduce no listed allergens or dietary conflicts.",
+    "No tree nuts, peanuts, fish, shellfish, eggs, soy, or sesame in listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Tip the bulghar into a pan, cover with water and boil for 10 mins. Drain really well in a sieve, pressing out any excess water.\r\n\r\nTo make the tzatziki, squeeze and discard the juice from the cucumber, then mix into the yogurt with the chopped mint and a little salt.\r\n\r\nWork the bulghar into the lamb with the spices, garlic (if using) and seasoning, then shape into 4 burgers. Brush with a little oil and fry or barbecue for about 5 mins each side until cooked all the way through. Serve in the buns (toasted if you like) with the tzatziki, tomatoes, onion and a few mint leaves.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Bulgur Wheat",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "Standard dry bulgur wheat; entire 25g line used in recipe."
+    },
+    {
+      "position": 2,
+      "name": "Lamb Mince",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Raw ground lamb mince, typical 20% fat; entire 500g line used."
+    },
+    {
+      "position": 3,
+      "name": "Cumin",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Ground cumin; 1 tsp ≈ 2g, typical dried spice values."
+    },
+    {
+      "position": 4,
+      "name": "Coriander",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Ground coriander; 1 tsp ≈ 2g, typical dried spice values."
+    },
+    {
+      "position": 5,
+      "name": "Paprika",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Paprika; 1 tsp ≈ 2g, typical dried spice values."
+    },
+    {
+      "position": 6,
+      "name": "Garlic",
+      "measurement": "1 clove finely chopped",
+      "grams": 3,
+      "assumptions": "Raw garlic clove, finely chopped; 1 average clove ≈ 3g."
+    },
+    {
+      "position": 7,
+      "name": "Olive Oil",
+      "measurement": "For frying",
+      "grams": 15,
+      "assumptions": "Olive oil for frying; estimated 15 ml (≈1 tbsp total absorbed/used for 4 burgers)."
+    },
+    {
+      "position": 8,
+      "name": "Bun",
+      "measurement": "4",
+      "grams": 240,
+      "assumptions": "4 standard hamburger buns; ≈60g each, typical white bun values, entire line for 4 burgers."
+    },
+    {
+      "position": 9,
+      "name": "Cucumber",
+      "measurement": "Grated",
+      "grams": 150,
+      "assumptions": "Grated cucumber for tzatziki; estimated ½ large cucumber ≈150g edible portion after grating."
+    },
+    {
+      "position": 10,
+      "name": "Greek Yogurt",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Plain Greek yogurt; entire 200g line used in tzatziki."
+    },
+    {
+      "position": 11,
+      "name": "Mint",
+      "measurement": "2 tbs",
+      "grams": 10,
+      "assumptions": "Fresh mint leaves; 2 tbsp chopped ≈10g, used in tzatziki and garnish."
+    }
+  ],
+  "nutrition": {
+    "calories": 2508.57,
+    "protein": 129.84,
+    "fat": 153.7,
+    "fiber": 13.3,
+    "carbs": 153.88
+  }
+}

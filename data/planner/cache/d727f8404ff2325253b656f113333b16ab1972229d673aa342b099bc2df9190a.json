@@ -1,0 +1,108 @@
+{
+  "id": "52815",
+  "name": "French Lentils With Garlic and Thyme",
+  "cuisine": "French",
+  "fingerprint": "d727f8404ff2325253b656f113333b16ab1972229d673aa342b099bc2df9190a",
+  "yield": 4,
+  "minutes": 40,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from 2.25 cups dry lentils (yields ~6-7 cups cooked) divided into 4 main-dish portions",
+    "Total time is sum of active sauté (5-10 min) + simmer (20-25 min) rounded to nearest 5; excludes optional stock variation",
+    "All ingredients plant-based; optional chicken stock in note ignored per instructions to use listed ingredients",
+    "No wheat, gluten, dairy, animal, or common allergen ingredients present",
+    "Bay leaves assumed removed before serving and contribute negligible weight/allergens"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Place a large saucepan over medium heat and add oil. When hot, add chopped vegetables and sauté until softened, 5 to 10 minutes.\r\nAdd 6 cups water, lentils, thyme, bay leaves and salt. Bring to a boil, then reduce to a fast simmer.\r\nSimmer lentils until they are tender and have absorbed most of the water, 20 to 25 minutes. If necessary, drain any excess water after lentils have cooked. Serve immediately, or allow them to cool and reheat later.\r\nFor a fuller taste, use some chicken stock and reduce the water by the same amount.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "3 tablespoons",
+      "grams": 40.5,
+      "assumptions": "3 tbsp olive oil using standard 13.5 g per tbsp; pure oil values"
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1",
+      "grams": 110,
+      "assumptions": "1 medium onion, chopped, raw edible portion"
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "2 cloves",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves, raw, peeled"
+    },
+    {
+      "position": 4,
+      "name": "Carrots",
+      "measurement": "1",
+      "grams": 61,
+      "assumptions": "1 medium carrot, chopped, raw edible portion"
+    },
+    {
+      "position": 5,
+      "name": "French Lentils",
+      "measurement": "2 1/4 cups",
+      "grams": 414,
+      "assumptions": "2 1/4 cups dry French (Puy) lentils using 184 g per cup; typical dry legume density and raw nutrient profile"
+    },
+    {
+      "position": 6,
+      "name": "Thyme",
+      "measurement": "1 teaspoon",
+      "grams": 1,
+      "assumptions": "1 tsp dried thyme leaves; standard teaspoon weight and herb nutrition"
+    },
+    {
+      "position": 7,
+      "name": "Bay Leaf",
+      "measurement": "3",
+      "grams": 2,
+      "assumptions": "3 bay leaves; negligible edible weight and contribution after cooking/removal"
+    },
+    {
+      "position": 8,
+      "name": "Salt",
+      "measurement": "1 tablespoon",
+      "grams": 18,
+      "assumptions": "1 tbsp table salt; standard 18 g per tbsp, zero macros"
+    },
+    {
+      "position": 9,
+      "name": "Celery",
+      "measurement": "2 sticks",
+      "grams": 80,
+      "assumptions": "2 medium celery sticks, chopped, raw edible portion"
+    }
+  ],
+  "nutrition": {
+    "calories": 1907.06,
+    "protein": 109.57,
+    "fat": 45.5,
+    "fiber": 49.42,
+    "carbs": 283.19
+  }
+}

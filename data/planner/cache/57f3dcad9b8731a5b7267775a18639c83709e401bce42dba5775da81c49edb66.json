@@ -1,0 +1,133 @@
+{
+  "id": "52833",
+  "name": "Salted Caramel Cheescake",
+  "cuisine": "American",
+  "fingerprint": "57f3dcad9b8731a5b7267775a18639c83709e401bce42dba5775da81c49edb66",
+  "yield": 12,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe is a no-bake cheesecake that sets in the fridge overnight; active preparation time estimated from instructions as 30 minutes.",
+    "Yield estimated as 12 slices based on standard 8-inch springform tin cheesecake recipes.",
+    "Digestive biscuits classified as containing wheat.",
+    "Pretzels classified as containing wheat.",
+    "Butter, cream cheese, and double cream classified as dairy.",
+    "Caramel, caramel sauce, and toffee popcorn assumed to contain dairy but no egg, fish, shellfish, tree nuts, peanuts, or sesame.",
+    "Vanilla extract, icing sugar, and sea salt introduce no allergens.",
+    "Toffee popcorn assumed to contain dairy but no other listed allergens.",
+    "No compound sauces or ingredients that would introduce ambiguous allergens beyond those noted."
+  ],
+  "categories": [],
+  "instructions": "1) Blitz the biscuits and the pretzels in a food processor and mix the biscuits with the melted butter. Spread on the bottom of an 8″/20cm Deep Springform Tin and press down firmly. Leave to set in the fridge whilst you make the rest!\r\n\r\n2) Using an electric mixer, I use my KitchenAid with the whisk attachment, whisk together the cream cheese, vanilla, and icing sugar until smooth and then add the caramel and whisk again until smooth and lump free – this could take a couple of minutes, I whisk it at half speed so not too quick or slow!\r\n\r\n3) Pour in the double cream & Salt flakes and continue to whisk for a couple of minutes until its very thick and mousse like (I mix it on a medium speed, level 6/10) – Now this could take up to 5 minutes depending on your mixer, but you seriously have to stick at it – it will hold itself completely when finished mixing (like a meringue does!) If you don’t mix it enough it will not set well enough, but don’t get impatient and whisk it really quick because that’ll make it split! Spread over the biscuit base and leave to set in the fridge overnight.\r\n\r\n4) Remove the Cheesecake from the tin carefully and decorate the cheesecake – I drizzled over some of the spare caramel, and then some Toffee Popcorn and more Pretzels!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xqrwyr1511133646.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Digestive Biscuits",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Standard digestive biscuits; values reflect typical UK digestive biscuit nutrition."
+    },
+    {
+      "position": 2,
+      "name": "Pretzels",
+      "measurement": "75g",
+      "grams": 75,
+      "assumptions": "Standard salted pretzels; typical values for hard pretzels."
+    },
+    {
+      "position": 3,
+      "name": "Butter",
+      "measurement": "135g",
+      "grams": 135,
+      "assumptions": "Unsalted butter; standard butter nutrition."
+    },
+    {
+      "position": 4,
+      "name": "Cream Cheese",
+      "measurement": "450g",
+      "grams": 450,
+      "assumptions": "Full-fat cream cheese (e.g. Philadelphia style); typical values."
+    },
+    {
+      "position": 5,
+      "name": "Vanilla Extract",
+      "measurement": "1tsp",
+      "grams": 5,
+      "assumptions": "1 tsp vanilla extract ≈ 5 g; alcohol-based extract nutrition."
+    },
+    {
+      "position": 6,
+      "name": "Icing Sugar",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Standard powdered icing sugar; almost pure sucrose."
+    },
+    {
+      "position": 7,
+      "name": "Caramel",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Typical thick caramel sauce or dulce de leche style; assumed similar to the 'Caramel Sauce' later in recipe."
+    },
+    {
+      "position": 8,
+      "name": "Sea Salt",
+      "measurement": "1tsp",
+      "grams": 5,
+      "assumptions": "1 tsp sea salt flakes ≈ 5 g; pure salt contributes zero macros."
+    },
+    {
+      "position": 9,
+      "name": "Double Cream",
+      "measurement": "300ml",
+      "grams": 300,
+      "assumptions": "Heavy/double cream; standard UK double cream values (≈48% fat)."
+    },
+    {
+      "position": 10,
+      "name": "Caramel Sauce",
+      "measurement": "drizzle",
+      "grams": 30,
+      "assumptions": "'Drizzle' of caramel sauce assumed as 30 g plausible topping amount; same nutritional profile as the 150 g caramel above."
+    },
+    {
+      "position": 11,
+      "name": "Toffee Popcorn",
+      "measurement": "Top",
+      "grams": 50,
+      "assumptions": "'Toffee popcorn' topping assumed as 50 g plausible decorative amount; typical toffee-coated popcorn values."
+    },
+    {
+      "position": 12,
+      "name": "Pretzels",
+      "measurement": "Top",
+      "grams": 30,
+      "assumptions": "'Pretzels' topping assumed as 30 g plausible decorative amount; same values as the 75 g pretzels above."
+    }
+  ],
+  "nutrition": {
+    "calories": 5983.35,
+    "protein": 62.93,
+    "fat": 402.95,
+    "fiber": 11.65,
+    "carbs": 518.99
+  }
+}

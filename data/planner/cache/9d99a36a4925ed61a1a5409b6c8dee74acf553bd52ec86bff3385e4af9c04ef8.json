@@ -1,0 +1,81 @@
+{
+  "id": "53030",
+  "name": "Feteer Meshaltet",
+  "cuisine": "Egyptian",
+  "fingerprint": "9d99a36a4925ed61a1a5409b6c8dee74acf553bd52ec86bff3385e4af9c04ef8",
+  "yield": 2,
+  "minutes": 65,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe makes 2 feteer (one from first 4 dough balls, one from remaining 4), treated as 2 total servings",
+    "Preparation time summed from explicit rests (10 min + 15-20 min), kneading, stretching/folding sequence for 8 balls, and baking (10 min); estimated at 65 min total",
+    "All-purpose wheat flour assumed for Flour",
+    "Butter is dairy and contains milk allergens",
+    "No eggs, fish, shellfish, tree nuts, peanuts, soy, or sesame in listed ingredients",
+    "Olive oil and other ingredients introduce no additional allergens or diet conflicts"
+  ],
+  "categories": [],
+  "instructions": "Mix the flour and salt then pour one cup of water and start kneading.\r\nIf you feel the dough is still not coming together or too dry, gradually add the remaining water until you get a dough that is very elastic so that when you pull it and it won’t be torn.\r\nLet the dough rest for just 10 minutes then divide the dough into 6-8 balls depending on the size you want for your feteer.\r\nWarm up the butter/ghee or oil you are using and pour into a deep bowl.\r\nImmerse the dough balls into the warm butter. Let it rest for 15 to 20 minutes.\r\nPreheat oven to 550F.\r\nStretch the first ball with your hands on a clean countertop. Stretch it as thin as you can, the goal here is to see your countertop through the dough.\r\nFold the dough over itself to form a square brushing in between folds with the butter mixture.\r\nSet aside and start making the next ball.\r\nStretch the second one thin as we have done for the first ball.\r\nPlace the previous one on the middle seam side down. Fold the outer one over brushing with more butter mixture as you fold. Set aside.\r\nKeep doing this for the third and fourth balls. Now we have one ready, place on a 10 inch baking/pie dish seam side down and brush the top with more butter.\r\nRepeat for the remaining 4 balls to make a second one. With your hands lightly press the folded feteer to spread it on the baking dish.\r\nPlace in preheated oven for 10 minutes when the feteer starts puffing turn on the broiler to brown the top.\r\nWhen it is done add little butter on top and cover so it won’t get dry.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/9f4z6v1598734293.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Flour",
+      "measurement": "4 cups",
+      "grams": 500,
+      "assumptions": "Standard all-purpose wheat flour; 4 US cups ≈ 500g dry weight"
+    },
+    {
+      "position": 2,
+      "name": "Water",
+      "measurement": "1 1/2 cups",
+      "grams": 355,
+      "assumptions": "Plain water; 1.5 US cups = 355 ml; density 1 g/ml"
+    },
+    {
+      "position": 3,
+      "name": "Salt",
+      "measurement": "1/4 tsp",
+      "grams": 1.5,
+      "assumptions": "Table salt; 1/4 tsp ≈ 1.5 g; negligible macros"
+    },
+    {
+      "position": 4,
+      "name": "Unsalted Butter",
+      "measurement": "1 cup",
+      "grams": 227,
+      "assumptions": "Unsalted butter; 1 US cup = 227 g"
+    },
+    {
+      "position": 5,
+      "name": "Olive Oil",
+      "measurement": "1/4 cup",
+      "grams": 54,
+      "assumptions": "Olive oil; 1/4 US cup = 54 g (density ≈0.91 g/ml)"
+    }
+  ],
+  "nutrition": {
+    "calories": 3924.95,
+    "protein": 53.54,
+    "fat": 243.1,
+    "fiber": 13.5,
+    "carbs": 381.73
+  }
+}

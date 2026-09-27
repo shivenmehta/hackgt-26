@@ -1,0 +1,125 @@
+{
+  "id": "52857",
+  "name": "Pumpkin Pie",
+  "cuisine": "American",
+  "fingerprint": "8550f97930f94d8e693eeb08acf7f5764b163bfdcf950f03414b85c26dbfda18",
+  "yield": 8,
+  "minutes": 105,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from standard 22cm tart tin size and typical pumpkin pie recipes (8 slices).",
+    "Total time sums active prep (rolling, mixing, sieving ~30 min), boiling pumpkin (15 min), blind-baking pastry (25 min), filling bake (45-50 min) plus brief cooling steps; excludes final chilling.",
+    "Shortcrust pastry contains wheat flour and butter (standard composition).",
+    "Plain flour is wheat-based.",
+    "Milk is dairy cow's milk.",
+    "Butter is dairy.",
+    "Eggs are chicken eggs.",
+    "No tree nuts, peanuts, fish, shellfish, soy or sesame listed or implied."
+  ],
+  "categories": [],
+  "instructions": "Place the pumpkin in a large saucepan, cover with water and bring to the boil. Cover with a lid and simmer for 15 mins or until tender. Drain pumpkin; let cool.\r\nHeat oven to 180C/160C fan/gas 4. Roll out the pastry on a lightly floured surface and use it to line a 22cm loose-bottomed tart tin. Chill for 15 mins. Line the pastry with baking parchment and baking beans, then bake for 15 mins. Remove the beans and paper, and cook for a further 10 mins until the base is pale golden and biscuity. Remove from the oven and allow to cool slightly.\r\nIncrease oven to 220C/200C fan/gas 7. Push the cooled pumpkin through a sieve into a large bowl. In a separate bowl, combine the sugar, salt, nutmeg and half the cinnamon. Mix in the beaten eggs, melted butter and milk, then add to the pumpkin purée and stir to combine. Pour into the tart shell and cook for 10 mins, then reduce the temperature to 180C/160C fan/gas 4. Continue to bake for 35-40 mins until the filling has just set.\r\nLeave to cool, then remove the pie from the tin. Mix the remaining cinnamon with the icing sugar and dust over the pie. Serve chilled.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/usuqtp1511385394.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Pumpkin",
+      "measurement": "750g",
+      "grams": 750,
+      "assumptions": "Fresh raw pumpkin flesh; values reflect typical edible portion after peeling/seeding; boiled then sieved as per instructions."
+    },
+    {
+      "position": 2,
+      "name": "Shortcrust Pastry",
+      "measurement": "350g",
+      "grams": 350,
+      "assumptions": "Standard unbaked shortcrust pastry dough; typical UK-style values used for entire 350g quantity lining the 22cm tin."
+    },
+    {
+      "position": 3,
+      "name": "Plain Flour",
+      "measurement": "Dusting",
+      "grams": 10,
+      "assumptions": "Plain white flour for light dusting of surface and rolling pin; plausible small amount estimated from typical pastry handling (not zero as dusting is present)."
+    },
+    {
+      "position": 4,
+      "name": "Caster Sugar",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "Standard caster sugar; entire measured quantity used in filling."
+    },
+    {
+      "position": 5,
+      "name": "Salt",
+      "measurement": "½ tsp",
+      "grams": 3,
+      "assumptions": "Table salt; ½ tsp ≈ 3g; negligible macros as pure sodium chloride."
+    },
+    {
+      "position": 6,
+      "name": "Nutmeg",
+      "measurement": "½ tsp",
+      "grams": 1.2,
+      "assumptions": "Ground nutmeg; ½ tsp ≈ 1.2g; negligible macros for small spice quantity."
+    },
+    {
+      "position": 7,
+      "name": "Cinnamon",
+      "measurement": "1 tsp",
+      "grams": 2.6,
+      "assumptions": "Ground cinnamon; full 1 tsp split across filling and topping; values reflect typical ground spice."
+    },
+    {
+      "position": 8,
+      "name": "Eggs",
+      "measurement": "2 Beaten",
+      "grams": 110,
+      "assumptions": "2 large beaten eggs; total edible weight ≈ 110g (shells excluded); standard large egg nutrition scaled."
+    },
+    {
+      "position": 9,
+      "name": "Butter",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "Unsalted butter, melted; entire measured quantity used in filling."
+    },
+    {
+      "position": 10,
+      "name": "Milk",
+      "measurement": "175g",
+      "grams": 175,
+      "assumptions": "Whole cow's milk; entire measured quantity incorporated into filling."
+    },
+    {
+      "position": 11,
+      "name": "Icing Sugar",
+      "measurement": "1 tblsp",
+      "grams": 8,
+      "assumptions": "Icing (powdered) sugar for dusting; 1 tbsp ≈ 8g; entire quantity used in final step."
+    }
+  ],
+  "nutrition": {
+    "calories": 2795.71,
+    "protein": 50.18,
+    "fat": 121.69,
+    "fiber": 16.41,
+    "carbs": 383.53
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "52948",
+  "name": "Wontons",
+  "cuisine": "Chinese",
+  "fingerprint": "4d13ca9d504ea28f62bd7a90f3a7f3095bda21dfac569b1a1da1d69dacfbfa36",
+  "yield": 4,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Recipe makes approximately 50-60 wontons based on 1 packet of wrappers; typical serving is 12-15 pieces per person yielding 4 main-dish servings",
+    "Preparation and frying time conservatively estimated at 30 minutes total",
+    "Wonton skins assumed to contain wheat flour (standard)",
+    "Soy sauce assumed to contain soy and wheat (standard)",
+    "Sesame seed oil treated as containing sesame",
+    "No dairy ingredients listed",
+    "No explicit egg, fish, shellfish, tree nuts, or peanuts; ambiguous for some sauces but classified conservatively",
+    "Water and frying oil classified as neutral for diets and allergens",
+    "All classifications based strictly on listed ingredients without assuming unlisted compounds"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Combine pork, garlic, ginger, soy sauce, sesame oil, and vegetables in a bowl.\r\nSeparate wonton skins.\r\nPlace a heaping teaspoon of filling in the center of the wonton.\r\nBrush water on 2 borders of the skin, covering 1/4 inch from the edge.\r\nFold skin over to form a triangle, sealing edges.\r\nPinch the two long outside points together.\r\nHeat oil to 450 degrees and fry 4 to 5 at a time until golden.\r\nDrain and serve with sauce.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Pork",
+      "measurement": "1lb",
+      "grams": 453.6,
+      "assumptions": "Standard raw ground pork; 1 lb = 453.6 g edible portion."
+    },
+    {
+      "position": 2,
+      "name": "Garlic Clove",
+      "measurement": "3 chopped",
+      "grams": 9,
+      "assumptions": "3 average garlic cloves chopped, total ~9 g edible weight."
+    },
+    {
+      "position": 3,
+      "name": "Ginger",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp grated fresh ginger root ~2 g edible."
+    },
+    {
+      "position": 4,
+      "name": "Soy Sauce",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tablespoon regular soy sauce ~15 g."
+    },
+    {
+      "position": 5,
+      "name": "Sesame Seed Oil",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp toasted sesame oil ~5 g."
+    },
+    {
+      "position": 6,
+      "name": "Carrots",
+      "measurement": "3 finely chopped",
+      "grams": 150,
+      "assumptions": "3 medium carrots finely chopped, total edible ~150 g after peeling."
+    },
+    {
+      "position": 7,
+      "name": "Celery",
+      "measurement": "3 finely chopped",
+      "grams": 120,
+      "assumptions": "3 medium celery stalks finely chopped, total edible ~120 g after trimming."
+    },
+    {
+      "position": 8,
+      "name": "Spring Onions",
+      "measurement": "6 chopped",
+      "grams": 90,
+      "assumptions": "6 medium spring onions (scallions) chopped, total edible ~90 g."
+    },
+    {
+      "position": 9,
+      "name": "Wonton Skin",
+      "measurement": "1 Packet",
+      "grams": 230,
+      "assumptions": "Standard 1 packet (about 50-60 skins) of wonton wrappers, total ~230 g edible."
+    },
+    {
+      "position": 10,
+      "name": "Oil",
+      "measurement": "Fry",
+      "grams": 25,
+      "assumptions": "Oil for deep frying (assumed 25 g absorbed per typical batch of 4-5 wontons based on recipe context and common frying estimates; not the full fryer volume)."
+    },
+    {
+      "position": 11,
+      "name": "Water",
+      "measurement": "Bottle",
+      "grams": 30,
+      "assumptions": "Water for sealing (assumed ~30 g brushed on from a bottle; negligible nutrition)."
+    }
+  ],
+  "nutrition": {
+    "calories": 2240.57,
+    "protein": 103.33,
+    "fat": 120.43,
+    "fiber": 13.62,
+    "carbs": 174.91
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "53336",
+  "name": "Molasses Baked Beans",
+  "cuisine": "Canadian",
+  "fingerprint": "021a1ce793df186167a1b281084e399ce939ef18c038f76e2127baa163b945b5",
+  "yield": 6,
+  "minutes": 1380,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from 2 cups (400g) dry navy beans which typically expand to 6 servings of baked beans after cooking and sauce absorption.",
+    "Total minutes is sum of overnight soak (720 min) + 30 min simmer + ~10 min sauté + 3-5 hr bake (using minimum 180 min bake) rounded to nearest 60; actual active time is much lower but total preparation includes all steps.",
+    "Mustard, salt, and pepper quantities assumed from typical values as unspecified; no impact on classifications.",
+    "No gluten-containing ingredients listed; oats, barley, rye, or wheat absent.",
+    "No dairy, eggs, fish, shellfish, tree nuts, peanuts, soy, or sesame in listed ingredients.",
+    "Bacon makes recipe non-vegetarian, non-vegan, and non-pescatarian."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Place the dried beans into a Dutch oven with 6 cups (1.5 L) of water. Soak overnight.\r\nDrain and pour beans back into the pot with enough water to cover the beans by a couple of inches, cook for 30 minutes until they are tender but still firm. Drain beans, making sure to reserve cooking liquid, set aside.\r\nPreheat the oven to 325 °F (160 °C). While the oven is preheating, cook pork over medium-high heat in the Dutch Oven until fat is rendered and pork is beginning to brown, then add the onion cooking until tender.\r\nAdd the beans back to the pot, along with molasses, brown sugar, apple cider vinegar, ground mustard, salt and pepper and 3 cups (750 mL) of reserved bean water.\r\nBake uncovered for 3 to 5 hours until the beans are tender, and the sauce has thickened, and the edges of the pot get sticky.\r\n(Note: if beans get dry, add another cup of water.)",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/9tddhg1764443699.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Dried White Navy Beans",
+      "measurement": "2 cups",
+      "grams": 400,
+      "assumptions": "Standard dry white navy beans; 1 cup dry ≈ 200g, so 2 cups = 400g dry weight before soaking/cooking."
+    },
+    {
+      "position": 2,
+      "name": "Bacon",
+      "measurement": "1/2 lb",
+      "grams": 227,
+      "assumptions": "Standard pork bacon; 1/2 lb = 227g raw weight, used as-is for rendering fat in recipe."
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 medium",
+      "grams": 110,
+      "assumptions": "1 medium onion ≈ 110g peeled and chopped, typical for savory baked bean recipes."
+    },
+    {
+      "position": 4,
+      "name": "Molasses",
+      "measurement": "1/2 cup",
+      "grams": 160,
+      "assumptions": "Standard molasses; 1/2 cup ≈ 160g (density ~1.4 g/mL for molasses)."
+    },
+    {
+      "position": 5,
+      "name": "Brown Sugar",
+      "measurement": "1/4 cup",
+      "grams": 50,
+      "assumptions": "Packed brown sugar; 1/4 cup ≈ 50g."
+    },
+    {
+      "position": 6,
+      "name": "Cider Vinegar",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "Cider vinegar; 2 tbsp ≈ 30g (density ~1 g/mL)."
+    },
+    {
+      "position": 7,
+      "name": "Mustard",
+      "measurement": "Ground",
+      "grams": 5,
+      "assumptions": "Ground mustard; vague 'Mustard Ground' with no quantity, assumed 1 tsp (5g) typical for flavoring a pot of baked beans."
+    },
+    {
+      "position": 8,
+      "name": "Salt",
+      "measurement": "To taste",
+      "grams": 6,
+      "assumptions": "Table salt; 'to taste' assumed ~1 tsp (6g) total for entire recipe based on typical bean dish seasoning."
+    },
+    {
+      "position": 9,
+      "name": "Pepper",
+      "measurement": "To taste",
+      "grams": 2,
+      "assumptions": "Black pepper; 'to taste' assumed ~1/2 tsp ground (2g) total for entire recipe based on typical bean dish seasoning."
+    }
+  ],
+  "nutrition": {
+    "calories": 3312.5,
+    "protein": 169.09,
+    "fat": 101.61,
+    "fiber": 61.65,
+    "carbs": 423.2
+  }
+}

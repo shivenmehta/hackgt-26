@@ -1,0 +1,59 @@
+{
+  "id": "53360",
+  "name": "Caribbean Tamarind balls",
+  "cuisine": "Jamaican",
+  "fingerprint": "e2399d9a8daff46546bf8504ee501edb66ccfadddcfae2162d7e81d7cb99d170",
+  "yield": 20,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated at 20 marble-sized balls based on 454g tamarind pulp (typical ~20-25g per ball after mixing); conservative classification as exact count not specified",
+    "Total time estimated at 30 minutes: ~10 min mashing/mixing, ~15 min rolling balls and coating in sugar, ~5 min for optional setting prep; no cooking or extended wait included as 'immediate' consumption is allowed",
+    "All sugar (1.5 cups total) is used per provided ingredient data (1 cup mashed + 0.5 cup coating); no other ingredients or compounds present",
+    "Tamarind pulp treated as pure fruit pulp with no additives, per conservative screening and Jamaican dessert context",
+    "No gluten sources (barley/rye/wheat/oats) present; recipe is inherently plant-based with no animal products"
+  ],
+  "categories": [],
+  "instructions": "Add tamarind pulp and 1 cup granulated sugar to a bowl and mash together with a spoon or fork. Take small amounts of the tamarind and sugar mix and shape them into small balls by rolling them in your hands. Make them the size of a marble or slightly bigger, as you like.\r\nAdd the remaining sugar to a flat surface, like a plate or a sheet pan. Roll the tamarind balls in granulated sugar until they're well-coated.\r\nYou can eat the tamarind balls immediately, or you can let them set for a few hours or overnight. Allowing them to set will give them a firmer texture and more crystallized sugar coating. Enjoy.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/z1hz7z1765316430.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Tamarind Pulp",
+      "measurement": "16 ounces",
+      "grams": 454,
+      "assumptions": "16 oz tamarind pulp estimated at 454g; using typical values for tamarind pulp with seeds removed as implied by 'pulp' in a candy recipe; raw edible portion."
+    },
+    {
+      "position": 2,
+      "name": "Sugar",
+      "measurement": "1 1/2 cups",
+      "grams": 300,
+      "assumptions": "1.5 cups granulated sugar estimated at 300g (standard 200g per cup); all sugar is used in the recipe (1 cup mashed in + 0.5 cup for coating)."
+    }
+  ],
+  "nutrition": {
+    "calories": 2250.6,
+    "protein": 12.71,
+    "fat": 2.72,
+    "fiber": 23.15,
+    "carbs": 583.75
+  }
+}

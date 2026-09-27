@@ -1,0 +1,187 @@
+{
+  "id": "52950",
+  "name": "Szechuan Beef",
+  "cuisine": "Chinese",
+  "fingerprint": "360a35e13e44cd59172dd4265e5ca5739103d1a90ded77408e656c7648a6898b",
+  "yield": 3,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated from typical stir-fry portions (≈0.5 lb beef + vegetables yields 3 modest servings); original recipe does not specify servings",
+    "Total active prep/cook time conservatively estimated at 30 min based on listed steps (marinating 10-15 min + quick stir-fry); no explicit times given",
+    "Oyster sauce classified as shellfish allergen (true) due to typical oyster content; hot pepper sauce left null as type unspecified",
+    "Soy sauce and starch (cornstarch) introduce wheat (true) via standard fermented soy/wheat recipes; not confidently gluten-free",
+    "Sesame from sesame seed oil (true); egg white (true); no dairy ingredients (dairy-free true)",
+    "No tree nuts, peanuts, or fish listed; fish left null due to possible oyster sauce ambiguity",
+    "All vegetables, ginger, garlic, sugar, salt, oils, and cooking wine treated as compatible with listed diets where applicable"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1 - MARINATING THE BEEF\r\nIn a bowl, add the beef, salt, sesame seed oil, white pepper, egg white, 2 Tablespoon of corn starch and 1 Tablespoon of oil.\r\nSTEP 2 - STIR FRY\r\nFirst Cook the beef by adding 2 Tablespoon of oil until the beef is golden brown.\r\nSet the beef aside\r\nIn a wok add 1 Tablespoon of oil, minced ginger, minced garlic and stir-fry for few seconds.\r\nNext add all of the vegetables and then add sherry cooking wine and 1 cup of water.\r\nTo make the sauce add oyster sauce, hot pepper sauce, and sugar.\r\nadd the cooked beef and 1 spoon of soy sauce\r\nTo thicken the sauce, whisk together 1 Tablespoon of cornstarch and 2 Tablespoon of water in a bowl and slowly add to your stir-fry until it's the right thickness.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1529443236.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef",
+      "measurement": "1/2 lb",
+      "grams": 227,
+      "assumptions": "1/2 lb raw beef (flank or sirloin typical for Szechuan); values for 80% lean ground beef equivalent as proxy for stir-fry cut; raw weight used since stir-fried quickly"
+    },
+    {
+      "position": 2,
+      "name": "Salt",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "1/2 tsp table salt"
+    },
+    {
+      "position": 3,
+      "name": "Sesame Seed Oil",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp sesame oil"
+    },
+    {
+      "position": 4,
+      "name": "Pepper",
+      "measurement": "1 pinch",
+      "grams": 0.5,
+      "assumptions": "1 pinch ground white pepper (negligible weight)"
+    },
+    {
+      "position": 5,
+      "name": "Egg White",
+      "measurement": "1",
+      "grams": 33,
+      "assumptions": "1 large egg white only"
+    },
+    {
+      "position": 6,
+      "name": "Starch",
+      "measurement": "3 tbs",
+      "grams": 24,
+      "assumptions": "3 tbs total cornstarch (2 tbs marinade + 1 tbs slurry); standard cornstarch values"
+    },
+    {
+      "position": 7,
+      "name": "Oil",
+      "measurement": "4 tbs",
+      "grams": 56,
+      "assumptions": "4 tbs total neutral cooking oil (2 tbs for frying beef + 1 tbs stir-fry + 1 tbs implied in marinade); assumed vegetable oil"
+    },
+    {
+      "position": 8,
+      "name": "Ginger",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp minced fresh ginger"
+    },
+    {
+      "position": 9,
+      "name": "Garlic",
+      "measurement": "1 tsp",
+      "grams": 3,
+      "assumptions": "1 tsp minced fresh garlic"
+    },
+    {
+      "position": 10,
+      "name": "Onion",
+      "measurement": "3/4 cup",
+      "grams": 120,
+      "assumptions": "3/4 cup chopped onion; raw weight"
+    },
+    {
+      "position": 11,
+      "name": "Carrots",
+      "measurement": "1/2 cup",
+      "grams": 64,
+      "assumptions": "1/2 cup sliced carrots; raw weight"
+    },
+    {
+      "position": 12,
+      "name": "Green Pepper",
+      "measurement": "3/4 cup",
+      "grams": 110,
+      "assumptions": "3/4 cup chopped green bell pepper; raw weight"
+    },
+    {
+      "position": 13,
+      "name": "Celery",
+      "measurement": "1 cup",
+      "grams": 100,
+      "assumptions": "1 cup chopped celery; raw weight"
+    },
+    {
+      "position": 14,
+      "name": "Mushrooms",
+      "measurement": "1 cup",
+      "grams": 70,
+      "assumptions": "1 cup sliced fresh mushrooms; raw weight"
+    },
+    {
+      "position": 15,
+      "name": "Cooking wine",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tbs Shaoxing/sherry cooking wine"
+    },
+    {
+      "position": 16,
+      "name": "Water",
+      "measurement": "1 cup",
+      "grams": 237,
+      "assumptions": "1 cup water (for sauce); no calories or macros"
+    },
+    {
+      "position": 17,
+      "name": "Oyster Sauce",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tbs oyster sauce"
+    },
+    {
+      "position": 18,
+      "name": "Hotsauce",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "1/2 tsp hot pepper sauce (chili sauce proxy)"
+    },
+    {
+      "position": 19,
+      "name": "Sugar",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "1 tsp granulated sugar"
+    },
+    {
+      "position": 20,
+      "name": "Soy Sauce",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tbs regular soy sauce"
+    }
+  ],
+  "nutrition": {
+    "calories": 1393.24,
+    "protein": 56.16,
+    "fat": 103.11,
+    "fiber": 8.48,
+    "carbs": 57.32
+  }
+}

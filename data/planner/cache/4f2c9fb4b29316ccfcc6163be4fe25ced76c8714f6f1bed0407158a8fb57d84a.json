@@ -1,0 +1,186 @@
+{
+  "id": "53018",
+  "name": "Bigos (Hunters Stew)",
+  "cuisine": "Polish",
+  "fingerprint": "4f2c9fb4b29316ccfcc6163be4fe25ced76c8714f6f1bed0407158a8fb57d84a",
+  "yield": 6,
+  "minutes": 210,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from total meat (bacon + kielbasa + pork ≈ 2.25 lb) plus substantial vegetables and 5 cups stock; typical Bigos recipe serves 6 hearty portions.",
+    "Preparation and cooking time summed from instructions: ~20 min stovetop sautéing/deglazing + 150-180 min oven braising (midpoint of 2.5-3 hr).",
+    "Wheat present due to explicit flour; Worcestershire sauce and stock may contain trace gluten but classified conservatively as null where ambiguous.",
+    "Soy null due to possible presence in Worcestershire sauce or stock but not explicitly listed.",
+    "Fish null due to possible anchovies in Worcestershire sauce but not explicitly listed.",
+    "All other ingredients screened per listed items only; no substitutions."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Preheat the oven to 350 degrees F (175 degrees C).\r\n\r\nHeat a large pot over medium heat. Add the bacon and kielbasa; cook and stir until the bacon has rendered its fat and sausage is lightly browned. Use a slotted spoon to remove the meat and transfer to a large casserole or Dutch oven.\r\n\r\nCoat the cubes of pork lightly with flour and fry them in the bacon drippings over medium-high heat until golden brown. Use a slotted spoon to transfer the pork to the casserole. Add the garlic, onion, carrots, fresh mushrooms, cabbage and sauerkraut. Reduce heat to medium; cook and stir until the carrots are soft, about 10 minutes. Do not let the vegetables brown.\r\n\r\nDeglaze the pan by pouring in the red wine and stirring to loosen all of the bits of food and flour that are stuck to the bottom. Season with the bay leaf, basil, marjoram, paprika, salt, pepper, caraway seeds and cayenne pepper; cook for 1 minute.\r\n\r\nMix in the dried mushrooms, hot pepper sauce, Worcestershire sauce, beef stock, tomato paste and tomatoes. Heat through just until boiling. Pour the vegetables and all of the liquid into the casserole dish with the meat. Cover with a lid.\r\n\r\nBake in the preheated oven for 2 1/2 to 3 hours, until meat is very tender.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/md8w601593348504.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Bacon",
+      "measurement": "2 sliced",
+      "grams": 56,
+      "assumptions": "Standard bacon; 2 slices ≈ 2 oz / 56g edible portion after cooking."
+    },
+    {
+      "position": 2,
+      "name": "Kielbasa",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "Typical Polish kielbasa sausage; full 1 lb used as listed, cooked."
+    },
+    {
+      "position": 3,
+      "name": "Pork",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "Boneless pork shoulder or similar stew cut; full 1 lb used, raw weight before browning."
+    },
+    {
+      "position": 4,
+      "name": "Flour",
+      "measurement": "1/4 cup",
+      "grams": 31,
+      "assumptions": "All-purpose white flour; 1/4 cup ≈ 31 g, used for dredging pork."
+    },
+    {
+      "position": 5,
+      "name": "Garlic",
+      "measurement": "3 chopped",
+      "grams": 9,
+      "assumptions": "3 cloves garlic ≈ 9 g chopped."
+    },
+    {
+      "position": 6,
+      "name": "Onion",
+      "measurement": "1 Diced",
+      "grams": 110,
+      "assumptions": "1 medium onion ≈ 110 g diced."
+    },
+    {
+      "position": 7,
+      "name": "Mushrooms",
+      "measurement": "1 1/2 cup",
+      "grams": 105,
+      "assumptions": "Fresh white/button mushrooms; 1.5 cups sliced ≈ 105 g."
+    },
+    {
+      "position": 8,
+      "name": "Cabbage",
+      "measurement": "4 cups",
+      "grams": 280,
+      "assumptions": "Fresh green cabbage, shredded; 4 cups ≈ 280 g."
+    },
+    {
+      "position": 9,
+      "name": "Sauerkraut",
+      "measurement": "1 Jar",
+      "grams": 400,
+      "assumptions": "1 typical 14-16 oz jar sauerkraut, drained weight ≈ 400 g (common recipe amount for bigos)."
+    },
+    {
+      "position": 10,
+      "name": "Red Wine",
+      "measurement": "1/4 cup",
+      "grams": 60,
+      "assumptions": "Red wine; 1/4 cup ≈ 60 g (deglazing liquid)."
+    },
+    {
+      "position": 11,
+      "name": "Bay Leaf",
+      "measurement": "1",
+      "grams": 1,
+      "assumptions": "1 whole bay leaf; negligible edible weight and nutrition."
+    },
+    {
+      "position": 12,
+      "name": "Basil",
+      "measurement": "1 tsp",
+      "grams": 1,
+      "assumptions": "Dried basil; 1 tsp ≈ 1 g."
+    },
+    {
+      "position": 13,
+      "name": "Marjoram",
+      "measurement": "1 tsp",
+      "grams": 1,
+      "assumptions": "Dried marjoram; 1 tsp ≈ 1 g."
+    },
+    {
+      "position": 14,
+      "name": "Paprika",
+      "measurement": "1 tbs",
+      "grams": 7,
+      "assumptions": "Paprika; 1 tbs ≈ 7 g."
+    },
+    {
+      "position": 15,
+      "name": "Caraway Seed",
+      "measurement": "1/8 teaspoon",
+      "grams": 1,
+      "assumptions": "Caraway seeds; 1/8 tsp ≈ 0.5-1 g, rounded to 1 g for estimate."
+    },
+    {
+      "position": 16,
+      "name": "Hotsauce",
+      "measurement": "1 dash",
+      "grams": 5,
+      "assumptions": "Hot sauce dash; ≈ 5 g (typical single dash volume), negligible macros."
+    },
+    {
+      "position": 17,
+      "name": "Beef Stock",
+      "measurement": "5 Cups",
+      "grams": 1200,
+      "assumptions": "Beef stock/broth; 5 cups ≈ 1200 g (standard density)."
+    },
+    {
+      "position": 18,
+      "name": "Tomato Puree",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Tomato puree/paste; 2 tbs ≈ 30 g."
+    },
+    {
+      "position": 19,
+      "name": "Diced Tomatoes",
+      "measurement": "1 cup",
+      "grams": 240,
+      "assumptions": "Canned diced tomatoes with juice; 1 cup ≈ 240 g."
+    },
+    {
+      "position": 20,
+      "name": "Worcestershire Sauce",
+      "measurement": "1 dash",
+      "grams": 5,
+      "assumptions": "Worcestershire sauce dash; ≈ 5 g, negligible macros."
+    }
+  ],
+  "nutrition": {
+    "calories": 3107.52,
+    "protein": 245.63,
+    "fat": 174.91,
+    "fiber": 33.99,
+    "carbs": 128.49
+  }
+}

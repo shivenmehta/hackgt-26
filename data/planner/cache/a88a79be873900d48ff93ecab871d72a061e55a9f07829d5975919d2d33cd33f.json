@@ -1,0 +1,147 @@
+{
+  "id": "52811",
+  "name": "Ribollita",
+  "cuisine": "Italian",
+  "fingerprint": "a88a79be873900d48ff93ecab871d72a061e55a9f07829d5975919d2d33cd33f",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield of 4 based on explicit instruction to divide among 4 bowls",
+    "Total time is sum of active and passive steps: 5-10 min sauté + 15-20 min simmer + 10-15 min bake = ~45 min midpoint estimate",
+    "Parmesan cheese confirms dairy and milk allergen",
+    "Wholegrain bread confirms wheat allergen and gluten",
+    "No explicit egg, fish, shellfish, peanuts, or sesame in ingredients",
+    "Tree nuts and soy ambiguous due to possible cross-contact or unspecified stock",
+    "Rosemary and thyme sprigs are mostly discarded and do not affect final classification",
+    "All ingredients screened as listed; no substitutions applied",
+    "Recipe is vegetarian per source and ingredients (cheese is vegetarian-compatible)"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Put 2 tablespoons of the oil in a large pot over medium heat. When it’s hot, add onion, carrot, celery and garlic; sprinkle with salt and pepper and cook, stirring occasionally, until vegetables are soft, 5 to 10 minutes.\r\nHeat the oven to 500 degrees. Drain the beans; if they’re canned, rinse them as well. Add them to the pot along with tomatoes and their juices and stock, rosemary and thyme. Bring to a boil, then reduce heat so the soup bubbles steadily; cover and cook, stirring once or twice to break up the tomatoes, until the flavors meld, 15 to 20 minutes.\r\nFish out and discard rosemary and thyme stems, if you like, and stir in kale. Taste and adjust seasoning. Lay bread slices on top of the stew so they cover the top and overlap as little as possible. Scatter red onion slices over the top, drizzle with the remaining 3 tablespoons oil and sprinkle with Parmesan.\r\nPut the pot in the oven and bake until the bread, onions and cheese are browned and crisp, 10 to 15 minutes. (If your pot fits under the broiler, you can also brown the top there.) Divide the soup and bread among 4 bowls and serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "5 tablespoons",
+      "grams": 68,
+      "assumptions": "5 tbsp olive oil at 13.6 g per tbsp; 100% fat used in cooking and drizzling."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium chopped onion ≈ 110 g raw weight."
+    },
+    {
+      "position": 3,
+      "name": "Carrots",
+      "measurement": "1 chopped",
+      "grams": 61,
+      "assumptions": "1 medium chopped carrot ≈ 61 g raw weight."
+    },
+    {
+      "position": 4,
+      "name": "Celery",
+      "measurement": "1 stalk chopped",
+      "grams": 40,
+      "assumptions": "1 medium celery stalk chopped ≈ 40 g raw weight."
+    },
+    {
+      "position": 5,
+      "name": "Garlic",
+      "measurement": "1 tablespoon minced",
+      "grams": 9,
+      "assumptions": "1 tbsp minced garlic ≈ 9 g raw weight."
+    },
+    {
+      "position": 6,
+      "name": "Cannellini Beans",
+      "measurement": "2 cups",
+      "grams": 520,
+      "assumptions": "2 cups cooked or drained canned cannellini beans (≈ 520 g total edible portion)."
+    },
+    {
+      "position": 7,
+      "name": "Canned tomatoes",
+      "measurement": "1",
+      "grams": 400,
+      "assumptions": "1 × 400 g can whole peeled tomatoes with juice (standard size, entire contents used)."
+    },
+    {
+      "position": 8,
+      "name": "Water",
+      "measurement": "4 cups",
+      "grams": 960,
+      "assumptions": "4 cups water = 960 g (density 1 g/ml)."
+    },
+    {
+      "position": 9,
+      "name": "Rosemary",
+      "measurement": "1 fresh sprig",
+      "grams": 5,
+      "assumptions": "1 fresh rosemary sprig ≈ 5 g (plausible small sprig; mostly discarded after cooking)."
+    },
+    {
+      "position": 10,
+      "name": "Thyme",
+      "measurement": "1 fresh sprig",
+      "grams": 5,
+      "assumptions": "1 fresh thyme sprig ≈ 5 g (plausible small sprig; mostly discarded after cooking)."
+    },
+    {
+      "position": 11,
+      "name": "Kale",
+      "measurement": "1 pound chopped",
+      "grams": 454,
+      "assumptions": "1 lb (454 g) raw chopped kale (edible portion)."
+    },
+    {
+      "position": 12,
+      "name": "Wholegrain Bread",
+      "measurement": "4 thick slices",
+      "grams": 200,
+      "assumptions": "4 thick slices wholegrain bread ≈ 50 g per slice (typical thick cut)."
+    },
+    {
+      "position": 13,
+      "name": "Red Onions",
+      "measurement": "1 thinly sliced",
+      "grams": 110,
+      "assumptions": "1 medium red onion thinly sliced ≈ 110 g raw weight."
+    },
+    {
+      "position": 14,
+      "name": "Parmesan",
+      "measurement": "½ cup freshly grated",
+      "grams": 50,
+      "assumptions": "½ cup (≈ 50 g) freshly grated Parmesan cheese."
+    }
+  ],
+  "nutrition": {
+    "calories": 2522.8,
+    "protein": 112.6,
+    "fat": 96.21,
+    "fiber": 77.33,
+    "carbs": 316
+  }
+}

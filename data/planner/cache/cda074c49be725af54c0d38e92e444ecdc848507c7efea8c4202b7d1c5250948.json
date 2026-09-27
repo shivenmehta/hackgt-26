@@ -1,0 +1,80 @@
+{
+  "id": "52848",
+  "name": "Bean & Sausage Hotpot",
+  "cuisine": "British",
+  "fingerprint": "cda074c49be725af54c0d38e92e444ecdc848507c7efea8c4202b7d1c5250948",
+  "yield": 4,
+  "minutes": 40,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe serves 4 adults as a main dish based on 8 large sausages and 1.2 kg beans (standard portioning for similar British hotpot/casserole recipes).",
+    "Preparation time is sum of explicit instruction times (10 min frying + 30 min simmering); additional steps like opening jars/cans assumed negligible.",
+    "Sausages assumed to contain wheat (common in British bangers) hence Wheat=null; mustard and tomato sauce assumed free of major allergens unless specified.",
+    "Butter beans, black treacle, and English mustard introduce no animal products beyond the sausages, supporting Dairy-free=true but not Vegetarian/Vegan/Pescatarian.",
+    "No explicit gluten-free certification or oat ingredients; wheat in sausages uncertain so Gluten-free=null."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "In a large casserole, fry the sausages until brown all over – about 10 mins.\r\n\r\nAdd the tomato sauce, stirring well, then stir in the beans, treacle or sugar and mustard. Bring to the simmer, cover and cook for 30 mins. Great served with crusty bread or rice.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sausages",
+      "measurement": "8 large",
+      "grams": 800,
+      "assumptions": "Typical British pork sausages; 100 g each for large size, raw weight before frying (edible portion)."
+    },
+    {
+      "position": 2,
+      "name": "Tomato Sauce",
+      "measurement": "1 Jar",
+      "grams": 400,
+      "assumptions": "Standard 400 g jar of tomato pasta sauce (common UK size), entire jar used as per recipe; values for typical tomato-based sauce."
+    },
+    {
+      "position": 3,
+      "name": "Butter Beans",
+      "measurement": "1200g",
+      "grams": 1200,
+      "assumptions": "Canned butter beans in water, entire 1200 g (likely 3 x 400 g cans including liquid as recipe adds them directly); typical drained-equivalent adjusted for recipe use."
+    },
+    {
+      "position": 4,
+      "name": "Black Treacle",
+      "measurement": "1 tbls",
+      "grams": 20,
+      "assumptions": "1 tablespoon black treacle (molasses); standard measure is ~20 g, all carbohydrates from sugars."
+    },
+    {
+      "position": 5,
+      "name": "English Mustard",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 teaspoon English mustard; standard measure is ~5 g, typical prepared mustard values."
+    }
+  ],
+  "nutrition": {
+    "calories": 3945,
+    "protein": 186.2,
+    "fat": 210.2,
+    "fiber": 74,
+    "carbs": 279.15
+  }
+}

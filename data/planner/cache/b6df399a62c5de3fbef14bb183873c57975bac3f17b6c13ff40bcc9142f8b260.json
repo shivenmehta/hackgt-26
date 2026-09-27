@@ -1,0 +1,166 @@
+{
+  "id": "52879",
+  "name": "Chicken Parmentier",
+  "cuisine": "French",
+  "fingerprint": "b6df399a62c5de3fbef14bb183873c57975bac3f17b6c13ff40bcc9142f8b260",
+  "yield": 4,
+  "minutes": 75,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe is for 4 servings based on standard portion sizes for a French-style potato-topped casserole with 600g chicken and 1.5kg potatoes; typical BBC Good Food / TheMealDB scaling.",
+    "Total active and passive time estimated from instructions: ~20 min potato prep/boil/mash, ~15 min filling sauté/reduction, ~5 min assembly, 30-35 min bake; rounded to 75 min overall.",
+    "Double cream classified as dairy (Milk allergen true).",
+    "Egg yolks classified as Eggs allergen true.",
+    "Gruyère cheese classified as dairy (Milk allergen true).",
+    "No wheat, barley, rye or gluten-containing ingredients listed (Gluten-free true).",
+    "Chicken stock assumed to be standard prepared stock with no ambiguous additives."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "For the topping, boil the potatoes in salted water until tender. Drain and push through a potato ricer, or mash thoroughly. Stir in the butter, cream and egg yolks. Season and set aside.\r\nFor the filling, melt the butter in a large pan. Add the shallots, carrots and celery and gently fry until soft, then add the garlic. Pour in the wine and cook for 1 minute. Stir in the tomato purée, chopped tomatoes and stock and cook for 10–15 minutes, until thickened. Add the shredded chicken, olives and parsley. Season to taste with salt and pepper.\r\nPreheat the oven to 180C/160C Fan/Gas 4.\r\nPut the filling in a 20x30cm/8x12in ovenproof dish and top with the mashed potato. Grate over the Gruyère. Bake for 30–35 minutes, until piping hot and the potato is golden-brown.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/uwvxpv1511557015.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Potatoes",
+      "measurement": "1.5kg",
+      "grams": 1500,
+      "assumptions": "Raw potatoes with skin; standard white potato values adjusted for typical variety used in French recipes."
+    },
+    {
+      "position": 2,
+      "name": "Butter",
+      "measurement": "30g",
+      "grams": 30,
+      "assumptions": "Standard unsalted butter."
+    },
+    {
+      "position": 3,
+      "name": "Double Cream",
+      "measurement": "5 tblsp",
+      "grams": 60,
+      "assumptions": "5 tablespoons double (heavy) cream; 1 tbsp ≈ 12 g, typical UK measure, high-fat cream."
+    },
+    {
+      "position": 4,
+      "name": "Egg Yolks",
+      "measurement": "2",
+      "grams": 34,
+      "assumptions": "2 large egg yolks; 1 yolk ≈ 17 g, standard large egg."
+    },
+    {
+      "position": 5,
+      "name": "Butter",
+      "measurement": "30g",
+      "grams": 30,
+      "assumptions": "Standard unsalted butter for filling."
+    },
+    {
+      "position": 6,
+      "name": "Shallots",
+      "measurement": "7",
+      "grams": 140,
+      "assumptions": "7 medium shallots; ≈20 g each after peeling, typical size in recipes."
+    },
+    {
+      "position": 7,
+      "name": "Carrots",
+      "measurement": "3 chopped",
+      "grams": 180,
+      "assumptions": "3 medium carrots chopped; ≈60 g each after peeling and trimming."
+    },
+    {
+      "position": 8,
+      "name": "Celery",
+      "measurement": "2 sticks",
+      "grams": 80,
+      "assumptions": "2 medium celery sticks; ≈40 g each after trimming."
+    },
+    {
+      "position": 9,
+      "name": "Garlic Clove",
+      "measurement": "1 finely chopped",
+      "grams": 3,
+      "assumptions": "1 small garlic clove finely chopped; ≈3 g."
+    },
+    {
+      "position": 10,
+      "name": "White Wine",
+      "measurement": "4 tbsp",
+      "grams": 60,
+      "assumptions": "4 tablespoons dry white wine; 1 tbsp ≈ 15 ml, standard measure, alcohol mostly cooks off but nutrients based on raw."
+    },
+    {
+      "position": 11,
+      "name": "Tomato Puree",
+      "measurement": "1 tbls",
+      "grams": 15,
+      "assumptions": "1 tablespoon tomato puree/paste; ≈15 g."
+    },
+    {
+      "position": 12,
+      "name": "Tinned Tomatos",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "400 g can chopped tinned tomatoes including juice, drained weight approximated as full can per recipe context."
+    },
+    {
+      "position": 13,
+      "name": "Chicken Stock",
+      "measurement": "350ml",
+      "grams": 350,
+      "assumptions": "350 ml chicken stock; typical low-fat prepared stock density ≈1 g/ml."
+    },
+    {
+      "position": 14,
+      "name": "Chicken",
+      "measurement": "600g",
+      "grams": 600,
+      "assumptions": "600 g cooked shredded chicken (e.g., from roasted or poached); values for skinless cooked chicken breast/thigh mix typical in French dishes."
+    },
+    {
+      "position": 15,
+      "name": "Black Olives",
+      "measurement": "16",
+      "grams": 48,
+      "assumptions": "16 pitted black olives; ≈3 g each, typical Kalamata or similar."
+    },
+    {
+      "position": 16,
+      "name": "Parsley",
+      "measurement": "2 tbs",
+      "grams": 8,
+      "assumptions": "2 tablespoons chopped fresh parsley; ≈4 g per tbsp."
+    },
+    {
+      "position": 17,
+      "name": "Gruyere cheese",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "50 g Gruyère cheese for grating on top."
+    }
+  ],
+  "nutrition": {
+    "calories": 3557.43,
+    "protein": 252.5,
+    "fat": 127.58,
+    "fiber": 52.77,
+    "carbs": 346.26
+  }
+}

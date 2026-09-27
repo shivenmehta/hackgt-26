@@ -1,0 +1,145 @@
+{
+  "id": "52830",
+  "name": "Crock Pot Chicken Baked Tacos",
+  "cuisine": "Mexican",
+  "fingerprint": "ba6951fc2b512de3fa68f259f02e5d6e44cc62adc4bbde1d59d755d5b4547262",
+  "yield": 6,
+  "minutes": 285,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 12 hard taco shells (2 tacos per serving) plus 4-6 chicken breasts scaled to 5 average breasts yielding ~6 servings total",
+    "Total time aggregates 4 hours (240 min) crock-pot high cook + 15 min prep for sauces/toppings + 15 min bake + 15 min cooling/shredding",
+    "Vinaigrette assumed to contain dairy (creamy style) based on sour cream pairing and common ranch-style vinaigrettes",
+    "Hard taco shells assumed corn-based (no wheat) but left gluten-free as null due to possible cross-contamination or uncertified status",
+    "No explicit wheat, egg, fish, shellfish, tree nuts, peanuts, soy, or sesame in listed ingredients",
+    "Milk allergen from sour cream, cheese, and milk; dairy-free false due to multiple dairy items",
+    "Vegetarian/vegan/pescatarian false due to chicken breasts"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Put the uncooked chicken breasts in the crock pot. Pour the full bottle of salad dressing over the chicken. Sprinkle the rest of the ingredients over the top and mix them in a bit with a spoon.\r\nCover your crock pot with the lid and cook on high for 4 hours.\r\nRemove all the chicken breasts from the crock pot and let cool.\r\nShred the chicken breasts and move to a glass bowl.\r\nPour most of the liquid over the shredded chicken.\r\nFOR THE TACOS:\r\nMake the guacamole sauce by mixing the avocado and green salsa together. Pour the guacamole mixture through a strainer until smooth and transfer to a squeeze bottle. Cut the tip off the lid of the squeeze bottle to make the opening more wide if needed.\r\nMake the sour cream sauce by mixing the sour cream and milk together until you get a more liquid sour cream sauce. Transfer to a squeeze bottle.\r\nIn a 9x 13 glass baking dish, fill all 12+ tacos with a layer of refried beans, cooked chicken and shredded cheese.\r\nBake at 450 for 10-15 minutes just until the cheese is melted and bubbling.\r\nOut of the oven top all the tacos with the sliced grape tomaotes, jalapeno and cilantro.\r\nFinish with a drizzle of guacamole and sour cream.\r\nEnjoy!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Breasts",
+      "measurement": "4 - 6",
+      "grams": 800,
+      "assumptions": "4-6 chicken breasts averaged to 5 medium boneless skinless breasts at ~160g each; raw weight used as entire line input before cooking and shredding"
+    },
+    {
+      "position": 2,
+      "name": "Vinaigrette Dressing",
+      "measurement": "1 bottle",
+      "grams": 350,
+      "assumptions": "Full bottle of typical creamy vinaigrette salad dressing (e.g. ranch-style) assumed at standard 12 oz / 355 ml bottle with ~350 g edible contents; recipe uses entire bottle over chicken"
+    },
+    {
+      "position": 3,
+      "name": "Cumin",
+      "measurement": "1½ tablespoon",
+      "grams": 8,
+      "assumptions": "1.5 tablespoons ground cumin; standard density ~5.3 g per tbsp"
+    },
+    {
+      "position": 4,
+      "name": "Smoked Paprika",
+      "measurement": "1 tablespoon",
+      "grams": 6,
+      "assumptions": "1 tablespoon smoked paprika; standard density ~6 g per tbsp"
+    },
+    {
+      "position": 5,
+      "name": "Garlic",
+      "measurement": "1 teaspoon",
+      "grams": 3,
+      "assumptions": "1 teaspoon minced or granulated garlic; ~3 g per tsp"
+    },
+    {
+      "position": 6,
+      "name": "Refried Beans",
+      "measurement": "1 can",
+      "grams": 250,
+      "assumptions": "1 standard 16 oz / 454 g can refried beans, using full drained edible contents ~250 g after typical liquid"
+    },
+    {
+      "position": 7,
+      "name": "Hard Taco Shells",
+      "measurement": "12",
+      "grams": 180,
+      "assumptions": "12 standard hard corn taco shells at ~15 g each; entire package used as recipe calls for 12+"
+    },
+    {
+      "position": 8,
+      "name": "Shredded Mexican Cheese",
+      "measurement": "2 cups",
+      "grams": 220,
+      "assumptions": "2 cups pre-shredded Mexican cheese blend; standard 8 oz / 226 g bag approximated to 220 g usable"
+    },
+    {
+      "position": 9,
+      "name": "Grape Tomatoes",
+      "measurement": "Halved",
+      "grams": 150,
+      "assumptions": "Grape tomatoes halved for topping ~12-15 tomatoes or 1.5 cups; plausible recipe amount ~150 g edible portion"
+    },
+    {
+      "position": 10,
+      "name": "Jalapeno",
+      "measurement": "Sliced and Seeded",
+      "grams": 30,
+      "assumptions": "1-2 seeded sliced jalapenos for topping; estimated total edible 30 g"
+    },
+    {
+      "position": 11,
+      "name": "Avocado",
+      "measurement": "Peeled and Sliced",
+      "grams": 150,
+      "assumptions": "1 large avocado peeled and sliced for guacamole base; typical edible flesh ~150 g"
+    },
+    {
+      "position": 12,
+      "name": "Green Salsa",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "2 tablespoons green salsa / salsa verde; standard density ~15 g per tbsp"
+    },
+    {
+      "position": 13,
+      "name": "Sour Cream",
+      "measurement": "3 tablespoons",
+      "grams": 45,
+      "assumptions": "3 tablespoons full-fat sour cream; standard density ~15 g per tbsp"
+    },
+    {
+      "position": 14,
+      "name": "Milk",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tablespoon milk (2% assumed); standard density ~15 g per tbsp"
+    }
+  ],
+  "nutrition": {
+    "calories": 4595.82,
+    "protein": 338.54,
+    "fat": 268.53,
+    "fiber": 36.45,
+    "carbs": 217.1
+  }
+}

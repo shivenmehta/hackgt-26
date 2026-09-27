@@ -1,0 +1,166 @@
+{
+  "id": "52953",
+  "name": "Shrimp Chow Fun",
+  "cuisine": "Chinese",
+  "fingerprint": "cf8fbee086cc2fc1dc98816fb50fce8ec0f2c71691b4592c1bcef75743e92bec",
+  "yield": 3,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Recipe scaled for 2-4 people based on 227g prawns and 250g dry noodles; conservatively estimated at 3 servings as typical for stir-fry noodle dish with these quantities.",
+    "Total active and passive time (soak overnight excluded per standard recipe timing conventions; boil 15 min + marinade 5 min + stir-fry 15-20 min) rounded to 45 minutes.",
+    "Oyster sauce classified as containing potential fish/seafood extract (ambiguous without brand spec).",
+    "Soy sauce and oyster sauce assumed to contain wheat unless certified gluten-free (ambiguous).",
+    "No dairy ingredients present.",
+    "Sesame oil present; no tree nuts or peanuts listed.",
+    "Egg is explicitly used."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1 - SOAK THE RICE NOODLES\r\nSoak the rice noodles overnight untill they are soft\r\nSTEP 2 - BOIL THE RICE NOODLES\r\nBoil the noodles for 10-15 minutes and then rinse with cold water to stop the cooking process of the noodles.\r\nSTEP 3 -MARINATING THE SHRIMP\r\nIn a bowl add the shrimp, egg, 1 pinch of white pepper, 1 Teaspoon of sesame seed oil, 1 Tablespoon corn starch and 1 tablespoon of oil\r\nMix together well\r\nSTEP 4 - STIR FRY\r\nIn a wok add 2 Tablespoons of oil, shrimp and stir fry them until it is golden brown\r\nSet the shrimp aside\r\nAdd 1 Tablespoon of oil to the work and then add minced garlic, ginger and all of the vegetables.\r\nAdd the noodles to the wok\r\nNext add sherry cooking wine, oyster sauce, sugar, vinegar, sesame seed oil, 1 pinch white pepper, and soy sauce\r\nAdd back in the shrimp\r\nTo thicken the sauce, whisk together 1 Tablespoon of corn starch and 2 Tablespoon of water in a bowl and slowly add to your stir-fry until it's the right thickness.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1529445434.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Rice Stick Noodles",
+      "measurement": "1/2 bag",
+      "grams": 250,
+      "assumptions": "1/2 bag of rice stick noodles assumed as 250g dry weight (typical 500g bag); dry rice noodles used as base before soaking/boiling per instructions."
+    },
+    {
+      "position": 2,
+      "name": "Prawns",
+      "measurement": "8 oz",
+      "grams": 227,
+      "assumptions": "8 oz prawns (shrimp) as raw peeled weight; typical for stir-fry recipes, using peeled prawn nutrition."
+    },
+    {
+      "position": 3,
+      "name": "Egg",
+      "measurement": "1/2",
+      "grams": 25,
+      "assumptions": "1/2 egg estimated at 25g edible portion (half of a large ~50g egg without shell)."
+    },
+    {
+      "position": 4,
+      "name": "Pepper",
+      "measurement": "pinch",
+      "grams": 1,
+      "assumptions": "Pinch of pepper (white pepper) estimated at 1g; negligible nutrition but included as required."
+    },
+    {
+      "position": 5,
+      "name": "Sesame Seed Oil",
+      "measurement": "2 tsp",
+      "grams": 9,
+      "assumptions": "Total 2 tsp sesame seed oil across recipe (1 tsp in marinade + 1 tsp in sauce); 9g total edible oil weight."
+    },
+    {
+      "position": 6,
+      "name": "Cornstarch",
+      "measurement": "2 tbs",
+      "grams": 16,
+      "assumptions": "Total 2 tbs cornstarch (1 tbs in marinade + 1 tbs for thickening slurry); 16g total dry weight."
+    },
+    {
+      "position": 7,
+      "name": "Oil",
+      "measurement": "4 tbs",
+      "grams": 56,
+      "assumptions": "Total 4 tbs neutral oil for stir-frying and marinade (2 tbs stir-fry shrimp + 1 tbs vegetables + 1 tbs marinade); assumed vegetable oil, 14g per tbs."
+    },
+    {
+      "position": 8,
+      "name": "Minced Garlic",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp minced garlic estimated at 5g fresh weight."
+    },
+    {
+      "position": 9,
+      "name": "Ginger",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp minced ginger estimated at 2g fresh weight."
+    },
+    {
+      "position": 10,
+      "name": "Onion",
+      "measurement": "1/2 cup",
+      "grams": 80,
+      "assumptions": "1/2 cup sliced onion estimated at 80g raw edible weight."
+    },
+    {
+      "position": 11,
+      "name": "Bean Sprouts",
+      "measurement": "1 cup",
+      "grams": 105,
+      "assumptions": "1 cup fresh bean sprouts estimated at 105g raw edible weight."
+    },
+    {
+      "position": 12,
+      "name": "Spring Onions",
+      "measurement": "1/2 cup",
+      "grams": 50,
+      "assumptions": "1/2 cup chopped spring onions (scallions) estimated at 50g raw edible weight."
+    },
+    {
+      "position": 13,
+      "name": "Cooking wine",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tbs Chinese cooking wine (sherry) estimated at 15g."
+    },
+    {
+      "position": 14,
+      "name": "Oyster Sauce",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tbs oyster sauce estimated at 15g typical bottled weight."
+    },
+    {
+      "position": 15,
+      "name": "Sugar",
+      "measurement": "1/2 tbs",
+      "grams": 6,
+      "assumptions": "1/2 tbs sugar estimated at 6g."
+    },
+    {
+      "position": 16,
+      "name": "Vinegar",
+      "measurement": "1/2 tbs",
+      "grams": 8,
+      "assumptions": "1/2 tbs rice vinegar estimated at 8g."
+    },
+    {
+      "position": 17,
+      "name": "Soy Sauce",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tbs soy sauce estimated at 15g typical bottled weight."
+    }
+  ],
+  "nutrition": {
+    "calories": 1876.92,
+    "protein": 65.4,
+    "fat": 72.82,
+    "fiber": 10.75,
+    "carbs": 238.14
+  }
+}

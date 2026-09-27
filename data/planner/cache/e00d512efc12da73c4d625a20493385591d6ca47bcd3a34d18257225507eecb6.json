@@ -1,0 +1,111 @@
+{
+  "id": "52831",
+  "name": "Chicken Karaage",
+  "cuisine": "Japanese",
+  "fingerprint": "e00d512efc12da73c4d625a20493385591d6ca47bcd3a34d18257225507eecb6",
+  "yield": 4,
+  "minutes": 75,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 4 based on 450g chicken (standard ~110g per serving for Japanese karaage)",
+    "Total time includes minimum 1 hour marination + ~15 min active prep and frying in batches",
+    "Soy sauce introduces wheat unless certified gluten-free (hence null for Gluten-free)",
+    "Sake and potato starch introduce no common allergens",
+    "Vegetable oil and lemon introduce none",
+    "No dairy, eggs, fish, shellfish, tree nuts, or peanuts listed",
+    "Fish allergen null due to potential dashi in some soy sauces but not specified here",
+    "Shellfish and sesame null as unspecified/ambiguous in source"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Add the ginger, garlic, soy sauce, sake and sugar to a bowl and whisk to combine. Add the chicken, then stir to coat evenly. Cover and refrigerate for at least 1 hour.\r\n\r\nAdd 1 inch of vegetable oil to a heavy bottomed pot and heat until the oil reaches 360 degrees F. Line a wire rack with 2 sheets of paper towels and get your tongs out. Put the potato starch in a bowl\r\n\r\nAdd a handful of chicken to the potato starch and toss to coat each piece evenly.\r\n\r\nFry the karaage in batches until the exterior is a medium brown and the chicken is cooked through. Transfer the fried chicken to the paper towel lined rack. If you want the karaage to stay crispy longer, you can fry the chicken a second time, until it's a darker color after it's cooled off once. Serve with lemon wedges.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken",
+      "measurement": "450 grams Boneless skin",
+      "grams": 450,
+      "assumptions": "Boneless chicken thighs with skin, raw weight as specified; typical values for skin-on dark meat chicken."
+    },
+    {
+      "position": 2,
+      "name": "Ginger",
+      "measurement": "1 tablespoon",
+      "grams": 6,
+      "assumptions": "Grated fresh ginger root; 1 tablespoon ≈ 6 g."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "1 clove",
+      "grams": 3,
+      "assumptions": "Minced fresh garlic clove; 1 average clove ≈ 3 g."
+    },
+    {
+      "position": 4,
+      "name": "Soy sauce",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "Regular Japanese or all-purpose soy sauce; 2 tablespoons ≈ 30 g."
+    },
+    {
+      "position": 5,
+      "name": "Sake",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "Japanese cooking sake (rice wine); 1 tablespoon ≈ 15 g."
+    },
+    {
+      "position": 6,
+      "name": "Granulated sugar",
+      "measurement": "2 teaspoon",
+      "grams": 8,
+      "assumptions": "White granulated sugar; 2 teaspoons ≈ 8 g."
+    },
+    {
+      "position": 7,
+      "name": "Potato starch",
+      "measurement": "1/3 cup",
+      "grams": 45,
+      "assumptions": "Potato starch (katakuriko); 1/3 cup ≈ 45 g, used as coating (not all may adhere but full amount estimated)."
+    },
+    {
+      "position": 8,
+      "name": "Vegetable oil",
+      "measurement": "1/3 cup",
+      "grams": 75,
+      "assumptions": "Neutral vegetable oil for deep frying; 1/3 cup added to pot but only a fraction absorbed (≈10-15% uptake assumed for total recipe estimate, using full listed quantity for conservative total)."
+    },
+    {
+      "position": 9,
+      "name": "Lemon",
+      "measurement": "1/3 cup",
+      "grams": 50,
+      "assumptions": "Fresh lemon wedges for serving; 1/3 cup juice + peel equivalent ≈ 50 g total edible portion."
+    }
+  ],
+  "nutrition": {
+    "calories": 1658.98,
+    "protein": 92.8,
+    "fat": 113.53,
+    "fiber": 2.72,
+    "carbs": 54.62
+  }
+}

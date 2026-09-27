@@ -1,0 +1,87 @@
+{
+  "id": "53256",
+  "name": "Cacik",
+  "cuisine": "Turkish",
+  "fingerprint": "1fde45131379d716be55daf4b10ebe4c94a656025930fdbf6f46e2066d7d8c13",
+  "yield": 4,
+  "minutes": 750,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical Turkish cacik/tzatziki side-dish portions (about 175-200g strained product per serving after 12hr yogurt straining and cucumber liquid loss).",
+    "Total time dominated by mandatory minimum 12hr (720min) yogurt straining step plus ~30min active prep.",
+    "Natural yoghurt classified as dairy-containing and non-vegan; no vegan alternatives listed.",
+    "No wheat, gluten, egg, fish, shellfish, peanuts or tree nuts appear in ingredients or instructions.",
+    "Sesame left null due to possible cross-contact in unspecified commercial dried mint or shared facilities, though not an explicit ingredient."
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nPut a sieve over a large bowl, line it with a thick sheet of non-dyed kitchen paper or a clean muslin cloth, and spoon in the yogurt. Cover with another sheet of kitchen paper and leave to strain in the fridge for a minimum of 12 hrs.\r\n\r\nstep 2\r\nAdd the lemon juice, most of the olive oil and the dried mint to a bowl and stir well for the dried mint to soften and soak up the juices. Mix in the strained yogurt, then pour away the strained yogurt liquid and leave that bowl to one side.\r\n\r\nstep 3\r\nHalve the cucumber(s) lengthways and remove the seeds by running a teaspoon from the top to the bottom of the flesh, halve the cucumbers widthways to make them shorter and easier to handle, then coarsely grate each one into the bowl the yogurt was straining over. Using clean hands (or a clean muslin cloth), squeeze as much of the liquid out of the cucumber as possible.\r\n\r\nstep 4\r\nAdd the strained, grated cucumber, garlic and ¾ tsp flaky salt to the rest of the ingredients and mix well. Garnish with a drizzle of extra virgin olive oil and a sprinkling of dried mint.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/16zbeu1763789342.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Natural Yoghurt",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Plain whole-milk natural yogurt; standard values for full-fat Turkish-style yogurt before straining."
+    },
+    {
+      "position": 2,
+      "name": "Lemon Juice",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "Fresh lemon juice; typical household teaspoon is ~5 ml each, total 10 g."
+    },
+    {
+      "position": 3,
+      "name": "Extra Virgin Olive Oil",
+      "measurement": "1 tablespoon",
+      "grams": 14,
+      "assumptions": "Extra virgin olive oil; 1 tablespoon = 14 g standard density."
+    },
+    {
+      "position": 4,
+      "name": "Dried Mint",
+      "measurement": "1 tablespoon",
+      "grams": 4,
+      "assumptions": "Dried mint leaves; 1 tablespoon ≈ 4 g typical density for dried herbs; fiber high as typical for dried leafy herbs."
+    },
+    {
+      "position": 5,
+      "name": "Cucumber",
+      "measurement": "1",
+      "grams": 300,
+      "assumptions": "Medium-large cucumber (≈300 g whole, edible portion after seeding/peeling losses accounted in estimate); standard raw cucumber values."
+    },
+    {
+      "position": 6,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves minced (≈6 g total); standard raw garlic nutrient profile."
+    }
+  ],
+  "nutrition": {
+    "calories": 495.5,
+    "protein": 20.58,
+    "fat": 31.11,
+    "fiber": 2.9,
+    "carbs": 38.71
+  }
+}

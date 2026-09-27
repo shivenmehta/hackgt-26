@@ -1,0 +1,146 @@
+{
+  "id": "53366",
+  "name": "Beef and Broccoli Stir-Fry",
+  "cuisine": "Chinese",
+  "fingerprint": "6a4404083e217949b5ee97aebe85e09e55c1ac8c6914eb4e18d4692f6d90e07f",
+  "yield": 4,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 4 based on 1 lb beef and 1 lb broccoli as main components, standard for stir-fry yielding 4 moderate portions with rice.",
+    "Total active and passive time (marinate 10 min + blanch 2 min + stir-fry ~5 min + prep) conservatively estimated at 30 minutes.",
+    "Oyster sauce classified as shellfish allergen (true) due to typical oyster content; could be ambiguous if vegetarian substitute but listed as is.",
+    "Wheat present via soy sauce (typically brewed with wheat); not gluten-free.",
+    "Chicken stock and oyster sauce make non-vegetarian/vegan.",
+    "No dairy, eggs, tree nuts, or peanuts listed.",
+    "Fish and sesame ambiguous (possible in some oyster sauces or cross-contact but not explicitly listed).",
+    "Dry sherry treated as Chinese rice wine per instructions."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Marinate the beef:\r\nStir together the beef marinade ingredients (1 teaspoon soy sauce, 1 teaspoon Chinese rice wine, 1/2 teaspoon cornstarch, 1/8 teaspoon black pepper) in a medium bowl.\r\n\r\nAdd the beef slices and stir until coated. Let stand for 10 minutes.\r\n\r\nPrepare the sauce:\r\nStir together the sauce ingredients (2 tablespoons oyster sauce, 1 teaspoon Chinese rice wine, 1 teaspoon soy sauce, 1/4 cup chicken broth) in a small bowl. Set aside.\r\n\r\nBlanch or steam the broccoli:\r\nBring a pot of water to a boil. Add the broccoli and cook until crisp-tender, about 2 minutes. Drain thoroughly.\r\n\r\nStir-fry the beef:\r\nHeat a large frying pan or wok over high heat until a bead of water sizzles and instantly evaporates upon contact. Add the cooking oil and swirl to coat.\r\n\r\nAdd the beef and immediately spread it out all over the surface of the wok or pan in a single layer (preferably not touching).\r\n\r\nLet the beef fry undisturbed for 1 minute. Flip the beef slices over, add the garlic to the pan, and fry for an additional 30 seconds to 1 minute until no longer pink.\r\n\r\nAdd the sauce, cornstarch, and broccoli:\r\nPour in the sauce and the cornstarch slurry (1 teaspoon cornstarch dissolved in 1 tablespoon of water). Stir until the sauce boils and thickens, about 30 seconds. Stir in the broccoli.\r\n\r\nServe immediately, with steamed rice or on its own.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/m0p0j81765568742.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Soy Sauce",
+      "measurement": "1 tsp",
+      "grams": 5.5,
+      "assumptions": "Standard soy sauce; 1 tsp ≈ 5.5 g; values for regular (not low-sodium) soy sauce."
+    },
+    {
+      "position": 2,
+      "name": "Dry sherry",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "Dry sherry (or Chinese rice wine substitute); 1 tsp ≈ 5 g; alcohol mostly evaporates but nutrients calculated on liquid basis."
+    },
+    {
+      "position": 3,
+      "name": "Cornstarch",
+      "measurement": "1/2 tsp",
+      "grams": 1.3,
+      "assumptions": "Cornstarch; 1/2 tsp ≈ 1.3 g; nearly pure carbohydrate."
+    },
+    {
+      "position": 4,
+      "name": "Black Pepper",
+      "measurement": "1/8 teaspoon",
+      "grams": 0.3,
+      "assumptions": "Ground black pepper; 1/8 tsp ≈ 0.3 g; high-fiber spice used in tiny amount."
+    },
+    {
+      "position": 5,
+      "name": "Sirloin steak",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "Raw sirloin steak (beef top sirloin, lean); 1 lb = 454 g edible portion; values for separable lean only, trimmed to 0\" fat."
+    },
+    {
+      "position": 6,
+      "name": "Oyster Sauce",
+      "measurement": "2 tablespoons",
+      "grams": 32,
+      "assumptions": "Oyster sauce; 2 Tbsp ≈ 32 g; typical commercial bottled oyster sauce."
+    },
+    {
+      "position": 7,
+      "name": "Dry sherry",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "Dry sherry (or Chinese rice wine); 1 tsp ≈ 5 g; same as earlier sherry line."
+    },
+    {
+      "position": 8,
+      "name": "Soy Sauce",
+      "measurement": "1 tablespoon",
+      "grams": 16,
+      "assumptions": "Standard soy sauce; 1 Tbsp ≈ 16 g; values for regular soy sauce."
+    },
+    {
+      "position": 9,
+      "name": "Chicken Stock",
+      "measurement": "1/4 cup",
+      "grams": 60,
+      "assumptions": "Chicken stock/broth (ready-to-use, low-sodium typical); 1/4 cup ≈ 60 g; values averaged for homemade-style stock."
+    },
+    {
+      "position": 10,
+      "name": "Broccoli",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "Fresh broccoli florets and stems (raw weight); 1 lb = 454 g; edible portion after trimming, before blanching (nutrients stable post-blanch)."
+    },
+    {
+      "position": 11,
+      "name": "High Heat Cooking Oil",
+      "measurement": "2 tablespoons",
+      "grams": 28,
+      "assumptions": "High-heat neutral cooking oil (e.g. canola or vegetable oil); 2 Tbsp ≈ 28 g; fully absorbed into recipe estimate."
+    },
+    {
+      "position": 12,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "Fresh garlic, minced; 2 cloves ≈ 6 g; standard raw garlic values."
+    },
+    {
+      "position": 13,
+      "name": "Cornstarch",
+      "measurement": "1 tsp",
+      "grams": 2.7,
+      "assumptions": "Cornstarch for slurry; 1 tsp ≈ 2.7 g; nearly pure carbohydrate."
+    },
+    {
+      "position": 14,
+      "name": "Water",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "Plain water for cornstarch slurry; 1 Tbsp ≈ 15 g; contributes no calories or macros."
+    }
+  ],
+  "nutrition": {
+    "calories": 1080.8,
+    "protein": 111.05,
+    "fat": 55.52,
+    "fiber": 12.28,
+    "carbs": 41.44
+  }
+}

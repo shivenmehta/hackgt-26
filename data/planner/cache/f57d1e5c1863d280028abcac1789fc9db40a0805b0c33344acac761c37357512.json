@@ -1,0 +1,122 @@
+{
+  "id": "52932",
+  "name": "Pouding chomeur",
+  "cuisine": "Canadian",
+  "fingerprint": "f57d1e5c1863d280028abcac1789fc9db40a0805b0c33344acac761c37357512",
+  "yield": 8,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from standard 13x9 inch cake pan size and typical dessert pudding serving size (no explicit servings given).",
+    "Preparation time estimated from explicit instruction times (mixing ~10 min, sauce ~5 min, bake 35 min) plus estimated oven preheat and pan prep (~10 min).",
+    "All-purpose flour assumed for 'Flour' (contains wheat gluten).",
+    "Butter, milk, and single cream assumed to be dairy-based (not plant-based).",
+    "No tree nuts, peanuts, fish, shellfish, soy, or sesame listed or implied."
+  ],
+  "categories": [],
+  "instructions": "In a large bowl, with an electric mixer, mix the butter and sugar till the mix is light.\r\nAdd eggs and vanilla and mix.\r\nIn another bowl, mix flour and baking powder.\r\nAlternate flour mix and milk to the butter mix.\r\nPour into a 13 inch by 9 inch greased pan.\r\nMAPLE SAUCE.\r\nIn a large casserole, bring to boil the syrup, brown sugar, cream and butter and constantly stir.\r\nReduce heat and and gently cook 2 minutes or till sauce has reduced a little bit.\r\nPour sauce gently over cake.\r\nBake at 325°f (160°c) about 35 minutes or till cake is light brown and when toothpick inserted comes out clean.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/yqqqwu1511816912.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Butter",
+      "measurement": "½ cup",
+      "grams": 113.5,
+      "assumptions": "Standard unsalted butter; entire 1/2 cup (113.5g) used in batter."
+    },
+    {
+      "position": 2,
+      "name": "Sugar",
+      "measurement": "1 cup",
+      "grams": 200,
+      "assumptions": "Granulated white sugar; entire 1 cup (200g) used."
+    },
+    {
+      "position": 3,
+      "name": "Eggs",
+      "measurement": "2",
+      "grams": 100,
+      "assumptions": "Large whole eggs; 2 large eggs average 100g total edible portion."
+    },
+    {
+      "position": 4,
+      "name": "Vanilla Extract",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "Pure vanilla extract; entire 1 tsp (4g) used."
+    },
+    {
+      "position": 5,
+      "name": "Flour",
+      "measurement": "2 cups",
+      "grams": 250,
+      "assumptions": "All-purpose white flour; entire 2 cups (250g) used."
+    },
+    {
+      "position": 6,
+      "name": "Baking Powder",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "Standard baking powder; entire 1 tsp (4g) used."
+    },
+    {
+      "position": 7,
+      "name": "Milk",
+      "measurement": "1 1/4 cup",
+      "grams": 305,
+      "assumptions": "Whole milk; entire 1 1/4 cups (305g) used."
+    },
+    {
+      "position": 8,
+      "name": "Maple Syrup",
+      "measurement": "1 1/2 cup",
+      "grams": 474,
+      "assumptions": "Pure maple syrup; entire 1 1/2 cups (474g) used in sauce (density ~316g per cup)."
+    },
+    {
+      "position": 9,
+      "name": "Brown Sugar",
+      "measurement": "1 1/2 cup",
+      "grams": 330,
+      "assumptions": "Packed brown sugar; entire 1 1/2 cups (330g) used in sauce."
+    },
+    {
+      "position": 10,
+      "name": "Single Cream",
+      "measurement": "1 1/2 cup",
+      "grams": 360,
+      "assumptions": "Single/light cream (18-20% fat); entire 1 1/2 cups (360g) used in sauce."
+    },
+    {
+      "position": 11,
+      "name": "Butter",
+      "measurement": "1/3 cup",
+      "grams": 75,
+      "assumptions": "Standard unsalted butter for sauce; entire 1/3 cup (75g) used."
+    }
+  ],
+  "nutrition": {
+    "calories": 6508.69,
+    "protein": 60.41,
+    "fat": 237.16,
+    "fiber": 6.76,
+    "carbs": 1062.73
+  }
+}

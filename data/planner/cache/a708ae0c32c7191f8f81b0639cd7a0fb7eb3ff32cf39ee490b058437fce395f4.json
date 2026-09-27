@@ -1,0 +1,102 @@
+{
+  "id": "52764",
+  "name": "Garides Saganaki",
+  "cuisine": "Greek",
+  "fingerprint": "a708ae0c32c7191f8f81b0639cd7a0fb7eb3ff32cf39ee490b058437fce395f4",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical Greek seafood recipe portions (500g prawns + sauce + 200g feta yields ~4 main servings); instructions imply 4 people with bread.",
+    "Total time summed from steps: 5 min boil + ~5 min prep + 30 min simmer + 5 min final cook + ~5 min peeling/stand time = 45 min active/passive prep-to-serve.",
+    "Parsley 'pinch' conservatively classified as 5g but does not affect diets/allergens.",
+    "Feta cheese makes Vegetarian false (animal rennet common) and Dairy-free false; no egg, fish, nuts, soy, sesame, or wheat listed.",
+    "Prawns (shellfish) and feta drive allergen flags; sauce uses wine/tomatoes but no gluten sources; bread is serving suggestion only, not ingredient.",
+    "Gluten-free is null (no barley/rye/wheat in listed ingredients, but unverified for any hidden additives in tinned tomatoes, wine, or feta)."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Place the prawns in a pot and add enough water to cover. Boil for 5 minutes. Drain, reserving the liquid, and set aside.\r\nHeat 2 tablespoons of oil in a saucepan. Add the onion; cook and stir until soft. Mix in the parsley, wine, tomatoes, garlic and remaining olive oil. Simmer, stirring occasionally, for about 30 minutes, or until the sauce is thickened.\r\nWhile the sauce is simmering, the prawns should become cool enough to handle. First remove the legs by pinching them, and then pull off the shells, leaving the head and tail on.\r\nWhen the sauce has thickened, stir in the prawns. Bring to a simmer again if the sauce has cooled with the prawns, and cook for about 5 minutes. Add the feta and remove from the heat. Let stand until the cheese starts to melt. Serve warm with slices of crusty bread.\r\nThough completely untraditional, you can add a few tablespoons of stock or passata to this recipe to make a delicious pasta sauce. Toss with pasta after adding the feta, and serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Raw king prawns",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Standard raw king prawns (shell-on); values for edible peeled portion after boiling; recipe boils then peels, but whole 500g line used as input weight with typical nutrient profile for raw prawns."
+    },
+    {
+      "position": 2,
+      "name": "Olive oil",
+      "measurement": "3 tablespoons",
+      "grams": 45,
+      "assumptions": "3 tablespoons olive oil = 45 ml (density ~0.92 g/ml, rounded to 45 g); typical extra-virgin olive oil values."
+    },
+    {
+      "position": 3,
+      "name": "Chopped onion",
+      "measurement": "1",
+      "grams": 110,
+      "assumptions": "1 medium chopped onion ≈ 110 g; standard yellow onion, raw weight as added and cooked in sauce."
+    },
+    {
+      "position": 4,
+      "name": "Freshly chopped parsley",
+      "measurement": "pinch",
+      "grams": 5,
+      "assumptions": "Pinch of freshly chopped parsley assumed as 5 g (small handful); typical flat-leaf parsley values."
+    },
+    {
+      "position": 5,
+      "name": "White wine",
+      "measurement": "250ml",
+      "grams": 250,
+      "assumptions": "250 ml dry white wine ≈ 250 g (density ≈1 g/ml); typical Sauvignon Blanc or similar values for wine."
+    },
+    {
+      "position": 6,
+      "name": "Chopped tomatoes",
+      "measurement": "1 (400g) tin",
+      "grams": 400,
+      "assumptions": "400 g tin of chopped tomatoes (including juice); typical canned plum tomatoes drained weight not subtracted as recipe uses whole tin in sauce."
+    },
+    {
+      "position": 7,
+      "name": "Minced garlic",
+      "measurement": "1/2 teaspoon",
+      "grams": 3,
+      "assumptions": "1/2 teaspoon minced garlic ≈ 3 g; typical raw garlic cloves, minced."
+    },
+    {
+      "position": 8,
+      "name": "Cubed Feta cheese",
+      "measurement": "1 (200g) pack",
+      "grams": 200,
+      "assumptions": "200 g pack of cubed feta cheese; standard Greek feta values, added at end and partially melted."
+    }
+  ],
+  "nutrition": {
+    "calories": 1734.07,
+    "protein": 126.09,
+    "fat": 93.78,
+    "fiber": 10.41,
+    "carbs": 53.69
+  }
+}

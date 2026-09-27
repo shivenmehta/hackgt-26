@@ -1,0 +1,118 @@
+{
+  "id": "53147",
+  "name": "Arroz con gambas y calamar",
+  "cuisine": "Spanish",
+  "fingerprint": "e836263c532189d52904227e6530273e22d56c1724d67d333af0106a8baf91d7",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical paella-style rice dish portions (450g rice + ~1.1kg seafood/stock for 4 adult mains).",
+    "Total time summed from explicit instruction timings (onion 5min + 1-2min + wine 1-2min + 5min + 12min + 5-6min) plus ~3min standing; rounded conservatively.",
+    "Pescatarian true as all ingredients are seafood/plant-based with no meat.",
+    "Gluten-free true: no barley/rye/wheat/oats; rice and listed items compatible.",
+    "Dairy-free true: no milk/cream/cheese.",
+    "Seafood stock treated as fish-based (allergen true) but not dairy/vegetarian.",
+    "Squid and prawns trigger shellfish allergen; stock triggers fish allergen.",
+    "No tree nuts, peanuts, soy, sesame, eggs, milk, or wheat detected in ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nPeel and devein most of the prawns (a fishmonger should be able to do this for you), keeping a few whole for decoration, if you like. Heat the olive oil in a large frying pan or shallow flameproof casserole over a medium-low heat and fry the onion for 5 mins until softened. Add the bay leaf, saffron, rice and tomato purée, and cook for 1-2 mins more, stirring.\r\n\r\nstep 2\r\nPour in the wine and bubble for 1-2 mins, then pour in the seafood stock and 150ml water. Cook for 5 mins, then add the squid, season well and stir to combine. Bring to the boil, then cover and reduce the heat to a gentle simmer. Cook for 12 mins more, adding a little more water if the mixture starts to look dry.\r\n\r\nstep 3\r\nUncover the pan and stir through the peeled prawns, then arrange any whole prawns on top of the rice mixture. Cover again and simmer for a further 5-6 mins until the prawns are pink and cooked through. Leave to stand for a couple of minutes before serving from the pan.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/jc6oub1763196663.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Raw King Prawns",
+      "measurement": "24",
+      "grams": 720,
+      "assumptions": "24 raw king prawns estimated at 30 g each edible weight after peeling (most peeled per instructions, a few left whole); using typical raw prawn nutrition."
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "2 tbsp",
+      "grams": 27,
+      "assumptions": "2 tbsp olive oil = 27 g standard density; typical extra virgin olive oil values."
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 small",
+      "grams": 70,
+      "assumptions": "1 small onion estimated at 70 g peeled and chopped; standard raw onion nutrition."
+    },
+    {
+      "position": 4,
+      "name": "Bay Leaf",
+      "measurement": "1",
+      "grams": 0.5,
+      "assumptions": "1 bay leaf is ~0.5 g; negligible nutrition so zeroed."
+    },
+    {
+      "position": 5,
+      "name": "Saffron",
+      "measurement": "1 pinch",
+      "grams": 0.1,
+      "assumptions": "1 pinch saffron estimated at 0.1 g; typical saffron nutrition values."
+    },
+    {
+      "position": 6,
+      "name": "Paella Rice",
+      "measurement": "450g",
+      "grams": 450,
+      "assumptions": "450 g paella rice as given; typical short-grain white rice values (raw weight)."
+    },
+    {
+      "position": 7,
+      "name": "Tomato Puree",
+      "measurement": "2 teaspoons",
+      "grams": 10,
+      "assumptions": "2 teaspoons tomato puree estimated at 10 g; typical concentrated tomato puree values."
+    },
+    {
+      "position": 8,
+      "name": "White Wine",
+      "measurement": "200ml",
+      "grams": 200,
+      "assumptions": "200 ml white wine ≈ 200 g; typical dry white wine nutrition."
+    },
+    {
+      "position": 9,
+      "name": "Seafood stock",
+      "measurement": "650ml",
+      "grams": 650,
+      "assumptions": "650 ml seafood stock ≈ 650 g; assumed light homemade-style stock with minimal calories (not concentrated bouillon)."
+    },
+    {
+      "position": 10,
+      "name": "Squid",
+      "measurement": "3 Medium",
+      "grams": 360,
+      "assumptions": "3 medium squid estimated at 120 g each cleaned/edible weight; typical raw squid nutrition (instructions add it whole to simmer)."
+    }
+  ],
+  "nutrition": {
+    "calories": 3067.39,
+    "protein": 228.05,
+    "fat": 46.04,
+    "fiber": 10.58,
+    "carbs": 370.42
+  }
+}

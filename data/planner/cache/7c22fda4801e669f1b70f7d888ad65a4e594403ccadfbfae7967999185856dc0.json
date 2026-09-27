@@ -1,0 +1,97 @@
+{
+  "id": "52919",
+  "name": "Fennel Dauphinoise",
+  "cuisine": "French",
+  "fingerprint": "7c22fda4801e669f1b70f7d888ad65a4e594403ccadfbfae7967999185856dc0",
+  "yield": 2,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe instructions indicate 2 ramekins, so yield is 2 servings",
+    "Total time is sum of 10 min simmer + 40 min bake + ~10 min prep/oven heat",
+    "Butter for greasing and Parmesan 'to serve' are included in ingredient list and classified conservatively",
+    "No wheat, eggs, fish, shellfish, nuts, peanuts, soy or sesame in listed ingredients",
+    "Milk, double cream, butter and Parmesan confirm dairy presence",
+    "All ingredients compatible with vegetarian and pescatarian diets",
+    "No gluten-containing ingredients listed; recipe is gluten-free",
+    "Dairy ingredients make it incompatible with vegan and dairy-free"
+  ],
+  "categories": [],
+  "instructions": "Heat oven to 180C/160C fan/gas 4. Put potatoes, fennel, and garlic in a medium non-stick pan. Pour in milk and double cream, season well and simmer gently, covered, for 10 mins, stirring halfway through, until potatoes are just tender.\r\nDivide the mixture between 2 small (about 150ml) buttered ramekins and scatter with Parmesan. Bake for 40 mins until the potatoes are golden and tender when pierced with a knife. Snip the reserved fennel fronds over before serving.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ytttsv1511798734.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Potatoes",
+      "measurement": "225g",
+      "grams": 225,
+      "assumptions": "Raw potato flesh only; standard white potato values"
+    },
+    {
+      "position": 2,
+      "name": "Fennel",
+      "measurement": "1 small",
+      "grams": 200,
+      "assumptions": "1 small fennel bulb ~200g edible trimmed weight (excluding tough outer stalks and core); raw fennel bulb values"
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "1 clove finely chopped",
+      "grams": 3,
+      "assumptions": "1 medium garlic clove ≈3g peeled and chopped; standard raw garlic values"
+    },
+    {
+      "position": 4,
+      "name": "Milk",
+      "measurement": "75 ml",
+      "grams": 77,
+      "assumptions": "75ml semi-skimmed milk (density ≈1.03g/ml); standard cow's milk values"
+    },
+    {
+      "position": 5,
+      "name": "Double Cream",
+      "measurement": "100ml",
+      "grams": 97,
+      "assumptions": "100ml double (heavy) cream (density ≈0.97g/ml); standard UK double cream values"
+    },
+    {
+      "position": 6,
+      "name": "Butter",
+      "measurement": "For Greasing",
+      "grams": 5,
+      "assumptions": "Small amount of butter used to grease two ramekins; standard unsalted butter values"
+    },
+    {
+      "position": 7,
+      "name": "Parmesan Cheese",
+      "measurement": "to serve",
+      "grams": 15,
+      "assumptions": "Grated Parmesan scattered on top of both ramekins (≈15g total); standard hard Parmesan values"
+    }
+  ],
+  "nutrition": {
+    "calories": 696.51,
+    "protein": 17.04,
+    "fat": 44.76,
+    "fiber": 11.21,
+    "carbs": 62.14
+  }
+}

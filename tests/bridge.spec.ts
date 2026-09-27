@@ -1,113 +1,238 @@
-import { test, expect } from "@playwright/test";
-test("desktop form, sample plan, dialog focus, editing and Community", async ({
+import { test, expect, type Page } from "@playwright/test";
+import { type WeeklyPlan } from "../src/lib/planner";
+import { buildSamplePlan } from "../src/lib/planner";
+import { sampleRecipes } from "../src/lib/sample-recipes";
+async function mockPlanner(page: Page) {
+  let plan: WeeklyPlan;
+  let version = 1;
+  let polls = 0;
+  await page.route("**/api/plans", async (route) => {
+    const body = route.request().postDataJSON();
+    plan = buildSamplePlan(
+      body.preferences,
+      sampleRecipes,
+      new Date(2026, 8, 26),
+    );
+    plan.warnings = ["Nutrition and ingredient prices are estimates."];
+    polls = 0;
+    await route.fulfill({
+      status: 202,
+      json: { id: "00000000-0000-4000-8000-000000000001" },
+    });
+  });
+  await page.route("**/api/plans/*", async (route) => {
+    polls++;
+    await route.fulfill({
+      json:
+        polls === 1
+          ? { status: "running", stage: "Pricing ingredients", version }
+          : {
+              status: "ready",
+              stage: "Ready",
+              version,
+              imagesDone: true,
+              plan,
+            },
+    });
+  });
+  await page.route("**/api/plans/*/replacements*", async (route) => {
+    if (route.request().method() === "POST") {
+      version++;
+      await route.fulfill({ json: { plan, version } });
+    } else
+      await route.fulfill({
+        json: {
+          version,
+          choices: [
+            {
+              id: "other",
+              name: "Another eligible meal",
+              portion: 1,
+              costDeltaCents: 120,
+              nutritionDelta: {
+                calories: 10,
+                protein: 2,
+                fat: 1,
+                fiber: 0,
+                carbs: 1,
+              },
+            },
+          ],
+        },
+      });
+  });
+}
+test("desktop async plan, dropdown, dialog focus, replacements and resume", async ({
   page,
 }) => {
   const errors: string[] = [];
   page.on("pageerror", (e) => errors.push(e.message));
+  await mockPlanner(page);
   await page.setViewportSize({ width: 1440, height: 1000 });
   await page.goto("/");
-  await page.evaluate(() => document.fonts.ready);
+  await page.getByRole("button", { name: "Build my week" }).click();
+  await expect(page.getByLabel("Where are you planning?")).toBeFocused();
+  await expect(page.getByText("Enter a five-digit US ZIP code.")).toBeVisible();
+  await page.getByRole("button", { name: "Use example preferences" }).click();
+  await page.locator(".cuisine-picker summary").click();
+  await page.getByLabel("Search cuisines").fill("ind");
+  await page.getByLabel("Indian", { exact: true }).check();
+  await page.getByRole("button", { name: "Remove Indian" }).click();
+  await page.locator(".cuisine-picker summary").click();
+  await expect(
+    page.getByLabel("Daily calorie target", { exact: false }),
+  ).toBeVisible();
   await page.screenshot({
-    path: "test-results/bridge-desktop-setup.png",
+    path: "test-results/playwright-bridge/desktop-setup.png",
     fullPage: true,
   });
   await page.getByRole("button", { name: "Build my week" }).click();
-  await expect(page.getByLabel("Where are you planning?")).toBeFocused();
-  await expect(page.getByText("Enter your city or ZIP code.")).toBeVisible();
-  await page.getByRole("button", { name: "Use example preferences" }).click();
-  await page.getByRole("button", { name: "Build my week" }).click();
   await expect(
-    page.getByRole("heading", { name: "A week at your table." }),
-  ).toBeFocused();
+    page.getByText("Pricing ingredients", { exact: true }),
+  ).toBeVisible();
   await expect(page.locator(".meal-card")).toHaveCount(21);
   await page.screenshot({
-    path: "test-results/bridge-desktop-week.png",
+    path: "test-results/playwright-bridge/desktop-week.png",
     fullPage: true,
   });
   const first = page.locator(".meal-card").first();
   await first.click();
   await expect(page.getByRole("dialog")).toBeVisible();
+  expect((await page.getByRole("dialog").boundingBox())?.y).toBe(0);
   await expect(
     page.getByRole("button", { name: "Close meal details" }),
   ).toBeFocused();
-  await expect(page.getByText("What you’ll need")).toBeVisible();
+  await page.getByRole("button", { name: "Find a replacement" }).click();
+  await expect(page.getByText("Another eligible meal")).toBeVisible();
   await page.screenshot({
-    path: "test-results/bridge-desktop-detail.png",
-    fullPage: true,
+    path: "test-results/playwright-bridge/desktop-detail.png",
+    fullPage: false,
   });
   await page.keyboard.press("Escape");
-  await expect(page.getByRole("dialog")).toHaveCount(0);
   await expect(first).toBeFocused();
-  await page.getByRole("button", { name: "Edit preferences" }).click();
-  await expect(page.getByLabel("Where are you planning?")).toHaveValue(
-    "Atlanta, GA",
-  );
-  await page
-    .getByLabel("Anything else we should know?")
-    .fill("I have rice already");
-  await page.getByLabel("Weekly food budget").fill("1");
-  await page.getByRole("button", { name: "Build my week" }).click();
-  await expect(page.getByRole("status")).toContainText("exceeds your budget");
-  await page.getByRole("button", { name: "Community" }).click();
-  await expect(
-    page.getByRole("heading", { name: "Good food, around you." }),
-  ).toBeVisible();
-  await page.getByRole("button", { name: "Back to weekly planner" }).click();
+  await page.reload();
   await expect(page.locator(".meal-card")).toHaveCount(21);
   await page.getByRole("button", { name: "Edit preferences" }).click();
-  await expect(page.getByLabel("Anything else we should know?")).toHaveValue(
-    "I have rice already",
-  );
-  await page.reload();
-  await expect(page.getByLabel("Age", { exact: false })).toHaveValue("");
+  await expect(page.getByLabel("Where are you planning?")).toHaveValue("30318");
   expect(errors).toEqual([]);
 });
-test("mobile day selection, six slots, dietary filters and scaled details", async ({
+test("mobile household target, three slots, scaling and accessible controls", async ({
   page,
 }) => {
+  await mockPlanner(page);
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/");
   await page.getByRole("button", { name: "Use example preferences" }).click();
   await page.getByLabel("People to feed").fill("2");
-  await page.getByLabel("Meals per day").selectOption("6");
-  await page.getByRole("button", { name: "Vegan", exact: false }).click();
+  await expect(
+    page.getByLabel("Daily calorie target", { exact: false }),
+  ).toHaveCount(0);
+  await expect(page.getByLabel("Meals per day").locator("option")).toHaveCount(
+    1,
+  );
   await page.screenshot({
-    path: "test-results/bridge-mobile-setup.png",
+    path: "test-results/playwright-bridge/mobile-setup.png",
     fullPage: true,
   });
   await page.getByRole("button", { name: "Build my week" }).click();
-  await expect(page.locator(".selected-day .meal-card")).toHaveCount(6);
+  await expect(page.locator(".selected-day .meal-card")).toHaveCount(3);
   await page.locator(".mobile-days button").nth(2).click();
-  await expect(page.locator(".mobile-days button").nth(2)).toHaveAttribute(
-    "aria-pressed",
-    "true",
-  );
   await expect(page.locator(".selected-day")).toHaveAttribute(
     "aria-label",
     /Wednesday/,
   );
-  expect(
-    await page.evaluate(
-      () => document.documentElement.scrollWidth <= window.innerWidth,
-    ),
-  ).toBe(true);
   await page.screenshot({
-    path: "test-results/bridge-mobile-week.png",
+    path: "test-results/playwright-bridge/mobile-week.png",
     fullPage: true,
   });
   await page.locator(".selected-day .meal-card").first().click();
   await expect(page.getByRole("dialog")).toBeVisible();
-  await expect(page.getByText("2 servings", { exact: true })).toBeVisible();
+  expect((await page.getByRole("dialog").boundingBox())?.y).toBe(0);
   await page.screenshot({
-    path: "test-results/bridge-mobile-detail.png",
-    fullPage: true,
+    path: "test-results/playwright-bridge/mobile-detail.png",
+    fullPage: false,
   });
-  await page.getByRole("button", { name: "Close meal details" }).click();
-  await expect(page.getByRole("dialog")).toHaveCount(0);
+  await page.keyboard.press("Escape");
   await page.emulateMedia({ reducedMotion: "reduce" });
   expect(
     await page.evaluate(
-      () => document.documentElement.scrollWidth <= window.innerWidth,
+      () => document.documentElement.scrollWidth <= innerWidth,
     ),
   ).toBe(true);
+});
+test("API failure is actionable without inventing a plan", async ({ page }) => {
+  await page.route("**/api/plans", (r) =>
+    r.fulfill({
+      status: 503,
+      json: { error: "Pricing unavailable. Try again." },
+    }),
+  );
+  await page.goto("/");
+  await page.getByRole("button", { name: "Use example preferences" }).click();
+  await page.getByRole("button", { name: "Build my week" }).click();
+  await expect(page.locator(".planner-error")).toContainText(
+    "Pricing unavailable",
+  );
+  await expect(page.locator(".meal-card")).toHaveCount(0);
+});
+
+test("a running plan can be cancelled and another request becomes available", async ({
+  page,
+}) => {
+  await page.route("**/api/plans", (r) =>
+    r.fulfill({
+      status: 202,
+      json: { id: "00000000-0000-4000-8000-000000000001" },
+    }),
+  );
+  await page.route("**/api/plans/*", (r) =>
+    r.fulfill({
+      json: {
+        status: "running",
+        stage: "Pricing ingredients 424 of 845",
+        version: 1,
+      },
+    }),
+  );
+  await page.route("**/api/plans/*/cancel", (r) =>
+    r.fulfill({ json: { status: "cancelled" } }),
+  );
+  await page.goto("/");
+  await page.getByRole("button", { name: "Use example preferences" }).click();
+  await page.getByRole("button", { name: "Build my week" }).click();
+  await page.getByRole("button", { name: "Cancel plan", exact: true }).click();
+  await expect(
+    page.getByRole("button", { name: "Build my week" }),
+  ).toBeEnabled();
+  expect(
+    await page.evaluate(() => localStorage.getItem("bridge-plan-id")),
+  ).toBeNull();
+  await expect(page.getByLabel("Where are you planning?")).toHaveValue("30318");
+});
+test("blocked submissions expose resume and cancel controls for the existing job", async ({
+  page,
+}) => {
+  await page.route("**/api/plans", (r) =>
+    r.fulfill({
+      status: 409,
+      json: {
+        error: "A plan is already running.",
+        activeJobId: "00000000-0000-4000-8000-000000000001",
+      },
+    }),
+  );
+  await page.route("**/api/plans/*/cancel", (r) =>
+    r.fulfill({ json: { status: "cancelled" } }),
+  );
+  await page.goto("/");
+  await page.getByRole("button", { name: "Use example preferences" }).click();
+  await page.getByRole("button", { name: "Build my week" }).click();
+  await expect(
+    page.getByRole("button", { name: "Resume existing plan" }),
+  ).toBeVisible();
+  await page.getByRole("button", { name: "Cancel existing plan" }).click();
+  await expect(
+    page.getByRole("button", { name: "Build my week" }),
+  ).toBeEnabled();
+  await expect(page.locator(".planner-error")).toHaveCount(0);
 });

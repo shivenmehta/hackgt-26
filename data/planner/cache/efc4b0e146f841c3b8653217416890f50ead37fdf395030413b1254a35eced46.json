@@ -1,0 +1,116 @@
+{
+  "id": "53342",
+  "name": "Figgy Duff",
+  "cuisine": "Canadian",
+  "fingerprint": "efc4b0e146f841c3b8653217416890f50ead37fdf395030413b1254a35eced46",
+  "yield": 6,
+  "minutes": 120,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical pudding recipes with similar total ingredient weight (~780 g dry + wet mix) that produce 6-8 servings when sliced like cake; 6 chosen conservatively.",
+    "Preparation time is boil duration of 1.5 hours (90 min) plus ~30 min for mixing and handling, totaling 120 min; no other active prep steps listed.",
+    "All-purpose flour, brown sugar, baking powder, spices, raisins, molasses, and water introduce no incompatible ingredients for Vegetarian or Pescatarian.",
+    "Melted butter makes it incompatible with Vegan and Dairy-free.",
+    "Wheat from all-purpose flour makes it incompatible with Gluten-free.",
+    "Butter (dairy) and wheat flour confidently present as allergens; others null due to no explicit presence or cross-contact info."
+  ],
+  "categories": [],
+  "instructions": "In a medium bowl, whisk together flour, brown sugar, baking powder, and spices.\r\nAdd raisins and stir well, making sure to coat the raisins in the flour mixture.\r\nAdd melted butter, molasses and water and mix with a wooden spoon. Form a ball with the spoon or your hands and put the dough ball in a cotton pudding bag. Tie the bag, leaving at least 1 inch of room to allow the pudding to expand while cooking.\r\nBoil pudding for 1.5 hours. (In NL, this is typically done in the pot along with Jiggs Dinner, but it can be done independently.)\r\nWhen the duff is firm, remove it from the boiling water and let it cool slightly before removing it from the pudding bag.\r\nSlice pudding like a cake and serve with the warm sauce of your choice: rum butter sauce, warmed molasses or Molasses Coady sauce (1 cup (250 mL) molasses, 1/4 cup (60 mL) butter, 1/4 cup (60 mL) water) is common in Newfoundland.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/kzi6p51764787198.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "All purpose flour",
+      "measurement": "2 cups",
+      "grams": 250,
+      "assumptions": "Standard all-purpose flour; 1 cup ≈ 125 g."
+    },
+    {
+      "position": 2,
+      "name": "Brown Sugar",
+      "measurement": "1/2 cup",
+      "grams": 110,
+      "assumptions": "Packed brown sugar; 1/2 cup ≈ 110 g."
+    },
+    {
+      "position": 3,
+      "name": "Baking Powder",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "Double-acting baking powder; 2 tsp ≈ 10 g."
+    },
+    {
+      "position": 4,
+      "name": "Ginger",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Ground ginger; 1 tsp ≈ 2 g."
+    },
+    {
+      "position": 5,
+      "name": "Allspice",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Ground allspice; 1 tsp ≈ 2 g."
+    },
+    {
+      "position": 6,
+      "name": "Cinnamon",
+      "measurement": "1 tsp",
+      "grams": 2.6,
+      "assumptions": "Ground cinnamon; 1 tsp ≈ 2.6 g."
+    },
+    {
+      "position": 7,
+      "name": "Raisins",
+      "measurement": "1 cup",
+      "grams": 145,
+      "assumptions": "Seedless raisins; 1 cup ≈ 145 g."
+    },
+    {
+      "position": 8,
+      "name": "Melted Butter",
+      "measurement": "1/3 cup",
+      "grams": 75,
+      "assumptions": "Unsalted butter melted; 1/3 cup ≈ 75 g."
+    },
+    {
+      "position": 9,
+      "name": "Molasses",
+      "measurement": "1/2 cup",
+      "grams": 160,
+      "assumptions": "Unsulphured molasses; 1/2 cup ≈ 160 g."
+    },
+    {
+      "position": 10,
+      "name": "Water",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "Tap water; 1 tablespoon ≈ 15 g."
+    }
+  ],
+  "nutrition": {
+    "calories": 2786.98,
+    "protein": 31.41,
+    "fat": 64.5,
+    "fiber": 14.23,
+    "carbs": 540.31
+  }
+}

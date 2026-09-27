@@ -1,0 +1,141 @@
+{
+  "id": "52870",
+  "name": "Chickpea Fajitas",
+  "cuisine": "Mexican",
+  "fingerprint": "4fae2597641603a1318f28db55c959ac8696206fcf8358d600c0aa4ea25ca0cc",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 4 corn tortillas (one per serving) as the base for building fajitas; typical for this style of recipe.",
+    "Total time is sum of active prep (~15 min) and roasting (20-25 min); rounded up conservatively to include griddling and assembly.",
+    "Vegetarian: true per source and all ingredients compatible.",
+    "Vegan: false due to sour cream (dairy).",
+    "Pescatarian: true as no meat/fish but dairy present.",
+    "Gluten-free: true; corn tortillas are gluten-free, no wheat/barley/rye present.",
+    "Dairy-free: false due to sour cream.",
+    "Milk allergen: true from sour cream.",
+    "No fish, shellfish, peanuts, or wheat confidently absent.",
+    "Tree nuts, eggs, soy, sesame ambiguous/unspecified so null."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat oven to 200C/180C fan/gas 6 and line a baking tray with foil. Drain the chickpeas, pat dry and tip onto the prepared baking tray. Add the oil and paprika, toss to coat, then roast for 20-25 mins until browned and crisp, shaking halfway through cooking.\r\n\r\nMeanwhile, put the tomatoes and onion in a small bowl with the vinegar and set aside to pickle. Put the avocado in another bowl and mash with a fork, leaving some larger chunks. Stir in the lime juice and season well. Mix the soured cream with the harissa and set aside until ready to serve.\r\n\r\nHeat a griddle pan until nearly smoking. Add the tortillas , one at a time, charring each side until hot with griddle lines. \r\n\r\nPut everything on the table and build the fajitas : spread a little of the harissa cream over the tortilla, top with roasted chickpeas, guacamole, pickled salsa and coriander, if you like. Serve with the lime wedges for squeezing over.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chickpeas",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Canned chickpeas, drained weight as given; standard drained canned values used"
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "1 tblsp",
+      "grams": 14,
+      "assumptions": "1 tablespoon olive oil weighs ~14 g; pure oil values"
+    },
+    {
+      "position": 3,
+      "name": "Paprika",
+      "measurement": "pinch",
+      "grams": 2,
+      "assumptions": "Pinch of paprika estimated at 2 g (small recipe amount); typical smoked or sweet paprika values"
+    },
+    {
+      "position": 4,
+      "name": "Tomatoes",
+      "measurement": "2 small cut chunks",
+      "grams": 200,
+      "assumptions": "Two small tomatoes cut into chunks; total ~200 g edible portion"
+    },
+    {
+      "position": 5,
+      "name": "Red Onions",
+      "measurement": "1 finely sliced",
+      "grams": 110,
+      "assumptions": "One medium red onion finely sliced; total ~110 g edible portion"
+    },
+    {
+      "position": 6,
+      "name": "Red Wine Vinegar",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 teaspoons red wine vinegar; negligible macros, standard vinegar values"
+    },
+    {
+      "position": 7,
+      "name": "Avocado",
+      "measurement": "1",
+      "grams": 200,
+      "assumptions": "One medium avocado (~200 g with skin/pit removed, edible flesh only)"
+    },
+    {
+      "position": 8,
+      "name": "Lime",
+      "measurement": "Juice of 1",
+      "grams": 40,
+      "assumptions": "Juice of 1 lime estimated at ~40 g; standard lime juice values"
+    },
+    {
+      "position": 9,
+      "name": "Lime",
+      "measurement": "Chopped",
+      "grams": 20,
+      "assumptions": "Additional chopped lime (likely wedges or zest) estimated at 20 g; same as lime juice values"
+    },
+    {
+      "position": 10,
+      "name": "Sour Cream",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "100 g soured cream as given; typical full-fat values"
+    },
+    {
+      "position": 11,
+      "name": "Harissa Spice",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 teaspoons harissa paste/spice estimated at 10 g; typical harissa values"
+    },
+    {
+      "position": 12,
+      "name": "Corn Tortillas",
+      "measurement": "4",
+      "grams": 200,
+      "assumptions": "4 standard corn tortillas (~50 g each); typical values for 6-inch corn tortillas"
+    },
+    {
+      "position": 13,
+      "name": "Coriander",
+      "measurement": "to serve",
+      "grams": 15,
+      "assumptions": "Coriander (cilantro) to serve estimated at 15 g (small bunch portion); standard fresh herb values"
+    }
+  ],
+  "nutrition": {
+    "calories": 1852.65,
+    "protein": 58.66,
+    "fat": 81.56,
+    "fiber": 57.87,
+    "carbs": 243.9
+  }
+}

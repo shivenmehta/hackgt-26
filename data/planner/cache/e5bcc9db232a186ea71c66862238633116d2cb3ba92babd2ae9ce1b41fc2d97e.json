@@ -1,0 +1,94 @@
+{
+  "id": "53310",
+  "name": "Challah",
+  "cuisine": "Polish",
+  "fingerprint": "e5bcc9db232a186ea71c66862238633116d2cb3ba92babd2ae9ce1b41fc2d97e",
+  "yield": 1,
+  "minutes": 160,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical single-loaf braided challah recipe using 500g flour",
+    "Preparation time summed from explicit instruction times (10 min yeast, 10 min knead, 60 min rise, 40 min rise, 25-30 min bake) plus ~15 min for shaping/oven prep",
+    "Eggs classified as present due to 2 beaten eggs in ingredients and brushing step",
+    "Wheat classified as present due to strong white bread flour",
+    "Sesame classified as ambiguous due to optional poppy or sesame seeds",
+    "Tree nuts classified as ambiguous with no explicit presence or exclusion",
+    "All other allergens confidently absent based on listed ingredients",
+    "Vegetarian true as all ingredients compatible",
+    "Vegan false due to eggs",
+    "Pescatarian true as compatible with listed ingredients",
+    "Gluten-free false due to wheat flour",
+    "Dairy-free true with no milk or dairy ingredients"
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nCombine the yeast, a pinch of the sugar and a couple tablespoons of lukewarm water in a small bowl. Stir to dissolve the yeast, then leave for 10 mins until foamy.\r\n\r\nstep 2\r\nMeanwhile, combine the flour, the remaining sugar and 2 tsp fine salt in a large bowl. Make a well in the centre, then add half the beaten egg, the yeast mixture and the oil. Pour in 200ml lukewarm water (it should feel slightly warm to the touch) and stir with a spoon, then mix using one hand, keeping the other clean while you bring the dough together. If there are a lot of very dry bits, gradually add a little water to just bring it together – you don't want it to get too wet and sticky. The dough should be moist, but not soggy.\r\n\r\nstep 3\r\nOnce the dough has come together, turn it out onto a lightly floured surface. Knead using both hands for 10 mins until smooth and a bit springy. If it gets very sticky, add a very small amount of flour – as little as possible. A dough scraper is useful if the dough is sticking to the work surface. Stretch the sides of the dough down and pull together to form a ball. Lightly oil a bowl, then lightly roll the dough ball around the bowl so it's coated in the oil. Cover with a clean tea towel and leave in a warm place for 1 hr, or until dough has doubled in size.\r\n\r\nstep 4\r\nLine a baking sheet with baking parchment. Turn the dough out onto a clean work surface and divide into three equal pieces, weighing for accuracy, if you like. Roll each piece into a long sausage shape about 25cm long, tapering them slightly at both ends. Lay the pieces out in front of you, parallel to one another with a couple centimetres between each. Bring the sausages together at the top end, then plait them down the length, tucking in the ends when you reach the bottom. Carefully transfer the loaf to the prepared baking sheet and loosely cover with a clean tea towel. Leave to rise until puffy and billowy, about 40 mins.\r\n\r\nstep 5\r\nMeanwhile, heat the oven to 200C/180C fan/gas 6. Gently brush the rest of the beaten egg all over the challah, getting it into all the crevices, and sprinkle with the poppy or sesame seeds, if using. Bake on a middle shelf of the oven for 25-30 mins, until the loaf is golden brown underneath and sounds hollow when tapped. Check after about 15 mins – if the top of the loaf has started to get too dark, cover it with foil. Leave to cool on a wire rack, then serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/fm01ky1764366365.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Strong white bread flour",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Standard nutritional profile for strong white bread flour; assumes dry weight as listed."
+    },
+    {
+      "position": 2,
+      "name": "Caster Sugar",
+      "measurement": "70g",
+      "grams": 70,
+      "assumptions": "Standard caster sugar (sucrose); 100% carbohydrate by weight."
+    },
+    {
+      "position": 3,
+      "name": "Yeast",
+      "measurement": "10g",
+      "grams": 10,
+      "assumptions": "Typical active dry yeast packet values; small quantity typical for bread recipes."
+    },
+    {
+      "position": 4,
+      "name": "Egg",
+      "measurement": "2 Beaten",
+      "grams": 100,
+      "assumptions": "Two large eggs (approx 50g each, whole beaten); standard large egg nutrition."
+    },
+    {
+      "position": 5,
+      "name": "Sunflower Oil",
+      "measurement": "70 ml",
+      "grams": 64,
+      "assumptions": "Sunflower oil density approx 0.92 g/ml; 70ml converted to weight, pure fat."
+    },
+    {
+      "position": 6,
+      "name": "Poppy Seeds",
+      "measurement": "1 tablespoon",
+      "grams": 9,
+      "assumptions": "1 tablespoon poppy seeds (approx 9g); standard seed nutrition for topping."
+    }
+  ],
+  "nutrition": {
+    "calories": 2880.13,
+    "protein": 78.62,
+    "fat": 86.08,
+    "fiber": 17.65,
+    "carbs": 440.61
+  }
+}

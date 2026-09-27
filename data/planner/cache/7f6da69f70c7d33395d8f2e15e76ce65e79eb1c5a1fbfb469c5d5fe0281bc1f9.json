@@ -1,0 +1,102 @@
+{
+  "id": "53069",
+  "name": "Bistek",
+  "cuisine": "Filipino",
+  "fingerprint": "7f6da69f70c7d33395d8f2e15e76ce65e79eb1c5a1fbfb469c5d5fe0281bc1f9",
+  "yield": 4,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical 1 lb beef bistek recipes serving 4 adults as a main dish with rice.",
+    "Total time aggregates minimum 60 min marination + active cooking steps (frying, sautéing, simmering until tender, which may require 20-30 additional minutes of covered simmering with possible water additions).",
+    "Soy sauce introduces ambiguous wheat content (many brands contain wheat; not specified as tamari or gluten-free).",
+    "Lemon classified conservatively as non-allergenic (citrus not in listed allergens).",
+    "Onions listed as '3 parts' interpreted as 3 medium onions total based on provided gram conversion.",
+    "No fish sauce, oyster sauce, or other ambiguous compound sauces present."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "0.\tMarinate beef in soy sauce, lemon (or calamansi), and ground black pepper for at least 1 hour. Note: marinate overnight for best result\r\n1.\tHeat the cooking oil in a pan then pan-fry half of the onions until the texture becomes soft. Set aside\r\n2.\tDrain the marinade from the beef. Set it aside. Pan-fry the beef on the same pan where the onions were fried for 1 minute per side. Remove from the pan. Set aside\r\n3.\tAdd more oil if needed. Saute garlic and remaining raw onions until onion softens.\r\n4.\tPour the remaining marinade and water. Bring to a boil.\r\n5.\tAdd beef. Cover the pan and simmer until the meat is tender. Note: Add water as needed.\r\n6.\tSeason with ground black pepper and salt as needed. Top with pan-fried onions.\r\n7.\tTransfer to a serving plate. Serve hot. Share and Enjoy!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/4pqimk1683207418.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef",
+      "measurement": "1 lb",
+      "grams": 453.6,
+      "assumptions": "Standard raw beef sirloin or similar cut for bistek; 1 lb converted to grams; values for typical lean-to-moderately fatty beef used in Filipino recipes."
+    },
+    {
+      "position": 2,
+      "name": "Soy Sauce",
+      "measurement": "5 tablespoons",
+      "grams": 75,
+      "assumptions": "Regular soy sauce; 5 tbsp ≈ 75 g based on typical density of ~15 g per tbsp; common values for sodium-rich Asian-style soy sauce."
+    },
+    {
+      "position": 3,
+      "name": "Lemon",
+      "measurement": "1",
+      "grams": 58,
+      "assumptions": "Juice and some pulp from 1 medium lemon (edible portion after squeezing; ~58 g juice/pulp yield); standard lemon nutrition."
+    },
+    {
+      "position": 4,
+      "name": "Garlic",
+      "measurement": "3 cloves",
+      "grams": 9,
+      "assumptions": "3 average garlic cloves ≈ 9 g total; raw garlic values."
+    },
+    {
+      "position": 5,
+      "name": "Onion",
+      "measurement": "3 parts",
+      "grams": 300,
+      "assumptions": "3 medium onions total (≈100 g each raw, peeled/edible portion); split between frying and sautéing per instructions; standard yellow onion nutrition."
+    },
+    {
+      "position": 6,
+      "name": "Olive Oil",
+      "measurement": "4 tbs",
+      "grams": 54,
+      "assumptions": "Olive oil; 4 tbsp ≈ 54 g (standard 13.5 g per tbsp); pure oil values, including for any 'as needed' frying."
+    },
+    {
+      "position": 7,
+      "name": "Water",
+      "measurement": "1 cup",
+      "grams": 237,
+      "assumptions": "1 cup water = 237 g; plain water contributes zero macros."
+    },
+    {
+      "position": 8,
+      "name": "Salt",
+      "measurement": "1 pinch",
+      "grams": 0.3,
+      "assumptions": "1 pinch table salt ≈ 0.3 g; negligible contribution to macros, treated as zero."
+    }
+  ],
+  "nutrition": {
+    "calories": 1806.59,
+    "protein": 126.95,
+    "fat": 122.93,
+    "fiber": 7.66,
+    "carbs": 40.77
+  }
+}

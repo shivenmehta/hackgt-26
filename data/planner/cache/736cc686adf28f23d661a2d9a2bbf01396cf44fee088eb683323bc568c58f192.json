@@ -1,0 +1,125 @@
+{
+  "id": "53258",
+  "name": "Hot cumin lamb wrap with crunchy slaw & spicy mayo",
+  "cuisine": "Turkish",
+  "fingerprint": "736cc686adf28f23d661a2d9a2bbf01396cf44fee088eb683323bc568c58f192",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": null,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 4 pitas and 4 lamb steaks as 4 servings",
+    "Total time is approximate active/prep+cook time based on instructions (griddling 6-8 min + quick prep and assembly); no explicit total given",
+    "Mayonnaise assumed to contain egg (standard unless specified otherwise)",
+    "Pita bread assumed to contain wheat (standard unless certified gluten-free)",
+    "No dairy ingredients present",
+    "Peppadew peppers assumed jarred in vinegar brine (no allergens added)",
+    "No tree nuts, peanuts, fish, shellfish, sesame, or soy confidently detected",
+    "Lamb, oil, cumin, sugar, vinegar, carrots, spring onions, cabbage are allergen-free"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat a griddle pan. Rub the lamb steaks with the oil, cumin and some seasoning. Griddle for about 3-4 mins on each side or until cooked to your liking. Place to one side on a plate to rest.\r\n\r\nstep 2\r\nIn a large bowl, stir the sugar into the vinegar until dissolved. Add the carrots, spring onions, cabbage and some seasoning, and toss together.\r\n\r\nstep 3\r\nBlitz the whole peppers and the mayo in a food processor. Add a heap of the salad to each flatbread. Slice the lamb, trimming off any excess fat and lay on top of the salad, drizzling with the resting juices. Spoon over the mayo and scatter with a few of the sliced peppers. Roll up and eat. If using pitta, split and stuff. Serve any extra salad on the side.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/jyylmo1763790808.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Lamb Leg",
+      "measurement": "4 small",
+      "grams": 800,
+      "assumptions": "4 small lamb leg steaks total ~800g raw edible portion based on typical 200g per small steak; raw values used as lamb is griddled briefly then rested."
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "2 tsp olive oil; standard density ~5g per tsp."
+    },
+    {
+      "position": 3,
+      "name": "Ground Cumin",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp ground cumin; typical weight for 1 tsp spice."
+    },
+    {
+      "position": 4,
+      "name": "Sugar",
+      "measurement": "1 tablespoon",
+      "grams": 12,
+      "assumptions": "1 tablespoon sugar; standard 12g per tbsp."
+    },
+    {
+      "position": 5,
+      "name": "White Wine Vinegar",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "3 tablespoons white wine vinegar; ~15g per tbsp, negligible macros."
+    },
+    {
+      "position": 6,
+      "name": "Carrots",
+      "measurement": "2",
+      "grams": 160,
+      "assumptions": "2 medium carrots, raw, edible portion ~80g each; typical recipe size."
+    },
+    {
+      "position": 7,
+      "name": "Spring Onions",
+      "measurement": "2 sliced",
+      "grams": 30,
+      "assumptions": "2 spring onions, sliced; typical ~15g each raw edible."
+    },
+    {
+      "position": 8,
+      "name": "White Cabbage",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "400g white cabbage as given; raw values, used in slaw."
+    },
+    {
+      "position": 9,
+      "name": "Sweet Peppadew Peppers",
+      "measurement": "5",
+      "grams": 100,
+      "assumptions": "5 sweet Peppadew peppers; typical drained jarred weight ~20g each, whole used in mayo and garnish."
+    },
+    {
+      "position": 10,
+      "name": "Mayonnaise",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "3 tablespoons mayonnaise; ~15g per tbsp, standard full-fat."
+    },
+    {
+      "position": 11,
+      "name": "Pita Bread",
+      "measurement": "4 large",
+      "grams": 240,
+      "assumptions": "4 large pita breads; typical 60g each, used as wraps."
+    }
+  ],
+  "nutrition": {
+    "calories": 3319.44,
+    "protein": 229.61,
+    "fat": 183.59,
+    "fiber": 27.12,
+    "carbs": 197.88
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "52772",
+  "name": "Teriyaki Chicken Casserole",
+  "cuisine": "Japanese",
+  "fingerprint": "e41c251a4303f702992dd8fb9d50ad1dd52bcb6730f73ac5f14f774f3d7d5e12",
+  "yield": 6,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical casserole recipes with 2 chicken breasts, 3 cups cooked rice, and 12 oz vegetables, divided into 6 adult portions.",
+    "Total time aggregates explicit instruction steps (sauce ~5 min, bake chicken 35 min, bake casserole 15 min, stand 5 min) plus estimated prep/parallel tasks (vegetable cooking, shredding, mixing) to reach 60 minutes.",
+    "Stir-fry vegetables assumed to be a standard frozen mix without added soy, wheat, or allergens unless specified.",
+    "Brown rice assumed plain and cooked without additives.",
+    "Ground ginger, minced garlic, brown sugar, cornstarch, and water introduce no listed allergens or diet conflicts.",
+    "Non-stick spray assumed neutral (e.g., vegetable oil based) with no impact on classifications."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Preheat oven to 350° F. Spray a 9x13-inch baking pan with non-stick spray.\r\nCombine soy sauce, ½ cup water, brown sugar, ginger and garlic in a small saucepan and cover. Bring to a boil over medium heat. Remove lid and cook for one minute once boiling.\r\nMeanwhile, stir together the corn starch and 2 tablespoons of water in a separate dish until smooth. Once sauce is boiling, add mixture to the saucepan and stir to combine. Cook until the sauce starts to thicken then remove from heat.\r\nPlace the chicken breasts in the prepared pan. Pour one cup of the sauce over top of chicken. Place chicken in oven and bake 35 minutes or until cooked through. Remove from oven and shred chicken in the dish using two forks.\r\n*Meanwhile, steam or cook the vegetables according to package directions.\r\nAdd the cooked vegetables and rice to the casserole dish with the chicken. Add most of the remaining sauce, reserving a bit to drizzle over the top when serving. Gently toss everything together in the casserole dish until combined. Return to oven and cook 15 minutes. Remove from oven and let stand 5 minutes before serving. Drizzle each serving with remaining sauce. Enjoy!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "soy sauce",
+      "measurement": "3/4 cup",
+      "grams": 180,
+      "assumptions": "Standard soy sauce nutrition; 3/4 cup ≈ 180g assuming typical density."
+    },
+    {
+      "position": 2,
+      "name": "water",
+      "measurement": "1/2 cup",
+      "grams": 120,
+      "assumptions": "Plain water; 1/2 cup = 118g rounded to 120g, zero macros."
+    },
+    {
+      "position": 3,
+      "name": "brown sugar",
+      "measurement": "1/4 cup",
+      "grams": 50,
+      "assumptions": "Packed brown sugar; 1/4 cup ≈ 50g."
+    },
+    {
+      "position": 4,
+      "name": "ground ginger",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "Ground ginger; 1/2 tsp ≈ 1g, typical dried spice values."
+    },
+    {
+      "position": 5,
+      "name": "minced garlic",
+      "measurement": "1/2 teaspoon",
+      "grams": 3,
+      "assumptions": "Minced garlic; 1/2 tsp ≈ 3g using standard garlic nutrition."
+    },
+    {
+      "position": 6,
+      "name": "cornstarch",
+      "measurement": "4 Tablespoons",
+      "grams": 30,
+      "assumptions": "Cornstarch; 4 Tbsp ≈ 30g, typical refined starch values."
+    },
+    {
+      "position": 7,
+      "name": "chicken breasts",
+      "measurement": "2",
+      "grams": 450,
+      "assumptions": "Raw boneless skinless chicken breasts; 2 typical breasts total ≈ 450g edible portion."
+    },
+    {
+      "position": 8,
+      "name": "stir-fry vegetables",
+      "measurement": "1 (12 oz.)",
+      "grams": 340,
+      "assumptions": "Frozen stir-fry vegetable mix (12 oz package); 340g total, typical mixed veg blend values, cooked but using frozen base."
+    },
+    {
+      "position": 9,
+      "name": "brown rice",
+      "measurement": "3 cups",
+      "grams": 600,
+      "assumptions": "Cooked brown rice; 3 cups ≈ 600g using standard cooked volume-to-weight (≈195-200g per cup)."
+    }
+  ],
+  "nutrition": {
+    "calories": 1992.35,
+    "protein": 175.86,
+    "fat": 23.96,
+    "fiber": 24.19,
+    "carbs": 260.81
+  }
+}

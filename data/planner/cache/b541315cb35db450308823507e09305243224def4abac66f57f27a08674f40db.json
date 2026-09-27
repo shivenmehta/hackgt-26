@@ -1,0 +1,126 @@
+{
+  "id": "53085",
+  "name": "15-minute chicken & halloumi burgers",
+  "cuisine": "American",
+  "fingerprint": "b541315cb35db450308823507e09305243224def4abac66f57f27a08674f40db",
+  "yield": 2,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe name and instructions explicitly indicate '15-minute' preparation and cooking time.",
+    "Yield estimated as 2 based on 2 chicken breasts cut into 2 pieces each, 2 buns, and typical burger-per-person structure; servings field was null.",
+    "Chicken breasts confirm non-vegetarian, non-vegan, non-pescatarian.",
+    "Halloumi (cheese), mayonnaise, and sour cream confirm presence of dairy (Milk allergen true, Dairy-free false).",
+    "Buns assumed to contain wheat/gluten based on standard burger buns (Gluten-free and Wheat false).",
+    "Mayonnaise typically contains eggs (Eggs true).",
+    "No explicit tree nuts, peanuts, shellfish, or sesame; soy ambiguous due to possible presence in hot sauce.",
+    "Fish null due to potential anchovies in some Worcestershire-style hot sauces but not confirmed.",
+    "All classifications based strictly on listed ingredients without assuming unlisted items or substitutions."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1\r\n\r\nPut the chicken breasts between two pieces of baking parchment and use a rolling pin to gently bash them until they are approximately 1cm thick. Cut each chicken breast into two even pieces.\r\n\r\nSTEP 2\r\n\r\nIf you're using a frying pan, heat two frying pans over medium-high heat, with one of them containing oil. Fry the chicken in the oiled pan for 3-4 mins on each side until they are cooked through. Season the chicken, reduce the heat, drizzle in the chilli sauce and half of the lemon juice, and cook for an additional 1-2 mins until the sauce is reduced. Remove the chicken from the heat.\r\n\r\nSTEP 3\r\n\r\nIf you're using an air-fryer, preheat it to 180C for 4 mins. Add the chicken to the air-fryer and cook for 12 mins. Drizzle over the chilli sauce and half the lemon juice and cook for an additional 1-2 mins until the chicken is cooked through and the sauce is reduced. Remove the chicken and keep it warm.\r\nSTEP 4\r\n\r\nWhile the chicken is cooking, toast the buns in the dry frying pan for 30 seconds. Transfer them to a plate. If you're using an air fryer, put the buns in the air fryer for 1-2 mins until they are warm. Increase the air fryer temperature to 200C. Add the halloumi to the air fryer basket and cook for 10 mins, turning halfway through, until it's golden. Toss the cabbage with the mayo and the remaining lemon juice.\r\n\r\nSTEP 5\r\n\r\nSpoon the hummus (or dip of your choice) into the toasted buns, then top with the rocket, chilli chicken, halloumi, and peppers. Drizzle with a little more chilli sauce, spoon over the cabbage, season with black pepper, and top with the bun lids. Serve with any extra cabbage on the side or a green salad.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vdwloy1713225718.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Breasts",
+      "measurement": "2",
+      "grams": 400,
+      "assumptions": "Typical raw boneless skinless chicken breast; 200g per breast is a standard medium-large size used in burger recipes."
+    },
+    {
+      "position": 2,
+      "name": "Oil",
+      "measurement": "1 tbsp",
+      "grams": 14,
+      "assumptions": "1 tbsp of neutral cooking oil (e.g. vegetable or sunflower) as specified for frying the chicken."
+    },
+    {
+      "position": 3,
+      "name": "Hotsauce",
+      "measurement": "4 tbsp",
+      "grams": 60,
+      "assumptions": "4 tbsp hot/chilli sauce (e.g. typical sriracha-style or similar burger sauce); ~15g per tbsp based on common bottle nutrition."
+    },
+    {
+      "position": 4,
+      "name": "Lemon Juice",
+      "measurement": "½",
+      "grams": 30,
+      "assumptions": "Juice from half a medium lemon (~30g juice); standard yield and nutrition for fresh lemon juice."
+    },
+    {
+      "position": 5,
+      "name": "Buns",
+      "measurement": "2",
+      "grams": 150,
+      "assumptions": "2 typical burger buns (brioche or similar); ~75g each including both top and bottom halves."
+    },
+    {
+      "position": 6,
+      "name": "Cheese",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "250g halloumi cheese as listed; standard block size and typical Cypriot-style nutrition values."
+    },
+    {
+      "position": 7,
+      "name": "Cabbage",
+      "measurement": "¼",
+      "grams": 250,
+      "assumptions": "Quarter of a medium white cabbage (~250g edible portion after removing core); typical for coleslaw-style prep."
+    },
+    {
+      "position": 8,
+      "name": "Mayonnaise",
+      "measurement": "2 tbsp",
+      "grams": 30,
+      "assumptions": "2 tbsp mayonnaise; ~15g per tbsp using standard full-fat mayo nutrition."
+    },
+    {
+      "position": 9,
+      "name": "Sour Cream",
+      "measurement": "4 tbsp",
+      "grams": 60,
+      "assumptions": "4 tbsp sour cream; ~15g per tbsp using typical full-fat sour cream values (listed separately from mayo in ingredients)."
+    },
+    {
+      "position": 10,
+      "name": "Lettuce",
+      "measurement": "4 leaves",
+      "grams": 40,
+      "assumptions": "4 leaves of lettuce/rocket (assumed as the 'Lettuce' listed, matching 'rocket' in instructions); ~10g per average large leaf, fresh edible portion."
+    },
+    {
+      "position": 11,
+      "name": "Red Pepper",
+      "measurement": "2",
+      "grams": 160,
+      "assumptions": "2 medium red peppers (~80g each after deseeding); typical fresh sweet pepper nutrition."
+    }
+  ],
+  "nutrition": {
+    "calories": 2490.56,
+    "protein": 195.13,
+    "fat": 132.73,
+    "fiber": 15.01,
+    "carbs": 118.46
+  }
+}

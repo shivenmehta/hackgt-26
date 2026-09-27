@@ -1,0 +1,114 @@
+{
+  "id": "53021",
+  "name": "Golabki (cabbage roll)",
+  "cuisine": "Polish",
+  "fingerprint": "b8777f63bd8f8124f6e3d3b503b8634184d19944c91d4b150cc55293c6efaba7",
+  "yield": 6,
+  "minutes": 135,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from ~18 rolls at 3 rolls per serving (standard for cabbage roll recipes); original source implies 6 servings.",
+    "Total time sums active prep (~35 min for boiling, cooling, chopping, mixing, rolling) + 60 min bake + 10 min rest/cool; rice assumed pre-cooked or parboiled in 20 min not explicitly listed but implied in workflow.",
+    "Butter classified as dairy (Milk=true); rice assumed plain white rice with no wheat/barley additives (Gluten-free=null); tomato puree assumed plain with no hidden soy/wheat (Soy/Wheat=null).",
+    "No eggs, fish, shellfish, tree nuts, peanuts, or sesame listed or implied."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Bring a large pot of lightly salted water to a boil. Place cabbage head into water, cover pot, and cook until cabbage leaves are slightly softened enough to remove from head, 3 minutes. Remove cabbage from pot and let cabbage sit until leaves are cool enough to handle, about 10 minutes.\r\n\r\nRemove 18 whole leaves from the cabbage head, cutting out any thick tough center ribs. Set whole leaves aside. Chop the remainder of the cabbage head and spread it in the bottom of a casserole dish.\r\n\r\nMelt butter in a large skillet over medium-high heat. Cook and stir onion in hot butter until tender, 5 to 10 minutes. Cool.\r\n\r\nStir onion, beef, pork, rice, garlic, 1 teaspoon salt, and 1/4 teaspoon pepper together in a large bowl.\r\n\r\nPreheat oven to 350 degrees F (175 degrees C).\r\n\r\nPlace about 1/2 cup beef mixture on a cabbage leaf. Roll cabbage around beef mixture, tucking in sides to create an envelope around the meat. Repeat with remaining leaves and meat mixture. Place cabbage rolls in a layer atop the chopped cabbage in the casserole dish; season rolls with salt and black pepper.\r\n\r\nWhisk tomato soup, tomato juice, and ketchup together in a bowl. Pour tomato soup mixture over cabbage rolls and cover dish wish aluminum foil.\r\n\r\nBake in the preheated oven until cabbage is tender and meat is cooked through, about 1 hour.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/q8sp3j1593349686.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Cabbage",
+      "measurement": "1",
+      "grams": 1134,
+      "assumptions": "1 medium head of green cabbage (about 2.5 lb / 1134 g total, raw, edible portion after removing core; typical for cabbage rolls recipe yielding ~18 leaves plus chopped base)"
+    },
+    {
+      "position": 2,
+      "name": "Butter",
+      "measurement": "2 tbs",
+      "grams": 28,
+      "assumptions": "2 tablespoons of butter (standard 14 g per tbsp)"
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium onion, chopped (~110 g raw edible portion)"
+    },
+    {
+      "position": 4,
+      "name": "Ground Beef",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "1 lb (454 g) raw ground beef (80/20 typical for recipes)"
+    },
+    {
+      "position": 5,
+      "name": "Ground Pork",
+      "measurement": "1/2 lb",
+      "grams": 227,
+      "assumptions": "0.5 lb (227 g) raw ground pork (typical 80/20 mix)"
+    },
+    {
+      "position": 6,
+      "name": "Rice",
+      "measurement": "1 1/2 cups",
+      "grams": 240,
+      "assumptions": "1.5 cups uncooked white rice (standard 160 g per cup; measured dry before cooking as per recipe mixing step)"
+    },
+    {
+      "position": 7,
+      "name": "Garlic",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp minced garlic (~5 g, typical for 1 tsp)"
+    },
+    {
+      "position": 8,
+      "name": "Salt",
+      "measurement": "1 tsp",
+      "grams": 6,
+      "assumptions": "1 tsp table salt (standard 6 g; sodium not counted in macros here)"
+    },
+    {
+      "position": 9,
+      "name": "Black Pepper",
+      "measurement": "1/4 tsp",
+      "grams": 0.6,
+      "assumptions": "1/4 tsp ground black pepper (~0.6 g; negligible macros)"
+    },
+    {
+      "position": 10,
+      "name": "Tomato Puree",
+      "measurement": "3 cans",
+      "grams": 750,
+      "assumptions": "3 cans (15 oz / ~425 g each drained equivalent but using full contents; total 750 g tomato puree/sauce as listed, typical canned tomato product macros adjusted for puree consistency)"
+    }
+  ],
+  "nutrition": {
+    "calories": 2827.51,
+    "protein": 151.52,
+    "fat": 160.13,
+    "fiber": 42.54,
+    "carbs": 212.87
+  }
+}

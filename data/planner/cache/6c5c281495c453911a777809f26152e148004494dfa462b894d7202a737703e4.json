@@ -1,0 +1,145 @@
+{
+  "id": "53233",
+  "name": "Salt & pepper squid",
+  "cuisine": "Vietnamese",
+  "fingerprint": "6c5c281495c453911a777809f26152e148004494dfa462b894d7202a737703e4",
+  "yield": 4,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical BBC Good Food / similar salt & pepper squid recipes (400 g squid serves 4 as starter or light lunch).",
+    "Total time is active prep + frying time; no passive times given.",
+    "Dipping sauce ingredients (cucumber, red onion, rice vinegar, sugar, fish sauce) assumed to form one shared bowl for all servings.",
+    "Sunflower oil classified conservatively as absorbed fat only (not a listed diet allergen).",
+    "Plain flour confirmed as wheat flour (not gluten-free).",
+    "Fish sauce confirms non-vegetarian, non-vegan and presence of fish allergen; squid confirms shellfish allergen.",
+    "No milk, egg, tree nuts, peanuts or sesame ingredients listed."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nTo make the dipping sauce, mix all the ingredients in a small bowl until the sugar has dissolved, then set aside. Mix the cornflour and plain flour with both peppers and 2 tsp sea salt in a large bowl, then set aside. Line a tray with kitchen paper and make sure you have more salt to sprinkle with.\r\n\r\nstep 2\r\nHeat about 7cm of oil to 180C in a deep fryer, wok or deep pan. If you don’t have a thermometer, you can test it with a cube of bread – it should brown in 20 secs. Coat the squid well with the flour mix and fry in batches for about 2 mins each or until crisp. Use a slotted spoon to lift out the squid, then drain on the kitchen paper and sprinkle with a little more salt. Serve the squid scattered with the spring onion and chilli, with the dipping sauce on the side.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/yxiilf1763759428.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Corn Flour",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "Standard cornflour (cornstarch) values; used as dry coating."
+    },
+    {
+      "position": 2,
+      "name": "Plain Flour",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "Standard plain white wheat flour values; used as dry coating."
+    },
+    {
+      "position": 3,
+      "name": "Black Pepper",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "Ground black pepper; 2 tsp ≈ 10 g based on typical density of ground pepper."
+    },
+    {
+      "position": 4,
+      "name": "Szechuan Peppercorns",
+      "measurement": "2 tsp",
+      "grams": 6,
+      "assumptions": "Ground Szechuan peppercorns; 2 tsp ≈ 6 g; typical values for Szechuan pepper."
+    },
+    {
+      "position": 5,
+      "name": "Sunflower Oil",
+      "measurement": "For frying",
+      "grams": 40,
+      "assumptions": "Sunflower oil for deep frying; estimated 40 g absorbed by the 400 g squid across batches (typical 8-12 % absorption for battered fried squid)."
+    },
+    {
+      "position": 6,
+      "name": "Squid",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Raw squid (edible portion); typical mixed squid values, cleaned and ready to fry."
+    },
+    {
+      "position": 7,
+      "name": "Spring Onions",
+      "measurement": "Sliced",
+      "grams": 20,
+      "assumptions": "Sliced spring onions (scallions); estimated 20 g as garnish (≈ 2-3 onions)."
+    },
+    {
+      "position": 8,
+      "name": "Green Chilli",
+      "measurement": "Sliced",
+      "grams": 15,
+      "assumptions": "Sliced green chilli; estimated 15 g (≈ 1 medium chilli) as garnish."
+    },
+    {
+      "position": 9,
+      "name": "Red Chilli",
+      "measurement": "1 chopped",
+      "grams": 30,
+      "assumptions": "1 chopped red chilli; estimated 30 g (≈ 1 large chilli) including seeds."
+    },
+    {
+      "position": 10,
+      "name": "Cucumber",
+      "measurement": "1/2",
+      "grams": 150,
+      "assumptions": "½ cucumber; standard medium cucumber half ≈ 150 g, part of dipping sauce."
+    },
+    {
+      "position": 11,
+      "name": "Red Onions",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 chopped red onion; standard medium onion ≈ 110 g, part of dipping sauce."
+    },
+    {
+      "position": 12,
+      "name": "Rice Vinegar",
+      "measurement": "100 ml",
+      "grams": 100,
+      "assumptions": "Rice vinegar; 100 ml ≈ 100 g, used in dipping sauce."
+    },
+    {
+      "position": 13,
+      "name": "Caster Sugar",
+      "measurement": "1 tablespoon",
+      "grams": 12,
+      "assumptions": "Caster sugar; 1 tablespoon ≈ 12 g, used in dipping sauce."
+    },
+    {
+      "position": 14,
+      "name": "Fish Sauce",
+      "measurement": "2 tsp",
+      "grams": 10,
+      "assumptions": "Fish sauce; 2 tsp ≈ 10 g, used in dipping sauce."
+    }
+  ],
+  "nutrition": {
+    "calories": 1547.04,
+    "protein": 78.46,
+    "fat": 48.72,
+    "fiber": 11.77,
+    "carbs": 186.7
+  }
+}

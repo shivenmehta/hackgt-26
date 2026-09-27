@@ -1,0 +1,104 @@
+{
+  "id": "53006",
+  "name": "Moussaka",
+  "cuisine": "Greek",
+  "fingerprint": "5f3e114c846e17daa2d528eb2cce69c46b3dc6f2d50767a4118ce80416cc8189",
+  "yield": 4,
+  "minutes": 25,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical 4-serving BBC Good Food moussaka-style recipes using similar 500g beef quantities.",
+    "Minutes estimated from explicit instruction times (5 min browning + 3-5 min microwave + heating through + grilling) rounded conservatively; no explicit total or per-step prep times given.",
+    "Greek yogurt classified as dairy (milk).",
+    "Parmesan classified as dairy (milk).",
+    "Egg is explicitly listed and used.",
+    "No wheat, barley, rye or oats; gluten-free classification holds.",
+    "Tomato puree and canned tomatoes treated as tomato products without additives that would introduce allergens or gluten.",
+    "No fish, shellfish, tree nuts, peanuts, soy or sesame ingredients or compounds listed."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat the grill to high. Brown the beef in a deep ovenproof frying pan over a high heat for 5 mins. Meanwhile, prick the aubergine with a fork, then microwave on High for 3-5 mins until soft. Mix the yogurt, egg and parmesan together, then add a little seasoning.\r\n\r\nStir the tomatoes, purée and potatoes in with the beef with some seasoning and heat through. Smooth the surface of the beef mixture with the back of a spoon, then slice the cooked aubergine and arrange on top. Pour the yogurt mixture over the aubergines, smooth out evenly, then grill until the topping has set and turned golden.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Minced/ground beef, typical 20% fat content as used in Greek moussaka recipes; raw weight before browning."
+    },
+    {
+      "position": 2,
+      "name": "Aubergine",
+      "measurement": "1 large",
+      "grams": 400,
+      "assumptions": "1 large aubergine estimated at 400g raw edible flesh; typical size for recipes, including skin which is consumed after microwaving and slicing."
+    },
+    {
+      "position": 3,
+      "name": "Greek Yogurt",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Plain Greek yogurt, full-fat strained style common in Greek cuisine; matches the 150g measurement directly."
+    },
+    {
+      "position": 4,
+      "name": "Egg",
+      "measurement": "1 beaten",
+      "grams": 50,
+      "assumptions": "1 large beaten egg estimated at ~50g edible portion (without shell); standard large egg weight used in recipes."
+    },
+    {
+      "position": 5,
+      "name": "Parmesan",
+      "measurement": "3 tbs",
+      "grams": 15,
+      "assumptions": "Grated parmesan cheese; 3 tablespoons estimated at 15g based on typical packed volume (5g per tbsp)."
+    },
+    {
+      "position": 6,
+      "name": "Tomato",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Canned chopped tomatoes or passata equivalent; uses the full 400g can weight as drained/edible content in the recipe."
+    },
+    {
+      "position": 7,
+      "name": "Tomato Puree",
+      "measurement": "4 tbs",
+      "grams": 60,
+      "assumptions": "Tomato puree/paste; 4 tablespoons estimated at 60g (15g per tbsp) based on typical density and recipe usage."
+    },
+    {
+      "position": 8,
+      "name": "Potatoes",
+      "measurement": "350g",
+      "grams": 350,
+      "assumptions": "Peeled/boiled potatoes; matches the 350g measurement as prepared weight added to the pan."
+    }
+  ],
+  "nutrition": {
+    "calories": 2072.5,
+    "protein": 139.65,
+    "fat": 118.65,
+    "fiber": 29.4,
+    "carbs": 130
+  }
+}

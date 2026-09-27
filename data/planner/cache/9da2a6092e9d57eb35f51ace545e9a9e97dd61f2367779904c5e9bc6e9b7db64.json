@@ -1,0 +1,88 @@
+{
+  "id": "52885",
+  "name": "Bubble & Squeak",
+  "cuisine": "British",
+  "fingerprint": "9da2a6092e9d57eb35f51ace545e9a9e97dd61f2367779904c5e9bc6e9b7db64",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical Bubble & Squeak recipes using similar quantities (≈800-900 g total ingredients) which commonly serve 4 as a side or light main.",
+    "Preparation time summed from explicit instruction steps (5-6 min frying vegetables + ≈10-12 min for potato incorporation, pressing, turning, and browning) and rounded; excludes any prior boiling of potatoes or sprouts as not mentioned in provided instructions.",
+    "Butter classified as dairy source (Milk allergen true).",
+    "Bacon classified as meat (excludes Vegetarian, Vegan, Pescatarian).",
+    "No wheat, gluten, eggs, fish, shellfish, nuts, peanuts, soy, or sesame ingredients listed (Wheat false; others false or null).",
+    "Gluten-free true as no barley/rye/wheat/uncertified oats present."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Melt the fat in a non-stick pan, allow it to get nice and hot, then add the bacon. As it begins to brown, add the onion and garlic. Next, add the sliced sprouts or cabbage and let it colour slightly. All this will take 5-6 mins.\r\nNext, add the potato. Work everything together in the pan and push it down so that the mixture covers the base of the pan – allow the mixture to catch slightly on the base of the pan before turning it over and doing the same again. It’s the bits of potato that catch in the pan that define the term ‘bubble and squeak’, so be brave and let the mixture colour. Cut into wedges and serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xusqvw1511638311.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Butter",
+      "measurement": "1 tbs",
+      "grams": 14,
+      "assumptions": "Standard unsalted butter; 1 tbs = 14 g."
+    },
+    {
+      "position": 2,
+      "name": "Bacon",
+      "measurement": "4",
+      "grams": 120,
+      "assumptions": "Streaky bacon rashers; 4 typical UK rashers ≈ 120 g total."
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 finely sliced",
+      "grams": 110,
+      "assumptions": "Medium onion finely sliced; 1 medium onion ≈ 110 g."
+    },
+    {
+      "position": 4,
+      "name": "Garlic Clove",
+      "measurement": "1 chopped",
+      "grams": 3,
+      "assumptions": "1 average garlic clove chopped ≈ 3 g."
+    },
+    {
+      "position": 5,
+      "name": "Brussels Sprouts",
+      "measurement": "20",
+      "grams": 200,
+      "assumptions": "20 medium Brussels sprouts; whole raw weight ≈ 200 g."
+    },
+    {
+      "position": 6,
+      "name": "Potatoes",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "400 g raw potatoes (as given); peeled/boiled then used in recipe."
+    }
+  ],
+  "nutrition": {
+    "calories": 1043.25,
+    "protein": 31.93,
+    "fat": 60.47,
+    "fiber": 18.33,
+    "carbs": 97.84
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "52817",
+  "name": "Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt",
+  "cuisine": "American",
+  "fingerprint": "41d408a148240ffbb78aeebe0601d5b96c4a7bb1c5c1619265933f245fc3506a",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": null,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on total volume of ingredients (6 small eggplants + 2 cups tomatoes + 1 can chickpeas + 1.5 cups yogurt) for a main dish skillet recipe serving 2-4 people; typical for Serious Eats one-pot wonders style.",
+    "Total active and passive preparation/cooking time summed from instructions: ~20 min eggplant browning + ~5 min harissa/chickpea/tomato cooking + parallel yogurt mixing = 25-35 min overall; conservatively using 35 to account for heating, seasoning, water adjustments, and chopping parsley.",
+    "Greek yogurt classified as containing milk/dairy; no explicit gluten sources (harissa assumed to be spice blend without wheat).",
+    "Parsley, cumin, harissa, olive oil, eggplant, chickpeas, and tomatoes introduce no listed allergens with high confidence; 'harissa spice' treated as dry blend without ambiguous compounds.",
+    "No meat, fish, or eggs present; vegetarian confirmed by source and ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat the oil in a 12-inch skillet over high heat until shimmering. Add the eggplants and lower the heat to medium. Season with salt and pepper as you rotate the eggplants, browning them on all sides. Continue to cook, turning regularly, until a fork inserted into the eggplant meets no resistance (you may have to stand them up on their fat end to finish cooking the thickest parts), about 20 minutes, lowering the heat and sprinkling water into the pan as necessary if the eggplants threaten to burn or smoke excessively.\r\n\r\n2.\r\nMix the harissa, chickpeas and tomatoes together, then add to the eggplants. Cook until the tomatoes have blistered and broken down, about 5 minutes more. Season with salt and pepper and add water as necessary to thin to a saucy consistency. Meanwhile, combine the yogurt and cumin in a serving bowl. Season with salt and pepper.\r\n\r\n3.\r\nTop the eggplant mixture with the parsley, drizzle with more extra virgin olive oil, and serve with the yogurt on the side.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/yqwtvu1487426027.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "4 tablespoons",
+      "grams": 54,
+      "assumptions": "Standard extra virgin olive oil; 1 tbsp = 13.5 g, so 4 tbsp = 54 g total for the recipe."
+    },
+    {
+      "position": 2,
+      "name": "Egg Plants",
+      "measurement": "6 small",
+      "grams": 900,
+      "assumptions": "6 small eggplants total ~900 g edible portion (assuming ~150 g each after trimming minimal stem); cooked in skillet with some water to prevent burning."
+    },
+    {
+      "position": 3,
+      "name": "Harissa Spice",
+      "measurement": "½ tablespoon",
+      "grams": 8,
+      "assumptions": "Harissa spice blend (dry); ½ tbsp estimated at ~8 g based on typical density of ground spice mixes."
+    },
+    {
+      "position": 4,
+      "name": "Chickpeas",
+      "measurement": "1 can",
+      "grams": 240,
+      "assumptions": "Standard 15-oz can chickpeas, drained weight ~240 g (typical drained yield from 425 g can including liquid)."
+    },
+    {
+      "position": 5,
+      "name": "Cherry Tomatoes",
+      "measurement": "2 cups halved",
+      "grams": 300,
+      "assumptions": "2 cups halved cherry tomatoes ~300 g; assumes typical medium cherry tomatoes halved for the recipe."
+    },
+    {
+      "position": 6,
+      "name": "Greek yogurt",
+      "measurement": "1 1/2 cups",
+      "grams": 345,
+      "assumptions": "Plain nonfat Greek yogurt; 1.5 cups = 345 g (density ~230 g per cup)."
+    },
+    {
+      "position": 7,
+      "name": "Ground cumin",
+      "measurement": "1 tablespoon",
+      "grams": 6,
+      "assumptions": "Ground cumin; 1 tbsp ≈ 6 g based on typical spice density."
+    },
+    {
+      "position": 8,
+      "name": "Parsley",
+      "measurement": "½ cup",
+      "grams": 30,
+      "assumptions": "Fresh flat-leaf parsley leaves; ½ cup chopped ≈ 30 g."
+    }
+  ],
+  "nutrition": {
+    "calories": 1459.11,
+    "protein": 71.04,
+    "fat": 66.02,
+    "fiber": 53.46,
+    "carbs": 155.69
+  }
+}

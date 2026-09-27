@@ -1,0 +1,130 @@
+{
+  "id": "53043",
+  "name": "Fish fofos",
+  "cuisine": "Portuguese",
+  "fingerprint": "3b2388d46300e4841984deefc53dfc2a42c138f7eb1aba03d5e8d5c4e4e36ee6",
+  "yield": 15,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from instructions dividing mixture into 15 portions (serving count).",
+    "Total time is sum of active and passive steps: poach 10 min + mixing/forming ~10 min + chill 20 min + frying batches ~20 min.",
+    "Haddock classified as fish (allergen true, Pescatarian true).",
+    "Breadcrumbs and unspecified 'Flour' (listed as rice flour in one place but generic in ingredients) treated as containing wheat (Gluten-free and Wheat false/true).",
+    "No milk, tree nuts, peanuts, shellfish, soy, or sesame in listed ingredients (conservative classification).",
+    "Oil for frying estimated at 40g absorbed but does not affect classifications."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1\r\n\r\nPut the fish into a lidded pan and pour over enough water to cover. Bring to a simmer and gently poach for 10 minutes over a low heat with the lid on. Drain and flake the fish.\r\n\r\nSTEP 2\r\n\r\nPut the fish, potato, green chilli, coriander, cumin, black pepper, garlic and ginger in a large bowl. Season, add the rice flour, mix well and break in 1 egg. Stir the mixture and divide into 15, then form into small logs. Break the remaining eggs into a bowl and whisk lightly. Put the breadcrumbs into another bowl. Dip each fofo in the beaten egg followed by the breadcrumb mixture. Chill for 20 minutes.\r\n\r\nSTEP 3\r\n\r\nHeat 1cm of oil in a large frying pan over a medium heat. Fry the fofos in batches for 2 minutes on each side, turning gently to get an even golden brown colour all over. Drain on kitchen paper and repeat with the remaining fofos.\r\n\r\nSTEP 4\r\n\r\nFor the onion salad, mix together the onion, coriander and lemon juice with a pinch of salt. Serve with the fofos and mango chutney.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Haddock",
+      "measurement": "600g",
+      "grams": 600,
+      "assumptions": "Poached haddock, edible portion only (skin/bones removed during flaking); typical white fish values."
+    },
+    {
+      "position": 2,
+      "name": "Potatoes",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Boiled potatoes without skin; standard value for cooked mashed/boiled potato in fishcake recipes."
+    },
+    {
+      "position": 3,
+      "name": "Green Chilli",
+      "measurement": "1 chopped",
+      "grams": 45,
+      "assumptions": "One medium green chili (approx 45g whole, chopped and fully used)."
+    },
+    {
+      "position": 4,
+      "name": "Coriander",
+      "measurement": "3 tbs",
+      "grams": 45,
+      "assumptions": "3 tablespoons chopped fresh coriander leaves (approx 15g per tbsp)."
+    },
+    {
+      "position": 5,
+      "name": "Cumin Seeds",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp whole cumin seeds (approx 2g)."
+    },
+    {
+      "position": 6,
+      "name": "Pepper",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp ground black pepper (approx 1g)."
+    },
+    {
+      "position": 7,
+      "name": "Garlic",
+      "measurement": "3 cloves",
+      "grams": 9,
+      "assumptions": "3 average garlic cloves (approx 9g total, peeled)."
+    },
+    {
+      "position": 8,
+      "name": "Ginger",
+      "measurement": "2 pieces",
+      "grams": 4,
+      "assumptions": "2 thin slices fresh ginger root (approx 4g total, peeled and minced)."
+    },
+    {
+      "position": 9,
+      "name": "Flour",
+      "measurement": "2 tbs",
+      "grams": 16,
+      "assumptions": "2 tablespoons rice flour (approx 8g per tbsp; used as binder)."
+    },
+    {
+      "position": 10,
+      "name": "Eggs",
+      "measurement": "3",
+      "grams": 150,
+      "assumptions": "3 medium eggs (approx 50g each, whole, used in mix and coating)."
+    },
+    {
+      "position": 11,
+      "name": "Breadcrumbs",
+      "measurement": "75g",
+      "grams": 75,
+      "assumptions": "75g dry breadcrumbs as listed (standard panko or fine dry crumbs)."
+    },
+    {
+      "position": 12,
+      "name": "Vegetable Oil",
+      "measurement": "For frying",
+      "grams": 40,
+      "assumptions": "Oil absorbed during shallow frying (1cm in pan, batches; estimated 40g total absorbed across all 15 fofos based on typical fishcake recipes)."
+    }
+  ],
+  "nutrition": {
+    "calories": 1718.6,
+    "protein": 150.22,
+    "fat": 63.52,
+    "fiber": 12.75,
+    "carbs": 130.1
+  }
+}

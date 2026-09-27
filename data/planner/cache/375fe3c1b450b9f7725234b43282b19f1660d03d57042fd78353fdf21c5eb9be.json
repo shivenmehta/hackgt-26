@@ -1,0 +1,151 @@
+{
+  "id": "53156",
+  "name": "Arroz al horno (baked rice)",
+  "cuisine": "Spanish",
+  "fingerprint": "375fe3c1b450b9f7725234b43282b19f1660d03d57042fd78353fdf21c5eb9be",
+  "yield": 4,
+  "minutes": 70,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from total dry rice (375 g) and stock volume (1.5 L) which is typical for 4 main-dish portions of baked rice/paella-style dish.",
+    "Total time is sum of active prep/frying (~30 min) plus oven time (20-30 min) plus oven preheat; conservative total used.",
+    "Black pudding (morcilla) assumed wheat-free in standard Spanish style; no wheat listed in any ingredient so Gluten-free marked null (ambiguous without brand).",
+    "No barley/rye/wheat/oats listed so Gluten-free is possible but left null per conservative rule.",
+    "Chicken stock assumed to contain no dairy, wheat, or other listed allergens.",
+    "Thyme assumed fresh sprigs with no added compounds."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat oven to 200C/180C/gas 6. Heat half the oil in a deep frying or sauté pan (or shallow casserole dish) measuring around 30cm in diameter. Over a high heat, colour the pork belly slices on each side in several batches, then transfer to a bowl. Add the remaining oil to the pan and lower the heat to medium, then add the black pudding and bacon and fry all over for several mins. Remove with a slotted spoon. Fry the onion and peppers for around 10 mins until soft and pale gold, then add the tomato and cook until soft. Add the garlic, smoked paprika and chilli flakes and cook for another 2 mins, then put the pork, black pudding and bacon back in the pan. Add the beans, stock and whichever herb you're using, and bring everything to the boil.\r\n\r\nstep 2\r\nSprinkle the rice around the pork belly, pushing it underneath the stock. Let the stock come to the boil again, season well, then transfer to the oven (leave it uncovered). Cook for 20 mins without stirring, then check to see how the rice is doing. The rice should be tender and the stock absorbed. If it’s not ready, put back in the oven for another 5 mins, then check again. Taste for seasoning.\r\n\r\nstep 3\r\nSqueeze lemon juice over the top and drizzle over some extra virgin olive oil just before serving, if you like.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qt4i0n1763256454.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Extra Virgin Olive Oil",
+      "measurement": "2 tbsp",
+      "grams": 27,
+      "assumptions": "Standard olive oil density ~0.91 g/ml; 1 tbsp = 13.5 ml so 2 tbsp = 27 g. All oil is included as some remains in the dish after frying."
+    },
+    {
+      "position": 2,
+      "name": "Pork belly slices",
+      "measurement": "800g",
+      "grams": 800,
+      "assumptions": "Raw pork belly, skin-on but edible portion used; typical values for fresh Spanish-style pork belly."
+    },
+    {
+      "position": 3,
+      "name": "Black Pudding",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Typical Spanish morcilla (black pudding/blood sausage); includes blood, rice or onion filler."
+    },
+    {
+      "position": 4,
+      "name": "Bacon lardon",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Standard cured/smoked bacon lardons; values reflect fatty European-style bacon."
+    },
+    {
+      "position": 5,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium-large onion (~110 g) after peeling and chopping; standard yellow onion values."
+    },
+    {
+      "position": 6,
+      "name": "Red Pepper",
+      "measurement": "2",
+      "grams": 240,
+      "assumptions": "2 medium red bell peppers (~120 g each) after deseeding; typical raw values."
+    },
+    {
+      "position": 7,
+      "name": "Plum Tomatoes",
+      "measurement": "1 chopped",
+      "grams": 70,
+      "assumptions": "1 medium plum (Roma) tomato (~70 g) after chopping; standard raw values."
+    },
+    {
+      "position": 8,
+      "name": "Garlic Clove",
+      "measurement": "8",
+      "grams": 24,
+      "assumptions": "8 average garlic cloves (~3 g each peeled); typical raw garlic nutrient profile."
+    },
+    {
+      "position": 9,
+      "name": "Paprika",
+      "measurement": "4 teaspoons",
+      "grams": 8,
+      "assumptions": "4 level teaspoons smoked Spanish paprika (~2 g per tsp); values reflect typical ground paprika."
+    },
+    {
+      "position": 10,
+      "name": "Chilli Flakes",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "½ tsp dried chilli flakes (~1 g); typical crushed red pepper values."
+    },
+    {
+      "position": 11,
+      "name": "Dried white beans",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "200 g dry weight white beans (e.g. cannellini or haricot); assumes soaked/cooked in the dish per recipe."
+    },
+    {
+      "position": 12,
+      "name": "Chicken Stock",
+      "measurement": "1 1/2 L",
+      "grams": 1500,
+      "assumptions": "1.5 L chicken stock (standard density ~1 g/ml); typical low-sodium homemade or stock-cube values."
+    },
+    {
+      "position": 13,
+      "name": "Thyme",
+      "measurement": "6 parts",
+      "grams": 5,
+      "assumptions": "6 sprigs fresh thyme (~5 g total leaves and tender stems); typical fresh herb values, added whole then mostly discarded."
+    },
+    {
+      "position": 14,
+      "name": "Paella Rice",
+      "measurement": "375g",
+      "grams": 375,
+      "assumptions": "375 g dry paella rice (Spanish bomba or similar short-grain rice); standard uncooked values."
+    },
+    {
+      "position": 15,
+      "name": "Lemon Juice",
+      "measurement": "1",
+      "grams": 30,
+      "assumptions": "Juice of 1 medium lemon (~30 g); standard lemon juice values, added at end."
+    }
+  ],
+  "nutrition": {
+    "calories": 7664.57,
+    "protein": 206.59,
+    "fat": 552.36,
+    "fiber": 50.79,
+    "carbs": 461.84
+  }
+}

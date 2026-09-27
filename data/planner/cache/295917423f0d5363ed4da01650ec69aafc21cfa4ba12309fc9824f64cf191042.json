@@ -1,0 +1,107 @@
+{
+  "id": "52913",
+  "name": "Brie wrapped in prosciutto & brioche",
+  "cuisine": "French",
+  "fingerprint": "295917423f0d5363ed4da01650ec69aafc21cfa4ba12309fc9824f64cf191042",
+  "yield": 6,
+  "minutes": 510,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical brioche-wrapped Brie recipes (serves 6 as a side/appetizer).",
+    "Total time sums explicit steps: 10 min mixing + 6 hrs refrigeration + 1 hr 30 min chilling/proofing + 22 min bake; excludes optional final resting.",
+    "Allergens based on listed ingredients only; 'to glaze' egg adds to egg allergen.",
+    "Dairy from milk, butter, Brie; wheat from plain flour; prosciutto confirms non-vegetarian."
+  ],
+  "categories": [],
+  "instructions": "Mix the flour, 1 tsp salt, caster sugar, yeast, milk and eggs together in a mixer using the dough attachment for 5 mins until the dough is smooth. Add the butter and mix for a further 4 mins on medium speed. Scrape the dough bowl and mix again for 1 min. Place the dough in a container, cover with cling film and leave in the fridge for at least 6 hrs before using.\r\nWrap the Brie in the prosciutto and set aside. Turn out the dough onto a lightly floured surface. Roll into a 25cm circle. Place the wrapped Brie in the middle of the circle and fold the edges in neatly. Put the parcel onto a baking tray lined with baking parchment and brush with beaten egg. Chill in the fridge for 30 mins, then brush again with beaten egg and chill for a further 30 mins. Leave to rise for 1 hr at room temperature. Heat oven to 200C/180C fan/gas 6, then bake for 22 mins. Serve warm.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qqpwsy1511796276.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Plain Flour",
+      "measurement": "375g",
+      "grams": 375,
+      "assumptions": "Standard plain white wheat flour, dry weight as listed."
+    },
+    {
+      "position": 2,
+      "name": "Caster Sugar",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Pure caster sugar (sucrose)."
+    },
+    {
+      "position": 3,
+      "name": "Yeast",
+      "measurement": "7g",
+      "grams": 7,
+      "assumptions": "Standard active dry yeast; 7 g sachet weight used."
+    },
+    {
+      "position": 4,
+      "name": "Milk",
+      "measurement": "75g",
+      "grams": 75,
+      "assumptions": "Whole cow's milk, as listed; typical density applied."
+    },
+    {
+      "position": 5,
+      "name": "Eggs",
+      "measurement": "3 Large",
+      "grams": 150,
+      "assumptions": "3 large whole eggs ≈ 50 g edible portion each (shells excluded); total edible weight."
+    },
+    {
+      "position": 6,
+      "name": "Eggs",
+      "measurement": "To Glaze",
+      "grams": 50,
+      "assumptions": "1 additional large egg beaten for glaze; ≈ 50 g edible portion used for brushing the entire parcel twice."
+    },
+    {
+      "position": 7,
+      "name": "Butter",
+      "measurement": "180g",
+      "grams": 180,
+      "assumptions": "Unsalted butter, as incorporated into the dough."
+    },
+    {
+      "position": 8,
+      "name": "Brie",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Standard 250 g wheel of Brie cheese; fully edible."
+    },
+    {
+      "position": 9,
+      "name": "Prosciutto",
+      "measurement": "8 slices",
+      "grams": 80,
+      "assumptions": "8 typical thin slices of prosciutto ≈ 10 g each (total 80 g); fully edible cured ham."
+    }
+  ],
+  "nutrition": {
+    "calories": 4186.85,
+    "protein": 136.1,
+    "fat": 252.41,
+    "fiber": 12.01,
+    "carbs": 346.24
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "53068",
+  "name": "Beef Mechado",
+  "cuisine": "Filipino",
+  "fingerprint": "e3421698d34eff146203943bc8ff98d19c8477b349fd42ac6f0b4c4cedb122e7",
+  "yield": 6,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe name and ingredients indicate classic Filipino beef mechado (tomato-beef stew), not the kebab version shown in instructions; instructions appear mismatched to listed ingredients",
+    "Yield estimated from 2 lbs (907g) beef plus vegetables for 6 adult main-dish servings",
+    "Total time assumes 15 min prep + 60 min marinating (from mismatched instructions) + 15 min active cooking; actual stew simmer time likely 60-90 min for tenderness but not explicitly stated",
+    "Soy sauce introduces wheat (unless certified gluten-free, which is unspecified)",
+    "Lemon listed as '1 Slice' but treated as present for acidity",
+    "No dairy, eggs, fish, shellfish, tree nuts, peanuts or sesame in listed ingredients",
+    "Salt 'to taste' conservatively estimated at 5g for seasoning assumptions"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "0.\tMake the beef tenderloin marinade by combining soy sauce, vinegar, ginger, garlic, sesame oil, olive oil, sugar, salt, and ground black pepper in a large bowl. Mix well.\r\n1.\tAdd the cubed beef tenderloin to the bowl with the beef tenderloin marinade. Gently toss to coat the beef. Let it stay for 1 hour.\r\n2.\tUsing a metal or bamboo skewer, assemble the beef kebob by skewering the vegetables and marinated beef tenderloin.\r\n3.\tHeat-up the grill and start grilling the beef kebobs for 3 minutes per side. This will give you a medium beef that is juicy and tender on the inside. Add more time if you want your beef well done, but it will be less tender.\r\n4.\tTransfer to a serving plate. Serve with Saffron rice.\r\n5.\tShare and enjoy!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/cgl60b1683206581.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Garlic",
+      "measurement": "3 cloves",
+      "grams": 9,
+      "assumptions": "3 cloves garlic ≈ 9g raw, typical size used in marinades or Filipino dishes"
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 sliced",
+      "grams": 110,
+      "assumptions": "1 medium onion sliced ≈ 110g raw, common in stews like mechado"
+    },
+    {
+      "position": 3,
+      "name": "Beef",
+      "measurement": "2 Lbs",
+      "grams": 907,
+      "assumptions": "2 lbs (907g) beef, using chuck or similar cut typical for mechado (not tenderloin as in instructions); raw weight"
+    },
+    {
+      "position": 4,
+      "name": "Tomato Puree",
+      "measurement": "8 ounces",
+      "grams": 227,
+      "assumptions": "8 oz (227g) canned tomato puree, standard can size; values for tomato puree"
+    },
+    {
+      "position": 5,
+      "name": "Water",
+      "measurement": "1 cup",
+      "grams": 237,
+      "assumptions": "1 cup (237g) water, standard household measure"
+    },
+    {
+      "position": 6,
+      "name": "Olive Oil",
+      "measurement": "3 tbs",
+      "grams": 41,
+      "assumptions": "3 tbs (41g) olive oil, standard volume-to-weight conversion"
+    },
+    {
+      "position": 7,
+      "name": "Lemon",
+      "measurement": "1 Slice",
+      "grams": 58,
+      "assumptions": "1 lemon slice ≈ 58g (1/4 of average 232g lemon with peel); used for juice/acidity in recipe context"
+    },
+    {
+      "position": 8,
+      "name": "Potatoes",
+      "measurement": "1 large",
+      "grams": 213,
+      "assumptions": "1 large potato ≈ 213g raw with skin, typical for stews; peeled or unpeeled but edible portion"
+    },
+    {
+      "position": 9,
+      "name": "Soy Sauce",
+      "measurement": "1/4 cup",
+      "grams": 60,
+      "assumptions": "1/4 cup (60g) soy sauce, standard volume-to-weight"
+    },
+    {
+      "position": 10,
+      "name": "Black Pepper",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp (1g) ground black pepper, typical small measure"
+    },
+    {
+      "position": 11,
+      "name": "Bay Leaves",
+      "measurement": "2",
+      "grams": 1,
+      "assumptions": "2 bay leaves ≈ 1g total dry weight; negligible but plausible small amount"
+    },
+    {
+      "position": 12,
+      "name": "Salt",
+      "measurement": "To taste",
+      "grams": 5,
+      "assumptions": "Salt to taste ≈ 5g (1 tsp), plausible assumption for a full recipe to season 2 lbs meat and vegetables"
+    }
+  ],
+  "nutrition": {
+    "calories": 3091.8,
+    "protein": 249.96,
+    "fat": 185.71,
+    "fiber": 15.04,
+    "carbs": 90.27
+  }
+}

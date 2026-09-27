@@ -1,0 +1,165 @@
+{
+  "id": "52813",
+  "name": "Kentucky Fried Chicken",
+  "cuisine": "American",
+  "fingerprint": "8a49afa3144bd401f143b67b4f56474e222babec37c7d62ef01dcc0a32834e02",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on 1 whole chicken (typical for 3-4 people in frying recipes) plus coating for multiple pieces.",
+    "Total time estimated at 45 minutes: ~10 min prep/mixing, 5 min rest, ~20-25 min frying in batches, plus draining; fryer preheat assumed included or minimal additional time.",
+    "Egg white listed and used, confirming egg allergen; no dairy ingredients present.",
+    "Wheat from flour; no barley/rye/oats, but wheat makes it not gluten-free.",
+    "Oil type unspecified beyond 'neutral frying' so soy allergen left null (could be soybean oil).",
+    "All other allergens confidently absent based on listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Preheat fryer to 350°F. Thoroughly mix together all the spice mix ingredients.\r\nCombine spice mix with flour, brown sugar and salt.\r\nDip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken. Repeat with all the chicken pieces.\r\nLet chicken pieces rest for 5 minutes so crust has a chance to dry a bit.\r\nFry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F.\r\nLet chicken drain on a few paper towels when it comes out of the fryer. Serve hot.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/40r49m1763197022.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken",
+      "measurement": "1 whole",
+      "grams": 1134,
+      "assumptions": "1 whole chicken estimated at 2.5 lb (1134g) raw edible yield including bone and skin, typical for frying recipe; raw values used as base before frying."
+    },
+    {
+      "position": 2,
+      "name": "Oil",
+      "measurement": "2 quarts neutral frying",
+      "grams": 100,
+      "assumptions": "2 quarts neutral frying oil; estimated 100g absorbed by the chicken during frying (typical uptake for deep-fried battered chicken), remainder not consumed."
+    },
+    {
+      "position": 3,
+      "name": "Egg White",
+      "measurement": "1",
+      "grams": 33,
+      "assumptions": "1 large egg white, standard weight ~33g; values reflect raw egg white."
+    },
+    {
+      "position": 4,
+      "name": "Flour",
+      "measurement": "1 1/2 cups",
+      "grams": 188,
+      "assumptions": "1 1/2 cups all-purpose flour; standard density ~125g per cup, total 187.5g rounded."
+    },
+    {
+      "position": 5,
+      "name": "Brown Sugar",
+      "measurement": "1 tablespoon",
+      "grams": 13,
+      "assumptions": "1 tablespoon brown sugar, standard 12.5g rounded to 13g."
+    },
+    {
+      "position": 6,
+      "name": "Salt",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tablespoon table salt, standard 15g; contributes negligible calories/macros."
+    },
+    {
+      "position": 7,
+      "name": "paprika",
+      "measurement": "1 tablespoon",
+      "grams": 7,
+      "assumptions": "1 tablespoon paprika, standard 6.8g rounded to 7g; typical spice nutrition."
+    },
+    {
+      "position": 8,
+      "name": "onion salt",
+      "measurement": "2 teaspoons",
+      "grams": 6,
+      "assumptions": "2 teaspoons onion salt; ~6g total, treated as salt-based with negligible calories/macros."
+    },
+    {
+      "position": 9,
+      "name": "chili powder",
+      "measurement": "1 teaspoon",
+      "grams": 3,
+      "assumptions": "1 teaspoon chili powder, standard 2.7g rounded to 3g; typical spice nutrition."
+    },
+    {
+      "position": 10,
+      "name": "black pepper",
+      "measurement": "1 teaspoon",
+      "grams": 2,
+      "assumptions": "1 teaspoon ground black pepper, standard 2.3g rounded to 2g; typical spice nutrition."
+    },
+    {
+      "position": 11,
+      "name": "celery salt",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "1/2 teaspoon celery salt; ~1.5g, treated as salt-based with negligible calories/macros."
+    },
+    {
+      "position": 12,
+      "name": "sage",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "1/2 teaspoon dried sage; ~0.7g rounded, typical spice nutrition."
+    },
+    {
+      "position": 13,
+      "name": "garlic powder",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "1/2 teaspoon garlic powder; ~1.6g rounded, typical spice nutrition."
+    },
+    {
+      "position": 14,
+      "name": "allspice",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "1/2 teaspoon ground allspice; ~1.3g rounded, typical spice nutrition."
+    },
+    {
+      "position": 15,
+      "name": "oregano",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "1/2 teaspoon dried oregano; ~1g rounded, typical spice nutrition."
+    },
+    {
+      "position": 16,
+      "name": "basil",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "1/2 teaspoon dried basil; ~0.7g rounded, typical spice nutrition."
+    },
+    {
+      "position": 17,
+      "name": "marjoram",
+      "measurement": "1/2 teaspoon",
+      "grams": 1,
+      "assumptions": "1/2 teaspoon dried marjoram; ~0.7g rounded, typical spice nutrition."
+    }
+  ],
+  "nutrition": {
+    "calories": 3839.56,
+    "protein": 228.88,
+    "fat": 251.14,
+    "fiber": 11.5,
+    "carbs": 166.17
+  }
+}

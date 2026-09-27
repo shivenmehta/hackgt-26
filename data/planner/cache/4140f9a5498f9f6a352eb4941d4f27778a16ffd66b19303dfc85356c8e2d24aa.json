@@ -1,0 +1,153 @@
+{
+  "id": "52878",
+  "name": "Beef and Oyster pie",
+  "cuisine": "British",
+  "fingerprint": "4140f9a5498f9f6a352eb4941d4f27778a16ffd66b19303dfc85356c8e2d24aa",
+  "yield": 6,
+  "minutes": 210,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical British pie recipes using 900g beef plus other filling for 6 adult servings.",
+    "Total time sums active prep (~45 min across batches, pastry, assembly) + 105 min oven braise + 30 min bake; passive cooling omitted as not in instructions.",
+    "Shallots classified as non-allergenic onion-family vegetable.",
+    "Stout and beef stock treated as compatible with listed diets (no hidden animal products assumed beyond noted).",
+    "Oysters classified as shellfish; Fish left null as oysters are mollusks not finfish.",
+    "Corn flour treated as gluten-free cornstarch; plain flour as wheat-based.",
+    "Pastry uses dairy butter and egg glaze; no dairy-free alternatives present.",
+    "Bay leaf weight negligible and removed before serving."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Season the beef cubes with salt and black pepper. Heat a tablespoon of oil in the frying pan and fry the meat over a high heat. Do this in three batches so that you don’t overcrowd the pan, transferring the meat to a large flameproof casserole dish once it is browned all over. Add extra oil if the pan seems dry.\r\nIn the same pan, add another tablespoon of oil and cook the shallots for 4-5 minutes, then add the garlic and fry for 30 seconds. Add the bacon and fry until slightly browned. Transfer the onion and bacon mixture to the casserole dish and add the herbs.\r\nPreheat the oven to 180C/350F/Gas 4.\r\nPour the stout into the frying pan and bring to the boil, stirring to lift any stuck-on browned bits from the bottom of the pan. Pour the stout over the beef in the casserole dish and add the stock. Cover the casserole and place it in the oven for 1½-2 hours, or until the beef is tender and the sauce is reduced.\r\nSkim off any surface fat, taste and add salt and pepper if necessary, then stir in the cornflour paste. Put the casserole dish on the hob – don’t forget that it will be hot – and simmer for 1-2 minutes, stirring, until thickened. Leave to cool.\r\nIncrease the oven to 200C/400F/Gas 6. To make the pastry, put the flour and salt in a very large bowl. Grate the butter and stir it into the flour in three batches. Gradually add 325ml/11fl oz cold water – you may not need it all – and stir with a round-bladed knife until the mixture just comes together. Knead the pastry lightly into a ball on a lightly floured surface and set aside 250g/9oz for the pie lid.\r\nRoll the rest of the pastry out until about 2cm/¾in larger than the dish you’re using. Line the dish with the pastry then pile in the filling, tucking the oysters in as well. Brush the edge of the pastry with beaten egg.\r\nRoll the remaining pastry until slightly larger than your dish and gently lift over the filling, pressing the edges firmly to seal, then trim with a sharp knife. Brush with beaten egg to glaze. Put the dish on a baking tray and bake for 25-30 minutes, or until the pastry is golden-brown and the filling is bubbling.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef",
+      "measurement": "900g",
+      "grams": 900,
+      "assumptions": "Beef stewing/casserole cut, raw weight as specified; typical values for braising beef."
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "3 tbs",
+      "grams": 45,
+      "assumptions": "3 tablespoons olive oil (15 ml per tbsp, density ~0.92 g/ml); used for frying in batches as per instructions."
+    },
+    {
+      "position": 3,
+      "name": "Shallots",
+      "measurement": "3",
+      "grams": 90,
+      "assumptions": "3 medium shallots, peeled; ~30 g each based on typical size and recipe context for braising."
+    },
+    {
+      "position": 4,
+      "name": "Garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 cloves garlic minced; ~3 g per clove, standard estimate."
+    },
+    {
+      "position": 5,
+      "name": "Bacon",
+      "measurement": "125g",
+      "grams": 125,
+      "assumptions": "Streaky or back bacon as used in British pies; raw weight as specified."
+    },
+    {
+      "position": 6,
+      "name": "Thyme",
+      "measurement": "1 tbs chopped",
+      "grams": 4,
+      "assumptions": "1 tablespoon chopped fresh thyme; ~4 g typical for 1 tbsp chopped herbs."
+    },
+    {
+      "position": 7,
+      "name": "Bay Leaf",
+      "measurement": "2",
+      "grams": 1,
+      "assumptions": "2 bay leaves; negligible edible weight and nutrition after removal before serving."
+    },
+    {
+      "position": 8,
+      "name": "Stout",
+      "measurement": "330ml",
+      "grams": 330,
+      "assumptions": "330 ml stout beer (density ~1 g/ml); typical for Guinness-style stout used in pies."
+    },
+    {
+      "position": 9,
+      "name": "Beef Stock",
+      "measurement": "400ml",
+      "grams": 400,
+      "assumptions": "400 ml beef stock; typical low-calorie prepared stock values."
+    },
+    {
+      "position": 10,
+      "name": "Corn Flour",
+      "measurement": "2 tbs",
+      "grams": 16,
+      "assumptions": "2 tablespoons cornflour (cornstarch); ~8 g per tbsp, used as thickener per instructions."
+    },
+    {
+      "position": 11,
+      "name": "Oysters",
+      "measurement": "8",
+      "grams": 100,
+      "assumptions": "8 fresh oysters, shucked; ~12-15 g edible meat each (total ~100 g) as tucked into pie filling."
+    },
+    {
+      "position": 12,
+      "name": "Plain Flour",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Plain white flour as specified for pastry."
+    },
+    {
+      "position": 13,
+      "name": "Salt",
+      "measurement": "pinch",
+      "grams": 2,
+      "assumptions": "Pinch of salt; estimated 2 g typical for pastry seasoning."
+    },
+    {
+      "position": 14,
+      "name": "Butter",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Butter for pastry; full weight as specified."
+    },
+    {
+      "position": 15,
+      "name": "Eggs",
+      "measurement": "To Glaze",
+      "grams": 30,
+      "assumptions": "Beaten egg for glaze; estimated 1 medium egg (~50-60 g but only glaze portion used, adjusted to 30 g effective)."
+    }
+  ],
+  "nutrition": {
+    "calories": 6997.4,
+    "protein": 331.26,
+    "fat": 451.54,
+    "fiber": 16.49,
+    "carbs": 355.7
+  }
+}

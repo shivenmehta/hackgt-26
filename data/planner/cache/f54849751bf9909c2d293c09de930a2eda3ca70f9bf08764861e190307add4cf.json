@@ -1,0 +1,131 @@
+{
+  "id": "53143",
+  "name": "Easy Spanish chicken",
+  "cuisine": "Spanish",
+  "fingerprint": "f54849751bf9909c2d293c09de930a2eda3ca70f9bf08764861e190307add4cf",
+  "yield": 4,
+  "minutes": 70,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from 8 chicken thighs (typical 2 thighs per adult serving) plus substantial sides; consistent with similar oven-bake recipes.",
+    "Total time sums active prep (~15 min for chopping/frying) plus 40 min bake; oven preheat included conservatively.",
+    "Gluten-free: no barley/rye/wheat/oats; all listed ingredients compatible.",
+    "Dairy-free: no milk products listed.",
+    "No fish, shellfish, tree nuts, peanuts, soy, sesame, eggs or milk detected in ingredients list.",
+    "Olives classified as ambiguous for fish (possible cross-contact in brine but not an ingredient).",
+    "Parsley and spices treated as gluten-free unless certified otherwise but confidently absent here."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat the oven to 200C/180C fan/gas 6. Heat the olive oil in a large ovenproof frying pan over a medium heat and fry the onion, chorizo and peppers along with a pinch of salt and pepper for 15 mins until the veg has softened and the chorizo has released its oils. Add the paprika and garlic, and cook for another few minutes until fragrant.\r\n\r\nstep 2\r\nTip in the chopped tomatoes, olives and butter beans, stir to combine and season. Nestle in the chicken thighs and season well. Transfer to the oven and bake for 40 mins until the chicken skin is crisp and the meat cooked through and tender. Scatter with the parsley and serve.\r\n\r\nWatch after ad (0.04):\r\n3 Budget Egg Ideas",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/kzxflc1763194887.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Extra Virgin Olive Oil",
+      "measurement": "2 tbsp",
+      "grams": 27,
+      "assumptions": "Standard olive oil density ~0.91 g/ml; 2 tbsp = 30 ml ≈ 27 g edible oil."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1",
+      "grams": 110,
+      "assumptions": "Medium onion ≈ 110 g peeled and chopped; typical white/yellow cooking onion."
+    },
+    {
+      "position": 3,
+      "name": "Chorizo",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Cured Spanish chorizo sausage; values based on typical cured pork chorizo nutrition."
+    },
+    {
+      "position": 4,
+      "name": "Red Pepper",
+      "measurement": "1",
+      "grams": 120,
+      "assumptions": "Medium-large red bell pepper ≈ 120 g trimmed and sliced; raw edible portion."
+    },
+    {
+      "position": 5,
+      "name": "Yellow Pepper",
+      "measurement": "1",
+      "grams": 120,
+      "assumptions": "Medium-large yellow bell pepper ≈ 120 g trimmed and sliced; raw edible portion."
+    },
+    {
+      "position": 6,
+      "name": "sweet smoked paprika",
+      "measurement": "1 teaspoon",
+      "grams": 3,
+      "assumptions": "1 tsp smoked paprika ≈ 3 g; typical ground paprika values used."
+    },
+    {
+      "position": 7,
+      "name": "Garlic",
+      "measurement": "4 cloves",
+      "grams": 12,
+      "assumptions": "4 average garlic cloves ≈ 12 g peeled; typical raw garlic nutrition."
+    },
+    {
+      "position": 8,
+      "name": "Tinned Tomatos",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "400 g can chopped tomatoes with juice; drained weight not assumed as recipe uses whole contents."
+    },
+    {
+      "position": 9,
+      "name": "Green Olives",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Pitted or whole green olives; typical Spanish-style brined olives (edible portion after brine drain)."
+    },
+    {
+      "position": 10,
+      "name": "Butter Beans",
+      "measurement": "400g",
+      "grams": 260,
+      "assumptions": "400 g can butter beans; standard drained weight ≈ 260 g after discarding canning liquid."
+    },
+    {
+      "position": 11,
+      "name": "Chicken Thighs",
+      "measurement": "8",
+      "grams": 1000,
+      "assumptions": "8 skin-on bone-in chicken thighs; average 125 g each raw including bone/skin (edible cooked yield estimated via typical poultry values)."
+    },
+    {
+      "position": 12,
+      "name": "Parsley",
+      "measurement": "1 Handfull",
+      "grams": 20,
+      "assumptions": "1 handful fresh parsley ≈ 20 g; typical flat-leaf parsley bunch portion used as garnish."
+    }
+  ],
+  "nutrition": {
+    "calories": 3482.42,
+    "protein": 307.86,
+    "fat": 192.7,
+    "fiber": 39.1,
+    "carbs": 114.86
+  }
+}

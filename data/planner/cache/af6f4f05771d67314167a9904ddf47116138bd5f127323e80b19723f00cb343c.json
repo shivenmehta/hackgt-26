@@ -1,0 +1,125 @@
+{
+  "id": "53011",
+  "name": "Chicken Quinoa Greek Salad",
+  "cuisine": "Greek",
+  "fingerprint": "af6f4f05771d67314167a9904ddf47116138bd5f127323e80b19723f00cb343c",
+  "yield": 4,
+  "minutes": 25,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe serves 4 adults based on total ingredient quantities (e.g. 400g chicken breast and 225g quinoa are standard for 4 portions).",
+    "Preparation and cooking time estimated from instructions: quinoa cooking ~15 min, chicken griddling ~8 min, assembly ~5-7 min; total active + passive time rounded conservatively.",
+    "Butter is dairy-derived (milk).",
+    "Feta is dairy-derived (milk).",
+    "No gluten-containing ingredients listed (quinoa, vegetables, chicken, dairy, oil, lemon are all gluten-free by nature).",
+    "No eggs, fish, shellfish, tree nuts, peanuts, wheat, soy, or sesame listed or implied.",
+    "Mint and lemon quantities conservatively classified as non-allergenic.",
+    "Olive oil and all plant-based items are compatible with listed diets where applicable."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly.\r\n\r\nMeanwhile, mix the butter, chilli and garlic into a paste. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt.\r\n\r\nNext, tip the tomatoes, olives, onion, feta and mint into a bowl. Toss in the cooked quinoa. Stir through the remaining olive oil, lemon juice and zest, and season well. Serve with the chicken fillets on top, drizzled with any buttery chicken juices.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Quinoa",
+      "measurement": "225g",
+      "grams": 225,
+      "assumptions": "Dry quinoa as specified; standard uncooked values used."
+    },
+    {
+      "position": 2,
+      "name": "Butter",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "Standard unsalted butter."
+    },
+    {
+      "position": 3,
+      "name": "Red Chilli",
+      "measurement": "1 chopped",
+      "grams": 45,
+      "assumptions": "One medium red chili (approx 45g whole, edible portion)."
+    },
+    {
+      "position": 4,
+      "name": "Garlic",
+      "measurement": "1 clove finely chopped",
+      "grams": 3,
+      "assumptions": "One small garlic clove (approx 3g)."
+    },
+    {
+      "position": 5,
+      "name": "Chicken Breast",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Raw boneless skinless chicken breast."
+    },
+    {
+      "position": 6,
+      "name": "Olive Oil",
+      "measurement": "2 tbs",
+      "grams": 27,
+      "assumptions": "2 tablespoons olive oil (standard 13.5g per tbsp)."
+    },
+    {
+      "position": 7,
+      "name": "Black Olives",
+      "measurement": "Handful",
+      "grams": 30,
+      "assumptions": "A handful of pitted black olives (approx 30g, typical recipe amount)."
+    },
+    {
+      "position": 8,
+      "name": "Red Onions",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "One medium red onion (approx 110g)."
+    },
+    {
+      "position": 9,
+      "name": "Feta",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Standard feta cheese block."
+    },
+    {
+      "position": 10,
+      "name": "Mint",
+      "measurement": "Chopped",
+      "grams": 15,
+      "assumptions": "A small bunch of fresh mint, chopped (approx 15g leaves)."
+    },
+    {
+      "position": 11,
+      "name": "Lemon",
+      "measurement": "Juice of 1/2",
+      "grams": 25,
+      "assumptions": "Juice from half a lemon (approx 25g juice)."
+    }
+  ],
+  "nutrition": {
+    "calories": 2284.75,
+    "protein": 173.24,
+    "fat": 100.68,
+    "fiber": 20.77,
+    "carbs": 168.44
+  }
+}

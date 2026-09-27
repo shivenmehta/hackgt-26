@@ -1,0 +1,82 @@
+{
+  "id": "53169",
+  "name": "Ajo blanco",
+  "cuisine": "Spanish",
+  "fingerprint": "4d6d60d147ae11a7ebaa0aff6aa80c32453a1a056883292b8820e0358ffcf0ab",
+  "yield": 4,
+  "minutes": 80,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical ajo blanco recipes (4 small starter servings) and total volume of ~750-800 ml soup after blending soaked bread, almonds, 700 ml water, oil, garlic and vinegar.",
+    "Preparation minutes summed from explicit instruction times (10 min soak + negligible blending + 60 min chilling) plus ~10 min estimated active prep (measuring, adding ingredients).",
+    "White bread classified as containing wheat (gluten).",
+    "Almonds classified as tree nuts; no peanuts or other tree nuts listed.",
+    "No milk, eggs, fish, shellfish, soy or sesame ingredients listed or implied.",
+    "Red wine vinegar, garlic, olive oil and water introduce no allergens or diet conflicts.",
+    "All ingredients compatible with vegetarian, vegan, pescatarian and dairy-free patterns; gluten-free incompatible due to bread."
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nTip the bread into a bowl and pour over 350ml water. Leave to soak for 10 mins.\r\n\r\nstep 2\r\nBlend the ingredients together with 350ml water and 1 tsp salt.\r\n\r\nstep 3\r\nLet the soup cool in the fridge for 1 hr or so, then serve with a drizzle of oil and some black pepper.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/5jdtie1763289302.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "White bread",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Standard white bread, as-is weight (soaked later but base weight used)."
+    },
+    {
+      "position": 2,
+      "name": "Almonds",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Blanched or skin-on almonds typical for ajo blanco; raw weight."
+    },
+    {
+      "position": 3,
+      "name": "Extra Virgin Olive Oil",
+      "measurement": "50 ml",
+      "grams": 46,
+      "assumptions": "Extra virgin olive oil density ≈0.92 g/ml; entire 50 ml used in the blended soup."
+    },
+    {
+      "position": 4,
+      "name": "Garlic Clove",
+      "measurement": "1",
+      "grams": 3,
+      "assumptions": "1 average garlic clove ≈3 g peeled; raw weight."
+    },
+    {
+      "position": 5,
+      "name": "Red Wine Vinegar",
+      "measurement": "1 ½ tbsp",
+      "grams": 23,
+      "assumptions": "1.5 tbsp red wine vinegar ≈22.5 ml, density ≈1.01 g/ml; entire amount blended."
+    }
+  ],
+  "nutrition": {
+    "calories": 1970.98,
+    "protein": 56.09,
+    "fat": 150.61,
+    "fiber": 29.11,
+    "carbs": 117.9
+  }
+}

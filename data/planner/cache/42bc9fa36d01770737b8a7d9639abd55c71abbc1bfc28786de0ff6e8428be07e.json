@@ -1,0 +1,81 @@
+{
+  "id": "53272",
+  "name": "Griddled flatbreads",
+  "cuisine": "Turkish",
+  "fingerprint": "42bc9fa36d01770737b8a7d9639abd55c71abbc1bfc28786de0ff6e8428be07e",
+  "yield": 16,
+  "minutes": 150,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe makes 16 flatbreads (two halves each cut into eight 10cm squares).",
+    "Total time estimate includes 1 hour first rise + 30 min second rise + active prep and cooking time; excludes any BBQ heating time.",
+    "All listed ingredients are used in the dough; no additional allergens from unlisted dips or accompaniments.",
+    "Strong wholemeal and white bread flours contain wheat gluten.",
+    "No dairy, eggs, fish, shellfish, tree nuts, or peanuts are present.",
+    "Soy and sesame status left null due to possible cross-contamination in commercial flours or unlisted serving suggestions."
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nTip the flours into a food processor. Add the yeast, sugar and 1tsp salt, then mix well. Pour in 350ml warm water and the oil, then process to a soft dough. Mix for 1 min, then leave until doubled in size, about 1 hour.\r\n\r\nstep 2\r\nPulse the dough a couple of times just to knock out the air, then tip onto a floured surface. Cut the dough in half and roll out one half to a rectangle about 20 x 40cm. Trim the edges using a large sharp knife, then cut into eight 10cm squares. Line a large tray or two baking sheets with non-stick paper and arrange the bread rectangles over the tray in one layer. Repeat with the other half of the dough. Leave in a warm place for about 30 mins until the dough is just starting to rise.\r\n\r\nstep 3\r\nPlace bread directly onto the BBQ racks and cook for a couple of mins until they puff up, then flip over and cook on the other side. Tip into a basket and serve with the dips.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/8825lo1763815264.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Strong Wholemeal Flour",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Standard wholemeal bread flour values; fully used in dough."
+    },
+    {
+      "position": 2,
+      "name": "Strong white bread flour",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Standard strong white bread flour values; fully used in dough."
+    },
+    {
+      "position": 3,
+      "name": "Yeast",
+      "measurement": "15g",
+      "grams": 15,
+      "assumptions": "Dry active yeast; 15g is the full packet amount listed, typical for bread recipes."
+    },
+    {
+      "position": 4,
+      "name": "Sugar",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "1 tsp granulated sugar weighs ~4g; fully incorporated into dough."
+    },
+    {
+      "position": 5,
+      "name": "Olive Oil",
+      "measurement": "2 tablespoons",
+      "grams": 27,
+      "assumptions": "2 tbsp olive oil = 27g (standard density); fully used in the dough as per instructions."
+    }
+  ],
+  "nutrition": {
+    "calories": 2022.91,
+    "protein": 68.65,
+    "fat": 38.05,
+    "fiber": 36.55,
+    "carbs": 352.65
+  }
+}

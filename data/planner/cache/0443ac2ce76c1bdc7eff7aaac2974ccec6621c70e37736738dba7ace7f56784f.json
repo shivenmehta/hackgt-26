@@ -1,0 +1,162 @@
+{
+  "id": "53200",
+  "name": "Prawn stir-fry",
+  "cuisine": "Thai",
+  "fingerprint": "0443ac2ce76c1bdc7eff7aaac2974ccec6621c70e37736738dba7ace7f56784f",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": true,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe serves 4 based on standard BBC Good Food stir-fry portioning for 200g prawns plus vegetables and 150g noodles.",
+    "Total active preparation and cooking time estimated at 20 minutes from instruction steps (multiple quick 1-2 min fries).",
+    "Pescatarian true due to prawns and fish sauce but no meat.",
+    "Dairy-free true as no dairy ingredients listed.",
+    "Gluten-free null due to soy sauce (often contains wheat) and rice noodles (certification unspecified).",
+    "Wheat null as soy sauce wheat content is ambiguous without brand specification.",
+    "Peanuts true because ground nut oil is peanut oil.",
+    "Fish and shellfish true from explicit fish sauce and tiger prawns.",
+    "Soy true from soy sauce.",
+    "All other allergens confidently absent based on listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nPut the prawns in a bowl. Put the chilli, garlic, coriander stalks (snip these up using scissors first) and caster sugar in a spice grinder or small food processor and whizz together. Add half of the lime juice and the fish sauce, then pour this over the prawns.\r\n\r\nstep 2\r\nHeat 1 tbsp oil in a wok, add the ginger and spring onions and fry for 1 min. Add the red pepper and fry for 1 min, until the pepper starts to soften. Add the water chestnuts and bean sprouts, and toss together until the bean sprouts start to wilt. Add the soy sauce and a really good grind of black pepper, then tip the lot into a serving dish.\r\n\r\nstep 3\r\nHeat the remaining oil in the wok and add the prawns, lifting them out of their juices. Toss for 1-2 mins until they turn pink, add the marinade and swirl the wok quickly, then tip the lot onto the veg. Snip over the coriander leaves and sprinkle on the remaining lime. Serves over noodles with extra lime for squeezing over.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/96lt871763480970.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Raw tiger prawns",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Standard raw tiger prawn nutrition; peeled and deveined edible portion assumed for the 200g listed."
+    },
+    {
+      "position": 2,
+      "name": "Green Chilli",
+      "measurement": "1 chopped",
+      "grams": 30,
+      "assumptions": "1 typical medium-large green chilli (approx 30g whole with seeds); chopped does not change weight."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "3 Cloves Crushed",
+      "grams": 9,
+      "assumptions": "3 average garlic cloves (approx 3g each)."
+    },
+    {
+      "position": 4,
+      "name": "Coriander",
+      "measurement": "1  bunch",
+      "grams": 60,
+      "assumptions": "1 standard supermarket bunch of fresh coriander; entire bunch (stalks + leaves) used across recipe, approx 60g edible."
+    },
+    {
+      "position": 5,
+      "name": "Caster Sugar",
+      "measurement": "1 tblsp",
+      "grams": 12,
+      "assumptions": "1 level tablespoon caster sugar weighs approx 12g."
+    },
+    {
+      "position": 6,
+      "name": "Lime",
+      "measurement": "Juice of 1",
+      "grams": 40,
+      "assumptions": "Juice of 1 average lime (approx 40g juice); used across two mentions in recipe."
+    },
+    {
+      "position": 7,
+      "name": "Fish Sauce",
+      "measurement": "3 tbsp",
+      "grams": 45,
+      "assumptions": "3 tablespoons fish sauce (15g per tbsp)."
+    },
+    {
+      "position": 8,
+      "name": "Ground Nut Oil",
+      "measurement": "2 tablespoons",
+      "grams": 28,
+      "assumptions": "2 tablespoons groundnut (peanut) oil (14g per tbsp); total oil used in recipe."
+    },
+    {
+      "position": 9,
+      "name": "Ginger",
+      "measurement": "3cm piece",
+      "grams": 15,
+      "assumptions": "3cm piece of fresh ginger root, peeled, approx 15g."
+    },
+    {
+      "position": 10,
+      "name": "Spring Onions",
+      "measurement": "8 slices",
+      "grams": 80,
+      "assumptions": "8 spring onions (scallions), trimmed and sliced; approx 10g each."
+    },
+    {
+      "position": 11,
+      "name": "Red Pepper",
+      "measurement": "1 sliced",
+      "grams": 120,
+      "assumptions": "1 medium red bell pepper, sliced, approx 120g edible portion."
+    },
+    {
+      "position": 12,
+      "name": "Water Chestnut",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "Canned water chestnuts, drained weight as listed; typical nutrition for canned/drained."
+    },
+    {
+      "position": 13,
+      "name": "Bean Sprouts",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Fresh bean sprouts, as listed; typical mung bean sprout values."
+    },
+    {
+      "position": 14,
+      "name": "Soy Sauce",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tablespoon soy sauce (15g)."
+    },
+    {
+      "position": 15,
+      "name": "Rice Noodles",
+      "measurement": "To serve",
+      "grams": 150,
+      "assumptions": "Dry rice noodles to serve 4 portions; plausible 150g total dry weight for the recipe (about 37g per serving)."
+    },
+    {
+      "position": 16,
+      "name": "Lime",
+      "measurement": "To serve",
+      "grams": 20,
+      "assumptions": "Extra lime to serve; juice of half a lime approx 20g, as recipe mentions extra for squeezing."
+    }
+  ],
+  "nutrition": {
+    "calories": 1217.17,
+    "protein": 60.97,
+    "fat": 33.62,
+    "fiber": 15.93,
+    "carbs": 177.09
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "53230",
+  "name": "Purple sprouting broccoli tempura with nuoc cham",
+  "cuisine": "Vietnamese",
+  "fingerprint": "c996947cad998351df474d6127f89d4212bd0fa2176d1e0681f1b4f58a288c6d",
+  "yield": 2,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Recipe as written serves 2 (standard for this style of BBC Good Food starter/light lunch with 200g broccoli and batter quantities)",
+    "Total active prep and cooking time estimated at 20 minutes based on instructions (nuoc cham whisking ~5 min + batter/oil prep ~5 min + frying in batches ~10 min)",
+    "Fish sauce confirms non-vegetarian/vegan and fish allergen",
+    "Plain flour confirms wheat allergen and non-gluten-free",
+    "Sesame seeds listed (even if optional) confirm sesame allergen",
+    "No dairy, eggs, peanuts, or tree nuts listed",
+    "Soy ambiguous (possible in some fish sauces but not specified)",
+    "Shellfish null (no explicit shellfish but fish sauce sometimes processed with crustacean elements)"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nFor the nuoc cham, whisk together all of the ingredients with 5 tbsp hot water in a small bowl. Set aside while you make the tempura.\r\n\r\nstep 2\r\nWhisk the cornflour, plain flour, sesame seeds (if using) and a large pinch of salt together. Fill a large, deep pan no more than a third full with the vegetable oil and heat until it reaches 180C or a cube of bread dropped in browns in 20 seconds.\r\n\r\nstep 3\r\nQuickly whisk the soda water into the flour mixture, being careful not to overmix, then dunk in the broccoli using tongs. Carefully lower into the hot oil and cook for 2-3 mins until crisp. Drain on kitchen paper, then serve with the nuoc cham on the side for dipping.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xnv4wf1763756529.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Corn Flour",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Standard white cornflour (cornstarch) values; used entirely in batter."
+    },
+    {
+      "position": 2,
+      "name": "Plain Flour",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Standard plain white wheat flour values; used entirely in batter."
+    },
+    {
+      "position": 3,
+      "name": "Sesame Seed",
+      "measurement": "1 tablespoon",
+      "grams": 9,
+      "assumptions": "1 tablespoon sesame seeds weighs ~9g; included in batter as optional but listed."
+    },
+    {
+      "position": 4,
+      "name": "Vegetable Oil",
+      "measurement": "For frying",
+      "grams": 30,
+      "assumptions": "Oil for frying: estimated 30g absorbed per typical tempura serving based on recipe scale and common deep-fry absorption rates for battered veg; not the full pan volume."
+    },
+    {
+      "position": 5,
+      "name": "Soda Water",
+      "measurement": "250ml",
+      "grams": 250,
+      "assumptions": "Carbonated soda water; negligible macros, used entirely in batter."
+    },
+    {
+      "position": 6,
+      "name": "Purple Sprouting Broccoli",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Raw purple sprouting broccoli; full 200g used, trimmed but edible portion."
+    },
+    {
+      "position": 7,
+      "name": "Fish Sauce",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "2 tbsp fish sauce (~15ml each); standard Vietnamese nuoc cham values."
+    },
+    {
+      "position": 8,
+      "name": "Lime",
+      "measurement": "Juice of 2",
+      "grams": 90,
+      "assumptions": "Juice of 2 limes (~45ml each, total 90g); standard lime juice values."
+    },
+    {
+      "position": 9,
+      "name": "Birds-eye Chillies",
+      "measurement": "1 chopped",
+      "grams": 5,
+      "assumptions": "1 chopped birds-eye chilli (~5g); typical small chilli weight and macros."
+    },
+    {
+      "position": 10,
+      "name": "Sugar",
+      "measurement": "2 tablespoons",
+      "grams": 25,
+      "assumptions": "2 tbsp white sugar (~12.5g each); standard granulated sugar values."
+    }
+  ],
+  "nutrition": {
+    "calories": 1067.02,
+    "protein": 20.05,
+    "fat": 36.55,
+    "fiber": 9.95,
+    "carbs": 164.72
+  }
+}

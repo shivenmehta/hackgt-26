@@ -1,0 +1,103 @@
+{
+  "id": "52974",
+  "name": "Keleya Zaara",
+  "cuisine": "Tunisian",
+  "fingerprint": "429c4a3d1a2d86b8490726c926809f3542d518334affc2ce57975b732206d5d9",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on 750 g lamb quantity typical for 4 adult portions in Tunisian/North African stews and common recipe scaling for similar dishes.",
+    "Total time is sum of active cooking steps (5 min browning + 15 min simmering + 5-10 min sauce reduction) rounded up to 35 min; excludes any optional prep time for chopping or measuring.",
+    "Butter is classified as a dairy source (Milk allergen true).",
+    "No wheat, barley, rye or oats listed so Gluten-free is true.",
+    "No explicit tree-nut, peanut, soy, fish, shellfish or egg ingredients; Sesame left null as it could be present in an unspecified 'vegetable oil' blend but olive oil is listed.",
+    "Parsley, saffron, onion, lemon, water and olive oil are compatible with all listed diets except where dairy or animal products conflict.",
+    "Lamb makes Vegetarian, Vegan and Pescatarian false; butter makes Dairy-free and Vegan false."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat the vegetable oil in a large frying pan over medium-high heat. Add the lamb and cook until browned on all sides, about 5 minutes. Season with saffron, salt and pepper to taste; stir in all but 4 tablespoons of the onion, and pour in the water. Bring to the boil, then cover, reduce heat to medium-low, and simmer until the lamb is tender, about 15 minutes.\r\nUncover the pan, stir in the butter and allow the sauce reduce 5 to 10 minutes to desired consistency. Season to taste with salt and pepper, then pour into a serving dish. Sprinkle with the remaining chopped onions and parsley. Garnish with lemon wedges to serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "4 tbs",
+      "grams": 60,
+      "assumptions": "Standard olive oil; 1 tbs ≈ 15 ml / 13.5 g so 4 tbs = 54-60 g; used 60 g as typical rounded value for nutrition databases."
+    },
+    {
+      "position": 2,
+      "name": "Lamb",
+      "measurement": "750g",
+      "grams": 750,
+      "assumptions": "Raw boneless lamb shoulder or leg cut for stewing; typical values for average lamb meat used in North African recipes (includes some fat marbling)."
+    },
+    {
+      "position": 3,
+      "name": "Saffron",
+      "measurement": "1 1/2 tsp",
+      "grams": 1,
+      "assumptions": "Dried saffron threads; 1.5 tsp ≈ 0.75-1 g (very light spice); used 1 g as plausible small-quantity estimate for a recipe serving 4."
+    },
+    {
+      "position": 4,
+      "name": "Onion",
+      "measurement": "1 Large Chopped",
+      "grams": 150,
+      "assumptions": "1 large onion ≈ 150 g raw chopped weight; standard yellow onion values; 'all but 4 tbs' used in cooking, remainder as garnish, but whole onion weight used for the line."
+    },
+    {
+      "position": 5,
+      "name": "Water",
+      "measurement": "25 ml",
+      "grams": 25,
+      "assumptions": "Water contributes zero macros; 25 ml = 25 g."
+    },
+    {
+      "position": 6,
+      "name": "Parsley",
+      "measurement": "30g",
+      "grams": 30,
+      "assumptions": "Fresh parsley leaves and stems; given as 30 g so used directly; standard raw parsley nutrition."
+    },
+    {
+      "position": 7,
+      "name": "Butter",
+      "measurement": "1 tbs",
+      "grams": 14,
+      "assumptions": "1 tbs butter ≈ 14 g; standard unsalted butter values."
+    },
+    {
+      "position": 8,
+      "name": "Lemon",
+      "measurement": "1",
+      "grams": 100,
+      "assumptions": "1 whole medium lemon (edible portion with some peel for wedges) ≈ 100 g; standard raw lemon values including minor fiber from pulp."
+    }
+  ],
+  "nutrition": {
+    "calories": 2608.68,
+    "protein": 153.75,
+    "fat": 222.13,
+    "fiber": 6.28,
+    "carbs": 24.96
+  }
+}

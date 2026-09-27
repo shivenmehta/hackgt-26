@@ -1,0 +1,104 @@
+{
+  "id": "53239",
+  "name": "Bang bang prawn salad",
+  "cuisine": "Vietnamese",
+  "fingerprint": "03dc1eb242a4aa64297beb05a10eca8dab6bc13d4d08276e88186e801dcf6e1f",
+  "yield": 2,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": null,
+    "Peanuts": true,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical BBC Good Food / similar prawn noodle salad recipes (200g prawns + 140g dry noodles for 2 adult servings).",
+    "Preparation time estimated from instructions (noodle cooking ~3-5 min + sauce melting ~2-3 min + assembly ~5 min; total active ~15 min).",
+    "Peanut butter classified as containing peanuts (allergen true) and incompatible with Vegan/Vegetarian.",
+    "Prawns classified as shellfish (allergen true) and incompatible with Vegetarian/Vegan.",
+    "Sweet chilli sauce assumed to contain no wheat/soy/sesame (common formulations vary; left ambiguous).",
+    "Rice noodles assumed rice-only (no wheat); gluten-free left null due to possible cross-contamination or uncertified status.",
+    "Coconut milk, cucumber, bean sprouts, spring onions compatible with all listed diets.",
+    "No milk, eggs, fish, tree nuts, or sesame explicitly present."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nCook the noodles following pack instructions, then rinse under cold water and drain thoroughly. In a small saucepan melt together the peanut butter, coconut milk, sweet chilli sauce and half the spring onions, adding 1-2 tbsp of water to loosen the mixture to a drizzling consistency.\r\n\r\nstep 2\r\nMix the noodles, cucumber and beansprouts in a serving dish. Top with the prawns, drizzle over the peanut sauce and scatter over the remaining spring onions.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/4xcfai1763765676.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Rice Noodles",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "Dry rice noodles as per pack; typical Asian vermicelli-style values used."
+    },
+    {
+      "position": 2,
+      "name": "Peanut Butter",
+      "measurement": "3 tablespoons",
+      "grams": 48,
+      "assumptions": "Smooth peanut butter; 1 tbsp ≈ 16 g, standard nutritional profile."
+    },
+    {
+      "position": 3,
+      "name": "Coconut Milk",
+      "measurement": "4 tablespoons",
+      "grams": 60,
+      "assumptions": "Canned coconut milk; 1 tbsp ≈ 15 g, full-fat standard values."
+    },
+    {
+      "position": 4,
+      "name": "sweet chilli sauce",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "Sweet chilli sauce; 1 tbsp ≈ 15 g, typical sugar-heavy profile."
+    },
+    {
+      "position": 5,
+      "name": "Spring Onions",
+      "measurement": "3 sliced thinly",
+      "grams": 45,
+      "assumptions": "3 medium spring onions, total edible weight ≈ 45 g after trimming."
+    },
+    {
+      "position": 6,
+      "name": "Cucumber",
+      "measurement": "1 sliced",
+      "grams": 300,
+      "assumptions": "1 medium-large cucumber, edible flesh and skin ≈ 300 g after slicing."
+    },
+    {
+      "position": 7,
+      "name": "Bean Sprouts",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Fresh bean sprouts, standard mung bean values."
+    },
+    {
+      "position": 8,
+      "name": "Prawns",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Cooked prawns (shrimp), peeled and ready-to-eat weight."
+    }
+  ],
+  "nutrition": {
+    "calories": 1337.1,
+    "protein": 77.75,
+    "fat": 38.65,
+    "fiber": 17.44,
+    "carbs": 182.75
+  }
+}

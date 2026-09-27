@@ -1,0 +1,125 @@
+{
+  "id": "53014",
+  "name": "Pizza Express Margherita",
+  "cuisine": "Italian",
+  "fingerprint": "b25a8e257c636989ccc0bf678cebee2e4ab57015a50ee0b6c81d48286c92f4b0",
+  "yield": 1,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe as written yields one individual 10-12 inch Margherita pizza (standard for this Pizza Express copycat recipe)",
+    "Total time estimate aggregates explicit instruction times (10-15 min yeast activation + 10 min kneading + 10-12 min bake) plus ~10-15 min estimated for oven preheat, dough shaping, topping, and misc. steps",
+    "'Drizzle' of olive oil conservatively classified as present but not affecting allergen/diet flags",
+    "Oregano measurement listed as 'Peeled and Sliced' (inconsistent with typical dried oregano) conservatively treated as 1 g dried herb",
+    "Basil listed as 'Leaves' conservatively treated as 5 g fresh basil",
+    "No compound sauces or ambiguous ingredients beyond those already screened in source data",
+    "Yeast treated as standard baker's yeast (not fish/egg derived)",
+    "Passata treated as plain strained tomatoes with no additives"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "1 Preheat the oven to 230°C.\r\n\r\n2 Add the sugar and crumble the fresh yeast into warm water.\r\n\r\n3 Allow the mixture to stand for 10 – 15 minutes in a warm place (we find a windowsill on a sunny day works best) until froth develops on the surface.\r\n\r\n4 Sift the flour and salt into a large mixing bowl, make a well in the middle and pour in the yeast mixture and olive oil.\r\n\r\n5 Lightly flour your hands, and slowly mix the ingredients together until they bind.\r\n\r\n6 Generously dust your surface with flour.\r\n\r\n7 Throw down the dough and begin kneading for 10 minutes until smooth, silky and soft.\r\n\r\n8 Place in a lightly oiled, non-stick baking tray (we use a round one, but any shape will do!)\r\n\r\n9 Spread the passata on top making sure you go to the edge.\r\n\r\n10 Evenly place the mozzarella (or other cheese) on top, season with the oregano and black pepper, then drizzle with a little olive oil.\r\n\r\n11 Cook in the oven for 10 – 12 minutes until the cheese slightly colours.\r\n\r\n12 When ready, place the basil leaf on top and tuck in!",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Water",
+      "measurement": "150ml",
+      "grams": 150,
+      "assumptions": "150 ml water weighs 150 g; all nutrients zero"
+    },
+    {
+      "position": 2,
+      "name": "Sugar",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "1 tsp sugar ≈ 4 g; typical granulated sugar values"
+    },
+    {
+      "position": 3,
+      "name": "Yeast",
+      "measurement": "15g",
+      "grams": 15,
+      "assumptions": "15 g fresh baker's yeast; typical compressed yeast values"
+    },
+    {
+      "position": 4,
+      "name": "Plain Flour",
+      "measurement": "225g",
+      "grams": 225,
+      "assumptions": "225 g plain white wheat flour; standard all-purpose flour values"
+    },
+    {
+      "position": 5,
+      "name": "Salt",
+      "measurement": "1 1/2 tsp",
+      "grams": 9,
+      "assumptions": "1.5 tsp table salt ≈ 9 g; all nutrients zero"
+    },
+    {
+      "position": 6,
+      "name": "Olive Oil",
+      "measurement": "Drizzle",
+      "grams": 10,
+      "assumptions": "'Drizzle' of olive oil in dough assumed as 10 g (≈ 2 tsp); typical extra-virgin olive oil values"
+    },
+    {
+      "position": 7,
+      "name": "Passata",
+      "measurement": "80g",
+      "grams": 80,
+      "assumptions": "80 g tomato passata; typical strained tomato values"
+    },
+    {
+      "position": 8,
+      "name": "Mozzarella",
+      "measurement": "70g",
+      "grams": 70,
+      "assumptions": "70 g fresh mozzarella cheese; typical drained values"
+    },
+    {
+      "position": 9,
+      "name": "Oregano",
+      "measurement": "Peeled and Sliced",
+      "grams": 1,
+      "assumptions": "'Peeled and Sliced' for oregano interpreted as 1 g dried oregano leaves (common pizza amount); typical dried herb values"
+    },
+    {
+      "position": 10,
+      "name": "Basil",
+      "measurement": "Leaves",
+      "grams": 5,
+      "assumptions": "'Leaves' for basil interpreted as 5 g fresh basil leaves (typical pizza garnish amount); typical fresh herb values"
+    },
+    {
+      "position": 11,
+      "name": "Black Pepper",
+      "measurement": "Pinch",
+      "grams": 1,
+      "assumptions": "Pinch of black pepper ≈ 1 g; all nutrients zero"
+    }
+  ],
+  "nutrition": {
+    "calories": 1180.83,
+    "protein": 43.11,
+    "fat": 27.06,
+    "fiber": 12.91,
+    "carbs": 189.33
+  }
+}

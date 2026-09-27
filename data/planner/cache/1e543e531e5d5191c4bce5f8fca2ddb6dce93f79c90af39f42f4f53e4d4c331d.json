@@ -1,0 +1,169 @@
+{
+  "id": "53370",
+  "name": "Egg Foo Young",
+  "cuisine": "Chinese",
+  "fingerprint": "1e543e531e5d5191c4bce5f8fca2ddb6dce93f79c90af39f42f4f53e4d4c331d",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe makes 4 omelets explicitly stated in instructions, each served over rice as a complete dish; yield therefore 4 servings.",
+    "Total active + passive time (gravy ~5 min, batter ~5 min, frying 4 omelets ~20 min including cooling, plus rice cooking) conservatively estimated at 45 minutes.",
+    "Oyster sauce classified as containing shellfish (true) and ambiguous for fish (null).",
+    "Soy sauce classified as containing wheat (true) and soy (true); oyster sauce also contains soy (true).",
+    "Shaoxing wine, pepper, salt, sugar, oil, rice, and cornstarch introduce no listed allergens.",
+    "Spring onions and bean sprouts introduce no listed allergens.",
+    "No dairy, tree nuts, peanuts, or sesame in listed ingredients (confidently absent).",
+    "Gluten-free is null because soy sauce and oyster sauce are typically not certified gluten-free and often contain wheat; no explicit gluten-free ingredients or certification mentioned.",
+    "Pescatarian true because all ingredients are compatible with pescatarian diet (includes seafood, eggs, no meat).",
+    "Vegetarian and vegan false due to shrimp, beef stock, oyster sauce, and eggs."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Make the gravy:\r\nIn a small saucepan, add the beef stock, soy sauce, Shaoxing wine, oyster sauce, and white pepper powder over medium heat. Whisk together and bring to a simmer. \r\n\r\nCombine the cornstarch and water in a small bowl and whisk to dissolve. Add to the saucepan and whisk until the gravy thickens and coats the back of the spoon, 2 to 3 minutes. Cover the saucepan with a lid and keep it warm on the lowest possible heat.\r\n\r\nMake the egg foo young batter:\r\nIn a medium bowl, whisk together the cornstarch and water until dissolved. Add the eggs, salt, and sugar. Whisk until well combined and there are no more egg white clumps. \r\n\r\nAdd the green onion, bean sprouts, and shrimp. Stir until everything is evenly coated.\r\n\r\nFry the egg foo young:\r\nAdd the vegetable oil to a large wok; it should reach about 2 inches up the sides. Heat the oil over medium-high heat to 350°F, or until vigorous bubbles form around an inserted wooden chopstick. \r\n\r\nWith a ladle, gently and slowly add 1/4 of the omelet batter. Egg foo young should immediately bubble and puff up like magic. Fry until golden brown and crispy on each side, about 2 minutes per side. If there are any light spots, use a ladle to gently baste it with hot oil.\r\n\r\nTip\r\nEgg foo young can be a bit tricky to flip. The easiest method is to put a tool in each hand (a spider, slotted spoon, tongs, and large chopsticks are all good candidates) and gently coax the omelet over, pulling up on one side and pushing down and around on the other.\r\n\r\nRemove the omelet and place it on a paper towel-lined baking sheet. Let it cool for 5 minutes. Meanwhile, repeat with the remaining batter to make 4 omelets. If needed, add more oil to the pan between batches.\r\n\r\nServe and enjoy:\r\nPlate each egg foo young over a bed of rice. Spoon the warm gravy over the top and serve immediately.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/47y6ii1765658818.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Unsalted Beef Stock",
+      "measurement": "1 cup",
+      "grams": 240,
+      "assumptions": "1 cup beef stock, typical low-sodium canned or homemade value, mostly water with minimal nutrients."
+    },
+    {
+      "position": 2,
+      "name": "Soy Sauce",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp regular soy sauce, standard sodium-fermented product."
+    },
+    {
+      "position": 3,
+      "name": "Shaoxing Wine",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp Shaoxing rice wine, typical Chinese cooking wine values."
+    },
+    {
+      "position": 4,
+      "name": "Oyster Sauce",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp oyster sauce, standard bottled Chinese variety."
+    },
+    {
+      "position": 5,
+      "name": "Pepper",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp white pepper powder, negligible contribution due to tiny amount."
+    },
+    {
+      "position": 6,
+      "name": "Cornstarch",
+      "measurement": "1 tablespoon",
+      "grams": 8,
+      "assumptions": "1 tbsp cornstarch, standard dry powder nutrition."
+    },
+    {
+      "position": 7,
+      "name": "Water",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp water for gravy slurry, zero calories/macros."
+    },
+    {
+      "position": 8,
+      "name": "Cornstarch",
+      "measurement": "1 tablespoon",
+      "grams": 8,
+      "assumptions": "1 tbsp cornstarch for batter, standard dry powder nutrition."
+    },
+    {
+      "position": 9,
+      "name": "Water",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp water for batter slurry, zero calories/macros."
+    },
+    {
+      "position": 10,
+      "name": "Egg",
+      "measurement": "8 large",
+      "grams": 400,
+      "assumptions": "8 large eggs (approx 50 g edible each, raw whole), standard large egg values."
+    },
+    {
+      "position": 11,
+      "name": "Kosher Salt",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "1/2 tsp kosher salt, negligible contribution due to tiny amount."
+    },
+    {
+      "position": 12,
+      "name": "Sugar",
+      "measurement": "1/4 tsp",
+      "grams": 1,
+      "assumptions": "1/4 tsp granulated sugar, standard white sugar."
+    },
+    {
+      "position": 13,
+      "name": "Spring Onions",
+      "measurement": "1",
+      "grams": 15,
+      "assumptions": "1 spring onion (green onion), typical 15 g trimmed edible portion."
+    },
+    {
+      "position": 14,
+      "name": "Mung Bean Sprouts",
+      "measurement": "1 cup",
+      "grams": 104,
+      "assumptions": "1 cup mung bean sprouts, standard raw volume-to-weight (104 g)."
+    },
+    {
+      "position": 15,
+      "name": "Shrimp",
+      "measurement": "20",
+      "grams": 100,
+      "assumptions": "20 medium shrimp (peeled, deveined, raw); approx 5 g each edible meat, total 100 g."
+    },
+    {
+      "position": 16,
+      "name": "Vegetable Oil",
+      "measurement": "3 Cups",
+      "grams": 100,
+      "assumptions": "3 cups vegetable oil for deep frying; assumes ~100 g absorbed by the 4 omelets (typical 25 g oil per large egg foo young patty after draining; bulk of oil remains in wok and is not consumed)."
+    },
+    {
+      "position": 17,
+      "name": "Jasmine Rice",
+      "measurement": "2 cups",
+      "grams": 370,
+      "assumptions": "2 cups uncooked jasmine rice (standard dry volume-to-weight ~185 g per cup); rice is cooked and served as bed for the dish."
+    }
+  ],
+  "nutrition": {
+    "calories": 3020.63,
+    "protein": 95.65,
+    "fat": 142.04,
+    "fiber": 6.58,
+    "carbs": 325.39
+  }
+}

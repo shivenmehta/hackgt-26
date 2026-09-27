@@ -1,0 +1,145 @@
+{
+  "id": "53070",
+  "name": "Beef Caldereta",
+  "cuisine": "Filipino",
+  "fingerprint": "5b7a53fe59af654bfa957860997591eb51c6b761babcb718b26642a67b8afa4a",
+  "yield": 6,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": true,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 2kg beef plus vegetables and sauce volume, typical for 6 adult servings in Filipino beef stews.",
+    "Minutes estimated from instruction steps: saute (5min) + pressure cook (30min) + pan-fry veggies (10min) + final simmer (7min) + prep time (~8min).",
+    "Beef stock assumed as 1 Knorr beef cube (common in recipe).",
+    "Chilli powder '5' interpreted as 5g total based on provided data.",
+    "Tomato puree treated as canned tomato product (no added dairy/egg).",
+    "Soy sauce introduces wheat/soy ambiguity without brand certification.",
+    "No explicit tree nuts, fish, shellfish, eggs, milk, or sesame in listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "0.\tHeat oil in a cooking pot. Saute onion and garlic until onion softens\r\n1.\tAdd beef. Saute until the outer part turns light brown.\r\n2.\tAdd soy sauce. Pour tomato sauce and water. Let boil.\r\n3.\tAdd Knorr Beef Cube. Cover the pressure cooker. Cook for 30 minutes.\r\n4.\tPan-fry carrot and potato until it browns. Set aside.\r\n5.\tAdd chili pepper, liver spread and peanut butter. Stir.\r\n6.\tAdd bell peppers, fried potato and carrot. Cover the pot. Continue cooking for 5 to 7 minutes.\r\n7.\tSeason with salt and ground black pepper. Serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/41cxjh1683207682.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef",
+      "measurement": "2kg cut cubes",
+      "grams": 2000,
+      "assumptions": "Beef stew meat, raw, typical for cubed stewing beef; 2kg as given (edible portion)."
+    },
+    {
+      "position": 2,
+      "name": "Beef Stock",
+      "measurement": "1",
+      "grams": 10,
+      "assumptions": "Knorr Beef Cube (beef bouillon cube); 1 cube assumed as 10g typical size, common in Filipino recipes for flavoring."
+    },
+    {
+      "position": 3,
+      "name": "Soy Sauce",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "Soy sauce; 1 tablespoon = 15g, standard volume to weight."
+    },
+    {
+      "position": 4,
+      "name": "Water",
+      "measurement": "2 cups",
+      "grams": 480,
+      "assumptions": "Water; 2 cups = 480ml/480g, zero calories."
+    },
+    {
+      "position": 5,
+      "name": "Green Pepper",
+      "measurement": "1 sliced",
+      "grams": 120,
+      "assumptions": "Green bell pepper; 1 large sliced assumed ~120g edible portion."
+    },
+    {
+      "position": 6,
+      "name": "Red Pepper",
+      "measurement": "1 sliced",
+      "grams": 120,
+      "assumptions": "Red bell pepper; 1 large sliced assumed ~120g edible portion."
+    },
+    {
+      "position": 7,
+      "name": "Potatoes",
+      "measurement": "1 sliced",
+      "grams": 150,
+      "assumptions": "Potato; 1 large sliced assumed ~150g raw, peeled weight typical for recipe."
+    },
+    {
+      "position": 8,
+      "name": "Carrots",
+      "measurement": "1 sliced",
+      "grams": 80,
+      "assumptions": "Carrot; 1 medium-large sliced assumed ~80g raw, peeled weight."
+    },
+    {
+      "position": 9,
+      "name": "Tomato Puree",
+      "measurement": "8 ounces",
+      "grams": 227,
+      "assumptions": "Tomato puree; 8 ounces = 227g, standard canned tomato puree values."
+    },
+    {
+      "position": 10,
+      "name": "Peanut Butter",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "Peanut butter; 3 tablespoons = 45g, smooth style typical."
+    },
+    {
+      "position": 11,
+      "name": "Chilli Powder",
+      "measurement": "5",
+      "grams": 3,
+      "assumptions": "Chilli powder; 5 assumed as 5g total (1 tsp equivalent) for the dish, typical spice amount."
+    },
+    {
+      "position": 12,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "Onion; 1 medium chopped assumed ~110g raw."
+    },
+    {
+      "position": 13,
+      "name": "Garlic",
+      "measurement": "5 cloves",
+      "grams": 15,
+      "assumptions": "Garlic; 5 cloves assumed ~15g total raw."
+    },
+    {
+      "position": 14,
+      "name": "Olive Oil",
+      "measurement": "3 tbs",
+      "grams": 45,
+      "assumptions": "Olive oil; 3 tablespoons = 45g for sauteing and frying steps."
+    }
+  ],
+  "nutrition": {
+    "calories": 6036.17,
+    "protein": 525.38,
+    "fat": 368.05,
+    "fiber": 20.66,
+    "carbs": 87.85
+  }
+}

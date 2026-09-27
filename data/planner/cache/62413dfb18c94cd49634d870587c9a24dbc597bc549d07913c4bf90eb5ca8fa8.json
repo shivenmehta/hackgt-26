@@ -1,0 +1,145 @@
+{
+  "id": "53071",
+  "name": "Beef Asado",
+  "cuisine": "Filipino",
+  "fingerprint": "62413dfb18c94cd49634d870587c9a24dbc597bc549d07913c4bf90eb5ca8fa8",
+  "yield": 6,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 1.5 kg beef plus vegetables/sauce for 6 adult main-dish servings (typical for Filipino beef stews)",
+    "Total time sums explicit steps: 30 min minimum marinade + 40 min simmer + ~15 min frying/sauté + ~5 min final simmer, rounded up for prep/turning/tenderizing checks",
+    "Butter confirms dairy",
+    "Soy sauce confirms soy",
+    "No explicit gluten sources (soy sauce assumed wheat-free or tamari-style for classification but left null per conservative rule)",
+    "No eggs, fish, shellfish, nuts, peanuts, or sesame listed",
+    "Lemon, tomato products, vinegar, oil, onion, garlic, bay, pepper, and beef stock are compatible with listed diets where not already false"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "0.\tCombine beef, crushed peppercorn, soy sauce, vinegar, dried bay leaves, lemon, and tomato sauce. Mix well. Marinate beef for at least 30 minutes.\r\n1.\tPut the marinated beef in a cooking pot along with remaining marinade. Add water. Let boil.\r\n2.\tAdd Knorr Beef Cube. Stir. Cover the pot and cook for 40 minutes in low heat.\r\n3.\tTurn the beef over. Add tomato paste. Continue cooking until beef tenderizes. Set aside.\r\n4.\tHeat oil in a pan. Fry the potato until it browns. Turn over and continue frying the opposite side. Remove from the pan and place on a clean plate. Do the same with the carrots.\r\n5.\tSave 3 tablespoons of cooking oil from the pan where the potato was fried. Saute onion and garlic until onion softens.\r\n6.\tPour-in the sauce from the beef stew. Let boil. Add the beef. Cook for 2 minutes.\r\n7.\tAdd butter and let it melt. Continue cooking until the sauce reduces to half.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef",
+      "measurement": "1.5kg",
+      "grams": 1500,
+      "assumptions": "Beef chuck or similar cut, raw weight as typical for stewing recipes; nutrients for average beef stew meat"
+    },
+    {
+      "position": 2,
+      "name": "Beef Stock Concentrate",
+      "measurement": "1",
+      "grams": 10,
+      "assumptions": "Knorr Beef Cube ( bouillon cube ); typical 10g cube size assumed for 1 cube"
+    },
+    {
+      "position": 3,
+      "name": "Tomato Puree",
+      "measurement": "8 ounces",
+      "grams": 227,
+      "assumptions": "Tomato puree (8 oz can); standard canned tomato puree values"
+    },
+    {
+      "position": 4,
+      "name": "Water",
+      "measurement": "3 cups",
+      "grams": 720,
+      "assumptions": "3 cups water (720 ml); zero calories as plain water"
+    },
+    {
+      "position": 5,
+      "name": "Soy Sauce",
+      "measurement": "6 tablespoons",
+      "grams": 90,
+      "assumptions": "6 tablespoons regular soy sauce; typical sodium-rich soy sauce values"
+    },
+    {
+      "position": 6,
+      "name": "White Wine Vinegar",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tablespoon white wine vinegar; standard vinegar nutrition"
+    },
+    {
+      "position": 7,
+      "name": "Pepper",
+      "measurement": "2 tbs",
+      "grams": 12,
+      "assumptions": "2 tablespoons crushed black peppercorns; typical values for whole peppercorns"
+    },
+    {
+      "position": 8,
+      "name": "Bay Leaf",
+      "measurement": "4",
+      "grams": 2,
+      "assumptions": "4 dried bay leaves; very small dry weight, typical spice nutrition"
+    },
+    {
+      "position": 9,
+      "name": "Lemon",
+      "measurement": "1/2",
+      "grams": 50,
+      "assumptions": "Juice from 1/2 lemon (about 50g juice portion); standard lemon juice values"
+    },
+    {
+      "position": 10,
+      "name": "Tomato Sauce",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tablespoons tomato sauce/paste; typical canned tomato sauce values"
+    },
+    {
+      "position": 11,
+      "name": "Butter",
+      "measurement": "3 tbs",
+      "grams": 42,
+      "assumptions": "3 tablespoons butter; standard unsalted butter values"
+    },
+    {
+      "position": 12,
+      "name": "Olive Oil",
+      "measurement": "1/2 cup",
+      "grams": 110,
+      "assumptions": "1/2 cup olive oil used for frying; typical olive oil values, full amount included as absorbed or in recipe"
+    },
+    {
+      "position": 13,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium onion, chopped (about 110g); standard raw onion values"
+    },
+    {
+      "position": 14,
+      "name": "Garlic",
+      "measurement": "4 cloves",
+      "grams": 12,
+      "assumptions": "4 cloves garlic, minced (about 12g); standard raw garlic values"
+    }
+  ],
+  "nutrition": {
+    "calories": 5431,
+    "protein": 407.91,
+    "fat": 403.85,
+    "fiber": 16.05,
+    "carbs": 74.98
+  }
+}

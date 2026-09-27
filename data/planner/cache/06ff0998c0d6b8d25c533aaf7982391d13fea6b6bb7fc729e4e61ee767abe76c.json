@@ -1,0 +1,145 @@
+{
+  "id": "53279",
+  "name": "Baklava with spiced nuts, ricotta & chocolate",
+  "cuisine": "Turkish",
+  "fingerprint": "06ff0998c0d6b8d25c533aaf7982391d13fea6b6bb7fc729e4e61ee767abe76c",
+  "yield": 48,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from instructions: ~12 rolls cut into 4 pieces each = 48 large baklava pieces (primary option given).",
+    "Total time is conservative estimate including all steps: syrup (~25 min), butter melting (~5 min), nut crushing (~5 min), ricotta mixing (~5 min), assembly of 12 rolls (~30 min), baking (20-25 min), chocolate melting/drizzling (~5-10 min), cooling/absorbing not counted in active prep.",
+    "All tree nuts (walnuts, pecans, almonds, pistachios) treated as present for allergens; unspecified if any other nuts cross-contact.",
+    "Eggs, peanuts, soy, sesame, fish, shellfish confidently absent from listed ingredients and instructions.",
+    "Filo pastry assumed to contain wheat (standard); no gluten-free indication given.",
+    "Ricotta and butter confirm dairy (milk).",
+    "No substitutions proposed; classifications based strictly on listed ingredients."
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nFirst, make the syrup. Tip the sugar into a large saucepan with 650ml water. Stir over a low heat until the sugar has dissolved, then turn up the heat and bring to the boil. Reduce the heat to a simmer and cook for 15 mins, then squeeze in a few drops of lemon juice and simmer for a further 5 mins. Remove from the heat and leave to cool. Meanwhile, for assembling the baklava later, melt the butter in a small pan over a low heat for 5 mins, skimming and discarding any froth that rises to the surface.\r\n\r\nstep 2\r\nFor the filling, crush all of the nuts in a pestle and mortar, or blitz in a food processor – you want a mixture of finely ground nuts with a few chunky pieces. Tip into a bowl, stir through the spices and set aside.\r\n\r\nstep 3\r\nIn a separate bowl, mix the ricotta with the lemon and orange zests and vanilla. Heat the oven to 180C/160C fan/gas 4. Brush the bottom of a large baking tray (about 35 x 47cm) with some of the melted butter. Working with one sheet of filo at a time (covering the rest with a damp tea towel to prevent it drying out), lay the sheet out on a board so one of the short ends is facing you. Sprinkle 30g of the nut mixture evenly over the whole sheet, then spoon 1 tbsp of the ricotta mixture across the end closest to you. Fold this end over to enclose the filling, then lay a long, thin skewer next to the folded edge and roll the pastry around it to create a long roll. When it’s fully rolled up, it should be roughly the thickness of a chipolata sausage. While holding one end of the rolling pin or skewer, gently scrunch the filo roll like an accordion and carefully push it off the skewer and onto the prepared tray. Repeat with the rest of the filo and fillings – you should get about 12 rolls. Cut each roll into four to make 48 large baklava, or eight to make 96 mini.\r\n\r\nstep 4\r\nBrush with the remaining melted butter. Bake for 20-25 mins until evenly golden, turning the tray around halfway through. While still hot, immediately pour over 5-6 ladlefuls of the syrup. You should hear the syrup sizzle as it hits the hot baklava. Set aside to cool and absorb.\r\n\r\nstep 5\r\nMelt the dark chocolate in a heatproof bowl set over a pan of simmering water, ensuring the bowl doesn’t touch the water, or in the microwave in short bursts. Drizzle this over the cooled baklava and sprinkle with the ground pistachios.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ytme8t1764111401.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sugar",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Granulated white sugar; 500g as given, fully used in syrup."
+    },
+    {
+      "position": 2,
+      "name": "Lemon Juice",
+      "measurement": "To taste",
+      "grams": 15,
+      "assumptions": "Lemon juice to taste in syrup estimated as juice of ~1 medium lemon (~15g); typical household amount for balancing 500g sugar syrup."
+    },
+    {
+      "position": 3,
+      "name": "Walnuts",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Raw walnuts; 300g as given, crushed for filling."
+    },
+    {
+      "position": 4,
+      "name": "Pecan Nuts",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Raw pecan nuts; 200g as given, crushed for filling."
+    },
+    {
+      "position": 5,
+      "name": "Almonds",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Raw almonds; 100g as given, crushed for filling."
+    },
+    {
+      "position": 6,
+      "name": "Ground Cinnamon",
+      "measurement": "2 tablespoons",
+      "grams": 13,
+      "assumptions": "Ground cinnamon; 2 tbsp ≈ 13g typical weight, added to nut filling."
+    },
+    {
+      "position": 7,
+      "name": "Ground Cardomom",
+      "measurement": "1 tablespoon",
+      "grams": 6,
+      "assumptions": "Ground cardamom; 1 tbsp ≈ 6g typical weight, added to nut filling."
+    },
+    {
+      "position": 8,
+      "name": "Ricotta",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Whole milk ricotta cheese; 500g as given, mixed with zests for filling."
+    },
+    {
+      "position": 9,
+      "name": "Lemon",
+      "measurement": "Zest of 1",
+      "grams": 6,
+      "assumptions": "Zest of 1 lemon; typical medium lemon zest ≈ 6g, added to ricotta (edible zest only)."
+    },
+    {
+      "position": 10,
+      "name": "Orange",
+      "measurement": "Zest of 1",
+      "grams": 7,
+      "assumptions": "Zest of 1 orange; typical medium orange zest ≈ 7g, added to ricotta (edible zest only)."
+    },
+    {
+      "position": 11,
+      "name": "Vanilla Bean Paste",
+      "measurement": "1 tablespoon",
+      "grams": 13,
+      "assumptions": "Vanilla bean paste; 1 tbsp ≈ 13g typical weight, mixed into ricotta."
+    },
+    {
+      "position": 12,
+      "name": "Unsalted Butter",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Unsalted butter; 250g as given, melted and used for brushing (full amount estimated used)."
+    },
+    {
+      "position": 13,
+      "name": "Filo Pastry",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Filo (phyllo) pastry sheets; 500g as given, rolled with fillings (typical commercial weight, uncooked)."
+    },
+    {
+      "position": 14,
+      "name": "Ground Pistachios",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Ground pistachios; 100g as given, for sprinkling on top after chocolate drizzle."
+    }
+  ],
+  "nutrition": {
+    "calories": 10664.57,
+    "protein": 201.67,
+    "fat": 715.38,
+    "fiber": 82.24,
+    "carbs": 940.83
+  }
+}

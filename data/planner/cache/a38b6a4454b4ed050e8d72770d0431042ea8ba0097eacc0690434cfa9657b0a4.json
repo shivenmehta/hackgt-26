@@ -1,0 +1,125 @@
+{
+  "id": "52868",
+  "name": "Kidney Bean Curry",
+  "cuisine": "Indian",
+  "fingerprint": "a38b6a4454b4ed050e8d72770d0431042ea8ba0097eacc0690434cfa9657b0a4",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical 400g can sizes and rice side portion for 4 adult servings as a main dish",
+    "Total time is sum of sequential steps: ~8 min softening onion, 2 min garlic/ginger, 1 min spices, ~15 min simmer, plus ~9 min for heating/boiling and seasoning",
+    "All ingredients plant-based with no animal products listed",
+    "No wheat, barley, rye or oats listed; rice is gluten-free",
+    "No milk, eggs, fish, shellfish, tree nuts, peanuts or sesame listed",
+    "Soy ambiguous due to possible use in vegetable oil or unspecified canned bean/tomato processing aids",
+    "Coriander packet assumed fully used (stalks + leaves); ginger '1 part' interpreted as 1-inch piece based on provided grams",
+    "Basmati rice 'to serve' quantified as 200g cooked per provided data for 4 servings"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat the oil in a large frying pan over a low-medium heat. Add the onion and a pinch of salt and cook slowly, stirring occasionally, until softened and just starting to colour. Add the garlic, ginger and coriander stalks and cook for a further 2 mins, until fragrant.\r\n\r\nAdd the spices to the pan and cook for another 1 min, by which point everything should smell aromatic. Tip in the chopped tomatoes and kidney beans in their water, then bring to the boil.\r\n\r\nTurn down the heat and simmer for 15 mins until the curry is nice and thick. Season to taste, then serve with the basmati rice and the coriander leaves.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Vegetable Oil",
+      "measurement": "1 tbls",
+      "grams": 14,
+      "assumptions": "Standard vegetable oil; 1 tbsp = 14g; 100% fat assumed for typical cooking oil."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 finely chopped",
+      "grams": 110,
+      "assumptions": "Medium onion (about 110g) finely chopped; values for raw onion."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "2 cloves chopped",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves (6g total); raw garlic values."
+    },
+    {
+      "position": 4,
+      "name": "Ginger",
+      "measurement": "1 part",
+      "grams": 6,
+      "assumptions": "1-inch piece of fresh ginger (about 6g), peeled and chopped; raw ginger values."
+    },
+    {
+      "position": 5,
+      "name": "Coriander",
+      "measurement": "1 Packet",
+      "grams": 20,
+      "assumptions": "1 packet fresh coriander (20g used total: stalks in cooking, leaves to serve); raw coriander/cilantro values; stems and leaves similar nutritionally."
+    },
+    {
+      "position": 6,
+      "name": "Cumin",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Ground cumin; 1 tsp ≈ 2g; typical dried spice values."
+    },
+    {
+      "position": 7,
+      "name": "Paprika",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Paprika; 1 tsp ≈ 2g; typical dried spice values."
+    },
+    {
+      "position": 8,
+      "name": "Garam Masala",
+      "measurement": "2 tsp",
+      "grams": 4,
+      "assumptions": "Garam masala blend; 2 tsp ≈ 4g; approximate mixed dried spice values."
+    },
+    {
+      "position": 9,
+      "name": "Chopped Tomatoes",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Canned chopped tomatoes including juice; 400g can drained weight equivalent in recipe context; typical values."
+    },
+    {
+      "position": 10,
+      "name": "Kidney Beans",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Canned kidney beans in water; full 400g can including liquid as per instructions (beans absorb some, but total used); typical drained-equivalent adjusted for recipe."
+    },
+    {
+      "position": 11,
+      "name": "Basmati Rice",
+      "measurement": "to serve",
+      "grams": 200,
+      "assumptions": "Basmati rice to serve; assumed 200g cooked (typical side portion for 4 servings from ~70g dry); values for cooked rice."
+    }
+  ],
+  "nutrition": {
+    "calories": 1022.24,
+    "protein": 42.76,
+    "fat": 18.99,
+    "fiber": 35.24,
+    "carbs": 178.2
+  }
+}

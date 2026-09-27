@@ -1,0 +1,142 @@
+{
+  "id": "53016",
+  "name": "Chick-Fil-A Sandwich",
+  "cuisine": "American",
+  "fingerprint": "8dc5ea0b7cb532d57d4c0278f94448394de7a96fe89f5bfee23321a32ccd31a4",
+  "yield": 2,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Recipe instructions indicate cutting one chicken breast into two pieces after pounding, yielding two sandwiches from the listed ingredients (one bun listed but instructions say 'buns' plural and 'each cutlet' implies two servings).",
+    "Olive oil quantity listed as 1 cup but only partial absorption assumed per provided data; full quantity not consumed.",
+    "Sesame seed buns contribute sesame allergen; wheat from flour and buns.",
+    "Milk from cow's milk and dairy in bun if present; egg from listed egg; no confident absence for ambiguous items like possible soy in bun or fish in pickle juice."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Wrap the chicken loosely between plastic wrap and pound gently with the flat side of a meat tenderizer until about 1/2 inch thick all around.\r\nCut into two pieces, as even as possible.\r\nMarinate in the pickle juice for 30 minutes to one hour (add a teaspoon of Tabasco sauce now for a spicy sandwich).\r\nBeat the egg with the milk in a bowl.\r\nCombine the flour, sugar, and spices in another bowl.\r\nDip the chicken pieces each into the egg on both sides, then coat in flour on both sides.\r\nHeat the oil in a skillet (1/2 inch deep) to about 345-350.\r\nFry each cutlet for 2 minutes on each side, or until golden and cooked through.\r\nBlot on paper and serve on toasted buns with pickle slices.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Breast",
+      "measurement": "1",
+      "grams": 172,
+      "assumptions": "Boneless, skinless chicken breast; typical 6 oz / 172g size for one breast used in sandwich recipes"
+    },
+    {
+      "position": 2,
+      "name": "Pickle Juice",
+      "measurement": "1/4 cup",
+      "grams": 60,
+      "assumptions": "Dill pickle juice; 1/4 cup = 60 ml, mostly water with salt/vinegar, negligible macros"
+    },
+    {
+      "position": 3,
+      "name": "Egg",
+      "measurement": "1",
+      "grams": 50,
+      "assumptions": "Large whole egg; standard 50g edible portion without shell"
+    },
+    {
+      "position": 4,
+      "name": "Milk",
+      "measurement": "1/4 cup",
+      "grams": 60,
+      "assumptions": "Cow's milk (2%); 1/4 cup = 60 ml"
+    },
+    {
+      "position": 5,
+      "name": "Flour",
+      "measurement": "1/2 cup",
+      "grams": 63,
+      "assumptions": "All-purpose white flour; 1/2 cup = 63g"
+    },
+    {
+      "position": 6,
+      "name": "Icing Sugar",
+      "measurement": "1 tbs",
+      "grams": 12,
+      "assumptions": "Powdered/icing sugar; 1 tablespoon = 12g"
+    },
+    {
+      "position": 7,
+      "name": "Paprika",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "Paprika; 1/2 tsp ≈ 1g, high fiber typical of dried spice"
+    },
+    {
+      "position": 8,
+      "name": "Salt",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "Table salt; 1/2 tsp ≈ 3g, zero calories/macros"
+    },
+    {
+      "position": 9,
+      "name": "Black Pepper",
+      "measurement": "1/4 tsp",
+      "grams": 0.5,
+      "assumptions": "Ground black pepper; 1/4 tsp ≈ 0.5g, typical dried spice values"
+    },
+    {
+      "position": 10,
+      "name": "Garlic Powder",
+      "measurement": "1/4 tsp",
+      "grams": 0.7,
+      "assumptions": "Garlic powder; 1/4 tsp ≈ 0.7g"
+    },
+    {
+      "position": 11,
+      "name": "Celery Salt",
+      "measurement": "1/4 tsp",
+      "grams": 0.5,
+      "assumptions": "Celery salt; 1/4 tsp ≈ 0.5g (blend of salt + celery seed); macros reflect dried herb mix"
+    },
+    {
+      "position": 12,
+      "name": "Cayenne Pepper",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "Cayenne pepper; 1/2 tsp ≈ 1g"
+    },
+    {
+      "position": 13,
+      "name": "Olive Oil",
+      "measurement": "1 cup",
+      "grams": 30,
+      "assumptions": "Olive oil for frying; 1 cup listed but only ~2 tbsp/30g absorbed by chicken and coating in typical shallow skillet fry (most oil remains in pan and is not eaten)"
+    },
+    {
+      "position": 14,
+      "name": "Sesame Seed Burger Buns",
+      "measurement": "1",
+      "grams": 50,
+      "assumptions": "Sesame seed hamburger bun; standard 50g bun (toasted but no added fat assumed)"
+    }
+  ],
+  "nutrition": {
+    "calories": 1076.55,
+    "protein": 73.38,
+    "fat": 44.5,
+    "fiber": 3.58,
+    "carbs": 91.17
+  }
+}

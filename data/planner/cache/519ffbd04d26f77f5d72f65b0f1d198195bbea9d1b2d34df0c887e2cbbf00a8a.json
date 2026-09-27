@@ -1,0 +1,140 @@
+{
+  "id": "53211",
+  "name": "Lemongrass beef stew with noodles",
+  "cuisine": "Thai",
+  "fingerprint": "519ffbd04d26f77f5d72f65b0f1d198195bbea9d1b2d34df0c887e2cbbf00a8a",
+  "yield": 2,
+  "minutes": 105,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield of 2 inferred from dividing stew and noodles between 2 bowls in instructions",
+    "Total time is 5 min puree + 5 min cook puree + 1 hr 15 min simmer + 15 min uncovered = 100 min active/simmer plus ~5 min for final noodle prep and assembly",
+    "Soy sauce introduces wheat unless certified gluten-free (ambiguous here so wheat allergen null and gluten-free diet null)",
+    "Beef stock may contain undisclosed allergens or gluten (ambiguous so fish/shellfish/peanuts/sesame null)",
+    "Five-spice powder assumed free of tree nuts and sesame",
+    "Lime wedges and coriander leaves for garnish included in total ingredients",
+    "All measurements treated as listed; no substitutions applied per dietary notes",
+    "Beef and beef stock confirm non-vegetarian/vegan/pescatarian",
+    "No dairy, eggs, fish, shellfish, tree nuts, peanuts or sesame explicitly listed"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nPut the ginger, garlic, lemongrass, coriander and 1 chilli in a food processor, then pulse until puréed. Heat the oil in a pan over a low heat. Add the purée and cook for 5 mins. Stir in the beef, soy, five-spice, sugar and stock. Put on a lid and bring to the boil, then lower heat and simmer for 1 hr 15 mins. Remove the lid and cook for a further 15 mins until the beef is tender.\r\n\r\nstep 2\r\nJust before serving, prepare noodles following pack instructions. Drain well, then divide between 2 bowls and spoon over the beef stew. Serve sprinkled with the remaining chilli and coriander leaves, with lime wedges for squeezing over.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ntafxw1763586291.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Ginger",
+      "measurement": "1 tablespoon chopped",
+      "grams": 6,
+      "assumptions": "1 tbsp chopped ginger is approximately 6g; using typical fresh ginger values."
+    },
+    {
+      "position": 2,
+      "name": "Garlic Clove",
+      "measurement": "2 chopped",
+      "grams": 6,
+      "assumptions": "2 chopped garlic cloves total ~6g; standard garlic nutrition."
+    },
+    {
+      "position": 3,
+      "name": "Lemongrass Stalks",
+      "measurement": "3",
+      "grams": 15,
+      "assumptions": "3 lemongrass stalks trimmed and chopped for puree total ~15g; typical edible portion values."
+    },
+    {
+      "position": 4,
+      "name": "Coriander Leaves",
+      "measurement": "2 tblsp",
+      "grams": 8,
+      "assumptions": "2 tbsp coriander leaves ~8g; standard fresh cilantro/leaf nutrition."
+    },
+    {
+      "position": 5,
+      "name": "Red Chilli",
+      "measurement": "2 sliced",
+      "grams": 30,
+      "assumptions": "2 sliced red chillies total ~30g (medium size); typical fresh red chilli values. Half used in puree, half for garnish but full amount listed."
+    },
+    {
+      "position": 6,
+      "name": "Vegetable Oil",
+      "measurement": "2 tblsp",
+      "grams": 28,
+      "assumptions": "2 tbsp vegetable oil ~28g; standard vegetable oil nutrition."
+    },
+    {
+      "position": 7,
+      "name": "Beef",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "250g raw beef (stewing cut implied); typical raw beef values adjusted for ~15% fat content common in Asian stews."
+    },
+    {
+      "position": 8,
+      "name": "Soy Sauce",
+      "measurement": "2 tblsp",
+      "grams": 30,
+      "assumptions": "2 tbsp soy sauce ~30g; standard soy sauce nutrition."
+    },
+    {
+      "position": 9,
+      "name": "Five Spice Powder",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp five-spice powder ~2g; typical spice blend nutrition with carbs from star anise/cinnamon."
+    },
+    {
+      "position": 10,
+      "name": "Brown Sugar",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "1 tsp brown sugar ~4g; standard brown sugar values."
+    },
+    {
+      "position": 11,
+      "name": "Beef Stock",
+      "measurement": "400ml",
+      "grams": 400,
+      "assumptions": "400ml beef stock ~400g; typical low-calorie prepared beef stock/broth nutrition."
+    },
+    {
+      "position": 12,
+      "name": "Rice Noodles",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "100g dry rice noodles; standard uncooked rice noodle values (prepared per pack instructions but dry weight given)."
+    },
+    {
+      "position": 13,
+      "name": "Lime",
+      "measurement": "To serve",
+      "grams": 50,
+      "assumptions": "1 lime to serve (juice + wedges) estimated at 50g edible portion; typical lime nutrition."
+    }
+  ],
+  "nutrition": {
+    "calories": 1359.05,
+    "protein": 80.68,
+    "fat": 68.46,
+    "fiber": 6.74,
+    "carbs": 103.79
+  }
+}

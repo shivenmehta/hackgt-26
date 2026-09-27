@@ -1,0 +1,118 @@
+{
+  "id": "52955",
+  "name": "Egg Drop Soup",
+  "cuisine": "Chinese",
+  "fingerprint": "a1e53b4ec9e03eac1ca9b36997edbe2057183acc38ed2ed74de94481e890eb4b",
+  "yield": 4,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated from typical egg drop soup recipes using ~3 cups broth (standard 4 servings of ~1.5-2 cups each); instructions imply 1 egg total which is common for 4 portions.",
+    "Minutes estimated from sequential boiling, thickening, and egg-drizzling steps in instructions (no prep times given).",
+    "Eggs classified present due to explicit addition of 1 beaten egg in instructions (not in provided ingredients list).",
+    "Sesame present due to sesame seed oil; conservative classification for allergen.",
+    "Chicken stock treated as non-vegetarian/vegan per dietary notes and name; no fish/shellfish explicitly listed but null due to possible hidden ingredients in commercial stock.",
+    "Mushrooms, peas, and spring onions treated as standard produce with no allergens.",
+    "Cornstarch treated as corn-derived (gluten-free) but wheat-based versions exist, hence null for gluten-free and wheat.",
+    "No dairy, tree nuts, or peanuts listed or implied."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "In a wok add chicken broth and wait for it to boil.\r\nNext add salt, sugar, white pepper, sesame seed oil.\r\nWhen the chicken broth is boiling add the vegetables to the wok.\r\nTo thicken the sauce, whisk together 1 Tablespoon of cornstarch and 2 Tablespoon of water in a bowl and slowly add to your soup until it's the right thickness.\r\nNext add 1 egg slightly beaten with a knife or fork and add it to the soup slowly and stir for 8 seconds\r\nServe the soup in a bowl and add the green onions on top.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1529446137.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Stock",
+      "measurement": "3 cups",
+      "grams": 720,
+      "assumptions": "3 US cups commercial chicken broth/stock; ~240 g per cup; low-fat, lightly salted typical values."
+    },
+    {
+      "position": 2,
+      "name": "Salt",
+      "measurement": "1/4 tsp",
+      "grams": 1.5,
+      "assumptions": "1/4 tsp table salt; negligible macros."
+    },
+    {
+      "position": 3,
+      "name": "Sugar",
+      "measurement": "1/4 tsp",
+      "grams": 1,
+      "assumptions": "1/4 tsp granulated sugar; ~4 kcal total."
+    },
+    {
+      "position": 4,
+      "name": "Pepper",
+      "measurement": "pinch",
+      "grams": 0.3,
+      "assumptions": "pinch of white pepper; ~0.3 g estimated, negligible macros."
+    },
+    {
+      "position": 5,
+      "name": "Sesame Seed Oil",
+      "measurement": "1 tsp",
+      "grams": 4.5,
+      "assumptions": "1 tsp sesame oil; typical density ~0.92 g/ml."
+    },
+    {
+      "position": 6,
+      "name": "Peas",
+      "measurement": "1/3 cup",
+      "grams": 50,
+      "assumptions": "1/3 cup frozen green peas; ~50 g typical; values for cooked peas."
+    },
+    {
+      "position": 7,
+      "name": "Mushrooms",
+      "measurement": "1/3 cup",
+      "grams": 35,
+      "assumptions": "1/3 cup sliced fresh mushrooms (e.g. button or shiitake); ~35 g; added raw then cooked in soup."
+    },
+    {
+      "position": 8,
+      "name": "Cornstarch",
+      "measurement": "1 tbs",
+      "grams": 8,
+      "assumptions": "1 tablespoon cornstarch; ~8 g typical."
+    },
+    {
+      "position": 9,
+      "name": "Water",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tablespoons tap water; negligible macros."
+    },
+    {
+      "position": 10,
+      "name": "Spring Onions",
+      "measurement": "1/4 cup",
+      "grams": 25,
+      "assumptions": "1/4 cup chopped spring/green onions; ~25 g; added raw as garnish."
+    }
+  ],
+  "nutrition": {
+    "calories": 180.73,
+    "protein": 10.74,
+    "fat": 6.37,
+    "fiber": 3.57,
+    "carbs": 22.11
+  }
+}

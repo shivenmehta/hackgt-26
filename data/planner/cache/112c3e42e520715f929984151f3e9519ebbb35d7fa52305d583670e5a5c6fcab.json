@@ -1,0 +1,129 @@
+{
+  "id": "53198",
+  "name": "Thai fried rice with prawns & peas",
+  "cuisine": "Thai",
+  "fingerprint": "112c3e42e520715f929984151f3e9519ebbb35d7fa52305d583670e5a5c6fcab",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": true,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 4 as explicitly stated in the instructions (divide between 4 bowls).",
+    "Total active preparation and cooking time estimated at 20 minutes based on the described steps (2-3 min aromatics, 1 min prawns, tossing rice/peas/sauces, and frying 4 eggs).",
+    "Hot sauce is treated as optional and not core to the recipe classification.",
+    "Soy sauce introduces potential wheat (not certified gluten-free), leading to null for Gluten-free.",
+    "Coriander bunch weight and hot sauce serving amount are estimates from provided data; no impact on diets or allergens."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat 1 tbsp of the oil in a wok, add the onion, garlic and chilli, and cook for 2-3 mins until golden. Add the prawns and cook for 1 min. Tip in the rice and peas, and keep tossing until very hot. Add the soy and fish sauce, then stir through the chopped coriander. Keep warm while you fry the eggs.\r\n\r\nstep 2\r\nHeat the remaining oil in a frying pan and fry the eggs with some seasoning. Divide the fried rice mix between 4 bowls and top each with a fried egg. Serve scattered with coriander, with chilli sauce, if you like.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/hblwvg1763478203.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Vegetable Oil",
+      "measurement": "2 tbsp",
+      "grams": 27,
+      "assumptions": "2 tbsp vegetable oil (14g per tbsp); used for stir-frying and frying eggs across the whole recipe"
+    },
+    {
+      "position": 2,
+      "name": "Red Onions",
+      "measurement": "1 sliced",
+      "grams": 110,
+      "assumptions": "1 medium red onion, sliced; typical edible weight ~110g"
+    },
+    {
+      "position": 3,
+      "name": "Garlic Clove",
+      "measurement": "2 sliced",
+      "grams": 6,
+      "assumptions": "2 typical garlic cloves, sliced; ~3g per clove peeled"
+    },
+    {
+      "position": 4,
+      "name": "Red Chilli",
+      "measurement": "1 sliced",
+      "grams": 45,
+      "assumptions": "1 medium red chilli, sliced; typical whole weight ~45g edible portion"
+    },
+    {
+      "position": 5,
+      "name": "Raw King Prawns",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "250g raw king prawns as given; peeled and edible portion"
+    },
+    {
+      "position": 6,
+      "name": "Brown Rice",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "140g uncooked brown rice as given; dry weight before cooking"
+    },
+    {
+      "position": 7,
+      "name": "Frozen Peas",
+      "measurement": "75g",
+      "grams": 75,
+      "assumptions": "75g frozen peas as given; typical weight"
+    },
+    {
+      "position": 8,
+      "name": "Soy Sauce",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp soy sauce; typical 15g per tablespoon"
+    },
+    {
+      "position": 9,
+      "name": "Fish Sauce",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp fish sauce; typical 15g per tablespoon"
+    },
+    {
+      "position": 10,
+      "name": "Coriander",
+      "measurement": "Bunch",
+      "grams": 25,
+      "assumptions": "1 bunch fresh coriander (~25g typical bunch, leaves and stems, chopped and divided between recipe and garnish)"
+    },
+    {
+      "position": 11,
+      "name": "Egg",
+      "measurement": "4 large",
+      "grams": 200,
+      "assumptions": "4 large eggs (~50g each edible portion without shell); fried in remaining oil"
+    },
+    {
+      "position": 12,
+      "name": "Hotsauce",
+      "measurement": "To serve",
+      "grams": 20,
+      "assumptions": "Hot sauce to serve; estimated 5g per person across 4 servings (small drizzle each), typical chili-based sauce"
+    }
+  ],
+  "nutrition": {
+    "calories": 1464.52,
+    "protein": 96.08,
+    "fat": 55.09,
+    "fiber": 12.34,
+    "carbs": 141.73
+  }
+}

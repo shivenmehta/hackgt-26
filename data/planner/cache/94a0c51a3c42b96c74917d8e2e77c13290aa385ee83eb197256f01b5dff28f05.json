@@ -1,0 +1,118 @@
+{
+  "id": "52930",
+  "name": "Pate Chinois",
+  "cuisine": "Canadian",
+  "fingerprint": "94a0c51a3c42b96c74917d8e2e77c13290aa385ee83eb197256f01b5dff28f05",
+  "yield": 4,
+  "minutes": 70,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on standard shepherd's pie/casserole recipes using 450g beef and 4 cups potatoes for a family-sized 8-inch square dish",
+    "Total time is sum of active prep/cooking steps (potato boiling ~20 min, mashing ~5 min, onion/meat browning ~10 min, assembly ~5 min) plus bake 30 min + broil ~5 min + cool 10 min, rounded conservatively",
+    "Gluten-free assumes no hidden gluten in creamed corn or spices (common in commercial products but not explicitly listed)",
+    "Soy ambiguous due to possible additives in commercial creamed corn or minced beef",
+    "Eggs confidently absent as no egg listed or implied",
+    "Fish/Shellfish/Peanuts/Tree nuts/Sesame confidently absent",
+    "Dairy present via butter and milk",
+    "Parsley assumed fresh but does not affect classifications"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "In a large pot of salted water, cook the potatoes until they are very tender. Drain.\r\nWith a masher, coarsely crush the potatoes with at least 30 ml (2 tablespoons) of butter. With an electric mixer, purée with the milk. Season with salt and pepper. Set aside.\r\nWith the rack in the middle position, preheat the oven to 190 °C (375 °F).\r\nIn a large skillet, brown the onion in the remaining butter. Add the meat and cook until golden brown. Season with salt and pepper. Remove from the heat.\r\nLightly press the meat at the bottom of a 20-cm (8-inch) square baking dish. Cover with the corn and the mashed potatoes. Sprinkle with paprika and parsley.\r\nBake for about 30 minutes. Finish cooking under the broiler. Let cool for 10 minutes.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/yyrrxr1511816289.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Potatoes",
+      "measurement": "4 cups",
+      "grams": 640,
+      "assumptions": "4 cups mashed potato volume equates to ~640g peeled/boiled potatoes based on typical recipe yield and density"
+    },
+    {
+      "position": 2,
+      "name": "Butter",
+      "measurement": "60ml",
+      "grams": 55,
+      "assumptions": "60 ml butter (standard 2 tbsp = 28 g, so full amount ~55 g)"
+    },
+    {
+      "position": 3,
+      "name": "Milk",
+      "measurement": "½ cup",
+      "grams": 120,
+      "assumptions": "½ cup milk is approximately 120 ml / 123 g using 2% milk as standard"
+    },
+    {
+      "position": 4,
+      "name": "Minced Beef",
+      "measurement": "450g",
+      "grams": 450,
+      "assumptions": "Raw minced/ground beef (80/20 typical for recipes); 450 g as given"
+    },
+    {
+      "position": 5,
+      "name": "Onion",
+      "measurement": "1 finely chopped",
+      "grams": 110,
+      "assumptions": "1 medium onion finely chopped is ~110 g raw"
+    },
+    {
+      "position": 6,
+      "name": "Creamed Corn",
+      "measurement": "500ml",
+      "grams": 480,
+      "assumptions": "500 ml creamed corn (density ~0.96 g/ml) = 480 g; typical canned values used"
+    },
+    {
+      "position": 7,
+      "name": "Paprika",
+      "measurement": "to taste",
+      "grams": 1,
+      "assumptions": "Paprika 'to taste' estimated at 1 g (small sprinkle for whole dish)"
+    },
+    {
+      "position": 8,
+      "name": "Parsley",
+      "measurement": "to taste",
+      "grams": 2,
+      "assumptions": "Parsley 'to taste' estimated at 2 g fresh (small garnish amount)"
+    },
+    {
+      "position": 9,
+      "name": "Salt",
+      "measurement": "Dash",
+      "grams": 1,
+      "assumptions": "Salt 'dash' estimated at 1 g (typical small seasoning amount); contributes negligible macros"
+    },
+    {
+      "position": 10,
+      "name": "Pepper",
+      "measurement": "Dash",
+      "grams": 1,
+      "assumptions": "Pepper 'dash' estimated at 1 g (typical small seasoning amount); contributes negligible macros"
+    }
+  ],
+  "nutrition": {
+    "calories": 2494.09,
+    "protein": 104.89,
+    "fat": 139.04,
+    "fiber": 23.59,
+    "carbs": 215.35
+  }
+}

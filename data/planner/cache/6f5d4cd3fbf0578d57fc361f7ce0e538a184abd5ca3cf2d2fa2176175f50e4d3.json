@@ -1,0 +1,101 @@
+{
+  "id": "53158",
+  "name": "Air fryer patatas bravas",
+  "cuisine": "Spanish",
+  "fingerprint": "6f5d4cd3fbf0578d57fc361f7ce0e538a184abd5ca3cf2d2fa2176175f50e4d3",
+  "yield": 4,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 900 g potatoes (standard side-dish portion ~225 g per person)",
+    "Total time sums explicit steps (30 min soak + 5 min dry + 20-30 min air-fry + 15-22 min sauce) and rounds up conservatively to 60 min",
+    "All ingredients plant-based per sourceDietLabels and screening notes",
+    "No wheat, gluten, dairy, eggs, meat, or fish listed; sesame ambiguous as unspecified compound sauces/spices possible but none indicated",
+    "Basil leaves treated as fresh herb (not allergen source)"
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nSoak the potatoes in just-boiled water for 30 mins, then drain and leave to air-dry for 5 mins. Heat the air fryer to 200C. Tip the potatoes into a bowl and drizzle over 1 tbsp of the oil and add 1/2 tsp each of salt and freshly ground black pepper. Mix to coat the potatoes all over, then tip into the air fryer basket and cook for 20-30 mins until crisp and golden.\r\n\r\nstep 2\r\nMeanwhile, heat the remaining oil in a small pan over a medium-low heat and fry the onion for 8-10 mins until softened but not golden. Stir in the garlic and cook for a minute before adding the paprika and cooking for 30 seconds more. Stir in the tomato purée, cook for 1 min, then tip in the chopped tomatoes. Cook for 5-10 mins over a medium heat until thickened slightly.\r\n\r\nstep 3\r\nOnce the potatoes are cooked, tip out onto a platter and pour over the tomato sauce. Sprinkle with the basil leaves, then serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/3m8yae1763257951.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Potatoes",
+      "measurement": "900g",
+      "grams": 900,
+      "assumptions": "Raw potato flesh; standard white potato values used as no variety specified"
+    },
+    {
+      "position": 2,
+      "name": "Olive Oil",
+      "measurement": "3  tablespoons",
+      "grams": 42,
+      "assumptions": "Typical olive oil density ~14 g per tablespoon; entire 3 tbsp used in recipe (1 tbsp for potatoes, 2 tbsp for sauce)"
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "Medium onion (~110 g) chopped; standard raw onion nutrition"
+    },
+    {
+      "position": 4,
+      "name": "Garlic",
+      "measurement": "1 clove peeled crushed",
+      "grams": 3,
+      "assumptions": "Typical peeled garlic clove ~3 g; raw garlic values"
+    },
+    {
+      "position": 5,
+      "name": "Paprika",
+      "measurement": "1 tblsp",
+      "grams": 7,
+      "assumptions": "1 level tablespoon paprika ~7 g; standard smoked or sweet paprika nutrition"
+    },
+    {
+      "position": 6,
+      "name": "Tomato Puree",
+      "measurement": "1 tblsp",
+      "grams": 16,
+      "assumptions": "1 level tablespoon tomato puree/paste ~16 g; typical commercial values"
+    },
+    {
+      "position": 7,
+      "name": "Tinned Tomatos",
+      "measurement": "225g",
+      "grams": 225,
+      "assumptions": "Canned chopped tomatoes including juice; drained weight not specified so full 225 g used as listed"
+    },
+    {
+      "position": 8,
+      "name": "Basil Leaves",
+      "measurement": "To serve",
+      "grams": 5,
+      "assumptions": "Small handful fresh basil leaves to serve (~5 g); typical fresh basil values"
+    }
+  ],
+  "nutrition": {
+    "calories": 1187.26,
+    "protein": 23.54,
+    "fat": 44.27,
+    "fiber": 27.16,
+    "carbs": 180.15
+  }
+}

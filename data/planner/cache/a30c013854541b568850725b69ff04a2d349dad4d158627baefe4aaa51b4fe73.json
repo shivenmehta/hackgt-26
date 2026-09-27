@@ -1,0 +1,134 @@
+{
+  "id": "52775",
+  "name": "Vegan Lasagna",
+  "cuisine": "Italian",
+  "fingerprint": "a30c013854541b568850725b69ff04a2d349dad4d158627baefe4aaa51b4fe73",
+  "yield": 4,
+  "minutes": 70,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": null,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated at 4 servings based on total ingredient quantities (e.g. 10 lasagne sheets, 200g lentils, 300ml soya milk) typical for family-sized baked pasta dish.",
+    "Total time summed from instructions: ~5 min preheat + 7 min boil veg + 20 min simmer lentils + 5 min blanch spinach + 10 min cook sheets + 10 min sauce + 5 min assembly + 25 min bake (with overlaps conservatively netted).",
+    "Vegan set to null per dietary notes on possible egg in lasagne sheets and unspecified stock cube.",
+    "Gluten-free false due to lasagne sheets and flour (assumed wheat-based).",
+    "Dairy-free true as vegan butter and soya milk replace dairy.",
+    "Eggs null due to possible presence in lasagne sheets per notes.",
+    "Soy true due to soya milk.",
+    "Wheat true due to lasagne sheets and flour.",
+    "Mustard and vinegar treated as non-allergenic.",
+    "Coriander treated as herb, not tree nuts."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "1) Preheat oven to 180 degrees celcius. \r\n2) Boil vegetables for 5-7 minutes, until soft. Add lentils and bring to a gentle simmer, adding a stock cube if desired. Continue cooking and stirring until the lentils are soft, which should take about 20 minutes. \r\n3) Blanch spinach leaves for a few minutes in a pan, before removing and setting aside. \r\n4) Top up the pan with water and cook the lasagne sheets. When cooked, drain and set aside.\r\n5) To make the sauce, melt the butter and add the flour, then gradually add the soya milk along with the mustard and the vinegar. Cook and stir until smooth and then assemble the lasagne as desired in a baking dish. \r\n6) Bake in the preheated oven for about 25 minutes.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "green red lentils",
+      "measurement": "1 cups",
+      "grams": 200,
+      "assumptions": "1 cup dry green/red lentils (mixed); typical dry lentil density used; recipe context of simmering 20 min implies dry starting weight"
+    },
+    {
+      "position": 2,
+      "name": "Carrots",
+      "measurement": "1",
+      "grams": 110,
+      "assumptions": "1 medium carrot, peeled and trimmed; standard edible portion estimate"
+    },
+    {
+      "position": 3,
+      "name": "onion",
+      "measurement": "1",
+      "grams": 110,
+      "assumptions": "1 medium onion, peeled; standard edible portion estimate"
+    },
+    {
+      "position": 4,
+      "name": "zucchini",
+      "measurement": "1 small",
+      "grams": 100,
+      "assumptions": "1 small zucchini/courgette, trimmed; typical small size edible weight"
+    },
+    {
+      "position": 5,
+      "name": "coriander",
+      "measurement": "sprinking",
+      "grams": 5,
+      "assumptions": "Sprinkling of fresh coriander/cilantro; plausible small handful for garnish in vegan lasagna"
+    },
+    {
+      "position": 6,
+      "name": "spinach",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Given as 150g fresh spinach; blanched per instructions, using raw values as nutrients are similar post-blanch"
+    },
+    {
+      "position": 7,
+      "name": "lasagne sheets",
+      "measurement": "10",
+      "grams": 250,
+      "assumptions": "10 standard dry lasagne sheets; typical pack weight per sheet ~25g, total 250g dry weight before boiling"
+    },
+    {
+      "position": 8,
+      "name": "vegan butter",
+      "measurement": "35g",
+      "grams": 35,
+      "assumptions": "Given as 35g vegan butter; standard margarine-like values used"
+    },
+    {
+      "position": 9,
+      "name": "flour",
+      "measurement": "4 tablespoons",
+      "grams": 30,
+      "assumptions": "4 tablespoons plain white flour; standard density ~7-8g per tbsp, total ~30g"
+    },
+    {
+      "position": 10,
+      "name": "soya milk",
+      "measurement": "300ml",
+      "grams": 300,
+      "assumptions": "Given as 300ml unsweetened soya milk; density ~1g/ml, standard unsweetened values"
+    },
+    {
+      "position": 11,
+      "name": "mustard",
+      "measurement": "1.5 teaspoons",
+      "grams": 8,
+      "assumptions": "1.5 tsp Dijon-style mustard; typical density ~5-6g per tsp, total ~8g"
+    },
+    {
+      "position": 12,
+      "name": "vinegar",
+      "measurement": "1 teaspoon",
+      "grams": 5,
+      "assumptions": "1 tsp balsamic or white wine vinegar; typical density ~5g per tsp, negligible macros"
+    }
+  ],
+  "nutrition": {
+    "calories": 1761.78,
+    "protein": 67.79,
+    "fat": 41.37,
+    "fiber": 35.68,
+    "carbs": 280.24
+  }
+}

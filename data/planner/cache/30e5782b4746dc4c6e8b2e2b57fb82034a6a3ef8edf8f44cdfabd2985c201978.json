@@ -1,0 +1,134 @@
+{
+  "id": "52946",
+  "name": "Kung Po Prawns",
+  "cuisine": "Chinese",
+  "fingerprint": "30e5782b4746dc4c6e8b2e2b57fb82034a6a3ef8edf8f44cdfabd2985c201978",
+  "yield": 4,
+  "minutes": 25,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": true,
+    "Tree nuts": null,
+    "Peanuts": true,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 4 based on 400g prawns (standard 100g per serving for a main dish with rice), 450g water chestnuts, and 85g peanuts as bulk ingredients",
+    "Total active preparation and cooking time estimated at 25 minutes: 10 min marinating (passive), ~5 min frying prawns, ~5 min stir-frying aromatics and peanuts, ~5 min simmering with sauce",
+    "'to taste' ginger conservatively classified as present but quantity ambiguous",
+    "Soy sauce and cornflour (cornstarch) assumed standard types; soy sauce introduces wheat unless certified gluten-free (hence null for Gluten-free)",
+    "Peanuts introduce peanut allergen; chillies assumed to be standard red chillies without tree nut cross-contact",
+    "No milk, eggs, fish (distinct from shellfish/prawns), sesame, or tree nuts explicitly present",
+    "Pescatarian true as only seafood (prawns) is the animal product; vegetarian/vegan false due to prawns",
+    "Dairy-free true as no dairy ingredients listed",
+    "Water chestnuts, tomato puree, sugars, oil, garlic all compatible with listed diets where true",
+    "Instructions reference 'remaining soy sauce' but total quantified as 2 tbsp across both uses per provided data"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Mix the cornflour and 1 tbsp soy sauce, toss in the prawns and set aside for 10 mins. Stir the vinegar, remaining soy sauce, tomato purée, sugar and 2 tbsp water together to make a sauce.\r\n\r\nWhen you’re ready to cook, heat a large frying pan or wok until very hot, then add 1 tbsp oil. Fry the prawns until they are golden in places and have opened out– then tip them out of the pan.\r\n\r\nHeat the remaining oil and add the peanuts, chillies and water chestnuts. Stir-fry for 2 mins or until the peanuts start to colour, then add the ginger and garlic and fry for 1 more min. Tip in the prawns and sauce and simmer for 2 mins until thickened slightly. Serve with rice.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Prawns",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Raw prawns, peeled and deveined, typical values for mixed prawns"
+    },
+    {
+      "position": 2,
+      "name": "Soy Sauce",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Regular soy sauce; total of 2 tbsp (30ml) used across both mentions in instructions"
+    },
+    {
+      "position": 3,
+      "name": "Tomato Puree",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp tomato puree/paste, concentrated"
+    },
+    {
+      "position": 4,
+      "name": "Corn Flour",
+      "measurement": "1 tsp",
+      "grams": 3,
+      "assumptions": "1 tsp cornflour/cornstarch used for coating prawns"
+    },
+    {
+      "position": 5,
+      "name": "Caster Sugar",
+      "measurement": "1 tsp",
+      "grams": 4,
+      "assumptions": "1 tsp caster sugar in the sauce"
+    },
+    {
+      "position": 6,
+      "name": "Sunflower Oil",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp sunflower oil for initial frying of prawns; small amount used for stir-fry context"
+    },
+    {
+      "position": 7,
+      "name": "Peanuts",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "Roasted unsalted peanuts as listed, typical values"
+    },
+    {
+      "position": 8,
+      "name": "Chilli",
+      "measurement": "3 Large",
+      "grams": 60,
+      "assumptions": "3 large dried or fresh red chillies (about 20g each), deseeded where appropriate"
+    },
+    {
+      "position": 9,
+      "name": "Brown Sugar",
+      "measurement": "1 tbs",
+      "grams": 12,
+      "assumptions": "1 tbsp brown sugar (12g) in the sauce; distinct from caster sugar but combined for sauce sweetness per instructions"
+    },
+    {
+      "position": 10,
+      "name": "Garlic Clove",
+      "measurement": "6 cloves",
+      "grams": 18,
+      "assumptions": "6 garlic cloves, peeled and crushed (about 3g each)"
+    },
+    {
+      "position": 11,
+      "name": "Water Chestnut",
+      "measurement": "450g",
+      "grams": 450,
+      "assumptions": "Canned water chestnuts, drained weight as listed, typical drained values"
+    },
+    {
+      "position": 12,
+      "name": "Ginger",
+      "measurement": "to taste",
+      "grams": 10,
+      "assumptions": "Fresh ginger root to taste; plausible 10g grated or minced for the dish"
+    }
+  ],
+  "nutrition": {
+    "calories": 1248.5,
+    "protein": 102.19,
+    "fat": 51.6,
+    "fiber": 22.94,
+    "carbs": 98.89
+  }
+}

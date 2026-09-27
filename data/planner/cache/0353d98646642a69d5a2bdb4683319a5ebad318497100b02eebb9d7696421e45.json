@@ -1,0 +1,103 @@
+{
+  "id": "52961",
+  "name": "Budino Di Ricotta",
+  "cuisine": "Italian",
+  "fingerprint": "0353d98646642a69d5a2bdb4683319a5ebad318497100b02eebb9d7696421e45",
+  "yield": 8,
+  "minutes": 55,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical 25cm ricotta cake serving size (8 slices)",
+    "Preparation time is sum of active steps (~15 min) plus bake time (40 min)",
+    "Flour is assumed to be wheat flour based on common usage and name",
+    "Icing sugar dusting is treated as a minor ingredient for allergen purposes",
+    "Rum is treated as non-allergenic and compatible with listed diets",
+    "No tree nuts or soy detected in listed ingredients",
+    "Cinnamon, lemon zest, and sugar introduce no allergens or diet conflicts"
+  ],
+  "categories": [],
+  "instructions": "Mash the ricotta and beat well with the egg yolks, stir in the flour, sugar, cinnamon, grated lemon rind and the rum and mix well. You can do this in a food processor. Beat the egg whites until stiff, fold in and pour into a buttered and floured 25cm cake tin. Bake in the oven at 180ºC/160ºC fan/gas 4 for about 40 minutes, or until it is firm.\r\n\r\nServe hot or cold dusted with icing sugar.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1549542877.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Ricotta",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Standard whole-milk ricotta cheese, as-is weight"
+    },
+    {
+      "position": 2,
+      "name": "Eggs",
+      "measurement": "4 large",
+      "grams": 200,
+      "assumptions": "4 large eggs (approx 50 g edible portion each without shell), whole raw eggs"
+    },
+    {
+      "position": 3,
+      "name": "Flour",
+      "measurement": "3 tbs",
+      "grams": 24,
+      "assumptions": "Plain white wheat flour; 3 level US tablespoons ≈ 24 g"
+    },
+    {
+      "position": 4,
+      "name": "Sugar",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Granulated white sugar, full recipe amount"
+    },
+    {
+      "position": 5,
+      "name": "Cinnamon",
+      "measurement": "1 tsp",
+      "grams": 3,
+      "assumptions": "Ground cinnamon; 1 tsp ≈ 3 g"
+    },
+    {
+      "position": 6,
+      "name": "Lemons",
+      "measurement": "Grated Zest of 2",
+      "grams": 12,
+      "assumptions": "Grated zest from 2 medium lemons; total edible zest ≈ 12 g"
+    },
+    {
+      "position": 7,
+      "name": "Dark Rum",
+      "measurement": "5 tbs",
+      "grams": 75,
+      "assumptions": "Dark rum (40 % ABV); 5 US tablespoons ≈ 75 ml / 75 g"
+    },
+    {
+      "position": 8,
+      "name": "Icing Sugar",
+      "measurement": "sprinking",
+      "grams": 10,
+      "assumptions": "Icing (powdered) sugar for light dusting on finished cake; plausible 10 g total used in recipe context"
+    }
+  ],
+  "nutrition": {
+    "calories": 2315.95,
+    "protein": 83.76,
+    "fat": 75.3,
+    "fiber": 2.43,
+    "carbs": 298.27
+  }
+}

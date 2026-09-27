@@ -1,0 +1,118 @@
+{
+  "id": "52939",
+  "name": "Callaloo Jamaican Style",
+  "cuisine": "Jamaican",
+  "fingerprint": "ee60625c65c697fa2a1d5ae3282b32f0618f54538546634f631c9050874c9e62",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe serves 4 as a side or light main (standard for similar African/Jamaican vegetable + plantain dishes)",
+    "Total active and passive time summed from all steps: ~45 min (prep ~15 min, bacon/onion sauté ~10 min, kale steam ~8 min, plantain fry ~12 min)",
+    "'Red Pepper' treated as hot pepper (scotch bonnet), not bell pepper, per recipe context",
+    "'Banana' treated as plantain per explicit recipe instructions and context",
+    "'Splash' of vegetable oil conservatively totaled at 15g for all sautéing and frying",
+    "No gluten-containing ingredients listed or implied; gluten-free marked true",
+    "No dairy, eggs, fish, shellfish, tree nuts, peanuts, or sesame listed; all marked false where confidently absent",
+    "Soy left null due to ambiguous possibility of soy in generic 'vegetable oil' or 'cooking oil spray'"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Cut leaves and soft stems from the kale branches, them soak in a bowl of cold water for about 5-10 minutes or until finish with prep.\r\nProceed to slicing the onions, mincing the garlic and dicing the tomatoes. Set aside\r\nRemove kale from water cut in chunks.\r\nPlace bacon on saucepan and cook until crispy. Then add onions, garlic, thyme, stir for about a minute or more\r\nAdd tomatoes; scotch bonnet pepper, smoked paprika. Sauté for about 2-3 more minutes.\r\nFinally add vegetable, salt, mix well, and steamed for about 6-8 minutes or until leaves are tender. Add a tiny bit of water as needed. Adjust seasonings and turn off the heat.\r\nUsing a sharp knife cut both ends off the plantain. This will make it easy to grab the skin of the plantains. Slit a shallow line down the long seam of the plantain; peel only as deep as the peel. Remove plantain peel by pulling it back.\r\nSlice the plantain into medium size lengthwise slices and set aside.\r\nCoat a large frying pan with cooking oil spray. Spray the tops of the plantains with a generous layer of oil spray and sprinkle with salt, freshly ground pepper.\r\nLet the plantains \"fry\" on medium heat, shaking the frying pan to redistribute them every few minutes.\r\nAs the plantains brown, continue to add more cooking oil spray, salt and pepper (if needed) until they have reached the desired color and texture.\r\nRemove and serve with kale",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ussyxw1515364536.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Kale",
+      "measurement": "1  bunch",
+      "grams": 250,
+      "assumptions": "1 bunch curly kale trimmed of tough stems, raw edible leaves and soft stems; typical bunch weight after prep ~250g"
+    },
+    {
+      "position": 2,
+      "name": "Bacon",
+      "measurement": "2 strips",
+      "grams": 60,
+      "assumptions": "2 strips of pork bacon, pan-fried until crispy; ~30g per strip raw weight"
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "3 cloves Chopped",
+      "grams": 9,
+      "assumptions": "3 cloves garlic, chopped; ~3g per clove"
+    },
+    {
+      "position": 4,
+      "name": "Onion",
+      "measurement": "1 medium",
+      "grams": 110,
+      "assumptions": "1 medium onion, sliced; typical medium onion ~110g"
+    },
+    {
+      "position": 5,
+      "name": "Paprika",
+      "measurement": "1/2 tsp",
+      "grams": 1.2,
+      "assumptions": "1/2 tsp smoked paprika; ~1.2g per 1/2 tsp"
+    },
+    {
+      "position": 6,
+      "name": "Thyme",
+      "measurement": "1 Sprig",
+      "grams": 2,
+      "assumptions": "1 sprig fresh thyme; typical sprig ~2g"
+    },
+    {
+      "position": 7,
+      "name": "Tomato",
+      "measurement": "1",
+      "grams": 123,
+      "assumptions": "1 medium tomato, diced; typical medium tomato ~123g"
+    },
+    {
+      "position": 8,
+      "name": "Red Pepper",
+      "measurement": "1",
+      "grams": 120,
+      "assumptions": "1 scotch bonnet or similar hot red pepper, minced; typical whole hot pepper ~120g"
+    },
+    {
+      "position": 9,
+      "name": "Banana",
+      "measurement": "4",
+      "grams": 480,
+      "assumptions": "4 medium-ripe plantains (listed as banana but recipe context is plantain), peeled and sliced; ~120g each edible portion"
+    },
+    {
+      "position": 10,
+      "name": "Vegetable Oil",
+      "measurement": "Splash",
+      "grams": 15,
+      "assumptions": "splash of vegetable oil for frying plantains and sautéing; plausible total usage ~15ml/13g assuming multiple sprays and light pan coating"
+    }
+  ],
+  "nutrition": {
+    "calories": 1298.25,
+    "protein": 44.64,
+    "fat": 44.98,
+    "fiber": 26.07,
+    "carbs": 206.44
+  }
+}

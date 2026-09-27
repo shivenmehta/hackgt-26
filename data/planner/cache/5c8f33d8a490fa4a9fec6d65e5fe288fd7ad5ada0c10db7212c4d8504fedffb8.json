@@ -1,0 +1,112 @@
+{
+  "id": "53338",
+  "name": "Date squares",
+  "cuisine": "Canadian",
+  "fingerprint": "5c8f33d8a490fa4a9fec6d65e5fe288fd7ad5ada0c10db7212c4d8504fedffb8",
+  "yield": 9,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from standard 8-inch square pan cut into 9 squares",
+    "Total time aggregates ~10 min prep for filling, ~10 min for crust, 30-35 min bake, plus cooling; rounded to nearest 5 min increment",
+    "Vanilla quantity interpreted as 1.5 tsp per provided gram estimate despite listed 'cup' unit",
+    "Baking powder used per ingredient list despite 'soda' in instructions",
+    "All-purpose flour contains wheat",
+    "Unsalted butter is a dairy product",
+    "No eggs, fish, shellfish, tree nuts, peanuts, soy, or sesame listed",
+    "Oats are not certified gluten-free",
+    "No barley or rye present but wheat and uncertified oats exclude gluten-free classification"
+  ],
+  "categories": [],
+  "instructions": "Preheat oven to 350°F (180°C). Grease an 8-inch (20 cm) square baking pan.\r\nTo make the date filing: Combine the dates and water in a medium saucepan over high heat and bring to a boil. Reduce heat to low and simmer gently, stirring occasionally until the mixture thickens, around 6 to 8 minutes. Remove from heat, stir in vanilla and let cool. Set aside.\r\nCombine rolled oats, flour, sugar, baking soda and salt in a food processor. Pulse 3 times (careful not to overmix, you don’t want the mixture to be powdery, just combined). Add butter and pulse again until the mixture is crumbly in pea-sized clumps. Transfer to a mixing bowl to thoroughly mix in the butter.\r\nSpread half of the oat mixture on the bottom of the prepared baking pan, pressing down to make a flat, equal bottom later. Add the date mixture over the crust and then spread evenly. Layer with the remaining oat mixture and press down to flatten the top layer.\r\nBake in the centre of the oven until the top is golden brown, 30 to 35 minutes. Let cool completely in the pan before cutting and serving. Date Squares keep well, covered in the refrigerator for up to a week, and frozen for 2 to 3 months.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/u4scbo1764446514.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Pitted Dates",
+      "measurement": "2 1/2 cups",
+      "grams": 454,
+      "assumptions": "Standard pitted dates; 1 cup chopped dates ≈ 182 g so 2.5 cups ≈ 454 g edible portion"
+    },
+    {
+      "position": 2,
+      "name": "Water",
+      "measurement": "1 cup",
+      "grams": 237,
+      "assumptions": "Water; 1 cup = 237 g; contributes no macros"
+    },
+    {
+      "position": 3,
+      "name": "Vanilla",
+      "measurement": "1 1/2 cup",
+      "grams": 15,
+      "assumptions": "Vanilla extract; measurement listed as 1 1/2 cup but interpreted as 1 1/2 tsp (common in recipes) ≈ 7.5 ml ≈ 15 g total for the line"
+    },
+    {
+      "position": 4,
+      "name": "Oats",
+      "measurement": "2 cups",
+      "grams": 160,
+      "assumptions": "Rolled oats; standard dry measure, 1 cup ≈ 80 g so 2 cups = 160 g"
+    },
+    {
+      "position": 5,
+      "name": "All purpose flour",
+      "measurement": "1 cup",
+      "grams": 125,
+      "assumptions": "All-purpose flour; 1 cup ≈ 125 g"
+    },
+    {
+      "position": 6,
+      "name": "Brown Sugar",
+      "measurement": "1 cup",
+      "grams": 200,
+      "assumptions": "Packed brown sugar; 1 cup ≈ 200 g"
+    },
+    {
+      "position": 7,
+      "name": "Baking Powder",
+      "measurement": "1/2 tsp",
+      "grams": 2,
+      "assumptions": "Baking powder (listed as baking powder despite instructions saying soda); 1/2 tsp ≈ 2 g; negligible impact but estimated"
+    },
+    {
+      "position": 8,
+      "name": "Salt",
+      "measurement": "1/4 tsp",
+      "grams": 1.5,
+      "assumptions": "Table salt; 1/4 tsp ≈ 1.5 g; contributes no macros"
+    },
+    {
+      "position": 9,
+      "name": "Unsalted Butter",
+      "measurement": "1 cup",
+      "grams": 227,
+      "assumptions": "Unsalted butter; 1 cup = 227 g (standard stick equivalent)"
+    }
+  ],
+  "nutrition": {
+    "calories": 4773.53,
+    "protein": 47.97,
+    "fat": 197.56,
+    "fiber": 49.95,
+    "carbs": 742.88
+  }
+}

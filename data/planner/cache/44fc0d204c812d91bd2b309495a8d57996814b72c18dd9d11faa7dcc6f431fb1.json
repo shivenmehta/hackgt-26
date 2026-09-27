@@ -1,0 +1,189 @@
+{
+  "id": "52894",
+  "name": "Battenberg Cake",
+  "cuisine": "British",
+  "fingerprint": "44fc0d204c812d91bd2b309495a8d57996814b72c18dd9d11faa7dcc6f431fb1",
+  "yield": 2,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from instructions that explicitly direct to \"Assemble second Battenberg\" and use 1kg marzipan to cover both cakes; each Battenberg is one serving unit.",
+    "Total time is a conservative estimate combining two bakes (25-30 min each), cooling periods (10 min each plus additional), jam heating, trimming, and assembly steps for both cakes.",
+    "Self-raising flour classified as containing wheat.",
+    "Ground almonds classified as tree nuts allergen.",
+    "Apricot listed as 200g jam; no other fruit or ambiguous sauces present.",
+    "Icing sugar dusting conservatively estimated at 10g adhering but does not alter classifications.",
+    "No barley, rye, or oats listed; gluten-free is false solely due to wheat flour.",
+    "No meat, fish, or shellfish ingredients; pescatarian is true.",
+    "Butter and eggs make vegan false and dairy-free false; vegetarian true."
+  ],
+  "categories": [],
+  "instructions": "Heat oven to 180C/160C fan/gas 4 and line the base and sides of a 20cm square tin with baking parchment (the easiest way is to cross 2 x 20cm-long strips over the base). To make the almond sponge, put the butter, sugar, flour, ground almonds, baking powder, eggs, vanilla and almond extract in a large bowl. Beat with an electric whisk until the mix comes together smoothly. Scrape into the tin, spreading to the corners, and bake for 25-30 mins – when you poke in a skewer, it should come out clean. Cool in the tin for 10 mins, then transfer to a wire rack to finish cooling while you make the second sponge.\r\nFor the pink sponge, line the tin as above. Mix all the ingredients together as above, but don’t add the almond extract. Fold in some pink food colouring. Then scrape it all into the tin and bake as before. Cool.\r\nTo assemble, heat the jam in a small pan until runny, then sieve. Barely trim two opposite edges from the almond sponge, then well trim a third edge. Roughly measure the height of the sponge, then cutting from the well-trimmed edge, use a ruler to help you cut 4 slices each the same width as the sponge height. Discard or nibble leftover sponge. Repeat with pink cake.\r\nTake 2 x almond slices and 2 x pink slices and trim so they are all the same length. Roll out one marzipan block on a surface lightly dusted with icing sugar to just over 20cm wide, then keep rolling lengthways until the marzipan is roughly 0.5cm thick. Brush with apricot jam, then lay a pink and an almond slice side by side at one end of the marzipan, brushing jam in between to stick sponges, and leaving 4cm clear marzipan at the end. Brush more jam on top of the sponges, then sandwich remaining 2 slices on top, alternating colours to give a checkerboard effect. Trim the marzipan to the length of the cakes.\r\nCarefully lift up the marzipan and smooth over the cake with your hands, but leave a small marzipan fold along the bottom edge before you stick it to the first side. Trim opposite side to match size of fold, then crimp edges using fingers and thumb (or, more simply, press with prongs of fork). If you like, mark the 10 slices using the prongs of a fork.\r\nAssemble second Battenberg and keep in an airtight box or well wrapped in cling film for up to 3 days. Can be frozen for up to a month.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ywwrsp1511720277.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Butter",
+      "measurement": "175g",
+      "grams": 175,
+      "assumptions": "Standard unsalted butter; full 175g used in first almond sponge layer."
+    },
+    {
+      "position": 2,
+      "name": "Caster Sugar",
+      "measurement": "175g",
+      "grams": 175,
+      "assumptions": "Caster sugar is 100% sucrose; full 175g used in first almond sponge layer."
+    },
+    {
+      "position": 3,
+      "name": "Self-raising Flour",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "Self-raising flour; full 140g used in first almond sponge layer."
+    },
+    {
+      "position": 4,
+      "name": "Almonds",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Ground almonds; full 50g used in first almond sponge layer."
+    },
+    {
+      "position": 5,
+      "name": "Baking Powder",
+      "measurement": "½ tsp",
+      "grams": 3,
+      "assumptions": "½ tsp baking powder ≈ 3g; negligible impact but included for completeness in first sponge."
+    },
+    {
+      "position": 6,
+      "name": "Eggs",
+      "measurement": "3 Medium",
+      "grams": 150,
+      "assumptions": "3 medium eggs ≈ 50g each (edible portion without shell); used in first almond sponge."
+    },
+    {
+      "position": 7,
+      "name": "Vanilla Extract",
+      "measurement": "½ tsp",
+      "grams": 3,
+      "assumptions": "½ tsp vanilla extract ≈ 3g; used in first almond sponge."
+    },
+    {
+      "position": 8,
+      "name": "Almond Extract",
+      "measurement": "¼ teaspoon",
+      "grams": 1.5,
+      "assumptions": "¼ tsp almond extract ≈ 1.5g; used in first almond sponge."
+    },
+    {
+      "position": 9,
+      "name": "Butter",
+      "measurement": "175g",
+      "grams": 175,
+      "assumptions": "Standard unsalted butter; full 175g used in second pink sponge layer."
+    },
+    {
+      "position": 10,
+      "name": "Caster Sugar",
+      "measurement": "175g",
+      "grams": 175,
+      "assumptions": "Caster sugar is 100% sucrose; full 175g used in second pink sponge layer."
+    },
+    {
+      "position": 11,
+      "name": "Self-raising Flour",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "Self-raising flour; full 140g used in second pink sponge layer."
+    },
+    {
+      "position": 12,
+      "name": "Almonds",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Ground almonds; full 50g used in second pink sponge layer."
+    },
+    {
+      "position": 13,
+      "name": "Baking Powder",
+      "measurement": "½ tsp",
+      "grams": 3,
+      "assumptions": "½ tsp baking powder ≈ 3g; negligible impact but included for completeness in second sponge."
+    },
+    {
+      "position": 14,
+      "name": "Eggs",
+      "measurement": "3 Medium",
+      "grams": 150,
+      "assumptions": "3 medium eggs ≈ 50g each (edible portion without shell); used in second pink sponge."
+    },
+    {
+      "position": 15,
+      "name": "Vanilla Extract",
+      "measurement": "½ tsp",
+      "grams": 3,
+      "assumptions": "½ tsp vanilla extract ≈ 3g; used in second pink sponge."
+    },
+    {
+      "position": 16,
+      "name": "Almond Extract",
+      "measurement": "¼ teaspoon",
+      "grams": 1.5,
+      "assumptions": "¼ tsp almond extract ≈ 1.5g; used in second pink sponge (even though instructions note omission of almond extract for pink, the listed ingredient is included at same quantity)."
+    },
+    {
+      "position": 17,
+      "name": "Pink Food Colouring",
+      "measurement": "½ tsp",
+      "grams": 3,
+      "assumptions": "½ tsp pink food colouring ≈ 3g; assumed gel/paste type with zero macro contribution."
+    },
+    {
+      "position": 18,
+      "name": "Apricot",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Apricot jam (listed as 'Apricot' 200g); full amount heated and used for assembly, typical jam values."
+    },
+    {
+      "position": 19,
+      "name": "Marzipan",
+      "measurement": "1kg",
+      "grams": 1000,
+      "assumptions": "Marzipan 1kg block; full amount rolled and used to cover both cakes (recipe yields two Battenbergs)."
+    },
+    {
+      "position": 20,
+      "name": "Icing Sugar",
+      "measurement": "Dusting",
+      "grams": 10,
+      "assumptions": "Icing sugar for dusting marzipan rolling surface; estimated 10g actually adheres/used in final product."
+    }
+  ],
+  "nutrition": {
+    "calories": 10739,
+    "protein": 151.1,
+    "fat": 504.8,
+    "fiber": 52,
+    "carbs": 1420.1
+  }
+}

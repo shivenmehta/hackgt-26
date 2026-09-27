@@ -1,0 +1,82 @@
+{
+  "id": "52773",
+  "name": "Honey Teriyaki Salmon",
+  "cuisine": "Japanese",
+  "fingerprint": "a70732dceabf4a2b0fd6710fdb27b232ed5e2e4c67d6906e84b2fb40d2c90902",
+  "yield": 2,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Yield estimated from 1 lb salmon as typical 4-6 oz per serving for an entree; 2 servings is conservative.",
+    "Prep + cook time estimated from instructions (mixing glaze ~5 min, pan-frying salmon ~10-15 min total).",
+    "Gluten-free is null because soy sauce is typically wheat-containing unless certified gluten-free; no certification mentioned.",
+    "Shellfish is null because no explicit shellfish but cross-contamination possible in unstated sauces or processing.",
+    "Sake treated as compatible with all listed diets (alcoholic but no animal products).",
+    "Sesame listed as both ingredient and potential allergen (true).",
+    "No dairy, eggs, tree nuts, peanuts, or milk present."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Mix all the ingredients in the Honey Teriyaki Glaze together. Whisk to blend well. Combine the salmon and the Glaze together.\r\n\r\nHeat up a skillet on medium-low heat. Add the oil, Pan-fry the salmon on both sides until it’s completely cooked inside and the glaze thickens.\r\n\r\nGarnish with sesame and serve immediately.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Salmon",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "Raw salmon fillet, edible portion only; 1 lb = 454 g."
+    },
+    {
+      "position": 2,
+      "name": "Olive oil",
+      "measurement": "1 tablespoon",
+      "grams": 14,
+      "assumptions": "Typical olive oil density; 1 tablespoon = 14 g."
+    },
+    {
+      "position": 3,
+      "name": "Soy Sauce",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "Standard Japanese-style or low-sodium soy sauce; 1 tbsp ≈ 15 g so 2 tbsp = 30 g."
+    },
+    {
+      "position": 4,
+      "name": "Sake",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "Typical cooking sake (rice wine); 1 tbsp ≈ 15 g so 2 tbsp = 30 g; carbs from residual sugars."
+    },
+    {
+      "position": 5,
+      "name": "Sesame Seed",
+      "measurement": "4 tablespoons",
+      "grams": 36,
+      "assumptions": "Toasted sesame seeds; 1 tbsp ≈ 9 g so 4 tbsp = 36 g."
+    }
+  ],
+  "nutrition": {
+    "calories": 1330.46,
+    "protein": 98.99,
+    "fat": 91.05,
+    "fiber": 4.53,
+    "carbs": 11.22
+  }
+}

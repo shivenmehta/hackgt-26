@@ -1,0 +1,157 @@
+{
+  "id": "52927",
+  "name": "Montreal Smoked Meat",
+  "cuisine": "Canadian",
+  "fingerprint": "8cf29d8a880ab5a30beaa62485fa2c0d70b7adf736181a9c2a59a3ff4f0c72e6",
+  "yield": 8,
+  "minutes": 1080,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated at 8 servings based on typical 5 lb brisket portioning for Montreal smoked meat sandwiches (approx. 5-6 oz cooked meat per serving).",
+    "Total time aggregates active prep (~30 min), curing (4 days/5760 min, excluded from total as passive), soaking (120 min), smoking (360 min), and steaming (90 min average of 1-2 hours).",
+    "Gluten-free is null because English mustard and celery salt may contain undisclosed wheat-derived ingredients or additives; rye bread in serving suggestion also contains gluten but is optional.",
+    "Wheat is null for the same reason as gluten-free (possible in mustard/salt).",
+    "No tree nuts, peanuts, sesame, fish, shellfish, eggs, milk, or soy appear in listed ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "To make the cure, in a small bowl mix together salt, pink salt, black pepper, coriander, sugar, bay leaf, and cloves. Coat entire brisket with the cure and place in an extra-large resealable plastic bag. Place in the coldest part of the refrigerator and cure for 4 days, flipping brisket twice a day.\r\nRemove brisket from bag and wash as much cure off as possible under cold running water. Place brisket in a large container and fill with water and let soak for 2 hours, replacing water every 30 minutes. Remove from water and pat dry with paper towels.\r\nTo make the rub, mix together black pepper, coriander, paprika, garlic powder, onion powder, dill weed, mustard, celery seed, and crushed red papper in a small bowl. Coat entire brisket with the rub.\r\nFire up smoker or grill to 225 degrees, adding chunks of smoking wood chunks when at temperature. When wood is ignited and producing smoke, place brisket in, fat side up, and smoke until an instant read thermometer registers 165 degrees when inserted into thickest part of the brisket, about 6 hours.\r\nTransfer brisket to large roasting pan with V-rack. Place roasting pan over two burners on stovetop and fill with 1-inch of water. Bring water to a boil over high heat, reduce heat to medium, cover roasting pan with aluminum foil, and steam brisket until an instant read thermometer registers 180 degrees when inserted into thickest part of the meat, 1 to 2 hours, adding more hot water as needed.\r\nTransfer brisket to cutting board and let cool slightly. Slice and serve, preferably on rye with mustard.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/uttupv1511815050.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef Brisket",
+      "measurement": "1",
+      "grams": 2268,
+      "assumptions": "1 whole untrimmed brisket estimated at 5 lb / 2268g based on typical Montreal smoked meat recipe size; raw values used as primary state before curing/smoking."
+    },
+    {
+      "position": 2,
+      "name": "Salt",
+      "measurement": "3 tbs",
+      "grams": 45,
+      "assumptions": "3 tbs table salt; standard density ~15 g/tbs; nutrients zeroed as pure NaCl."
+    },
+    {
+      "position": 3,
+      "name": "Black Pepper",
+      "measurement": "3 tbs",
+      "grams": 20,
+      "assumptions": "3 tbs coarse ground black pepper; standard density ~6-7 g/tbs; typical whole-pepper values."
+    },
+    {
+      "position": 4,
+      "name": "Coriander",
+      "measurement": "1 tbs",
+      "grams": 5,
+      "assumptions": "1 tbs ground coriander seed; standard density ~5 g/tbs."
+    },
+    {
+      "position": 5,
+      "name": "Sugar",
+      "measurement": "1 tbs",
+      "grams": 12,
+      "assumptions": "1 tbs granulated white sugar; standard density ~12 g/tbs."
+    },
+    {
+      "position": 6,
+      "name": "Bay Leaf",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp crumbled bay leaf; standard density ~2 g/tsp."
+    },
+    {
+      "position": 7,
+      "name": "Cloves",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp ground cloves; standard density ~2 g/tsp."
+    },
+    {
+      "position": 8,
+      "name": "Black Pepper",
+      "measurement": "3 tbs",
+      "grams": 20,
+      "assumptions": "3 tbs coarse ground black pepper (rub); standard density ~6-7 g/tbs; typical whole-pepper values."
+    },
+    {
+      "position": 9,
+      "name": "Coriander",
+      "measurement": "1 tbs",
+      "grams": 5,
+      "assumptions": "1 tbs ground coriander seed (rub); standard density ~5 g/tbs."
+    },
+    {
+      "position": 10,
+      "name": "Paprika",
+      "measurement": "1 tbs",
+      "grams": 7,
+      "assumptions": "1 tbs smoked paprika; standard density ~7 g/tbs."
+    },
+    {
+      "position": 11,
+      "name": "Garlic",
+      "measurement": "1 tbs",
+      "grams": 8,
+      "assumptions": "1 tbs garlic powder; standard density ~8 g/tbs (listed as Garlic in recipe)."
+    },
+    {
+      "position": 12,
+      "name": "Onion",
+      "measurement": "1 tbs",
+      "grams": 7,
+      "assumptions": "1 tbs onion powder; standard density ~7 g/tbs (listed as Onion in recipe)."
+    },
+    {
+      "position": 13,
+      "name": "Dill",
+      "measurement": "1 tbs",
+      "grams": 3,
+      "assumptions": "1 tbs dried dill weed; standard density ~3 g/tbs."
+    },
+    {
+      "position": 14,
+      "name": "English Mustard",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp prepared English mustard; standard density ~5 g/tsp; typical values for smooth mustard."
+    },
+    {
+      "position": 15,
+      "name": "Celery Salt",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tbs celery salt (listed as Celery Salt); standard density ~15 g/tbs; nutrients zeroed as salt-based seasoning."
+    },
+    {
+      "position": 16,
+      "name": "Red Pepper Flakes",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp crushed red pepper flakes; standard density ~2 g/tsp."
+    }
+  ],
+  "nutrition": {
+    "calories": 5947.26,
+    "protein": 418.16,
+    "fat": 458.81,
+    "fiber": 20.66,
+    "carbs": 64.63
+  }
+}

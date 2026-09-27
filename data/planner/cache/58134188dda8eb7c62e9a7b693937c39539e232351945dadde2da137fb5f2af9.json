@@ -1,0 +1,138 @@
+{
+  "id": "53229",
+  "name": "Steak & Vietnamese noodle salad",
+  "cuisine": "Vietnamese",
+  "fingerprint": "58134188dda8eb7c62e9a7b693937c39539e232351945dadde2da137fb5f2af9",
+  "yield": 2,
+  "minutes": 25,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe serves 2 based on 250g steak and 85g dry noodles as main components, standard for 2 adult portions in similar BBC Good Food recipes",
+    "Preparation and cooking time estimated at 25 minutes: ~5 min dressing, ~5-10 min noodles + veg prep, ~6-10 min steak cooking + 5 min rest",
+    "Gluten-free assumes rice noodles, rice vinegar, and fish sauce are certified gluten-free (common but not always guaranteed)",
+    "Soy null due to possible presence in some fish sauce brands",
+    "Shellfish null as fish sauce origin is ambiguous (could be anchovy-based but not confirmed as shellfish)",
+    "No barley/rye/wheat or uncertified oats present; wheat-free but classified separately as gluten-free true only if certified",
+    "All ingredients screened conservatively from listed items only; no unlisted sauces or compounds assumed"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nMix all the ingredients for the dressing together in a bowl with 1 tbsp water until the sugar has dissolved.\r\n\r\nstep 2\r\nCook the noodles following pack instructions, then plunge into a bowl of cold water to cool completely. Drain the noodles, then add the carrot, cabbage, spring onion and dressing, and toss to combine.\r\n\r\nstep 3\r\nHeat the oil in a frying pan over a high heat. Season the steak, then cook to your liking; 2-3 mins on each side for medium rare. Leave to rest for 5 mins, then slice. Divide the salad and steak slices between bowls and scatter over some coriander to serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/st9shl1763755808.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Brown Rice Noodle",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "Standard dry brown rice noodles; typical 350-370 kcal/100g dry weight used."
+    },
+    {
+      "position": 2,
+      "name": "Rapeseed Oil",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp rapeseed oil weighs ~5g; standard vegetable oil values."
+    },
+    {
+      "position": 3,
+      "name": "Fillet Of Steak",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Raw lean fillet steak; typical values for beef tenderloin."
+    },
+    {
+      "position": 4,
+      "name": "Carrots",
+      "measurement": "2",
+      "grams": 120,
+      "assumptions": "2 medium carrots ~120g total; raw peeled weight."
+    },
+    {
+      "position": 5,
+      "name": "Chinese Cabbage",
+      "measurement": "1/2",
+      "grams": 350,
+      "assumptions": "Half a medium Chinese/napa cabbage ~350g edible portion; raw."
+    },
+    {
+      "position": 6,
+      "name": "Spring Onions",
+      "measurement": "4 finely sliced",
+      "grams": 60,
+      "assumptions": "4 medium spring onions ~60g total; raw, including green tops."
+    },
+    {
+      "position": 7,
+      "name": "Coriander",
+      "measurement": "Handful",
+      "grams": 20,
+      "assumptions": "A small handful of fresh coriander leaves ~20g."
+    },
+    {
+      "position": 8,
+      "name": "Red Chilli",
+      "measurement": "1 sliced",
+      "grams": 20,
+      "assumptions": "1 medium red chilli ~20g; raw, including seeds."
+    },
+    {
+      "position": 9,
+      "name": "Lime",
+      "measurement": "Juice of 1",
+      "grams": 40,
+      "assumptions": "Juice of 1 lime ~40g; typical lime juice values."
+    },
+    {
+      "position": 10,
+      "name": "Brown Sugar",
+      "measurement": "2 tsp",
+      "grams": 8,
+      "assumptions": "2 tsp brown sugar ~8g; standard granulated sugar values."
+    },
+    {
+      "position": 11,
+      "name": "Rice Vinegar",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp rice vinegar ~5g; typical low-calorie rice vinegar."
+    },
+    {
+      "position": 12,
+      "name": "Garlic Clove",
+      "measurement": "1 chopped",
+      "grams": 5,
+      "assumptions": "1 average garlic clove ~5g; raw."
+    },
+    {
+      "position": 13,
+      "name": "Fish Sauce",
+      "measurement": "1/2 tbs",
+      "grams": 9,
+      "assumptions": "1/2 tablespoon fish sauce ~9g (1 tbsp ~18g); typical values."
+    }
+  ],
+  "nutrition": {
+    "calories": 872.2,
+    "protein": 73.76,
+    "fat": 20.57,
+    "fiber": 14.06,
+    "carbs": 103.66
+  }
+}

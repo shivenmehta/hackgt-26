@@ -1,0 +1,132 @@
+{
+  "id": "52818",
+  "name": "Chicken Fajita Mac and Cheese",
+  "cuisine": "American",
+  "fingerprint": "d17fea8704e10277c85555b1d4983522a924b6d4690e5235dc15f86edea62bc6",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from total dry pasta (500g) plus other substantial ingredients yielding ~4 adult dinner portions",
+    "Total time combines ~5 min prep (chopping/dicing) + ~10 min frying/colouring + 20 min low cook per instructions; no separate roasting time quantified for peppers so not added",
+    "Macaroni classified as containing wheat (standard durum wheat pasta)",
+    "Heavy cream and cheddar classified as containing milk",
+    "Chicken stock and chicken breast confirm non-vegetarian/vegan",
+    "Fajita seasoning packet treated as containing wheat starch (conservative default for commercial mixes)",
+    "No explicit egg, fish, shellfish, nuts, peanuts, soy or sesame in listed ingredients",
+    "Parsley treated as garnish with negligible impact on classifications"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Fry your onion, peppers and garlic in olive oil until nicely translucent. Make a well in your veg and add your chicken. Add your seasoning and salt. Allow to colour slightly.\r\nAdd your cream, stock and macaroni.\r\nCook on low for 20 minutes. Add your cheeses, stir to combine.\r\nTop with roasted peppers and parsley.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "macaroni",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Dry elbow macaroni, uncooked as added directly to pan per instructions"
+    },
+    {
+      "position": 2,
+      "name": "chicken stock",
+      "measurement": "2 cups",
+      "grams": 480,
+      "assumptions": "Standard chicken broth/stock; 2 US cups = 480 ml, density ~1 g/ml"
+    },
+    {
+      "position": 3,
+      "name": "heavy cream",
+      "measurement": "1/2 cup",
+      "grams": 120,
+      "assumptions": "Heavy cream (whipping cream); 1/2 US cup = 120 ml, density ~1 g/ml"
+    },
+    {
+      "position": 4,
+      "name": "fajita seasoning",
+      "measurement": "1 packet",
+      "grams": 30,
+      "assumptions": "Typical commercial fajita seasoning packet ~28-35g; assumed 30g total, mostly spices with some starch"
+    },
+    {
+      "position": 5,
+      "name": "salt",
+      "measurement": "1 tsp",
+      "grams": 6,
+      "assumptions": "Table salt; 1 tsp = ~6g, zero calories/macros"
+    },
+    {
+      "position": 6,
+      "name": "chicken breast",
+      "measurement": "3 diced",
+      "grams": 450,
+      "assumptions": "Raw boneless skinless chicken breast, diced; '3 diced' assumed 3 medium breasts totaling 450g edible portion"
+    },
+    {
+      "position": 7,
+      "name": "olive oil",
+      "measurement": "2 tbsp",
+      "grams": 27,
+      "assumptions": "Olive oil; 2 US tbsp = 27g"
+    },
+    {
+      "position": 8,
+      "name": "onion",
+      "measurement": "1 small finely diced",
+      "grams": 70,
+      "assumptions": "Small onion, finely diced; typical small onion ~70g edible after peeling"
+    },
+    {
+      "position": 9,
+      "name": "red pepper",
+      "measurement": "2 finely diced",
+      "grams": 240,
+      "assumptions": "2 medium red bell peppers, finely diced; ~120g each edible after deseeding"
+    },
+    {
+      "position": 10,
+      "name": "garlic",
+      "measurement": "2 cloves minced",
+      "grams": 6,
+      "assumptions": "2 cloves garlic, minced; typical clove ~3g each, total 6g"
+    },
+    {
+      "position": 11,
+      "name": "cheddar cheese",
+      "measurement": "1 cup",
+      "grams": 113,
+      "assumptions": "Shredded cheddar cheese; 1 US cup = ~113g"
+    },
+    {
+      "position": 12,
+      "name": "parsley",
+      "measurement": "garnish chopped",
+      "grams": 10,
+      "assumptions": "Fresh parsley for garnish; 'garnish chopped' assumed 10g typical sprinkled amount for whole recipe"
+    }
+  ],
+  "nutrition": {
+    "calories": 3938.11,
+    "protein": 242.68,
+    "fat": 135.14,
+    "fiber": 25.73,
+    "carbs": 426.13
+  }
+}

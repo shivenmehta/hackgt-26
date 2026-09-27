@@ -1,0 +1,124 @@
+{
+  "id": "53206",
+  "name": "Thai chicken cakes with sweet chilli sauce",
+  "cuisine": "Thai",
+  "fingerprint": "a5b4eb81f4dbc9eeb49dec7f05dc8da7f597084a0836da7d65f5ff1422ca4f58",
+  "yield": 6,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield of 6 cakes from explicit instruction to shape six small cakes; each cake is one serving",
+    "Total time estimated from instructions: ~5 min prep (blitzing + shaping) + 6-8 min frying = ~15 min; rounded up to 20 min to include seasoning, heating oil, and serving prep",
+    "Sweet chilli sauce treated as potential source of wheat/soy/sesame (common in commercial versions) hence null",
+    "Lime, spring onions, and red chilli are garnishes served with the cakes",
+    "No explicit gluten-containing ingredients; gluten-free marked null due to unspecified sweet chilli sauce",
+    "No tree nuts or peanuts listed; marked false as confidently absent",
+    "No fish or shellfish listed; marked null due to potential in some sweet chilli sauces"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nToss the chicken, garlic, ginger, onion, coriander and chilli into a food processor and season well. Blitz until the chicken is finely ground and everything is well mixed. Use your hands to shape six small cakes.\r\n\r\nstep 2\r\nHeat the oil in a frying pan, then fry the cakes over a medium heat for about 6-8 mins, turning once. Serve hot, with sweet chilli sauce, lime wedges, coriander, shredded spring onion and red chilli.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/6s3i3p1763488540.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Breast",
+      "measurement": "2 large",
+      "grams": 400,
+      "assumptions": "2 large boneless skinless chicken breasts ≈400g total; raw weight used as ground in processor before frying"
+    },
+    {
+      "position": 2,
+      "name": "Garlic",
+      "measurement": "1 clove",
+      "grams": 5,
+      "assumptions": "1 typical garlic clove, peeled"
+    },
+    {
+      "position": 3,
+      "name": "Ginger",
+      "measurement": "1 small",
+      "grams": 10,
+      "assumptions": "1 small knob of fresh ginger, peeled"
+    },
+    {
+      "position": 4,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "1 medium onion, chopped, ≈110g"
+    },
+    {
+      "position": 5,
+      "name": "Coriander",
+      "measurement": "4 tbs",
+      "grams": 15,
+      "assumptions": "4 tablespoons fresh coriander leaves, ≈15g"
+    },
+    {
+      "position": 6,
+      "name": "Green Chilli",
+      "measurement": "1 chopped",
+      "grams": 20,
+      "assumptions": "1 medium green chilli, chopped, ≈20g"
+    },
+    {
+      "position": 7,
+      "name": "Olive Oil",
+      "measurement": "2 tblsp",
+      "grams": 28,
+      "assumptions": "2 tablespoons olive oil for frying (≈14g per tbsp)"
+    },
+    {
+      "position": 8,
+      "name": "sweet chilli sauce",
+      "measurement": "To serve",
+      "grams": 60,
+      "assumptions": "Sweet chilli sauce to serve; assumed 2 tbsp (30ml) per cake for 6 cakes, total 60g as typical serving amount for the dish"
+    },
+    {
+      "position": 9,
+      "name": "Lime",
+      "measurement": "To serve",
+      "grams": 100,
+      "assumptions": "Lime to serve; assumed 1 whole lime cut into wedges (≈100g with peel, edible portion considered)"
+    },
+    {
+      "position": 10,
+      "name": "Spring Onions",
+      "measurement": "Chopped",
+      "grams": 30,
+      "assumptions": "Chopped spring onions to serve; assumed 3-4 stalks, ≈30g total garnish amount"
+    },
+    {
+      "position": 11,
+      "name": "Red Chilli",
+      "measurement": "Chopped",
+      "grams": 15,
+      "assumptions": "Chopped red chilli to serve; assumed 1 small red chilli, ≈15g total garnish amount"
+    }
+  ],
+  "nutrition": {
+    "calories": 1144.02,
+    "protein": 128.61,
+    "fat": 43.39,
+    "fiber": 6.94,
+    "carbs": 60.24
+  }
+}

@@ -9,6 +9,13 @@ if (existsSync(".env.local")) process.loadEnvFile(".env.local");
 const candidates = process.env.PYTHON_COMMAND
   ? [[process.env.PYTHON_COMMAND]]
   : [
+      [
+        join(
+          process.cwd(),
+          ".venv",
+          process.platform === "win32" ? "Scripts/python.exe" : "bin/python",
+        ),
+      ],
       ["python"],
       ["py", "-3"],
       ["python3"],
@@ -35,6 +42,10 @@ const env = {
 };
 const port = env.LOCATION_SERVICE_PORT || "8765";
 env.LOCATION_SERVICE_URL = `http://127.0.0.1:${port}`;
+env.RANKER_SERVICE_TOKEN ||= randomBytes(32).toString("hex");
+env.PLANNER_SESSION_SECRET ||= randomBytes(32).toString("hex");
+const rankerPort = env.RANKER_SERVICE_PORT || "8767";
+env.RANKER_SERVICE_URL ||= `http://127.0.0.1:${rankerPort}`;
 const children = [];
 let stopping = false;
 function stop(code = 0) {
@@ -62,6 +73,18 @@ function start(command, args) {
   return child;
 }
 start(python[0], [...python.slice(1), "-B", "-m", "src.lib.location.service"]);
+start(python[0], [
+  ...python.slice(1),
+  "-m",
+  "uvicorn",
+  "app:app",
+  "--app-dir",
+  "services/recipe-ranker",
+  "--host",
+  "127.0.0.1",
+  "--port",
+  rankerPort,
+]);
 let ready = false;
 for (let i = 0; i < 40; i++) {
   try {

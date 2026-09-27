@@ -1,0 +1,167 @@
+{
+  "id": "52783",
+  "name": "Rigatoni with fennel sausage sauce",
+  "cuisine": "Italian",
+  "fingerprint": "3112b16376839143aea4b960d59ef56bc666cc443e100ef5bab40661d02f5c35",
+  "yield": 4,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield of 4 servings estimated from 500g dry rigatoni (standard 125g per person for a main pasta dish) plus substantial meat sauce volume suitable for 4 portions.",
+    "Total time of 90 minutes conservatively summed from sequential steps: ~10min sausage fry + 15min veg fry + 2min spices + 30sec wine + 30min simmer (with lid adjustment) + 12-14min pasta boil + pesto prep (~5-10min) + reheating/draining, allowing for overlaps but not assuming perfect parallelism.",
+    "Sausages classified as containing pork (non-vegetarian, non-vegan, non-pescatarian).",
+    "Anchovy classified as fish (non-vegetarian, non-vegan, non-pescatarian; fish allergen).",
+    "Pecorino cheese classified as dairy (dairy allergen; non-vegan).",
+    "Rigatoni classified as wheat-based pasta (wheat and gluten present; not gluten-free).",
+    "No tree nuts, peanuts, shellfish, eggs, soy, or sesame explicitly listed; left null as not confidently absent in all possible variants of unspecified items like tinned tomatoes or olives.",
+    "Olive oil, vegetables, wine, spices, and basil compatible with all listed diets but overridden by incompatible animal/wheat ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat a tablespoon of oil in a large saute pan for which you have a lid. Add the sausage pieces and fry on a medium-high heat for 10 minutes, stirring regularly, until golden-brown all over. Transfer the sausages to a plate, then add the onion and fennel to the hot pan and fry for 15 minutes, stirring once in a while, until soft and caramelised; if the pan goes a bit dry, add a teaspoon or so of extra oil. Stir in the paprika, garlic and half the fennel seeds, fry for two minutes more, then pour on the wine and boil for 30 seconds, to reduce by half. Add the tomatoes, sugar, 100ml water, the seared sausage and half a teaspoon of salt, cover and simmer for 30 minutes; remove the lid after 10 minutes, and cook until the sauce is thick and rich. Remove from the heat, stir through the olives and remaining fennel seeds and set aside until you’re ready to serve.\r\n\r\nBring a large pot of salted water to a boil, add the pasta and cook for 12-14 minutes (or according to the instructions on the packet), until al dente. Meanwhile, reheat the sauce. Drain the pasta, return it to the pot, stir in a tablespoon of oil, then divide between the bowls. \r\n\r\nPut all the pesto ingredients except the basil in the small bowl of a food processor. Add a tablespoon of water and blitz to a rough paste. Add the basil, then blitz until just combined (the pesto has a much better texture if the basil is not overblended).\r\n\r\nSpoon over the ragù and top with a spoonful of pesto. Finish with a sprinkling of chopped fennel fronds, if you have any, and serve at once.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "olive oil",
+      "measurement": "2½ tbsp",
+      "grams": 37.5,
+      "assumptions": "2.5 tbsp olive oil estimated at 15g per tbsp (standard density); used for frying and pasta, typical for Italian recipes."
+    },
+    {
+      "position": 2,
+      "name": "Italian fennel sausages",
+      "measurement": "6 cut into 1.5cm-thick slices",
+      "grams": 450,
+      "assumptions": "6 Italian fennel sausages (pork-based with fennel) estimated at ~75g each based on typical sausage size and slicing; raw weight used as primary state before frying."
+    },
+    {
+      "position": 3,
+      "name": "onion",
+      "measurement": "1 large peeled and chopped",
+      "grams": 150,
+      "assumptions": "1 large onion ~150g peeled and chopped; standard household size for Italian sauces, raw weight."
+    },
+    {
+      "position": 4,
+      "name": "fennel bulb",
+      "measurement": "1 trimmed and roughly chopped; reserve any fronds to garnish",
+      "grams": 250,
+      "assumptions": "1 medium fennel bulb trimmed and chopped ~250g edible portion (typical size after trimming); raw weight, fronds reserved separately."
+    },
+    {
+      "position": 5,
+      "name": "smoky paprika",
+      "measurement": "½ tsp",
+      "grams": 1,
+      "assumptions": "½ tsp smoky paprika ~1g; negligible volume but estimated for completeness in spice-heavy Italian ragù."
+    },
+    {
+      "position": 6,
+      "name": "garlic",
+      "measurement": "1 clove, peeled and sliced",
+      "grams": 3,
+      "assumptions": "1 garlic clove peeled and sliced ~3g; standard small clove weight."
+    },
+    {
+      "position": 7,
+      "name": "fennel seeds",
+      "measurement": "2 tsp lightly toasted and then gently crushed",
+      "grams": 4,
+      "assumptions": "2 tsp fennel seeds lightly toasted and crushed ~4g total; standard teaspoon density."
+    },
+    {
+      "position": 8,
+      "name": "red wine",
+      "measurement": "100ml",
+      "grams": 92,
+      "assumptions": "100ml red wine; density ~0.92g/ml, typical dry Italian red for deglazing."
+    },
+    {
+      "position": 9,
+      "name": "chopped tomatoes",
+      "measurement": "400g tinned",
+      "grams": 400,
+      "assumptions": "400g tinned chopped tomatoes including juice; standard can size, as-used weight."
+    },
+    {
+      "position": 10,
+      "name": "caster sugar",
+      "measurement": "½ tsp",
+      "grams": 2,
+      "assumptions": "½ tsp caster sugar ~2g; standard small spoon measure for balancing tomato acidity."
+    },
+    {
+      "position": 11,
+      "name": "pitted black olives",
+      "measurement": "50g cut in half lengthways",
+      "grams": 50,
+      "assumptions": "50g pitted black olives cut in half; direct weight given, typical Kalamata or similar in Italian recipes."
+    },
+    {
+      "position": 12,
+      "name": "rigatoni",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "500g dry rigatoni pasta; direct weight, uncooked as boiled per instructions."
+    },
+    {
+      "position": 13,
+      "name": "pecorino",
+      "measurement": "30g roughly crumbled into 0.5cm pieces",
+      "grams": 30,
+      "assumptions": "30g pecorino cheese crumbled; direct weight, hard Italian sheep cheese for topping."
+    },
+    {
+      "position": 14,
+      "name": "anchovy fillet",
+      "measurement": "1  rinsed and patted dry",
+      "grams": 4,
+      "assumptions": "1 anchovy fillet rinsed ~4g; standard single fillet weight from tin or jar."
+    },
+    {
+      "position": 15,
+      "name": "garlic",
+      "measurement": "1 clove, peeled and crushed",
+      "grams": 3,
+      "assumptions": "1 garlic clove crushed ~3g; standard small clove weight for pesto."
+    },
+    {
+      "position": 16,
+      "name": "olive oil",
+      "measurement": "60ml",
+      "grams": 55,
+      "assumptions": "60ml olive oil for pesto; density ~0.92g/ml, standard for basil pesto emulsion."
+    },
+    {
+      "position": 17,
+      "name": "basil leaves",
+      "measurement": "50g torn",
+      "grams": 50,
+      "assumptions": "50g fresh basil leaves torn; direct weight, typical for pesto yield."
+    }
+  ],
+  "nutrition": {
+    "calories": 4633.78,
+    "protein": 151.18,
+    "fat": 241.14,
+    "fiber": 35.95,
+    "carbs": 460.19
+  }
+}

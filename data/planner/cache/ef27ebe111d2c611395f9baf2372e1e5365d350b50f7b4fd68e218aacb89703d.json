@@ -1,0 +1,92 @@
+{
+  "id": "52787",
+  "name": "Hot Chocolate Fudge",
+  "cuisine": "American",
+  "fingerprint": "ef27ebe111d2c611395f9baf2372e1e5365d350b50f7b4fd68e218aacb89703d",
+  "yield": 16,
+  "minutes": 270,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from standard 8x8 inch fudge pan cut into 16 pieces (2x2 inch squares).",
+    "Total time is active prep (~30 min) plus 4-hour refrigeration; 270 minutes used.",
+    "Vegetarian: true as all ingredients compatible (no meat).",
+    "Vegan: false due to heavy cream, condensed milk, and chocolate chips containing dairy.",
+    "Pescatarian: true as no meat or fish present.",
+    "Gluten-free: true as no barley/rye/wheat/oats listed in ingredients or instructions.",
+    "Dairy-free: false due to heavy cream, condensed milk, and both types of chocolate chips.",
+    "Milk allergen: true due to dairy ingredients (cream, condensed milk, chocolate chips).",
+    "No wheat, fish, or shellfish explicitly present.",
+    "Tree nuts, peanuts, soy, sesame, eggs ambiguous/unspecified in compound chocolate chips and marshmallows."
+  ],
+  "categories": [],
+  "instructions": "Line an 8-inch-square baking pan with wax paper or foil, and coat with non-stick spray.\r\nIn a microwave-safe bowl, combine the dark chocolate chips, heavy cream and half of the sweetened condensed milk. Microwave the dark chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.\r\nAdd the vanilla extract to the dark chocolate mixture and stir well until smooth.\r\nTransfer the dark chocolate mixture into the prepared pan and spread into an even layer.\r\nIn a separate bowl, combine the white chocolate chips with the remaining half of the sweetened condensed milk. Microwave the white chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.\r\nEvenly spread the white chocolate mixture on top of dark chocolate layer.\r\nTop the chocolate layers with the Mallow Bits or miniature marshmallows, and gently press them down.\r\nRefrigerate for 4 hours, or until set.\r\nRemove the fudge and wax paper from the pan. Carefully peel all of the wax paper from the fudge.\r\nCut the fudge into bite-sized pieces and serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chocolate Chips",
+      "measurement": "2 cups",
+      "grams": 340,
+      "assumptions": "2 cups dark chocolate chips (standard 10 oz bag size, typical for fudge recipes; semi-sweet/dark chips ~60% cocoa)."
+    },
+    {
+      "position": 2,
+      "name": "Heavy Cream",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tablespoons heavy cream (standard volume-to-weight conversion)."
+    },
+    {
+      "position": 3,
+      "name": "Condensed Milk",
+      "measurement": "1 – 14-ounce can",
+      "grams": 396,
+      "assumptions": "One 14-ounce can sweetened condensed milk (full can divided between two layers; standard nutrition for full-fat version)."
+    },
+    {
+      "position": 4,
+      "name": "Vanilla Extract",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 teaspoon vanilla extract (standard volume-to-weight; alcohol-based)."
+    },
+    {
+      "position": 5,
+      "name": "White Chocolate Chips",
+      "measurement": "1-⅓ cups",
+      "grams": 225,
+      "assumptions": "1 1/3 cups white chocolate chips (standard volume-to-weight for chips; ~8 oz by weight)."
+    },
+    {
+      "position": 6,
+      "name": "Miniature Marshmallows",
+      "measurement": "1-½ cups",
+      "grams": 75,
+      "assumptions": "1.5 cups miniature marshmallows (Mallow Bits; standard volume-to-weight, ~2.5 oz by weight)."
+    }
+  ],
+  "nutrition": {
+    "calories": 4515.7,
+    "protein": 60.88,
+    "fat": 220.74,
+    "fiber": 21.15,
+    "carbs": 632.09
+  }
+}

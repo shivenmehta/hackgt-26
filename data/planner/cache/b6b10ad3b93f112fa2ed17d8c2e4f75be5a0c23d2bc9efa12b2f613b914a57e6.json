@@ -1,0 +1,120 @@
+{
+  "id": "53242",
+  "name": "Barbecue pork buns",
+  "cuisine": "Vietnamese",
+  "fingerprint": "b6b10ad3b93f112fa2ed17d8c2e4f75be5a0c23d2bc9efa12b2f613b914a57e6",
+  "yield": 12,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe makes 12 buns as explicitly stated in step 3 (pull into 12 even-sized balls).",
+    "Total active and passive time (kneading, rising, frying, baking) conservatively estimated at 90 minutes based on explicit times given: 5 min knead + ~60 min first rise (typical for dough doubling) + 6 min fry + 30 min second rise + 20 min bake, excluding oven preheat.",
+    "White bread mix classified as containing wheat (standard composition).",
+    "Bacon classified as pork (non-vegetarian, non-vegan, non-pescatarian).",
+    "Egg used for brushing (glaze).",
+    "Soy sauce classified as containing soy and wheat (standard fermented soy sauce).",
+    "No milk, tree nuts, peanuts, fish, shellfish, or sesame explicitly listed or implied.",
+    "Honey classified as non-vegan.",
+    "No barley, rye, or oats present; gluten-free is false solely due to wheat bread mix.",
+    "Dairy-free is true as no milk, butter, cheese, or other dairy ingredients are listed."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat the oven to 200C/fan 180C/gas. Mix the sugar into the bread mix in a large bowl, then add water as instructed on the pack. Bring the dough together with a wooden spoon, then knead on a lightly floured surface for 5 mins until smooth. Put into a large bowl, cover with oiled cling film then leave in a warm place until doubled in size.\r\n\r\nstep 2\r\nMeanwhile, heat the oil in a pan, then fry the bacon until crisp, about 5 mins. Add the ginger and garlic and fry for 1 min until soft, then tip in the soy, honey and tomato purée and stir well. Can be made up to 3 days ahead.\r\n\r\nstep 3\r\nTurn out the dough and knead briefly, then pull into 12 even-sized balls. Flatten with your hands, then put a teaspoon-size blob of the filling in the middle. Draw the dough up and pinch it closed like a purse, then turn the bun over and sit it on a large baking sheet. Cover with oiled cling film and leave to rise for about 30 mins until the dough feels pillowy. Brush with egg and bake for 20 mins until golden. Serve warm with dipping sauce. Can be frozen after second rise for up to 1 month or baked up to a day ahead and re-warmed.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/tzsy461763769901.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sugar",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "Standard granulated white sugar; 85g as given."
+    },
+    {
+      "position": 2,
+      "name": "White Bread Mix",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Typical dry white bread mix (flour-based with yeast); 500g as given."
+    },
+    {
+      "position": 3,
+      "name": "Sunflower Oil",
+      "measurement": "1 tablespoon",
+      "grams": 14,
+      "assumptions": "1 tablespoon sunflower oil is ~14g; used for frying in step 2."
+    },
+    {
+      "position": 4,
+      "name": "Bacon",
+      "measurement": "12",
+      "grams": 360,
+      "assumptions": "12 standard streaky bacon rashers ~30g each raw (common UK pack size); total 360g; fried until crisp so some fat rendered but edible weight kept close to raw for conservatism."
+    },
+    {
+      "position": 5,
+      "name": "Ginger",
+      "measurement": "Knob",
+      "grams": 30,
+      "assumptions": "'Knob' of fresh ginger interpreted as ~30g peeled root (plausible for recipe scale with 12 buns); typical values for raw ginger."
+    },
+    {
+      "position": 6,
+      "name": "Garlic",
+      "measurement": "2 cloves chopped",
+      "grams": 6,
+      "assumptions": "2 average garlic cloves ~6g total peeled and chopped; standard raw garlic nutrition."
+    },
+    {
+      "position": 7,
+      "name": "Soy Sauce",
+      "measurement": "2 tablespoons",
+      "grams": 30,
+      "assumptions": "2 tablespoons regular soy sauce ~30g total; typical values for standard soy."
+    },
+    {
+      "position": 8,
+      "name": "Clear Honey",
+      "measurement": "3  tablespoons",
+      "grams": 63,
+      "assumptions": "3 tablespoons clear honey ~21g per tbsp so 63g total; standard honey values."
+    },
+    {
+      "position": 9,
+      "name": "Tomato Puree",
+      "measurement": "3  tablespoons",
+      "grams": 45,
+      "assumptions": "3 tablespoons tomato puree ~15g per tbsp so 45g total; typical concentrated tomato puree values."
+    },
+    {
+      "position": 10,
+      "name": "Egg",
+      "measurement": "1 beaten",
+      "grams": 50,
+      "assumptions": "1 medium-large egg beaten for glaze ~50g edible portion (without shell); standard values."
+    }
+  ],
+  "nutrition": {
+    "calories": 4551.17,
+    "protein": 204.45,
+    "fat": 180.79,
+    "fiber": 17.5,
+    "carbs": 512.09
+  }
+}

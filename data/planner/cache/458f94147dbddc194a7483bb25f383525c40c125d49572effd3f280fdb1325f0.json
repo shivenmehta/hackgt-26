@@ -1,0 +1,130 @@
+{
+  "id": "52964",
+  "name": "Smoked Haddock Kedgeree",
+  "cuisine": "Indian",
+  "fingerprint": "458f94147dbddc194a7483bb25f383525c40c125d49572effd3f280fdb1325f0",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical kedgeree portions (450g rice + 750g fish yields ~4 adult servings); recipe does not specify.",
+    "Total time summed from sequential/parallel steps in instructions: ~5min onion + 1min spices + 12min rice simmer + 4min fish simmer + 8min eggs + 2-3min final heat + prep/chopping time = ~35min overall.",
+    "Bay leaves listed as 'Sprigs of fresh' but contextually are standard bay leaves (no allergen impact).",
+    "Chicken stock treated as potentially containing trace dairy but conservatively no impact on listed allergens beyond butter/eggs/fish; no wheat/soy assumed.",
+    "No gluten-containing ingredients present (rice, spices, fish, eggs, herbs).",
+    "Dairy from butter only; no vegan/vegetarian due to fish, eggs, butter, and stock."
+  ],
+  "categories": ["breakfast"],
+  "instructions": "Melt 50g butter in a large saucepan (about 20cm across), add 1 finely chopped medium onion and cook gently over a medium heat for 5 minutes, until softened but not browned.\r\n\r\nStir in 3 split cardamom pods, ¼ tsp turmeric, 1 small cinnamon stick and 2 bay leaves, then cook for 1 minute.\r\n\r\nTip in 450g basmati rice and stir until it is all well coated in the spicy butter.\r\n\r\nPour in 1 litre chicken or fish stock, add ½ teaspoon salt and bring to the boil, stir once to release any rice from the bottom of the pan. Cover with a close-fitting lid, reduce the heat to low and leave to cook very gently for 12 minutes.\r\n\r\nMeanwhile, bring some water to the boil in a large shallow pan. Add 750g un-dyed smoked haddock fillet and simmer for 4 minutes, until the fish is just cooked. Lift it out onto a plate and leave until cool enough to handle.\r\n\r\nHard-boil 3 eggs for 8 minutes.\r\n\r\nFlake the fish, discarding any skin and bones. Drain the eggs, cool slightly, then peel and chop. \r\n\r\nUncover the rice and remove the bay leaves, cinnamon stick and cardamom pods if you wish to. Gently fork in the fish and the chopped eggs, cover again and return to the heat for 2-3 minutes, or until the fish has heated through.\r\n\r\nGently stir in almost all the 3 tbsp chopped fresh parsley, and season with a little salt and black pepper to taste. Serve scattered with the remaining parsley and garnished with 1 lemon, cut into wedges.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Butter",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Standard unsalted butter; all used in recipe."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 chopped",
+      "grams": 110,
+      "assumptions": "Medium onion (approx 110g) finely chopped; typical size for '1 medium' in recipes, raw weight."
+    },
+    {
+      "position": 3,
+      "name": "Cardamom",
+      "measurement": "3 Pods",
+      "grams": 2,
+      "assumptions": "3 green cardamom pods (approx 2g total); whole pods used for flavor, typical weight."
+    },
+    {
+      "position": 4,
+      "name": "Turmeric",
+      "measurement": "1/4 tsp",
+      "grams": 1,
+      "assumptions": "1/4 tsp ground turmeric (approx 1g); standard spice density."
+    },
+    {
+      "position": 5,
+      "name": "Cinnamon Stick",
+      "measurement": "1 small",
+      "grams": 3,
+      "assumptions": "1 small cinnamon stick (approx 3g); typical broken piece weight for cooking."
+    },
+    {
+      "position": 6,
+      "name": "Bay Leaf",
+      "measurement": "Sprigs of fresh",
+      "grams": 1,
+      "assumptions": "2 bay leaves (approx 1g total, listed as 'Sprigs of fresh' but context is bay leaves); whole leaves for flavor."
+    },
+    {
+      "position": 7,
+      "name": "Basmati Rice",
+      "measurement": "450g",
+      "grams": 450,
+      "assumptions": "Uncooked dry basmati rice; standard nutritional profile for white basmati."
+    },
+    {
+      "position": 8,
+      "name": "Chicken Stock",
+      "measurement": "1 Litre",
+      "grams": 1000,
+      "assumptions": "Chicken stock (1 litre assumed as 1000g); typical low-calorie stock values, all liquid used."
+    },
+    {
+      "position": 9,
+      "name": "Smoked Haddock",
+      "measurement": "750g",
+      "grams": 750,
+      "assumptions": "Smoked haddock fillet (750g raw); typical values for undyed smoked haddock, edible portion after discarding skin/bones estimated within total."
+    },
+    {
+      "position": 10,
+      "name": "Eggs",
+      "measurement": "3",
+      "grams": 150,
+      "assumptions": "3 large eggs (approx 150g total with shell, but using edible ~50g each without); hard-boiled, standard large egg nutrition."
+    },
+    {
+      "position": 11,
+      "name": "Parsley",
+      "measurement": "3 tblsp chopped",
+      "grams": 15,
+      "assumptions": "3 tbsp chopped fresh parsley (approx 15g); typical volume-to-weight for chopped herb, almost all used."
+    },
+    {
+      "position": 12,
+      "name": "Lemon",
+      "measurement": "1 chopped",
+      "grams": 100,
+      "assumptions": "1 whole lemon cut into wedges (approx 100g); standard medium lemon weight, used as garnish."
+    }
+  ],
+  "nutrition": {
+    "calories": 3297.28,
+    "protein": 228.57,
+    "fat": 89.62,
+    "fiber": 13.66,
+    "carbs": 390.37
+  }
+}

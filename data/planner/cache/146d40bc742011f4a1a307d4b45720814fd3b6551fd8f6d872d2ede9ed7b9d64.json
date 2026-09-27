@@ -1,0 +1,132 @@
+{
+  "id": "52905",
+  "name": "Chocolate Souffle",
+  "cuisine": "French",
+  "fingerprint": "146d40bc742011f4a1a307d4b45720814fd3b6551fd8f6d872d2ede9ed7b9d64",
+  "yield": 6,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe makes 6 individual soufflés based on '6 x 150ml ramekins' in instructions.",
+    "Total active and cooking time estimated from instructions: oven preheating, sauce prep, ramekin prep, melting, whisking, folding, and 8-10 min bake; conservatively rounded to 45 min.",
+    "All listed ingredients screened; no gluten-containing items (e.g. no flour), confirming gluten-free.",
+    "Dairy ingredients (creams, butters) present, so not dairy-free.",
+    "Eggs used, so not vegan; compatible with vegetarian and pescatarian.",
+    "Dark chocolate assumed dairy-free but screened conservatively; no tree nuts or peanuts listed.",
+    "Icing sugar and caster sugar assumed pure with no additives.",
+    "No compound sauces; all ingredients explicitly listed."
+  ],
+  "categories": [],
+  "instructions": "Heat oven to 220C/fan 200C/gas 7 and place a baking tray on the top shelf. For the sauce, heat the cream and sugar until boiling. Remove from the heat, stir in the chocolate and butter until melted, then keep warm.\r\nBrush 6 x 150ml ramekins with melted butter, sprinkle with the 2 tbsp caster sugar, then tip out any excess. Melt the chocolate and cream in a bowl over a pan of simmering water, cool, then mix in the egg yolks. Whisk the egg whites until they hold their shape, then add the sugar, 1 tbsp at a time, whisking back to the same consistency. Mix a spoonful into the chocolate, then gently fold in the rest.\r\nWorking quickly, fill the ramekins, wipe the rims clean and run your thumb around the edges. Turn oven down to 200C/fan 180C/gas 6, place the ramekins onto the baking tray, then bake for 8-10 mins until risen with a slight wobble. Don’t open the oven door too early as this may make them collapse.\r\nOnce the soufflés are ready, dust with icing sugar, scoop a small hole from their tops, then pour in some of the hot chocolate sauce. Replace the lids and serve straight away.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/twspvx1511784937.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Single Cream",
+      "measurement": "142ml",
+      "grams": 142,
+      "assumptions": "Standard single cream values; 142ml ≈ 142g assuming density near 1."
+    },
+    {
+      "position": 2,
+      "name": "Caster Sugar",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "Pure caster sugar is 100% sucrose."
+    },
+    {
+      "position": 3,
+      "name": "Dark Chocolate",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Typical dark chocolate (70% cocoa) values; 100g as listed."
+    },
+    {
+      "position": 4,
+      "name": "Butter",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "Standard butter values; 25g as listed."
+    },
+    {
+      "position": 5,
+      "name": "Butter",
+      "measurement": "drizzle",
+      "grams": 10,
+      "assumptions": "'Drizzle' for brushing 6 ramekins plausibly ≈10g total butter used."
+    },
+    {
+      "position": 6,
+      "name": "Caster Sugar",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Pure caster sugar values; 50g as listed for coating."
+    },
+    {
+      "position": 7,
+      "name": "Dark Chocolate",
+      "measurement": "175g",
+      "grams": 175,
+      "assumptions": "Typical dark chocolate (70% cocoa) values; 175g as listed."
+    },
+    {
+      "position": 8,
+      "name": "Double Cream",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Double cream values; 2 tbsp ≈30ml/g assuming density near 1."
+    },
+    {
+      "position": 9,
+      "name": "Egg Yolks",
+      "measurement": "4",
+      "grams": 68,
+      "assumptions": "4 large egg yolks ≈68g total; standard large yolk is ~17g each."
+    },
+    {
+      "position": 10,
+      "name": "Egg White",
+      "measurement": "5",
+      "grams": 200,
+      "assumptions": "5 large egg whites ≈200g total; standard large white is ~40g each."
+    },
+    {
+      "position": 11,
+      "name": "Double Cream",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Double cream values; second 2 tbsp ≈30ml/g assuming density near 1, for sauce."
+    },
+    {
+      "position": 12,
+      "name": "Icing Sugar",
+      "measurement": "to serve",
+      "grams": 10,
+      "assumptions": "'To serve' dusting plausibly ≈10g total icing sugar across 6 soufflés."
+    }
+  ],
+  "nutrition": {
+    "calories": 2882.42,
+    "protein": 49.85,
+    "fat": 192.68,
+    "fiber": 19.25,
+    "carbs": 235.83
+  }
+}

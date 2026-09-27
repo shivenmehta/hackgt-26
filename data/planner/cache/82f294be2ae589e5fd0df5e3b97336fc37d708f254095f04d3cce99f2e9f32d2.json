@@ -1,0 +1,98 @@
+{
+  "id": "53065",
+  "name": "Sushi",
+  "cuisine": "Japanese",
+  "fingerprint": "82f294be2ae589e5fd0df5e3b97336fc37d708f254095f04d3cce99f2e9f32d2",
+  "yield": 4,
+  "minutes": 60,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": null,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical sushi rice quantity (300ml dry yields ~4 adult servings of 6-8 pieces each) and standard BBC Good Food / Japanese home-cooking portioning",
+    "Total time estimated at 60 minutes based on full sushi prep sequence (rice cooking ~20 min not explicitly listed but required by context, seasoning, rolling, pressing, ball forming, and slicing)",
+    "Mayonnaise classified as containing egg (standard for Japanese mayo); no explicit dairy but conservatively screened as possible",
+    "Rice wine treated as mirin (contains alcohol, not vegan-friendly in strict diets)",
+    "Soy sauce and wheat confirmed via standard composition",
+    "Cucumber, sugar, and rice are neutral to all listed diets/allergens",
+    "No explicit tree nuts, peanuts, shellfish, sesame, or milk in listed ingredients or steps",
+    "Pescatarian left null due to mixed fillings (tuna, smoked salmon, prawn mentioned but not all in provided ingredients list)",
+    "Original recipe includes optional tuna, smoked salmon, prawns not present in the supplied ingredients list; classification uses only explicitly listed items"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "STEP 1\r\nTO MAKE SUSHI ROLLS: Pat out some rice. Lay a nori sheet on the mat, shiny-side down. Dip your hands in the vinegared water, then pat handfuls of rice on top in a 1cm thick layer, leaving the furthest edge from you clear.\r\n\r\nSTEP 2\r\nSpread over some Japanese mayonnaise. Use a spoon to spread out a thin layer of mayonnaise down the middle of the rice.\r\n\r\nSTEP 3\r\nAdd the filling. Get your child to top the mayonnaise with a line of their favourite fillings – here we’ve used tuna and cucumber.\r\n\r\nSTEP 4\r\nRoll it up. Lift the edge of the mat over the rice, applying a little pressure to keep everything in a tight roll.\r\n\r\nSTEP 5\r\nStick down the sides like a stamp. When you get to the edge without any rice, brush with a little water and continue to roll into a tight roll.\r\n\r\nSTEP 6\r\nWrap in cling film. Remove the mat and roll tightly in cling film before a grown-up cuts the sushi into thick slices, then unravel the cling film.\r\n\r\nSTEP 7\r\nTO MAKE PRESSED SUSHI: Layer over some smoked salmon. Line a loaf tin with cling film, then place a thin layer of smoked salmon inside on top of the cling film.\r\n\r\nSTEP 8\r\nCover with rice and press down. Press about 3cm of rice over the fish, fold the cling film over and press down as much as you can, using another tin if you have one.\r\n\r\nSTEP 9\r\nTip it out like a sandcastle. Turn block of sushi onto a chopping board. Get a grown-up to cut into fingers, then remove the cling film.\r\n\r\nSTEP 10\r\nTO MAKE SUSHI BALLS: Choose your topping. Get a small square of cling film and place a topping, like half a prawn or a small piece of smoked salmon, on it. Use damp hands to roll walnut-sized balls of rice and place on the topping.\r\n\r\nSTEP 11\r\nMake into tight balls. Bring the corners of the cling film together and tighten into balls by twisting it up, then unwrap and serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sushi Rice",
+      "measurement": "300ml",
+      "grams": 475,
+      "assumptions": "300ml sushi rice converted using typical uncooked short-grain Japanese rice density of ~1.58 g/ml; this is the dry rice amount before cooking as per standard sushi prep in the instructions"
+    },
+    {
+      "position": 2,
+      "name": "Rice wine",
+      "measurement": "100ml",
+      "grams": 104,
+      "assumptions": "100ml rice wine (mirin-style for sushi seasoning) using typical liquid density ~1.04 g/ml; standard sweet rice wine used in sushi recipes"
+    },
+    {
+      "position": 3,
+      "name": "Caster Sugar",
+      "measurement": "2 tbs",
+      "grams": 25,
+      "assumptions": "2 tbs caster sugar using standard 12.5g per tablespoon; pure sucrose estimate"
+    },
+    {
+      "position": 4,
+      "name": "Mayonnaise",
+      "measurement": "3 tbs",
+      "grams": 45,
+      "assumptions": "3 tbs Japanese mayonnaise using standard 15g per tablespoon and typical Japanese mayo nutrition (higher fat than standard mayo)"
+    },
+    {
+      "position": 5,
+      "name": "Rice wine",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tbs rice wine using standard 15ml volume and ~1.0 g/ml density for the sushi sauce component"
+    },
+    {
+      "position": 6,
+      "name": "Soy Sauce",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tbs soy sauce using standard 15ml volume and ~1.0 g/ml density with typical reduced-sodium Japanese-style values"
+    },
+    {
+      "position": 7,
+      "name": "Cucumber",
+      "measurement": "1",
+      "grams": 300,
+      "assumptions": "1 whole medium cucumber (~300g edible portion after trimming ends); used raw in rolls per instructions"
+    }
+  ],
+  "nutrition": {
+    "calories": 1233.71,
+    "protein": 16.38,
+    "fat": 35.55,
+    "fiber": 3.52,
+    "carbs": 197.58
+  }
+}

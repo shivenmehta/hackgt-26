@@ -1,0 +1,139 @@
+{
+  "id": "52827",
+  "name": "Massaman Beef curry",
+  "cuisine": "Thai",
+  "fingerprint": "c93a8abfb7bbcc2c866fcb3e86b8464f524a074788f53d838c019f2e9dc653ab",
+  "yield": 4,
+  "minutes": 150,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": true,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical 600g beef + 450g potatoes + other ingredients for 4 adult main-dish portions, consistent with rice 'to serve' assumption of 75g uncooked per person",
+    "Total time is sum of active prep (roasting peanuts 5 min + chopping 5 min + initial frying ~10 min) plus 2-hour oven braise; excludes separate rice cooking",
+    "Lime leaves and cinnamon stick treated as non-edible aromatics removed before serving",
+    "Massaman curry paste treated as generic commercial Thai paste (may contain shrimp but not confirmed in all brands)",
+    "Jasmine rice cooked separately and not included in curry dish itself",
+    "No barley/rye/wheat ingredients present; gluten-free status left null due to possible trace gluten in commercial curry paste or fish sauce",
+    "No dairy ingredients; dairy-free marked true",
+    "No tree nuts, soy, sesame, eggs, milk, or shellfish explicitly listed; soy left null due to possible presence in some curry pastes or sauces"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat oven to 200C/180C fan/gas 6, then roast the peanuts on a baking tray for 5 mins until golden brown. When cool enough to handle, roughly chop. Reduce oven to 180C/160C fan/gas 4.\r\nHeat 2 tbsp coconut cream in a large casserole dish with a lid. Add the curry paste and fry for 1 min, then stir in the beef and fry until well coated and sealed. Stir in the rest of the coconut with half a can of water, the potatoes, onion, lime leaves, cinnamon, tamarind, sugar, fish sauce and most of the peanuts. Bring to a simmer, then cover and cook for 2 hrs in the oven until the beef is tender.\r\nSprinkle with sliced chilli and the remaining peanuts, then serve straight from the dish with jasmine rice.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Peanuts",
+      "measurement": "85g",
+      "grams": 85,
+      "assumptions": "Roasted peanuts, values for dry roasted unsalted peanuts"
+    },
+    {
+      "position": 2,
+      "name": "Coconut cream",
+      "measurement": "400ml can",
+      "grams": 400,
+      "assumptions": "Full-fat canned coconut cream; entire 400ml can used as per recipe (density ≈1 g/ml)"
+    },
+    {
+      "position": 3,
+      "name": "Massaman curry paste",
+      "measurement": "4 tbsp",
+      "grams": 60,
+      "assumptions": "Typical Thai massaman curry paste; 4 tbsp estimated at 15 g each (common commercial paste density)"
+    },
+    {
+      "position": 4,
+      "name": "Beef",
+      "measurement": "600g stewing cut into strips",
+      "grams": 600,
+      "assumptions": "Raw stewing beef (chuck/shoulder cut), typical values for uncooked beef suitable for slow braising"
+    },
+    {
+      "position": 5,
+      "name": "Potatoes",
+      "measurement": "450g waxy",
+      "grams": 450,
+      "assumptions": "Raw waxy potatoes, peeled weight assumed as typical for curry use"
+    },
+    {
+      "position": 6,
+      "name": "Onion",
+      "measurement": "1 cut thin wedges",
+      "grams": 110,
+      "assumptions": "Medium onion (≈110 g) cut into thin wedges, raw values"
+    },
+    {
+      "position": 7,
+      "name": "Lime",
+      "measurement": "4 leaves",
+      "grams": 2,
+      "assumptions": "4 kaffir lime leaves; negligible edible weight and nutrition contribution when used as aromatic and removed before eating"
+    },
+    {
+      "position": 8,
+      "name": "Cinnamon stick",
+      "measurement": "1",
+      "grams": 3,
+      "assumptions": "1 standard cinnamon stick used as aromatic; negligible edible weight and nutrition contribution when removed before serving"
+    },
+    {
+      "position": 9,
+      "name": "Tamarind paste",
+      "measurement": "1 tbsp",
+      "grams": 15,
+      "assumptions": "Concentrated tamarind paste; 1 tbsp ≈15 g, typical values for culinary tamarind concentrate"
+    },
+    {
+      "position": 10,
+      "name": "Brown sugar",
+      "measurement": "1 tbsp palm or soft light",
+      "grams": 12,
+      "assumptions": "Palm or soft light brown sugar; 1 tbsp ≈12 g, typical values for granulated brown sugar"
+    },
+    {
+      "position": 11,
+      "name": "Fish Sauce",
+      "measurement": "1 tbsp",
+      "grams": 15,
+      "assumptions": "Asian fish sauce; 1 tbsp ≈15 g, typical values for nuoc mam or similar"
+    },
+    {
+      "position": 12,
+      "name": "chilli",
+      "measurement": "1 red deseeded and finely sliced, to serve",
+      "grams": 15,
+      "assumptions": "1 medium red chilli (≈15 g), deseeded and sliced; values for raw red chilli pepper"
+    },
+    {
+      "position": 13,
+      "name": "Jasmine Rice",
+      "measurement": "to serve",
+      "grams": 300,
+      "assumptions": "Jasmine rice 'to serve'; plausible recipe context assumption of 75 g uncooked rice per person for 4 servings (≈300 g total uncooked), standard dry rice values used as rice is cooked separately"
+    }
+  ],
+  "nutrition": {
+    "calories": 4295.15,
+    "protein": 214.39,
+    "fat": 292.65,
+    "fiber": 29.89,
+    "carbs": 233.87
+  }
+}

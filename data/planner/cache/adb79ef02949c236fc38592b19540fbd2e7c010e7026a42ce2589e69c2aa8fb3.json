@@ -1,0 +1,186 @@
+{
+  "id": "52951",
+  "name": "General Tsos Chicken",
+  "cuisine": "Chinese",
+  "fingerprint": "adb79ef02949c236fc38592b19540fbd2e7c010e7026a42ce2589e69c2aa8fb3",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Recipe instructions and listed ingredients indicate a batter for the chicken and a separate sauce; combined they serve a typical family-style Chinese stir-fry dish for 4 people.",
+    "Preparation and cooking steps (sauce mixing, marinating, deep-frying, stir-frying) conservatively total 45 minutes.",
+    "Plain flour classified as wheat-containing; starch assumed to be cornstarch (gluten-free).",
+    "Duck sauce, hoisin (in instructions), soy sauce, and sesame oil introduce ambiguous fish/shellfish potential from fermented ingredients but marked null only where truly unspecified; no explicit fish or shellfish items listed.",
+    "No dairy ingredients present; all other diet flags incompatible due to chicken, egg, wheat, and soy.",
+    "Servings null in source; estimated from standard General Tso's chicken recipes with 1.5 lb chicken."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "DIRECTIONS:\r\nSTEP 1 - SAUCE\r\nIn a bowl, add 2 Cups of water, 2 Tablespoon soy sauce, 2 Tablespoon white vinegar, sherry cooking wine, 1/4 Teaspoon white pepper, minced ginger, minced garlic, hot pepper, ketchup, hoisin sauce, and sugar.\r\nMix together well and set aside.\r\nSTEP 2 - MARINATING THE CHICKEN\r\nIn a bowl, add the chicken, 1 pinch of salt, 1 pinch of white pepper, 2 egg whites, and 3 Tablespoon of corn starch\r\nSTEP 3 - DEEP FRY THE CHICKEN\r\nDeep fry the chicken at 350 degrees for 3-4 minutes or until it is golden brown and loosen up the chicken so that they don't stick together.\r\nSet the chicken aside.\r\nSTEP 4 - STIR FRY\r\nAdd the sauce to the wok and then the broccoli and wait until it is boiling.\r\nTo thicken the sauce, whisk together 2 Tablespoon of cornstarch and 4 Tablespoon of water in a bowl and slowly add to your stir-fry until it's the right thickness.\r\nNext add in the chicken and stir-fry for a minute and serve on a plate",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Breast",
+      "measurement": "1 1/2",
+      "grams": 680,
+      "assumptions": "1.5 lb raw boneless skinless chicken breast; standard density ~454g per lb; all edible."
+    },
+    {
+      "position": 2,
+      "name": "Plain Flour",
+      "measurement": "3/4 cup",
+      "grams": 94,
+      "assumptions": "3/4 cup all-purpose flour; standard 125g per cup."
+    },
+    {
+      "position": 3,
+      "name": "Egg",
+      "measurement": "1",
+      "grams": 50,
+      "assumptions": "1 large whole egg ~50g edible portion."
+    },
+    {
+      "position": 4,
+      "name": "Starch",
+      "measurement": "2 tbs",
+      "grams": 16,
+      "assumptions": "2 tbs cornstarch."
+    },
+    {
+      "position": 5,
+      "name": "Baking Powder",
+      "measurement": "1 tbs",
+      "grams": 14,
+      "assumptions": "1 tbs baking powder; standard 14g per tbs."
+    },
+    {
+      "position": 6,
+      "name": "Salt",
+      "measurement": "1 tsp",
+      "grams": 6,
+      "assumptions": "1 tsp table salt; negligible macros."
+    },
+    {
+      "position": 7,
+      "name": "Onion Salt",
+      "measurement": "1/2 tsp",
+      "grams": 3,
+      "assumptions": "1/2 tsp onion salt; negligible macros."
+    },
+    {
+      "position": 8,
+      "name": "Garlic Powder",
+      "measurement": "1/4 tsp",
+      "grams": 1,
+      "assumptions": "1/4 tsp garlic powder; negligible macros."
+    },
+    {
+      "position": 9,
+      "name": "Water",
+      "measurement": "3/4 cup",
+      "grams": 178,
+      "assumptions": "3/4 cup water; standard 237g per cup."
+    },
+    {
+      "position": 10,
+      "name": "Chicken Stock",
+      "measurement": "1/2 cup",
+      "grams": 120,
+      "assumptions": "1/2 cup chicken stock/broth; typical canned or homemade values."
+    },
+    {
+      "position": 11,
+      "name": "Duck Sauce",
+      "measurement": "1/4 cup",
+      "grams": 80,
+      "assumptions": "1/4 cup duck sauce/plum sauce; typical commercial values."
+    },
+    {
+      "position": 12,
+      "name": "Soy Sauce",
+      "measurement": "3 tbs",
+      "grams": 45,
+      "assumptions": "3 tbs regular soy sauce; standard 15g per tbs."
+    },
+    {
+      "position": 13,
+      "name": "Honey",
+      "measurement": "2 tbs",
+      "grams": 42,
+      "assumptions": "2 tbs honey; standard 21g per tbs."
+    },
+    {
+      "position": 14,
+      "name": "Rice Vinegar",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tbs rice vinegar."
+    },
+    {
+      "position": 15,
+      "name": "Sesame Seed Oil",
+      "measurement": "2 tbs",
+      "grams": 28,
+      "assumptions": "2 tbs toasted sesame oil; standard 14g per tbs."
+    },
+    {
+      "position": 16,
+      "name": "Gochujang",
+      "measurement": "1/2 tbs",
+      "grams": 11,
+      "assumptions": "1/2 tbs gochujang paste; typical Korean chili paste density."
+    },
+    {
+      "position": 17,
+      "name": "Starch",
+      "measurement": "2 tbs",
+      "grams": 16,
+      "assumptions": "2 tbs cornstarch for slurry."
+    },
+    {
+      "position": 18,
+      "name": "Garlic",
+      "measurement": "1 clove",
+      "grams": 3,
+      "assumptions": "1 medium garlic clove, minced."
+    },
+    {
+      "position": 19,
+      "name": "Spring Onions",
+      "measurement": "2 chopped",
+      "grams": 30,
+      "assumptions": "2 spring onions/scallions, chopped; ~15g each."
+    },
+    {
+      "position": 20,
+      "name": "Ginger",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 tsp fresh grated ginger root."
+    }
+  ],
+  "nutrition": {
+    "calories": 2306.07,
+    "protein": 233.67,
+    "fat": 59.54,
+    "fiber": 4.3,
+    "carbs": 195.77
+  }
+}

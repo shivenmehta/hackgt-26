@@ -1,0 +1,125 @@
+{
+  "id": "52975",
+  "name": "Tuna and Egg Briks",
+  "cuisine": "Tunisian",
+  "fingerprint": "f67d78d160ca9bbf3344603bd53ee448bd5403adf1fc162fa64f96dee547e95e",
+  "yield": 8,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": null,
+    "Eggs": true,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe makes 8 briks as explicitly stated in the instructions (one heaped tbsp filling per brik, repeated to make 8 in all).",
+    "Preparation and cooking time summed from instructions: ~10 min for spring onions/spinach, ~5 min cooling/drain, ~5 min assembly of 8 briks, 12-15 min bake; total conservatively 35 min.",
+    "Filo pastry contains wheat (standard composition).",
+    "Tuna is a fish; eggs are eggs; no milk, shellfish, tree nuts, peanuts, soy, or sesame listed.",
+    "Spinach, tomatoes, cucumber, lemon juice, olive oil, spring onions, hot sauce, and apricot jam introduce no listed allergens.",
+    "No dairy ingredients present (apricot jam is fruit-based).",
+    "Not vegetarian (tuna) or vegan (tuna and eggs).",
+    "Pescatarian compatible with all ingredients."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat 2 tsp of the oil in a large saucepan and cook the spring onions over a low heat for 3 minutes or until beginning to soften. Add the spinach, cover with a tight-fitting lid and cook for a further 2–3 minutes or until tender and wilted, stirring once or twice. Tip the mixture into a sieve or colander and leave to drain and cool.\r\nUsing a saucer as a guide, cut out 24 rounds about 12.5 cm (5 in) in diameter from the filo pastry, cutting 6 rounds from each sheet. Stack the filo rounds in a pile, then cover with cling film to prevent them from drying out.\r\nWhen the spinach mixture is cool, squeeze out as much excess liquid as possible, then transfer to a bowl. Add the tuna, eggs, hot pepper sauce, and salt and pepper to taste. Mix well.\r\nPreheat the oven to 200°C (400°F, gas mark 6). Take one filo round and very lightly brush with some of the remaining oil. Top with a second round and brush with a little oil, then place a third round on top and brush with oil.\r\nPlace a heaped tbsp of the filling in the middle of the round, then fold the pastry over to make a half-moon shape. Fold in the edges, twisting them to seal, and place on a non-stick baking sheet. Repeat with the remaining pastry and filling to make 8 briks in all.\r\nLightly brush the briks with the remaining oil. Bake for 12–15 minutes or until the pastry is crisp and golden brown.\r\nMeanwhile, combine the tomatoes and cucumber in a bowl and sprinkle with the lemon juice and seasoning to taste. Serve the briks hot with this salad and the chutney.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Olive Oil",
+      "measurement": "2 tbs",
+      "grams": 27,
+      "assumptions": "2 tbs olive oil (standard 14g per tbsp, total 28g rounded; used for cooking and brushing, typical extra virgin olive oil values"
+    },
+    {
+      "position": 2,
+      "name": "Spring Onions",
+      "measurement": "8",
+      "grams": 120,
+      "assumptions": "8 spring onions, average 15g each trimmed (typical bunch portion used in recipes)"
+    },
+    {
+      "position": 3,
+      "name": "Spinach",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "200g fresh spinach as listed, raw values (wilted and drained in recipe, but base nutrition on supplied weight)"
+    },
+    {
+      "position": 4,
+      "name": "Filo Pastry",
+      "measurement": "4",
+      "grams": 280,
+      "assumptions": "4 standard sheets filo pastry (~70g per full sheet, total 280g; recipe uses 24 rounds cut from them, entire sheets included)"
+    },
+    {
+      "position": 5,
+      "name": "Tuna",
+      "measurement": "1 can",
+      "grams": 140,
+      "assumptions": "1 standard can tuna in water/brine (drained weight ~140g typical for 185g can; recipe context implies drained tuna)"
+    },
+    {
+      "position": 6,
+      "name": "Eggs",
+      "measurement": "2",
+      "grams": 100,
+      "assumptions": "2 large eggs (~50g each without shell, typical large egg edible portion)"
+    },
+    {
+      "position": 7,
+      "name": "Hotsauce",
+      "measurement": "Dash",
+      "grams": 5,
+      "assumptions": "Dash of hot pepper sauce (plausible small recipe amount ~5g; negligible macros)"
+    },
+    {
+      "position": 8,
+      "name": "Tomatoes",
+      "measurement": "4 Chopped",
+      "grams": 500,
+      "assumptions": "4 medium tomatoes chopped (~125g each, typical medium tomato weight)"
+    },
+    {
+      "position": 9,
+      "name": "Cucumber",
+      "measurement": "1/4",
+      "grams": 75,
+      "assumptions": "1/4 large cucumber (~300g whole typical, so 75g portion)"
+    },
+    {
+      "position": 10,
+      "name": "Lemon Juice",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tbs lemon juice (standard 15g volume, typical fresh lemon juice values)"
+    },
+    {
+      "position": 11,
+      "name": "Apricot Jam",
+      "measurement": "4 tbs",
+      "grams": 80,
+      "assumptions": "4 tbs apricot jam (standard 20g per tbsp, total 80g; typical fruit jam values)"
+    }
+  ],
+  "nutrition": {
+    "calories": 1777.63,
+    "protein": 83.01,
+    "fat": 43.42,
+    "fiber": 20.58,
+    "carbs": 249.06
+  }
+}

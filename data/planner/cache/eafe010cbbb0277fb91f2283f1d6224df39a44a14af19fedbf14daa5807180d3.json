@@ -1,0 +1,152 @@
+{
+  "id": "52904",
+  "name": "Beef Bourguignon",
+  "cuisine": "French",
+  "fingerprint": "eafe010cbbb0277fb91f2283f1d6224df39a44a14af19fedbf14daa5807180d3",
+  "yield": 4,
+  "minutes": 240,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical Beef Bourguignon recipes using ~600g beef plus vegetables and sides, serving 4 adults as a main course",
+    "Total time aggregates active prep/frying (~30 min), oven braising (3 hrs), and celeriac mash (~35 min), rounded to nearest 10 min; sequential not parallel timing",
+    "Goose fat classified as animal-derived but not dairy (no milk solids); no wheat, gluten, or common allergens present",
+    "Bouquet garni, thyme, rosemary, bay, and cardamom treated as herbs/spices with no allergen contribution",
+    "All ingredients screened directly; no compound sauces, stocks, or uncertified items that would introduce gluten, dairy, or other allergens",
+    "Gluten-free confirmed: no barley, rye, wheat, or oats; recipe relies on wine, vegetables, and meats only",
+    "Dairy-free confirmed: no milk, cheese, butter, or cream; goose fat and olive oil are distinct fats"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Heat a large casserole pan and add 1 tbsp goose fat. Season the beef and fry until golden brown, about 3-5 mins, then turn over and fry the other side until the meat is browned all over, adding more fat if necessary. Do this in 2-3 batches, transferring the meat to a colander set over a bowl when browned.\r\nIn the same pan, fry the bacon, shallots or pearl onions, mushrooms, garlic and bouquet garni until lightly browned. Mix in the tomato purée and cook for a few mins, stirring into the mixture. This enriches the bourguignon and makes a great base for the stew. Then return the beef and any drained juices to the pan and stir through.\r\nPour over the wine and about 100ml water so the meat bobs up from the liquid, but isn’t completely covered. Bring to the boil and use a spoon to scrape the caramelised cooking juices from the bottom of the pan – this will give the stew more flavour.\r\nHeat oven to 150C/fan 130C/gas 2. Make a cartouche: tear off a square of foil slightly larger than the casserole, arrange it in the pan so it covers the top of the stew and trim away any excess foil. Then cook for 3 hrs. If the sauce looks watery, remove the beef and veg with a slotted spoon, and set aside. Cook the sauce over a high heat for a few mins until the sauce has thickened a little, then return the beef and vegetables to the pan.\r\nTo make the celeriac mash, peel the celeriac and cut into cubes. Heat the olive oil in a large frying pan. Tip in the celeriac and fry for 5 mins until it turns golden. Season well with salt and pepper. Stir in the rosemary, thyme, bay and cardamom pods, then pour over 200ml water, enough to nearly cover the celeriac. Turn the heat to low, partially cover the pan and leave to simmer for 25-30 mins.\r\nAfter 25-30 mins, the celeriac should be soft and most of the water will have evaporated. Drain away any remaining water, then remove the herb sprigs, bay and cardamom pods. Lightly crush with a potato masher, then finish with a glug of olive oil and season to taste. Spoon the beef bourguignon into serving bowls and place a large spoonful of the celeriac mash on top. Garnish with one of the bay leaves, if you like.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Goose Fat",
+      "measurement": "3 tsp",
+      "grams": 14,
+      "assumptions": "3 tsp goose fat estimated at ~14g total (typical density ~0.9g/ml for fats; used as frying medium with minimal absorption assumed in total recipe estimate)"
+    },
+    {
+      "position": 2,
+      "name": "Beef Shin",
+      "measurement": "600g",
+      "grams": 600,
+      "assumptions": "Beef shin is a leaner cut; values reflect typical raw, trimmed beef shin/leg meat nutrition"
+    },
+    {
+      "position": 3,
+      "name": "Bacon",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Standard pork bacon, raw weight; typical values for unsmoked or lightly cured streaky/pancetta-style used in French recipes"
+    },
+    {
+      "position": 4,
+      "name": "Challots",
+      "measurement": "350g",
+      "grams": 350,
+      "assumptions": "Shallots or pearl onions treated as standard shallots; raw weight, peeled edible portion (skin ~10% deducted implicitly in estimate)"
+    },
+    {
+      "position": 5,
+      "name": "Chestnut Mushroom",
+      "measurement": "250g",
+      "grams": 250,
+      "assumptions": "Chestnut mushrooms, raw whole weight; typical fresh mushroom values, stems included as edible"
+    },
+    {
+      "position": 6,
+      "name": "Garlic Clove",
+      "measurement": "2 sliced",
+      "grams": 6,
+      "assumptions": "2 garlic cloves estimated at ~6g total; standard peeled clove size ~3g each, raw"
+    },
+    {
+      "position": 7,
+      "name": "Bouquet Garni",
+      "measurement": "1",
+      "grams": 5,
+      "assumptions": "Bouquet garni (herb bundle) estimated at ~5g total dry/herb weight; typical parsley/thyme/bay mix with negligible contribution but plausible values assigned"
+    },
+    {
+      "position": 8,
+      "name": "Tomato Puree",
+      "measurement": "1 tbs",
+      "grams": 16,
+      "assumptions": "1 tbs tomato puree/paste estimated at ~16g; standard tablespoon weight, concentrated values"
+    },
+    {
+      "position": 9,
+      "name": "Red Wine",
+      "measurement": "750 ml",
+      "grams": 750,
+      "assumptions": "750ml red wine (density ~1g/ml); typical dry red wine nutrition, alcohol contributes to calories"
+    },
+    {
+      "position": 10,
+      "name": "Celeriac",
+      "measurement": "600g",
+      "grams": 600,
+      "assumptions": "Celeriac root, raw peeled weight; typical root vegetable values, edible portion after peeling (~20% skin loss implicit)"
+    },
+    {
+      "position": 11,
+      "name": "Olive Oil",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "2 tbs olive oil estimated at ~30g total (standard 15g/tbs); used in celeriac mash with minimal loss"
+    },
+    {
+      "position": 12,
+      "name": "Thyme",
+      "measurement": "sprigs of fresh",
+      "grams": 5,
+      "assumptions": "Fresh thyme sprigs estimated at ~5g total leaves/stems; typical fresh herb bundle weight, used in mash"
+    },
+    {
+      "position": 13,
+      "name": "Rosemary",
+      "measurement": "sprigs of fresh",
+      "grams": 5,
+      "assumptions": "Fresh rosemary sprigs estimated at ~5g total leaves/stems; typical fresh herb bundle weight, used in mash"
+    },
+    {
+      "position": 14,
+      "name": "Bay Leaf",
+      "measurement": "2",
+      "grams": 2,
+      "assumptions": "2 bay leaves estimated at ~2g total; dry or fresh leaf weight, used in mash and garnish"
+    },
+    {
+      "position": 15,
+      "name": "Cardamom",
+      "measurement": "4",
+      "grams": 8,
+      "assumptions": "4 cardamom pods estimated at ~8g total; typical whole pod weight, used in mash then removed (minimal edible impact but values assigned)"
+    }
+  ],
+  "nutrition": {
+    "calories": 3144.3,
+    "protein": 162.45,
+    "fat": 143.81,
+    "fiber": 44.85,
+    "carbs": 146.85
+  }
+}

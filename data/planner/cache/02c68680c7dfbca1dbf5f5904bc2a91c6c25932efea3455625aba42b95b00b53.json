@@ -1,0 +1,103 @@
+{
+  "id": "53363",
+  "name": "Jamaican Cornmeal Porridge",
+  "cuisine": "Jamaican",
+  "fingerprint": "02c68680c7dfbca1dbf5f5904bc2a91c6c25932efea3455625aba42b95b00b53",
+  "yield": 4,
+  "minutes": 30,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical porridge recipes using ~1 cup cornmeal as base (serves 4); instructions imply 4 QT pot for multiple servings",
+    "Total time is sum of active prep (~5 min), boiling, 15-20 min cook, and final stirring; rounded to 30 min",
+    "Coconut milk classified as non-dairy but ambiguous for tree nuts (coconut allergy cross-classification varies); conservatively null",
+    "No explicit wheat, barley, rye, or oats; cornmeal is gluten-free",
+    "Sweetened condensed milk confirms dairy and milk allergen",
+    "No eggs, fish, shellfish, peanuts, soy, or sesame in listed ingredients",
+    "Vegetarian confirmed (includes dairy); vegan false due to condensed milk"
+  ],
+  "categories": ["breakfast"],
+  "instructions": "Add 2 ½ cups water, 1 can coconut milk to a 4 QT heavy bottomed pot. Bring to a boil over medium-high heat.\r\nMeanwhile, add 1 cup cornmeal and 1 ½ cup water to a large mixing cup and whisk until smooth.\r\nOnce the pot begins to boil, whisk in cornmeal mixture and continue to whisk for about 1 minute, ensuring there are no lumps. Reduce heat to low and cover with a tight fitting lid.\r\nCook over low heat for 15-20 minutes, stirring occasionally. When there is about 5 minutes left, stir in vanilla extract, cinnamon, nutmeg, and all-spice. Remove from heat and sweeten with condensed milk.\r\nServe and enjoy.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/sng9bm1765320170.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Water",
+      "measurement": "4 cups",
+      "grams": 946,
+      "assumptions": "4 cups water = 946 g; plain water contributes no macros"
+    },
+    {
+      "position": 2,
+      "name": "Coconut Milk",
+      "measurement": "380g",
+      "grams": 380,
+      "assumptions": "Canned full-fat coconut milk; typical values for 380 g can drained weight"
+    },
+    {
+      "position": 3,
+      "name": "Fine Yellow Cornmeal",
+      "measurement": "1 cup",
+      "grams": 240,
+      "assumptions": "1 cup fine yellow cornmeal ≈ 240 g dry weight; standard uncooked cornmeal nutrition"
+    },
+    {
+      "position": 4,
+      "name": "Vanilla Extract",
+      "measurement": "1 1/2 tsp",
+      "grams": 8,
+      "assumptions": "1.5 tsp vanilla extract ≈ 8 g; typical alcohol-based extract"
+    },
+    {
+      "position": 5,
+      "name": "Ground Cinnamon",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "0.5 tsp ground cinnamon ≈ 1 g; typical spice nutrition"
+    },
+    {
+      "position": 6,
+      "name": "Ground Nutmeg",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "0.5 tsp ground nutmeg ≈ 1 g; typical spice nutrition"
+    },
+    {
+      "position": 7,
+      "name": "Ground Allspice",
+      "measurement": "1/4 tsp",
+      "grams": 0.5,
+      "assumptions": "0.25 tsp ground allspice ≈ 0.5 g; typical spice nutrition"
+    },
+    {
+      "position": 8,
+      "name": "Sweetened Condensed Milk",
+      "measurement": "1/2 cup",
+      "grams": 154,
+      "assumptions": "1/2 cup sweetened condensed milk ≈ 154 g (standard 14-oz can is ~300 g for 1 cup); typical sweetened values"
+    }
+  ],
+  "nutrition": {
+    "calories": 2163.02,
+    "protein": 39.72,
+    "fat": 103.41,
+    "fiber": 18.34,
+    "carbs": 286.23
+  }
+}

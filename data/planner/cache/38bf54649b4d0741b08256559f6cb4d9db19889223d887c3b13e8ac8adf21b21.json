@@ -1,0 +1,123 @@
+{
+  "id": "53193",
+  "name": "Drunken noodles (pad kee mao)",
+  "cuisine": "Thai",
+  "fingerprint": "38bf54649b4d0741b08256559f6cb4d9db19889223d887c3b13e8ac8adf21b21",
+  "yield": 2,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": true,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 2 adults as a main dish based on 225g steak + 200g noodles + vegetables for a stir-fry meal.",
+    "Preparation time estimated from instructions: ~5 min sauce/noodles prep + ~4-5 min active stir-frying = 10-15 min total; rounded up conservatively to 15 min including chopping.",
+    "Oyster sauce classified as containing shellfish (oysters).",
+    "Soy sauce and wheat-based flat rice noodles treated as containing wheat (not certified gluten-free).",
+    "Basil assumed to be Thai holy basil but nutrition uses standard fresh basil values; does not affect classification.",
+    "All gram weights and assumptions from provided data used directly; no additional ingredients inferred."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nPrepare the noodles following pack instructions, then drain and set aside. Combine all the ingredients for the sauce in a small bowl or jug, and set aside.\r\n\r\nstep 2\r\nHeat the oil in a large wok or frying pan over a high heat and stir-fry the garlic and chilli for 20 seconds until just starting to turn golden. Add the steak and stir-fry for 1 minute until seared and starting to brown. Add the broccoli and stir-fry for another minute, then tip in the noodles and add the sauce. Stir-fry for another 1-2 mins until well combined and piping hot.\r\n\r\nstep 3\r\nStir through the basil and turn off the heat. Serve immediately to avoid overcooking.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/2wx8cm1763373419.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Flat Rice Noodles",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "Dry flat rice noodles (pad thai style); typical package nutrition before boiling, as recipe directs to prepare per pack then drain."
+    },
+    {
+      "position": 2,
+      "name": "Vegetable Oil",
+      "measurement": "2 tblsp",
+      "grams": 30,
+      "assumptions": "2 tablespoons vegetable oil (standard 15 ml per tbsp, density ~0.92 g/ml)."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "3 cloves Chopped",
+      "grams": 9,
+      "assumptions": "3 average garlic cloves, chopped (≈3 g each); standard raw garlic values."
+    },
+    {
+      "position": 4,
+      "name": "Birds-eye Chillies",
+      "measurement": "3 chopped",
+      "grams": 15,
+      "assumptions": "3 birds-eye chillies (≈5 g each whole); typical fresh red chilli nutrition, chopped."
+    },
+    {
+      "position": 5,
+      "name": "Sirloin steak",
+      "measurement": "225g",
+      "grams": 225,
+      "assumptions": "Raw sirloin steak, trimmed; standard lean beef sirloin values for stir-fry."
+    },
+    {
+      "position": 6,
+      "name": "Broccoli",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Fresh broccoli florets, raw weight as added to stir-fry."
+    },
+    {
+      "position": 7,
+      "name": "Basil Leaves",
+      "measurement": "Handful",
+      "grams": 20,
+      "assumptions": "A generous handful of Thai holy basil leaves (≈20 g); typical fresh basil leaves."
+    },
+    {
+      "position": 8,
+      "name": "Soy Sauce",
+      "measurement": "4 tbsp",
+      "grams": 60,
+      "assumptions": "4 tablespoons regular soy sauce (15 ml each, density ≈1 g/ml); standard sodium-reduced not assumed."
+    },
+    {
+      "position": 9,
+      "name": "Oyster Sauce",
+      "measurement": "4 tbsp",
+      "grams": 60,
+      "assumptions": "4 tablespoons oyster sauce (15 ml each); typical bottled values."
+    },
+    {
+      "position": 10,
+      "name": "Fish Sauce",
+      "measurement": "1 teaspoon",
+      "grams": 5,
+      "assumptions": "1 teaspoon fish sauce (≈5 g); standard Southeast Asian fish sauce."
+    },
+    {
+      "position": 11,
+      "name": "Sugar",
+      "measurement": "1 tblsp",
+      "grams": 12,
+      "assumptions": "1 tablespoon white sugar (12 g); standard granulated sugar."
+    }
+  ],
+  "nutrition": {
+    "calories": 1526.65,
+    "protein": 86.09,
+    "fat": 50.86,
+    "fiber": 8.23,
+    "carbs": 185.32
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "53351",
+  "name": "Jamaican Banana Fritters",
+  "cuisine": "Jamaican",
+  "fingerprint": "a768c913142aff8e743c71f8840d207ae5ca5112c849731d50e9e17a0e918c1c",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical banana fritter recipes using 3 bananas and 1 cup flour, producing about 8-12 small fritters for 4 servings",
+    "Preparation time estimated from instructions: mashing/mixing ~5 min, frying in batches ~10-15 min, total ~20 min",
+    "All-purpose flour contains wheat",
+    "Oil type unspecified so Soy classified null",
+    "No dairy, eggs, fish, shellfish, tree nuts, peanuts, or sesame listed",
+    "Salt, spices, vanilla, sugar, bananas, and oil are plant-based and compatible with listed diets",
+    "'For frying' oil conservatively classified as absorbed amount only; no brand-specific allergens assumed"
+  ],
+  "categories": [],
+  "instructions": "Mash bananas with fork in bowl.\r\nAdd brown sugar, vanilla, extract, cinnamon, nutmeg and a pinch of salt. Sift in flour and stir with spoon until fully combined.\r\nAdd oil to a 10 inch skillet over medium-high heat. Once oil is hot, drop banana fritter batter in oil by the spoonful. Once one side is golden and bubbles appear on the top, flip fritter and cook until the other side is browned as well.\r\nRemove fritters and drain on paper towels. Enjoy",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/ul2uy31764794321.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Banana",
+      "measurement": "3 Medium",
+      "grams": 300,
+      "assumptions": "3 medium bananas ≈ 300g edible peeled weight; standard raw banana values"
+    },
+    {
+      "position": 2,
+      "name": "Vanilla Extract",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp vanilla extract ≈ 5g; typical values for pure vanilla extract"
+    },
+    {
+      "position": 3,
+      "name": "Cinnamon",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "½ tsp ground cinnamon ≈ 1g; standard ground cinnamon values"
+    },
+    {
+      "position": 4,
+      "name": "Nutmeg",
+      "measurement": "1/4 tsp",
+      "grams": 0.5,
+      "assumptions": "¼ tsp ground nutmeg ≈ 0.5g; standard ground nutmeg values"
+    },
+    {
+      "position": 5,
+      "name": "Brown Sugar",
+      "measurement": "3  tablespoons",
+      "grams": 38,
+      "assumptions": "3 tablespoons packed brown sugar ≈ 38g; standard brown sugar values"
+    },
+    {
+      "position": 6,
+      "name": "Salt",
+      "measurement": "Pinch",
+      "grams": 0.3,
+      "assumptions": "Pinch of salt ≈ 0.3g; negligible macros, treated as 0"
+    },
+    {
+      "position": 7,
+      "name": "All purpose flour",
+      "measurement": "1 cup",
+      "grams": 125,
+      "assumptions": "1 cup all-purpose flour ≈ 125g; standard AP flour values"
+    },
+    {
+      "position": 8,
+      "name": "Oil",
+      "measurement": "For frying",
+      "grams": 25,
+      "assumptions": "Oil for frying (10-inch skillet, shallow fry) estimated at 25g absorbed/retained across batch; typical neutral frying oil values"
+    }
+  ],
+  "nutrition": {
+    "calories": 1106.9,
+    "protein": 15.91,
+    "fat": 27.34,
+    "fiber": 11.81,
+    "carbs": 202.95
+  }
+}

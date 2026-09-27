@@ -1,0 +1,110 @@
+{
+  "id": "52851",
+  "name": "Nutty Chicken Curry",
+  "cuisine": "Indian",
+  "fingerprint": "6a7076b7cbbba7b82b22020103c112a0cff7eaad75f18f39a0be64719cbcf3fa",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": true,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical 4 chicken breasts + sauce volume for 4 adult portions",
+    "Total time is sum of active prep (~5-7 min) and cook steps (1+1+10 min) rounded to nearest 5; excludes rice/sweet potato",
+    "Peanut butter classified as containing peanuts (true) and conservatively as possible tree-nut cross-contact (null)",
+    "Greek yogurt classified as containing milk (true); unspecified if it contains live cultures or additives",
+    "Chicken stock assumed to be a prepared liquid with no wheat/soy (null for those allergens)",
+    "No wheat, barley, rye or oats listed so Gluten-free = true",
+    "Coriander, chilli, ginger, garlic, oil are plant-based and compatible with all listed diets where not blocked by other ingredients"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Finely slice a quarter of the chilli, then put the rest in a food processor with the ginger, garlic, coriander stalks and one-third of the leaves. Whizz to a rough paste with a splash of water if needed.\r\nHeat the oil in a frying pan, then quickly brown the chicken chunks for 1 min. Stir in the paste for another min, then add the peanut butter, stock and yogurt. When the sauce is gently bubbling, cook for 10 mins until the chicken is just cooked through and sauce thickened. Stir in most of the remaining coriander, then scatter the rest on top with the chilli, if using. Eat with rice or mashed sweet potato.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Red Chilli",
+      "measurement": "1 large",
+      "grams": 45,
+      "assumptions": "1 large red chili ≈45g whole; edible portion after trimming stem."
+    },
+    {
+      "position": 2,
+      "name": "Ginger",
+      "measurement": "0.5",
+      "grams": 15,
+      "assumptions": "0.5 inch / 15g fresh ginger root, peeled weight."
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "1 large",
+      "grams": 6,
+      "assumptions": "1 large garlic clove ≈6g, peeled."
+    },
+    {
+      "position": 4,
+      "name": "Coriander",
+      "measurement": "Bunch",
+      "grams": 25,
+      "assumptions": "Bunch of fresh coriander ≈25g usable leaves and stalks combined (typical small bunch trimmed)."
+    },
+    {
+      "position": 5,
+      "name": "Sunflower Oil",
+      "measurement": "1 tbsp",
+      "grams": 14,
+      "assumptions": "1 tbsp sunflower oil = 14g (standard volume-to-weight conversion)."
+    },
+    {
+      "position": 6,
+      "name": "Chicken Breasts",
+      "measurement": "4",
+      "grams": 600,
+      "assumptions": "4 typical skinless chicken breasts, raw edible weight ≈600g total (150g each)."
+    },
+    {
+      "position": 7,
+      "name": "Peanut Butter",
+      "measurement": "5 tblsp",
+      "grams": 80,
+      "assumptions": "5 tbsp smooth peanut butter ≈80g (16g per tbsp)."
+    },
+    {
+      "position": 8,
+      "name": "Chicken Stock",
+      "measurement": "150ml",
+      "grams": 150,
+      "assumptions": "150ml chicken stock (typical low-fat prepared stock density ≈1g/ml)."
+    },
+    {
+      "position": 9,
+      "name": "Greek Yogurt",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "200g full-fat Greek yogurt as given (standard nutritional profile)."
+    }
+  ],
+  "nutrition": {
+    "calories": 1833.35,
+    "protein": 227.46,
+    "fat": 86.55,
+    "fiber": 6.6,
+    "carbs": 34.26
+  }
+}

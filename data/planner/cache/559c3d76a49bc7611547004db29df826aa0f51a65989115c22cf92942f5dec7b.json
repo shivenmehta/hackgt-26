@@ -1,0 +1,131 @@
+{
+  "id": "53359",
+  "name": "Beef Mandi",
+  "cuisine": "Indian",
+  "fingerprint": "559c3d76a49bc7611547004db29df826aa0f51a65989115c22cf92942f5dec7b",
+  "yield": 6,
+  "minutes": 150,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 1 kg rice (standard ~150-170 g uncooked per serving for main dish) plus 1 kg+ beef implied by stock and simmering steps, for 6 adult portions.",
+    "Total time sums active prep (~30 min) + beef simmer (90-120 min) + rice cook/steam (~20-30 min); uses upper end of range given in instructions.",
+    "Beef not explicitly listed in ingredients but required by instructions, dietary notes, and name; treated as present for classification.",
+    "Oil treated as neutral vegetable oil (no dairy, no specific allergen).",
+    "No barley/rye/wheat/oats listed or implied, supporting gluten-free.",
+    "No milk/cream/butter in base recipe (optional butter in smoky step treated as non-mandatory).",
+    "Soy ambiguous: could be in 'oil' if blended or in stock if commercial; conservatively null."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "1. Wash the beef and cut into large pieces. Season lightly with salt and turmeric.\r\n2. Heat ghee/oil in a large pot. Add sliced onions and sauté until light golden.\r\n3. Add garlic, green chilies, and tomato; cook until softened.\r\n4. Add the mandi spice mix: coriander, cumin, black pepper, cinnamon, cardamom, cloves, and bay leaves.\r\n5. Add beef pieces and stir on medium heat until the meat is well coated with spices.\r\n6. Pour in water or beef stock. Cover and simmer until beef is tender (about 1.5–2 hours depending on cut).\r\n7. Remove beef carefully and set aside. Strain and measure the broth.\r\n8. Add washed, soaked basmati rice to the broth (usually 1 cup rice = 1.5–2 cups liquid). Adjust seasoning and bring to a boil.\r\n9. Lower heat, cover, and cook the rice until fluffy.\r\n10. Place the beef pieces over the rice and steam on low heat for 10 minutes so flavors combine.\r\n11. Optional: For smoky flavor, place a small hot charcoal on foil in the pot, add 1 tsp butter/oil, immediately cover for 5 minutes. Remove coal before serving.\r\n12. Fluff rice and serve beef mandi with salad or chutney.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1nalo51765188375.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Basmati Rice",
+      "measurement": "1 kg",
+      "grams": 1000,
+      "assumptions": "Standard dry basmati rice values; 1 kg as listed, uncooked weight used in recipe."
+    },
+    {
+      "position": 2,
+      "name": "Beef Stock",
+      "measurement": "5 Cups",
+      "grams": 1200,
+      "assumptions": "Beef stock assumed similar to typical broth; 5 cups ≈ 1.2 L / 1200 g, low calorie."
+    },
+    {
+      "position": 3,
+      "name": "Onion",
+      "measurement": "2 medium",
+      "grams": 220,
+      "assumptions": "2 medium onions ≈ 220 g total; typical yellow onion, raw values."
+    },
+    {
+      "position": 4,
+      "name": "Garlic",
+      "measurement": "5 chopped cloves",
+      "grams": 15,
+      "assumptions": "5 chopped garlic cloves ≈ 15 g total; standard garlic bulb cloves."
+    },
+    {
+      "position": 5,
+      "name": "Green Chilli",
+      "measurement": "2",
+      "grams": 30,
+      "assumptions": "2 green chilies ≈ 30 g total; typical fresh mild green chili peppers."
+    },
+    {
+      "position": 6,
+      "name": "Tomato",
+      "measurement": "1 small",
+      "grams": 100,
+      "assumptions": "1 small tomato ≈ 100 g; standard raw tomato values."
+    },
+    {
+      "position": 7,
+      "name": "Salt",
+      "measurement": "2 1/2 Tsp",
+      "grams": 15,
+      "assumptions": "2.5 tsp table salt ≈ 15 g; sodium contributes 0 kcal/macros."
+    },
+    {
+      "position": 8,
+      "name": "Oil",
+      "measurement": "3  tablespoons",
+      "grams": 42,
+      "assumptions": "3 tablespoons neutral cooking oil ≈ 42 g (14 g per tbsp); typical vegetable oil."
+    },
+    {
+      "position": 9,
+      "name": "Turmeric Powder",
+      "measurement": "1 ½ tsp",
+      "grams": 4,
+      "assumptions": "1.5 tsp turmeric powder ≈ 4 g; standard ground turmeric."
+    },
+    {
+      "position": 10,
+      "name": "Cardamom",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "0.5 tsp ground cardamom ≈ 1 g; typical spice values, small quantity."
+    },
+    {
+      "position": 11,
+      "name": "Cloves",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "0.5 tsp ground cloves ≈ 1 g; typical spice values, small quantity."
+    },
+    {
+      "position": 12,
+      "name": "Bay Leaf",
+      "measurement": "1/2 tsp",
+      "grams": 0.5,
+      "assumptions": "0.5 tsp crushed bay leaf ≈ 0.5 g; negligible macros due to tiny amount."
+    }
+  ],
+  "nutrition": {
+    "calories": 4113.96,
+    "protein": 86.25,
+    "fat": 55.41,
+    "fiber": 19.19,
+    "carbs": 822.02
+  }
+}

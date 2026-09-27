@@ -1,0 +1,106 @@
+{
+  "id": "52859",
+  "name": "Key Lime Pie",
+  "cuisine": "American",
+  "fingerprint": "0d9523de390914257ca16174e7e0068c64c40dc0a6427d62f8e82b28c9cb1716",
+  "yield": 8,
+  "minutes": 270,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from standard key lime pie recipes using similar ingredient quantities (one 22cm/9-inch tart tin typically serves 8).",
+    "Preparation and cooking time summed from instructions (10 min bake crust + 1 min whisk + 3 min whisk + 3 min whisk + 15 min bake + cooling/3hr minimum chill); excludes optional overnight chill.",
+    "Digestive biscuits classified as containing wheat (standard UK digestive biscuits include wheat flour).",
+    "Butter classified as dairy.",
+    "Condensed milk classified as dairy.",
+    "Egg yolks classified as eggs.",
+    "Double cream classified as dairy.",
+    "Icing sugar assumed refined cane/beet sugar with no animal bone char processing specified.",
+    "Limes classified as compatible with all listed diets and free of listed allergens.",
+    "No tree nuts, peanuts, fish, shellfish, soy, or sesame ingredients listed or implied."
+  ],
+  "categories": [],
+  "instructions": "Heat the oven to 160C/fan 140C/gas 3. Whizz the biscuits to crumbs in a food processor (or put in a strong plastic bag and bash with a rolling pin). Mix with the melted butter and press into the base and up the sides of a 22cm loose-based tart tin. Bake in the oven for 10 minutes. Remove and cool.\r\nPut the egg yolks in a large bowl and whisk for a minute with electric beaters. Add the condensed milk and whisk for 3 minutes then add the zest and juice and whisk again for 3 minutes. Pour the filling into the cooled base then put back in the oven for 15 minutes. Cool then chill for at least 3 hours or overnight if you like.\r\nWhen you are ready to serve, carefully remove the pie from the tin and put on a serving plate. To decorate, softly whip together the cream and icing sugar. Dollop or pipe the cream onto the top of the pie and finish with extra lime zest.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qpqtuu1511386216.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Digestive Biscuits",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Standard digestive biscuits (sweet wheat cookies); values based on typical UK digestive biscuit nutrition for the full 300g package."
+    },
+    {
+      "position": 2,
+      "name": "Butter",
+      "measurement": "150g",
+      "grams": 150,
+      "assumptions": "Salted or unsalted butter; full 150g used as melted butter for crust, typical values for pure butter."
+    },
+    {
+      "position": 3,
+      "name": "Condensed Milk",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Sweetened condensed milk (full-fat, ~397g can rounded to 400g); standard values for the entire can contents poured into filling."
+    },
+    {
+      "position": 4,
+      "name": "Egg Yolks",
+      "measurement": "3",
+      "grams": 51,
+      "assumptions": "3 large egg yolks only (each ~17g); standard raw egg yolk nutrition applied to edible portion."
+    },
+    {
+      "position": 5,
+      "name": "Lime",
+      "measurement": "4",
+      "grams": 280,
+      "assumptions": "4 medium limes (~70g each with peel); entire fruit weight including zest and juice used in filling, typical lime nutrition."
+    },
+    {
+      "position": 6,
+      "name": "Double Cream",
+      "measurement": "300ml",
+      "grams": 300,
+      "assumptions": "Heavy/double cream (48% fat); full 300ml (~300g density-adjusted) for topping."
+    },
+    {
+      "position": 7,
+      "name": "Icing Sugar",
+      "measurement": "1 tbls",
+      "grams": 12,
+      "assumptions": "1 tablespoon icing/powdered sugar (~12g); standard granulated sugar-like values for the small amount whipped with cream."
+    },
+    {
+      "position": 8,
+      "name": "Lime",
+      "measurement": "to serve",
+      "grams": 20,
+      "assumptions": "Extra lime zest 'to serve' (equivalent to zest from ~0.5-1 lime or 20g); small plausible amount for garnish based on recipe context."
+    }
+  ],
+  "nutrition": {
+    "calories": 5198.11,
+    "protein": 68.66,
+    "fat": 340.77,
+    "fiber": 18,
+    "carbs": 478.18
+  }
+}

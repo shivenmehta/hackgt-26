@@ -1,0 +1,140 @@
+{
+  "id": "52945",
+  "name": "Kung Pao Chicken",
+  "cuisine": "Chinese",
+  "fingerprint": "090efffa9f64a5c27d325c6ce8dd2792816d54302fc72d8fffdb1579d0dc220c",
+  "yield": 4,
+  "minutes": 45,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": false,
+    "Peanuts": true,
+    "Wheat": true,
+    "Soy": true,
+    "Sesame": true
+  },
+  "assumptions": [
+    "Recipe serves 4 based on 500g chicken plus substantial vegetables/nuts/sauce typical for 4 adult portions in Chinese stir-fry style",
+    "Total time estimated from explicit 30 min marinade plus parallel sauce heating and chicken sautéing steps (prep ~10-15 min, cook ~10-15 min)",
+    "'Corn Flour' treated as cornstarch (no wheat)",
+    "'Soy Sauce' treated as containing wheat",
+    "'Sesame Seed Oil' treated as containing sesame",
+    "'Peanuts' treated as containing peanuts",
+    "'Sake' treated as rice wine with no allergens",
+    "No dairy, eggs, fish, shellfish, or tree nuts listed",
+    "'Chilli Powder' assumed pure dried chili with no additives"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Combine the sake or rice wine, soy sauce, sesame oil and cornflour dissolved in water. Divide mixture in half.\r\nIn a glass dish or bowl, combine half of the sake mixture with the chicken pieces and toss to coat. Cover dish and place in refrigerator for about 30 minutes.\r\nIn a medium frying pan, combine remaining sake mixture, chillies, vinegar and sugar. Mix together and add spring onion, garlic, water chestnuts and peanuts. Heat sauce slowly over medium heat until aromatic.\r\nMeanwhile, remove chicken from marinade and sauté in a large frying pan until juices run clear. When sauce is aromatic, add sautéed chicken and let simmer together until sauce thickens.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Sake",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Sake is ~15% ABV rice wine; 2 tbs = 30 ml, density ~1 g/ml, negligible macros per typical dry sake values."
+    },
+    {
+      "position": 2,
+      "name": "Soy Sauce",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Regular soy sauce; 2 tbs = 30 ml, density ~1.1 g/ml rounded to 30 g, typical sodium-rich profile with minor carbs from wheat."
+    },
+    {
+      "position": 3,
+      "name": "Sesame Seed Oil",
+      "measurement": "2 tbs",
+      "grams": 27,
+      "assumptions": "Toasted sesame oil; 2 tbs = 27 g (standard oil weight), pure fat."
+    },
+    {
+      "position": 4,
+      "name": "Corn Flour",
+      "measurement": "2 tbs",
+      "grams": 15,
+      "assumptions": "Cornstarch (corn flour); 2 tbs = ~15 g by volume weight, almost pure carbohydrate."
+    },
+    {
+      "position": 5,
+      "name": "Water",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Plain water; 2 tbs = 30 ml = 30 g, zero calories and macros."
+    },
+    {
+      "position": 6,
+      "name": "Chicken",
+      "measurement": "500g",
+      "grams": 500,
+      "assumptions": "Raw boneless skinless chicken breast/thigh mix typical for stir-fry; full 500 g edible weight used as listed."
+    },
+    {
+      "position": 7,
+      "name": "Chilli Powder",
+      "measurement": "1 tbs",
+      "grams": 8,
+      "assumptions": "Chili powder (ground dried chilies); 1 tbs = ~8 g, high-fiber spicy seasoning."
+    },
+    {
+      "position": 8,
+      "name": "Rice Vinegar",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "Rice vinegar; 1 tsp = 5 g, very low calorie acidic liquid."
+    },
+    {
+      "position": 9,
+      "name": "Brown Sugar",
+      "measurement": "1 tbs",
+      "grams": 12,
+      "assumptions": "Brown sugar; 1 tbs = 12 g packed, nearly pure sucrose."
+    },
+    {
+      "position": 10,
+      "name": "Spring Onions",
+      "measurement": "4 Chopped",
+      "grams": 60,
+      "assumptions": "4 medium spring onions (scallions), chopped; each ~15 g trimmed edible portion, total 60 g."
+    },
+    {
+      "position": 11,
+      "name": "Garlic Clove",
+      "measurement": "6 cloves",
+      "grams": 18,
+      "assumptions": "6 average garlic cloves, peeled; ~3 g each, total 18 g, typical bulb values."
+    },
+    {
+      "position": 12,
+      "name": "Water Chestnut",
+      "measurement": "220g",
+      "grams": 220,
+      "assumptions": "Canned water chestnuts, drained weight as listed (220 g can net); starchy, crisp vegetable."
+    },
+    {
+      "position": 13,
+      "name": "Peanuts",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Dry roasted peanuts, unsalted; full 100 g edible weight as listed, typical nut profile."
+    }
+  ],
+  "nutrition": {
+    "calories": 2105.97,
+    "protein": 191.1,
+    "fat": 95.49,
+    "fiber": 20.95,
+    "carbs": 111.02
+  }
+}

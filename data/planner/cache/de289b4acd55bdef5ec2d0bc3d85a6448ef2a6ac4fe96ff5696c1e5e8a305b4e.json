@@ -1,0 +1,147 @@
+{
+  "id": "53292",
+  "name": "Piernik (Polish gingerbread)",
+  "cuisine": "Polish",
+  "fingerprint": "de289b4acd55bdef5ec2d0bc3d85a6448ef2a6ac4fe96ff5696c1e5e8a305b4e",
+  "yield": 10,
+  "minutes": 110,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe makes one 20cm layered cake; estimated 10 servings based on standard cake portioning for this size and type.",
+    "Total time is sum of active prep/cooking steps plus minimum baking and cooling periods before glazing (approx. 15 min melt/mix, 55 min bake, 20 min pan cool, 30 min full cool, 10 min glaze).",
+    "Self-raising flour classified as containing wheat.",
+    "All spices and pepper treated as dry and wheat-free.",
+    "Plum jam assumed to contain only compatible fruit/sugar (no wheat/barley/rye).",
+    "Dark chocolate assumed dairy-free but not guaranteed; conservatively null for soy.",
+    "No tree nuts, peanuts, fish, shellfish, or sesame listed or implied.",
+    "Double cream and butter confirm dairy; eggs listed explicitly.",
+    "Instructions and ingredients reviewed directly; source dietary note acknowledged but not overriding."
+  ],
+  "categories": [],
+  "instructions": "Heat oven to 160C/140C fan/gas 3. Grease and line the base and sides of a deep 20cm cake tin with baking parchment. Put the honey, sugar and butter in a medium saucepan and cook over a medium heat until fully melted. Remove from the heat and allow to cool. Put the flour and spices in a large bowl and mix everything together.\r\n\r\nstep 2\r\nOnce the liquid ingredients have cooled, whisk in the eggs. Pour over the dry ingredients, whisking them together to form a smooth batter – be careful not to overmix as this can lead to a dry cake. Pour into the prepared tin and bake for 50-55 mins or until risen and a skewer inserted into the middle of the cake comes out clean. Allow the cake to cool in the pan for 20 mins before turning out onto a wire rack to cool completely.\r\n\r\nstep 3\r\nOnce cooled, use a large serrated knife to slice the cake into 3 layers. Spread the jam across the 2 bottom cake layers, then reassemble the cake and set aside while you make the glaze. Put the cream, chocolate and honey in a medium pan and cook over a low-medium heat until the chocolate is melted and you have a smooth, pourable mixture. Put the cake on a wire rack set over a parchment-lined baking tray and pour over the glaze, making sure to cover the entire cake. Use a fish slice to carefully transfer the cake to a serving plate and allow the glaze to set. To decorate, dust with a little edible gold powder, if you like. Uniced, this cake will keep for up to 5 days. Once iced, enjoy within 3 days – just keep in the fridge, but remove before serving and eat at room temperature.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/kwmdk41764120884.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Unsalted Butter",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "Standard unsalted butter values; fully used in batter."
+    },
+    {
+      "position": 2,
+      "name": "Clear Honey",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Typical clear/runny honey; entire 300g measurement melted into batter."
+    },
+    {
+      "position": 3,
+      "name": "Brown Sugar",
+      "measurement": "100g",
+      "grams": 100,
+      "assumptions": "Standard light brown sugar; fully incorporated."
+    },
+    {
+      "position": 4,
+      "name": "Self-raising Flour",
+      "measurement": "375g",
+      "grams": 375,
+      "assumptions": "Typical self-raising wheat flour; all used in dry mix."
+    },
+    {
+      "position": 5,
+      "name": "Ground Ginger",
+      "measurement": "3 tsp",
+      "grams": 6,
+      "assumptions": "3 tsp ground ginger ≈ 6g; typical dried spice density."
+    },
+    {
+      "position": 6,
+      "name": "Ground Cinnamon",
+      "measurement": "1 tsp",
+      "grams": 2.6,
+      "assumptions": "1 tsp ground cinnamon ≈ 2.6g; typical dried spice."
+    },
+    {
+      "position": 7,
+      "name": "Ground Clove",
+      "measurement": "1/2 teaspoon",
+      "grams": 1.2,
+      "assumptions": "½ tsp ground cloves ≈ 1.2g; typical dried spice."
+    },
+    {
+      "position": 8,
+      "name": "Ground Nutmeg",
+      "measurement": "1/4 tsp",
+      "grams": 0.6,
+      "assumptions": "¼ tsp ground nutmeg ≈ 0.6g; typical dried spice."
+    },
+    {
+      "position": 9,
+      "name": "Pepper",
+      "measurement": "1/4 tsp",
+      "grams": 0.6,
+      "assumptions": "¼ tsp ground black pepper ≈ 0.6g; typical dried spice."
+    },
+    {
+      "position": 10,
+      "name": "Egg",
+      "measurement": "3 Large",
+      "grams": 200,
+      "assumptions": "3 large eggs ≈ 200g total edible portion (no shell); whisked into cooled liquid."
+    },
+    {
+      "position": 11,
+      "name": "Plum Jam",
+      "measurement": "200g",
+      "grams": 200,
+      "assumptions": "200g plum jam spread between layers; standard fruit jam values."
+    },
+    {
+      "position": 12,
+      "name": "Double Cream",
+      "measurement": "225ml",
+      "grams": 225,
+      "assumptions": "225ml double/heavy cream (density ≈1g/ml) for chocolate glaze."
+    },
+    {
+      "position": 13,
+      "name": "Dark Chocolate",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "140g dark chocolate (70% cocoa typical); melted into glaze."
+    },
+    {
+      "position": 14,
+      "name": "Clear Honey",
+      "measurement": "3  tablespoons",
+      "grams": 60,
+      "assumptions": "3 tbsp clear honey ≈ 60g (20g per tbsp); added to glaze."
+    }
+  ],
+  "nutrition": {
+    "calories": 6515.94,
+    "protein": 78.38,
+    "fat": 309.18,
+    "fiber": 31.3,
+    "carbs": 856.83
+  }
+}

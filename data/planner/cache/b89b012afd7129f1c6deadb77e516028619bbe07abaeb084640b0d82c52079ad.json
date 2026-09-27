@@ -1,0 +1,166 @@
+{
+  "id": "52944",
+  "name": "Escovitch Fish",
+  "cuisine": "Jamaican",
+  "fingerprint": "b89b012afd7129f1c6deadb77e516028619bbe07abaeb084640b0d82c52079ad",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": true,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Recipe serves 4 based on 2 lb red snapper (standard portioning for whole fish in Jamaican escovitch recipes)",
+    "Total active and passive time estimated from instructions: ~10 min prep/rub, 10-14 min frying, 5-6 min sauce cooking",
+    "Worcestershire sauce introduces potential gluten (barley malt) and soy; conservatively marked ambiguous",
+    "No explicit dairy, eggs, tree nuts, peanuts, shellfish or sesame; confidently absent",
+    "Red snapper confirms fish allergen",
+    "All ingredients screened as listed; no barley/rye/wheat items except possible in Worcestershire",
+    "Thyme, bay leaf, scotch bonnet, lime, etc. treated as standard fresh produce/spices with no hidden allergens"
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Rinse fish; rub with lemon or lime, seasoned with salt and pepper or use your favorite seasoning. I used creole seasoning. Set aside or place in the oven to keep it warm until sauce is ready.\r\n\r\nIn large skillet heat oil over medium heat, until hot, add the fish, cook each side- for about 5-7 minutes until cooked through and crispy on both sides. Remove fish and set aside. Drain oil and leave about 2-3 tablespoons of oil\r\nAdd, bay leave, garlic and ginger, stir-fry for about a minute making sure the garlic does not burn\r\nThen add onion, bell peppers, thyme, scotch bonnet, sugar, all spice-continue stirring for about 2-3 minutes. Add vinegar, mix an adjust salt and pepper according to preference. Let it simmer for about 2 more minutes. \r\n\r\nDiscard bay leave, thyme spring and serve over fish with a side of this bammy. You may make the sauce about 2 days in advance.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Red Snapper",
+      "measurement": "2 Pounds",
+      "grams": 907,
+      "assumptions": "2 lb whole red snapper; typical edible portion after cleaning and cooking is nearly the full weight as fish is consumed almost entirely in this recipe context"
+    },
+    {
+      "position": 2,
+      "name": "Vegetable Oil",
+      "measurement": "1/2 cup",
+      "grams": 110,
+      "assumptions": "1/2 cup vegetable oil (density ~0.92 g/ml); used for frying, most is drained but full amount included as typical for nutrition estimate"
+    },
+    {
+      "position": 3,
+      "name": "Garlic",
+      "measurement": "1 clove peeled crushed",
+      "grams": 3,
+      "assumptions": "1 peeled crushed garlic clove; average medium clove weight"
+    },
+    {
+      "position": 4,
+      "name": "Ginger",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp grated ginger; typical density for fresh ginger root"
+    },
+    {
+      "position": 5,
+      "name": "Thyme",
+      "measurement": "2 sprigs",
+      "grams": 4,
+      "assumptions": "2 sprigs fresh thyme; typical small sprig weight ~2g each, leaves and stem"
+    },
+    {
+      "position": 6,
+      "name": "Bay Leaf",
+      "measurement": "1",
+      "grams": 0.5,
+      "assumptions": "1 bay leaf; negligible weight and nutrition contribution, estimated at 0.5g dry"
+    },
+    {
+      "position": 7,
+      "name": "Red Pepper",
+      "measurement": "0.5",
+      "grams": 60,
+      "assumptions": "0.5 red bell pepper; typical half pepper weight ~60g edible portion"
+    },
+    {
+      "position": 8,
+      "name": "Yellow Pepper",
+      "measurement": "0.5",
+      "grams": 60,
+      "assumptions": "0.5 yellow bell pepper; typical half pepper weight ~60g edible portion"
+    },
+    {
+      "position": 9,
+      "name": "Onion",
+      "measurement": "1 sliced",
+      "grams": 110,
+      "assumptions": "1 medium onion, sliced; typical whole onion weight ~110g"
+    },
+    {
+      "position": 10,
+      "name": "Carrots",
+      "measurement": "1 chopped",
+      "grams": 60,
+      "assumptions": "1 medium carrot, chopped; typical whole carrot weight ~60g"
+    },
+    {
+      "position": 11,
+      "name": "Sugar",
+      "measurement": "1 tbs",
+      "grams": 12,
+      "assumptions": "1 tablespoon granulated sugar; standard 12g per tbsp"
+    },
+    {
+      "position": 12,
+      "name": "Allspice",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 tsp ground allspice; typical spice density ~2g per tsp"
+    },
+    {
+      "position": 13,
+      "name": "Worcestershire Sauce",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp Worcestershire sauce; standard 5g per tsp"
+    },
+    {
+      "position": 14,
+      "name": "Scotch Bonnet",
+      "measurement": "1",
+      "grams": 5,
+      "assumptions": "1 whole scotch bonnet pepper; small chili, ~5g, nutrition negligible beyond trace heat"
+    },
+    {
+      "position": 15,
+      "name": "Lime",
+      "measurement": "1",
+      "grams": 50,
+      "assumptions": "1 lime used for rubbing; typical medium lime weight ~50g, juice and some pulp contribute"
+    },
+    {
+      "position": 16,
+      "name": "Malt Vinegar",
+      "measurement": "3/4 cup",
+      "grams": 180,
+      "assumptions": "3/4 cup malt vinegar; density ~1.01 g/ml, standard nutrition for vinegar"
+    },
+    {
+      "position": 17,
+      "name": "Pepper",
+      "measurement": "pinch",
+      "grams": 0.3,
+      "assumptions": "pinch of pepper; typical pinch ~0.3g, nutrition negligible"
+    }
+  ],
+  "nutrition": {
+    "calories": 2103.17,
+    "protein": 185.19,
+    "fat": 129.14,
+    "fiber": 8.86,
+    "carbs": 46.42
+  }
+}

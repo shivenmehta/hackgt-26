@@ -1,0 +1,114 @@
+{
+  "id": "53246",
+  "name": "Tangy carrot, cabbage & onion salad",
+  "cuisine": "Vietnamese",
+  "fingerprint": "bc3cb7e1804b3c16a019237b6d342aff51fc3a85fec0932181e00582e4e509fa",
+  "yield": 4,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": null,
+    "Peanuts": true,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical side salad portion sizes for listed vegetable quantities (roughly 1/4 of total veg per serving).",
+    "Preparation time estimated from quick chopping, mixing, and dressing steps in instructions (no cooking involved).",
+    "Peanuts classified as allergen due to explicit roasted peanuts ingredient; tree nuts left null as no tree nuts are listed.",
+    "All other allergens marked false as confidently absent from listed ingredients."
+  ],
+  "categories": [],
+  "instructions": "step 1\r\nTip the carrots, cabbage and onions into a bowl. Make the dressing by stirring the ingredients together until the sugar has dissolved. Pour over salad, tossing the vegetables in the dressing. Add the herbs, toss again, then scatter over the peanuts.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/dbazbg1763779999.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Carrots",
+      "measurement": "4 sliced",
+      "grams": 400,
+      "assumptions": "4 medium carrots, raw, edible portion only"
+    },
+    {
+      "position": 2,
+      "name": "Red Cabbage",
+      "measurement": "1/2",
+      "grams": 500,
+      "assumptions": "Half a medium head of red cabbage, raw, edible portion only"
+    },
+    {
+      "position": 3,
+      "name": "Red Onions",
+      "measurement": "2 sliced",
+      "grams": 220,
+      "assumptions": "2 medium red onions, raw, sliced, edible portion only"
+    },
+    {
+      "position": 4,
+      "name": "Mint",
+      "measurement": "Handful",
+      "grams": 20,
+      "assumptions": "A typical handful of fresh mint leaves"
+    },
+    {
+      "position": 5,
+      "name": "Coriander Leaves",
+      "measurement": "Handful",
+      "grams": 20,
+      "assumptions": "A typical handful of fresh coriander (cilantro) leaves"
+    },
+    {
+      "position": 6,
+      "name": "Roasted Peanut",
+      "measurement": "Handful",
+      "grams": 30,
+      "assumptions": "A typical handful of roasted peanuts, about 30 g"
+    },
+    {
+      "position": 7,
+      "name": "Lime",
+      "measurement": "Juice of 2",
+      "grams": 100,
+      "assumptions": "Juice of 2 limes, approx 100 ml, treated as 100 g of lime juice"
+    },
+    {
+      "position": 8,
+      "name": "Ground Nut Oil",
+      "measurement": "1 tablespoon",
+      "grams": 14,
+      "assumptions": "1 tablespoon of groundnut (peanut) oil"
+    },
+    {
+      "position": 9,
+      "name": "Red Chilli",
+      "measurement": "1 chopped",
+      "grams": 30,
+      "assumptions": "1 medium red chilli, chopped, approx 30 g edible portion"
+    },
+    {
+      "position": 10,
+      "name": "Brown Sugar",
+      "measurement": "1 tablespoon",
+      "grams": 12,
+      "assumptions": "1 tablespoon of brown sugar, approx 12 g"
+    }
+  ],
+  "nutrition": {
+    "calories": 806.26,
+    "protein": 22.73,
+    "fat": 30.78,
+    "fiber": 34.6,
+    "carbs": 129.11
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "id": "53376",
+  "name": "Sweet and Sour Chicken",
+  "cuisine": "Chinese",
+  "fingerprint": "057ac8cda2ac1494ec554beeb2e30706b29a4d9ffd60ad7c2d06d0c65a64f878",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": null,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Recipe serves 4 based on 1 lb chicken plus vegetables and standard stir-fry portions from similar recipes.",
+    "Total active and passive time estimated from instructions: ~15 min marinate + ~15-20 min cooking/assembly = 35 min total prep/cook time.",
+    "Egg white listed so Eggs allergen true; no explicit wheat in ingredients but ketchup often contains it so Wheat null.",
+    "No dairy, fish, shellfish, nuts, peanuts or sesame; no basis for Soy so null."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Coat the chicken with egg white:\r\nIn a bowl, combine the chicken with the egg white, 1/2 teaspoon kosher salt, and cornstarch. Stir to coat the chicken evenly. Let sit for 15 minutes at room temperature or up to overnight in the refrigerator.\r\n\r\nMake the sweet and sour sauce:\r\nWhisk together the pineapple juice, vinegar, ketchup, 1/2 teaspoon kosher salt, and brown sugar.\r\n\r\nStir-fry the chicken over high heat:\r\nHeat a large frying pan or wok over high heat until a bead of water instantly sizzles and evaporates. Pour in 1 tablespoon of cooking oil and swirl to coat. It's important that the pan is very hot.\r\n\r\nAdd the chicken and spread the pieces out in one layer. Let the chicken fry untouched for 1 minute, until the bottoms are browned.\r\n\r\nFlip and fry the other side for 1 minute. The chicken should still be pinkish in the middle. Dish out the chicken onto a clean plate, leaving as much oil in the pan as possible.\r\n\r\nStir-fry the bell pepper and ginger:\r\nReduce the heat to medium and add the remaining 1 teaspoon of cooking oil. Let the oil heat up before adding the bell pepper chunks and ginger. Fry for 1 minute.\r\n\r\nAdd the pineapple, sauce, and then, the chicken:\r\nAdd the pineapple chunks and the sweet and sour sauce. Turn up the heat to high. When the sauce is simmering, add the chicken pieces back in.\r\n\r\nLet simmer for 1 to 2 minutes, until the chicken is cooked through. Timing depends on how thick you've cut your chicken. The best way to tell if the chicken is done is to take a piece out and cut into it. If it's pink, add another minute to the cooking.\r\n\r\nAdjust the seasoning and serve:\r\nTaste the sauce and add more brown sugar or vinegar to suit your tastes, if you’d like.\r\n\r\nServe hot with steamed white or brown rice.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/arzs741766434335.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Chicken Thighs",
+      "measurement": "1 lb",
+      "grams": 454,
+      "assumptions": "Boneless skinless chicken thighs, raw weight; typical values for this cut."
+    },
+    {
+      "position": 2,
+      "name": "Egg White",
+      "measurement": "1 large",
+      "grams": 33,
+      "assumptions": "One large egg white is approximately 33 g."
+    },
+    {
+      "position": 3,
+      "name": "Kosher Salt",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp total kosher salt (split between chicken and sauce); negligible nutrition."
+    },
+    {
+      "position": 4,
+      "name": "Cornstarch",
+      "measurement": "2 tsp",
+      "grams": 5,
+      "assumptions": "2 tsp cornstarch weighs ~5 g."
+    },
+    {
+      "position": 5,
+      "name": "Pineapple Chunks",
+      "measurement": "10 oz",
+      "grams": 284,
+      "assumptions": "10 oz can of pineapple chunks in juice, drained weight used in dish; values for canned in juice."
+    },
+    {
+      "position": 6,
+      "name": "Pineapple Juice",
+      "measurement": "1/4 cup",
+      "grams": 60,
+      "assumptions": "1/4 cup (60 ml) pineapple juice from the can."
+    },
+    {
+      "position": 7,
+      "name": "White Vinegar",
+      "measurement": "1/4 cup",
+      "grams": 60,
+      "assumptions": "1/4 cup (60 ml) white vinegar; low-calorie."
+    },
+    {
+      "position": 8,
+      "name": "Tomato Ketchup",
+      "measurement": "1/4 cup",
+      "grams": 60,
+      "assumptions": "1/4 cup (60 g) tomato ketchup."
+    },
+    {
+      "position": 9,
+      "name": "Brown Sugar",
+      "measurement": "3  tablespoons",
+      "grams": 38,
+      "assumptions": "3 tablespoons packed brown sugar weighs ~38 g."
+    },
+    {
+      "position": 10,
+      "name": "Oil",
+      "measurement": "4 tsp",
+      "grams": 18,
+      "assumptions": "4 tsp neutral cooking oil (e.g. vegetable or canola); total used for stir-frying."
+    },
+    {
+      "position": 11,
+      "name": "Red Pepper",
+      "measurement": "1 chopped",
+      "grams": 120,
+      "assumptions": "1 medium red bell pepper, chopped; ~120 g edible portion."
+    },
+    {
+      "position": 12,
+      "name": "Yellow Pepper",
+      "measurement": "1 chopped",
+      "grams": 120,
+      "assumptions": "1 medium yellow bell pepper, chopped; ~120 g edible portion."
+    },
+    {
+      "position": 13,
+      "name": "Ginger",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp fresh grated ginger root; ~5 g."
+    }
+  ],
+  "nutrition": {
+    "calories": 1516.35,
+    "protein": 117.35,
+    "fat": 56.12,
+    "fiber": 8.89,
+    "carbs": 134.81
+  }
+}

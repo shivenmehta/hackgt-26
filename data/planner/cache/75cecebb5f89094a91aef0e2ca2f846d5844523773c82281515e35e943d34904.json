@@ -1,0 +1,132 @@
+{
+  "id": "52819",
+  "name": "Cajun spiced fish tacos",
+  "cuisine": "Mexican",
+  "fingerprint": "75cecebb5f89094a91aef0e2ca2f846d5844523773c82281515e35e943d34904",
+  "yield": 4,
+  "minutes": 20,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": true,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": null,
+    "Fish": true,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 4 white fish fillets as the primary protein, typically yielding 4 adult servings when divided among 8 tacos (2 per person).",
+    "Total time conservatively estimated from instructions: ~10 min active cooking for fish (in batches), plus ~5-10 min for prep of dressing, toppings, and tortillas; rounded to 20 min as a quick recipe.",
+    "Cajun spice treated as a generic seasoning blend (may contain wheat or other undeclared allergens).",
+    "Salsa treated as a generic tomato-based product (may contain undeclared allergens).",
+    "Sour cream is a dairy product, confirming Dairy-free=false and Milk=true.",
+    "Flour tortillas confirm Wheat=true and Gluten-free=false.",
+    "White fish confirms Fish=true and Pescatarian compatibility.",
+    "No tree nuts, peanuts, eggs, shellfish, soy, or sesame are listed or implied."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Cooking in a cajun spice and cayenne pepper marinade makes this fish super succulent and flavoursome. Top with a zesty dressing and serve in a tortilla for a quick, fuss-free main that's delightfully summery.\r\n\r\nOn a large plate, mix the cajun spice and cayenne pepper with a little seasoning and use to coat the fish all over.\r\n\r\nHeat a little oil in a frying pan, add in the fish and cook over a medium heat until golden. Reduce the heat and continue frying until the fish is cooked through, about 10 minutes. Cook in batches if you don’t have enough room in the pan.\r\n\r\nMeanwhile, prepare the dressing by combining all the ingredients with a little seasoning.\r\nSoften the tortillas by heating in the microwave for 5-10 seconds. Pile high with the avocado, lettuce and spring onion, add a spoonful of salsa, top with large flakes of fish and drizzle over the dressing.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "cajun",
+      "measurement": "2 tbsp",
+      "grams": 15,
+      "assumptions": "Typical Cajun seasoning blend; 1 tbsp ≈ 7.5 g, so 2 tbsp = 15 g total. Nutrients based on average commercial Cajun spice mix with salt, paprika, onion, garlic, herbs."
+    },
+    {
+      "position": 2,
+      "name": "cayenne pepper",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "Ground cayenne pepper; 1 tsp ≈ 1.8-2 g. High-fiber spice with typical pepper nutrition values."
+    },
+    {
+      "position": 3,
+      "name": "white fish",
+      "measurement": "4 fillets",
+      "grams": 600,
+      "assumptions": "4 typical white fish fillets (e.g. cod, tilapia or pollock); ≈150 g each raw edible portion. Low-fat, high-protein white fish values."
+    },
+    {
+      "position": 4,
+      "name": "vegetable oil",
+      "measurement": "1 tsp",
+      "grams": 5,
+      "assumptions": "1 tsp vegetable oil for frying; standard cooking oil density ≈0.92 g/ml so ≈4.6 g rounded to 5 g. Pure fat."
+    },
+    {
+      "position": 5,
+      "name": "flour tortilla",
+      "measurement": "8",
+      "grams": 320,
+      "assumptions": "8 standard 6-inch flour tortillas; ≈40 g each based on common package sizes (total 320 g). Typical soft flour tortilla nutrition."
+    },
+    {
+      "position": 6,
+      "name": "avocado",
+      "measurement": "1 sliced",
+      "grams": 150,
+      "assumptions": "1 medium avocado (flesh only, sliced); typical edible portion ≈136-170 g. Rounded to 150 g using standard avocado values."
+    },
+    {
+      "position": 7,
+      "name": "little gem lettuce",
+      "measurement": "2 shredded",
+      "grams": 100,
+      "assumptions": "2 heads little gem lettuce, shredded; typical total edible weight ≈90-120 g. Low-calorie leafy green values."
+    },
+    {
+      "position": 8,
+      "name": "Spring Onions",
+      "measurement": "4 shredded",
+      "grams": 60,
+      "assumptions": "4 medium spring onions (green onions), shredded; ≈15 g each trimmed, total 60 g. Standard spring onion nutrition."
+    },
+    {
+      "position": 9,
+      "name": "salsa",
+      "measurement": "1 x 300ml",
+      "grams": 300,
+      "assumptions": "1 x 300 ml jar/bottle of prepared tomato salsa; density ≈1 g/ml so 300 g. Typical mild salsa nutrition (low-fat, tomato-based)."
+    },
+    {
+      "position": 10,
+      "name": "sour cream",
+      "measurement": "1 pot",
+      "grams": 200,
+      "assumptions": "1 standard 200 ml pot of sour cream; density ≈1 g/ml so 200 g. Typical full-fat sour cream values."
+    },
+    {
+      "position": 11,
+      "name": "lemon",
+      "measurement": "1",
+      "grams": 100,
+      "assumptions": "Juice and some zest from 1 medium lemon; typical whole lemon ≈100-120 g, using edible/juiced portion values for dressing."
+    },
+    {
+      "position": 12,
+      "name": "garlic",
+      "measurement": "1 clove finely chopped",
+      "grams": 5,
+      "assumptions": "1 clove garlic, finely chopped; typical clove ≈3-6 g, using 5 g average. Standard raw garlic nutrition."
+    }
+  ],
+  "nutrition": {
+    "calories": 2481.21,
+    "protein": 181.46,
+    "fat": 100.49,
+    "fiber": 35.79,
+    "carbs": 232.74
+  }
+}

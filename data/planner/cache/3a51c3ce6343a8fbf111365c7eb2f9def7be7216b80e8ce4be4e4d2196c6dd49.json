@@ -1,0 +1,125 @@
+{
+  "id": "53240",
+  "name": "Tofu, greens & cashew stir-fry",
+  "cuisine": "Vietnamese",
+  "fingerprint": "3a51c3ce6343a8fbf111365c7eb2f9def7be7216b80e8ce4be4e4d2196c6dd49",
+  "yield": 2,
+  "minutes": 15,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": null,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": null,
+    "Shellfish": false,
+    "Tree nuts": true,
+    "Peanuts": null,
+    "Wheat": null,
+    "Soy": true,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated at 2 servings based on total ingredient quantities (e.g. 300g tofu, 225g broccoli, 140g soya beans) typical for 2 adult portions in a stir-fry.",
+    "Hoisin sauce assumed to contain wheat and soy (common in commercial versions) leading to null for gluten-free and true for soy allergen.",
+    "Soy sauce assumed to contain wheat (common unless specified otherwise) leading to null for gluten-free.",
+    "Cashew nuts trigger tree nuts allergen as true.",
+    "No explicit dairy, eggs, fish, shellfish, peanuts, or sesame in listed ingredients.",
+    "Vegan/vegetarian true as all ingredients (tofu, vegetables, sauces, nuts) are plant-based with no meat/dairy/eggs.",
+    "Pescatarian true due to absence of meat but presence of fish allergen as null (no fish present).",
+    "Preparation time estimated at 15 minutes: ~5 min for broccoli, ~1 min for garlic/chilli, ~2-3 min stir-fry, plus minimal additional time implied; no separate prep step detailed."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "step 1\r\nHeat the oil in a non-stick wok. Add the broccoli, then fry on a high heat for 5 mins or until just tender, adding a little water if it begins to catch. Add the garlic and chilli, fry for 1 min, then toss through the spring onions, soya beans, pak choi and tofu. Stir-fry for 2-3 mins. Add the hoisin, soy and nuts to warm through.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/minfsc1763766806.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Vegetable Oil",
+      "measurement": "1 tablespoon",
+      "grams": 14,
+      "assumptions": "1 tbsp vegetable oil is 14g; 100% fat assumed for typical neutral oil."
+    },
+    {
+      "position": 2,
+      "name": "Broccoli",
+      "measurement": "1 head",
+      "grams": 225,
+      "assumptions": "1 medium head of broccoli estimated at 225g edible raw weight based on typical recipe usage."
+    },
+    {
+      "position": 3,
+      "name": "Garlic Clove",
+      "measurement": "4 sliced",
+      "grams": 12,
+      "assumptions": "4 cloves garlic total ~12g; standard raw garlic nutrient profile."
+    },
+    {
+      "position": 4,
+      "name": "Red Chilli",
+      "measurement": "1 sliced",
+      "grams": 30,
+      "assumptions": "1 medium red chilli ~30g whole (edible portion after slicing)."
+    },
+    {
+      "position": 5,
+      "name": "Spring Onions",
+      "measurement": "1  bunch",
+      "grams": 100,
+      "assumptions": "1 bunch spring onions estimated at 100g edible raw weight."
+    },
+    {
+      "position": 6,
+      "name": "Soya Bean",
+      "measurement": "140g",
+      "grams": 140,
+      "assumptions": "Soya beans (edamame) given as 140g; typical values for cooked/frozen."
+    },
+    {
+      "position": 7,
+      "name": "Pak Choi",
+      "measurement": "2 heads",
+      "grams": 170,
+      "assumptions": "2 heads pak choi estimated at 170g total edible raw weight."
+    },
+    {
+      "position": 8,
+      "name": "Marinated Tofu",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Marinated tofu given as 300g; typical values for firm marinated tofu."
+    },
+    {
+      "position": 9,
+      "name": "Hoisin Sauce",
+      "measurement": "1 ½ tbsp",
+      "grams": 23,
+      "assumptions": "1.5 tbsp hoisin sauce ~23g; standard commercial hoisin values."
+    },
+    {
+      "position": 10,
+      "name": "Soy Sauce",
+      "measurement": "1 tablespoon",
+      "grams": 15,
+      "assumptions": "1 tbsp soy sauce ~15g; typical reduced-sodium profile."
+    },
+    {
+      "position": 11,
+      "name": "Cashew Nuts",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "Cashew nuts given as 25g; standard roasted/salted profile."
+    }
+  ],
+  "nutrition": {
+    "calories": 1122.89,
+    "protein": 87.28,
+    "fat": 62.74,
+    "fiber": 23.81,
+    "carbs": 73.28
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "52906",
+  "name": "Flamiche",
+  "cuisine": "French",
+  "fingerprint": "72a982d7e82fdb93919eebb29a35ca482bba639ea1d215b5b48ccec1a40e6053",
+  "yield": 6,
+  "minutes": 90,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": null,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": true,
+    "Soy": false,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from standard leek tart/flan recipes using similar 23cm tin and 1kg leeks (typically serves 6).",
+    "Total time summed from instructions: pastry prep/chill ~25 min + leek cooking ~12 min + blind bake ~25-30 min + final bake 35-40 min + 10 min rest = ~90-120 min; conservatively 90 min active/passive prep-to-serve.",
+    "Lard (animal fat) makes Vegetarian false per conservative classification and source dietary notes.",
+    "Wheat from plain flour makes Gluten-free and Wheat allergen true.",
+    "Dairy from butter, crème fraîche, cheddar, and milk-derived components makes Dairy-free false.",
+    "Eggs from whole egg and yolks make Eggs allergen true."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "For the pastry, sift the flour and salt into the bowl of a food processor, add the butter and lard, then whizz together briefly until the mixture looks like fine breadcrumbs. Tip the mixture into a bowl, then stir in the cheese and enough of the water for the mixture to come together. Tip out onto a lightly floured surface and knead briefly until smooth. Roll out thinly and line a 23cm x 4cm loose-?bottomed fluted flan tin. Prick the base with a fork. Chill for 20 minutes.\r\n02.Melt the 75g butter in a saucepan over a low heat, then add the leeks and the salt. Cover and cook for ?10 minutes until soft. Uncover the pan, increase the heat and cook ?for 2 minutes, stirring occasionally, until the liquid has evaporated. Spoon onto a plate and leave to cool.\r\n03.Preheat the oven to 200°C/fan180°C/gas 6. Line the pastry case with baking paper and baking beans or rice and blind bake for 15-20 minutes until the edges are biscuit-coloured. Remove the paper and beans/rice and return the case to the oven for 7-10 minutes until the base is crisp and lightly golden. Remove and set aside. Reduce the oven temperature to 190°C/fan170°C/gas 5.\r\n04.Put the crème fraîche into a bowl with the whole egg, egg yolks and nutmeg. Lightly beat together, then season. Stir in the leeks. Spoon ?the mixture into the tart case and bake for 35-40 minutes until set ?and lightly golden. Remove from ?the oven and leave for 10 minutes. Take out of the tin and serve.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/wssvvs1511785879.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Butter",
+      "measurement": "75g",
+      "grams": 75,
+      "assumptions": "Standard unsalted butter; used in leek cooking step."
+    },
+    {
+      "position": 2,
+      "name": "Leek",
+      "measurement": "1kg",
+      "grams": 1000,
+      "assumptions": "Raw leeks; entire 1kg measurement as listed, trimmed but including typical edible white/green portions before cooking down."
+    },
+    {
+      "position": 3,
+      "name": "Salt",
+      "measurement": "½ tsp",
+      "grams": 3,
+      "assumptions": "Table salt; ½ tsp ≈ 3g, negligible macros."
+    },
+    {
+      "position": 4,
+      "name": "Creme Fraiche",
+      "measurement": "300ml",
+      "grams": 300,
+      "assumptions": "Full-fat crème fraîche; 300ml ≈ 300g assuming density near 1 g/ml, typical values."
+    },
+    {
+      "position": 5,
+      "name": "Egg",
+      "measurement": "1",
+      "grams": 50,
+      "assumptions": "Large whole egg; 1 egg ≈ 50g edible portion without shell."
+    },
+    {
+      "position": 6,
+      "name": "Egg Yolks",
+      "measurement": "3",
+      "grams": 51,
+      "assumptions": "3 large egg yolks; ≈17g each for total 51g, standard values."
+    },
+    {
+      "position": 7,
+      "name": "Nutmeg",
+      "measurement": "¼ teaspoon",
+      "grams": 1,
+      "assumptions": "Ground nutmeg; ¼ tsp ≈ 0.6-1g rounded to 1g, typical spice values."
+    },
+    {
+      "position": 8,
+      "name": "Plain Flour",
+      "measurement": "225g",
+      "grams": 225,
+      "assumptions": "Standard plain white wheat flour; full 225g as listed."
+    },
+    {
+      "position": 9,
+      "name": "Salt",
+      "measurement": "½ tsp",
+      "grams": 3,
+      "assumptions": "Table salt; ½ tsp ≈ 3g, negligible macros."
+    },
+    {
+      "position": 10,
+      "name": "Butter",
+      "measurement": "60g",
+      "grams": 60,
+      "assumptions": "Standard unsalted butter; used in pastry."
+    },
+    {
+      "position": 11,
+      "name": "Lard",
+      "measurement": "60g",
+      "grams": 60,
+      "assumptions": "Standard lard (pork fat); full 60g as listed."
+    },
+    {
+      "position": 12,
+      "name": "Cheddar Cheese",
+      "measurement": "50g",
+      "grams": 50,
+      "assumptions": "Mature cheddar cheese; full 50g as listed, grated."
+    },
+    {
+      "position": 13,
+      "name": "Water",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Cold water; 2 tbs ≈ 30ml ≈ 30g, negligible macros."
+    }
+  ],
+  "nutrition": {
+    "calories": 4396.87,
+    "protein": 72.58,
+    "fat": 315.13,
+    "fiber": 24.28,
+    "carbs": 323.46
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "52977",
+  "name": "Corba",
+  "cuisine": "Turkish",
+  "fingerprint": "1dcd4349afc472c88dabc5a6292327abc464f1d1a549be986ae1f4f7fae839e8",
+  "yield": 4,
+  "minutes": 35,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": false,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from typical lentil soup recipes using 1 cup dry lentils + 5 cups liquid, which usually serves 4 as a side or starter.",
+    "Preparation time summed from explicit instruction steps (onion/carrot sauté ~6 min, tomato/spice bloom ~1 min, simmer 15-20 min, blend ~2-3 min) plus ~5 min for prep/rinsing, rounded conservatively.",
+    "All ingredients are plant-based and compatible with listed diets; no animal products or derivatives detected.",
+    "No wheat, barley, rye, or oats; gluten-free classification holds assuming vegetable stock is certified gluten-free (standard for commercial broth).",
+    "No milk, eggs, fish, shellfish, tree nuts, peanuts, or soy detected in listed ingredients.",
+    "Sesame left null as it is not mentioned and could be an ambiguous additive in some commercial vegetable stocks."
+  ],
+  "categories": [],
+  "instructions": "Pick through your lentils for any foreign debris, rinse them 2 or 3 times, drain, and set aside.  Fair warning, this will probably turn your lentils into a solid block that you’ll have to break up later\r\nIn a large pot over medium-high heat, sauté the olive oil and the onion with a pinch of salt for about 3 minutes, then add the carrots and cook for another 3 minutes.\r\nAdd the tomato paste and stir it around for around 1 minute. Now add the cumin, paprika, mint, thyme, black pepper, and red pepper as quickly as you can and stir for 10 seconds to bloom the spices. Congratulate yourself on how amazing your house now smells.\r\nImmediately add the lentils, water, broth, and salt. Bring the soup to a (gentle) boil.\r\nAfter it has come to a boil, reduce heat to medium-low, cover the pot halfway, and cook for 15-20 minutes or until the lentils have fallen apart and the carrots are completely cooked.\r\nAfter the soup has cooked and the lentils are tender, blend the soup either in a blender or simply use a hand blender to reach the consistency you desire. Taste for seasoning and add more salt if necessary.\r\nServe with crushed-up crackers, torn up bread, or something else to add some extra thickness.  You could also use a traditional thickener (like cornstarch or flour), but I prefer to add crackers for some texture and saltiness.  Makes great leftovers, stays good in the fridge for about a week.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Lentils",
+      "measurement": "1 cup",
+      "grams": 200,
+      "assumptions": "Dry brown lentils (typical for Turkish lentil soup); 1 cup dry lentils weighs ~200g; values for uncooked as they are added dry and absorb liquid during cooking."
+    },
+    {
+      "position": 2,
+      "name": "Onion",
+      "measurement": "1 large",
+      "grams": 150,
+      "assumptions": "1 large onion ~150g peeled and chopped; standard yellow onion values."
+    },
+    {
+      "position": 3,
+      "name": "Carrots",
+      "measurement": "1 large",
+      "grams": 80,
+      "assumptions": "1 large carrot ~80g peeled and chopped; standard raw carrot values."
+    },
+    {
+      "position": 4,
+      "name": "Tomato Puree",
+      "measurement": "1 tbs",
+      "grams": 15,
+      "assumptions": "1 tablespoon tomato puree/paste ~15g; typical canned tomato paste values."
+    },
+    {
+      "position": 5,
+      "name": "Cumin",
+      "measurement": "2 tsp",
+      "grams": 4,
+      "assumptions": "2 teaspoons ground cumin ~4g; standard spice values (small contribution)."
+    },
+    {
+      "position": 6,
+      "name": "Paprika",
+      "measurement": "1 tsp",
+      "grams": 2,
+      "assumptions": "1 teaspoon paprika ~2g; standard spice values (small contribution)."
+    },
+    {
+      "position": 7,
+      "name": "Mint",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 teaspoon dried mint ~1g; standard herb values (small contribution)."
+    },
+    {
+      "position": 8,
+      "name": "Thyme",
+      "measurement": "1/2 tsp",
+      "grams": 1,
+      "assumptions": "1/2 teaspoon dried thyme ~1g; standard herb values (small contribution)."
+    },
+    {
+      "position": 9,
+      "name": "Black Pepper",
+      "measurement": "1/4 tsp",
+      "grams": 0.5,
+      "assumptions": "1/4 teaspoon ground black pepper ~0.5g; standard spice values (small contribution)."
+    },
+    {
+      "position": 10,
+      "name": "Red Pepper Flakes",
+      "measurement": "1/4 tsp",
+      "grams": 0.5,
+      "assumptions": "1/4 teaspoon red pepper flakes ~0.5g; standard chili flake values (small contribution)."
+    },
+    {
+      "position": 11,
+      "name": "Vegetable Stock",
+      "measurement": "4 cups",
+      "grams": 960,
+      "assumptions": "4 cups vegetable stock/broth ~960g (240g per cup); typical low-calorie commercial vegetable broth values, mostly water-based."
+    },
+    {
+      "position": 12,
+      "name": "Water",
+      "measurement": "1 cup",
+      "grams": 240,
+      "assumptions": "1 cup water ~240g; zero calories and macros."
+    },
+    {
+      "position": 13,
+      "name": "Sea Salt",
+      "measurement": "Pinch",
+      "grams": 2,
+      "assumptions": "Pinch of sea salt estimated at ~2g for seasoning the whole pot; zero calories and macros."
+    }
+  ],
+  "nutrition": {
+    "calories": 888.01,
+    "protein": 58.37,
+    "fat": 5.83,
+    "fiber": 29.58,
+    "carbs": 159.9
+  }
+}

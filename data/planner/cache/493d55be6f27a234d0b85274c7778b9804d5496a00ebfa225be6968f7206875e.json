@@ -1,0 +1,150 @@
+{
+  "id": "52874",
+  "name": "Beef and Mustard Pie",
+  "cuisine": "British",
+  "fingerprint": "493d55be6f27a234d0b85274c7778b9804d5496a00ebfa225be6968f7206875e",
+  "yield": 6,
+  "minutes": 210,
+  "diets": {
+    "Vegetarian": false,
+    "Vegan": false,
+    "Pescatarian": false,
+    "Gluten-free": false,
+    "Dairy-free": false
+  },
+  "allergens": {
+    "Milk": true,
+    "Eggs": true,
+    "Fish": null,
+    "Shellfish": null,
+    "Tree nuts": null,
+    "Peanuts": null,
+    "Wheat": true,
+    "Soy": null,
+    "Sesame": null
+  },
+  "assumptions": [
+    "Yield estimated from 1 kg beef plus vegetables and 400 g pastry, typical for 6 adult main-dish servings of a casserole pie.",
+    "Preparation and cooking time summed from instructions: ~30 min browning/simmer prep + 120 min oven braise + 30 min assembly/baking + 5 min beans = ~185 min; rounded up conservatively to 210 min total active and passive time.",
+    "Plain flour classified as wheat-containing; puff pastry assumed to contain wheat and possibly dairy fats; butter is dairy; egg yolks present; mustard, stock, and wine assumed free of listed allergens unless specified.",
+    "Thyme, salt, pepper, oil, wine, onion, carrots, and green beans introduce no listed allergens.",
+    "No vegan/vegetarian compatibility due to beef, stock, butter, and egg; not pescatarian due to beef; not gluten-free due to flour and pastry; not dairy-free due to butter and possible pastry dairy."
+  ],
+  "categories": ["lunch", "dinner"],
+  "instructions": "Preheat the oven to 150C/300F/Gas 2.\r\nToss the beef and flour together in a bowl with some salt and black pepper.\r\nHeat a large casserole until hot, add half of the rapeseed oil and enough of the beef to just cover the bottom of the casserole.\r\nFry until browned on each side, then remove and set aside. Repeat with the remaining oil and beef.\r\nReturn the beef to the pan, add the wine and cook until the volume of liquid has reduced by half, then add the stock, onion, carrots, thyme and mustard, and season well with salt and pepper.\r\nCover with a lid and place in the oven for two hours.\r\nRemove from the oven, check the seasoning and set aside to cool. Remove the thyme.\r\nWhen the beef is cool and you're ready to assemble the pie, preheat the oven to 200C/400F/Gas 6.\r\nTransfer the beef to a pie dish, brush the rim with the beaten egg yolks and lay the pastry over the top. Brush the top of the pastry with more beaten egg.\r\nTrim the pastry so there is just enough excess to crimp the edges, then place in the oven and bake for 30 minutes, or until the pastry is golden-brown and cooked through.\r\nFor the green beans, bring a saucepan of salted water to the boil, add the beans and cook for 4-5 minutes, or until just tender.\r\nDrain and toss with the butter, then season with black pepper.\r\nTo serve, place a large spoonful of pie onto each plate with some green beans alongside.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Beef",
+      "measurement": "1kg",
+      "grams": 1000,
+      "assumptions": "Raw beef stewing/casserole cut, typical values for lean braising steak; edible portion after trimming visible fat."
+    },
+    {
+      "position": 2,
+      "name": "Plain Flour",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Plain white wheat flour; 2 tablespoons ≈ 30 g standard household measure."
+    },
+    {
+      "position": 3,
+      "name": "Rapeseed Oil",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Rapeseed (canola) oil; 2 tablespoons ≈ 30 g (≈ 2 tbsp volume at typical density); used for frying, all oil is included in estimate."
+    },
+    {
+      "position": 4,
+      "name": "Red Wine",
+      "measurement": "200ml",
+      "grams": 200,
+      "assumptions": "Red wine; 200 ml volume converted at ≈1 g/ml density; alcohol and sugars contribute to carbs."
+    },
+    {
+      "position": 5,
+      "name": "Beef Stock",
+      "measurement": "400ml",
+      "grams": 400,
+      "assumptions": "Beef stock/broth; 400 ml volume converted at ≈1 g/ml; typical low-fat, low-carb commercial or homemade stock values."
+    },
+    {
+      "position": 6,
+      "name": "Onion",
+      "measurement": "1 finely sliced",
+      "grams": 110,
+      "assumptions": "1 medium onion (≈110 g) finely sliced; raw weight, typical brown onion."
+    },
+    {
+      "position": 7,
+      "name": "Carrots",
+      "measurement": "2 chopped",
+      "grams": 120,
+      "assumptions": "2 medium carrots (≈120 g total) chopped; raw weight, edible portion after peeling assumed minimal."
+    },
+    {
+      "position": 8,
+      "name": "Thyme",
+      "measurement": "3 sprigs",
+      "grams": 5,
+      "assumptions": "3 sprigs fresh thyme (≈5 g total leaves and stems); typical fresh herb weight; high fiber from stems/leaves."
+    },
+    {
+      "position": 9,
+      "name": "Mustard",
+      "measurement": "2 tbs",
+      "grams": 30,
+      "assumptions": "Wholegrain or Dijon mustard; 2 tablespoons ≈ 30 g standard household measure."
+    },
+    {
+      "position": 10,
+      "name": "Egg Yolks",
+      "measurement": "2 free-range",
+      "grams": 34,
+      "assumptions": "2 free-range egg yolks; standard large yolk ≈17 g each, total 34 g; negligible carbs."
+    },
+    {
+      "position": 11,
+      "name": "Puff Pastry",
+      "measurement": "400g",
+      "grams": 400,
+      "assumptions": "Ready-rolled puff pastry; 400 g as given, typical all-butter or vegetable-fat commercial sheet values."
+    },
+    {
+      "position": 12,
+      "name": "Green Beans",
+      "measurement": "300g",
+      "grams": 300,
+      "assumptions": "Fresh green beans; 300 g as given, raw trimmed weight, boiled until tender."
+    },
+    {
+      "position": 13,
+      "name": "Butter",
+      "measurement": "25g",
+      "grams": 25,
+      "assumptions": "Butter; 25 g as given, typical unsalted butter."
+    },
+    {
+      "position": 14,
+      "name": "Salt",
+      "measurement": "pinch",
+      "grams": 2,
+      "assumptions": "Salt; 'pinch' estimated at 2 g total used in recipe (beef, beans, seasoning); contributes negligible macros/calories."
+    },
+    {
+      "position": 15,
+      "name": "Pepper",
+      "measurement": "pinch",
+      "grams": 2,
+      "assumptions": "Black pepper; 'pinch' estimated at 2 g total used in recipe (beef, beans, seasoning); contributes negligible macros/calories."
+    }
+  ],
+  "nutrition": {
+    "calories": 4458.93,
+    "protein": 306.18,
+    "fat": 252.96,
+    "fiber": 23.93,
+    "carbs": 219.94
+  }
+}

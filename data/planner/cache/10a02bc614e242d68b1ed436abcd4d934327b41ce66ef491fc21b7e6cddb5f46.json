@@ -1,0 +1,81 @@
+{
+  "id": "52914",
+  "name": "Boulangère Potatoes",
+  "cuisine": "French",
+  "fingerprint": "10a02bc614e242d68b1ed436abcd4d934327b41ce66ef491fc21b7e6cddb5f46",
+  "yield": 6,
+  "minutes": 70,
+  "diets": {
+    "Vegetarian": true,
+    "Vegan": true,
+    "Pescatarian": true,
+    "Gluten-free": true,
+    "Dairy-free": true
+  },
+  "allergens": {
+    "Milk": false,
+    "Eggs": false,
+    "Fish": false,
+    "Shellfish": false,
+    "Tree nuts": false,
+    "Peanuts": false,
+    "Wheat": false,
+    "Soy": null,
+    "Sesame": false
+  },
+  "assumptions": [
+    "Yield estimated from typical 1.5kg potato gratin recipes serving 6 as a side dish.",
+    "Total time is sum of ~5 min frying + 50-60 min baking (using upper end); oven preheating not added as unspecified.",
+    "Thyme sprigs treated as leaves only for classification (stems removed before or during eating).",
+    "Vegetable stock treated as compatible with all listed diets (no meat, dairy, or gluten assumed).",
+    "No wheat, barley, rye, or oats present; gluten-free confirmed via ingredients.",
+    "No dairy, eggs, fish, shellfish, tree nuts, peanuts, or sesame listed."
+  ],
+  "categories": [],
+  "instructions": "Heat oven to 200C/fan 180C/gas 6. Fry the onions and thyme sprigs in the oil until softened and lightly coloured (about 5 mins).\r\nSpread a layer of potatoes over the base of a 1.5-litre oiled gratin dish. Sprinkle over a few onions (see picture, above) and continue layering, finishing with a layer of potatoes. Pour over the stock and bake for 50-60 mins until the potatoes are cooked and the top is golden and crisp.",
+  "imageUrl": "https://www.themealdb.com/images/media/meals/qywups1511796761.jpg",
+  "ingredients": [
+    {
+      "position": 1,
+      "name": "Onions",
+      "measurement": "2 finely chopped",
+      "grams": 220,
+      "assumptions": "2 medium onions at ~110g each, raw weight, finely chopped as per recipe; typical white/yellow onion values."
+    },
+    {
+      "position": 2,
+      "name": "Thyme",
+      "measurement": "sprigs of fresh",
+      "grams": 10,
+      "assumptions": "A few sprigs of fresh thyme estimated at 10g total (plausible small bunch for flavoring the onions); standard fresh thyme nutrient profile."
+    },
+    {
+      "position": 3,
+      "name": "Olive Oil",
+      "measurement": "2 tbs",
+      "grams": 27,
+      "assumptions": "2 tablespoons olive oil; standard density ~13.5g per tbsp, used for frying onions as instructed."
+    },
+    {
+      "position": 4,
+      "name": "Potatoes",
+      "measurement": "1.5kg",
+      "grams": 1500,
+      "assumptions": "1.5kg potatoes, raw peeled weight typical for Boulangère Potatoes recipe; standard white potato values, as they are layered and baked."
+    },
+    {
+      "position": 5,
+      "name": "Vegetable Stock",
+      "measurement": "425g",
+      "grams": 425,
+      "assumptions": "425g vegetable stock (as measured); typical low-calorie stock values, poured over the layered dish before baking."
+    }
+  ],
+  "nutrition": {
+    "calories": 1530.33,
+    "protein": 33.41,
+    "fat": 28.89,
+    "fiber": 38.59,
+    "carbs": 286.91
+  }
+}
